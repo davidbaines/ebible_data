@@ -1,0 +1,14 @@
+# Ignore logs
+logs/
+
+# Ignore private folders
+private_*/
+
+#Don't include downloads or projects which are essentially duplicate data.
+downloads/
+projects/
+
+#Ignore everything in metadata except for ebible_status.csv and vref.txt
+metadata/*
+!metadata/ebible_status.csv
+!metadata/vref.txt
