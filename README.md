@@ -16,7 +16,7 @@ The corpus is compiled from multiple Bible translations all downloaded from eBib
 The scripts, tools, and methodologies used to gather, process, and align the translations in this corpus are maintained within other repositories (`ebible_code`) and SIL Global's  Language Software Development's SILNLP repo.
 
 Key metadata files include:
-*   `metadata/ebible_data.csv`: Provides status information about the included eBible versions.
+*   `metadata/ebible_status.csv`: Provides status information about the included eBible versions.
 *   `metadata/vref.txt`: Contains the standard Bible verse reference system used for alignment.
 
 Intermediate files generated during the process (like raw downloads or project-specific files) are excluded from this repository (see `.gitignore`).
