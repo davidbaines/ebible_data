@@ -13,7 +13,7 @@ The corpus is compiled from multiple Bible translations all downloaded from eBib
 **Important:** Please consult the specific license associated with each translation before using it in your work. Licensing information can typically be found in the `metadata/ebible_status.csv` file.
 
 ## Data Creation Process
-The scripts, tools, and methodologies used to gather, process, and align the translations in this corpus are maintained within other repositories (`ebible_code`) and SIL Global's Language Software Development's [SILNLP](https://github.com/sillsdev/silnlp) repo.
+The scripts, tools, and methodologies used to gather, process, and align the translations in this corpus are maintained within other repositories [ebible_code](https://github.com/davidbaines/ebible_code/) and SIL Global's Language Software Development's [SILNLP](https://github.com/sillsdev/silnlp) repo.
 
 Key metadata files include:
 *   `metadata/ebible_status.csv`: Provides status information about the included eBible versions.
