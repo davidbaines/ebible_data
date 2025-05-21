@@ -926,6 +926,7 @@ Pa inge eot ma nga elosak ac eot lulap se mwe esmakin inmasrlok kom.
 Yol se inge ac eot in esmakin se inge kewa ma in akesmakinye kut. Nga fah tia aliki yol se inge in mweuni kom ac kom fah tia pac alukela ku aliki eot in esmakin se inge in mweuniyu.
 God lal Abraham ac God lal Nahor fah aksuwosye inmasrlosr.” Na Jacob el wulela na ku Inen God su Isaac, papa tumal, el alu nu se, lah el fah liyaung na wuleang se inge.
 El uniya kosro soko, ac sang in mwe kisa fin eol uh, ac el pangoneni mwet lal elos in mongo. Tukun elos mongo tari, elos mongla fin eol uh ke fong sac.
+Toangna in lotu tok ah, Laban el wilkas nu sin acn luo natul ac ngok mutaltal ac tulik natulos, na folokla nu yen sel.
 Ke Jacob el som liki acn sac, oasr kutu lipufan lun God sonol.
 Ke el liyalosyak el fahk, “Acn in aktuktuk se lun God pa inge.” Ke ma inge el sang inen acn sac Mahanaim.
 Jacob el supwala kutu mwet utuk kas lal in som meet lukel nu yorol Esau, tamulel lal in facl Edom.
@@ -958,7 +959,6 @@ Jacob el fahk, “Ac kom, su inem an?” Ac mwet sac fahk, “Efu ku kom ke etu 
 Jacob el fahk, “Nga liye na pwaye God ke mutuk, ac nga srakna moul.” Ouinge el sang inen acn sac Peniel.
 Faht ah takak ke Jacob el som liki acn Peniel, ac el fahsr osak mweyen ngal fonohl.
 Fwilin tulik natul Israel uh tia kang ikwa ma oan fin kupasr ke fonoh nwe misenge, mweyen acn se inge pa tukyuki kacl Jacob ah.
-
 Jacob el liye lah Esau el tuku wi mwet angfoko lal, ke ma inge el kitalik tulik natul ah inmasrlol Leah, Rachel, ac mutan kulansap luo kial.
 El likiya mutan kulansap kial ac tulik natultal ah meet, na Leah ac tulik natul ah, na fah Rachel ac Joseph oetok.
 Jacob el fahsryak meet lukelos, ac faksufi nwe infohk uh pacl itkosr ke el fahsryang nu ye mutun tamulel lal.
@@ -1709,10 +1709,6 @@ Na mwet inutnut lal tokosra orala mwenmen lalos ac sikyak oapana, ac nankal toko
 El folokla nu inkul fulat sel, ac tiana lohang nu ke ma sikyak inge.
 Mwet Egypt nukewa pikin pe infacl ah in suk kof in nimnim mweyen elos tia ku in nim kof ke infacl ah.
 Len itkosr somla tukun LEUM GOD El sringilya infacl ah.
-
-
-
-
 Na LEUM GOD El fahk nu sel Moses, “Utyak nu ye mutal tokosra ac fahk nu sel lah LEUM GOD El fahk mu, ‘Lela mwet luk ah in som, elos in ku in alu nu sik.
 Kom fin srunga, nga ac fah kai mutunfacl sum uh, ac sang frog in osralik acn nukewa.
 Infacl Nile ac fah arulana sessesla ke frog, su ac fah sroak liki infacl ah ac utyak nu inkul fulat sum, infukil in motul sum, mwe oan kiom, lohm sin mwet pwapa fulat lom ac mwet lom, oayapa luin nien manman lom ac ahlu in aryar flao.
@@ -1741,6 +1737,10 @@ Na tokosra el solalma Moses ac Aaron ac fahk, “Som ac oru kisa lowos nu sin Go
 Moses el topuk, “Ac tia fal in ouinge, mweyen mwet Egypt elos ac srunga ke kut ac kisakin kosro ma mutal selos nu sin LEUM GOD lasr, na ke kut ac kisakin kosro inge yen elos ku in liye, elos ac arulana srunga, pwanang elos ac tungal kut nweke kut misa.
 Kut enenu in fahsr len tolu nu yen mwesis in oru kisa nu sin LEUM GOD lasr, oana El sapkin nu sesr.”
 Tokosra el fahk, “Nga ac fuhlela kowos in som kisa nu sin LEUM GOD lowos in acn mwesis, kowos fin tia som loesla. Tal pre keik.”
+Moses el topuk, “Tukunna nga ac som, nga ac fah pre nu sin LEUM GOD tuh lutu loang puspis inge fah som liki kom, ac liki mwet fulat lom ac mwet lom. Tusruktu, enenu na kom in tia sifil kiapwekut, ku kutong mwet inge in tia som orek kisa nu sin LEUM GOD.”
+Moses el illa ac som lukel tokosra, ac pre nu sin LEUM GOD,
+ac LEUM GOD El oru oana siyuk lal Moses. Loang uh som lukel tokosra ac mwet fulat ac mwet lal nukewa. Wangin sie loang lula.
+Na tokosra el sifil pacna akupaye nankal, ac tiana fuhlela mwet uh in som.
 LEUM GOD El fahk nu sel Moses, “Utyak nu ye mutal tokosra ac fahk nu sel lah LEUM GOD lun mwet Hebrew El fahk, ‘Lela mwet luk in som, tuh elos in ku in alu nu sik.
 Kom fin sifilpa srunga fuhlela elos in som,
 nga ac kai kom, ac supwaot sie mas na upa nu fin kosro nukewa — horse nutum, donkey nutum, camel, cow, sheep ac nani.
@@ -2112,7 +2112,6 @@ Cow mukul soko ah fin uniya sie mwet kohs, mukul ku mutan, mwet se natu cow soko
 el enenu in moli kosro soko ah. El ac fah moli nu sin mwet se natu, ac kosro misa soko ah fah ma lal.
 Fin cow mukul soko nutin mwet se uniya cow mukul soko nutin siena mwet, mukul luo ac fah kukakunla cow soko ma moul ah, ac kitalik mani sac. Eltal fah kitalik pac ikwen cow mukul misa soko ah.
 Tusruktu fin eteyuk lah cow mukul soko inge lungsena anwuk, ac mwet se natu ah tiana kalsalak, el enenu in sang soko cow mukul ma moul in akfalye nu sin mwet se natu cow soko ma misa ah.
-
 “Mwet se fin pisrala soko cow ku soko sheep, ac uniya ku kukakunla, el enenu elan moli cow soko ah ke cow limekosr, ku sheep soko ke sheep akosr.
 Mwet pisrapasr sac el enenu na in akfalye ma el pisrala. Fin wangin yorol, na enenu in kukakinyukla el oana sie mwet kohs, in molela ma el pisrala ah.
 Fin cow soko ku donkey soko ku sheep soko koneyukyak srakna oan yorol tia misa, na el enenu elan moli ma soko ah ke ma lukwa.
@@ -2143,6 +2142,7 @@ mweyen pwayena ma ac sang akfusrfusryal ke fong uh. Mea, oasr pac ma el ac afini
 “Nik kom kaskas koluk lain God, ac nik kom selngawi sie mwet kol lun mwet lom.
 “Ase nu sik mwe sang lowos ke wheat, wain, ac oil in olive ke pacl fal. “Ase nu sik wounse mukul nutuwos.
 Ase nu sik wounse ke cow ac sheep nutuwos. Fuhlela tuh wounse mukul ke kosro uh in mutana yurin nina kia ke len itkosr, ac ke len se akoalkosr kisakunma nu sik.
+“Kowos mwet luk, ouinge kowos fah tia kang ikwa ke kutena kosro ma kosro lemnak uh uniya, a kowos in sang nun kosro ngalngul.
 “Nik kom akyokyelik sramsram tia pwaye, ac nik kom kinauk ma sutuu sang kasru sie mwet oasr mwata.
 Nik kom oru ma sutuu finne pusiyen mwet uh oru, ku welulos kifasla ma suwohs ke pacl in nununku.
 Ke kom nununku sie mwet sukasrup, nimet akfisrasrye nununku lom nu sel ke sripen sukasrup lal.
@@ -2848,13 +2848,6 @@ El enenu na in akfalyela lupa se ma el pahtle in molela uh, ac laesla ke percent
 Sie mwet fin orekma koluk ac kunausla kutena sin ma sap lun LEUM GOD ke tia etu lal, ac fah oasr mwatal ac el fah eis kaiyuk kac.
 El enenu na in use nu yurin mwet tol soko sheep mukul ku nani mukul ma wanginna ma koluk ke mano, in akfalye ma koluk lukma lal. Lupan ma el ac moli uh, ac fah orek fal nu ke ma oakwuki. Mwet tol el fah oru mwe kisa nu ke ma koluk lun mwet sac, ac ma koluk lal fah nunak munas nu sel.
 Ma se inge sie kisa in akfalyela ma koluk lukma se su el orala lain LEUM GOD.
-
-
-
-
-
-
-
 LEUM GOD El sang oakwuk inge nu sel Moses:
 Sie kisa ac fah orek, mwet se fin orekma koluk lain LEUM GOD ke el srunga in folokin kutena ma su sie mwet Israel wial sang nu sel elan karingin, ku ke el pisrala kutena ma lal, ku kiapwella,
 ku el kaskas kikiap ke sie ma su tuhlac ac fulahk mu el tiana konauk.
@@ -2878,6 +2871,13 @@ nu ke pacl in akmusra sie mwet in sou lal Aaron nu ke wal lun mwet tol. Len se e
 Enenu in aryarak ke oil ac manman ke pan in furae, na kinkini ac kisakinyuk oana mwe kisa ke wheat, sie foul mwe insewowo nu sin LEUM GOD.
 In pacl nukewa fahsru uh, kisa se inge ac fah orek sin Mwet Tol Fulat nukewa in fwil natul Aaron. Mwe kisa inge ac fah isisyak nufonna, tuh in sie mwe kisa nu sin LEUM GOD.
 Wangin ip ke mwe kisa wheat su kisakinyuk sin mwet tol ac fah mongola. Ma nukewa kac fah isisyak.
+LEUM GOD El sapkin nu sel Moses
+elan sang nu sel Aaron ac wen natul ma sap inge su ma nu ke mwe kisa ke ma koluk. Kosro in kisa ke ma koluk ac fah anwuki ke layen epang ke sisken loang uh, yen ma kosro nu ke kisa firir uh anwuki we. Kisa na mutal se pa inge.
+Mwet tol ma oru kisa ke kosro inge fah mongo kac in sie acn mutal, in kalkal in Lohm Nuknuk Mutal, su nien muta lun LEUM GOD.
+Kutena mwet, ku kutena ma, su pusralla ikwen kosro inge ac fah sun ongoiya ke kuiyen mutal lun ma inge. Kutena nuknuk fin sroksroki ke srahn kosro inge, enenu in owola in sie acn mutal.
+Kutena tup eot ma orekmakinyuk in poeli ikwa inge enenu in fukulyuki, ac fin tup osra pa orekmakinyuk kac, enenu in ililla ac aknasnasyeyukla ke kof.
+Kutena mukul ke sou in mwet tol ku in mongo ke mwe kisa se inge; ma inge arulana mutal.
+Tusruktu fin kutena srah ke ma inge utukyak nu in Lohm Nuknuk Mutal ac orekmakinyuk in acn mutal in eisla ma koluk, ikwen kosro soko ah fah tia mongo — enenu in isisyak.
 Oakwuk inge ma nu ke kisa in akfalye ma koluk lukma, su arulana mutal.
 Kosro nu ke kisa se inge ac fah anwuki layen epang ke loang uh, yen ma mwe kisa nu ke kisa firir uh anwuki we, ac srah kac uh ac fah sang fwela siska akosr ke loang uh kewa.
 Kiris kac uh nukewa ac fah itukla ac kisakinyuk fin loang uh: pula kiris soko ah, kiris ma nokomla koanonsia,
@@ -4228,6 +4228,21 @@ ac okomulosla wi sou lalos, oayapa mwet nukewa ma welul Korah wi ma lalos nukewa
 Ouinge elos moul na tilla nu in facl lun mwet misa, wi ma lalos nukewa. Na infohk uh folokeni nu faclos, ac elos wanginla.
 Mwet Israel nukewa ma oasr we elos kaing ke elos lohng pusren tung lalos. Elos wowoyak ac fahk, “Kaing! Faclu ac ukumkuti pac!”
 Na LEUM GOD El supweya e se ac esukla mwet luofoko lumngaul su kisakin mwe keng uh.
+Na LEUM GOD El fahk nu sel Moses,
+“Fahk nu sel Eleazar wen natul Aaron mwet tol, elan eisla pan in neinyuk mulut, ma orekla ke bronze, liki mwet firiryak misa uh, ac sisalik mulut liki pan uh nu ke sie pacna acn, mweyen pan inge mutal.
+Pan uh tuh akmutalyeyukla ke pacl se utuku nu ke loang lun LEUM GOD. Ke ma inge eis pan lun mwet inge su anwuki ke sripen koluk lalos, ac tuktukya in mininila, ac orala sie mwe afyuf nu ke loang uh kac. Ma inge ac fah mwe akul nu sin mwet Israel.”
+Ouinge Eleazar mwet tol el orani pan uh ac sap tuktuki nwe ke mininila in orala sie mwe afyuf nu ke loang uh.
+Ma se inge mwe sensenkakin mwet Israel lah wangin kutena mwet sayen mwet ke fwilin tulik natul Aaron fah kalukyang nu ke loang uh in akosak mwe keng nu sin LEUM GOD. Mwet se fin tia akos, na ac anwuki el oana Korah ac mwet lal. Ma inge nukewa orekla oana LEUM GOD El sapkin nu sel Eleazar sel Moses.
+Len tok ah mwet Israel nukewa torkaskas lainul Moses ac Aaron ac fahk, “Komtal uniya kutu sin mwet lun LEUM GOD.”
+Tukun mwet uh tukeni in lainul Moses ac Aaron, eltal ngetla nu ke Lohm Nuknuk Mutal ac liye lah pukunyeng sac afunla Lohm Nuknuk Mutal, ac kalem wolana lun LEUM GOD sikyak pac we.
+Moses ac Aaron som ac tu mutun Lohm Nuknuk Mutal,
+ac LEUM GOD El fahk nu sel Moses,
+“Kaluki liki mwet inge, ac nga fah kunauselosla in acn se na elos tu we an!” Eltal tukeni faksufi,
+na Moses el fahk nu sel Aaron, “Us pan in neinyuk e lom an, sang kutu mulut firir liki loang uh nu loac, ac sang kutu mwe keng nu fin mulut uh, na sulaklak usla nu yurin mwet uh ac oru alu in aknasnas kaclos. Aksaye! Kasrkusrak lun LEUM GOD tayak tari, ac sie mas na upa mutawauk pac tari.”
+Aaron el akos. El eis pan in e lal ac kasrla nu inmasrlon mwet uh. Ke el liye lah mas keok sac mutawauk tari, el sang mwe keng nu fin mulut uh ac oru alu in aknasnas ke mwet uh.
+Ma inge tulokinya mas keok sac, ac el mukena tu inmasrlon mwet moul ac mwet misa.
+Pisen mwet ma misa uh oasr ke mwet singoul akosr tausin itfoko, tia oaoa elos su misa ke pacl in tunyuna lal Korah.
+Ke pacl se mas keok sac tui, Aaron el folokla nu yorol Moses nu ke mutunoa lun Lohm Nuknuk Mutal.
 LEUM GOD El fahk nu sel Moses,
 “Fahk nu sin mwet Israel elos in sot nu sum singoul lukwa sikal, kais soko sin mwet kol lun kais sie sruf. Simusla inen kais sie mwet ke sikal lal,
 na simusla inel Aaron ke sikal soko lun sruf Levi. Ac fah oasr sikal soko sin kais sie mwet kol lun sruf.
@@ -4241,21 +4256,6 @@ LEUM GOD El fahk nu sel Moses, “Folokonla sikal lal Aaron nu ye mutun Tuptup i
 Moses el oru oana LEUM GOD El sapkin.
 Mwet Israel elos fahk nu sel Moses, “Kut tuhlac na pwaye. Kut nukewa ac wanginla!
 Mwet se fin kalukyang nu ke Lohm Nuknuk Mutal na el ac misa — kalem lah kut nukewa ac misa!”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 LEUM GOD El fahk nu sel Aaron, “Kom, ac wen nutum ac mwet Levi, fah kaiyuk ke kutena tafongla ma sikyak ke pacl kowos orekma in Lohm Nuknuk Mutal sik; tusruktu kom ac wen nutum mukena pa ac kaiyuk ke kutena tafongla ma orek ke kunokon lun mwet tol.
 Use mwet in sou lom ke sruf lun Levi in wi kom orekma ac kasrekom pacl kom, ac wen nutum, orekma in Lohm Nuknuk Mutal.
 Elos enenu in akfalye ma kunalos nu sum ac oayapa fosrngakin orekma kunalos ke Lohm Nuknuk Mutal uh, tusruktu elos in tia kahl kutena ma akmutalyeyukla in Acn Mutal ku ke loang uh. Elos fin kahlya, komtal kewa fah anwuki.
@@ -4647,6 +4647,7 @@ Oru sie kisa firir tuh in sie mwe kisa mongo orek ke e nu sin LEUM GOD, su fohlo
 Oru pac mwe kisa ke wheat ac mwe kisa wain ke kais soko cow mukul, sheep mukul, ac sheep fusr, fal nu ke pisalos, oana ma akkalemyeyuk.
 Oayapa soko nani mukul in mwe kisa ke ma koluk, weang pacna kain kisa nukewa ma orek fahfahsru ke len se oemeet ah.
 Pa inge oakwuk nu ke mwe kisa firir, mwe kisa wheat, mwe kisa wain, ac kisa in akinsewowo ma kowos ac oru nu sin LEUM GOD ke pacl in kufwa ma oakwuki nu suwos. Ma inge in weang mwe sang kowos sang in akfalye wuleang uh, ac mwe sang ke engan na lun kais sie mwet in sang.
+Ouinge Moses el fahk nu sin mwet Israel ma nukewa ma LEUM GOD El sapkin nu sel.
 LEUM GOD El fahk nu sel Moses elan sang oakwuk inge nu sin mwet kol lun sruf lun Israel.
 Ke sie mukul el oru sie wuleang in sang kutena ma nu sin LEUM GOD, ku orek fulahk mu el ac tui liki kutena ma, elan tia kunausla wulela lal, a elan oru ma nukewa ma el fahk mu el ac oru.
 Ke sie mutan fusr su srakna muta in lohm sin papa tumal, el orala sie wuleang in sang sie ma nu sin LEUM GOD, ku wuleang in tui liki sie ma,
@@ -4663,7 +4664,6 @@ Oasr suwohs lun mukul tumal in akkeye, ku tia akkeye, kutena wuleang ma mutan ki
 Tusruktu ke len se tukun el lohng ke wuleang sac, a wangin kas in lain lal nu kac, na mutan sac enenu in orala ma nukewa ma el wulela kac. Mukul tumal el akkeye kas in wulela lun mutan kial ke el tia srukak kas in kutong ke len se el lohng kac.
 Tusruktu el fin lain wuleang inge tukun len se el lohng kac, na el pa ac eis mwata ke sripen wuleang sac tia akfalyeyuk.
 Pa inge ma LEUM GOD El sapkin nu sel Moses ke kas in wuleang ma sie mutan lolap el oru ke el srakna muta in lohm sin papa tumal, ku ma sie mutan payuk el oru ke el muta yurin mukul tumal.
-
 LEUM GOD El fahk nu sel Moses,
 “Folokin nu sin mwet Midian ke ma elos tuh oru nu sin mwet Israel. Toko, na kom fah misa.”
 Ouinge Moses el fahk nu sin mwet uh, “Akola nu ke mweun, tuh kowos fah ku in tuyak lain mwet Midian ac kalyaelos ke sripen ma elos oru nu sin LEUM GOD.
@@ -5271,6 +5271,7 @@ Oaru in akos ma nukewa nga sapkin nu suwos, ac ma nukewa fah wo nu suwos ac fwil
 “LEUM GOD lowos fah kunausla mutunfacl nukewa kowos fah mweuni, ac kowos ac fah eis facl selos ac oakwuki we.
 Tukun LEUM GOD El kunausla mutunfacl inge, na kowos in arulana karinganang tuh kowos in tia sruhfla ke alu lalos. Kowos in tia srike in konauk lah elos alu fuka nu sin god lalos tuh kowos in etaelos.
 Nimet alu nu sin LEUM GOD lowos in ouiya ma elos alu nu sin god lalos, tuh ke elos alu nu sin god lalos elos oru ma nukewa ma srungayuk yurin LEUM GOD. Elos kisakin pac tulik natulos in e fin loang lalos.
+“Oru ma nukewa ma nga sapkin nu suwos. Nimet laesla kutena ma nu kac, ku eisla kutena ma liki.
 “Sie mwet palu, ku sie mwet su aketeya kalmen mweme uh, fin wulela mu el ac oru sie mwenmen ku sie ma usrnguk
 tuh elan pwenkowosla kowos in alu ac orekma nu sin kutu god su kowos soenna alu nu se meet, na finne sikyak oana ma el wulela kac,
 nimet kowos lohang nu sel. LEUM GOD lowos El orekmakunul in srike kowos, in liye lah kowos lungse LEUM GOD ke insiowos nufon.
@@ -5289,7 +5290,6 @@ na uniya mwet nukewa in siti sac, wi kosro nukewa, ac kunausla ma nukewa we.
 Orani ma nukewa lun mwet su muta in siti sac, ac elosak ke acn in tukeni lalos. Na esukak siti sac ac ma nukewa loac, in oana sie mwe kisa nu sin LEUM GOD lowos. Acn sac fah tia sifilpa musaiyuk, a in mahnum se na nwe tok.
 Nimet eis lowos kutena ma su sapkinyuk in kunausyukla, na LEUM GOD El fah forla liki kasrkusrak lulap lal, ac akkalemye pakoten lal nu suwos. El ac fah pakomutowos ac oru kowos in puseni, oana ma El wulela nu sin papa matu tomowos,
 kowos fin akos sap lal nukewa ma nga sot nu suwos misenge, ac oru ma El kena kowos in oru.
-
 “Kowos mwet lun LEUM GOD lowos. Ouinge ke pacl kowos asor ke mwet misa se, nimet sipik monuwos sifacna ku resaela motonsruwos, oana kutu mwet uh oru.
 Kowos ma lun LEUM GOD lowos. Inmasrlon mwet nukewa su muta fin faclu, El sulela tuh kowos in mwet lal sifacna.
 “Nimet kang kutena ma su LEUM GOD El akkalemye mu tia nasnas.
@@ -5499,6 +5499,7 @@ Wangin ma ac orek nu sin mutan fusr sac, mweyen el tia orala ma koluk ma fal nu 
 Ke sripen eltal muta likin siti uh, mutan sac el ne wowoyak in kasreyuk el, wangin mwet we in kasrel.
 “Mukul se fin koneyukyak ke el sruinkui sie mutan fusr su soenna oasr mwet ako nu sel,
 na mukul sac fah moli nu sin papa tumun mutan sac ke ipin silver lumngaul, fal nu ke molin payuk se. Na mutan fusr sac fah payukyak sel, mweyen mukul sac el akkohsyel elan oan yorol. Mukul sac fah tia ku in sisella ke lusenna moul lal.
+“Wangin sie mukul fah akmwekinye papa tumal ke orek kosro yurin kutena sin mutan kien papa tumal.
 “Wangin sie mukul su twatala, ku sie su laslasla ma mukul lal fah oaoa mu el sie sin un mwet lun LEUM GOD.
 “Wangin temti, ku kutena sin fwilin tulik natul nu ke fwil aksingoul, fah ku in oaoala nu ke mwet lun LEUM GOD.
 “Wangin mwet Amon ku mwet Moab, ku kutena sin fwilin tulik natulos nwe ke fwil aksingoul, ku in oaoala nu ke mwet lun LEUM GOD,
@@ -5524,7 +5525,6 @@ Tia ma koluk se kom fin tia orek wulela nu sin LEUM GOD,
 tusruktu kom fin sifacna lungse oru sie wuleang, esam na lah kom enenu na in akfalye.
 “Ke kom fahsr sasla inima in grape lun siena mwet, kom ku in kang grape uh ke na lungse lom. Tusruktu kom fin illa liki, nimet us kutena grape ke mwe neinyuk lom.
 Ke kom fahsr sasla inima in wheat lun siena mwet, kom ku in kang kutena fiten wheat ma kom olela ke poum, tusruktu kom fah tia sang mitmit nutum an pakela wheat an.
-
 “Mukul se fin payuk sin sie mutan, na tok el srungalla mweyen el konauk lah oasr ma sufal lun mutan sac, ouinge el simusla sie pwepu in fahsrelik, sang nu sin mutan sac, ac supwalla liki lohm sel.
 Na mutan sac fin sifil payukyak sin siena mukul,
 ac mukul se akluo tumal el oayapa srungalla, ac el orala pac pwepu in fahsrelik, sang nu sin mutan sac, ac supwalla liki lohm sel ah. Ku fin pa mukul se tumal akluo ah misa.
@@ -5679,7 +5679,6 @@ Kowos ac tia konaok mongla wo ku misla in kutena acn. Kowos fah mwet mukaimtal a
 Kowos fah moul in sensen pacl nukewa. Len ac fong kowos ac fah inse rarrar, ac kowos ac fah tia tui in sangeng ke misa.
 Insiowos ac fah kihmkim ke sangeng ke ma nukewa kowos liye. Lotutang nukewa kowos ac kena in tari ekela. Ac eku nukewa kowos ac kena in tari lenelik.
 LEUM GOD El ac folokinkowosla nu Egypt fin oak uh, El ne fahk tari mu kowos ac tia sifil som nu we. Kowos ac fah srike in kukakinkowosla nu sin mwet lokoalok lowos we oana mwet kohs, tusruktu wangin mwet ac lungse molikowos in mwet kohs lalos.”
-
 Pa inge kwanon oakwuk ke wuleang ma LEUM GOD El sapkin nu sel Moses in oakiya yurin mwet Israel in acn Moab. Ma inge nukewa ma in weang wuleang ma LEUM GOD El oakiya inmasrlol ac mwet uh pe Eol Sinai.
 Moses el pangoneni mwet Israel nukewa ac fahk nu selos, “Kowos sifacna liye ma LEUM GOD El tuh oru nu sin tokosra lun Egypt, wi mwet fulat lal ac mutunfacl sac nufon.
 Kowos liye mwe ongoiya lulap, ac mwenmen, ac ma usrnguklana ma LEUM GOD El tuh oru.
@@ -5708,6 +5707,7 @@ Na pa inge top nu kac uh: ‘Ke sripen mwet lun LEUM GOD elos tia liyaung wulela
 Elos kulansupu god saya ma elos soenna alu nu kac meet, ma su LEUM GOD El tia lela elos in alu nu kac.
 Na pa LEUM GOD El kasrkusrakak sin mwet lal uh, ac use mwe selnga nukewa simla in book se inge nu fin facl selos.
 LEUM GOD El foloyak, na ke kasrkusrak lulap lal El fusulosyak liki acn selos ac siselosla nu in sie acn sac, ac elos oasr we nwe misenge.’
+“Oasr kutu ma su LEUM GOD lasr El sruokya tuh in ma lukma; tusruktu El akkalemye Ma Sap lal, na kut, ac fwilin tulik natusr uh, enenu in akos nwe tok.
 “Inge nga sot nu suwos tuh kowos in sulela inmasrlon mwe insewowo ac mwe selnga. Ke pacl se ma inge nukewa ac sikyak nu suwos, ac kowos muta inmasrlon mutunfacl yen LEUM GOD lowos El akfahsryekowoselik nu we, kowos ac esamak sulela se inge ma nga sot nu suwos.
 Kowos, ac fwilin tulik nutuwos, fin foloko nu yurin LEUM GOD ac akos ma sap lal su nga sot nu suwos misenge ke insiowos nufon,
 na LEUM GOD lowos fah pakomutowos. El ac fah folokinkowosme liki mutunfacl nukewa El akfahsryekowoselik nu we, ac El ac sifilpa folokonak moul in insewowo lowos meet ah.
@@ -7771,6 +7771,7 @@ Nimet tu na insacn! Sulaklak!” Tulik sac el srukak sukan pisr soko ah, ac el u
 Tulik sac tiana etu lah mea kalmen ma inge. Jonathan ac David mukena pa kalem kac uh.
 Na Jonathan el sang kufwen mwe pisr natul nu sin tulik sac, ac sap elan us som nu in siti uh.
 Tukun tulik sac som, David el tuyak liki yol in eot se el wikwik we, ac el sikukmutunte ac faksufi pacl tolu. Na el Jonathan tukeni tung ac angokmwet sie sin sie, ac asor lal David tuh yohk liki asor lal Jonathan.
+
 Ac Jonathan el fahk nu sel David, “God Elan wi kom. LEUM GOD El ac fah oru tuh kom ac fwil nutum, oayapa nga ac fwil nutik, in sruokyana wulela mutal se su nga kom orala inmasrloktal tuh in oan ma pahtpat.” Na David el som, ac Jonathan el folok nu in siti uh.
 David el som nu yorol Ahimelech, mwet tol in acn Nob. Ahimelech el rarrar ke el illa in sonol David, ac el siyuk sel David, “Efu ku kom mukena tuku nu inge?”
 Ac David el fahk, “Nga tuku ke sap lal tokosra. El mu nga in tia fahk nu sin kutena mwet ma el supweyu in oru uh. A funu mwet luk uh, oasr sie acn nga fahkang nu selos elos in sunyu we.
@@ -7787,7 +7788,6 @@ Kas lalos inge arulana mokle nunak lal David, oru el arulana sangeng sel Tokosra
 Na pa pacl nukewa mwet inge fin tuku apkuran nu yorol David, el ac orala lumahl oana in mwet wel se. Elos fin srike in kutongilya el ac lofongla. El ac muta kulaus mutunpot in siti uh, ac ani lal uh pasrkeya alut lal uh.
 Na Tokosra Achish el fahk nu sin mwet pwapa lal, “Liye, mwet se inge el wel! Efu kowos ku usalu nu yuruk?
 Ya tia oasr tari mwet wel yenu, na mwe mea kowos in sifilpa use sie in orekma lofong ac aklokoalokyeyu inkul sik sifacna?”
-
 David el kaingla liki siti Gath ac som nu ke luf se su oan apkuran nu Adullam. Ke tamulel lal ac mwet in sou lal kewa elos lohngak lah el oasr we, elos som nu yorol.
 Na mwet su muta in ongoiya, oayapa mwet soemoul sin mwet, ac mwet supwar, elos som pac nu yorol. Sahp oasr mwet angfoko ke u se inge, na David el mwet kol lalos.
 David el som liki acn sac ac tuku nu Mizpah in acn Moab, ac fahk nu sin tokosra we, “Nunak munas lela tuh papa tumuk ac nina kiuk in muta yurum nu ke nga konauk lah mea God El ac fah oru nu sik.”
@@ -7839,6 +7839,7 @@ Saul ac mwet lal elos som in sokol David. Ke David el lohngak, el som nu ke eol 
 Na Saul ac mwet lal elos muta lac eol uh, ac David ac mwet lal elos muta lac eol uh. David ac mwet lal elos sulaklak kaingkunul Saul ac mwet lal, mweyen elos apkuranyang in sruokolosi.
 In kitin pacl ah na sie mwet utuk kas el tuku ac fahk nu sel Saul, “Sulaklak foloko! Mwet Philistia elos utyak tari in sruokya facl sesr!”
 Ke ma inge, Saul el tila ukwal David, a el folokla mweun lain mwet Philistia. Pa inge sripa se pangpang fineol soko ah Fineol In Sralik.
+David el som liki acn we, ac fahsr nu acn se pangpang “Engedi,” ac el muta wikwik we.
 Ke Saul el folok liki mweun lal nu sin mwet Philistia, fwackyang nu sel lah David el muta yen mwesis se apkuran nu Engedi.
 Saul el eis tolu tausin mwet mweun na ku sin mwet Israel, ac som sokol David ac mwet lal kutulap in acn se pangpang Eot in Nani Lemnak.
 Saul el tuku nu ke luf se su apkuran nu ke sie kalkal in sheep, na el utyak nu loac in akola we. Falyang na lah luf se inge pa David ac mwet lal elos wikwik we e ke kapin luf uh.
@@ -7861,7 +7862,6 @@ Ya oasr pacl sikyak ouinge, tuh mwet se in sruokya mwet lokoalok lal na fuhlella
 Inge nga etu suwohs lah kom ac fah tokosra fin Israel, ac tokosrai ac fah oanna ye koko lom.
 Tusruktu wulema nu sik ke Inen LEUM GOD tuh kom fah tia kunausla fita luk, tuh inek ac inen sou luk fah tia mulkinyukla.”
 David el wulela oana siyuk lal Saul. Na Saul el folok nu acn sel, ac David ac mwet lal som nu nien wikwik lalos.
-
 Samuel el misa, ac mwet Israel nukewa tukeni nu sie ac asor kacl. Na elos piknilya in acn sel in Ramah. Tukun ma inge, David el som nu yen mwesis in Paran.
 Oasr sie mukul in acn Maon su oasr acn lal in acn Carmel. Mwet se inge el arulana kasrup. Oasr tolu tausin sheep natul, ac sie tausin nani. In pacl se inge el muta Carmel ac kalkul sheep natul.
 Inen mukul se inge pa Nabal, ac mutan kial ah pa Abigail. Mutan se inge el lalmwetmet ac oasku, a mukul sac el mwet na kou ac likkeke se. El ma in sou lal Caleb.
@@ -8511,6 +8511,7 @@ Tokosra el siyuk, “Ya Absalom nutik ah ku na?” Ahimaaz el topuk, “Ke Joab,
 Tokosra el fahk nu sel, “Fahsrot tu inse ingo.” Ac el fahla nu insac ac tu we.
 Na mwet Ethiopia sac el tuku, ac fahk nu sin tokosra, “Leum fulat, oasr pweng wo se nga us nu sum! Misenge LEUM GOD El asot kutangla nu sum fin mwet nukewa su tuyak lain kom!”
 Ac tokosra el siyuk, “Ya Absalom nutik ah ku na?” Mwet kohs sac fahk, “O Tokosra, leum luk, nga kena tuh ma sikyak nu sel ah in sikyak nu sin mwet lokoalok lom nukewa, oayapa nu sin mwet nukewa su lain kom.”
+Ac insien tokosra sessesla ke asor. El fanyak nu ke infukil se oan lucng ke mutunpot ah, ac tung. Ke el tung el fahk, “We, wen nutik! Wen nutik, Absalom! Absalom nutik! Nga ke in nga pa misa ac tia kom, wen nutik! Absalom nutik!”
 Fwackyang nu sel Joab lah Tokosra David el tung ac arulana asor kacl Absalom.
 Ke ma inge, enganak lun mwet mweun nukewa lal David ke sripen kutangla lalos in len sac, ekla nu ke asor ac supwar, mweyen elos lohng lah tokosra el arulana asor ke wen natul.
 Elos mahsrikyak nu in siti ah, oana luman mwet mweun su ac mwekin elos fin kaing liki mweun uh.
@@ -8554,7 +8555,6 @@ Ke tokosra el tupalla Infacl Jordan wi mwet Judah nukewa ac tafu sin mwet Israel
 Na mwet Israel nukewa som nu yorol tokosra ac fahk nu sel, “Leum lasr, efu ku mwet Judah wiasr elos tuh nunku mu oasr suwohs lalos in eiskomla ac atol kom ac sou lom ac mwet lom ke kowos tupalla Infacl Jordan?”
 Na mwet Judah elos topuk ac fahk, “Kut oru mweyen tokosra el sie sesr. Na efu ku ma se inge in aktoasrye kowos? El soenna moli mwe mongo nasr, ku ase kutena ma nu sesr.”
 Mwet Israel elos fahk, “Oasr suwohs lasr pacl singoul yohk liki suwohs lowos kacl Tokosra David, el finne sie suwos. Efu kowos ku pilesrekut? Nimet kowos mulkunla lah kut pa sramsramkin meet in folokinyukme tokosra uh!” Tusruktu pusren mwet Judah arulana upa liki pusren mwet Israel ke akukuin se inge.
-
 In pacl se inge oasr sie mwet lusrongten in acn Gilgal — inel pa Sheba wen natul Bikri, ac el ma in sruf lal Benjamin. El ukya mwe ukuk ac wowoyak ac fahk, “Sisella David! Kut ac tia welul! Mwet Israel nukewa, kut som nu yen sesr ah!”
 Ouinge mwet Israel elos sisella David, ac welulla Sheba. A mwet Judah elos insese na yorol David, ac elos welul fahla Infacl Jordan lac nu Jerusalem.
 Ke David el tuku nu lohm sin tokosra in acn Jerusalem, el orani mutan kulansap singoul kial ma el tuh filiya in liyaung inkul sel ah, ac eisalosyang nu inpoun mwet topang uh. El sang enenu lalos, tuh el tia oan yorolos. Elos muta kaul ac moul oana mutan katinmas ke lusen moul lalos.
@@ -8865,6 +8865,20 @@ Jehoshaphat, wen natul Paruah: acn lal Issachar
 Shimei, wen natul Ela: acn lal Benjamin
 Geber, wen natul Uri: acn Gilead, facl se ma Sihon (tokosra lun mwet Amor) ac Og (tokosra lun Bashan) eltal leumi. Sayen mwet singoul luo inge, oasr sie mwet suksuk fulat solla in karingin facl sac nufon.
 Pusiyen mwet Judah ac Israel oana puk weacn uh. Elos mongo ac nim ac engan.
+Tokosrai lal Solomon sisani facl nukewa e ke Infacl Euphrates me nwe ke acn Philistia, ac masrol nu Egypt. Mwet inge nukewa moli tax nu sel, ac orekma nu sel ke lusen moul lal nufon.
+Enenu lal Solomon nu inkul sin tokosra ke kais sie len pa: pak in flao srik kosra siofok lumngaul, ac pak in flao yohk kosra tolfoko,
+cow muta in kalkal singoul, ac cow forfor saya longoul, ac sheep siofok, sayen na kosro deer, gazelle, roebuck, ac won.
+Solomon el leumi facl nukewa roto in Infacl Euphrates, liki acn Tiphsah ke infacl Euphrates, nwe ke siti Gaza nu roto. Tokosra nukewa roto in Infacl Euphrates elos orekma nu sel, ac oasr misla ke facl nukewa ma oan raunella.
+Ke lusen moul lal Solomon, mwet nukewa in acn Judah ac Israel elos mutana in misla ac wangin mwe fosrnga. Kais sie sou oasr ima in grape ac sak fig sunalos.
+Oasr angngaul tausin nien muta lun horse in chariot natul Solomon, ac singoul luo tausin horse in mweun natul.
+Mwet suksuk singoul luo lal inge, elos akoo mwe mongo nun Tokosra Solomon ac mwet welul ke tepu lal, kais sie mwet ke malem lal. Elos fosrngakin mwe enenu nukewa.
+Kais sie mwet suksuk ac srukak pac ma kunal ke barley ac mah nu yen ma eneneyuk we. Ma inge ma nun horse ac kosro saya ma orekmakinyuk.
+God El sang nu sel Solomon lalmwetmet, ac lemlem, ac etauk yoklana — alukela ma ku in srikeyuki.
+Ouinge Solomon el lalmwetmet liki mwet lalmwetmet lun acn kutulap, oayapa mwet lalmwetmet lun Egypt.
+El lalmwetmet liki mwet nukewa: el lalmwetmet lukel Ethan mwet Ezrah, ac Heman, Calcol, ac Darda, wen tolu natul Mahol. Pweng kacl fahsrelik nu in facl nukewa ma oan apkuran nu we.
+El orala soakas tolu tausin, ac kinala on pus liki sie tausin.
+El sramsram pac ke sak, ac mwe yokyok, mutawauk ke sak cedar lun Lebanon nwe ke sak hyssop su kap pe pot uh; ac el sramsram pac ke kosro, won, wet lulap, ac ik uh.
+Tokosra nukewa fin faclu lohng ke lalmwetmet lal inge, ac elos supwala mwet in lohng sramsram lalmwetmet lal.
 Tokosra Hiram lun acn Tyre el nuna mwet kawuk lal David, ac ke el lohng lah Solomon el aolul David, papa tumal, in tokosra, na el supwala mwet kacto aolyal nu yorol.
 Na Solomon el supwala kas inge nu sel Hiram:
 “Kom etu lah ke sripen mweun puspis ma David, papa tumuk, el tuh oru lain mwet lokoalok in facl ma raunella, pwanang el tuh tia ku in musai sie lohm alu nu sin LEUM GOD lal, nwe ke na LEUM GOD El sang elan kutangla mwet lokoalok lal nukewa.
@@ -8883,20 +8897,6 @@ Oasr pac mwet oalngoul tausin lal Solomon muta uten eol uh orekma ke tufahl eot,
 Solomon el srela mwet tolu tausin tolfoko in liyalosyang ac fahk ma elos in oru.
 Ke sap lal Tokosra Solomon, elos taflela eot lulap na wowo nu ke pwelung in Tempul uh.
 Mwet orekma lal Solomon ac Hiram, ac mwet su tuku liki siti Gebal, elos akoela pac eot ac ipinsak in musai Tempul.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Yac angfoko oalngoul tukun mwet Israel elos illa liki acn Egypt, in yac akakosr ma Solomon el tokosra fin acn Israel, ke malem akluo su malem Ziv, Solomon el mutawauk in musai Tempul.
 Luin lohm sac, oasr fit eungoul lusa ac fit tolngoul sralap, ac fit angngaul limekosr fulata.
 Infukil in utyak oasr fit singoul limekosr lusa, ac fit tolngoul sralap oana sralapan inkain lohm ah.
@@ -9523,6 +9523,7 @@ Ma nukewa saya ma Tokosra Ahab el orala, weang pac sramsram ke lohm sel su nawey
 Ac ke el misa, Ahaziah wen natul, el aolul in tokosra.
 In yac akakosr ke pacl Tokosra Ahab el leumi Israel, Jehoshaphat wen natul Asa, el tokosrala lun Judah
 ke el yac tolngoul limekosr, ac el leum in Jerusalem ke yac longoul limekosr. Nina kial pa Azubah, acn natul Shilhi.
+
 El oru ma suwohs ye mutun LEUM GOD, oana Asa papa tumal meet lukel. Tusruktu acn in alu nu ke ma sruloala tiana kunausyukla, ac mwet uh fahsr na orek kisa ac esukak mwe keng in acn inge.
 In pacl lal Jehoshaphat oasr misla inmasrlol ac tokosra lun Israel.
 Ma nukewa saya ma Jehoshaphat el orala, ke pulaik lal ac mweun lal, simla oasr in Sramsram Matu Ke Tokosra Lun Judah.
@@ -9534,7 +9535,6 @@ Jehoshaphat el misa ac pukpuki inkulyuk lun tokosra in Siti sel David, ac Jehora
 In yac aksingoul itkosr ke pacl in leum lal Tokosra Jehoshaphat lun Judah, Ahaziah wen natul Ahab, el tokosrala lun Israel, ac el leum in acn Samaria ke yac luo.
 El oru ma koluk lain LEUM GOD, ac fahsrna tukun ouiya koluk lun Ahab papa tumal, ac Jezebel nina kial, oayapa Tokosra Jeroboam su kolla mwet Israel in oru ma koluk.
 El alu nu sel Baal ac kulansupwal, ac el akkasrkusrakye LEUM GOD, God lun Israel, oana papa tumal.
-
 Tukun Tokosra Ahab lun Israel el misa, acn Moab tuyak ac alein nu sin Israel.
 Tokosra Ahaziah lun Israel el putatla ke sawalsrisr fulat in lohm sel in acn Samaria ac arulana musalla manol. Ouinge el supwala kutu mwet lal in som lolngok yorol Baalzebub, god lun acn Ekron, sie siti in acn Philistia, in konauk lah el ac kwela ku tia.
 A sie lipufan lun LEUM GOD sapkin nu sel Elijah, mwet palu in acn Tishbe, elan som osun nu sin mwet lal Tokosra Ahaziah ac siyuk selos, “Efu kowos ku som lolngok yorol Baalzebub, god lun Ekron? Ya mweyen kowos nunku mu wangin god lun Israel?
@@ -9851,6 +9851,7 @@ Mwet tol Jehoiada el oru tuh Tokosra Joash ac mwet uh in orala sie wulela lalos 
 Na mwet uh som nu ke tempul lun Baal ac kunausya. Elos fukulya loang ac ma sruloala we, ac unilya Mattan, su mwet tol lun Baal, ye mutun loang uh. Jehoiada el sang in oasr mwet topang su forfor taran Tempul,
 na el, oayapa leum lun mwet mweun, wi mwet mweun su karinganul tokosra ac mwet karingin inkul sin tokosra, elos pwenilya tokosra liki Tempul nu ke inkul fulat sel, ac mwet nukewa fahsr tokolos. Tokosra Joash el utyak ke Mutunpot lun Mwet Topang ac muta fin tron lal.
 Mwet nukewa sessesla ke engan, ac siti sac misla ke sripen Athaliah el tuh anwuki ke inkul sin tokosra.
+Joash el tokosrala lun Judah ke el yac itkosr.
 In yac akitkosr ke pacl Jehu el tokosra lun acn Israel, Joash el tokosra lun Judah, ac el leum in Jerusalem ke yac angngaul. Nina kial pa Zibiah, sie mutan ke siti Beersheba.
 In moul lal nufon el oru ma LEUM GOD El insewowo kac mweyen mwet tol Jehoiada el lotel.
 Tusruktu tiana kunausyukla nien alu lun mwet pegan, ac mwet uh srakna orek kisa ac akosak mwe keng we.
@@ -9872,7 +9873,6 @@ Tokosra Joash lun Judah el orani mani in kisa nukewa ma tuh orekeni ac kisaiyukl
 Ma nukewa saya ma Tokosra Joash el orala simla oasr in Sramsram Matu Ke Tokosra Lun Judah.
 Mwet pwapa lal Joash elos orala pwapa lukma lalos ac unilya ke lohm se ke acn koaneyukla kutulap in Jerusalem ke inkanek soko ma oatula nu Silla.
 Jozacar wen natul Shimeath, ac Jehozabad wen natul Shomer, pa sringlilya el misa. Joash el pukpuki inkulyuk lun tokosra in Siti sel David, ac Amaziah wen natul, el aolul in tokosra.
-
 In yac aklongoul tolu ma Joash wen natul Ahaziah el tokosra lun Judah, Jehoahaz wen natul Jehu el tokosrala lun Israel, ac el leum in Samaria ke yac singoul itkosr.
 El oana Jeroboam su tokosra meet lukel, in oru ma koluk lain LEUM GOD, ac kolla mwet Israel in oru ma koluk, ac el tiana fuhleak ouiya koluk lal inge.
 Ouinge LEUM GOD El kasrkusrak sin mwet Israel, ac El lela Tokosra Hazael lun Syria ac Benhadad, wen natul, in kutangla Israel pacl na pus.
@@ -10456,21 +10456,6 @@ Mwet in sruf Tafun Manasseh Kutulap elos oakwuki in acn Bashan fahla nu epang nw
 Pa inge inen mwet su sifen sou lulap lalos: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, ac Jahdiel. Mwet kol inge kewa elos mwet mweun na pwengpeng, ac akilenyuk in sou lalos.
 Tusruktu insien mwet uh tia pwaye nu sin God lun papa tumalos, ac elos forla lukel in alu nu sin god lun mutunfacl su God El tuh luselosla liki facl sac.
 Ouinge God El sang tuh Tokosra Fulat Pul lun Assyria (sie pac inel pa Tiglath Pileser) elan utyak nu in facl selos in mweunelos. Tokosra se inge el lusak mwet in sruf lal Reuben, ac sruf lal Gad, ac sruf lal Manasseh Kutulap, ac usalosla ac oakelosi in acn Halah, Habor, ac Hara, oayapa sisken Infacl Gozan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Oasr wen tolu natul Levi: elos pa Gershon, Kohath, ac Merari.
 Oasr wen akosr natul Kohath: elos pa Amram, Izhar, Hebron, ac Uzziel.
 Oasr wen luo natul Amram: elos pa Aaron ac Moses, ac acn se wialtal pa Miriam. Oasr wen akosr natul Aaron: elos pa Nadab, Abihu, Eleazar, ac Ithamar.
@@ -10537,6 +10522,21 @@ In lumah se pacna inge, oasr siti srisrik singoul luo in acn lal Reuben, Gad, ac
 Ouinge mwet Israel elos sang acn sin mwet Levi tuh elos in muta we, wi acn tupasrpasr nien mongo lun kosro ma raunela acn ingan.
 (Siti srisrik in acn lal Judah, Simeon, ac Benjamin ma fwack tari lucng itukyang pac ke susfa.)
 Inen siti srisrik in acn lal Ephraim ma itukyang nu sin kutu sou in sou lulap lal Kohath wi acn tupasrpasr nien mongo lun kosro pa inge:
+Shechem, su siti in molela in acn fineol uh in Ephraim, oayapa Gezer,
+Jokmeam, Beth Horon,
+Aijalon, ac Gath Rimmon.
+In acn lun Tafun Manasseh Roto, itukyang nu selos siti srisrik luo inge, Aner ac Bileam, wi acn tupasrpasr nien mongo lun kosro ma raunela acn ingan.
+Itukyang nu sin sou in sou lulap lal Gershon siti srisrik inge wi acn tupasrpasr ma raunela: Ke acn lun Tafun Manasseh Kutulap: Golan in Bashan, ac Ashtaroth.
+Liki acn lun Issachar: Kedesh, Daberath,
+Ramoth, ac Anem.
+Liki acn lun Asher: Mashal, Abdon,
+Hukok, ac Rehob.
+Liki acn lun Naphtali: Kedesh in Galilee, Hammon, ac Kiriathaim.
+Ac nu sin sou lula in sou lulap lal Merari, pa inge siti srisrik ac acn tupasrpasr nien mongo lun kosro ma itukyang nu selos: Liki acn lal Zebulun: Rimmono ac Tabor.
+Liki acn lal Reuben, kutulap in Infacl Jordan sasla acn Jericho: Bezer, su oan acn fulat ma tupasrpasr fac, oayapa Jahzah,
+Kedemoth, ac Mephaath.
+Liki acn lal Gad: Ramoth in Gilead, Mahanaim,
+Heshbon, ac Jazer.
 Oasr wen akosr natul Issachar: elos pa Tola, Puah, Jashub, ac Shimron.
 Oasr wen onkosr natul Tola: elos pa Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, ac Shemuel. Elos inge sifen kais sie sou in sou lulap lal Tola, ac elos mwet mweun pwengpeng. In wel lal Tokosra David ah, pisalos oasr ke longoul luo tausin onfoko.
 Oasr wen sefanna natul Uzzi: inel pa Izrahiah. Izrahiah ac wen akosr natul inge: Michael, Obadiah, Joel, ac Isshiah, elos kewa sifen kais sie sou.
@@ -10725,6 +10725,7 @@ Eliel, Obed, ac Jaasiel, mwet Zobah
 David el muta Ziklag, acn el tuh som nu we ke el kakaingkunul Tokosra Saul. Pus mwet mweun fas ac oaru elos tuh welulang in pacl sac.
 Mwet ingan ma ke sruf lal Benjamin, sruf pac lal Saul. Elos fin pisr, ku orekmakin fuht natulos, elos ku in orekmakin paolos kewa, layot ac lasa.
 Captain lun u se inge pa Ahiezer ac Joash, wen luo natul Shemaah, mwet Gibeah. Inen mwet mweun wialos pa inge: Jeziel ac Pelet, wen luo natul Azmaveth Beracah ac Jehu, mwet Anathoth
+
 Ishmaiah mwet Gibeon, sie mwet mweun pwengpeng su sie sin mwet kol lun “Mwet Tolngoul” Jeremiah, Jahaziel, Johannan, ac Jozabad, mwet Gederah
 Eluzai, Jerimoth, Bealiah, Shemariah, ac Shephatiah, mwet Hariph
 Elkanah, Isshiah, Azarel, Joezer, ac Jashobeam, mwet Korah
@@ -10762,7 +10763,6 @@ Pisen mwet Reuben ac Gad ac Tafun Manasseh Kutulap, (sruf inge kewa muta kutulap
 Mwet mweun inge nukewa elos akola nu ke mweun ke elos som nu Hebron ke sripa sifanna: in akleumyal David tuh elan tokosra fin Israel nufon. Ac mwet Israel nukewa wialos insese pac nu kac.
 Mwet mweun inge elos muta yorol David ke lusen len tolu, ac elos mongo ac nim ma mwet Israel wialos tuh akoo nu selos.
 Finne mwet su muta loesla nu epang — oana mwet in sruf lun Issachar, Zebulun, ac Naphtali — elos utuk mwe mongo fin donkey, camel, miul, ac cow natulos. Pukanten flao, fig, tun in raisin, wain, ac oil in olive. Elos usla pac cow ac sheep, elos in uniya mwe mongo pac. Ma inge nukewa mwe akkalemye lupan engan lun mwet Israel yen nukewa.
-
 Tokosra David el pwapa yurin captain lun un mwet mweun lal — elos su kol fin tausin ac elos su kol fin foko.
 Na el fahkak nu sin mwet Israel nukewa, “Fin wo suwos, ac fin ou lungse lun LEUM GOD lasr, lela kut in sulkakinelik nu sin mwet nukewa wiasr, ac nu sin mwet tol ac mwet Levi in acn elos muta we, tuh elos in toeni yorosr in acn se inge.
 Na kut fah som ac folokonma Tuptup in Wuleang lun God lasr, ma kut tuh pilesrala ke pacl Saul el tokosra ah.”
@@ -11214,7 +11214,6 @@ El akpusye chariot lal ke sie tausin angfoko, ac pisen horse ke singoul uo tausi
 In pacl se ke el tokosra ah, mwet Jerusalem elos pangon silver ac gold ma pilasr oana eot, ac sak cedar su wangin suna we meet, inge arulana pukanten oana sak sycamore su kap pe eol in acn Judah.
 Mwet kulansap fulat lun tokosra pa nununku pisen horse ma tuku Musri ac Cilicia me,
 ac oayapa pisen chariot ma tuku Egypt me. Elos kitala horse ac chariot nu sin tokosra lun mwet Hit ac tokosra lun acn Syria. Molin chariot se pa ipin silver onfoko, ac molin horse soko pa ipin silver siofok lumngaul.
-
 Tokosra Solomon el wotela in musai sie tempul tuh in nien alu nu sin LEUM GOD, ac oayapa in musaela sie inkul fulat nu sel sifacna.
 El sang itngoul tausin mwet in wun kufwen orekma, ac oalngoul tausin mwet in tufahl eot fineol uh. Mwet tolu tausin onfoko pa kol orekma sac.
 Solomon el supwala kas nu sel Tokosra Hiram lun acn Tyre ac fahk, “Nga ke kom in oru nu sik oana ke kom tuh oru nu sel Tokosra David, papa tumuk, ke kom tuh kukakin sak cedar nu sel elan sang musai inkul fulat sel ah.
@@ -11232,6 +11231,7 @@ Nina kial ma in sruf lal Dan, ac papa tumal sie mwet Tyre. El ku in oru kutena m
 Ke ma inge, supwama wheat, barley, wain, ac oil in olive ma kom wulela kac.
 In acn Lebanon kut ac fah pakela sak cedar nukewa ma kom enenu an, ac kapriya nu ke raft, ac pahkin nwe ke sun acn Joppa. Na mwet lom fah usla we lac nu Jerusalem.”
 Tokosra Solomon el orala sie oaoa lulap ke mwetsac nukewa su muta in acn lun Israel, oapana oaoa se ma David, papa tumal, el tuh orala. Pisen mwetsac muta we oasr ke mwet siofok lumngaul tolu tausin onfoko.
+Na el sap itngoul tausin selos in wiwa, ac oalngoul tausin selos in fokfok eot fineol ah. El sulela mwet tolu tausin onfoko in liye orekma inge tuh in orekla wo.
 Tokosra David, papa tumal Solomon, el akola tari sie acn tuh Tempul in musa we, pa Fineol Moriah ke acn Jerusalem, acn se ma LEUM GOD El tuh sikyak nu sel David we, ke acn in sisla kulun wheat lal Araunah, mwet Jebus. Tokosra Solomon el sap mwet lal in mutawauk musa
 ke len akluo in malem akluo in yac akakosr tukun el tokosrala.
 Tempul se ma Tokosra Solomon el musaela oasr fit eungoul lusa ac fit tolngoul sralap.
@@ -11478,7 +11478,6 @@ Abijah el ukwe mwet mweun lal Jeroboam ac sruokya siti lal inge: Bethel, Jeshana
 Ke lusen pacl Abijah el leum, Jeroboam el tiana sifil ku. Saflaiyel LEUM GOD El unilya, ac el misa.
 Ouinge Abijah el yokyokelik ke ku lal. Oasr mutan singoul akosr kial, ac el papa tumun wen longoul luo ac acn singoul onkosr.
 Ma nukewa saya ke sramsram matu kacl Abijah, ma el fahk ac ma el oru, simla ke Sramsram Matu lal Iddo Mwet Palu.
-
 Tokosra Abijah el misa ac pukpuki inkulyuk lun leum in Siti sel David. Asa, wen natul, el aolulla in tokosra, ac in pacl in leum lal Asa mwet uh elos insewowokin moul misla ke lusen yac singoul.
 Asa el akinsewowoye LEUM GOD lal ke el oru ma wo ac ma suwohs.
 El moklela loang lun mwet saya, ac nien alu lun mwet pegan, ac kunausya sru eot oal lalos, ac pakiya ma sruloala kacl god mutan Asherah.
@@ -11493,6 +11492,7 @@ Asa el pre nu sin LEUM GOD lal ac fahk, “O LEUM GOD, kom ku in kasru un mwet m
 LEUM GOD El kutangla mwet Ethiopia ke Asa ac mwet mweun meunelos. Mwet Ethiopia elos kaingla,
 na Asa ac mwet lal ukwalos nwe ke sun acn Gerar. Pukanten na mwet Ethiopia anwuki, pwanang upa nu selos in sifil mweun. Elos toanyuki sin LEUM GOD ac mwet mweun lal, ac mwet Judah elos eis ma wap puspis lalos.
 Na elos kunausla siti ma rauneak acn Gerar, mweyen mwet we elos arulana sangeng sin LEUM GOD. Mwet mweun elos kunausla siti nukewa we ac sruokya ma wap puspis.
+Elos oayapa lain un mwet shepherd, ac eisla sheep ac camel pukanten. Na elos folokla nu Jerusalem.
 Ngun lun God tuku nu facl Azariah wen natul Oded,
 ac el som in osun nu sel Tokosra Asa. El pangla nu yorol ac fahk, “Tokosra Asa, ac kowos mwet Judah ac mwet Benjamin nukewa, lohng ma nga ac fahk uh! LEUM GOD El wi kowos ke lusen pacl kowos welul. Kowos fin sokol, El ac lela kowos in konalak. A kowos fin forla lukel, El ac fah ngetla liki kowos.
 In pacl na loeloes se, mwet Israel elos tuh moul sayen God pwaye, ac wangin mwet tol in lotelos, ac wangin pac ma sap yorolos.
@@ -12362,12 +12362,6 @@ Zadok, wen natul Immer, el poti pola se tokoyang, su oan lainang lohm sel sifacn
 Hananiah, wen natul Shelemiah, ac Hanun, wen se akonkosr natul Zalaph, eltal poti pola se toko, ip se akluo kunaltal. Meshullam, wen natul Berechiah, el poti pola se toko, su oan lainang lohm sel sifacna.
 Malchijah, sie mwet orekma ke gold, el poti pola se toko, fahla nwe ke lohm se orekmakinyuk sin mwet orekma ke Tempul ac mwet kuka, su oan lainang Mutunpot Miphkad nu ke Tempul, apkuran nu ke infukil se ma oan lucng ke insruwasrik kuta‐epang in pot ah.
 Mwet orekma ke gold ac mwet kuka elos poti pola se safla, mutawauk ke infukil se ke sruwasrik ah, fahla nwe ke Mutunpot Sheep.
-
-
-
-
-
-
 Ke Sanballat el lohng lah kut mwet Jew mutawauk tari in sifil musai pot uh, el kasrkusrak ac mutawauk in sufan kut.
 El fahk ye mutun mwet lal ac un mwet mweun lun Samaria, “Mea mwet Jew afon inge oru uh? Ya elos nunku in sifil musai siti uh? Ya elos nunku mu ke sripen mwe kisa elos oru inge, ac ku in tari ke len sefanna? Ya elos ku in orek eot in musa ke yol in eot firirla ac mokutkuti?”
 Tobiah el tu siskal na el fahk, “Pot fuka se elos ac ku in orala? Finne fox soko, el ac ku in rakinya!”
@@ -12385,6 +12379,12 @@ Nga akilen lah mwet uh fosrnga, ouinge nga fahk nu selos, ac nu sin mwet kol ac 
 Mwet lokoalok lasr elos lohng lah kut etu tari pwapa lalos, ac elos akilen tuh God El sikulya lemlem lalos. Na kut nukewa folokla in sifil musai pot uh.
 In pacl sac me, tafu mwet luk uh orekma ke musa, ac tafu topangi mwet lokoalok. Elos nukum nuknuk in mweun ac sruokya osra, mwe loeyuk, ac pisr natulos. Ac mwet kolyasr elos arulana sang ku lalos in akpulaikye mwet
 su musai pot uh. Finne elos su til kufwen mwe orekma, elos orekma ke la paolos ac ke lac po ngia elos sruok mwe anwuk natulos.
+Ac mwet musa nukewa elos sripisrya cutlass natulos ke pupalos. Mwet se ma ac sulkakin pacl in mweun ke pusren mwe ukuk el tu na siskuk.
+Nga fahk nu sin mwet uh ac mwet pwapa ac mwet kol lalos, “Ke sripen orekma uh arulana yohk, kut ac muta loes inmasrlosr sie sin sie fin pot uh.
+Kowos fin lohng pusren ukuk, aksaye fahsreni nu yuruk. God lasr uh ac fah mweun kacsr.”
+Ouinge len nukewa, mutawauk ke kusrun len uh nwe ke itu uh takak ke fong, tafu sesr orekma ke pot uh, ac tafu tu sruok osra in mweun ac topang mwet lokoalok uh.
+Ke pacl se inge, nga fahk nu sin mwet kol orekma uh lah elos, ac mwet kasru lalos nukewa, in mutana Jerusalem ke fong uh, tuh kut in ku in forfor taran siti uh ke fong, ac orekma ke len.
+Nga tiana sarukla nuknuk luk uh, finne ke fong, ac mwet wiyu su kulansupweyu ac karinginyu elos oru oapana. Ac kut nukewa sruok na mwe mweun natusr inpaosr.
 In kutu pacl tok pus na sin mwet uh, mukul ac mutan, mutawauk in torkaskas lain mwet Jew wialos.
 Kutu selos fahk mu, “Arulana yohk sou lasr uh. Kut enenu wheat kut in mongo kac tuh kut in moul.”
 Kutu pac selos fahk mu, “Kut kitala ima lasr, nien grape lasr, ac lohm sesr in eis wheat fal nu sesr tuh kut in tia misa ke masrinsral.”
@@ -12490,11 +12490,11 @@ Mwet inge tuh suk inelos ke takin mwet matu lalos, tuh tiana konauk. Ke ma inge 
 Governor lun mwet Jew fahk nu selos lah elos fah tia ku in ipeis ke mwe mongo mutal ma itukyang nu sin God nwe ke oasr sie mwet tol su ku in orekmakin Urim ac Thummim.
 Pisa lulap ke mwet foloko liki sruoh — 42,360.
 Mukul ac mutan kulansap lalos — 7,337 Mwet on mukul ac mutan — 245
-Horse — 736 Miul — 245
-Camel — 435 Donkey — 6,720
+Horse — 736 Miul — 245 Camel — 435 Donkey — 6,720
 Mwet puspis elos orani mwe kasru in sang moli orekma in sifil musaeak Tempul: Governor 270 ounce in gold 50 pol lulap in alu 530 nuknuk loeloes lun mwet tol
 Sifen sou 337 paun in gold 3,215 paun in silver
 Mwet lula 337 paun in gold 2,923 paun in silver 67 nuknuk loeloes lun mwet tol
+Mwet tol, mwet Levi, mwet topang ke pot lun Tempul, mwet on, mwet puspis sin mwet saya, mwet orekma lun Tempul, ac mwet Israel nukewa, elos oaki in acn in walil lun Judah.
 Ke malem se akitkosr mwet Israel nukewa elos okaki in acn selos. In len se omeet in malem sac elos nukewa fahsreni nu Jerusalem, ke acn in toeni lun mwet uh sisken na Mutunpot Kof. Elos siyuk sel Ezra, su mwet tol ac mwet sasla ke Ma Sap, tuh elan use book in Ma Sap ma LEUM GOD El tuh sang nu sin mwet Israel sel Moses.
 Ouinge Ezra el use nu yen mwet uh tukeni we — mukul, mutan, ac tulik su matwa fal in kalem kac.
 Na el riti Ma Sap nu selos in acn se sisken mutunpot sac, mutawauk ke lututang nwe ke infulwen len, ac mwet nukewa arulana lohang nu kac.
@@ -12550,6 +12550,7 @@ Mwet matu lasr meet, oayapa tokosra lasr, mwet kol ac mwet tol lasr Elos tiana l
 Kom tuh akinsewowoye tokosra su leum fin mwet lom Ke elos muta ke sie acn yohk ac wo fohk we, ma kom sang nu selos; Tusruktu elos tiana forla liki orekma koluk lalos in kulansupwekom.
 Na inge kut mwet kohs in facl se kom tuh ase nu sesr, Aok, in acn wowo se inge su kite kut mwe mongo.
 Kutena ma kosrani ke acn uh, ma na nu sin tokosra uh, Su kom oakiya facsr ke sripen kut orekma koluk. Elos oru oana lungse lalos nu sesr ac nu sin kosro natusr, Ac kut muta in ongoiya lulap!”
+Ke sripen ma sikyak inge nukewa, kut mwet Israel insese in simusla sie wuleang ku, na mwet kol lasr ac mwet Levi ac mwet tol lasr elos filiya sil lalos kac.
 Mwet se emeet in filiya mutun paol kac pa Governor Nehemiah, wen natul Hacaliah. Akluo pa Zedekiah, na mwet inge elos wi pac sainiya: Mwet tol:
 Seraiah, Azariah, Jeremiah,
 Pashhur, Amariah, Malchijah,
@@ -12589,7 +12590,6 @@ Wen se oemeet isus me nu sin kais sie sesr kut fah usla nu yurin mwet tol in Tem
 Kut fah usla nu sin mwet tol in Tempul flao ma orekla ke kosrani se oemeet lun wheat ke kais sie yac, oayapa mwe kisa lasr saya ke wain, oil in olive, ac kain in fokinsak nukewa. Kut fah usla sie tafu singoul ke fokin ima lasr ac sang nu sin mwet Levi su orani sie tafu singoul in siti srisrik, acn ima lasr oan we.
 Eneneyuk tuh mwet tol su ma in fita lal Aaron me, in wi mwet Levi muta ke pacl in orekeni sie tafu singoul inge. Na mwet Levi fah usla sie tafu singoul in ma orekeni inge nukewa nu ke nien filma ke Tempul, tuh in orekmakinyuk in Tempul.
 Mwet Israel ac mwet Levi fah eis ma orekeni nukewa ke wheat ac wain ac oil in olive, ac filiya ke nien filma yen kufwen mwe orekma lun Tempul oan we, su pa inge fukil in muta lun mwet tol su eis kunokon lalos, ac mwet topang ke mutunpot lun Tempul ac mwet on lun Tempul elos muta pac we. Kut fah tia pilesru lohm sin God lasr.
-
 Mwet kol elos oakwuki in Jerusalem, ac mwet saya elos susfa in sulela sie sou inmasrlon sou singoul nukewa in som ac wi muta in siti mutal Jerusalem. A sou lula nukewa elos muta in siti srisrik ac siti lulap saya.
 Mwet uh kaksakin pac kutena mwet saya ma sifacna lungse muta in Jerusalem.
 In siti srisrik ac siti lulap saya ah, mwet Israel, mwet tol, mwet Levi, mwet orekma lun Tempul, ac mwet in sou lun mwet kulansap lal Solomon, elos muta yen selos sifacna in siti selos sifacna. Pa inge inen mwet kol ke kais sie ipin acn lun Judah su muta in Jerusalem:
@@ -13890,14 +13890,6 @@ El ac oan ye sak ma oasr otoh, Ac wikwik ye loa in acn furarrar uh.
 El ac wiklana oan ye lulin sak ma oasr otoh, Ac sak willow ma oan pe infacl uh.
 El tia sangeng ke asrasr lun infacl uh; Ac el ac oakwuk na ke Infacl Jordan ac fwela mutal.
 Su ac ku in aklohsryela mutal ac sruokilya? Ku sruokya infwacl ke sruhf uh?
-
-
-
-
-
-
-
-
 “Fuka, kom ac ku in sruokilya Leviathan ke soko ka in ahya, Ku kapriya oalul ke soko sucl?
 Kom ac ku in isongang soko sucl nu ke infwacl, Ku srumasrla kapin oalul ke soko ka in ahya?
 Ya el ac ku in kwafe kom in tulalla? Ya el ac ku in fahk kas in aklung nu sum kom in pakomutal?
@@ -13924,6 +13916,14 @@ Wangin kutena acn ma munas ke kolo kacl uh; Arulana keke oana osra, ac tia ku in
 Nunak likkeke lal oru el tia etu sangeng. El ku oana sie tapweng eot, ma tia ku in fokelik.
 Pacl se el ac tuyak uh, finne mwet ma fokoko oemeet uh elos sangeng pac sel; Ke sripen sangeng lalos, elos tia ku in oru kutena ma.
 Wangin cutlass ku in kantelya; A mwet uh finne orekmakin osra in fakfuk, osra in pisr, ku kutena kain mwe fakfuk saya, tia ku in fakisya manol.
+Nu sel, osra uh munas oana mah paola, Ac bronze uh fisrasryasr oana sak kulawi uh.
+Wangin osra in pisr ku in oru elan kaing, Ac eot ma sang tanglal uh oana ipin sra uh.
+Nu sel, soko sak in anwuk uh oana pwe es uh, Ac ke mwet uh ac faksel ke osra in fakfuk uh, el ac israsr na.
+Unac in ik ma oan ke sial uh oana ipin ahlu kle ma fokelik ac arulana kosroh; Unac inge ac kunkunausya infohk furarrar uh oana osra in pukpuk uh.
+El ac arukak kapin meoa oana kof uh ke ac boel uh, Ac oru in pulollol oana tup in mwe akmusra fol se.
+Inkacl ah orala soko inkanek na saromrom tokol, Ac el furokak meoa uh wiawala.
+Wangin kutena ma fin faclu ku in lumweyuk nu kacl; Inmasrlon ma orakrak nukewa, el tia etu sangeng.
+El tia oek kosro ma yohk lukel uh; El oana sie tokosra nu sin kain kosro lemnak nukewa.”
 Na Job el topuk LEUM GOD ac fahk,
 “LEUM GOD, nga etu lah ku nukewa oasr sum, Ac kom ku in oru ma nukewa kom lungse.
 Kom siyuk lah fuka tuh nga kusen siyuk ke lalmwetmet lom Ke wangin ma nga etu. Nga tuh kaskas ke ma su nga tia kalem kac, Ke ma usrnguk su yoklala nu sik in etu kac.
@@ -13959,6 +13959,7 @@ Kom ac fah kunauselosla ke osra soko; Kom ac fah foklolosi nu ke ip srisrik, oan
 Inge, kowos tokosra uh, porongo kas in sensenkakin inge. Kowos mwet kol lun faclu, lutlut ke mwe luti se inge.
 Kulansupu LEUM GOD ke sangeng; Rarrar
 ac epasr nu sel. Kowos fin tia, na kasrkusrak lal ac fah sa in sikyak, Ac kowos ac fah misa. Insewowo elos nukewa su suk nien wikla yorol.
+
 O LEUM GOD, puslana mwet lokoalok luk, Pusenina mwet tuyak lainyu!
 Elos kaskas keik ac fahk, “God El ac tia kasrel.”
 Tusruktu, O LEUM GOD, kom mwe loang luk liki ongoiya in pacl e nukewa. Kom ase nu sik kutangla, Ac akpulaikyeyu.
@@ -14049,7 +14050,6 @@ Misa pa saflaiyen mwet koluk nukewa, Aok, elos nukewa su ngetla liki God.
 Mwet enenu ac fah tia mulkinyuklana nwe tok, Ac finsrak lun mwet sukasrup ac fah tia pilesreyuk nwe tok.
 Fahsru, LEUM GOD! Nikmet lela kutena mwet in ku liki nununku lom! Use mwet pegan nu ye motom Ac orala nununku lom nu selos.
 Oru tuh elos in sangeng, O LEUM GOD; Oru tuh elos in etu lah elos mwet sukawil moul la.
-
 O LEUM GOD, efu kom muta loesla? Efu kom wikinkomla liki kut in pacl upa nu sesr?
 Mwet koluk elos filang ac akkeokye mwet sukasrup; Sruokolosi ke mwe kwasrip ma elos sifacna orala.
 Mwet koluk elos filangkin lungse koluk lalos; Mwet rapku elos fahk kas in selnga ac pilesru LEUM GOD.
@@ -14075,6 +14075,7 @@ LEUM GOD El muta in Tempul mutal sel; Tron lal oasr inkusrao. El liye mwet nukew
 El srike na kewa mwet wo ac mwet koluk; Ac El arulana kwase mwet su lungse oru ma sulallal.
 El fah kahkin mulut ngeng ac fofosr in sulfur nu fin mwet koluk; El ac akkeokyalos ke eng follana.
 Tuh LEUM GOD El suwoswos ac El lungse orekma wo; Elos su oru ma wo, elos mutana yorol.
+
 O LEUM GOD, kasrekut! Wangin sie mwet wo lula, Ac mwet suwoswos tia ku in sifilpa koneyukyak.
 Mwet nukewa kikiap nu sin sie sin sie; Elos kiapu sie sin sie ke kaskas in aklukuk.
 O LEUM GOD, kutongya loh ma kaskas in aklukuk inge, Ac kaliya oalin mwet filang su fahk mu,
@@ -14088,8 +14089,7 @@ LEUM GOD, kom ac mulkinyula putaka? Ya kom ac mulkinyula ma pahtpat? Kom ac wiki
 Putaka nga ac muteng mwe keok nu sik? Ac putaka insiuk ac toasrkin ma inge ke len ac fong? Putaka mwet lokoalok luk ac kutangyula?
 Ngetma nu sik, O LEUM GOD luk, ac topukyu. Folokonak ku luk, ac tia lela nga in misa.
 Nikmet lela tuh mwet lokoalok luk in fahk, “Kut kutangulla.” Nikmet lela elos in isrunyu ke munasla luk.
-Nga lulalfongi na lungse pwaye lom; Nga ac fah insewowo mweyen kom ac fah moliyula.
-Nga ac fah on nu sum, O LEUM GOD, Mweyen kom nuna wo nu sik.
+Nga lulalfongi na lungse pwaye lom; Nga ac fah insewowo mweyen kom ac fah moliyula. Nga ac fah on nu sum, O LEUM GOD, Mweyen kom nuna wo nu sik.
 Mwet lalfon elos fahk insialos, “Wangin God!” Elos nukewa koluklana, Ac elos oru ma na srungayuk; Wangin sie selos oru ma suwohs.
 LEUM GOD El muta inkusrao ac ngeti nu fin mwet uh In liye lah oasr mwet lalmwetmet, Ku oasr mwet alu nu sel.
 Tusruktu, elos nukewa kuhfla liki inkanek pwaye; Mwet nukewa oana sie ke koluk lalos. Wangin sie selos oru ma suwohs, Tia siefanna.
@@ -14128,6 +14128,7 @@ Elos soaneyu oana kosro lion, Ac kena sreyuwi nu ke ip srisrik.
 Fahsru, O LEUM GOD! Lain mwet lokoalok luk ac kutangulosla! Moliyula liki mwet koluk ke cutlass nutum;
 Moliyula lukelos su eis insewowo lalos in moul se inge. Kaelos ke ongoiya su kom elosak nu selos; Oru in yohk tuh in sun pac tulik natulos, Ac in oasr pac ma lula nu sin tulik nutin tulik natulos!
 A funu nga, nga ac fah liye kom, mweyen nga tia oru ma koluk; Ac ke nga ngutalik, nga fah arulana engan ke sripen kom muta yuruk.
+
 Nga arulana lungse kom, LEUM GOD! Kom ku luk.
 LEUM GOD El eot ku luk, El nien wikla luk. God luk El mwe loeyuk luk, Ke nga muta yorol nga moul. El lisringyu oana sie mwe loeyuk; El loangeyu tuh nga in moul.
 Nga pang nu sin LEUM GOD, Ac El moliyula liki mwet lokoalok luk. Kaksakin LEUM GOD!
@@ -14249,7 +14250,6 @@ LEUM GOD El tokosra, Ac El leumi mutunfacl uh nufon.
 Mwet nukewa su ku in mano fah mongo ac pasrla nu sel. Mwet nukewa su misa tari fah oayapa putati nu ye mutal, Aok, mwet nukewa su sukawil moul lalos.
 Fwil tok uh ac fah kulansap nu sel; Elos ac fah kaskas ke Leum nu sin mwet in fwil tokolos.
 Ac fah srumunyuk nu sin mwet su soenna isusla Lah LEUM GOD El molela mwet lal.
-
 LEUM GOD El mwet shepherd luk; Wanginna ma nga ac kena kac.
 El oru nga in ona in ima folfol insroa; El kolyula nu sisken kof mihs.
 El akkeyala ngunik. El kolyu inkanek suwoswos ke Inel.
@@ -14334,6 +14334,7 @@ Pusracl oru tuh acn mwesis uh in kusrusr; El osrokak acn mwesis in Kadesh.
 Pusren LEUM GOD osrokak sak oak Ac osrokla sra nukewa insak uh, Ac elos nukewa su muta in Tempul lal elos wowoyak ac fahk, “Wolana nu sin God!”
 LEUM GOD El leum fin kof loal, El leum oana sie tokosra nwe tok ma pahtpat.
 LEUM GOD El sang ku nu sin mutanfahl sel, Ac akinsewowoyalos ke misla.
+
 Nga kaksakin kom, LEUM GOD, mweyen kom moliyula Ac tia lela tuh mwet lokoalok luk in aksruksrukyeyu.
 Ke nga tung ac pang nu sum, LEUM GOD luk, Kom akkeyeyula.
 Kom sruokyuwi liki misa. Nga tufokfokla nu in luf loallana, A kom folokinyume nu ke moul.
@@ -14371,7 +14372,6 @@ Kaksakin LEUM GOD! Fuka lupan woiya ke El akkalemye lungse lal nu sik, Ke pacl m
 Nga tuh sangeng ac nunku mu El sisyula liki ye mutal. Tusruktu El lohng pusren tung luk Ke nga pang nu sel in kasreyu.
 Lungse LEUM GOD, kowos mwet oaru lal nukewa, Tuh LEUM GOD El karinganang mwet oaru, A El arulana kaelos su filang.
 Kowos in ku na, ac pulaik na, Kowos nukewa su oasr finsrak lowos in LEUM GOD.
-
 Insewowo elos su ma koluk lalos nunak munas nu selos, Su ma koluk lalos tuleyukla.
 Insewowo el su LEUM GOD El tia esam orekma tafongla lal Ac su wangin kutasrik in el.
 Ke nga tuh tia fahkak ma koluk luk, Nga foroti ke nga tung len nufon.
@@ -14405,6 +14405,7 @@ El molelosla liki misa; El sruokyana moul lalos in pacl in sral.
 Kut filiya finsrak lasr in LEUM GOD; El mwe lango ac mwe kasru lasr.
 Ke sripal kut engan; Kut lulalfongi in Inel mutal.
 LEUM GOD, lela tuh lungse kawil lom in wi kut, Ke sripen kut filiya finsrak lasr in kom.
+
 Nga ac fah sang kulo nu sin LEUM GOD pacl e nukewa; Nga ac fah tiana tui in kaksakunul.
 Nga ac fah kaksakunul ke ma nukewa El orala; Lela tuh elos su pulakin keok in lohng ac in enganak!
 Kom in wiyu fahkak pwengpeng lun LEUM GOD; Ac lela kut in tukeni kaksakin Inel!
@@ -14427,7 +14428,6 @@ Mwet wo elos keok ke mwe ongoiya pus, Tusruktu LEUM GOD El molelos liki ma inge 
 LEUM GOD El arulana karinganulos; Tia sokofanna sri kaclos fah kaptelik.
 Ma koluk fah uniya mwet koluk; Elos su srunga mwet suwoswos ac fah kalyeiyuk.
 LEUM GOD El ac fah molela mwet lal; Elos su fahsr nu yorol in suk moul, fah karinginyuk.
-
 LEUM GOD, lainulos su lainyu, Ac mweunelos su mweun lainyu!
 Srukak mwe loeyuk ac mwe loang lom Ac fahsru moliyula.
 Srukak osra ac tula in mweun nutum Ac lainulos su ukweyu. Wulema nu sik lah kom ac moliyula.
@@ -14456,6 +14456,7 @@ Nikmet lela elos in fahk insialos mu, “Kut kunausulla! Sun na pwaye lungse las
 Finsrak tuh elos nukewa su engankin keok luk In arulana kutangyukla ac akfohsyeyukyak; Lela tuh elos su fahk mu elos wo likiyu In akmwekinyeyuk ac akpusiselyeyuk.
 Lela tuh elos su wiyu lac, In sasa ke engan ac fahk, “LEUM GOD El fulatlana! El insewowo ke kutangla lun mwet kulansap lal.”
 Na nga ac fah fahkak ke suwoswos lom, Ac nga ac fah kaksakin kom len nufon.
+
 Ma koluk uh tilyang nu insien sie mwet koluk ac kaskas nu sel. El pilesru God ac tia sangeng sel.
 Ke sripen nunak fulat lal kacl sifacna El nunku mu God El ac tia etu ke ma koluk lal ac akkolukyal kac.
 Kaskas lal uh koluk ac sessesla ke kikiap; El tia sifil oru ma lalmwetmet ac wo.
@@ -14468,7 +14469,6 @@ Tuh kom pa mutaweyen moul nukewa, Ac ke sripen kalem lom kut ku in liye kalem.
 Tia fuleak in lungse elos su etekom Ac in oru wo nu selos su suwohs insialos.
 Nikmet lela tuh mwet inse fulat elos in lainyu Ku mwet koluk in oru tuh nga in kaing.
 Liye mwet koluk oan ingo — Sisila elos nu ten, ac elos tia ku in sifil tukakek.
-
 Nikmet elya ke ma mwet koluk elos oru; Ac nik kom sok selos su oru ma sufal.
 Tuh elos ac fah sa in wanginla oana mah, Ac uli oana mahsrik.
 Lulalfongi in LEUM GOD ac oru ma wo; Tuh kom fah ku in moul ac misla fin facl se inge.
@@ -14509,6 +14509,7 @@ Liye mwet wo, ac tuni mwet suwoswos; Oasr fwilin tulik nutin mwet su moul in mis
 A mwet koluk elos kunausyukla, Ac fwilin tulik natulos sikiyukla.
 LEUM GOD El molela mwet suwoswos Ac El karinganulos in pacl in ongoiya.
 El kasrelos ac molelosla; El loangelos liki poun mwet koluk Mweyen elos sokol in wikla yorol.
+
 O LEUM GOD, nimet kaiyu in mulat lom!
 Kom kanteyuwi ke pisr nutum, Ac kom puokyuwi.
 Ke sripen kasrkusrak lom, nga muta in keok lulap; Monuk nufon mas ke sripen ma koluk luk.
@@ -14589,12 +14590,12 @@ Lela tuh LEUM GOD in akkalemye lungse kawil lal ke len, Tuh in oasr soko on yuru
 Nga fahk nu sin God, mwet kasru luk, “Efu kom ku mulkinyula? Efu ku nga enenu in keok na Ke sulallal lun mwet lokoalok luk?”
 Nga keoklana ke kas in akkoluk lalos, Ke elos nuna siyuk na sik kas se inge, “Pia God lom an?”
 Efu ku nga arulana supwar? Efu ku nga arulana fohs? Nga ac filiya finsrak luk in God, Ac nga fah sifilpa kaksakunul, God luk, su langoeyu.
-
 O God, fahkak lah wangin mwetik, Ac kasreyu ke sripa su mwet ma tia etu God elos lainyu kac; Moliyula liki mwet kikiap ac mwet koluk.
 Kom pa God su langoeyula; Efu kom ku sisyula? Efu ku nga in keok na Ke sulallal lun mwet lokoalok luk?
 Supwama kalem lom ac pwaye lom; Lela tuh in mwe kolyu Ac folokinyume nu Zion, fineol mutal sum, Ac nu in Tempul lom yen kom muta we.
 Na nga ac fah som nu ke loang lom, O God; Tuh engan luk tuku sum me. Nga ac fah srital ke harp nutik ac on in kaksakin kom, O God, God luk.
 Efu ku nga arulana supwar? Efu ku nga arulana fohs? Nga ac filiya finsrak luk in God, Ac nga fah sifilpa kaksakunul, Mwet Lango luk ac God luk.
+
 O God, kut tuh lohng ke insresr sifacna Ma mwet matu lasr elos fahk nu sesr Ke orekma yohk su kom oru nu selos in pacl lalos Ke pacl loeloes somla:
 Ke kom sifacna lusla mwet koluk liki facl selos Ac oakiya mwet lom in acn selos; Ac ke kom kai pac mutunfacl saya Ac oru tuh mutunfacl lom in kapkapak.
 Mwet lom elos tia sruokya acn inge ke cutlass natulos, Elos tia kutangla ke ku lalos sifacna, A ke ku lulap lom, Ac ke kom welulos. Ma inge akkalemye lah kom lungse elos.
@@ -14697,7 +14698,6 @@ El tia ku in us ma ingan ke el misa; Mwe kasrup lal tia ku in welul.
 Mwet se finne insewowo in moul lal pacl inge, Ac kaksakinyuk el ke sripen el mwet eteyuk se,
 El ac fah weang pacna mwet matu lal su misa meet, Ac som nu in acn lohsr ma pahtpat.
 Fulat lun sie mwet tia ku in sruokilya liki misa; El ac nuna misa pacna, oana ma orakrak nukewa.
-
 LEUM GOD, God Kulana, El kaskas; El pangon faclu nufon, mutawauk kutulap na nwe roto.
 Kalem lun God saromrom Zion me, Siti se su oaskulana in woiya.
 God lasr El tuku, tuh El tia tuku misla; Sie e lulap fah fahsr meet lukel, Ac sie eng upa raunella.
@@ -14721,6 +14721,8 @@ Kom akola in akkolukye mwet lom sifacna, Ac suk mwatan mwet lim.
 Kom oru ma inge nukewa, ac nga tia fahk kutena ma, Pwanang kom nunku mu nga oana kom. Tusruktu inge nga kai kom kac Tuh in kalem sum.
 “Porongo ma inge, kowos su pilesreyu. Kowos fin tia, nga fah kunauskowosla, Na wangin sie ac fah molikowosla.
 Sang kulo pa mwe kisa se ma akfulatyeyu, Ac nga fah molelosla nukewa su akosyu.”
+
+
 Pakoten nu sik, O God, Ke sripen lungse kawil lom! Ke pakoten lulap lom, Eela ma koluk luk!
 Ohlla ma koluk luk nukewa Ac aknasnasyeyula liki ma koluk luk!
 Nga akilen tafongla luk, Ac ma koluk luk oan in nunak luk pacl e nukewa.
@@ -14752,13 +14754,13 @@ Ke mwet suwoswos elos ac liye ma inge elos ac fah sangeng; Na elos ac fah isrun 
 A funu nga, nga oana soko sak olive su kapak in lohm sin God; Nga ac lulalfongi ke lungse kawil lal nwe tok.
 Nga ac fah kulo nu sum pacl nukewa, O God, ke orekma lom; Ye mutun mwet lom Nga ac fah fahkak tuh kom wo.
 
-
 Mwet lalfon elos fahk insialos, “Wangin God!” Elos nukewa koluklana, Ac elos oru ma na srungayuk; Wangin sie selos oru ma suwohs.
 God El muta inkusrao ac ngeti nu fin mwet uh In liye lah oasr mwet lalmwetmet, Ku oasr mwet alu nu sel.
 Tusruktu, elos nukewa kuhfla liki inkanek pwaye; Mwet nukewa oana sie ke koluk lalos. Wangin sie selos oru ma suwohs, Tia siefanna.
 God El siyuk, “Ya elos tia etu? Ya pwaye mwet orekma koluk inge nukewa wangin nanka? Elos moulkin ma elos pisre sin mwet luk, Ac elos tiana pre nu sik.”
 Tusruk elos ac fah arulana tuninfongla Yohk liki ke kutena pacl somla, Ke sripen God El ac fah sisalik srin mwet lokoalok lun mwet lal. God El siselosla, Ke ma inge Israel ac fah arulana kutangulosla.
 Nga arulana pre tuh kutangla In tuku nu sin mwet Israel Zion me. Ac fuka lupan engan lun mwet Israel Ke God El ac sifilpa akkasrupyalos!
+
 
 O God, moliyula ke ku lom; Aksukosokyeyu ke ku lulap lom!
 Lohng pre luk, O God; Porongo kas luk.
@@ -14767,7 +14769,6 @@ Tusruk God El mwet kasru luk. Leum El mwe loango luk.
 Lela tuh God Elan lain mwet lokoalok luk ke ma koluk lalos sifacna. El ac fah kunauselosla mweyen El oaru.
 Nga ac fah engan in oru mwe kisa nu sum, O LEUM GOD; Nga fah sot kulo nu sum Mweyen kom wo.
 Tuh kom moliyula liki ongoiya luk nukewa, Ac nga liye ke mwet lokoalok luk elos kutangyukla.
-
 
 Lohng pre luk, O God; Nikmet forla liki mwe siyuk luk!
 Porongeyu ac topukyu, Tuh nga arulana totola ke fosrnga luk.
@@ -14849,6 +14850,7 @@ Oana kosro ngalngul ke elos forfor in suk mongo nalos Ac kou elos fin tia konauk
 Tuh nga ac fah onkakin ku lom; Lotutang nukewa nga ac fah srukak pusrek in on kaksakin lungse kawil lom, Kom nien wikla luk, Sie nien lango luk in pacl in ongoiya.
 Nga fah kaksakin kom, mwet kasru luk. God, su lungse nga, El nien wikla luk.
 
+
 Kom tuh siskutla, O God, ac kutangkutla; Kom tuh mulat sesr, tusruktu inge sifilpa foloko nu yorosr.
 Kom tuh oru faclu in rarrar, ac srasrelik; Inge kom in fonosya acn ma srasrelik, tuh acn uh musalsalu.
 Kom tuh arulana akkeokye mwet lom; Kut fahsr tukulkul oana mwet sruhi.
@@ -14861,7 +14863,6 @@ O God, su ac usyula nu in siti se su kuhlusyukla ke pot ku? Su ac fah pwenyula n
 Ya pwaye lah kom siskutla? Ya kom ac tia wi mwet mweun lasr ke elos takla fahsr nu ke mweun?
 Kasrekut lain mwet lokoalok lasr — Kasru sin mwet uh wangin sripa.
 Ke God El wi kut lac, kut ac fah kutangla; El ac fah kutangla mwet lokoalok lasr.
-
 
 Lohng tung luk, O God; Porongo pre luk!
 Nga pang nu sum Ke nga muta loesla liki acn sik ac nga fuhleak finsrak luk. Usyu nu ke sie acn in molela,
@@ -14921,7 +14922,6 @@ Kom supwama af na matol nu in imae Ac sroksrokunak infohk uh; Kom akfisrasrye fo
 Fuka kasrupiyen kosrani lulap su kom oru inge! Acn nukewa kom som nu we, pukanten ma we.
 Inimae nwanala ke un kosro; Ac pe eol uh sessesla ke engan.
 Inimae nwanala ke sheep; Ac infahlfal uh sessesla ke wheat. Ma inge nukewa on ac sasa ke engan.
-
 Kaksakin God ke pusren engan lulap, kowos mwet faclu nufon!
 Onkakin Ine wolana lal, Akfulatyal ke pusren kaksak wolana!
 Kowos in fahk nu sin God, “Fuka lupan wolana lun ma kom oru! Ku lom arulana yohk, Oru mwet lokoalok lom elos sangeng ac putati ye motom.
@@ -14942,6 +14942,7 @@ Nga pang in suk kasru sel, Ac nga kaksakunul ke on.
 Nga funu pilesru in fahkak ma koluk luk nu sel, Leum El lukun tia lohngyu.
 Tuh pwayena lah God El lohngyu; El lohng pre luk.
 Nga kaksakin God, Mweyen El tia pilesru pre luk, Ku sruokya lungse kawil lal likiyu.
+
 O God, pakomutasr a akinsewowoye kut; Ngeta nu facsr ke kulang,
 Tuh faclu nufon in akilen ma lungse lom; Ac mutanfahl uh in etu ke molela lom.
 Lela tuh mwet uh in kaksakin kom, O God; Lela mwet nukewa in kaksakin kom!
@@ -15028,7 +15029,6 @@ Lela tuh elos su srike in uniyuwi In fohsak ac kutangyukla. Lela tuh elos su pwa
 Lela tuh elos su isrunyu, In mwekinla ke kutangyukla elos.
 Lela tuh elos nukewa su suk kom, Elos in engan ac insewowo. Lela elos nukewa su sang kulo ke molela lom In fahk pacl e nukewa, “God El fulatlana!”
 Nga munas ac sukasrup; Aksaye nu yuruk, O God! Kom kasreyu ac moliyula. O LEUM GOD, aksaye in kasreyu!
-
 LEUM GOD, nga tuku in wikla yurum; Nikmet lela in kutangyukla nga.
 Ke suwoswos lom, kom in kasreyu ac loangeyu. Porongeyu ac moliyula.
 Kom fah eot in molela luk, Ac nien wikla ku luk in langoeyu, Tuh kom eot ku ac nien muta ku luk.
@@ -15124,6 +15124,7 @@ Esam wulela su kom tuh orala yorosr. Oasr lokoalok orek in acn lohsr nukewa fin 
 Nikmet lela mwet sefunmwet in akmwekinyeyuk, Lela tuh mwet sukasrup ac mwet enenu in kaksakin kom.
 Tuyak, O God, ac aketeya oakwuk lom, Esam lah mwet tia etu God elos aksruksrukye kom ke len nufon.
 Nikmet mulkunla pusren kasrkusrak lun mwet lokoalok lom, Pusren wowon lun mwet lokoalok lom su tiana tui.
+
 Kut sot kulo nu sum, O God, kut sot kulo nu sum! Kut fahkak lupan ku lulap lom Ac srumun orekma sakirik lom.
 God El fahk, “Nga oakiya tari pacl in nununku, Ac nga ac fah nununku ke suwoswos.
 Ma moul nukewa finne rarrar, Ac faclu kusrusryak, Nga ac fah oru tuh pwelung lun faclu in okak na.
@@ -15168,7 +15169,6 @@ Pukunyeng uh okoala af, Pulahl kas yen engyeng uh, Ac sarom sarmelik nu yen nuke
 Pusren pulahl lulap lom ngirla, Ac kalmen sarom sarmelik fin faclu, Ac faclu rarrar ac kusrusrsrusr.
 Kom fahsr sasla in noa uh Ac tupalla kof loal meoa, A falkom tiana ku in liyeyuk.
 Ke kolyuk lun Moses ac Aaron, Kom kolla mwet lom oana sie shepherd.
-
 Mwet luk, porongo mwe luti luk, Ac lohang nu ke ma nga fahk.
 Nga ac orekmakin kas lalmwetmet In aketeya ma lukma in pacl somla,
 Ke ma su kut lohng ac etu, Su mwet matu lasr elos srumun nu sesr.
@@ -15254,6 +15254,7 @@ Efu ku mutunfacl saya in siyuk sesr, “Ku pia God lowos an?” Lela kut in liye
 Lohng pusren sasao lun mwet kapir, Ac ke ku lulap lom, aksukosokyalosla su wotyang nu ke misa.
 O Leum, oru foloksak lom nu sin mutunfacl ingan pacl itkosr Ke kas in akkoluk su elos fahk keim uh.
 Na kut, mwet lom, su sheep lun un kosro nutum, Fah sot kulo nu sum ma pahtpat, Ac kaksakin kom nwe tok.
+
 Porongekut, O Shepherd lun Israel, Lohng kut, kom su kol un sheep nutum; Kom su muta lucng liki posohksok lun cherub.
 Fahkkomyak nu sin sruf lal Ephraim, Benjamin, ac Manasseh. Akkalemye ku lom nu sesr; Fahsru ac molikutla!
 Folokinkutme, O God! Akkalemye pakoten lom nu sesr ac kut tufah moulla.
@@ -15290,7 +15291,6 @@ Nga arulana ke mwet luk in porongeyu, Ac akosyu.
 Na nga fah sa in kutangla mwet lokoalok lalos Ac nga fah sruokya mwet lainulos nukewa.
 Elos su srungayu fah sangeng ac epasr ye mutuk, Kai luk nu selos fah oan ma pahtpat.
 Tusruktu nga ac fah kite kowos ke wheat na wowo, Ac akkihpye kowos ke honey inima uh.”
-
 God El muta fin tron lal ye mutun mwet kulansap mutal lal inkusrao; Ke tukeni lalos El akkalemye wotela lal ouinge:
 “Nik kowos sifil oru nununku sesuwos; Ac kowos in tia sifil insese yurin mwet koluk!
 Oru nununku suwohs nu sin mwet sukasrup ac mwet mukaimtal, Ac oru suwohs nu sin mwet enenu ac mwet munas.
@@ -15299,6 +15299,7 @@ Molelosla liki poun mwet sulallal.
 Na nga fahk, ‘Kowos god uh, Kowos nukewa wen nutin El Su Fulatlana.’
 Tusruktu, kowos ac misa oana mwet uh, Ac moul lowos ac safla oana sie fisrak.”
 Fahsru, O God, ac nununku faclu, Tuh mutunfacl nukewa ma lom.
+
 O God, nik kom misla, Nik kom sukas ac tia sramsram.
 Liye! Mwet lokoalok lom elos alein, Ac elos su srungakom elos orek fohs.
 Elos orek pwapa lukma in lain mwet lom; Elos pwapa in lainulos su kom karingin.
@@ -15344,7 +15345,6 @@ Lungkulang ac oaru ac fah osun; Suwoswos ac misla ac fah asruoki.
 Oaru lun mwet uh fah sowak liki faclu nu lucng, Ac suwoswos lun God fah ngeti inkusrao me.
 LEUM GOD El ac fah oru tuh kut in kapkapak, Ac facl sesr fah isus fahko wo.
 Suwoswos fah fahsr meet liki LEUM GOD Ac akoo inkanek lal.
-
 Lipsreyu, O LEUM GOD, ac topukyu, Tuh nga munas ac enenu.
 Moliyula liki misa tuh nga inse pwaye nu sum, Moliyula, tuh nga mwet kulansap lom ac nga lulalfongi kom.
 Kom God luk, ke ma inge pakoten nu sik; Nga pre nu sum ke len nufon.
@@ -15369,6 +15369,7 @@ Porongo, O kowos su mwet in siti lun God, Ke ma wolana ma El fahk keiwos:
 Ac mwet uh fah fahk Tuh mutanfahl nukewa elos mwet Zion, Ac El su Kulana fah oru tuh Zion in ku.
 LEUM GOD El ac simusla inen mwet inge, Ac oakalosyang nukewa nu ke mwet Jerusalem.
 Elos ac fah onsrosro ac fahk, “Mwe insewowo lasr nukewa tuku Zion me.”
+
 O LEUM GOD su langoeyu, nga wowoyak ac tung len fon, Ac ke fong nga tuku nu ye motom.
 Lohng pre luk, Lipsre tung luk in suk kasru!
 Tuh mwe keok puspis putati nu fuk Ac nga apkuran in misa.
@@ -15440,7 +15441,6 @@ Leum, ku pia akpwayeyen lungse lom su kom akkalemye meet ah? Pia wulela kom tuh 
 Nik kom mulkunla lah akkolukyeyuk nga, mwet kulansap lom, Ac nga muteng kas in selnga nukewa lun mwet pegan nu sik.
 Mwet lokoalok lom elos aksruksrukye tokosra su kom sulela, O LEUM GOD! Elos akkolukyal yen nukewa el fahsr we.
 Kaksakin LEUM GOD nwe tok ma pahtpat! Amen! Amen!
-
 O Leum, kom nuna nien muta lasr.
 Meet liki kom oru tuh inging uh in sikyak, Ku oakiya faclu, Kom nuna God oemeet me, Oayapa nu tok ma pahtpat.
 Kom sap mwet uh in folokla nu ke fohk, Kom ekululosla nu ke kutkut, ma elos orekla kac.
@@ -15474,6 +15474,7 @@ Kom ac fah lolongya lion ac wet, Aok, lion sulallal ac wet pwasin.
 God El fahk, “Nga ac fah molelos su lungse nga, Ac karinganulos su akilenyu lah nga LEUM GOD.
 Ke elos pang nu sik, nga fah topkolos; Ke elos sun mwe ongoiya, nga fah muta yorolos, Nga fah molelosla ac akfulatyalos.
 Nga ac fah sang moul loes nu selos Ac molelosla.”
+
 Fuka woiya in sang kulo nu sum, O LEUM GOD, In on ac akfulatye kom, O God Fulatlana.
 In fahkak lungse kawil lom ke lotu nukewa Ac pwaye lom ke fong nukewa,
 Wi pusren on ke mwe srital su oasr ah kac, Ac ke pusra wolana lun harp.
@@ -15489,7 +15490,6 @@ Mwet suwoswos elos ac fah farngelik oana sak palm; Elos ac kapak oana sak cedar 
 Elos oana sak yoki in lohm sin LEUM GOD— Su farngelik in Tempul lun God,
 Su srakna isus fahko ke elos matuoh, Ac folfol insroa ac ku in pacl e nukewa.
 Ma inge akkalemye lah LEUM GOD El nununku suwohs, Ac wanginna ma sufal in El su loangeyu.
-
 LEUM GOD El tokosra, El nuknukyang ke wal a ku. Faclu oakwuki ku, Ac fah tiana mukuikui.
 Tron lom, LEUM GOD, nuna oakwuki ku oe ke mutawauk me, A kom nuna muta meet liki mutaweyen pacl u.
 Yen loal meoa srukak pusralos, O LEUM GOD, Elos srukak pusralos a ngirngir.
@@ -15585,6 +15585,7 @@ Nga fah lusla kutena mwet Su lesriki sie pac mwet, Ac nga fah tia muteng kutena 
 Nga fah insese nu selos su pwaye nu sin God Ac lela elos in muta inkul fulat sik. Elos su suwosna Nga fah lela in kulansap nu sik.
 Wangin mwet kikiap fah muta ke inkul fulat sik; Wangin mwet kutasrik fah muta yuruk.
 Len nu ke len nga fah kunausla Mwet koluk in acn sesr; Nga fah lusla mwet koluk nukewa Liki siti lun LEUM GOD.
+
 Porongo pre luk, O LEUM GOD, Ac lohng tung luk ke nga suk kasru sum!
 Nikmet ngetla likiyu In pacl in ongoiya nu sik. Lipsreyu, Ac sa in topukyu ke nga pang nu sum.
 Moul luk fahsr in wanginla oana kulasr, Ac monuk folla oana sie e firir.
@@ -15613,7 +15614,6 @@ In pacl loeloes somla kom orala faclu, Ac ke poum sifacna kom orala kusrao.
 Ma inge ac wanginla, a kom fah mutana; Ma inge ac mahi oana nuknuk; Kom fah sisla oana nuknuk, Na elos fah wanginla.
 A kom ac nuna oaya ah, Ac moul lom ac tiana safla.
 Tulik natusr elos ac fah moul in misla; Na ke karinginyuk lom Fwil natulos ac fah oakwuki in misla.
-
 Kaksakin LEUM GOD, O ngunik! Ma nukewa in nga, in kaksakin Ine mutal lal!
 Kaksakin LEUM GOD, O ngunik, Ac tia mulkunla lupan kulang lal.
 El nunak munas ke ma koluk luk nukewa Ac akkeyala mas luk nukewa.
@@ -15807,6 +15807,7 @@ God El fahkak sulung lal nu sin mwet su akkeokyalos Ac oru tuh elos in forfor ye
 Tusruktu El molela mwet ongoiya liki moul in keok lalos Ac oru tuh sou lalos in arulana puseni.
 Ke mwet suwoswos elos liye ma inge elos engan, A mwet koluk nukewa wanginla ma elos ku in fahk.
 Lela mwet lalmwetmet in nunku ke ma inge; Lela elos in nunku ke lungse pwaye lun LEUM GOD.
+
 Arulana pulaik insiuk, O God! Nga fah on ac kaksakin kom. Ngutalik, O ngunik!
 Ngutalik, harp nutik ac lyre nutik! Nga ac fah okasak faht uh.
 Nga fah sot kulo nu sum, O LEUM GOD, inmasrlon mutunfacl uh. Nga fah kaksakin kom inmasrlon mwet uh.
@@ -15820,7 +15821,6 @@ O God, su ac fah usyula nu in siti se oasr pot we? Su ac fah kolyula nu Edom?
 Ya kom siskutla na pwaye? Ya kom ac tia wi mwet mweun lasr uh illa?
 Kasrekut lain mwet lokoalok lasr, Mweyen kasru sin mwet uh wangin sripa.
 Ke God El wi kut lac, kut ac fah kutangla; El ac fah kutangla mwet lokoalok lasr uh.
-
 Nga kaksakin kom, O God; nikmet mutana misla!
 Mwet koluk ac mwet kikiap elos lainyu. Elos fahk kas kikiap keik,
 Ac elos fahk kas koluk keik — Elos lainyu ke wangin sripa.
@@ -16329,6 +16329,7 @@ O LEUM GOD, nga arulana srungalos su srungakom! Nga kwaselos su tuyak lain Kom.
 Nga srungalos na pwaye; Nga oakalos mwet lokoalok luk.
 Liyeyu, O God, ac etu insiuk; Srikeyu, ac konauk nunak luk.
 Suk lah oasr kutena ma sufal in nga Ac kolyu ke inkanek kawil nu tok.
+
 LEUM GOD, moliyula liki mwet koluk; Langoeyula liki mwet sulallal.
 Pacl nukewa elos pwapa in oru ma koluk; Elos purakak akukuin in pacl e nukewa.
 Lohulos oana serpent sulallal; Kas lalos oana pwasin ke wet cobra.
@@ -16342,7 +16343,6 @@ Lela tuh mulut firir in putati faclos; Lela in sisila elos nu in luf loal ma elo
 Lela mwet su kinauk kas sutuu ke mwet saya in tia akilenyuk, A ma koluk in ukweya na mwet sulallal ac kunauselosla.
 LEUM GOD, nga etu lah kom loango sripa lun mwet sukasrup Ac orala nununku suwohs nu sin mwet enenu.
 Pwayena lah mwet suwoswos elos fah kaksakin kom. Elos fah muta ye motom.
-
 Nga pang nu sum, LEUM GOD. Kasreyu inge! Lipsreyu ke nga pang nu sum.
 Eis pre luk in oana mwe kisa keng, Ac ke nga sralak pouk, eis in oana mwe kisa in eku.
 LEUM GOD, filiya sie mwe karinginyen oalik, Ac mwe taran srungul lun ngoasrok.
@@ -16353,6 +16353,7 @@ Oana sak su lipikyuki nu ke ip srisrik, Ouinge sri kaclos ac fah oan oaclik sisk
 Tusruktu nga nuna lulalfongi kom, LEUM GOD Kulana. Nga suk molela lom; Nikmet lela nga in misa!
 Moliyula liki mwe kwasrip su elos orala in sruokyu, Ac liki sruhf lun mwet orekma koluk.
 Lela tuh mwet koluk in putatyang nu in sruhf lalos sifacna A nga fahla na siska, ac tia sruoh.
+
 Nga pang nu sin LEUM GOD Elan kasreyu; Aok, nga kwafe nu sel.
 Nga use mwe torkaskas luk nukewa nu yorol, Nga fahkak ongoiya nukewa luk nu sel.
 Ke nga apkuran in fuhleak, El etu lah mea fal nga in oru. Ke inkanek su nga fahsr kac Mwet lokoalok luk elos okanla mwe kwasrip in sruokyuwi.
@@ -16360,7 +16361,6 @@ Ke nga ngetnget nu siskuk, Nga liye tuh wanginna mwet in kasreyu. Wangin mwet in
 LEUM GOD, nga pang nu sum tuh kom in kasreyu; Kom nien molela luk, LEUM GOD. Kom mukena pa nga enenu in moul se inge.
 Porongo ke nga pang, Tuh nga arulana muta in ongoiya. Moliyula liki mwet lokoalok luk; Elos arulana ku likiyu.
 Aksukosokyeyu liki mwe keok luk, Na nga fah kaksakin kom in walil lun mwet lom Ke sripen orekma wo lom nu sik.
-
 LEUM GOD, lohng pre luk; Ke suwoswos lom, porongo mwe siyuk luk; Ke oaru lom, topukyu!
 Nik kom nununkeyu, mwet kulansap lom. Wangin sie mwet suwoswos ye motom.
 Mwet lokoalok luk elos ukweyu Nwe ke na elos kutangyula. Elos filiyuwi in sie presin lohsr, A nga oana elos su nu misa pacl loeloes somla.
@@ -17465,7 +17465,6 @@ Sie mwet fusr finne sukasrup a el lalmwetmet, ac wo liki sie tokosra su matu ac 
 mwet fusr sac finne illa liki presin ac akwalyeyukyak nu ke tokosra, oayapa el finne isusla sukasrup in tokosrai uh.
 Nga nunku ke mwet nukewa su muta fin facl se inge, ac nga akilen lah oasr sie mwet fusr inmasrlolos su ac fah eis acn sin tokosra.
 Pisen mwet tokosra se inge leumi uh arulana pus, koflana oekyukla, a fwil tokol an tiana srui orekma lal. Ma inge wangin sripa — oana ukweyen eng uh.
-
 Karinganang fahsr lom nu in Tempul uh. Wo kom in som nu we in eis mwe lutlut, liki in orek kisa oana mwet lalfon su tia etu inmasrlon ma pwaye ac ma sutuu.
 Nunkala in wo meet liki kom kaskas, ac nimet oru kutena wulela ingunyar nu sin God. El muta inkusrao ac kom muta fin faclu, ouinge nik kom fahk kas pus liki ma fal kom in fahk.
 Kom fin nunak yokla kom ac mweme koluk, ac kom fin kaskas pusla, kom ac ku in fahk kas lalfon.
@@ -17485,6 +17484,7 @@ Tiana fal in ouinge! Kut ac som oana ke kut tuku. Kut orekma kemkatu, oana kut i
 Kut moulkin moul in lohsr, asor, fosrnga, kasrkusrak, ac mas.
 Pa inge ma nga konauk uh: ma se wo emeet sie mwet in oru pa elan mongo ac nim ac engankin ma el orekma kac ke moul fototo lal ma God El sang nu sel. Pa inge oakwuk lun God nu sin mwet uh.
 God El fin sang mwe kasrup ac acn nu sin sie mwet tuh elan engankin, fal elan sang kulo kac ac engankin orekma lal. Ma inge mwe kite sin God me.
+Ke God El oru mwet sac elan engankin ma inge uh, el ac tia arulana nunku ke fototo moul lal uh.
 Nga liye pac lah fin facl se inge oasr sie ma koluk na yohk sikyak, ac mwet puspis wi pulakin.
 God El ac sang mwe kasrup, sunak, ac acn nu sin sie mwet, aok el fas ke ma lungse lal nukewa. Na tok God El tia lela nu sel in engan kac. Siena mwet pa ac insewowokin, ac tia el. Tiana suwohs in ouinge. Arulana wangin sripa.
 Mwet se fin oasr foko tulik natul ac loes moul lal, tusruktu tu el finne moul paht a el tia insewowo in moul lal, ku fin tia pukpuki el in wo, na nga ku in fahk mu wo nu sin tulik fusr se ma misa na osweyukla, liki mwet sac.
@@ -17694,6 +17694,7 @@ Tusruktu mutan sefanna pa nga lungse uh, El arulana wo ac kato, oana sie wuleoa.
 Su mutan se inge, ku ngetngeta uh oana kalmen lotu uh? El arulana oasku ac saromrom, Ac srekuti oana faht uh ku malem uh.
 Nga oatula inmasrlon sak almond uh In tuh liye sak fusr ma kap infahlfal uh, Ac liye sra sasu ke mah orak uh, Ac ros ma farengelik ke sak pomegranate.
 Nga rrarakkom oru nga tufalak ke lungse luk uh, Oana sie mwet utuk chariot ke el ac rarala nu ke mweun uh.
+Mutan fusr Shulam se ingan, foloko, foloko, Tuh nga in ku in tuni kom. Efu ku kom lungse tuniyu Ke nga tacn inmasrlon mwet su takla tacn inge?
 Fisrak mutan, mutan fusr na kato se pa kom an! Niom arulana oasku in fahluk lom an. Finyepom uh raraun Oana ma mwet usrnguk ke tufahlfal uh orala.
 Futom oana sie ahlu pol Ma wain keng uh tia wi lisr loac uh. Kapin siom oana tohktok in wheat se Ma ros kiuf uh raunela.
 Titi lom uh oana deer fak lukwa, Ku kosro gazelle lukwa.
@@ -17707,7 +17708,6 @@ Nga ma na lun el su nga lungse, ac el mwelyu na.
 Fahsru, kom su saok sik. Lela kut in illa nu inimae Ac motullana we.
 Kut ac fah toang na tukakek ac som nu ke ima in grape, Ac liye lah elos mutawauk in kapak, Ac liye lah ros uh mutawauk in farengelik, Ac oayapa in liye lah sak pomegranate oasr ros kac. Na nga ac fah akkalemye lungse luk nu sum uh e we.
 Kom ac ku na in ngokak foul keng ke ros mandrake uh, Ac fokinsak wowo nukewa pa na oan sisken srungul in lohm uh. Ku na safla luk, nga elosak kain mwe insewowo nukewa nu sum.
-
 Nga ke in tamulel se luk pa kom, Ac in nina kiuk ah pa katiti kom ke titi lal uh, Na nga fin sun kom inkanek uh, Nga lukun ngokya motom ac mwet uh ac tia suk lah efu.
 Nga lukun uskomla nu lohm sin nina kiuk, Kom in tuh luti nu sik ouiyen lungse uh. Nga lukun sot pac wain keng ac wo emah uh nu sum, Ac kom ac pula sronin pomegranate sunuk uh.
 Nga ilung lac paol lasa, Ac lac paol layot kafisyuyang nu yorol.
@@ -17897,7 +17897,6 @@ Tusruktu mwet uh ac fah siyuk kom in lolngok yurin mwet susfa ac mwet inutnut, s
 Kowos in topkolos ac fahk, “Lipsre ma LEUM GOD El luti nu suwos! Nimet porongo mwet inutnut — ma elos fahk nu suwos uh ac tia ku in kasrekowos.”
 Mwet uh ac fufahsryesr fin facl sac, ac elos ac munasla ac masrinsralla. Ke sripen masrinsral lalos elos ac kasrkusrak ac selngawi tokosra lalos ac God lalos. Elos ac ngetak nu inkusrao,
 ku suiya infohk uh, a wangin ma elos ac liye sayen mwe ongoiya ac lohsr matoltol — aok ac fah sisiyang elos nu in lohsr, ac wangin inkanek lalos in kaingla liki pacl in ongoiya se inge.
-
 Acn sin sruf lal Zebulun ac sruf lal Naphtali tuh pilesreyuk meet, tusruktu in pacl fahsru ac fah akfulatyeyuk, liki Meoa Mediterranean nu layen kutulap in Infacl Jordan, fahla na nwe Galilee, yen mwet in mutunfacl saya elos muta we.
 Mwet su fufahsryesr in lohsr, Elos liye sie kalem lulap. Elos tuh muta in sie facl na lohsr, A inge kalem srelosi.
 Leum, kom akpusye mwet in mutunfacl sac; Kom akinsewowoyalos. Elos engankin ma kom orala, Oana ke mwet uh engan ke pacl in kosrani, Ku ke elos kitalik ma wap.
@@ -17918,6 +17917,7 @@ Ke ma inge, LEUM GOD El tia insewowo ke mwet fusr lalos, ac wangin pakomuta lal 
 Ma koluk lun mwet uh firir oana sie e ma esukak mahsrik ac kokul — sie e lulap insak uh ma fosryak oana sruen kulasr.
 Mweyen LEUM GOD Kulana El kasrkusrak, kaiyuk lal firir oana sie e sasla fin acn uh ac esukla mwet, ac kais sie mwet fah sifacna fosrngakunul.
 Yen nukewa in facl sac mwet uh ac alak in kang kutena ipin mwe mongo ma elos konauk, a masrinsral lalos tiana wanginla. Finne tulik natulos sifacna, elos kang pac!
+Mwet Manasseh ac mwet Ephraim elos sroani aacnwuki, ac elos tukeni sroang ac mweuni Judah. Ne ouinge, kasrkusrak lun LEUM GOD tia safla. El srakna asroela paol in kalyei.
 We nu suwos! Kowos orek ma sap sesuwos ma akkeokye mwet luk.
 Ke kowos oru ouinge kowos kosrala mwet sukasrup liki suwohs lalos ac liki nununku suwos nu selos, oayapa kowos eisla ma lun katinmas ac tulik mukaimtal.
 Mea kowos ac oru ke God El ac kai kowos— Mea kowos ac oru ke El ac use mwe ongoiya nu fowos liki sie facl loessula — Kowos ac kasrusr in suk kasru sin su — Kowos ac okanla mwe kasrup lowos uh oya?
@@ -18953,8 +18953,7 @@ Kom papa tumasr. Papa matu tumasr, Abraham ac Jacob, finne tia akilen kut, tusru
 Efu ku kom lela kut in kuhfla liki inkanek lom? Efu ku kom akupaye nunak lasr pwanang kut forla liki kom? Foloko ke sripalos su kulansupwekom, ac ke sripen mwet su nuna ma lom emeet me.
 Kut, mwet mutal lom, tuh lisyukla sin mwet lokoalok lasr ke kitin pacl. Elos kunausya acn mutal sum.
 Kom oru nu sesr oana kom in soenna leumi kut, ac oana kut in soenna mwet lom.
-Saok kom in seya inkusrao ac oatume! Eol uh lukun liye kom ac rarrar ke sangeng sum.
-Oana ke e uh esukak etong ac oru kof uh in poel, ouinge tuku lom fah oru Inem in eteyuk sin mwet lokoalok lom, ac oru mutanfahl uh in rarrar ye motom!
+Saok kom in seya inkusrao ac oatume! Eol uh lukun liye kom ac rarrar ke sangeng sum. Oana ke e uh esukak etong ac oru kof uh in poel, ouinge tuku lom fah oru Inem in eteyuk sin mwet lokoalok lom, ac oru mutanfahl uh in rarrar ye motom!
 Oasr pacl se meet kom tuh tuku ac oru mwe aksangeng lulap ma kut tiana nunku mu ac sikyak. Eol uh liye kom ac kusrusryak ke sangeng.
 Wangin mwet nu liye ku lohng ke sie God oana kom, su orek mwenmen ouinge nu selos su filiya finsrak lalos in El.
 Kom insewowo in osun nu selos su engan in oru ma suwohs, elos su esam ouiyen moul ma kom lungse elos in moulkin. Kom tuh kasrkusrak sesr, a kut oru na ma koluk. Kom ne arulana toasr sesr, a kut srakna oru ma sutuu oemeet me.
@@ -18964,6 +18963,7 @@ Tusruktu, LEUM GOD, kom papa tumasr. Kut oana fohk kle, ac kom oana mwet orek ah
 ke ma inge, nimet arulana kasrkusrak sesr, ku esam na ma koluk lasr nwe tok. Kut mwet lom. Pakoten nu sesr.
 Siti mutal nukewa sum ekla oana acn mwesis. Acn Jerusalem sikiyukla ac wanginla mwet we.
 Tempul lasr uh firriyukyak — acn mutal ac kato se ma mwet matu lasr meet ah tuh kaksakin kom we. Acn nukewa ma kut lungse meet ah musalsalu.
+LEUM GOD, ya ma inge tiana wakrekom? Ya wanginna ma kom ac oru, ac kom ac akkeokye kut yohk liki ma kut ku in mutangla?
 LEUM GOD El fahk, “Nga tuh akola in topuk pre lun mwet luk, a elos tiana pre. Nga tuh akola elos in koneyuyak, a elos tiana srike in sukyu. Mutanfahl se inge tiana pre nu sik, nga finne akola pacl nukewa in topkolos, ‘Nga pa inge; nga fah kasrekowos.’
 Nga akola pacl nukewa in paing mwet luk, su likkekelana in oru ma sutuu ac fahsr ke inkanek lalos sifacna.
 Elos tiana mwekin in akkasrkusrakyeyu pacl nukewa. Elos oru mwe kisa nu ke ma sruloala in ima oal lalos, ac furreak mwe keng fin loang lun mwet pegan.
@@ -19242,7 +19242,6 @@ Porongo! Nga lohng pusren mwet luk Wowoyak sasla fin acn uh, “Ya LEUM GOD El s
 Mwet uh wowoyak ac fahk, “Pacl fol somla, ac pacl in kosrani uh safla, A soenna mouliyukla kut.”
 Insiuk itungyuki Mweyen mwet luk uh itatu; Nga tung nwe mwemelil, ac arulana oela.
 Ya wangin ono in Gilead? Ya wangin mwet ono we? Na, efu mwet luk uh ku tiana kwela?
-
 Nga kena insifuk in oana sie lufin kof, Ac mutuk in oana sie unon in sroninmuta, Tuh nga in ku in tung len ac fong Ke mwet luk su anwuki.
 Nga kena in oasr sie acn nga in muta we in acn mwesis Nga in ku in som nu we loes liki mwet luk. Elos nukewa tia pwaye nu sin God, Sie un mwet kutasrik.
 Elos kurweya lohulos, oana ke mwet uh ulya sukan pisr natulos, in pisrik kas kikiap; Acn uh kolyuk ke kikiap, ac tia ke pwaye. LEUM GOD El fahk, “Mwet luk uh kalwenina in oru ma koluk Ac tiana akilenyu lah nga God lalos.”
@@ -19268,6 +19267,7 @@ Monin mwet misa oaclik yen nukewa, Oana fohkon kosro ke oan inima uh. Oana wheat
 LEUM GOD El fahk, “Mwet lalmwetmet in tia konkin ke lalmwetmet lalos, Ac mwet ku in tia pac konkin ke ku lalos. Ac mwet kasrup in tia konkin ke mwe kasrup lalos.
 Mwet se fin lungse konkin, Elan konkin lah el eteyu ac el kalem keik. Mweyen lungse luk oan ma pahtpat, Ac nga oru ma suwohs ac pwaye fin faclu. Pa inge ma akinsewowoyeyu. Nga, LEUM GOD, pa fahk ma inge.”
 LEUM GOD El fahk, “Pwayena lah pacl se ac fah tuku ke nga fah kaelos nukewa su kosrala in mano, tusruktu elos tiana moul fal nu ke wuleang lun kosrala.
+Nga fah kai mwet Egypt, mwet Judah, mwet Edom, mwet Amon, mwet Moab, ac elos su muta yen mwesis su koala aunsuf ke likintupalos. Inmasrlon mwet inge, oayapa inmasrlon mwet Israel, wangin sie selos moul fal nu ke wuleang luk.”
 Mwet Israel, porongo kas lun LEUM GOD nu suwos
 fahkang: “Nikmet ukwe ouiya lun mutanfahl saya; Nimet fosrnga ke ma sakirik ma ac sikyak inkusrao, Mutanfahl saya finne tuninfong kac.
 Alu lun mwet inge wangin sripa. Soko sak ac pakpuki insak uh, Na kihlyak ke kufwen sroasr lun mwet tufahl,
@@ -21006,6 +21006,11 @@ Tukun nga folokinkowosme liki facl nukewa kowos fahsrelik we, ac eiskowoseni, ng
 Ke nga folokinkowosme nu in facl Israel, facl se su nga tuh wuleang mu nga ac sang lun papa matu tomowos, na kowos ac fah etu lah nga pa LEUM GOD.
 Kowos ac fah esamak ouiya koluk nukewa ma kowos oru ac akfohkfokye kowos sifacna kac. Kowos ac sifacna srungakowos ke sripen ma koluk nukewa kowos orala.
 Ouiya ma nga ac oru nu suwos mwet Israel, ac tia fal nu ke orekma koluk lowos, a ac fah fal nu ke Ine mutal luk. Ke ma inge kowos ac fah etu lah nga LEUM GOD.” LEUM GOD Fulatlana pa fahk ma inge.
+LEUM GOD El fahk nu sik,
+“Mwet sukawil, ngetot suwohs nu eir. Kaskas lain acn eir, ac palu lain insak eir.
+Fahk nu ke insak lun acn eir in lohng ma LEUM GOD Fulatlana El fahk uh: Liye, nga fah tanak sie e, su ac fah esukak sak nukewa sunom, finne ma moul ku ma masla. Wangin kutena ma ac ku in konela. Ac fah fahsrelik layen eir me nwe ke sun layen epang, ac mwet nukewa ac pula fulen fol kac.
+Elos nukewa ac liye lah nga, LEUM GOD, pa tanak e sac, ac wangin sie ku in konela.”
+Tusruktu, nga tia insese nu kac, na nga fahk, “LEUM GOD Fulatlana, nimet supweyu in fahkak kas ingan! Mwet nukewa tukakinyu mu elos tiana kalem ke kas in pupulyuk luk.”
 LEUM GOD El kaskas nu sik ac fahk,
 “Kom, mwet sukawil moul la, fahkak kas in lain Jerusalem ac lain yen mwet uh alu we. Sang kas in sensenkakin facl Israel
 lah nga, LEUM GOD, fahk mu: ‘Nga mwet lokoalok lowos. Nga ac fwauk cutlass nutik ac unikowosi nukewa, mwet wo ac mwet koluk oana sie.
@@ -21038,11 +21043,6 @@ Aruruma kowos liye uh tia pwaye, ac ma kowos motko mu ac sikyak uh ma kikiap. Ko
 “‘Filiya cutlass an! Nga ac nununkekowos in acn kowos orekla we, in facl su kowos isusla we.
 Kowos ac pula kasrkusrak luk ke nga ac fuhleot nu fowos oana sie e firir. Ac nga ac eiskowosyang nu inpoun mwet sulallal, su arulana etu in kunaus mau.
 Kowos ac fah isisyak ke e. Srah keiwos ac fah sororla fin facl suwos sifacna, ac wangin sie mwet ac esam kowos.’” LEUM GOD pa fahk ma inge.
-
-
-
-
-
 LEUM GOD El kaskas nu sik ac fahk,
 “Kom, mwet sukawil moul la, ya kom akola in nununku siti se inge su sesseslana ke mwet akmas? Oru in arulana kalem sel ma srungayuk nukewa ma el orala.
 Fahkang nu sin siti sac ma nga, LEUM GOD Fulatlana, fahk inge: Ke sripen arulana pus mwet lom sifacna su kom uniya, ac oayapa kom akfohkfokyekomla ke kom alu nu ke ma sruloala, ouinge pacl lom apkuranme.
@@ -21904,9 +21904,6 @@ Mwet nukewa: fisrak, governor, governor akluo, ac mwet leum saya nukewa lal toko
 Na tokosra el fahk, “Kaksakin God lal Shadrach, Meshach, ac Abednego! El supwama lipufan lal ac molela mwet su orekma nu sel ac lulalfongel inge. Elos tuh pilesrala moul lalos ac tia akos ma sap luk ke sripen elos tia lungse epasr nu sin kutena god sayen God lalos sifacna.
 “Na inge, nga sapkin tuh mwet in kutena mutunfacl, ku kutena kain in kas, fin fahk kutena kas ma ac akkolukye God lal Shadrach, Meshach, ac Abednego, ac fah sreyuki manol ke kupasr nukewa kacl, ac lohm sel fah rakinyuki nwe ke oana sie yol in kutkut. Wangin siena god su ku in oru inkanek in molela ouinge.”
 Ac tokosra el sifilpa kulak wal lal Shadrach, Meshach, ac Abednego in acn Babylon.
-
-
-
 Tokosra Nebuchadnezzar el supwalik sap soko inge nu sin mwet in mutunfacl nukewa ac kain kas nukewa fin faclu, su fahk ouinge: “Paing kowos!
 Porongo ma nga ac fahk ke ouiya sakirik ac usrnguk su God Fulatlana El akkalemye nu sik.
 “Fuka yokiyen ma usrnguk God El ikasla nu sesr! Fuka lupan kuiyen mwenmen ma El oru! God El tokosra nwe tok ma pahtpat. El ac fah leum fin ma nukewa in pacl nukewa!
@@ -21941,6 +21938,9 @@ Soenna safla ma el fahk uh, na sie pusra kasla inkusrao me ac fahk, “Tokosra N
 Ac fah lisyukyak kom liki inmasrlon mwet uh, ac kom fah muta inmasrlon kosro lemnak, ac mongo mah oana soko ox ke lusen yac itkosr. Tukun pacl sacn, na kom ac fah akilenak lah pwaye oasr ku lun God Fulatlana fin tokosrai nukewa lun mwet uh, ac El ku in sang tokosrai uh nu sin kutena mwet El lungse sang nu se.”
 In kitin pacl ah na kas inge akpwayeiyuk. Nebuchadnezzar el lisyukyak liki inmasrlon mwet uh, ac mongo mah oana soko ox. Aunfong uh aksroksrokye manol, ac unac kacl uh loeselik oana unen eagle uh, ac tokinpaol loes oana tokinnien won uh.
 Tokosra el fahk, “Ke safla yac itkosr ah, nga ngetak nu inkusrao ac sifil kalemak nunak luk. Nga kaksakin God Fulatlana, ac sang sunak ac wolana nu sel su moul nwe tok. “El fah leumi ma nukewa nwe tok ma pahtpat, Ac ac fah wangin safliyen tokosrai lal.
+El ngeta liye mwet fin faclu oana ma lusrongten; Lipufan inkusrao ac mwet fin faclu Muta ye ku lal. Wangin sie mwet ku in lain lungse lal. Ku kusen siyuk ke ma El oru.
+“Ke pacl ma sifil kalemak nunak luk, na folokinyukme sunak, wal fulat luk ac wolana nukewa lun tokosrai luk. Mwet pwapa fulat luk ac mwet leum elos paingyu, ac wal fulat luk folokinyukme yohk liki na meet ah.
+“Ac inge, nga, Nebuchadnezzar, sunakin, kaksakin, ac akfulatye Tokosra in Kusrao. Ma nukewa El oru uh pwaye ac suwohs, ac El ku in akpusiselyela kutena mwet su inse fulat in orekma lal.”
 Sie fong ah, Tokosra Belshazzar el solani sie tausin mwet leum nu ke kufwa se lal, ac elos tukeni nim wain.
 Ke elos nimnim ah, Belshazzar el sap in utuku cup ac pol ma orek ke gold ac silver ma Nebuchadnezzar, papa tumal, el tuh usla liki Tempul in Jerusalem. Tokosra el sap utuku ma inge tuh el, mwet wal fulat lal, mutan kial kewa, ac mutan kulansap kial kewa, elos in nimnimkin.
 In pacl sacna ahlu ac cup gold uh utuku, ac elos nukewa tukeni nim wain kac
@@ -21971,6 +21971,7 @@ Ac pa inge kalmac uh: “MENE pa OAKLA — God El oakla pisen len lula ke tokosr
 “PARSIN pa KITALIK — tokosrai lom uh kitakatelik ac itukyang nu sin mwet Mede ac mwet Persia.”
 In pacl sacna Belshazzar el sap mwet kulansap lal in nokmulang Daniel ke nuknuk sroninmutuk lun mwet leum, ac in sripisrya soko ah gold ke kwawal. Na el sang in el pa mwet leum aktolu in tokosrai uh.
 In fong sacna, Belshazzar, tokosra lun Babylonia, el anwuki,
+ac Darius mwet Mede, su yac onngoul luo matwal in pacl sac, el eisla tokosrai sac.
 Darius el sulela sel elan srisrngiya governor siofok longoul in karingin acn nukewa ma el leumi uh.
 Sayen mwet inge, el sulella Daniel ac mwet luo pac sayal in liyaung orekma lun governor inge, ac in taran pac fahsriyen mwe kasrup lal tokosra uh.
 Tiana paht toko, arulana kalem lah orekma lal Daniel uh wo liki mwet wial ma kol orekma, oayapa governor uh kewa. Ac ke sripen el arulana pisrla ke orekma lal, tokosra el nunkauk elan oakilya Daniel tuh elan leumi tokosrai sac nufon.
@@ -21999,7 +22000,6 @@ Na Tokosra Darius el sim nu sin mwet in mutunfacl nukewa ac kain in kas nukewa f
 Nga sapkin nu sin mwet in mutunfacl nukewa su nga leumi, tuh mwet nukewa in sangeng ac akfulatye God lal Daniel. “El sie God moul, Ac El fah leum nwe tok. Tokosrai lal fah tiana kunausyukla, Ac ku lal ac fah wangin saflaiya.
 El molela ac loangela; El oru ma usrnguk ac mwenmen In kusrao ac fin faclu. El molella Daniel liki ku lun lion uh.”
 Arulana yokyokelik wal lal Daniel in we lal Tokosra Darius, oayapa in we lal Tokosra Cyrus, mwet Persia.
-
 In yac se meet ke Belshazzar el tokosra lun acn Babylonia, nga tuh oru mweme se, ac liye sie aruruma ke fong sac. Nga tuh simusla koanon mweme sac, ac pa inge ma nga simusla ke
 ma nga liye in fong sac: Eng uh tuhtuh yen nukewa me, ac oru meoa uh in arulana pulkulakyak.
 Kosro na lulap sulallal akosr otyak in meoa uh me, ac tia oana sie lumahlos.
@@ -22170,6 +22170,8 @@ Tulik se akluo natul Gomer, tulik mutan se. LEUM GOD El fahk nu sel Hosea, “Sa
 Tusruktu, nga fah pakomuta mwet Judah. Nga, LEUM GOD lalos, fah molelosla, tusruk nga ac tia oru ke inkanek in mweun — tia ke cutlass ku ke mwe pisr ac sukan pisr, ku ke horse ac mwet kasrusr fin horse.”
 Tukun Gomer el liktitela acn natul, el sifilpa pitutuyak ac oswela sie wen.
 LEUM GOD El fahk nu sel Hosea, “Sang inel Lo‐ammi mweyen mwet Israel elos tia mwet luk, ac nga tia God lalos.”
+Pisen mwet Israel ac fah oana puk weacn uh, su tia ku in oekyukla ku srikeyuki. Inge God El fahk nu selos, “Kowos tia mwet luk,” tusruktu in pacl fahsru uh, El ac fah fahk nu selos, “Kowos pa tulik nutin God moul.”
+Mwet Judah ac mwet Israel ac fah sifil folokeni ac ma sefannala. Elos ac fah sulela mwet kol sefanna lalos, ac elos fah puseni ac kapkapak in facl selos. Aok, len lal Jezreel fah sie len na pwengpeng.
 Ke ma inge, pangon mukul Israel wiowos “Ammi,” ac mutan Israel wiowos, “Ruhamah.”.
 Tulik nutik, fahla nu yurin nina kiomtal, el finne tila mutan se kiuk ac nga tila mukul tumal. Fahla kwafe sel elan tui liki elahn kosro lal ac moul fohkfok lal.
 El fin tiana tui, nga fah selya elan koflufolla oana ke len se el isusla ah. Nga fah oru elan oana sie acn musrasrla ac el fah misa ke malu.
@@ -22193,8 +22195,6 @@ Nga fah karinganang wulela luk nu sum, Ac kom fah akilen lah pwaye nga pa LEUM G
 In pacl sac nga fah topuk pre lun Israel, mwet luk.
 Nga fah oru af in kahk nu faclu, Na faclu fah fokkakin wheat, grape ac olive.
 Nga fah oaki mwet luk fin acn uh, ac oru tuh elos in sun wo ouiya. Nga fah pakoten nu selos su ekin “Tia Pakomuteyuk,” Ac nu selos su ekin “Tia Mwet Luk,” Nga fah fahk, “Kowos mwet luk,” Ac elos fah topuk, “Kom God lasr.”
-
-
 LEUM GOD El fahk nu sik, “Sifilpa fahla ac fahkak lungse lom nu sin sie mutan su orek kosro yurin mukul kawuk lal. Kom enenu in lungse el oana ke nga srakna lungse mwet Israel, elos finne forla nu sin god ngia ac orek mwe kisa ke raisin nu ke ma sruloala.”
 Ouinge nga sang ipin silver singoul limekosr ac bushel in barley itkosr in molela mutan sac kiuk.
 Nga fahk nu sel lah el enenu in mutana yuruk ke pacl na loeloes ac tia oan yurin kutena mukul, ku orek kosro ac eis molin kosro lal. Ac ke pulan pacl sacn nga fah tia pac oan yorol.
@@ -22318,6 +22318,7 @@ Elos sruasrala in forla likiyu. Elos ac wowoyak ke sripen srenenu ma oan faclos,
 Nga fah tia kai kom in kasrkusrak luk. Nga fah tia sifil kunausla Israel. Mweyen nga God, ac nga tia mwet. Nga pa El Su Mutal, su wi kom na. Nga fah tia tuku nu yurum in kasrkusrak.
 “Mwet luk fah fahsr tukuk pacl nga ngutngut oana soko lion nu sin mwet lokoalok lalos. Elos fah sulaklak nu yuruk roto me.
 Elos ac tuku Egypt me, mui oana won yen engyeng uh, ac liki acn Assyria me oana wuleoa uh. Nga fah sifilpa usalosme nu in lohm selos. Nga, LEUM GOD, pa fahk ouinge.”
+LEUM GOD El fahk, “Mwet Israel elos apinyula ke kikiap ac kutasrik, a mwet Judah elos srakna oaru in fahsr tukun God mutal.
 Ma nukewa mwet Israel uh oru ke lotutang lac nwe ke fong uh, wangin sripa ac mwe na kunausten. Kutasrik ac orekma sulallal yokelik inmasrlolos. Elos orek wulela yurin mwet Assyria, ac kukakin oil in olive nu sin mwet Egypt.”
 LEUM GOD El ac fahkak ma sutuu lun mwet Judah; El ac oayapa kai mwet Israel ke ouiyen mukuikui lalos. El ac folokin nu selos fal nu ke orekma lalos.
 Jacob, papa matu tumalos, el tuh alein nu sel Esau, tamulel lal, ke eltal srakna oan insien nina kialtal. Ke Jacob el matula, el anwuk lain God.
@@ -22332,7 +22333,6 @@ Ne ouinge, elos srakna alu nu ke ma sruloala in acn Gilead, ac elos su alu nu ka
 Papa matu tumasr, Jacob, el tuh enenu in kaing nu Mesopotamia, na el tuh orekma lun siena mukul ac liyaung sheep natul tuh elan ku in eis sie mutan kial.
 LEUM GOD El supwala sie mwet palu in molela mwet Israel liki moul in kohs lalos in facl Egypt, ac in karinganulosyang.
 Mwet Israel elos arulana akkasrkusrakye LEUM GOD, ac fal na elos in misa ke sripen orekma koluk lalos. LEUM GOD El fah kaelos ke sripen elos aklusrongtenyal.
-
 In pacl somla, ke sruf lun Ephraim kaskas, sruf saya lun Israel elos sangeng. Elos akfulatye Ephraim. Tuh mwet uh orekma koluk ke elos alu nu sel Baal, ac ke sripa se inge elos fah misa.
 Elos srakna orekma koluk ke elos orala ma sruloala ke osra, ac alu nu kac — ma sruloala ke silver, lumweyukla ke nunak lun mwet, ac orekla ke poun mwet. Na elos fahk, “Orek kisa nu selos.” Fuka tuh mwet uh ngok mutun ma sruloala inge, ma orekla in luman cow mukul!
 Ke ma inge, mwet inge fah wanginla oana ohk ke kusrun len, ac oana aunfong su sa na in sarla ke lotutang. Elos ac oana kulun wheat ma eng uh okla liki nien kulkul wheat uh, oana kulasr liki infunyu uh.
@@ -22348,6 +22348,7 @@ Ke kasrkusrak luk, nga sot tokosra uh nu suwos, ac ke nga foloyak nga eisalosla 
 Oasr pacl wo nu sin Israel in ku in moul, a el lalfon tiana akilen — oana sie tulik fusr su sun pacl in isusla lal, a el koflana illa liki insien nina kial.
 Nga fah tia molela mwet inge liki facl lun misa, ku kaingkunulos liki ku lun misa. Misa, srukak mwe lokoalok lom! Facl lun misa, srukak kunausten lom! Nga fah tia sifilpa pakomuta mwet inge.
 Israel finne kap wel oana mah inima uh, nga ac supwala sie eng fol kutulap me liki yen mwesis, na unon lalos ac lufin kof lalos ac fah paola. Eng sac ac fah okla ma saok nukewa.
+Samaria enenu in kalyeiyuk ke el tunyuna lainyu. Mwet lal uh ac fah misa ke mweun. Tulik fusr ac fah sisila nu infohk uh, ac mutan pitutu ac fah tiatla insialos.”
 Mwet Israel, foloko nu yurin LEUM GOD lowos. Ma koluk lowos oru kowos in tukulkul ac ikori.
 Foloko nu yurin LEUM GOD, ac oru tuh pre se inge in mwe kisa lowos nu sel: “Sisla ma koluk lasr ac porongo pre lasr, ac kut fah kaksakin kom oana ke kut tuh wulela nu sum kac.
 Tuh Assyria tia ku in molikutla, ac horse in mweun tia pac ku in loangekut. Kut fah tiana sifilpa fahk nu ke ma sruloala lasr mu elos god lasr. O LEUM GOD, kom fahkak pakoten nu sin mwet mukaimtal!”
@@ -22357,7 +22358,6 @@ Elos fah moulyak ke srun sasu Ac kato oana sak olive. Elos ac fah fo loslos Oana
 Elos ac sifilpa muta ye karinginyuk luk. Elos fah taknelik fiten wheat, Ac fahko kac ac fah pus oana ima in grape. Elos ac fah pwengpeng oana wain in acn Lebanon.
 Mwet Israel ac fah tia sifil alu nu ke ma sruloala. Nga ac fah topuk pre lalos ac karinganulos. Nga fah sonolosi oana soko sak folfol insroa, Mwe insewowo lalos nukewa fah tuku yuruk me.”
 Lela elos su lalmwetmet in kalem ke ma simla inge, ac in filiya in oan insialos. Inkanek lun LEUM GOD suwohs, ac mwet suwoswos elos moul ke sripen elos fahsr kac, a mwet orekma koluk elos tukulkul ac ikori mweyen elos tia fahsr kac.
-
 Pa inge kas lun LEUM GOD nu sel Joel, wen natul Pethuel.
 Kowos mwet matu, lohng ma inge, Mwet Judah nukewa in porongo. Ku nu oasr kain ouiya inge sikyak in pacl lowos uh, Ku ke pacl lun papa tomowos?
 Srumun ma inge nu sin tulik nutuwos, Ac elos fah srumun nu sin tulik natulos, Su ac fah srumun pac nu sin fwil tok ah.
@@ -22405,32 +22405,32 @@ Nien sisi kulun wheat fah sessesla ke wheat, Luf sisken acn in orek wain fah kah
 Nga fah folokonot ma lowos ma tuh musalla Ke yac ma u in locust uh tuh kangla fokin ima lowos. Nga pa tuh supwama u in locust matol ingan in lain kowos.
 Inge ac fah pukanten ma kowos in kang ac kowos fah kihp. Kowos fah kaksakin LEUM GOD lowos, Su tuh oru ma usrnguk inmasrlowos. Mwet luk ac fah tia sifilpa akmwekinyeyuk.
 Na mwet Israel, kowos fah etu lah nga oasr inmasrlowos, Ac lah nga, LEUM GOD, pa God lowos, Ac wangin pac sie sayuk. Mwet luk ac fah tiana sifilpa aksruksrukyeyuk.
+“Tukun ma inge, nga fah okoala ngunik nu fin mwet nukewa: Wen nutuwos ac acn nutuwos fah sulkakin kas luk, Mukul matu lowos fah mweme, Ac mukul fusr lowos fah liye aruruma.
+In pacl sac nga fah okoala ngunik Nu fin mwet kulansap pac, kewana mukul ac mutan.
+“Nga fah oru ma sakirik yen engyeng uh ac fin faclu In fahkak ke len sac. Ac fah oasr srah sororla, ac firir lun e, ac pukunyeng in kulasr.
+Faht uh ac fah lohsrla, Ac malem ac fah srusrala oana srah Meet liki len lulap ac aksangeng lun LEUM GOD ac tuku.
+Tusruktu elos nukewa su siyuk kasru sin LEUM GOD ac fah moliyukla. Oana ke LEUM GOD El tuh fahk, ‘Kutu sin mwet su muta Fineol Zion ac in Jerusalem ac fah tia sun mwe ongoiya inge. Elos su nga sulela fah painmoulla.’”
 LEUM GOD El fahk, “In pacl sac, nga fah folokonak Ma wo puspis lun Judah ac Jerusalem.
 Nga fah eisani mutunfacl nukewa Ac usalosme nu Infahlfal lun Nununku. Ingo nga fah nununkalos Ke ma nukewa elos tuh oru nu sin mwet luk. Elos akfahsryelik mwet Israel nu in mutunfacl saya, Ac kitalik Israel, facl sik.
 Elos susfa in konauk lah Mutunfacl su ac eis mwet sruoh. Elos moli mutan kosro ke tulik mukul, Ac moli wain ke tulik mutan.
 “Tyre, Sidon, ac Philistia nufon, mea kowos srike in oru nu sik uh? Ya kowos srike in folokin molin ma se nu sik? Fin pwaye, nga ac sa na folokonot!
 Kowos eisla silver ac gold luk, ac usla mwe kasrup luk nu in tempul lowos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Kowos usla mwet Judah ac Jerusalem loesla liki facl selos sifacna, ac kukakunulosyang nu sin mwet Greek.
+Inge nga fah usalosme liki acn nukewa ma kowos kukakunulosla nu we. Nga ac oru nu suwos oana ke kowos tuh oru nu selos.
+Nga fah oru tuh mwet Judah in moli wen nutuwos ac acn nutuwos, ac elos ac fah kukakunulosla nu sin mwet Sabean, sie acn oan loessula. Nga, LEUM GOD, fahk ouinge.
+“Kowos in fahkelik kas inge inmasrlon mutunfacl uh: ‘Akola nu ke mweun. Solani mwet ku nukewa; Usani mwet mweun lowos ac takla fahsrot.
+Tamla mutun osra in pukpuk nutuwos an nu ke cutlass, Ac mitmit nutuwos an nu ke osra in mweun. Finne mwet munas, elos in wi pac mweun.
+Mutunfacl nukewa su raunikutla, Kowos sulaklak fahsru, Ac tukeni nu ke infahlfal uh.’” O LEUM GOD, supwama un mwet mweun lom in wi lainulos.
+“Mutunfacl nukewa enenu in akola Ac tuku nu Infahlfal lun Nununku. Ingo, nga LEUM GOD ac fah nununku Mutunfacl ingan nukewa.
+Elos arulana koluk; Pakelosla oana wheat Ke pacl in kosrani. Futfutungya oana kowos futungya grape uh In nien fut wain, Nwe ke sessesla kahk.”
+Tausin nu ke tausin mwet Oasr Infahlfal lun Nununku. Acn we pa len lun LEUM GOD Fah sa tuku.
+Faht ac malem lohsrlosrani, Ac itu uh tila saromrom.
+LEUM GOD El ngutngut Fineol Zion me; Pusracl ngirngir Jerusalem me, oana pusren pulahl; Faclu ac inkusrao kusrusr, Tusruktu, El fah loangela mwet lal.
+“Na kowos mwet Israel, fah etu lah nga pa LEUM GOD lowos. Nga muta Zion, inging mutal sik. Jerusalem fah sie siti mutal. Mwet sac fah tiana sifil kutangulla.
+In pacl sac, ima in grape ac fah afunla fineol uh, Ac cow uh fah osralik fin inging nukewa: Infacl nukewa in Judah fah sessesla ke kof. Sie unon in kof ac fah sororla liki Tempul lun LEUM GOD, Ac aksroksrokye Infahlfal Acacia.
+“Egypt ac fah ekla sie acn mwesis, Ac Edom sie acn sikiyukla, Mweyen elos tuh mweuni acn lun Judah Ac onela mwet we finne wangin mwatalos.
+Tusruktu, ac fah oasr na mwet muta Judah ac Jerusalem nwe tok.
+Nga fah foloksak kaclos su anwuki; Nga fah kai mwet ma onelosla. Ac nga, LEUM GOD, fah muta Fineol Zion.”
 Pa inge kas lal Amos, sie mwet liyaung sheep, ac el mwet in siti srisrik Tekoa. Yac luo meet liki kusrusr se ma sikyak in acn Israel, God El fahkak nu sel Amos ke ma inge nukewa su ma nu sin mwet Israel. In pacl sac Uzziah el tokosra lun Judah, ac Jeroboam wen natul Jehoash, el tokosra lun Israel.
 Amos el fahk, “Pusren LEUM GOD ngirngir Fineol Zion me. Pusracl kasla oana pusren pulahl Jerusalem me. Insroan mah uh paola, Ac sak folfol insroa Fineol Carmel uli.”
 LEUM GOD El fahk, “Mwet Damascus elos kalweni na in oru ma koluk, ac ke sripa inge pwayena nga fah kalyaelos. Elos arulana sulallal in anwuk nu sin mwet Gilead.
@@ -22614,6 +22614,7 @@ Elos tia sisella, a elos srike na ke kuiyalos in kalang nu weacn uh, tuh elos ti
 Na elos wowoyak nu sin LEUM GOD ac fahk, “O LEUM GOD, kut siyuk, nikmet eisla moul lasr ke kut ac eisla moul lun mwet se inge! Kom, O LEUM GOD, pa pwanang ma inge nukewa. Ma inge kut ac oru fal nu ke lungse lom.”
 Na elos sraklalak Jonah ac sisella nu in meoa, na eng uh tui in kitin pacl ah na.
 Ma se inge oru mwet fin oak uh arulana sangeng sin LEUM GOD, pwanang elos oru sie mwe kisa nu sin LEUM GOD, ac wulela mu elos ac kulansap nu sel.
+Ac LEUM GOD El oru tuh soko ik lulap in okomulla Jonah, ac el muta insien ik soko ah ke len tolu ac fong tolu.
 Na ke Jonah el muta insien ik soko ah, el pre nu sin LEUM GOD lal ac fahk:
 “O LEUM GOD, ke nga muta in ongoiya nga pang nu sum, Ac kom topukyu. Nga pang nu sum infulan facl sin mwet misa me in suk kasru, Ac kom lohngyu.
 Kom sisyula nu yen loallana in meoa uh, Acn ma kof uh apinyula Ac noa lulap toki fuk.
@@ -22624,7 +22625,6 @@ Ke nga pula lah moul luk apkuran in safla, Nga pang nu sum, O LEUM GOD, Ac kom l
 Elos su alu nu ke ma srulaola lusrongten, Elos ngetla liki kom ac tia sifil inse pwaye nu sum.
 Tusruktu nga fah yuk on in kaksak nu sum. Nga fah orek kisa nu sum Ac oru oana ma nga wulela kac. Molela tuku sin LEUM GOD me!”
 Na LEUM GOD El sap ik soko ah in wihtaclla Jonah nu weacn uh, ac el wihtaclla.
-
 LEUM GOD El sifilpa kaskas nu sel Jonah.
 El fahk, “Fahla nu Nineveh, siti lulap sac, ac sulkakin nu sin mwet we pweng su nga fahkot nu sum.”
 Ouinge Jonah el akos LEUM GOD ac som nu Nineveh, sie siti yoklana, su enenu mwet se in fahsr len tolu in sasla kac.
@@ -22700,7 +22700,6 @@ O Jerusalem, kom in worwor ac sao oana sie mutan su ac isus, tuh inge kom fah li
 Mutanfahl puspis fahsreni tari in akkolukyekomla. Elos fahk, “Enenu na in aktaekyeyukla Jerusalem! Kut ac liye na ke ac arulana musalla!”
 Tusruktu, mutanfahl inge tia etu lah mea LEUM GOD El akoo nu selos. Elos tia akilen lah utukeni elos in tuh kalyeiyuk elos, oana ke wheat uh ac itat uh ke nien kulkul wheat.
 LEUM GOD El fahk, “Mwet Jerusalem, fahla ac kalyei mwet lokoalok lowos. Nga fah oru tuh kowos in arulana ku oana soko cow mukul su koacl orek ke osra, ac falkal orek ke bronze. Kowos ac fah itungya mutunfacl puspis, ac mwe kasrup su elos eis ke funmwet, kowos fah ase nu sik, Leum lun faclu nufon.”
-
 Mwet Jerusalem, orani mwet mweun lowos! Rauniyukyak kut! Elos ac sringil inwalin leum se lasr inge!
 LEUM GOD El fahk, “Bethlehem Ephrathah, kom sie sin acn ma srik oemeet in acn Judah, tusruktu nga fah use sie mwet kol lun Israel keim me, su takin sou lal nuna ma oemeet me.”
 Ouinge LEUM GOD El ac fah fuhleang mwet lal nu inpoun mwet lokoalok lalos nwe ke pacl se mutan se ma ac oswela tulik mukul se inge el isusla. Na mwet Israel wial su muta in sruoh fah folokeni nu yurin mwet lalos sifacna.
@@ -22715,6 +22714,7 @@ Nga fah kunausla siti nukewa ac ikruiya pot ku nukewa lowos.
 Nga fah kunausla inutnut lowos ac eisla mwet nukewa su muta palye ma ac sikyak uh.
 Nga fah kunausla ma sruloala ac sru oal lowos, ac kowos fah tia sifil alyalu nu ke ma kowos sifacna orala.
 Nga fah koteya ma sruloala ma orekla in lumahl god mutan Asherah in acn suwos, ac kunausla siti lowos nukewa.
+Ac in kasrkusrak lulap luk, nga fah oru folok sak luk nu fin mutunfacl nukewa ma tiana akosyu.”
 Kowos in lohng ma LEUM GOD El lain Israel kac. Tuyak, O LEUM GOD, ac fahk ma kom lain Israel kac. Lela fineol uh ac inging uh in lohng ma kom fahk an.
 Kowos eol uh, su pwelung kawil lun faclu, porongo mwe nununku lun LEUM GOD! Oasr ma se LEUM GOD El nununku mwet lal kac. El ac srukak sie kas in tukak in lain Israel.
 LEUM GOD El fahk, “Mwet luk, mea nga oru koluk nu suwos uh? Nga aktoasrye kowos fuka? Topukyu.
@@ -22765,6 +22765,7 @@ Oasr sie mwet su tuku liki kom, Nineveh, sesseslana ke pwapa sulal elan oru lain
 Pa inge ma LEUM GOD El fahk nu sin mwet Israel, mwet lal: “Mwet Assyria finne ku ac pus suna, elos ac fah kunausyukla ac wanginla. Mwet luk, nga tuh akkeokye kowos meet, tusruktu nga fah tia sifilpa oru.
 Inge nga fah aksafyela ku lun Assyria fowos, ac wotyalik sein ma kaprikowosi.”
 Pa inge ma LEUM GOD El wotela ke mwet Assyria: “Ac fah wangin tulik natulos in folokonak inen sou lalos. Nga fah kunausla ma sruloala su oan in tempul lun god lalos. Nga akoo sie kulyuk nu sin mwet Assyria — tia fal elos in moul!”
+Liye, mwet roso se pa tuku fineol uh me ingo, ac use pweng wo! El fahsr in sulkakin ke kutangla! Mwet Judah, oru kufwa in akfulat lowos an, ac sang nu sin God ma kowos wulela ku mu kowos ac sang nu sel an. Mwet koluk fah tia sifilpa utyak mweuni acn lowos. Wutiyukla na pwaye elos!
 Nineveh, ac mweuniyuk kom pa nge! Ku se ma ac ipsrikikomi tuku tari. Akoela mwet loang lom an! Taran inkanek an! Akola in mweun! (
 LEUM GOD El akola in folokonak ku ac wolana lun Israel, in oana woiyen acn we meet liki mwet lokoalok elos kunausla.)
 Mwet lokoalok elos us mwe loeyuk srusra, Ac nukum nuknuk in mweun srusra. Elos akola in mweun! Chariot natulos sarmelik oana e uh! Horse natulos rarala in tari kasrusr!
@@ -22778,7 +22779,6 @@ Acn Nineveh kunanula, mwet uh kaingelik, ac wangin ma lula we! Insialos kofelik 
 Pia siti se Ma tuh oana luf in lion ah in pacl inge? Acn ma lion fusr uh tuh tohfla we, Yen lion mukul ac lion mutan uh fahsri, Ac lion fusr natultal mutana in misla?
 Lion mukul uh ac uniya ma el sruokya nal, Ac eiya in ip srisrik nu sin lion mutan ac lion fusr natul. El nwakla luf sel ke ipin ikwa ma eiyuki.
 LEUM GOD Kulana El fahk, “Nga mwet lokoalok lowos! Nga ac esukak chariot nutuwos an. Mwet mweun lowos ac fah anwuki ke mweun, ac nga fah usla ma nukewa kowos tuh eisla sin mwet saya. Sap ku su mwet utuk kas lowos tuh tafwekowos in fahkak ac fah tia sifil lohngyuk.”
-
 We nu sin siti kikiap ac akmas se Su sessesla ke mwe kasrup ma ac fah pusrla ac utukelik.
 Porongo kusen sringsring lun mwe sringsring, Erarak lun wheel in mwe kasrusr uh, Pusren kasrusr lun horse uh, Ac srosro lun chariot uh!
 Mwet kasrusr fin horse yuyak in mweun, Cutlass uh sarmelik, ac osra uh saromrom! Mwet misa uh tia ku in oekyukla — Manolos yolyak oan, Ac mwet uh ikorkor faclos.
@@ -22962,6 +22962,10 @@ ac lipufan sac fahk nu sik nga in sulkakin kas ma LEUM GOD El fahk inge: “Nga 
 ac nga kasrkusrak sin mutunfacl su okak ac mutana in misla, mweyen ke pacl se ma nga srusruok mulat luk sin mwet luk, mutunfacl ingan tuh akyokye keok nu sin mwet luk upa liki meet ah.
 Na pa nga foloko nu Jerusalem in tuh akkalemye pakomuta luk nu ke siti sac. Tempul luk ac fah folokyak, ac siti uh ac fah sifil musaiyukla.”
 Lipufan sac fahk pac nu sik in sulkakin kas inge: “LEUM GOD Kulana El fahk mu siti nukewa lal ac fah sifilpa akkasrupyeyuk, ac El fah sifilpa eisla Jerusalem tuh in ma lal sifacna.”
+In sie pac aruruma nga liye koen cow akosr.
+Na nga siyuk sin lipufan se ma kaskas nu sik ah, “Mea kalmen koac inge?” El topuk ac fahk, “Elos akkalemye ku lulap lun faclu ma akfahsryelik mwet Judah, mwet Israel, ac mwet Jerusalem.”
+Na LEUM GOD El ikasla nu sik ac nga liye mwet orekma akosr utuk hammer.
+Ac nga siyuk, “Mea mwet inge tuku in oru uh?” El topuk ac fahk, “Elos tuku in aksangengye ac kunausla mutunfacl nukewa su tuh arulana itungya acn Judah ac akfahsryelik mwet we.”
 In sie pac aruruma nga liye mwet se sruok ah in srikasrak soko inpaol.
 Nga siyuk, “Kom ac som nu ya?” Ac el fahk, “Nga ac som in srikeya acn Jerusalem, ngan konauk lusa ac sralapa.”
 Na nga liye lipufan se ma tuh kaskas nu sik meet ah fahsryak, ac sie pac lipufan tuku in osun nu sel.
@@ -22975,10 +22979,6 @@ LEUM GOD El fahk, “Mwet Jerusalem, kowos on ke engan! Nga ac tuku in muta inma
 In pacl sac mutunfacl puspis ac fah forla nu sin LEUM GOD, ac ekla mwet lal. El ac fah muta inmasrlowos, ac kowos fah etu lah El pa supweyume nu yuruwos.
 Na Judah el ac fah sifilpa sie ma na saok sin LEUM GOD in acn mutal sel, ac Jerusalem ac fah siti se su El lungse yohk liki siti nukewa.
 Kowos nukewa mislawin ye mutun LEUM GOD, tuh El oatume liki acn mutal sel.
-
-
-
-
 In sie pac aruruma LEUM GOD El ikasla nu sik ac nga liye Mwet Tol Fulat Joshua el tu ye mutun lipufan lun LEUM GOD. Ac Satan el tu layen layot sel Joshua, akola in sruk sie mwe tukak in lainul.
 Na lipufan lun LEUM GOD fahk nu sel Satan, “Lela LEUM GOD Elan fahkot lah kom pa koluk, Satan! Lela LEUM GOD, su lungse Jerusalem, Elan arulana lain kom. Mwet se inge oana sie polosak ma tulakinyukla liki e uh.”
 Joshua el tu insac, nukum nuknuk na fohkfok.
@@ -23205,12 +23205,12 @@ Ke liye lasr uh, mwet filang uh pa insewowo. Mwet koluk uh elos kapkapak, ac ke 
 Na mwet su akfulatye LEUM GOD elos asramsrami, ac LEUM GOD El lipsre ac lohng ma elos fahk uh. Na simisyukla inen mwet nukewa su sangeng sin LEUM GOD ac akfulatyal, ke sie book in esmakin ye mutal.
 LEUM GOD Kulana El fahk, “Elos inge ac fah mwet luk. In len se ke nga ac oru nununku luk, elos ac fah ma luk sifacna. Nga ac fah pakomutalos oana ke sie papa el pakomuta sie wen su aksol.
 Na mwet luk elos ac fah sifilpa liye lah oasr ekla inmasrlon ma ac sikyak nu sin mwet suwoswos ac mwet koluk, ac nu selos su kulansupweyu ac elos su tia.”
-
-
-
-
-
-
+LEUM GOD Kulana El fahk, “Len se ac fah tuku ke mwet inse fulat ac mwet koluk nukewa fah firir oana mah paola. Ke len sac, elos ac firiryak ac ac fah wangin ma lula kaclos.
+A nu suwos su akfulatye inek, ku lun molela lulap luk fah srekowosi oana kalmen faht uh, ac akkeyekowosla. Kowos ac fah sukosokla ac srosro ke engan oana cow fusr ma ikakla liki kalkal lalos.
+Len se su nga ac oru nununku luk uh, kowos ac fah kutangla mwet koluk, ac elos ac fah oana kutkut ye niowos.
+“Esam na luti lal Moses, mwet kulansap luk, ke ma sap ac ma oakwuk su nga sang nu sel Fineol Sinai, tuh mwet Israel nukewa in akos.
+“Tusruktu meet liki len lulap ac aksangeng lun LEUM GOD tuku, nga ac supwalot mwet palu Elijah nu yuruwos.
+El ac fah sifilpa akwoye inmasrlon papa uh ac tulik uh; mweyen fin tia ouinge, na nga fah enenu in tuku ac kunausla facl suwos.”
 Pa inge takin filin sou lun Jesus Christ, su tuku ke filin tulik natul David, su ma ke filin tulik natul Abraham.
 Abraham el papa tumal Isaac, Isaac papa tumal Jacob, Jacob papa tumal Judah ac tulik wial,
 Judah papa tumal Perez ac Zerah sel Tamar, Perez papa tumal Hezron, Hezron papa tumal Ram,
@@ -27691,7 +27691,7 @@ Wangin mwet ku in lafwekin ma inge. Ouinge kowos in misla, ac tia oru kutena oui
 Kowos use mwet inge nu inge, a wangin ma elos pisre in tempul, ku fahk kas koluk ke god mutan lasr uh.
 Fin oasr mwe tukak lal Demetrius ac mwet orekma lal uh lain kutena mwet, na oasr mwet fulat lasr, ac oasr pac len in nununku. Elos ku in oru tukak lalos we.
 A fin oasr pac ma yohk liki ma kowos suk, enenu in aksuwosyeyuk ke meeting lun mwet fulat lun siti uh, fal nu ke ma sap lasr.
-Tukun ma sikyak misenge uh, oasr sensen lasr lah mwet uh ac fahk mu kut pa purakak wowon sac. Ke wangin sripa ma sramtauk fohs sac, oru wangin sripa wo ma kut ac ku in fahk kac.”
+Tukun ma sikyak misenge uh, oasr sensen lasr lah mwet uh ac fahk mu kut pa purakak wowon sac. Ke wangin sripa ma sramtauk fohs sac, oru wangin sripa wo ma kut ac ku in fahk kac.” Tukun el fahk ma inge, el folokonelik u sac.
 Tukun fohsak sac, Paul el solani mwet lulalfongi uh, ac sang kas in akku nu selos ac wilkas nu selos. Na el fahsr lukelos ac som nu Macedonia.
 El fahsr sasla in polo acn sac nufon, ac akkeye mwet uh ke kas wo puspis, na el tuku nu Achaia,
 ac muta we ke malem tolu. El akola in som nu Syria ke el etauk lah mwet Jew elos pwapa in lainul; ouinge el sulela elan folokla sasla in acn Macedonia.

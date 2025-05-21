@@ -926,6 +926,7 @@ ULabhani wathi njalo kuJakhobe, “Nansi inqwaba le, njalo nansi insika engiyimi
 Inqwaba le ingufakazi, kanye lensika le ingufakazi wokuthi kangisoze ngiyidlule inqwaba le ngize kwelakho icele ngizekonela lokuthi lawe kawuyikudlula kule inqwaba lensika uze kwelami icele uzengonela.
 Sengathi uNkulunkulu ka-Abhrahama, loNkulunkulu kaNahori, uNkulunkulu kayise wabo angahlulela phakathi kwethu.” Ngakho uJakhobe wenza isifungo ebizweni likaMesatshwa kayise u-Isaka.
 Wenza umhlatshelo khonapho elizweni lamaqaqa wanxusa izihlobo zakhe ekudleni. Sebedlile, balala khonapho.
+Ekuseni kakhulu ngosuku olulandelayo uLabhani wanga abazukulu bakhe lamadodakazi akhe wababusisa. Wasefulathela wabuyela ekhaya.
 UJakhobe laye wahamba ngeyakhe indlela, wasehlangabezwa yizingilosi zikaNkulunkulu.
 Wathi ezibona uJakhobe wathi, “Leli libandla likaNkulunkulu!” Indawo leyo waseyibiza ngokuthi yiMahanayimi.
 UJakhobe wathuma izithunywa ukuba zihambe phambili kwakhe kumnewabo u-Esawu elizweni laseSeyiri, ilizwe lika-Edomi.
@@ -958,7 +959,6 @@ UJakhobe wathi, “Akungitshele ibizo lakho.” Kodwa waphendula wathi “Ulibuz
 Ngakho uJakhobe wabiza indawo leyo ngokuthi yiPheniyeli esithi, “Kungoba ngimbonile uNkulunkulu ubuso ngobuso, kodwa impilo yami kayilinyazwanga.”
 Ilanga lamphumela esedlula ePheniweli, ehamba eqhugezela ngenxa yenyonga yakhe.
 Ngakho-ke kuze kube lamuhla abako-Israyeli kabayidli inyama elomsipha osuka enyongeni, ngoba inyonga kaJakhobe yenyela eduze lomsipha.
-
 UJakhobe wathi evusa amehlo wabona u-Esawu, eqhamuka lamadoda akhe angamakhulu amane; wasesehlukanisa abantwana phakathi kukaLeya, uRasheli lezincekukazi zombili.
 Waqhuba phambili izincekukazi labantwabazo, kwalandela uLeya labantwabakhe, kweza uRasheli loJosefa ngemuva.
 Yena ngokwakhe wahamba phambili wakhothama phansi emhlabathini kasikhombisa esebanga kumnewabo.
@@ -1709,10 +1709,6 @@ Kodwa izanuse zaseGibhithe lazo ngemilingo yazo zenza izimanga ezifananayo. Ngal
 UFaro wabuyela esigodlweni sakhe engakunaki lokho.
 Sekunjalo abaseGibhithe bemba imithombo okhunjini lomfula uNayili ukuba bathole amanzi okunatha, ngoba babengeke babe besawanatha awomfula.
 Kwedlula insuku eziyisikhombisa ngemva kokuba uThixo enze amanzi kaNayili aba ligazi.
-
-
-
-
 UThixo wathi kuMosi, “Buyela njalo kuFaro uthi kuye, ‘UThixo uthi, Vumela abantu bami bahambe bayengikhonza.
 Ungala ngizathumela uhlupho lwamaxoxo elizweni lakho.
 Umfula uNayili uzagcwala amaxoxo. Azangena esigodlweni sakho lasendlini yakho yokulala, lasembhedeni wakho; angene lezindlini zezikhulu zakho lezabantu bakho. Azagcwala ezindaweni zenu zokuphekela, lasemiganwini yenu yokuvubela izinkwa.
@@ -1741,6 +1737,10 @@ UFaro wabiza uMosi lo-Aroni. Wathi kubo, “Hambani liyehlabela uNkulunkulu wenu
 UMosi waphendula wathi, “Lokho akulunganga. Imihlatshelo yethu esinikela ngayo kuThixo uNkulunkulu wethu iyanengeka ebantwini beGibhithe. Singanikela ngeminikelo abayizondayo kambe kabayikusitshaya ngamatshe na?
 Kumele sithathe uhambo lwezizinsuku ezintathu siye enkangala siyemhlabela khonale uThixo uNkulunkulu wethu njengokusilaya kwakhe.”
 UFaro wathi, “Ngizalivumela lihambe liyenikela imihlatshelo kuThixo uNkulunkulu wenu enkangala, kodwa lingayi khatshana. Khathesi ngikhulekelani.”
+UMosi waphendula wathi, “Ngizakuthi ngisanda kusuka ngikhuleke kuThixo, njalo kusasa umtshitshi wempukane uzasuka kuFaro, ezikhulwini zakhe lebantwini bakhe. Kodwa uFaro kangasikhohlisi futhi asuke angasavumeli abantu ukuba bahambe bayenikela imihlatshelo kuThixo.”
+Emva kwalokho uMosi wasuka kuFaro wasekhuleka kuThixo.
+UThixo wenza lokho okwakucelwe nguMosi, umtshitshi wempukane wanyamalala kuFaro lezikhulu zakhe labantu bakhe, akwaze kwasala leyodwa.
+Kodwa langalesosikhathi uFaro wenza inhliziyo yakhe yaba lukhuni kazabavumela abako-Israyeli ukuba bahambe.
 UThixo wasesithi kuMosi, “Yana kuFaro uthi kuye, ‘Nanku okutshiwo nguThixo, uNkulunkulu wamaHebheru, ukuthi, “Yekela abantu bami bahambe, ukuze bayengikhonza.”
 Ungabalela ukuthi bahambe ube ulokhu ubabambile
 uThixo uzakwehlisela isifo esibi ezifuyweni zakho emadlelweni, amabhiza enu, obabhemi, amakamela, inkomo, izimvu lembuzi.
@@ -2112,7 +2112,6 @@ Nxa umuntu etshiya umgodi ukhamisile, loba esimba umgodi angawusibekeli kuwele k
 umninimgodi kahlawule; kahlawule umnikazi, isifuyo esifileyo besesisiba ngesakhe.
 Nxa inkunzi yomuntu ingalimaza eyomunye kuzamele ukuthi bathengise leyo ephilayo, babelane imali lesidumbu saleyo efileyo ngokulinganayo.
 Kodwa nxa kusaziwa ukuthi inkunzi ivele ilomkhuba wokuhlaba ezinye, kodwa umnikazi engayivaleli esibayeni, umnikazi kumele ahlawule isifuyo ngesinye isifuyo, njalo isifuyo esifileyo sizakuba ngesakhe.”
-
 “Nxa umuntu angantshontsha inkabi kumbe imvu abeseyibulala kumbe ayithengise, kumele ahlawule ngenkomo ezinhlanu zokuhlawula inkabi, lezimvu ezine zokuhlawula imvu.
 Nxa isela lingafunyanwa ligqekeza ebusuku beselitshaywa life, lowo ozivikelayo kalacala lokuchitha igazi,
 kodwa kungenzeka ilanga selikhwelile uyabe elomlandu wokuchitha igazi. Isela kumele lihlawule sibili, kodwa nxa lingelalutho, kumele lithengiswe ukwenzela ukuthi lokhu kube yinhlawulo yokuntshontsha kwalo.
@@ -2143,6 +2142,7 @@ ngoba ijazi lelo yilo lodwa embesa ngalo ubunqunu bakhe. Kambe kuyini okunye aba
 Lingahlambazi uNkulunkulu kumbe lithuke umbusi wabantu bakini.
 Lingagodli iminikelo eziphaleni zenu loba ezimbizeni zewayini lenu. Kumele lilethe kimi amadodana enu angamazibulo.
 Yenzani njalo ngenkomo lezimvu zenu. Yekelani zihlale labonina okwensuku eziyisikhombisa kodwa linginike zona ngosuku lwesificaminwembili.
+Lizakuba ngabantu bami abangcwele. Ngakho lingaze ladla inyama yenyamazana eyabe idatshudatshulwe yizilo zeganga; iphoseleni izinja.”
 “Ungahambi ukhuluma izindaba zamanga. Ungahlanganyeli lomuntu omubi ngoba ngufakazi olomona.
 Ungenzi okubi ulandela inengi labantu. Nxa ufakaza emthethwandaba, ungaphenduleli iqiniso ngokuvumelana labanengi,
 njalo ungazweli umuntu ecaleni ngoba engumyanga.
@@ -2848,13 +2848,6 @@ Kumele ahlawule ngesiphambeko sakhe kulokho ayabe ehluleke ukukwenza, okuphathel
 Nxa umuntu angona ngokwenza lokho okungavunyelwayo emlayweni kaThixo, lanxa engakwazi, uyabe elecala njalo uzakwetheswa umlandu.
 Uzaletha kumphristi njengomnikelo wecala inqama engelasici ezavela emhlambini, njalo elesilinganiso esamukelekayo. Ngalokhu umphristi uzamenzela indlela yokubuyisana ngesiphambeko sakhe angasenzanga ngabomo, njalo uzathethelelwa.
 Kungumnikelo wecala: ulecala lokona phambi kukaThixo.”
-
-
-
-
-
-
-
 UThixo wathi kuMosi:
 “Nxa umuntu esona njalo engathembeki kuThixo ngokukhohlisa umakhelwane wakhe ngalokho ayabe ekuphathisiwe loba ayabe ekugcinisiwe loba okuyabe kuntshontshiwe, loba nxa edlelezela omunye,
 loba nxa ethola obekulahlekile kodwa aqambe amanga ngakho, loba nxa efunga ngokungamanga, loba nxa esenza loba yisiphi isono esingenziwa ngabantu,
@@ -2878,6 +2871,13 @@ UThixo wakhuluma njalo kuMosi wathi,
 Kulungise ngamafutha emganwini wensimbi oyingubhe; kulethe kuhlanganiswe kuhle, ubususethula umnikelo wamabele wenziwe incezwana ube liphunga elimnandi kuThixo.
 Indodana egcotshelwe ukuthatha isikhundla sika-Aroni njengomphristi yiyo ezalungisa lokho. Kuyisabelo sikaThixo sansukuzonke, njalo kufanele kutshiswe ngokupheleleyo.
 Yonke iminikelo yamabele yomphristi izatshiswa iphele; akumelanga idliwe.”
+UThixo wathi kuMosi,
+“Tshono lokhu ku-Aroni lamadodana akhe: ‘Le yimithetho yomnikelo wesono: Umnikelo wesono kufanele uhlatshwe phambi kukaThixo endaweni lapho umnikelo wokutshiswa ohlatshelwa khona. Ungcwele kakhulu.
+Umphristi owunikelayo uzawudla; kumele udlelwe endaweni engcwele egumeni lethente lokuhlangana.
+Konke okuthinta inyama leyo kuyakuba ngcwele.
+Imbiza yebumba okuphekwe ngayo inyama kumele ibulawe; kodwa nxa iphekwe ngembiza yethusi, imbiza kufanele iphalwe ihlanjululwe ngamanzi.
+Wonke owesilisa emulini yomphristi uzawudla, ungcwele kakhulu.
+Kodwa loba yiwuphi umnikelo wesono okulethwa igazi lawo ethenteni lokuhlangana ukwenza ukubuyisana eNdaweni eNgcwele kawungadliwa kumele utshiswe.’ ”
 “ ‘Le yimithetho ephathelene lomnikelo wecala, oyiwo ongcwele kakhulu.
 Umnikelo wecala kufanele uhlatshelwe endaweni lapho umnikelo wokutshiswa ohlatshelwa khona, njalo igazi lawo kufanele lichelwe emaceleni wonke e-alithare.
 Wonke amahwahwa awo azanikelwa: umsila ononileyo kanye ledanga elembesa ezangaphakathi,
@@ -4229,6 +4229,21 @@ Batshona engcwabeni bephila, lakho konke okwakungokwabo; umhlabathi wabambokotha
 Besizwa ukukhala kwabo, bonke abako-Israyeli ababelapho babaleka, beklabalala besithi, “Umhlaba uzasiginya lathi!”
 Kwavela umlilo kuThixo watshaya waqothula amadoda angamakhulu amabili alamatshumi amahlanu (250) ayenikela ngempepha.
 UThixo wathi kuMosi,
+“Tshela u-Eliyazari indodana ka-Aroni, umphristi, ukuthi athathe indengezi azikhiphe emlotheni achithele amalahle endaweni ekhatshana, ngoba indengezi lezi zingcwele,
+indengezi zamadoda onileyo aze alahlekelwa yimpilo yawo. Khanda lezondengezi ukuze zendlaleke e-alithareni, ngoba zethulwa phambi kukaThixo zaba ngezingcwele. Azibe yisibonakaliso kwabako-Israyeli.”
+Ngakho u-Eliyazari umphristi wabutha indengezi zethusi ezazilethwe yilabo abatshayo, walungisa ukuba zikhandwe zendlalwe e-alithareni,
+njengokulaywa kukaMosi nguThixo. Lokhu kwakuzakhumbuza abako-Israyeli ukuthi kakho ovunyelwayo ukutshisa impepha phambi kukaThixo ngaphandle kuka-Aroni lesizukulwane sakhe, funa abe njengoKhora labalandeli bakhe.
+Ngosuku olulandelayo abako-Israyeli bonke bakhonona basola uMosi lo-Aroni. Bathi, “Selibulele abantu bakaThixo.”
+Kodwa kwathi ibandla selibuthene bephikisa uMosi lo-Aroni njalo sebekhangele ethenteni lokuhlangana, masinyane iyezi lalisibekela kwavela inkazimulo kaThixo.
+Ngakho uMosi lo-Aroni baya phambi kwethente lokuhlangana,
+uThixo wasesithi kuMosi,
+“Suka kulelibandla ukuze ngibatshabalalise.” Ngakho bawa phansi ngobuso.
+Kusenjalo uMosi wathi ku-Aroni, “Thatha udengezi lwakho uthele impepha kulo, ndawonye lomlilo ovela e-alithareni, uphange uye ebandleni ukuze ubenzele indlela yokubuyisana. Ulaka lukaThixo lubonakele; isifo sesiqalisile.”
+U-Aroni wenza okwakutshiwo nguMosi, waphanga wangena phakathi kwebandla. Isifo sesivele sesiqalisile ebantwini, kodwa u-Aroni wanikela impepha wabenzela indlela yokubuyisana.
+Wema phakathi kwabaphilayo lasebefile, isifo saphela.
+Kodwa kwasekufe abantu abazinkulungwane ezilitshumi lane lamakhulu ayisikhombisa (14,700) bebulawa yisifo, phezu kwalabo ababefe ngenxa kaKhora.
+Ngemva kwalokho u-Aroni wabuyela kuMosi esangweni lethente lokuhlangana, njengoba isifo sasesiphelile.
+UThixo wathi kuMosi,
 “Tshela abako-Israyeli ukuthi bakuphe intonga ezilitshumi lambili, kuphume ibenye kumkhokheli munye ngamunye wesizwana sabokhokho bakhe. Bhala ibizo lendoda ngayinye entongeni yayo.
 Entongeni kaLevi uzabhala ibizo lika-Aroni, ngoba kumele kube lentonga eyodwa emele inhloko inye ngayinye yesizwana sabokhokho bayo.
 Zifake ethenteni lokuhlangana phambi komtshokotsho wobufakazi, lapho engihlangana lawe khona.
@@ -4241,21 +4256,6 @@ UThixo wathi kuMosi, “Buyisela intonga ka-Aroni phambi komtshokotsho wobufakaz
 UMosi wenza khona lokho kanye uThixo ayemlaye ngakho.
 Abako-Israyeli bathi kuMosi, “Sizakufa! Sifile, sonke sesifile!
 Loba ngubani ozasondela phansi kwethabanikeli likaThixo uzakufa. Sizakufa sonke na?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 UThixo wathi ku-Aroni, “Wena, lamadodana akho labemuli kayihlo lizakuba lomlandu wokukhangela ukwephulwa kwemithetho yendawo yokukhonzela, njalo wena kanye lamadodana akho yini lodwa elizakuba lomlandu walabo abonela abaphristi.
 Letha abaLevi bakini bevela ezizwaneni zabokhokho benu bazohlanganyela kunye lani bakuphathise wena lamadodana akho lapho lisenza inkonzo phambi kwethente lobufakazi.
 Bazakuba ngaphansi kwakho njalo benze yonke imisebenzi yasethenteni, kodwa akumelanga basondele phansi kwezimpahla zendlu engcwele kumbe e-alithareni, funa lonke, wena kanye labo life.
@@ -4647,6 +4647,7 @@ Nikelani umnikelo owenziwe ngomlilo kube liphunga elimnandi kuThixo, umnikelo wo
 Ndawonye lenkunzi, inqama kanye lamazinyane ezimvu, linikele iminikelo yakho yamabele kanye leminikelo yakho yokunathwayo kusiya ngenani elimisiweyo.
 Akube lempongo eyodwa ukuba ibe ngumnikelo wesono, phezu komnikelo wokutshiswa wansuku zonke ndawonye lomnikelo wakho wamabele kanye lomnikelo wakho wokunathwayo.
 Ukwengezelela kulokho elinikela ngakho ngesifungo loba iminikelo yenu yokuzithandela, nikelani lokhu kuThixo emikhosini yenu emisiweyo: iminikelo yenu yokutshiswa, iminikelo yamabele, iminikelo yokunathwayo kanye leminikelo yobudlelwano.’ ”
+UMosi watshela abako-Israyeli konke lokho uThixo ayemlaye ngakho.
 UMosi wathi kwabazinhloko zezizwana zabako-Israyeli: “Nanku ukulaya kukaThixo:
 Nxa indoda isenza isifungo kuThixo loba isenza isifungo iziphe icala ngokuthembisa, akumelanga yephule isithembiso sayo kodwa kumele igcwalise ngokwenza konke ekutshiloyo.
 Nxa intombazana elokhu isezandleni zabazali bayo isenza isifungo kuThixo loba iziphe icala ngokuthembisa
@@ -4663,7 +4664,6 @@ Indoda yakhe ilakho ukuqinisa loba ukwala loba yisiphi isifungo azasenza loba yi
 Kodwa nxa indoda yakhe ingatshongo lutho kuye ngakho okwensuku, kuzakutsho ukuthi iyaziqinisa zonke izifungo loba izithembiso eziyisibopho kowesifazane. Indoda yakhe iyakuqinisa lokho ngokungatsho lutho kuye ekukuzweni kwakhe lokho.
 Kodwa-ke, nxa angakwenqabela ngemva kwesikhathi ezwile ngakho, kutsho ukuthi usethwele icala lakhe.”
 Le yiyo imithetho eyaphiwa uMosi nguThixo emayelana lokuhlalisana kwendoda lomkayo, njalo phakathi kukayise lendodakazi yakhe esakhulayo elokhu isesezandleni zakhe.
-
 UThixo wathi kuMosi,
 “Phindisela kumaMidiyani usenzela abako-Israyeli. Ngemva kwalokho, uzalandela okhokho bakho.”
 Ngakho uMosi wathi ebantwini, “Hlomisani amanye amadoda aye empini ayekulwa lamaMidiyani kanye lokuphindisela kukaThixo kuwo.
@@ -5271,6 +5271,7 @@ Linanzelele lilandele iziqondiso zonke engilinika zona, ukuze kulihambele kuhle 
 UThixo uNkulunkulu wenu uzazichitha phambi kwenu zonke izizwe okufanele lizihlasele libe selizemuka okungokwazo. Kodwa nxa selizinqobile lazichitha selihlezi elizweni lazo,
 njalo nxa sezichithiwe phambi kwenu, liqaphele lingahugeki ngokubuza ngabonkulunkulu bazo lisithi, ‘Kanti zona lezizizwe zibakhonza njani onkulunkulu bazo? Lathi sizakwenza okufananayo.’
 Lingabokhonza uThixo uNkulunkulu wenu ngendlela abakhonza ngayo, ngoba ekukhonzeni kwabo onkulunkulu babo, benza konke okunengisayo okungasoze kwamukeleke kuThixo. Baya baze batshise amadodana lamadodakazi abo emlilweni bethi bayanikela kubonkulunkulu babo.
+Nanzelelani ukuthi lenza lokho engililaya ngakho, lingengezeleli loba liphungule kulokho.”
 “Nxa umphrofethi, loba umuntu oboniswa ngamaphupho, angavela phakathi kwenu abesebika imilingo loba isimanga,
 kuthi leyomilingo loba lesosimanga ayabe ekhulume ngaso, kubonakale kusenzakala, abesesithi, ‘Asilandeleni abanye onkulunkulu’ (onkulunkulu elingabaziyo) ‘njalo asibakhonzeni,’
 lingalaleli amazwi alowo mphrofethi loba umuntu wamaphupho. UThixo uNkulunkulu wenu uzabe elilinga efuna ukubona kumbe liyamthanda yini ngezinhliziyo zenu kanye langemiphefumulo yenu yonke.
@@ -5289,7 +5290,6 @@ kumele lifake inkemba ngeqiniso kulabo bonke abahlala kulelodolobho. Lilichithe 
 Buthelelani konke okuthunjiweyo kulelodolobho phakathi enzikini yalo enkundleni yokuhlanganela kwabantu lilithungele litshe lilobe lelodolobho kanye lempahla zalo zonke njengomnikelo wokutshiswa kuThixo uNkulunkulu wenu. Kumele lisale lilunxiwa lelodolobho kokuphela, lingakhiwa kutsha futhi.
 Akungabi lokukodwa kwalokho okusoliweyo okuzafunyanwa ezandleni zenu, ukuze uThixo adedise ulaka lwakhe oluvuthayo; alitshengisele umusa wakhe, abe lozwelo kini, andise amanani enu, njengoba wathembisa ngesifungo kubokhokho benu,
 ngoba lilalela uThixo uNkulunkulu wenu, ligcina imilayo yakhe le engilinika yona lamuhla njalo lisenza okulungileyo emehlweni akhe.”
-
 “Lingabantwana bakaThixo uNkulunkulu wenu. Lingabozisika loba liphuce amakhanda enu lizilela abafileyo,
 ngoba lingabantu abangcwele kuThixo uNkulunkulu wenu. Ebantwini bonke abasemhlabeni, uThixo ulikhethile lina ukuthi libe ngabantu bakhe abaligugu.
 Lingadli loba kuyini okunengisayo.
@@ -5499,6 +5499,7 @@ Lingenzi lutho entombini; kayenzanga sono esingabangela ukuthi ife. Lindaba iyaf
 ngoba indoda ifumene inkazana egangeni, loba intombi le ekhombileyo ibihlabe umkhosi, bekungelamuntu wokuyilamulela.
 Nxa kungenzeka ukuthi indoda ihlangane lentombi engakakhombi ibe isiyidlwengula njalo kwazakale.
 Indoda leyo izahlawula uyise wentombi amashekeli esiliva angamatshumi amahlanu. Kumele iyithathe ibe ngumfazi wayo ngoba isiyingcolisile. Akumelanga iyale ukuphila kwayo konke.
+Akumelanga ukuthi umuntu athathe umkayise; angahlazisi umbheda kayise.”
 “Loba ngubani olimele amaphambili, kungaba ngokuthenwa kumbe ukugxotshwa kavunyelwa ukungena ebandleni likaThixo.
 Loba ngubani ozelwe ngobufebe loba izizukulwane zakhe kuze kube ngesetshumi, kavunyelwa ukungena ebandleni likaThixo.
 Kakho umʼAmoni loba owaseMowabi loba isizukulwane sakhe kuze kufike esizukulwaneni setshumi ozavunyelwa ukungena embuthanweni kaThixo.
@@ -5524,7 +5525,6 @@ Kodwa nxa lingayekela ukwenza isifungo kaliyikuba lomlandu.
 Konke lokho okuphuma endebeni zenu kumele libe leqiniso ukukwenza, ngoba lenze lesosifungo ngokukhululeka lithembisa kuThixo uNkulunkulu wenu ngemilomo yenu.
 Nxa lingangena esivinini sikamakhelwane wenu, lingadla wonke amagrebisi elifisa ukuwadla, kodwa lingafaki lelilodwa esitsheni senu.
 Nxa lingena ensimini kamakhelwane eyamabele, lilakho ukudobha okuwileyo ngezandla, kodwa limukani lingasebenzisi isikela emabeleni alokhu emi ngamahlanga.”
-
 “Nxa indoda ingathatha umfazi kodwa angayithokozisi ngoba indoda ifumene ihlazo ngaye ibe isimlobela incwadi yokuquma umtshado, imnike, ibisimxotsha endlini yayo,
 kuthi esesukile endlini yaleyondoda athathwe ngeyinye indoda,
 layo leyondoda yesibili imsole imnike incwadi yokwehlukana, imqhubele ibe isimxotsha emzini wayo, kumbe leyondoda ife,
@@ -5679,7 +5679,6 @@ Phakathi kwalezozizwe kaliyikufumana ukuphumula, kumbe indawo yokuphumuza inyawo
 Lizahlalela ovalweni izikhathi zonke, ligcwele ukwesaba emini lebusuku, lingelaqiniso ngempilo yenu.
 Ekuseni lizakuthi, ‘Aluba sekuntambama!’ ntambama lithi, ‘Ngabe kusekuseni!’ ngenxa yokwesaba okuzakwehlela inhliziyo zenu lengxenye yezinto elizazibona ngamehlo enu.
 UThixo uzalithumela futhi eGibhithe ngemikhumbi uhambo engathi aliyikuluhamba futhi. Lapho lizazithengisa ezitheni njengezigqili zesilisa lezesifazane, kodwa kakho ozalithenga.”
-
 Lezi yizimiso zesivumelwano uThixo alaya uMosi ukuthi azenze labako-Israyeli eMowabi, phezu kwesivumelwano leso asenza labo eHorebhi.
 UMosi wabiza bonke abako-Israyeli wathi kubo: “Amehlo enu akubonile konke uThixo akwenza kuFaro eGibhithe, ezikhulwini zakhe zonke lakulo lonke ilizwe lakhe.
 Ngamehlo enu lazibonela imilingo emikhulu, lezibonakaliso ezimangalisayo kanye lezimanga ezesabekayo.
@@ -5708,6 +5707,7 @@ Impendulo izakuba yikuthi: ‘Kungenxa yokuthi abantu badela isivumelwano sikaTh
 Badukile bakhonza abanye onkulunkulu babakhothamela, onkulunkulu abangazange babazi, onkulunkulu angazange abaphe bona.
 Ngalokho ulaka lukaThixo lwavutha phezu kwalelilizwe, waze wehlisela phezu kwalo zonke iziqalekiso ezilotshwe kule incwadi.
 UThixo wabasiphula elizweni labo ngentukuthelo enkulu langolaka olukhulu wabalahlela kwelinye ilizwe, njengoba kunjalo lakhathesi.’
+Okufihlakeleyo ngokukaThixo uNkulunkulu wethu, kodwa izinto ezambuliweyo zingezethu kanye labantwabethu kuze kube nininini, ukuze silandele wonke amazwi alo umlayo.”
 “Kuzakuthi zonke lezizibusiso lalezi ziqalekiso engilimisele zona sezehlele phezu kwenu beselizigcina ezinhliziyweni zenu kuyo yonke indawo lapho uThixo uNkulunkulu wenu azalihlakazela khona phakathi kwezizwe,
 lalapho lina labantwabenu selibuyela kuThixo uNkulunkulu wenu limlalela ngenhliziyo yenu yonke langomphefumulo wenu wonke kusiya njengokulilaya kwami lamuhla,
 kulapho uThixo uNkulunkulu wenu ezabuyisela ukuphumelela kwenu abe lozwelo kini njalo alibuthe yena lapho alihlakazela khona ezizweni.
@@ -7771,6 +7771,7 @@ Wabuye wamemeza wathi, “Phangisa! Ukhawuleze! Ungemi!” Umfana wadobha umtsho
 (Umfana wayengazi lutho ngakho konke lokhu; kusazi uJonathani loDavida kuphela.)
 Emva kwalokho uJonathani wanika umfana izikhali zakhe wathi, “Hamba, zithwale ubuyele lazo edolobheni.”
 Umfana esehambile uDavida wasukuma eceleni langaseningizimu kwelitshe, wakhothama kathathu phambi kukaJonathani, ubuso bakhe bukhangele phansi. Emva kwalokho bangana, bakhala bendawonye kodwa uDavida wakhala kakhulu.
+
 UJonathani wasesithi kuDavida, “Hamba ngokuthula, ngoba sifungelane ubungane omunye komunye ebizweni likaThixo sisithi, ‘Uthixo ungufakazi phakathi kwami lawe, laphakathi kwenzalo yakho leyami nini lanini.’ ” UDavida wasesuka, loJonathani wasebuyela edolobheni.
 UDavida waya eNobhi ku-Ahimeleki umphristi. U-Ahimeleki wathuthumela ekuhlanganeni kwakhe laye, wasebuza esithi, “Kungani uwedwa na? Kungani kungekho olawe na?”
 UDavida waphendula u-Ahimeleki umphristi wathi, “Inkosi ingiphathise udaba oluthize, wathi kimi, ‘Akungabikhona ozakwazi ngenjongo yakho langalokho okuthunyiweyo.’ Abantu bami ngibatshele ukuba bahlangane lami endaweni ethize.
@@ -7787,7 +7788,6 @@ UDavida wawagcina amazwi la enhliziyweni yakhe wamesaba kakhulu u-Akhishi inkosi
 Ngakho wazenza ophambeneyo kubo; njalo kwathi lapho ekubo wenza njengomuntu ohlanyayo, edwebadweba ezivalweni zesango njalo wayekela lendenda zehlela endevini zakhe.
 U-Akhishi wasesithi ezincekwini zakhe, “Khangelani umuntu lo! Uphambene! Kungani limletha kimi na?
 Lithi ngiziswele yini inhlanya lize lilethe umuntu lo lapha ukuba aqhubeke kanje phambi kwami na? Umuntu lo kumele angene endlini yami na?”
-
 UDavida wasuka eGathi wabalekela ebhalwini lwase-Adulami. Kwathi abafowabo labendlu kayise sebekuzwile, baya kuye khonale.
 Bonke labo ababelosizi loba ababelemilandu kumbe ababelensolo babuthana kuye, wasesiba ngumkhokheli wabo. Abantu ababelaye babengaba zinkulungwane ezine.
 Esuka lapho uDavida waya eMizipha kwelaseMowabi wathi enkosini ye-Mowabi, “Ungabavumela yini ubaba lomama ukuba bazehlala lawe ngize ngazi uNkulunkulu azangenzela khona na?”
@@ -7839,6 +7839,7 @@ USawuli labantu bakhe baqalisa ukudinga, njalo kwathi uDavida esetsheliwe ngakho
 USawuli wayehamba ngakwelinye icele lentaba, uDavida labantu bakhe bengakwelinye icele bephangisa ukuba babalekele uSawuli. Kwathi uSawuli lamabutho akhe sebezamfica uDavida labantu bakhe ukuba babathumbe,
 kwafika isithunywa kuSawuli, sisithi, “Woza ngokuphangisa! AmaFilistiya ahlasela ilizwe.”
 Lapho-ke uSawuli wayekela ukulandela uDavida wasesiyakulwa lamaFilistiya. Yikho-nje indawo le beyibiza ngokuthi Sela Hamalekhothi.
+UDavida wahamba esuka lapho wayahlala ezinqabeni zase-Eni-Gedi.
 Kwathi uSawuli esebuyile ekuxotsheni amaFilistiya watshelwa ukuthi, “UDavida useNkangala yase-Eni-Gedi.”
 Ngakho uSawuli wathatha abantu abazinkulungwane ezintantu abakhethwa ko-Israyeli waphuma ukuyadinga uDavida labantu bakhe eduze kwamadwala amaGogo.
 Wafika ezibayeni zezimvu endleleni; kwakulobhalu khonapho, yikho uSawuli wasengena phakathi ukuba aye ngaphandle. UDavida labantu bakhe babekhatshana emuva phakathi kobhalu.
@@ -7861,7 +7862,6 @@ Kanje nxa umuntu efica isitha sakhe, uyasiyekela sihambe singenziwanga lutho olu
 Ngiyakwazi ukuthi uzakuba yinkosi impela kanye lokuthi umbuso wako-Israyeli uzamiswa ezandleni zakho.
 Khathesi-ke funga kimi ngo Thixo ukuthi kawuyikubulala inzalo yami loba wesule ibizo lami kwabendlu kababa.”
 UDavida wafunga kuSawuli. Emva kwalokho uSawuli wabuyela ekhaya, kodwa uDavida labantu bakhe baya enqabeni.
-
 Ngalesosikhathi uSamuyeli wafa, kwathi u-Israyeli wonke wabuthana wamlilela; njalo bamngcwaba emzini wakhe eRama. Lapho-ke uDavida wehlela eNkangala yasePharani.
 Umuntu othile waseMawoni, owayelempahla khonale eKhameli, wayenothe kakhulu. Wayelenkulungwane yembuzi lezinkulungwane ezintathu zezimvu ayezigunda eKhameli.
 Ibizo lakhe lalinguNabhali lebizo lomkakhe lingu-Abhigeli. Wayengumfazi okhaliphileyo njalo emuhle, kodwa umkakhe, umʼKhalebi, wayelenhliziyo embi kwabanye abantu.
@@ -8511,6 +8511,7 @@ Inkosi yasibuza isithi, “Ijaha u-Abhisalomu usindile na?” U-Ahimazi waphendu
 Inkosi yasisithi, “Buyela eceleni ume khona.” Ngakho wabuyela eceleni wama khona.
 Lapho-ke umKhushi wafika wathi, “Mhlekazi wami, nkosi, zwana izindaba ezinhle! UThixo lamhla usekukhulule kubo bonke abakuhlamukelayo.”
 Inkosi yambuza yathi, “Ijaha u-Abhisalomu usindile na?” UmKhushi waphendula wathi, “Sengathi izitha zomhlekazi inkosi yami labo bonke abayihlamukelayo ukuba bayilimaze bangaba njengejaha leliyana.”
+Inkosi yadabuka kakhulu. Yakhwela yaya ekamelweni elingaphezu kwesango yakhala. Yahamba ikhala isithi, “Oh, ndodana yami Abhisalomu! Ndodana yami, ndodana yami Abhisalomu! Aluba kufe mina esikhundleni sakho, Oh Abhisalomu, ndodana yami, ndodana yami!”
 UJowabi watshelwa kwathiwa, “Inkosi iyakhala ililela u-Abhisalomu.”
 Njalo kulolonke ibutho ukunqoba kwamhlalokho kwaguqulelwa ekulileni, ngoba ngalolosuku amabutho ezwa kuthiwa, “Inkosi ilusizi ngendodana yayo.”
 Ngalolosuku abantu bangena benyenya edolobheni njengabantu abalenhloni bengena benyenya lapho bebaleka empini.
@@ -8554,7 +8555,6 @@ Kwathi inkosi ichaphela eGiligali, uKhimihami wachapha layo. Wonke amabutho akoJ
 Masinyane bonke abantu bako-Israyeli baya enkosini bathi kuyo, “Kungani abafowethu, abantu bakoJuda, bentshontshe inkosi yethu bayisa ngaphetsheya kweJodani yona labendlu yayo kanye labantu bonke na?”
 Bonke abantu bakoJuda baphendula abantu bako-Israyeli bathi, “Lokhu sikwenzile ngoba inkosi ilobuhlobo obuseduze kakhulu lathi. Kulicaphula ngani lokho? Sike sadla olunye ulutho lwenkosi na? Sike sazithathela enye into na?”
 Abantu bako-Israyeli basebephendula abantu bakoJuda besithi, “Thina silezabelo ezilitshumi enkosini, njalo ngaphandle kwalokho thina silelungelo elikhulu kulelenu ngoDavida. Pho kungani lisidelela? Kasibanga ngabokuqala na ukukhuluma ngokubuyisa inkosi yethu?” Kodwa abantu bakoJuda baphendula ngamazwi alukhuni kakhulu kulawabantu bako-Israyeli.
-
 Ngalesosikhathi kwenzakala ukuthi umxabanisi owayethiwa nguShebha indodana kaBhikhiri umBhenjamini abekhona. Wakhalisa icilongo waklabalala esithi, “Kasilasabelo kuDavida, kasilangxenye endodaneni kaJese! Umuntu wonke ethenteni lakhe, Oh Israyeli!”
 Ngakho bonke abantu bako-Israyeli bahlubuka kuDavida balandela uShebha indodana kaBhikhiri. Kodwa abantu bakoJuda babambelela enkosini yabo umango wonke kusukela eJodani kusiya eJerusalema.
 UDavida esebuyele esigodlweni sakhe eJerusalema, wathatha abafazi bakhe beceleni abalitshumi ayebatshiye begcine isigodlo wababeka endlini elindwayo. Wabanika ababekuswela, kodwa kembathanga labo. Babehlala bevalelwe kuze kube lusuku lokufa kwabo, baphila njengabafelokazi.
@@ -8865,6 +8865,20 @@ uJehoshafathi indodana kaPharuya, ko-Isakhari;
 uShimeyi indodana ka-Ela koBhenjamini;
 uGebheri indodana ka-Uri eGiliyadi (elizweni likaSihoni inkosi yama-Amori kanye lelizwe lika-Ogi inkosi yeBhashani). Kwakunguye kuphela umbusi wesiqinti.
 Abantu bakoJuda labako-Israyeli babebanengi okwesihlabathi solwandle; babesidla, benatha njalo babejabula.
+USolomoni wabusa kulolonke kusukela ezweni leMifula kusiya kwelamaFilistiya, kuze kube semingceleni yeGibhithe. Wonke amazwe la ayethela njalo abuswa nguSolomoni okwempilo yakhe yonke.
+Okwakufanele kudliwe esigodlweni sikaSolomoni nsuku zonke kwakubalisa ifulawa elicolekileyo elilingana amakhora angamatshumi amathathu lempuphu elingana amakhora angamatshumi ayisithupha,
+inkabi ezinonisiweyo ezilitshumi lenkomo ezingamatshumi amabili ezivela emadlelweni, izimvu lembuzi ezilikhulu ngaphandle kwempala lemiziki lempunzi lengalukhuni ezinonisiweyo.
+Ngoba yena wabusa phezu kwemibuso entshonalanga koMfula, kusukela eThiphisa kusiya eGaza, njalo kwakulokuthula kuzozonke lezo zindawo.
+Ngesikhathi sokubusa kukaSolomoni kuze kufike ekufeni kwakhe elakoJuda lako-Israyeli, kusukela kuDani kusiya kuBherishebha, abantu babehlezi bevikelekile, kungulowo lalowo emthunzini wesihlahla sakhe sevini loba esomkhiwa.
+USolomoni wayelezibaya zamabhiza enqola zakhe zokulwa eziyinkulungwane ezine, njalo wayelamabhiza azinkulungwane ezilitshumi lambili.
+Izikhulu zesiqinti, sinye ngasinye ngenyanga yaso, kwakumele zizophisane ukulethela iNkosi uSolomoni ukudla lemfanelo yakhe lababezokwethekelela esikhosini. Izikhulu lezi zazinanzelela kakhulu ukuthi akukho lokukodwa okusilelayo esikhosini.
+Izikhulu zaziletha njalo isabelo sazo sengqoloyi lotshani bamabhiza ezinqola zempi lamanye amabhiza.
+UNkulunkulu wanika uSolomoni ukuhlakanipha lombono womzwangedwa, lokuqedisisa okujule njengetshebetshebe lolwandle.
+Ulwazi lukaSolomoni lwalujule ukwedlula olwezazi zonke zaseMpumalanga, njalo lujule ukwedlula ulwazi lonke lwaseGibhithe.
+Wayehlakaniphe ukwedlula wonke amadoda, kubalwa kanye lo-Ethani umʼEzira, ehlakaniphe ukwedlula uHemani, loKhalikholi loDada, amadodana kaMaholi. Njalo udumo lwakhe lwazwakala ezizweni zonke ezazakhelene laye.
+Wabumba izaga ezizinkulungwane ezintathu kanti njalo izingoma zakhe zaba yinkulungwane eyodwa lezinhlanu.
+Wachasisa wahaya izihlahla, kusukela isihlahla somsedari waseLebhanoni lomhisophi okhula emidulini. Wafundisa njalo langezinyamazana lezinyoni, langezinanakazana lenhlanzi.
+Amadoda ayequbuka evela emhlabeni wonke ukuthi azozizwela ukukhalipha kwengqondo kaSolomoni, wonke lamadoda amanye evela khonapho lamanye evela ezizweni, eza ukuzakuzwa lokhukuhlakanipha.
 Kwathi uHiramu inkosi yaseThire esizwa ukuthi uSolomoni ugcotshwe ukuba abe yinkosi athathe isihlalo sikayise, wathumela amanxusa akhe kuSolomoni njengoba wayevele ezwanana loDavida.
 Yena uSolomoni waphendula uHiramu wathi:
 “Wena uyakwazi ukuthi ubaba uDavida kenelisanga ukwakhela iBizo likaThixo uNkulunkulu wakhe ithempeli ngenxa yezimpi ayezilwa inxa zonke, uThixo waze wamnqobela izitha zakhe.
@@ -8883,20 +8897,6 @@ USolomoni wayelabantu bokuthwala abazinkulungwane ezingamatshumi ayisikhombisa k
 kanye lababekhangele abasebenzayo abangamakhulu amathathu lantathu lababebona ngokuqhubeka komsebenzi beqondisa izisebenzi.
 Ngeziqondiso zenkosi bakhupha inkalakatha zamatshe amahle ukuze kube lamatshe amahle okwakhisa ngawo isisekelo sethempeli esilohlonzi.
 Izingcitshi zokubaza zikaSolomoni lezikaHiramu lamaGebhali babaza balungisa izigodo lamatshe kusakhiwa ithempeli.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ngomnyaka wamakhulu amane lasificaminwembili abako-Israyeli baphuma eGibhithe, ngomnyaka wesine uSolomoni ebusa ko-Israyeli, ngenyanga kaZivi, iyinyanga yesibili, waqalisa ukwakha ithempeli likaThixo.
 Ithempeli elakhiwa yiNkosi uSolomoni elakhela uThixo lalizingalo ezingamatshumi amabili ububanzi balo, lengalo ezingamatshumi amathathu ukuyaphezulu.
 Isigaba sekhulusi elingaphambi kwendlu enkulu yethempeli sengezelela ububanzi lokuqhela kwethempeli, ngezingalo ezingamatshumi amabili njalo sasiphutsha ukwedlula indlu enkulu kusiya phambi kwayo ngezingalo ezilitshumi.
@@ -9523,6 +9523,7 @@ Konke okunye ngempilo langokubusa kuka-Ahabi lakho konke akwenzayo, ukwakha isig
 U-Ahabi wangcwatshwa laboyise. Ubukhosi bakhe bathathwa yindodana yakhe u-Ahaziya.
 UJehoshafathi indodana ka-Asa waba yinkosi yakoJuda ngomnyaka wesine wokubusa kuka-Ahabi inkosi yako-Israyeli.
 UJehoshafathi waba yinkosi eleminyaka engamatshumi amathathu lemihlanu yokuzalwa, wabusa eJerusalema okweminyaka engamatshumi amabili lemihlanu. Ibizo likanina kungu-Azubha indodakazi kaShilihi.
+
 Kukho konke ayekwenza wayesenyathelweni likayise u-Asa njalo kazange aphambuke; wenza konke okuhle emehlweni kaThixo. Kodwa izindawo eziphakemeyo zokukhonzela kazisuswanga, abantu babelokhu benikela imihlatshelo, betshisa impepha khonapho.
 UJehoshafathi wahlalisana ngokuthula lenkosi yako-Israyeli.
 Okwenzakala ekubuseni kukaJehoshafathi, ukuphumelela kwakhe kanye lokunqoba ezimpini, akulotshwanga na encwadini yembali yamakhosi akoJuda?
@@ -9534,7 +9535,6 @@ Ngakho uJehoshafathi waphumula labokhokho bakhe, wangcwatshwa kanye labo emzini 
 U-Ahaziya indodana ka-Ahabi waba yinkosi yako-Israyeli eSamariya ngomnyaka wetshumi lesikhombisa wokubusa kukaJehoshafathi inkosi yakoJuda, yena-ke wabusa ko-Israyeli okweminyaka emibili.
 Wona emehlweni kaThixo, ngoba wahamba enyathelweni likayise lelikanina walandela njalo izindlela zikaJerobhowamu indodana kaNebhathi, owabangela u-Israyeli ukuthi enze isono.
 Wasebenzela uBhali njalo wamkhonza wathukuthelisa uThixo, uNkulunkulu ka-Israyeli, njengalokhu okwakwenziwe nguyise.
-
 Ngemva kokufa kuka-Ahabi, amaMowabi ahlamukela u-Israyeli.
 U-Ahaziya wayewele embotsheni yendlu yakhe engaphezulu eSamariya walimala. Wathumela izithunywa, wathi kuzo, “Hambani liyebuza kuBhali-Zebhubhi, unkulunkulu wase-Ekroni, ukuthi kambe ngizasila yini kulokhu kulimala na.”
 Kodwa ingilosi kaThixo yathi ku-Elija umThishibi, “Suka uyehlangabeza izithunywa zenkosi yaseSamariya uyezibuza ukuthi, ‘Kambe yikuthi akuselaNkulunkulu ko-Israyeli na ukuze uyehlahlula kuBhali-Zebhubhi, unkulunkulu wase-Ekroni?’
@@ -9851,6 +9851,7 @@ UJehoyada wasesenza isivumelwano phakathi kukaThixo lenkosi kanye labantu ukuthi
 Abantu bonke belizwe baya ethempelini likaBhali bafika balidilizela phansi. Babhidliza ama-alithare lezithombe kwaba yizicucu, babulala uMathani umphristi kaBhali phambi kwama-alithare. Ngakho uJehoyada umphristi wasebeka abalindi ethempelini likaThixo.
 Wathatha abalawuli bamakhulu, amaKharithi, abalindi labantu bonke belizwe, sebendawonye behla lenkosi ethempelini likaThixo baya layo esigodlweni, bengenela esangweni labalindi. Inkosi yasithatha indawo yayo esihlalweni sobukhosi,
 abantu bonke belizwe baba lokujabula okukhulu. Kwaba lokuthula emzini, ngoba u-Athaliya wayesebulewe ngenkemba esigodlweni.
+UJowashi waqalisa ukubusa eleminyaka eyisikhombisa.
 Ngomnyaka wesikhombisa kaJehu, uJowashi waba yinkosi, njalo wabusa eJerusalema okweminyaka engamatshumi amane. Ibizo likanina kunguZibiya; yena wayevela eBherishebha.
 UJowashi wenza ukulunga phambi kukaThixo ngayo yonke leyominyaka elaywa nguJehoyada umphristi.
 Kodwa indawo eziphakemeyo zokukhonzela azidilizwanga, ngakho abantu baqhubeka benikela imihlatshelo yabo khona, njalo betshisa impepha khona.
@@ -9872,7 +9873,6 @@ kodwa uJowashi inkosi yakoJuda wathatha zonke impahla ezingcwele ezazinikelwe ng
 Mayelana lezinye izehlakalo zombuso kaJowashi, lakho konke akwenzayo, akulotshwanga yini encwadini yembali yamakhosi akoJuda na?
 Izikhulu zakhe zaceba ndawonye ngaye zambulala eBhethi-Milo, emgwaqweni owehla usiya eSila.
 Izikhulu ezambulalayo ngoJozabhadi indodana kaShimeyathi loJehozabhadi indodana kaShomeri. Wafa wangcwatshwa laboyise eMzini kaDavida. U-Amaziya indodana yakhe yabusa esikhundleni sakhe.
-
 Ngomnyaka wamatshumi amabili lantathu wokubusa kukaJowashi indodana ka-Ahaziya inkosi yakoJuda, uJehowahazi indodana kaJehu waba yinkosi yako-Israyeli eSamariya njalo wabusa okweminyaka elitshumi lesikhombisa.
 Wenza okubi phambi kukaThixo ngokulandela izono zikaJerobhowamu indodana kaNebhathi, owayebangele u-Israyeli ukuthi azenze, njalo kazange axekelane lazo.
 Ngakho ulaka lukaThixo lwavutha ku-Israyeli, okwaze kwathi okwesikhathi eside wabayekela bengaphansi kombuso kaHazayeli inkosi yase-Aramu loBheni-Hadadi indodana yakhe.
@@ -10456,21 +10456,6 @@ Abantu ababeyingxenye yesizwana sikaManase babebanengi; bahlala elizweni kusukel
 Laba yibo ababezinhloko zezimuli: u-Eferi, lo-Ishi, lo-Eliyeli, lo-Aziriyeli, loJeremiya, loHodaviya, kanye loJahidiyeli. Babengamadoda empi alezibindi, amadoda adumileyo, njalo bezinhloko zezimuli zabo.
 Kodwa bona babengathembekanga kuNkulunkulu waboyise basebekhonza onkulunkulu bezizwe uNkulunkulu wabo ababhubhisa kulawomazwe bengakahlali khona.
 Ngakho uNkulunkulu ka-Israyeli wadunga umoya kaPhuli inkosi yase-Asiriya (okuyikuthi, Thigilathi-Philesa inkosi yase-Asiriya), owathumba abakoRubheni, labakoGadi kanye lengxenye yesizwana sikaManase. Wabathatha wabasa eHala, leHabhori, leHara lasemfuleni uGozani, lapho abakhona lalamuhla.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Amadodana kaLevi yila: nguGeshoni, loKhohathi, kanye loMerari.
 Amadodana kaKhohathi yila: ngu-Amramu, lo-Izihari, loHebhroni kanye lo-Uziyeli.
 Abantwana baka-Amramu yilaba: ngu-Aroni, loMosi kanye loMiriyemu. Amadodana ka-Aroni yila: nguNadabi, lo-Abhihu lo-Eliyazari lo-Ithamari.
@@ -10537,6 +10522,21 @@ Abosendo lukaMerari, indlu ngendlu, baphiwa imizi elitshumi lambili esizwaneni s
 Ngakho yiyo imizi lamadlelo ayo eyaphiwa abaLevi ngama-Israyeli.
 Esizwaneni sakoJuda, lesakoSimiyoni loBhenjamini baphiwa imizi esike yaqanjwa.
 Amanye amaKhohathi aphiwa imizi elizweni lesizwana sika-Efrayimi.
+Elizweni lamaqaqa lika-Efrayimi baphiwa iShekhemu (umuzi wokuphephela) leGezeri,
+leJokhimeyamu, leBhethi-Horoni,
+le-Ayijaloni leGathi-Rimoni, kanye lamadlelo akhona.
+Engxenyeni yesizwana sikaManase abako-Israyeli, banika insalela yamaKhohathi, i-Aneri leBhileyamu kanye lamadlelo akhona.
+AmaGeshoni azuza lezindawo: Kwabosendo lwengxenye yesizwana sikaManase bazuza iGolani eBhashani kanye le-Ashitharothi, ndawonye lamadlelo akhona;
+esizwaneni sika-Isakhari bazuza iKhedeshi, leDabherathi,
+leRamothi le-Anema lamadlelo akhona;
+esizwaneni sika-Asheri bazuza iMashali, le-Abhidoni,
+leHukhokhi leRehobhi, kanye lamadlelo akhona;
+esizwaneni sikaNafithali bazuza iKhedeshi eGalile, leHamoni, leKhiriyathayimi kanye lamadlelo akhona.
+AmaMerari (insalela yabaLevi) aphiwa kanje: esizwaneni sikaZebhuluni azuza iJokhiniyamu, iKhatha, iRimoni leThabhori, kanye lamadlelo akhona;
+esizwaneni sikaRubheni ngaphetsheya kweJodani ngempumalanga yeJerikho azuza iBhezeri enkangala, leJahazi,
+leKhedemothi kanye leMefahathi lamadlelo akhona;
+lasesizwaneni sikaGadi azuza iRamothi eGiliyadi, leMahanayimi,
+leHeshibhoni, leJazeri, kanye lamadlelo akhona.
 Amadodana ka-Isakhari yila: nguThola, loPhuwa, loJashubi loShimroni, bonke babebane.
 Amadodana kaThola yila: ngu-Uzi, loRefaya, loJeriyeli, loJahamali, lo-Ibhisamu loSamuyeli, bonke bezinhloko zezindlu zabo. Ngezinsuku uDavida esabusa, abosendo lukaThola abangamadoda aselindele impi ngoluhlu lokuzalana kwabo, babengamadoda ayezinkulungwane ezingamatshumi amabili lambili lamakhulu ayisithupha (22,600).
 Indodana ka-Uzi kungu: Izrahiya. Amadodana ka-Izrahiya yila: nguMikhayeli, lo-Obhadaya, loJoweli lo-Ishiya. Ngobuhlanu babo babezinduna.
@@ -10725,6 +10725,7 @@ lo-Eliyeli, lo-Obhedi kanye loJasiyeli waseMezobha.
 La ngamabutho ayeloDavida eZikhilagi, ngesikhathi engavunyelwa ukubonakala kuSawuli indodana kaKhishi (kwakungamaqhawe ayemhlomulele empini;
 ayehlome ngemitshoko, ezingcitshi ekutshokeni lokutshaya ngezavutha loba ejikijela ngesokudla loba ngesenxele; ayeyizihlobo zikaSawuli engawesizwe sikaBhenjamini):
 U-Ahiyezeri induna yawo loJowashi amadodana kaShemaha owaseGibhiya; loJeziyeli loPhelethi amadodana ka-Azimavethi; loBherakha, loJehu umʼAnathothi,
+
 kanye lo-Ishimaya umGibhiyoni, indoda eyayilamandla amakhulu kwabangamatshumi amathathu, engumkhokheli wabangamatshumi amathathu, loJeremiya, loJahaziyeli, loJohanani, loJozabhadi umGederathi,
 lo-Eluzayi, loJerimothi, loBheliya, loShemariya kanye loShefathiya umHarufi,
 lo-Elikhana, lo-Ishiya, lo-Azareli, loJowezeri loJashobheyamu amaKhora;
@@ -10762,7 +10763,6 @@ njalo ngempumalanga yeJodani, amadoda akoRubheni, koGadi lakungxenye yesizwana s
 Bonke laba babengamabutho azinikeleyo ukungena laloba yisiphi isigaba. Ngamabutho aya eHebhroni ezimisele ukufika abeke uDavida esihlalweni sobukhosi abe yinkosi ka-Israyeli. Abanye bonke abako-Israyeli babengqondonye befisa ukwethesa uDavida ubukhosi.
 Wonke lamadoda athatha insuku ezintathu eloDavida, esidla njalo enatha, njengoba izimuli zawo zaziwalungisele umphako.
 Konke labomakhelwane babo, ababevela kude khonale ku-Isakhari, loZebhuluni lakuNafithali beza bethwele ukudla ngabobabhemi, amakamela, imbongolo langenkabi. Kwakulefulawa enengi, amakhekhe omkhiwane, amakhekhe erezini, iwayini, amafutha, inkomo lezimvu, ngoba kwakulokujabula ko-Israyeli.
-
 UDavida wacebisana lezikhulu zakhe zonke, abalawuli bezinkulungwane labalawuli bamakhulu.
 Wasesithi kuwo wonke umbuthano wako-Israyeli: “Nxa likubona kulungile njalo nxa kuyintando kaThixo uNkulunkulu wethu, asithumeleni ilizwi eduze lakhatshana kubo bonke abafowethu kuwo wonke amazwe ako-Israyeli, kanye lakubaphristi labaLevi abalabo khonale emadolobheni abo lasemadlelweni abo, sibanxusa ukuthi beze bazohlanganyela kanye lathi.
 Asibuyiseni ibhokisi lesivumelwano sikaNkulunkulu wethu kithi, ngoba asizange sibuze kulo ngesikhathi sokubusa kukaSawuli.”
@@ -11214,7 +11214,6 @@ USolomoni wabuthanisa izinqola zokulwa lamabhiza; wayelezinqola zokulwa ezingama
 Inkosi yandisa isiliva legolide eJerusalema kwangani ngamatshe, lezihlahla zomsedari zanda kwangani yizihlahla zomkhiwa wesikhamore emawatheni ezintaba.
 Amabhiza kaSolomoni ayethengwe eGibhithe laseKhuwe, abathengi besikhosini babewathenga eKhuwe.
 Bathenga inqola yempi eGibhithe ngamashekeli esiliva angamakhulu ayisithupha kanye lebhiza ngamashekeli alikhulu elilamatshumi amahlanu. Babuya bawedlulisa wonke bayawathengisela amakhosi amaHithi kanye lawama-Aramu.
-
 USolomoni wathi akwakhiwe ithempeli leBizo likaThixo kanye lesigodlo sakhe.
 Wabutha amadoda azinkulungwane ezingamatshumi ayisikhombisa (70,000) awokuthwala imithwalo, lamadoda azinkulungwane ezingamatshumi ayisificaminwembili (80,000) awokubaza amatshe emaqaqeni, lazinkulungwane ezintathu lamakhulu ayisithupha (3,600) ayezakhangela abasebenzayo.
 USolomoni wakhupha ilizwi elalisiya kuHiramu inkosi yaseThire lisithi: “Ngithumela izigodo zomsedari njengalokhu owakwenza kubaba uDavida owawumthumela umsedari ukuthi azakhele isigodlo ayezahlala kuso.
@@ -11232,6 +11231,7 @@ unina wayo wayedabuka koDani loyise evela eThire. Wafundela ukusebenza igolide l
 Ngakho inkosi yami kayithumele izinceku zayo ingqoloyi lebhali lamafutha e-oliva kanye lewayini njengokuthembisa kwayo.
 Thina sizagamula zonke izigodo zeLebhanoni ozifunayo, sizenze iminyaba ezandenda olwandle igelezele eJopha. Wena uyihlangabeze uyithwalele eJerusalema.”
 USolomoni wasebala bonke abezizweni ababeko-Israyeli, ngemva kokubalwa okwakwenziwe nguyise uDavida; kwatholakala kuyikuthi babezinkulungwane ezilikhulu elilamatshumi amahlanu lantathu, lamakhulu ayisithupha (153,600).
+Wasesithi abazinkulungwane ezingamatshumi ayisikhombisa (70,000) ababengabokuthwala, kuthi abazinkulungwane ezingamatshumi ayisificaminwembili (80,000) babengabokubaza amatshe emaqaqeni, abazinkulungwane ezintathu lamakhulu ayisithupha (3,600) babengabokukhangela abasebenzayo.
 USolomoni waseqalisa ukwakha ithempeli likaThixo eJerusalema eNtabeni yaseMoriya, lapho uThixo wayeke waziveza khona phambi kukayise uDavida. Kwakusesizeni sokubhulela amabele sika-Onani umJebusi, indawo eyayilungiselelwe nguDavida.
 Waqalisa ukwakha ngosuku lwesibili lwenyanga yesibili ngomnyaka wesine wokubusa kwakhe.
 Isisekelo sesakhiwo sethempeli likaNkulunkulu esasimiswe nguSolomoni sasizingalo ezingamatshumi ayisithupha ubude baso njalo sibanzi okwezingalo ezingamatshumi amabili (kuyisilinganiso sezingalo zakudala).
@@ -11478,7 +11478,6 @@ U-Abhija waxotshana loJerobhowamu wamthathela amadolobho eBhetheli, leleJeshana 
 UJerobhowamu kazange abuse futhi kusabusa u-Abhija. UThixo wamtshaya wafa.
 Kodwa u-Abhija waqina waba lamandla embusweni. Wathatha abafazi abalitshumi lane waba lamadodana angamatshumi amabili lamadodakazi alitshumi lesithupha.
 Ezinye izehlakalo ekubuseni kuka-Abhija, akwenzayo lakutshoyo, kulotshiwe ezindabeni zomphrofethi u-Ido.
-
 Ngakho u-Abhija waya kubokhokho bakhe wembelwa eMzini kaDavida. Indodana yakhe u-Asa wathatha isikhundla sakhe waba yinkosi, njalo ngezinsuku zokubusa kwakhe kwaba lokuthula elizweni okweminyaka elitshumi.
 U-Asa wenza okuhle lokulungileyo phambi kukaThixo uNkulunkulu wakhe.
 Wasusa wonke ama-alithare ezizweni lezindawo zokukhonzela, wadiliza izinsika zakhona lezithombe zikankulunkulukazi u-Ashera.
@@ -11493,6 +11492,7 @@ U-Asa wasekhuleka kuThixo uNkulunkulu wakhe wathi: “Thixo, kakho omunye onjeng
 UThixo wawatshaya wawabhuqa amaKhushi phambi kuka-Asa labakoJuda. AmaKhushi abaleka,
 kodwa u-Asa lamabutho akhe waxotshana lawo waze wayawafikisa eGerari. Kwafa amaKhushi amanengi okokuthi kasazange azame ukuqoqana kutsha; abhuqwa phambi kukaThixo laphambi kwamabutho akhe. Amadoda akoJuda atshuquluza impango enengi kakhulu.
 Atshabalalisa yonke imizi yaseGerari, ngoba ukuthukuthela kukaThixo kwakuphezu kwayo. Atshuquluza yonke imizi ngoba impango yayinengi kuyo.
+Ahlasela izihonqo zabelusi njalo abutha imihlambi yezimvu, imbuzi kanye lamakamela. Asebuyela eJerusalema.
 Umoya kaNkulunkulu wehlela phezu kuka-Azariya indodana ka-Odedi.
 Waphuma ukuba ayehlangabezana lo-Asa wasesithi kuye, “Lalela kimi, Asa labo bonke abakoJuda labakoBhenjamini. UThixo ulawe nxa wena ukuye. Nxa umfuna, uzamthola, kodwa nxa umlahla uzakulahla.
 Okwesikhathi eside abako-Israyeli babengelaye uNkulunkulu weqiniso, bengelaye umphristi wokufundisa njalo bengelawo umthetho.
@@ -12362,12 +12362,6 @@ Kulandela bona, uZadokhi indodana ka-Imeri wayesakha phambi kwendlu yakhe. Kulan
 Owamlandelayo, nguHananiya indodana kaShelemiya, loHanuni, indodana yesithupha kaZalafi, laye wavuselela esinye isigaba. Owalandela bona nguMeshulami indodana kaBherekhiya owakha malungana lalapho ayehlala khona.
 Kulandela yena, kwakunguMalikhija, omunye wabakhandi begolide, wakha kwaze kwayafika endlini yezinceku zethempelini kanye labathengisi, malungana leSango lokuHlolwa, kuze kufike endlini engaphezulu kwejiko;
 kwathi phakathi kwendlu engaphezu kwejiko leSango leZimvu abakhandi begolide labathengisi baba yibo abavuselelayo.
-
-
-
-
-
-
 Kwathi uSanibhalathi esizwa ukuthi sasiwuvusa umduli, wazonda waze wagcwalelana. Wabahleka ulunya amaJuda,
 wasesithi phambi kwabakhula bakhe lebutho laseSamariya, “OkungamaJuda lokhu kuthi kwenzani kambe? Kungawuvusa umduli wakho na? Kuzayenza imihlatshelo na? Kuzawuqeda ngalanga linye? Kungakubuyisa na ukuphila ematsheni lawana azinqwaba zengcekeza etshe kanjeyana?”
 UThobhiya umʼAmoni, owayeseceleni kwakhe wathi, “Lokhu abakwakhayo, loba nje ikhanka lingakhwela phezu kwakho, lingawudiliza umduli wabo wamatshe!”
@@ -12385,6 +12379,12 @@ Ngemva kokuba sengiwuhlolisisile wonke umumo, ngasukuma ngathi ezikhulwini, lezi
 Kwathi izitha zethu sezizwile ukuthi sasesilazi icebo lazo lokuthi uNkulunkulu wayeselifubisile, sonke sabuyela kuwo umduli, ngulowo kowakhe umsebenzi.
 Kusukela ngalelolanga, ingxenye yamadoda engangilawo yenza umsebenzi, enye ingxenye yahloma ngemikhonto, lamahawu, lemitshoko lamabhatshi ensimbi. Izinduna zazimisa ngemva kwabo bonke abantu bakoJuda
 ababesakha umduli. Labo ababethwala izinto zokwakha babesenza umsebenzi ngesandla esisodwa ngesinye umuntu ephethe isikhali,
+njalo ngulowo lalowo umakhi wayehlome inkemba ilengiswe eceleni kwakhe nxa esebenza. Kodwa indoda yokutshaya icilongo yahlala ikimi.
+Ngasengisithi ezikhulwini, lezinduna lakubantu bonke jikelele, “Umsebenzi ubanzi usabalele, njalo sehlukene kakhulu omunye komunye kulandela umduli.
+Lingezwa ingabe kungaphi okukhala khona icilongo, phuthumani khona lize kithi. UNkulunkulu wethu uzasilwela!”
+Yikho sawuqhuba umsebenzi ingxenye yamadoda ihlomile ngemikhonto, kusukela emathathakusa kuze kuphume izinkanyezi.
+Ngasonaleso isikhathi ngabuye ngathi ebantwini, “Akuthi yonke indoda kanye lomsizi wayo balale ngaphakathi kweJerusalema ebusuku, ukuze babengabalindi bethu ebusuku, babe ngabasebenzi emini.”
+Mina labafowethu, lamadoda ayelami, labalindi ababelami kasizange sihlubule izigqoko zethu; ngulowo waphatha isikhali sakhe loba engena emanzini.
 Ngalesosikhathi amadoda labomkabo baxokozela kakhulu besola abazalwane babo bamaJuda.
 Abanye babesithi, “Thina lamadodana lamadodakazi ethu sibanengi kakhulu; ukuthi sidle ukuze siphile kumele sizuze amabele.”
 Abanye babesithi, “Sesibambisa ngamasimu ethu, langezivini zethu kanye lemizi yethu ukuzuza amabele ngesikhathi sendlala.”
@@ -12490,11 +12490,11 @@ Laba baphenya imibhalo yembali yezimuli zabo, kodwa bayiswela ngakho basuswa ebu
 Ngakho-ke, umbusi wabalaya ukuthi bangakudli loba yikuphi ukudla okungcwele kuze kubekhona umphristi wokubuza inkatho i-Urimi leThumimi.
 Ixuku lonke lalilinani elifika inkulungwane ezingamatshumi amane lambili lamakhulu amathathu lamatshumi ayisithupha (42,360),
 ngaphandle kwezinceku zabo ezesilisa labesifazane ezazifika inkulungwane eziyisikhombisa lamakhulu amathathu lamatshumi amathathu lasikhombisa (7,337); njalo belabahlabeleli besilisa labesifazane abafika amakhulu amabili lamatshumi amane lanhlanu (245).
-Kwakulamabhiza ayefika amakhulu ayisikhombisa lamatshumi amathathu lasithupha (736), imbongolo ezingamakhulu amabili lamatshumi amane lanhlanu (245), amakamela angamakhulu amane lamatshumi amathathu lanhlanu (435),
-labobabhemi abazinkulungwane eziyisithupha lamakhulu ayisikhombisa lamatshumi amabili (6,720).
+Kwakulamabhiza ayefika amakhulu ayisikhombisa lamatshumi amathathu lasithupha (736), imbongolo ezingamakhulu amabili lamatshumi amane lanhlanu (245), amakamela angamakhulu amane lamatshumi amathathu lanhlanu (435), labobabhemi abazinkulungwane eziyisithupha lamakhulu ayisikhombisa lamatshumi amabili (6,720).
 Ezinye inhloko zezimuli zancedisa emsebenzini. Umbusi wanikela esikhwameni esikhulu, amadrakhima egolide ayinkulungwane (1,000), imiganu engamatshumi amahlanu (50) lezigqoko zabaphristi ezingamakhulu amahlanu lamatshumi amathathu (530).
 Abanye abazinhloko zezimuli baphosela esikhwameni amadrakhima egolide azinkulungwane ezingamatshumi amabili (20,000) lamamina esiliva azinkulungwane ezimbili lamakhulu amabili (2,200).
 Sekukonke okwaphiwa ngabantu bonke kwaba ngamadrakhima egolide azinkulungwane ezingamatshumi amabili (20,000), amamina esiliva azinkulungwane ezimbili (2,000) lezigqoko zabaphristi ezingamatshumi ayisithupha lasikhombisa (67).
+Abaphristi, labaLevi, labalindimasango, labahlabeleli, lezinceku zethempelini, kanye labanye abantu lo-Israyeli wonke, bahlala emadolobheni akibo.
 Kwathi sekuyinyanga yesikhombisa abako-Israyeli basebehlezi emadolobheni akibo. Bonke abantu babuthana ngangqondo yinye egcekeni elaliphambi kweSango laManzi. Bacela u-Ezra umbhali ukuthi alethe iNcwadi yoMthetho kaMosi, uThixo ayelaye ngawo ama-Israyeli.
 Yikho kwathi ngelanga lokuqala lenyanga yesikhombisa u-Ezra umphristi wawuletha uMthetho phambi komhlangano, owawugcwele amadoda labafazi labo bonke ababelokuzwisisa.
 Wafunda kakhulu kusukela ekuphumeni kwelanga kwaze kwaba semini enkulu ekhangele egcekeni leSango laManzi phambi kwamadoda, labafazi labanye ababelokuzwisisa. Bonke abantu balalelisisa ukuzwa iNcwadi yoMthetho.
@@ -12550,6 +12550,7 @@ Amakhosi ethu, abakhokheli bethu, abaphristi bethu labobaba abawulandelanga umth
 Loba babesembusweni wabo, bekholisa ukulunga kwakho kubo elizweni elibanzi elivundileyo lelo owabapha lona, kabakukhonzanga futhi kabaguqukanga ezindleleni zabo ezimbi.
 Kodwa ake ubone, siyizigqili lamuhla, izigqili elizweni owalipha okhokho bethu ukuthi badle izithelo zalo lezinye izinto ezinhle eziphuma kulo.
 Ngenxa yezono zethu, isivuno salo esinengi siya emakhosini osuwabeke phezu kwethu. Abusa phezu kwemizimba yethu laphezu kwezinkomo zethu njengokuthanda kwawo. Siphakathi kosizi olumangalisayo.”
+“Ngenxa yakho konke lokhu, sesisenza isivumelwano esibophayo, sisibhala phansi, njalo abakhokheli bethu, abaLevi labaphristi bethu bafaka uphawu lwabo kuso.”
 Labo abafaka uphawu lwabo yilaba: Umbusi: uNehemiya indodana kaHakhaliya. LoZedekhiya,
 loSeraya, lo-Azariya, loJeremiya,
 loPhashuri, lo-Amariya, loMalikhija,
@@ -12589,7 +12590,6 @@ Njengoba kulotshiwe njalo eMthethweni, sizaletha amazibulo amadodana ethu, awenk
 Futhi njalo, sizaletha okuya eziphaleni zasendlini kaNkulunkulu, kubaphristi, okokuqala kwempuphu yethu, okweminikelo yamabele ethu, izithelo zezihlahla zethu zonke lewayini lethu elitsha kanye lamafutha. Njalo sizaletha okwetshumi okwamabele ethu kubaLevi, ngoba ngabaLevi abaqoqa okwetshumi kuwo wonke amadolobho esisebenza kuwo.
 Umphristi odabuka ku-Aroni kaphelekezele abaLevi besamukela okwetshumi, njalo abaLevi kumele balethe okwetshumi okomnikelo wetshumi kuze endlini kaNkulunkulu, eziphaleni eziqondane lesikhwama.
 Abantu bako-Israyeli, kanye labaLevi, bamele balethe iminikelo yabo yamabele, iwayini elitsha lamafutha eziphaleni lapho okugcinwa khona impahla zendlu engcwele, njalo lapho okuhlala khona abaphristi abasebenzayo labalindimasango labahlabeleli. “Kasiyikuyidela indlu kaNkulunkulu.”
-
 Abakhokheli babantu bafika bahlala eJerusalema. Abantu bonke basebesenzisa inkatho ukukhetha oyedwa etshumini ngalinye owayemele ayehlala eJerusalema, idolobho elingcwele, kuthi abaseleyo abayisificamunwemunye bahlale emadolobheni akibo.
 Abantu bawabonga wonke amadoda azinikelayo ukuyahlala eJerusalema.
 Laba yibo abakhokheli bezigodi abayahlala eJerusalema (amanye ama-Israyeli, labaphristi, labaLevi, lezinceku zethempelini kanye labezizukulwane zezisebenzi zikaSolomoni bahlala emadolobheni akoJuda, ngulowo esabelweni sakhe emadolobheni ehlukeneyo,
@@ -13890,14 +13890,6 @@ Ilala ngaphansi kwezihlahla ezibukekayo, isithekile phakathi kwemihlanga exhapho
 Izihlahla ezinhle ziyayisitha ngemithunzi yazo; imidubu okhunjini lomfula iyihonqolozele.
 Nxa umfula uthwele izikhukhula kayethuki; kayithi thiki lokuba iJodani ithululela impophoma emlonyeni wayo.
 Ukhona yini ongayibamba ngamehlo, kumbe ayithiye ayibhoboze amakhala na?”
-
-
-
-
-
-
-
-
 “Ungambamba na uLeviyathani ngewuka loba uhitshele ulimi lwakhe ngentambo na?
 Ungawufaka umkhala yini emakhaleni akhe kumbe ubhoboze umhlathi wakhe ngewuka na?
 Uzabe elokhu ekuncenga yini ukuthi umzwele? Uzakhuluma lawe ngamazwi apholileyo yini?
@@ -13924,6 +13916,14 @@ Amavinqo enyama yakhe abambene nki; aqine nko kawehlukaniseki.
 Isifuba sakhe silukhuni njengelitshe, siqine njengengaphansi kwembokodo.
 Uthi nxa ephakama kwesabe amaqhawe ngokwawo; atshede ebalekela ukubhula komsila wakhe.
 Inkemba leyo emfikelayo kayenzi lutho, kumbe umkhonto, loba umtshoko loba isijula.
+Insimbi uyithatha njengotshani lethusi kungathi luluthi olubolileyo.
+Imitshoko kayimenzi abaleke; lamatshe esavutha anjengomule kuye.
+Induku kuye ingumuca wotshani; uyahleka esizwa ukukhenceza komdikadika.
+Ingaphansi yomzimba wakhe injengendengezi ezibukhali, itshiya umzila odakeni kungathi yisileyi esizunguzekayo.
+Udunga inziki zamanzi ayabuke njengembiza enkulu ibila, aluvube ulwandle njengembiza yamagcobo.
+Ngemva kwakhe utshiya umzila okhazimulayo; umuntu angazathi ulwandle luloboya obumhlophe.
+Kakukho emhlabeni okulingana laye, isidalwa esingesabiyo.
+Ubakhangelela phansi bonke abathi bazithembile; uyinkosi phezu kwabo bonke abazigqajayo.”
 UJobe wasemphendula uThixo wathi:
 “Ngiyazi ukuthi ungazenza zonke izinto; kalikho icebo lakho elingavinjwa.
 Ubuzile wathi, ‘Ngubani lo ovala iseluleko sami engelalwazi na?’ Ngeqiniso ngikhulumile ngezinto ebengingazizwisisi, izinto ezimangalisayo engingeke ngizazi.
@@ -13959,6 +13959,7 @@ Uzazibusa ngentonga yobukhosi eyensimbi, uzazibhidliza zicubuzeke njengebumba.�
 Ngakho-ke lina makhosi, limukani, liyaxwayiswa lina babusi bomhlaba.
 Mkhonzeni uThixo ngokumesaba, lithokozele umbuso wakhe ngokuthuthumela.
 Ikhothameleni iNdodana, funa ithukuthele beselibhujiswa endleleni yenu, ngoba intukuthelo yakhe ingavutha ngesikhatshana. Babusisiwe bonke abaphephela kuye.
+
 Oh Thixo banengi kangaka abayizitha zami! Banengi kangaka abangihlaselayo!
 Abanengi bathi ngami, “UNkulunkulu kayikumhlenga.”
 Kodwa wena uyisihlangu sokungivikela, Oh, Thixo, inkazimulo yami, uphakamisa ikhanda lami.
@@ -14049,7 +14050,6 @@ Ababi babuyela engcwabeni, zonke izizwe ezikhohlwa uNkulunkulu.
 Kodwa abaswelayo kabayikukhohlakala kokuphela, njalo lethemba labahlukuluzwayo kaliyikutshabalala.
 Vuka Thixo, ungayekeli umuntu anqobe; akuthi izizwe zahlulelwe phambi kwakho.
 Batshayise ngovalo, Oh Thixo; akuthi izizwe zikwazi ukuthi zingabantu nje.
-
 Kungani, Oh Thixo, umela khatshana? Kungani uzifihla ngezikhathi zokuhlupheka?
 Ngobuqholo bakhe umuntu omubi uzingela ababuthakathaka, abayengeka ngamacebo awakhayo.
 Uzikhukhumeza ngezinkanuko zenhliziyo yakhe; ubusisa abayizihwaba athuke uThixo.
@@ -14075,6 +14075,7 @@ UThixo usethempelini lakhe elingcwele; uThixo usesihlalweni sakhe sobukhosi base
 UThixo uyabahlola abalungileyo, kodwa ababi lalabo abathanda udlakela uyabazonda ngomoya wakhe wonke.
 Ababi uzabehlisela amalahle avuthayo lesalufa etshisayo; umoya otshisayo uzabahaqaza.
 Ngoba uThixo ulungile, uthanda ukwahlulela okuhle; abaqotho bazabubona ubuso bakhe.
+
 Siza Thixo, ngoba kabasekho abakholwayo; abathembekileyo sebenyamalele kabasekho ebantwini.
 Bonke baqamba amanga kubomakhelwane babo; izindebe zabo eziyengayo zihlezi zikhuluma inkohliso esezinhliziyweni zabo.
 Sengathi uThixo angaziquma zonke izindebe ezikhohlisayo kanye laluphi ulimi oluzikhukhumezayo
@@ -14088,8 +14089,7 @@ Koze kube nini, Oh Thixo? Uzangikhohlwa lanininini na? Koze kube nini ungifihlel
 Koze kube nini ngitshukumisana lemicabango yami, inhliziyo yami ihlale idabukile insuku zonke na? Koze kube nini isitha sami sitshakala phezu kwami?
 Ngizwela ungiphendule, Oh Thixo Nkulunkulu wami. Khanyisela amehlo ami funa ngihle ngilale kokuphela;
 isitha sami sizakuthi, “Sengimehlule,” labangizondayo bathokoze nxa ngisiwa.
-Kodwa ngiyalwethemba uthando lwabo olungapheliyo; inhliziyo yami iyathokoza ngensindiso yakho.
-Ngizahlabelela kuThixo, ngoba ungenzele ukulunga.
+Kodwa ngiyalwethemba uthando lwabo olungapheliyo; inhliziyo yami iyathokoza ngensindiso yakho. Ngizahlabelela kuThixo, ngoba ungenzele ukulunga.
 Isiwula sithi enhliziyweni yaso, “AkulaNkulunkulu.” Baxhwalile, izenzo zabo zibolile; kakho loyedwa owenza okuhle.
 UThixo ukhangela phansi esezulwini emadodaneni abantu ingabe bakhona yini abazwisisayo, abamdingayo uNkulunkulu.
 Bonke baphambukile, bonke sebexhwalile; kakho loyedwa owenza okuhle, kakho lamunye.
@@ -14128,6 +14128,7 @@ Banjengesilwane silambele loba yini esingayidumela, njengesilwane esesabekayo si
 Phakama, Oh Thixo, basukele, balahle phansi; ngilamulela kwababi ngenkemba yakho.
 Oh Thixo, ngisindisa ngesandla sakho ebantwini abanjalo, ebantwini bakulumhlaba omvuzo wabo ukuyonale impilo. Udedisa iphango lalabo obathandayo; amadodana abo akhomba ngophakathi; baqoqela abantwababo inotho.
 Mina-ke ngenxa yokulunga ngizabubona ubuso bakho; ngizakuthi ekuvukeni kwami nganeliswe yikubona isimo sakho.
+
 Ngiyakuthanda, Oh Thixo, Mandla ami.
 UThixo ulidwala lami, inqaba yami, lomsindisi wami; uNkulunkulu wami ulidwala lami, lapho engiphephela khona, isihlangu sami lophondo lokusindiswa kwami, inqaba yami.
 Ngakhuleka kuThixo ofanele ukudunyiswa njalo ngikhululwe ezitheni zami.
@@ -14249,7 +14250,6 @@ ngoba umbuso ungokaThixo njalo uyabusa phezu kwezizwe.
 Zonke izinothi zomhlaba zizazitika ngokudla njalo zikhonze; bonke abangena othulini bazaguqa phambi Kwakhe labo abangeke baziphilise.
 Abesikhathi esizayo bazamkhonza; izizukulwane zizakwaziswa ngoThixo.
 Bazatshumayela ukulunga kwakhe, ebantwini abangakazalwa ngoba ukwenzile Yena.
-
 UThixo ungumelusi wami, angiyikuswela lutho.
 Ungilalisa emadlelweni aluhlaza, ungikhokhelela emanzini apholileyo,
 uvuselela umphefumulo wami. Uyangihola ezindleleni zokulunga ngenxa yebizo lakhe.
@@ -14334,6 +14334,7 @@ Ilizwi likaThixo liyayizamazamisa inkangala; uThixo uyayizamazamisa iNkangala ya
 Ilizwi likaThixo liyayitshila imikusu likhwebule izihlahla amagusu asale eze. Njalo ethempelini lakhe bonke bazamemeza bathi, “Inkazimulo!”
 UThixo uhlezi ebukhosini phezu kwesikhukhula; uThixo unguMbusi lanininini.
 UThixo unika amandla ebantwini bakhe; uThixo ubusisa abantu bakhe ngokuthula.
+
 Ngizakuphakamisa, Oh Thixo, ngoba wangenyula ekujuleni awaze wavumela izitha zami zijabule phezu kwami.
 Awu Thixo, Nkulunkulu wami, ngacela Kuwe uncedo wangisilisa.
 Yebo Thixo wangenyula elibeni, wangisiza ngaphepha ukungena egodini.
@@ -14371,7 +14372,6 @@ Udumo alube kuThixo ngoba watshengisa uthando lwakhe olumangalisayo kimi ngisedo
 Ngiphakathi kokwethuka ngathi, “Sengisusiwe kangisabonakali Kuwe!” Kanti wakuzwa ukukhala kwami ngicela umusa, lapho ngangicela kuwe ukusizwa.
 Mthandeni uThixo, lina bangcwele bakhe! UThixo uyabalondoloza abathembekileyo, kodwa abazigqajayo uyabaphindisela ngokugcweleyo.
 Qinani lime isibindi, lonke lina elithemba uThixo.
-
 Ubusisiwe lowo oziphambeko zakhe zithethelelwe, ozono zakhe zisibekelwe.
 Ubusisiwe lowo ongasoze abalelwe isono sakhe nguThixo, njalo ongelankohliso emoyeni wakhe.
 Ngathi lapho ngithule, amathambo ami ababuthakathaka ngenxa yokububula kwami ilanga lonke.
@@ -14405,6 +14405,7 @@ ukubakhulula ekufeni baphiliswe lanxa kulendlala.
 Simlindele uThixo ngokwethemba; ulusizo lwethu lesihlangu sethu.
 Inhliziyo zethu zithokoza Ngaye, ngoba sithembe ebizweni lakhe elingcwele.
 Sengathi uthando Lwakho olungaphuthiyo, Thixo, lungaba phezu kwethu njengalokhu sibeka ithemba lethu kuwe.
+
 Ngizamphakamisa uThixo ngezikhathi zonke; indumiso yakhe izahlala isezindebeni zami.
 Umphefumulo wami uzaziqhenya Thixo akuthi abahluphekileyo bezwe bajabule.
 Bongani uThixo kanye lami; kasiphakamiseni ibizo lakhe sonke, ndawonye.
@@ -14427,7 +14428,6 @@ Umuntu olungileyo angaba lezinhlupheko ezinengi, kodwa uThixo uyamkhulula kuzozo
 Uyawavikela wonke amathambo akhe, kungephuki loba lalinye.
 Ububi buzambulala oyisixhwali; izitha zolungileyo zizalahlwa.
 UThixo uyazihlenga izinceku zakhe; kakho ozalahlwa ophephela kuye.
-
 Xabana labo, Thixo abaxabana lami; lwana labo abalwa lami.
 Thatha isihlangu lewisa; phakama uzongilamulela.
 Phakamisa umkhonto lesijula, ukuqondise kwabangihlaselayo. Ngitshela ukuthi, “Ngiyikusindiswa kwakho.”
@@ -14456,6 +14456,7 @@ Ungabayekeli bacabange bathi, “Ehe, yikho ebesikufuna!” loba bathi, “Sesim
 Sengathi bonke abantela ngokuhlupheka kwami bangathelwa ngehlazo basanganiseke; sengathi bonke abazikhukhumezayo phezu kwami bangembeswa ngokuyangeka langehlazo.
 Sengathi labo abathokoza ngokugezwa kwami bangahalalisa ngentokozo lenjabulo; sengathi bangatsho kokuphela bathi, “Makaphakanyiswe uThixo othokoza ngokuhlala kuhle kwenceku yakhe.”
 Ulimi lwami luzakhuluma ngokulunga Kwakho langendumiso Yakho ilanga lonke.
+
 Ngilenkinga enhliziyweni yami mayelana lokuxhwala kwesigangi: Kakukho ukwesaba uNkulunkulu engqondweni yaso.
 Phela kweyaso ingqondo siyazikhohlisa size sehluleke ukubona kumbe ukuzonda isono saso.
 Amazwi omlomo waso abolile alenkohliso; kasiselakho ukuhlakanipha lokulunga.
@@ -14468,7 +14469,6 @@ Ngoba kuwe kulomthombo wokuphila; kokwakho ukukhanya sibona ukukhanya.
 Qhubeka ngothando Lwakho kulabo abakwaziyo, ukuluga Kwakho kwabaqotho enhliziyweni.
 Sengathi unyawo lwabazazisayo lungehluleka ukunginyathela, loba ukuthi isandla sababi singangixotshi.
 Bonani-ke ukuthi izigangi sezithe daca ziwiselwe phansi, kazisavuki futhi!
-
 Ungazikhathazi ngabantu ababi loba uhawukele labo abenza okungalunganga;
 ngoba bazabuna masinyane njengotshani, njengezimila eziluhlaza bazakufa masinyane.
 Themba kuThixo wenze okulungileyo; hlala elizweni ukholise amadlelo amahle.
@@ -14509,6 +14509,7 @@ Nanzelela abangelecala, qaphela abaqotho. Likhona ikusasa kumuntu wokuthula.
 Kodwa zonke izoni zizabhujiswa; ikusasa lezigangi lizasuswa.
 Ukusindiswa kwabalungileyo kuvela kuThixo; uyinqaba yabo ngesikhathi sokuhlupheka.
 UThixo uyabasiza abakhulule; abakhulule kwababi abasindise, ngoba baphephela kuye.
+
 Awu Thixo, ungangikhuzi ngolaka loba ungijezise uthukuthele.
 Ngoba imitshoko yakho ingicibile, njalo wangibhansula kakhulu ngesandla sakho.
 Ngenxa yokuthukuthela kwakho kangiselakuphila emzimbeni wami; amathambo ami kawasaqinanga ngenxa yesono sami.
@@ -14589,12 +14590,12 @@ Emini uThixo uyaluqondisa uthando lwakhe ebusuku ingoma yakhe ikhona kimi umkhul
 Ngithi kuNkulunkulu iDwala lami, “Kutheni usungikhohliwe na? Kutheni sengizula ngingolilayo, ngincindezelwa yisitha na?”
 Amathambo ami ezwa ubuhlungu obungiqedayo lapho izitha zami zingihoza, zisithi kimi ilanga lonke, “Ungaphi uNkulunkulu wakho?”
 Kungani wephukile na, wena mphefumulo wami? Kungani udungekile kanje ngaphakathi kwami? Beka ithemba lakho kuNkulunkulu, ngoba ngisezakumdumisa, uMsindisi wami loNkulunkulu wami.
-
 Ngigeza, awu Nkulunkulu, ungimele uphikise isizwe esingathembekanga; ngikhulula ebantwini ababi abalenkohliso.
 UnguNkulunkulu inqaba yami. Usungilahlelani na? Kungani sengizula ngilila ngincindezelwa yisitha sami na?
 Thumela ukukhanya kwakho leqiniso lakho, kakungikhokhele; kakungilethe entabeni yakho engcwele, endaweni lapho ohlala khona.
 Lapho-ke ngizakuya e-alithareni likaNkulunkulu, kuNkulunkulu, intokozo yami lenjabulo yami. Ngizakudumisa ngechacho, Oh Nkulunkulu, Nkulunkulu wami.
 Kungani wephukile, wena mphefumulo wami? Kungani udungekile kanje ngaphakathi kwami? Beka ithemba lakho kuNkulunkulu, ngoba ngisezakumdumisa, uMsindisi wami loNkulunkulu wami.
+
 Sizizwele ngezethu indlebe, yebo Oh Nkulunkulu obaba basitshela owakwenzayo ensukwini zabo, ensukwini zekadeni.
 Ngezakho izandla wazixotsha izizwe wagxumeka obaba; wabahlifiza abantu wenza obaba baphumelela.
 Kwakungasinkemba zabo ezathumba ilizwe, njalo kakusingalo yabo eyaletha ukunqoba; kwaba yisandla sakho sokunene, ingalo yakho, lokukhanya kobuso bakho, ngoba wawubathanda.
@@ -14697,7 +14698,6 @@ phela kazukuhamba lalutho mhla esifa, ubukhazikhazi lobo kayikwehla labo.
 Loba wayesithi esaphila azibone engobusisiweyo abantu bayakukhonza nxa uphumelela,
 uzakuyahlangana lesizukulwane sabokhokho bakhe, abangasayikuphinde bakubone ukukhanya kwempilo.
 Umuntu olenotho kodwa engaqedisisi unjengezinyamazana ezibhubhayo.
-
 USomandla, uNkulunkulu, uThixo, uyakhuluma, ubiza umhlaba kusukela okuphuma khona ilanga kuze kufike lapho elitshona khona.
 EseZiyoni, epheleleyo ngobuhle, uNkulunkulu uyakhazimula.
 UNkulunkulu wethu uyeza, kayikuthula; umlilo uyahangula phambi kwakhe, emaceleni akhe kukhukhula isiphepho.
@@ -14721,6 +14721,8 @@ Linyeya umfowenu njalonjalo, limgcone umntakanyoko uqobo.
 Lizenzile lezizinto ngazithulela; lalikhumbula ukuthi ngifana lani. Kodwa ngizalikhuza ngilibonisa icala lenu obala.
 Nanzelelani lokhu, lina elikhohlwa uNkulunkulu, funa ngilidabudabule, kungekho ongalilamulela:
 Lowo onikela iminikelo yokubonga uyangidumisa, njalo ulungisa indlela ukuze ngimtshengise insindiso yami.”
+
+
 Ake ungihawukele, awu Nkulunkulu, ngenxa yothando lwakho olungaphuthiyo; ngenxa yesihawu sakho esikhulu yesula iziphambeko zami.
 Hlanza wonke amanyala ami ungihlambulule esonweni sami.
 Phela ngiyazazi iziphambeko zami, isono sami sihlezi siphambi kwami.
@@ -14752,13 +14754,13 @@ Abalungileyo bazabona besabe; bazamhleka bathi,
 Kodwa mina nginjengesihlahla se-oliva esikhula endlini kaNkulunkulu; ngithembe uthando lukaNkulunkulu olungaphuthiyo nini lanini.
 Ngizakudumisa lanini ngalokho okwenzileyo; ngizathemba ebizweni lakho, ngoba lihle ibizo lakho. Ngizakudumisa phambi kwabangcwele bakho.
 
-
 Isiwula sithi enhliziyweni yaso, “AkulaNkulunkulu.” Baxhwalile, lezindlela zabo zibolile; kakho loyedwa owenza okuhle.
 UNkulunkulu ukhangela phansi esezulwini emadodaneni abantu ingabe bakhona yini abazwisisayo, abamdingayo uNkulunkulu.
 Abantu bonke baphambukile, bonke sebexhwalile; kakho loyedwa owenza okuhle, kakho lamunye.
 Kanti lezizixhwali kaziyikufa zafunda yini? Zona ezidla abantu bami ingathi zidla isinkwa, ezingamkhonziyo uNkulunkulu.
 Kodwa yibo abagubhazeliswa luvalo khona kungelalutho olwesabekayo. UNkulunkulu wawahlakaza amathambo alabo abalihlaselayo; lina labayangisa ngoba uNkulunkulu wabeyisa.
 Sengathi insindiso ka-Israyeli ingaqhamuka eZiyoni! Nxa uNkulunkulu esebuyisela impumelelo yabantu bakhe, kathokoze uJakhobe lo-Israyeli ajabule!
+
 
 Ngisindisa, awu Nkulunkulu, ngebizo lakho; ngigeza ecaleni ngamandla akho.
 Zwana umkhuleko wami, Oh Nkulunkulu; lalela amazwi omlomo wami.
@@ -14767,7 +14769,6 @@ Ngeqiniso uNkulunkulu ulusizo lwami; uThixo nguye ongisizayo.
 Akuthi ububi bubuyele phezu kwalabo abangigconayo; ngokuthembeka kwakho babhubhise.
 Ngizakwenzela umhlatshelo owomnikelo wokuzithandela; ngizalidumisa ibizo lakho, Thixo, ngoba lihle.
 Ngoba ingikhulule kuzozonke inhlupheko zami, lamehlo ami akubonile ukunqotshwa kwezitha zami.
-
 
 Lalela umkhuleko wami, Oh Nkulunkulu, ungafulatheli isikhalazo sami;
 ngizwa ungiphendule. Imicabango yami iyangikhathaza, ngididekile
@@ -14849,6 +14850,7 @@ Bayazula bedinga ukudla bahlabe umkhulungwane nxa bengasuthanga.
 Kodwa mina ngizahlabelela ngihaya amandla akho, ekuseni ngizahlabelela ngihaya uthando lwakho, ngoba wena uyinqaba yami, isiphephelo sami ezikhathini zokuhlupheka.
 Oh wena Mandla ami, ngihlabelela indumiso kuwe; wena, Oh Nkulunkulu uyinqaba yami, Nkulunkulu wami olothando.
 
+
 Ususilahlile, Oh Nkulunkulu, wabhidliza izinqaba zethu; ubukade uthukuthele, manje ake usivuselele!
 Usulizamazamisile ilizwe waliqhekeza; namathisela iminkenke yalo ngoba selivevezela.
 Ubabonisile abantu bakho izikhathi ezilukhuni; usiphe iwayini elisenza sidiyazele.
@@ -14861,7 +14863,6 @@ Ngubani ozangisa emzini olenqaba na? Ngubani ozangiholela e-Edomi na?
 Kakusuwe na, Oh Nkulunkulu, wena osusilahlile, ongasaphumi lathi ezimpini zethu?
 Ake usisize ezitheni zethu, ngoba usizo lomuntu luyize.
 Nxa siloNkulunkulu sizanqoba, njalo uzazinyathelela phansi izitha zethu.
-
 
 Zwana ukukhala kwami, Oh Nkulunkulu; lalela umkhuleko wami.
 Ngisemkhawulweni womhlaba ngiyakubiza, ngiyabiza lapho inhliziyo yami isiphela amandla; ngikhokhelela edwaleni eliphakeme kulami.
@@ -14921,7 +14922,6 @@ Uyayigcwalisa imisele yawo ngamanzi uyendlale kahle imibundu yawo; uyawuthambisa
 Uyawuphelelisa umnyaka ngenala, izinqola Zakho ziphuphume ngokugcwala.
 Amadlelo asenkangala ayaphuphuma; izintaba zigqokiswe ngenjabulo.
 Amadlelo agcwele imihlambi yezimvu lezigodi zisibekelwe ngamabele; ziyamemeza ngentokozo zihlabelela.
-
 Memezani ngentokozo kuNkulunkulu mhlaba wonke!
 Hlabelani ngobukhosi bebizo lakhe; yenzani udumo lwakhe lube lenkazimulo!
 Yitshoni kuNkulunkulu lithi, “Imangalisa kangaka imisebenzi yakho! Izitha Zakho ziyethuka phambi Kwakho
@@ -14942,6 +14942,7 @@ Ngakhala Kuye ngomlomo wami; indumiso yakhe yayisolimini lwami.
 Aluba ngangigcine isono enhliziyweni yami, iNkosi ngabe kayizange ingilalele;
 kodwa ngeqiniso uNkulunkulu walalela walizwa ilizwi lami ngikhuleka.
 Kadunyiswe uNkulunkulu ongawulahlanga umkhuleko wami futhi ongagodlanga uthando lwakhe kimi.
+
 Sengathi uNkulunkulu angaba lomusa kithi asibusise akhazimulise ubuso bakhe kithi,
 ukuze izindlela zakho zaziwe emhlabeni, insindiso yakho kuzozonke izizwe.
 Sengathi abantu bangakudumisa, Oh Nkulunkulu; sengathi bonke abantu bangakudumisa.
@@ -15028,7 +15029,6 @@ Sengathi labo abafuna impilo yami bangayangiswa basanganiswe; sengathi bonke aba
 Sengathi labo abathi kimi, “Ehe! Ehe!” bangafulathela ngenxa yehlazo labo.
 Kodwa akuthi bonke abakudingayo bathokoze bajabule kuwe; akuthi labo abathanda insindiso yakho bahlale besithi, “uThixo kadunyiswe!”
 Ikanti ngingumyanga ngiyaswela; woza masinyane kimi, Oh Nkulunkulu. Ulusizo lwami lomkhululi wami; Oh Thixo, ungaphuzi.
-
 Kuwe Thixo, sengithole isiphephelo; mangingayangiswa lanini.
 Ngihlenga ungikhulule ngokulunga kwakho; ngilalela, woza ngokuphangisa ungisindise.
 Woba lidwala lami lokuphephela, lapho engingaya khona loba nini; tshono umlayo wokuba ngisindiswe, ngoba ulidwala lami lenqaba yami.
@@ -15124,6 +15124,7 @@ Nanzelela isivumelwano sakho, ngoba izikhundla zobugebenga zigcwele kulolonke il
 Ungayekeli abancindezelweyo babuyele beyangekile; sengathi abayanga labaswelayo bangalidumisa ibizo lakho.
 Phakama, awu Nkulunkulu, vikela okungokwakho; khumbula ukuthi iziwula zikuhleka njani ilanga lonke.
 Ungakulibali ukuvungama kwalabo abalwa lawe, ukuxokozela kwezitha zakho, okuzwakala kokuphela.
+
 Siletha ukubonga kuwe, Oh Nkulunkulu, siletha ukubonga, ngoba iBizo lakho liseduze; abantu bakhuluma ngemisebenzi Yakho emangalisayo.
 Wena uthi, “Ngikhetha isikhathi esimisiweyo; yimi engahlulela okuqondileyo.
 Nxa umhlaba kanye labantu bawo kuzamazama, yimi engizibamba ziqine izisekelo zawo.
@@ -15168,7 +15169,6 @@ Amayezi awathulula amanzi, isibhakabhaka sandindiza ngokuduma; imitshoko yakho y
 Umdumo wakho wezwakala uphakathi kwesivunguzane, umbane wakho wawukhanyisa umhlaba; umhlaba wavevezela wanyikinyeka.
 Indlela yakho yadabula olwandle, umkhondo wakho phakathi kwamanzi, kodwa izinyathelo zakho zazingabonakali.
 Wabahola abantu bakho njengomhlambi wezimvu ngesandla sikaMosi lo-Aroni.
-
 Zwanini imfundiso yami, bantu bami; lilalele amazwi omlomo wami.
 Ngizavula umlomo wami ngemifanekiso, ngizakutsho izinto ezifihlekileyo, izinto zekadeni,
 esakuzwayo lesikwaziyo esakutshelwa ngokhokho bethu.
@@ -15254,6 +15254,7 @@ Kungani izizwe zisithi, “Ungaphi uNkulunkulu wabo?” Yenza emehlweni ethu, kw
 Sengathi ukububula kwezibotshwa kungafinyelela kuwe; ngamandla engalo yakho sindisa labo abagwetshelwe ukufa.
 Baphindisele kasikhombisa omakhelwane bethu ngezinhlamba ababekuchaphaza ngazo, Thixo.
 Kuzakuthi-ke thina abantu bakho, izimvu zedlelo lakho, sikudumise laphakade; kusuka esizukulwaneni kusiya esizukulwaneni sizabalisa udumo lwakho.
+
 Sizwe, Oh Malusi ka-Israyeli, wena okhokhela uJosefa njengomhlambi wezimvu; wena ohlezi esihlalweni sobukhosi uphahlwe ngamakherubhi, benyezela
 phambi kuka-Efrayimi loBhenjamini loManase. Vusa amandla akho; woza usisindise.
 Sivuselele, Oh Nkulunkulu; yenza ubuso bakho bukhanye phambi kwethu, ukuze sisindiswe.
@@ -15290,7 +15291,6 @@ Aluba abantu bami bengangilalela, aluba u-Israyeli engalandela izindlela zami,
 masinyane nje ngingazibhuqa izitha zabo ngiphakamisele isandla sami ezitheni zabo!
 Labo abamzondayo uThixo bangatshotshobala phambi kwakhe, kuthi isijeziso sabo sibe ngesaphakade.
 Kodwa lina lingaphiwa ingqoloyi enhle kakhulu; ngilisuthise ngoluju oluphuma edwaleni.”
-
 UNkulunkulu usesihlalweni emhlanganweni omkhulu; nguye owahlulelayo phakathi kwabo “nkulunkulu”:
 “Koze kube nini livikela ababi na libonakala lithanda izigangi?
 Lamlelani ababuthakathaka lezintandane; melani amalungelo abayanga labahlukuluzwayo.
@@ -15299,6 +15299,7 @@ Onkulunkulu kabazi lutho, kabazwisisi lutho. Bayantula emnyameni; zonke izisekel
 Ngathi, ‘Lingo “nkulunkulu”; lonke lingamadodana akhe oPhezukonke.’
 Kodwa lizakufa lingabantu nje; lizakuwa njengamanye amakhosi wonke.”
 Phakama, Oh Nkulunkulu, yahlulela umhlaba, ngoba zonke izizwe ziyilifa lakho.
+
 Oh Nkulunkulu, ungathuli uthi zwi; ungangincitshi indlebe yakho, ungameli khatshana lami, Oh Nkulunkulu.
 Akubone ukuthi ziphithizela kanjani izitha zakho, ukuthi ziwaqaphisa kanganani amakhanda azo.
 Ngobuqili zakhela abantu bakho amacebo; zisongela labo obathembileyo.
@@ -15344,7 +15345,6 @@ Uthando lokuthembeka kuyahlangana ndawonye; ukulunga lokuthula kuyangana.
 Ukuthembeka kuqhamuka emhlabathini, ukulunga kukhanya phansi kusezulwini.
 Ngeqiniso uThixo uzanika okulungileyo, lelizwe lethu lizathela isivuno salo.
 Ukulunga kuhamba phambi kwakhe kulungisele izinyathelo zakhe indlela.
-
 Zwana, Oh Thixo, ungiphendule, ngoba ngingumyanga ngiyaswela.
 Vikela impilo yami, ngoba ngizinikele kuwe; sindisa inceku yakho ekuthembayo; UnguNkulunkulu wami.
 Woba lesihawu kimi, Oh Thixo, ngoba ngitshona ngikubiza ilanga lonke.
@@ -15369,6 +15369,7 @@ Izinto ezinhle okumangalisayo ziyatshiwo ngawe, we muzi kaNkulunkulu:
 Ngempela kuzathiwa ngeZiyoni, “Lo laloyana bazalelwa khona, kuthi yena oPhezukonke uzaliqinisa.”
 UThixo uzaloba eluhlwini lwamabizo abantu: “Lo wazalelwa eZiyoni.”
 Bazakuthi betshaya amachacho bahlabele bathi, “Yonke imithombo yami ikuwe.”
+
 Oh Thixo, Nkulunkulu ongisindisayo, ebusuku lemini ngikhala kuwe.
 Akuthi umkhuleko wami ufinyelele kuwe; phendula indlebe yakho izwe ukukhala kwami.
 Ngoba umphefumulo wami ugcwele inhlupheko lempilo yami isilengela engcwabeni.
@@ -15440,7 +15441,6 @@ Oh Thixo, lungaphi uthando lwakho lwakudala olukhulu, okwathi ngokuthembeka kwak
 Khumbula, Thixo ukuthi inceku yakho iklolodelwa njani, ukuthi enhliziyweni yami ngithwele izigcono zezizwe,
 izigcono izitha zakho eziklolode ngazo, Oh Thixo, okuthe ngazo zaklolodela ogcotshiweyo wakho kukho konke akwenzayo.
 Udumo kalube kuThixo laphakade! Ameni njalo Ameni.
-
 Thixo, wena ulikhaya lethu kuzozonke izizukulwane.
 Izintaba zingakabikhona lalapho ungakawuvezi umhlaba kanye lelizwe, kusukela phakade kuze kube phakade unguNkulunkulu.
 Ubuyisela abantu ethulini, usithi, “Buyelani othulini, lina madodana abantu.”
@@ -15474,6 +15474,7 @@ Uzanyathela isilwane lephimpi; uzasigxoba isilwane esikhulu lenyoka.
 “Ngoba uyangithanda,” kutsho uThixo, “ngizamkhulula; ngizamvikela, ngoba uyalinaka ibizo lami.
 Uzangibiza, ngimphendule; ngizakuba laye ekuhluphekeni, ngizamkhulula ngimenzele udumo.
 Ngizamsuthisa ngempilo ende ngimtshengise insindiso yami.”
+
 Kuhle ukudumisa uThixo lokuhlabelela ebizweni lakho, wena oPhezukonke,
 ukumemezela uthando lwakho ekuseni lokuthembeka kwakho ebusuku,
 ukutshaya iziginci ngomhubhe wezintambo ezilitshumi lemvungamo emnandi yechacho.
@@ -15489,7 +15490,6 @@ Abalungileyo bazaqhela njengesihlahla selala, bazakhula njengomsedari waseLebhan
 ngoba behlanyelwe endlini kaThixo, bazaqhela emagumeni kaNkulunkulu wethu.
 Bazabe belokhu bethela izithelo lanxa sebebadala, bazahlala belokhu behluma beluhlaza,
 bememezela besithi, “UThixo uqotho; uliDwala lami, kakukho bubi kuye.”
-
 UThixo uyabusa, ugqoke ubukhosi; uThixo ugqoke ubukhosi njalo uzihlome ngamandla. Umhlaba ugxilile uqinile; ngeke ugudlulwe.
 Isihlalo sakho saqiniswa ekadeni; uNguwe kusukela phakade.
 Inlwandle seziphakamisile, Oh Thixo, inlwandle ziliphakamisile ilizwi lazo; inlwandle ziwaphakamisile amagagasi azo agubhuzelayo.
@@ -15585,6 +15585,7 @@ Lowo ochothoza umakhelwane wakhe ngasese, lowo ngizamthulisa; olamehlo asesiphun
 Amehlo ami azakuba kwabathembekileyo elizweni, ukuthi bahlale lami; lowo okuhamba kwakhe kakulansolo uzangisebenzela ekhonza kimi.
 Kakho othanda ukwenza inkohliso ozahlala endlini yami; kakho okhuluma amanga ozakuma phambi kwami.
 Zonke insuku ekuseni ngizabathulisa bonke ababi phakathi kwelizwe; ngizamlahla phansi wonke umuntu oyisigangi edolobheni likaThixo.
+
 Zwana umkhuleko wami, Oh Thixo; ukukhala kwami ngicela uncedo kakufike kuwe.
 Ungangifihleli ubuso bakho nxa ngikhathazekile. Ngipha indlebe yakho; nxa ngibiza ngiphendula masinyane.
 Ngoba insuku zami ziyanyamalala njengentuthu; amathambo ami ayavutha njengamalahle abhebhayo.
@@ -15613,7 +15614,6 @@ Ekuqaleni wabeka izisekelo zomhlaba, lamazulu angumsebenzi wezandla zakho.
 Konke kuzabhubha, kodwa wena uzasala; konke kuzaguga njengesigqoko. Njengesivunulo uzakuguqula kucine sekulahlwa.
 Kodwa wena uhlala unjalo, leminyaka yakho kayiyikuphela.
 Abantwana bezinceku zakho bazahlala besemehlweni akho; izizukulwane zazo zizaqiniswa phambi kwakho.”
-
 Dumisa uThixo, Oh mphefumulo wami; konke okuphakathi kwami, kakudumise ibizo lakhe elingcwele.
 Dumisa uThixo, Oh mphefumulo wami, ungaze wakhohlwa konke okuhle okuthola kuye
 othethelelayo zonke izono zakho akusilise kuzozonke izifo zakho,
@@ -15807,6 +15807,7 @@ kwathi yena othela ihlazo ezikhulwini wabantulisa egwaduleni olungakhanyi mzila.
 Kodwa abaswelayo wabakhupha ekuhluphekeni kwabo wandisa izimuli zabo njengemihlambi yezimvu.
 Abaqotho bayabona bathokoze, kodwa bonke ababi bagcike imilomo yabo.
 Lowo ohlakaniphileyo, kaqaphele lezizinto anakane ngothando olukhulu lukaThixo.
+
 Inhliziyo yami ibambelele, kayiguquki, Oh Nkulunkulu; ngizahlabela ngenze iculo elimnandi ngomoya wami wonke.
 Vuka, mhubhe lechacho! Ngizayivusa intathakusa.
 Ngizakudumisa, yebo Thixo, phakathi kwezizwe; ngizahlabela ngawe phakathi kwabantu.
@@ -15820,7 +15821,6 @@ Ngubani ozangisa emzini olenqaba na? Ngubani ozangiholela e-Edomi na?
 Kakusuwe na, Oh Nkulunkulu, wena osusikhalele, ongasaphumi lathi ezimpini zethu?
 Ake usisize ezitheni zethu, ngoba usizo lomuntu luyize.
 Nxa siloNkulunkulu sizanqoba, njalo uzazinyathelela phansi izitha zethu.
-
 Oh Nkulunkulu, wena engikudumisayo, ungali ulokhu uthule,
 ngoba abantu ababi abalenkohliso bayivulile imilomo yabo bekhuluma ngami; bakhuluma bengigcona ngendimi zabo zamanga.
 Bangihonqolozela ngamazwi enzondo; bayangisukela nje kungelasizatho.
@@ -16329,6 +16329,7 @@ Kangibazondi yini abakuzondayo na Oh, Thixo, ngibenyanye labo abakuvukelayo na?
 Ngiyabazonda ngenzondo yonke; ngithi bayizitha zami.
 Ngihlola, Oh Nkulunkulu, uyazi inhliziyo yami; ngizama ukuze wazi ukunqineka kwemicabango yami.
 Ake ubone ingabe kulendledlana embi kimi, ungihole ngendlela yaphakade.
+
 Ngilamulela, Oh Thixo, ebantwini ababi; ngivikela ebantwini bodlakela,
 abakha amacebo amabi ezinhliziyweni zabo bahlokomise impi ukusa kwamalanga.
 Benza izindimi zabo zicije njengezenyoka; ubuhlungu benhlangwana busezindebeni zabo.
@@ -16342,7 +16343,6 @@ Akuthi amalahle avuthayo abakhithikele; sengathi bangaphoselwa emlilweni, emigod
 Akuthi abahlebayo bangatholi indawo elizweni; akuthi umnyama ubahlale izithende abantu bochuku.
 Ngiyazi ukuthi uThixo ubenzela okulungileyo abayanga, ubamele abaswelayo.
 Ngempela abalungileyo bazalidumisa ibizo lakho labaqotho bazahlala phambi kwakho.
-
 Oh Thixo, ngiyakubiza; woza masinyane kimi. Zwana ilizwi lami nxa ngikubiza.
 Sengathi umkhuleko wami ungema phambi kwakho njengempepha; kuthi ukuphakama kwezandla zami kube njengomhlatshelo wakusihlwa.
 Ngibekela umlindi womlomo wami, Oh Thixo, qaphela umnyango wezindebe zami.
@@ -16353,6 +16353,7 @@ Bazakuthi, “Njengalowo olimayo eqeqebula umhlabathi, kanjalo amathambo ethu ac
 Kodwa amehlo ami agxile kuwe, Oh Thixo woBukhosi; kuwe ngiyaphephela unganginikeli ekufeni.
 Ngivikela emijibileni asebeyithiyele mina, ezifini ezithiywe yizigangi.
 Akuthi ababi bawele emambuleni abo, mina ngidlule kuhle ngiphephile.
+
 Ngiyamemeza kakhulu kuThixo; ngiphakamisela ilizwi lami kuThixo ngicela umusa.
 Ngithululela ukusola kwami phambi kwakhe; phambi kwakhe ngichaza ukuhlupheka kwami.
 Lapho umphefumulo wami uncipha ngaphakathi kwami, nguwe oyaziyo indlela yami. Endleleni engihamba ngayo abantu bangithiyile khona.
@@ -16360,7 +16361,6 @@ Khangela kwesokunene sami ubone; kakho lobani onginanzayo. Angilaso isiphephelo;
 Ngikhala kuwe, Oh Thixo; ngithi, “Uyisiphephelo sami, uyisabelo sami elizweni labaphilayo.”
 Lalela ukukhala kwami, ngoba ngileziswelo ezizikileyo, ngikhulula kulabo abaxotshana lami, ngoba balamandla kakhulu kulami.
 Ngikhulula entolongweni yami, ukuze ngidumise ibizo lakho. Lapho-ke abalungileyo bazangibuthanela ngenxa yokulunga kwakho kimi.
-
 Oh Thixo, zwana umkhuleko wami, zwana ukukhala kwami ngicela umusa; ngokuthembeka kwakho langokulunga kwakho woza uzongiphumuza.
 Ungangenisi inceku yakho ekwahlulelweni, ngoba kakho ophilayo ongabe ulungile kuwe.
 Isitha siyangizingela, singincindezela phansi emhlabathini; singenza ngihlale emnyameni njengalabo abafa kudala.
@@ -17465,7 +17465,6 @@ Lingcono ijaha elingumyanga kodwa lihlakaniphile kulenkosi endala eyisiwula eyal
 Ijaha lelo kungabe ngeliphuma ejele libe yinkosi, loba lingelazalelwa ebuyangeni elizweni lalowombuso.
 Ngabona ukuthi bonke ababephila behamba ngaphansi kwelanga balilandela lelojaha elathatha isikhundla sobukhosi.
 Amakhosi la (endala lencinyane) kungabe ayelodumo elandelwa ngabantu abanengi abangelakubalwa. Kodwa izizukulwane ezilandelayo azimthandanga lowo owathatha ubukhosi. Lokhu lakho kuyize, yikuxotshana lomoya.
-
 Qaphela izinyathelo zakho nxa usiya endlini kaNkulunkulu. Sondela ulalele kulokuthi wenze imihlatshelo yeziwula ezingaziyo ukuthi ziyona.
 Ungawalazeli ngomlomo wakho, ungabi lephaphu uphange uthembise kuNkulunkulu. UNkulunkulu usezulwini ikanti wena usemhlabeni, ngakho kawabe malutshwana amazwi akho.
 Njengephupho elifika nxa kulezinkathazo ezinengi, injalo inkulumo yesiwula nxa ilamazwi amanengi.
@@ -17485,6 +17484,7 @@ Lobu labo yibubi obudanisayo: Njengokufika kwakhe, umuntu uzabuyela enjalo, ngak
 Zonke insuku zakhe udlela emnyameni, ekhathazekile, ehluphekile, ezondile.
 Ngasengibona ukuthi kuhle kuqondile ukuthi umuntu adle njalo anathe, njalo azuze ukusuthiseka ekutshikatshikeni kwakhe ngomsebenzi ngaphansi kwelanga ngalezonsuku ezilutshwane ezokuphila uNkulunkulu asamuphe zona ngoba lesi yisabelo sakhe.
 Kunjalo futhi ukuthi nxa uNkulunkulu esipha umuntu inotho lempahla, amvumele ukuthi akholise ngazo, emukele isabelo sakhe athokoze emsebenzini wakhe, lesi yisipho sikaNkulunkulu.
+Kahlali ekhumbula ngezinsuku zempilo yakhe ngoba uNkulunkulu umenza ahlale ngenjabulo enhliziyweni.
 Sengibone obunye ububi ngaphansi kwelanga engibona ukuthi bunzima kakhulu ebantwini:
 UNkulunkulu upha umuntu inotho lempahla lodumo ukuze angasileli lutho oluloyiswa yinhliziyo yakhe, kodwa uNkulunkulu kamniki amandla okuthi azikholise lezozinto, zikholiswa ngowemzini. Lokhu kuyize, ububi obudanisayo.
 Umuntu angaba labantwana abalikhulu aphile okweminyaka eminengi; ikanti loba angaze aphile kanganani kodwa nxa engeke akholise inotho yakhe njalo angangcwatshwa ngendlela eqondileyo, ngithi umphunzo ungcono kulaye.
@@ -17694,6 +17694,7 @@ kodwa ijuba lami, opheleleyo wami, wehlukene, nguye yedwa kunina, uyintandokazi 
 Ngubani lo oqhamuka njengokusa, omuhle njengenyanga, okhazimula njengelanga, olobukhosi njengezinkanyezi ziludwendwe?
 Ngehlela esivandeni esilezithelo ezilenkelo ngisiyabona amahlumela esigodini, ngisiyabona ingabe amavini ayesenunkula yini langabe amaphomegranathi ayeseqhakazile na.
 Ngisalibele nje isifiso sami sangibeka ezinqoleni zobukhosi ezabantu bakithi.
+Phenduka, phenduka, wena mShulamithi; phenduka, phenduka, ukuze sikubuke! Liyabe limbukelani umShulamithi kungathi libuka umgido kaMahanayimi?
 Zinhle kakhulu inyawo zakho emanyathelweni, awu ndodakazi yenkosana! Amathebe mahle anjengamatshe aligugu, ingathi abunjwa kuhle yingcitshi.
 Inkaba yakho yindingilizana yesiphathelo esihle esihlala sigcwele iwayini elixutshiweyo. Ukhalo lwakho luyinqunjana yengqoloyi ezingelezwe yizimbali.
 Amabele akho anjengamazinyane amabili, njengamaphahla empala.
@@ -17707,7 +17708,6 @@ Ngingowaso isithandwa sami, silangathela mina.
 Woza, sithandwa sami, kasihambe siye emaphandleni, kasiyolala emizini.
 Kasihambe ekuseni ezivinini ukuyabona ingabe amavini asenunkula na, ingabe amaluba amaphomegranathi awo aseqhakazile lapho ngizakupha uthando lwami.
 Izihlahla zamamandraki zikhupha iphunga elimnandi, kuthi emnyango wakwethu kube lezibiliboco zonke ezintsha lezindala, engikubekele zona, sithandwa sami.
-
 Aluba nje unjengomfowethu kimi, owondliwa emunya emabeleni kamama! Lapho-ke, nxa ngikufica phandle, ngithi loba ngikwanga, angabikhona ongisolayo.
 Ngabe ngiyakudonsa ngikuse endlini kamama yena owangikhulisayo. Ngabe ngikupha iwayini elixutshiweyo unathe, uluju lwamaphomegranathi ami.
 Ingalo yakhe yobunxele ngiyiqamele kuthi ingalo yakhe yokunene ingigonile.
@@ -17897,7 +17897,6 @@ Nxa abantu bekutshela ukuthi buza abalamadlozi labalemimoya yobuthakathi, labany
 Emthethweni lakubo ubufakazi! Nxa bengakhulumi ngokumayelana lelizwi leli, kabalakho ukukhanya kokusa.
 Bazazula lelizwe behlulukelwe, belambile. Lapho sebephalwe yindlala, bazathukuthela, bathuke inkosi yabo loNkulunkulu wabo bekhangele phezulu.
 Emva kwalokho bazakhangela emhlabeni babone usizi kuphela, lomnyama owesabekayo, njalo bazaphoselwa emnyameni opheleleyo.
-
 Kodwa-ke akusayikuba khona ukudangala kulabo ababesosizini. Ensukwini ezedlulayo walithobisa ilizwe likaZebhuluni lelizwe likaNafithali. Kodwa ensukwini ezizayo uzayipha udumo iGalile yabezizweni, eNdleleni eya oLwandle elandela iJodani:
 Abantu abahamba emnyameni sebebone ukukhanya okukhulu; kulabo abahlala elizweni lethunzi lokufa ukukhanya sekukhanyisile.
 Usikhulisile isizwe wandisa intokozo yabo, bayathokoza phambi kwakho njengabantu bethokoza ekuvuneni, njengempi ithokoza isaba impango.
@@ -17918,6 +17917,7 @@ Ngakho iNkosi kayiyikuthokoza ngezinsizwa zabo, izintandane labafelokazi kayiyik
 Ngeqiniso ububi butshisa njengomlilo, budla ukhula lameva, buthungela izixuku zehlathi zivuthe amalangabi izikhatha zentuthu ziqonga zisiya phezulu.
 Ngolaka lukaThixo uSomandla ilizwe lizatshiswa, abantu bazakuba zinkuni zomlilo, kakho ozaphephisa umfowabo.
 Bazaqeda kwesokudla kodwa babe belokhu belambile; bazakudla kwesokhohlo, kodwa bangasuthi. Omunye lomunye uzakudla abantwabakhe:
+UManase uzakudla u-Efrayimi, u-Efrayimi adle uManase; bobabili bazamelana loJuda. Kukho konke lokhu, ukuthukuthela kwakhe akupheli, isandla sakhe silokhu siphakanyisiwe.
 Maye kulabo abenza imithetho emibi, lakulabo ababhala izimiso ezincindezelayo,
 ukuba kwamukwe abayanga amalungelo abo lokugodla okufaneleyo kwabantu bami abancindezelweyo; bazingela abafelokazi baqhwage izintandane.
 Lizakwenzani ngosuku lokuthonisiswa lapho incithakalo isiza ivela khatshana? Lizabalekela kubani ukuba lithole usizo na? Lizayitshiya ngaphi inotho yenu?
@@ -18953,8 +18953,7 @@ Kodwa wena unguBaba wethu, lanxa u-Abhrahama engasazi thina lo-Israyeli engasivu
 Kungani, Thixo, usenza siphambuke ezindleleni zakho, usenza lezinhliziyo zethu zibe lukhuni ukuba singakwesabi na? Phenduka ubuye ngenxa yezinceku zakho, izizwana eziyilifa lakho.
 Indawo yakho engcwele yayingeyabantu bakho okwesikhathi esifitshane, kodwa khathesi izitha zethu seziyicakazele phansi indlu yakho engcwele.
 Thina singabakho kusukela endulo; kodwa awukaze ubabuse, kabazange babizwe ngebizo lakho.
-Awu, sengathi ungaqhekeza amazulu wehlele phansi ukuba izintaba zinyikinyeke phambi kwakho!
-Njengalapho umlilo utshisa incwathi wenze amanzi abile, yehlela phansi ukuba wenze ibizo lakho lazakale ezitheni zakho, wenze lezizwe zithuthumele phambi kwakho.
+Awu, sengathi ungaqhekeza amazulu wehlele phansi ukuba izintaba zinyikinyeke phambi kwakho! Njengalapho umlilo utshisa incwathi wenze amanzi abile, yehlela phansi ukuba wenze ibizo lakho lazakale ezitheni zakho, wenze lezizwe zithuthumele phambi kwakho.
 Ngoba wathi usenza izinto ezesabekayo esasingazilindelanga, wehlela phansi, izintaba zathuthumela phambi kwakho.
 Kusukela endulo kakho owezwayo, akulandlebe eyabambisisayo, akulalihlo elabona omunye uNkulunkulu ngaphandle kwakho, osebenzela labo abathembe kuye.
 Uyeza ukuba usize labo abenza ukulunga ngokuthaba, abazikhumbulayo izindlela zakho. Kodwa lapho saqhubeka sisona kubo wathukuthela. Pho singasindiswa kanjani na?
@@ -18964,6 +18963,7 @@ Ikanti wena Thixo unguBaba wethu. Thina silibumba, wena ungumbumbi; sonke singum
 Ungathukutheli wedlulise, awu Thixo; izono zethu ungazikhumbuli kokuphela. Awu, ake usikhangele, siyakhuleka, ngoba sonke singabantu bakho.
 Amadolobho akho angcwele aseyinkangala; leZiyoni isiyinkangala, iJerusalema isiyincithakalo.
 Ithempeli lethu elingcwele njalo elikhazimulayo lapho okhokho ababekudumisela khona, litshiswe ngomlilo, njalo konke okwakuligugu kithi sekungamanxiwa.
+Emva kwakho konke lokhu Thixo, uzazithinta na? Uzazithulela, usijezise ngokudlulisileyo na?
 “Ngaziveza kulabo abangangicelanga; ngafunyanwa yilabo abangangidinganga. Isizwe esingakhulekanga kimi ngathi kuso, ‘Ngilapha, ngilapha.’
 Ilanga lonke ngelula izandla zami ebantwini abayiziqholo, abahamba ngezindlela ezingalunganga belandela iminakano yabo,
 abantu abahlezi bengicunula bengikhangele, benikela imihlatshelo emasimini, betshisa impepha phezu kwezitina;
@@ -19242,7 +19242,6 @@ Lalela ukukhala kwabantu bami okuvela elizweni elikhatshana besithi: “UThixo k
 “Ukuvuna sekwedlule, ihlobo seliphelile, kodwa kasihlengwanga.”
 Njengoba abantu bami benqotshiwe lami nginqotshiwe, ngiyalila njalo ukwesaba kungiphethe.
 Akulamuthi yini eGiliyadi? Kakho yini lomelaphi khona? Pho kungani kungekho kwelatshwa kwenxeba labantu bami na?
-
 Awu, sengathi ngabe ikhanda lami lingumthombo wamanzi, lamehlo ami angumthombo wezinyembezi! Kade ngizakhala emini lebusuku ngikhalela abantu bami ababuleweyo.
 Awu, sengathi ngabe enkangala ngilendawo engahlala izihambi, ukuba ngisuke ebantwini bami ngisuke kubo, ngoba bonke bayizifebe, ixuku labantu abangathembekanga.
 “Benza izindimi zabo zilunge njengesavutha ukuba batshoke amanga, ukuthi bayanqoba elizweni akusikho ngeqiniso. Basuka kokunye ukona baye kokunye; kabangamukeli,” kutsho uThixo.
@@ -19268,6 +19267,7 @@ Tshono uthi, uThixo uthi, “ ‘izidumbu zabafileyo zizalala njengezibi egang
 UThixo uthi: “Ohlakaniphileyo kangazincomi ngokuhlakanipha kwakhe, loba indoda elamandla izincome ngamandla ayo, loba indoda enothileyo izincome ngenotho yayo,
 kodwa lowo ozincomayo, kazincome ngokuthi uyaqedisisa njalo uyangazi, ukuthi mina nginguThixo, osebenzisa umusa, imfanelo lokulunga emhlabeni, ngoba lezizinto ziyangithokozisa,” kutsho uThixo.
 UThixo uthi, “Insuku ziyeza, lapho engizabajezisa khona bonke abasoke enyameni kuphela,
+iGibhithe, loJuda, lo-Edomi, lo-Amoni loMowabi labo bonke abahlala enkangala ezindaweni ezikhatshana. Ngoba izizwe zonke lezi kazisokanga, njalo lendlu yonke ka-Israyeli kayisokanga enhliziyweni.”
 Zwana okutshiwo nguThixo kuwe, wena ndlu ka-Israyeli.
 UThixo uthi: “Lingazifundi izindlela zezizwe kumbe ukwethuswa yizibonakaliso zasemkhathini, lanxa nje izizwe zisethuswa yizo.
 Ngoba imikhuba yabantu iyize, bagamula isihlahla ehlathini, ingcwethi isibaze ngetshizela yayo.
@@ -21007,6 +21007,11 @@ Lizakwazi ukuthi mina nginguThixo lapho sengilingenisa elizweni lako-Israyeli, i
 Khonapho-ke lizakhumbula ukuziphatha kwenu lazozonke izenzo elizingcolise ngazo, njalo lizazenyanya ngenxa yobubi bonke elibenzileyo.
 Lizakwazi ukuthi mina nginguThixo lapho sengilijezisa ngenxa yebizo lami kodwa kungayisikho mayelana lezindlela zenu ezimbi kanye lezenzo zenu ezixhwalileyo, lina ndlu ka-Israyeli, kutsho uThixo Wobukhosi.’ ”
 Ilizwi likaThixo lafika kimi lisithi:
+“Ndodana yomuntu, khangela ngaseningizimu; tshumayela okubi ngeningizimu uphrofithe okubi ngelizwe laseningizimu.
+Tshono ehlathini laseningizimu uthi: ‘Zwana ilizwi likaThixo. Nanku okutshiwo nguThixo Wobukhosi: Sekuseduze ukuthi ngilithungele ngomlilo njalo uzaziqeda zonke izihlahla zenu, ezimanzi lezomileyo. Ilangabi elivuthayo kaliyikucitshwa, njalo ubuso bonke kusukela eningizimu kusiya enyakatho buzatshiswa yiwo.
+Umuntu wonke uzabona ukuthi mina Thixo yimi engiwuthungeleyo; kawuyikucitsha.’ ”
+Ngasengisithi, “Awu Thixo Wobukhosi! Bathi kimi, ‘Kakhulumi imifanekiso kuphela nje na?’ ”
+Ilizwi likaThixo lafika kimi lisithi:
 “Ndodana yomuntu, khangelisa ubuso bakho eJerusalema utshumayele okubi ngendawo engcwele. Phrofetha okubi ngelizwe lako-Israyeli
 uthi kulo: ‘Nanku okutshiwo nguThixo Wobukhosi: Ngixabane lani. Ngizahwatsha inkemba yami emxhakeni wayo ngisuse kuwe abalungileyo lababi.
 Ngoba ngizasusa abalungileyo lababi, inkemba yami izahwatshelwa ukumelana labo bonke abavela eningizimu kanye lasenyakatho.
@@ -21038,11 +21043,6 @@ Langaphezu kwemibono yamanga ngawe, lokuhlahlula okungamanga ngawe, izabekwa ent
 Buyisela inkemba emxhakeni wayo. Endaweni owadalelwa kuyo, elizweni labokhokho bakho, ngizakwahlulela khona.
 Ngizathululela ulaka lwami phezu kwakho ngiphefumlele lentukuthelo yami etshisayo kuwe; ngizakunikela ebantwini abalesihluku, abantu abakwaziyo ukuqothula.
 Uzakuba zinkuni zomlilo, igazi lakho lizachithelwa elizweni lakini, kawuyikukhunjulwa futhi; ngoba mina Thixo sengikhulumile.’ ”
-
-
-
-
-
 Ilizwi likaThixo lafika kimi lisithi:
 “Ndodana yomuntu, uzalahlulela na? Uzalahlulela na lelidolobho lokuchithwa kwegazi? Ngakho melana lalo kanye lezono zalo ezenyanyekayo
 uthi: Nanku okutshiwo nguThixo Wobukhosi: Wena dolobho elizilethela ukutshabalala ngokuchitha igazi phakathi kwakho njalo uzingcolisa ngokwenza izithombe,
@@ -21904,9 +21904,6 @@ kwathi ababusi bezigaba, labalisa, lababusi bemikhono yelizwe labeluleki besikho
 UNebhukhadineza wasesithi, “Kadunyiswe uNkulunkulu kaShadreki, loMeshaki lo-Abhediniko, othume ingilosi yakhe wasindisa izinceku zakhe! Bathemba kuye badelela umlayo wenkosi njalo bazimisela ukunikela impilo zabo kulokuthi bakhonze loba badumise omunye uNkulunkulu ngaphandle kowabo uNkulunkulu.
 Ngakho sengimisa isimemezelo ukuthi abantu loba ngabasiphi isizwe kumbe ulimi abakhuluma okubi ngoNkulunkulu kaShadreki, loMeshaki lo-Abhediniko kabaqunywaqunywe izicucu, lezindlu zabo zenziwe izinqwaba zezibi, ngoba kakho omunye uNkulunkulu ongasindisa ngale indlela.”
 Inkosi yase ibanika izikhundla eziphezulu oShadreki, loMeshaki lo-Abhediniko elizweni laseBhabhiloni.
-
-
-
 Inkosi uNebhukhadineza, Ezizweni zonke lebantwini benhlanga zonke abahlala emhlabeni wonke: Sengathi inganda kini inhlalakahle!
 Kuyintokozo kimi ukulitshela ngezibonakaliso ezimangalisayo lezinkinga uNkulunkulu oPhezukonke angenzele zona.
 Zinkulu kangakanani izibonakaliso zakhe, zingakaya izimangaliso zakhe! Umbuso wakhe ungumbuso ongelasiphelo; umbuso wakhe umi kusukela kulesi kusiya kulesiyana isizukulwane.
@@ -21941,6 +21938,9 @@ Kwathi amazwi la elokhu esesemlonyeni wakhe kwehla ilizwi livela ezulwini lathi,
 Uzaxotshwa ebantwini uyehlala lezinyamazana zeganga; uzakudla utshani njengezinkomo. Kuzadlula iminyaka eyisikhombisa uze uvume ukuthi oPhezukonke uyabusa phezu kwemibuso yabantu ayiphe ingqe ngubani ngokuthanda kwakhe.”
 Masinyane nje okwakutshiwo ngoNebhukhadineza kwagcwaliseka. Waxotshwa ebantwini wadla utshani njengezinkomo. Umzimba wakhe wagxanxwa ngamazolo aphezulu, inwele zakhe zakhula njengezinsiba zengqungqulu, kwathi inzipho zakhe zaba njengenkumba zenyoni.
 Ekupheleni kwalesosikhathi, mina, Nebhukhadineza, ngaphakamisela amehlo ami ezulwini, ingqondo yami yabuya. Ngasengimdumisa oPhezukonke; ngambabaza, ngambonga yena ohlezi kuze kube phakade. Ubukhosi bakhe buyibukhosi baphakade; umbuso wakhe umi kulesi lakulesiyana isizukulwane.
+Imihlobo yonke yabantu bomhlaba ibonakala ingesilutho. Wenza njengokuthanda kwakhe ezidalweni zasezulwini lasebantwini abasemhlabeni. Kakho ongasivimbela isandla sakhe loba athi kuye: “Kanti wenzani na?”
+Ngasonalesosikhathi ingqondo yami yabuya, udumo lwami lenkazimulo yami kwabuyiswa kimi ukusekela ubukhosi bombuso wami. Abeluleki bami lezikhulu zami bangidinga bangibuyisela esihlalweni sami sobukhosi, ngase ngisiba mkhulu kulakuqala.
+Ngakho-ke mina, Nebhukhadineza, ngiyayidumisa njalo ngiyayibabaza, ngiyiphakamise iNkosi yezulu, ngoba konke ekwenzayo kuqondile futhi lezindlela zayo zonke zilungile. Njalo bonke abazigqajayo iyabathobisa.
 Inkosi uBhelishazari wenzela izikhulu zakhe ezizinkulungwane idili elikhulu, wanatha lazo iwayini.
 Kwathi uBhelishazari enatha iwayini lakhe walaya ukuthi kulethwe izitsha zegolide lezesiliva ezazithethwe nguyise uNebhukhadineza ethempelini eJerusalema, efuna ukuthi inkosi, lezikhulu zayo, labafazi bayo kanye labafazi bayo beceleni banathele kuzo.
 Yikho baziletha izitsha zegolide ezazithethwe ethempelini likaNkulunkulu eJerusalema, kwasekusithi inkosi lezikhulu zayo kanye labafazi bayo beceleni banathela kuzo.
@@ -21971,6 +21971,7 @@ Thekheli: Usulinganisiwe esikalini wafunyanwa ulula.
 Pharisini: Umbuso wakho usuhlukaniswe phakathi, wabelwa amaMede lamaPhezhiya.”
 Kwathi ngomlayo kaBhelishazari uDanyeli wagqokiswa eziyibubende, wagqiziswa iketane legolide entanyeni yakhe, kwamenyezelwa ukuthi usengumbusi wesikhundla sobuthathu elizweni.
 Ngabona lobobusuku uBhelishazari, inkosi yamaBhabhiloni wabulawa,
+kwathi uDariyu umuMede wabuthatha ubukhosi eleminyaka engamatshumi ayisithupha lambili.
 UDariyu wathanda ukubeka ababusi bezigaba abalikhulu lamatshumi amabili (120) ukuba babuse kulolonke ilizwe,
 wabeka omongameli abathathu phezu kwabo, omunye wabo enguDanyeli. Ababusi bezigaba babesethula kubo konke ukuze inkosi ingalahlekelwa lutho.
 UDanyeli waba yisilomo, wedlula abanye omongameli lababusi bezigaba ngokwenza kwakhe, inkosi yaze yafisa ukumbeka phezu kwelizwe lonke.
@@ -21999,7 +22000,6 @@ Inkosi uDariyu yasilobela bonke abantu, lezizwe zonke lenhlanga zendimi zonke ku
 Ngimisa isimiso sokuthi kuzozonke izindawo zombuso wami, abantu kabesabe, bakhonze uNkulunkulu kaDanyeli. Ngoba unguNkulunkulu ophilayo, omiyo kuze kube phakade; umbuso wakhe kawuyikubhidlizwa, lobukhosi bakhe kabusoze buphele.
 Uyakhulula, asindise; wenza izibonakaliso lezimangaliso emazulwini lasemhlabeni. Umhlangulile uDanyeli emandleni ezilwane.”
 Ngakho uDanyeli waphumelela ngesikhathi sokubusa kukaDariyu lesokubusa kukaKhurosi umPhezhiya.
-
 Ngomnyaka wokuqala kaBhelishazari inkosi yaseBhabhiloni, uDanyeli waphupha iphupho, kwaphithika imibono engqondweni yakhe elele embhedeni wakhe. Wakubhala phansi okwakuqukethwe liphupho lakhe.
 UDanyeli wathi: “Embonweni wami ebusuku ngakhangela ngabona phambi kwami imimoya emine yasezulwini iqubula ulwandle olukhulu.
 Izilo ezine ezinkulu, yileso singafanani lezinye, zaqhamuka olwandle.
@@ -22170,6 +22170,8 @@ UGomeri wathatha isisu futhi, wazala indodakazi. UThixo wasesithi, “Muphe ibiz
 Kodwa ngizakuba lothando endlini kaJuda, njalo ngizabakhulula, kungayisikho ngedandili, inkemba kumbe impi, loba ngamabhiza langabagadi bamabhiza, kodwa ngoThixo uNkulunkulu wabo.”
 UGomeri eselumule uLo-Ruhama ebeleni, waba lenye indodana.
 UThixo wasesithi, “Muphe ibizo lokuthi nguLo-Ami, ngoba lina kalisibo bantu bami, lami kangisuye uNkulunkulu wenu.
+Kodwa abako-Israyeli bazakuba njengetshebetshebe ekhunjini lolwandle elingeke lilinganiswe kumbe libalwe. Endaweni lapho okwakuthiwe khona kubo, ‘Kalisibo bantu bami,’ bazabizwa ngokuthi, ‘bantwana bakaNkulunkulu ophilayo.’
+Abantu bakoJuda labantu bako-Israyeli bazamanyana, njalo bazakhetha umkhokheli oyedwa baphume elizweni, ngoba luzakuba lukhulu usuku lukaJezerili.”
 “Tshono kubafowenu uthi, ‘Bantu bami,’ ngabodadewenu uthi, ‘Bathandekayo bami.’ ”
 “Mkhuze unyoko, mkhuze, ngoba engasuye mkami, lami kangisuye mkakhe. Kasuse ukukhangeleka kobufebe ebusweni bakhe kanye lokungathembeki phakathi kwamabele akhe.
 Funa ngimhlubule abe nqunu, ngimenze abeze njengamhla ezalwa; ngizamenza abe njengenkangala, ngimenze abe yilizwe elomileyo ngimbulale ngokomela amanzi.
@@ -22193,8 +22195,6 @@ Ngizakwendisa ngokuthembeka, njalo uzamamukela uThixo.
 Ngalolosuku ngizasabela,” kutsho uThixo, “Ngizasabela emikhathini, layo izasabela emhlabeni,
 lomhlaba uzasabela emabeleni lasewayinini elitsha kanye lasemafutheni, lokhu kuzasabela kuJezerili.
 Ngizazihlanyelela yena elizweni; ngizabonakalisa uthando lwami kulowo engambiza ngokuthi, ‘Akasi sithandwa sami.’ Ngizakuthi kulabo ababizwa ngokuthi, ‘Abangasibantu bami,’ ‘Lingabantu bami’; bona bazakuthi, ‘UnguNkulunkulu wethu.’ ”
-
-
 UThixo wasesithi kimi, “Hamba, utshengisele uthando lwakho kumkakho futhi, lanxa nje ethandwa ngomunye njalo eyisifebekazi. Mthande njengoThixo ethanda abako-Israyeli, lanxa baphendukela kwabanye onkulunkulu njalo bethanda amakhekhe ezithelo ezonyisiweyo.”
 Ngakho ngamthenga ngamashekeli esiliva alitshumi lanhlanu langokwakuphosa kube lihomeri leletheki lebhali.
 Ngasengisithi kuye, “Uzahlala lami insuku ezinengi; akumelanga ube yisifebe loba wembathe lenye indoda, lami ngizahlala lawe.”
@@ -22318,6 +22318,7 @@ Ngingakukhalela kanjani, Efrayimi? Ngingakunikela kanjani, Israyeli? Ngingakupha
 Kangiyikwenza okwentukuthelo yami eyesabekayo, kumbe ngiphenduke ngimqothule u-Efrayimi. Ngoba nginguNkulunkulu, hatshi umuntu, oNgcwele phakathi kwenu. Kangiyikuza ngolaka.
 Bazamlandela uThixo; uzabhonga njengesilwane. Lapho esebhonga, abantwana bakhe bazakuza beqhaqhazela bevela entshonalanga.
 Bazakuza bevela eGibhithe beqhaqhazela njengezinyoni bevela e-Asiriya bephaphazela njengamajuba. Ngizabahlalisa emakhaya abo,” kutsho uThixo.
+“U-Efrayimi usengizingeleze ngamanga, lendlu ka-Israyeli ngenkohliso. LoJuda uluhlaza kuNkulunkulu, kanye lakuye othembekileyo oNgcwele.”
 U-Efrayimi udla umoya; uxotshana lomoya wasempumalanga ilanga lonke andise amanga lodlakela. Wenza isivumelwano le-Asiriya, athumele amafutha e-oliva eGibhithe.
 Kulecala uThixo azalethesa uJuda; uzajezisa uJakhobe mayelana lezindlela zakhe aphindisele kuye mayelana lezenzo zakhe.
 Esiswini wabamba isithende sikamfowabo; eseyindoda wabindana loNkulunkulu.
@@ -22332,7 +22333,6 @@ IGiliyadi ixhwalile na? Abantu bakhona bakhohlakele! EGiligali bayanikela umhlat
 UJakhobe wabalekela elizweni lase-Aramu; u-Israyeli wasebenzela ukuthola umfazi, njalo welusa izimvu ukuba amlobole.
 UThixo wasebenzisa umphrofethi ekukhupheni u-Israyeli eGibhithe; wamlondoloza ngomphrofethi.
 Kodwa u-Efrayimi umthukuthelise kabuhlungu; UThixo wakhe uzaliyekela liphezu kwakhe icala lokuchitha kwakhe igazi njalo uzaphindisela kuye ukudelela kwakhe.
-
 Lapho u-Efrayimi ekhuluma, abantu bathuthumela; wabatshazwa ko-Israyeli. Kodwa waba lecala lokukhonza uBhali wasesifa.
 Khathesi benza izono njalonjalo; bazenzela izithombe ngesiliva sabo, izifanekiso ezenziwe ngokuhlakanipha, zonke ziyimisebenzi yezingcitshi. Ngabantu laba kuthiwa, “Banikela imihlatshelo yabantu, bange izithombe zamathole.”
 Ngakho bazakuba njengenkungu yekuseni, njengamazolo ekuseni anyamalalayo, njengamakhoba asuka ezizeni, njengentuthu iphuma ewindini.
@@ -22348,6 +22348,7 @@ Icala lika-Efrayimi ligciniwe, izono zakhe zigcinwe emibhalweni.
 Ufikelwa yibuhlungu obunjengowesifazane ehelelwa, kodwa ungumntwana ongelalwazi; lapho isikhathi sifika, kabuyi ekuvulekeni kwesizalo.
 Ngizabahlenga emandleni engcwaba; ngizabasindisa ekufeni. Zingaphi, we kufa izifo zakho? Kungaphi, we ngcwaba, ukuchitha kwakho? Kangiyikuba lesihawu,
 lanxa ekhula phakathi kwabafowabo. Umoya wasempumalanga ovela kuThixo uzafika, uphephetha uvela enkangala; intwasa yakhe izakwehluleka, lemithombo yakhe itshe. Indlu yakhe yokugcinela izaphangwa yonke ingcebo yayo.
+Abantu baseSamariya kuzamela balithwale icala labo, ngoba bamhlamukele uNkulunkulu wabo. Bazabulawa ngenkemba; insane zabo zizasakazelwa phansi, abesifazane babo abazithweleyo baqhaqhwe.”
 Buyela, we Israyeli, kuThixo uNkulunkulu wakho. Izono zakho yizo ezikuwisileyo!
 Thatha amazwi ubuyele kuThixo. Uthi kuye, “Sithethelele zonke izono zethu njalo usamukele ngomusa ukuba sinikele isithelo sezindebe zethu.
 I-Asiriya ayingeke isikhulule; kasiyikugada amabhiza empi. Kasisoze siphinde sithi, ‘Onkulunkulu bethu’ kulokho okwenziwa yizandla zethu, ngoba abazintandane bathola isihawu kuwe.”
@@ -22357,7 +22358,6 @@ amahlumela akhe amatsha azakhula. Ubuhle bakhe buzakuba njengesihlahla se-oliva,
 Abantu bazahlala njalo emthunzini wakhe. Uzakhula kuhle njengamabele. Uzaqhakaza njengevini, lodumo lwakhe luzakuba njengolwewayini laseLebhanoni.
 Awu Efrayimi, kuyini futhi engingakwenza ngezithombe? Ngizamphendula ngimlondoloze. Mina nginjengesihlahla sephayini esiluhlaza, ukuthela kwakho izithelo kuvela kimi.”
 Ngubani ohlakaniphileyo? Uzazibona lezizinto. Ngubani oqedisisayo? Uzazizwisisisa. Izindlela zikaThixo zilungile abalungileyo bahamba kuzo, kodwa abahlamuki bayakhubeka kuzo.
-
 Ilizwi likaThixo lafika kuJoweli indodana kaPhethuweli.
 Zwanini lokhu, lina badala; lalelani lonke lina elihlala elizweni. Into enjengale seyake yenzakala na ensukwini zenu loba ensukwini zabokhokho benu?
 Kutsheleni abantwabenu, abantwabenu labo batshele ababantwababo, abantwababo batshele isizukulwane esilandelayo.
@@ -22405,32 +22405,32 @@ Iziza zizagcwala amabele; izikhamelo zizaphuphuma iwayini lamafutha.
 “Ngizalihlawula okwaleyo minyaka lokho okwadliwa zintethe, lesikhonyane lobuyane, ezinye izintethe kanye lemitshitshi yezintethe, ibutho lami elikhulu engalithumela kini.
 Lizakuba lokudla okunengi lize lisuthe, njalo lizadumisa ibizo likaThixo uNkulunkulu wenu, olenzele izimangaliso; abantu bami kabayikuphinda bayangeke futhi.
 Ngakho lizakwazi ukuthi ngiko-Israyeli, lokuthi mina nginguThixo uNkulunkulu wenu, kanye lokuthi kakho omunye; abantu bami kabayikuphinda bayangeke futhi.”
+“Emva kwalokho, ngizathululela uMoya wami kubo bonke abantu. Amadodana lamadodakazi enu azaphrofitha, izinsizwa zenu zizabona imibono, lamaxhegu enu azaphupha amaphupho.
+Lasezincekwini zami, ezesilisa lezesifazane, ngizawuthulula uMoya wami ngalezonsuku.
+Ngizabonakalisa izimangaliso emazulwini lasemhlabeni, igazi lomlilo lezikhatha zentuthu.
+Ilanga lizaphendulwa libe yibumnyama lenyanga ibeligazi phambi kokuba kufike usuku olukhulu lukaThixo, olwesabekayo.
+Njalo wonke obiza ibizo likaThixo uzasindiswa; ngoba eNtabeni iZiyoni laseJerusalema kuzakuba lokukhululwa, njengoba uThixo etshilo, iloba phakathi kwabasindileyo labo ababizwa nguThixo.”
 “Ngalezonsuku langalesosikhathi, lapho sengibuyisela inotho kaJuda leJerusalema,
 ngizaqoqa izizwe zonke ngizehlisele eSigodini sikaJehoshafathi. Lapho-ke ngizazahlulela mayelana lelifa lami, abantu bami u-Israyeli ngoba zahlakazela abantu bami phakathi kwezizwe, zabelana ilizwe lami.
 Zenza inkatho ngabantu bami, zathenga izifebe ngabafana; zathengisa amankazana ngewayini ukuze zinathe.
 Manje-ke lisolani ngami, wena Thire loSidoni lani lonke zifunda zaseFilistiya? Liyangiphindisela ngolutho engilwenzileyo na? Nxa lingiphindisela, ngizaphanga ngibuyisele elakwenzayo phezu kwamakhanda enu ngokuphangisa.
 Ngoba lathatha isiliva sami legolide lami lathwalela lenotho yami eligugu emathempelini enu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Lathengisa abantu bakoJuda laseJerusalema kumaGrikhi, ukuze libase khatshana lelizwe labo.
+Khangelani, ngizabavusa ezindaweni elabathengisa kuzo, njalo ngizabuyisela phezu kwamakhanda enu lokho elakwenzayo.
+Ngizathengisa amadodana enu lamadodakazi enu ebantwini bakoJuda, njalo labo bazawathengisa kumaSabhini, isizwe esikhatshana.” UThixo usekhulumile.
+Memezelani lokhu ezizweni lithi: Lungiselani impi! Vusani amabutho! Wonke amadoda empi kasondele ahlasele.
+Khandani amakhuba enu abe zinkemba lemihedla yenu yokuthena izihlahla ibe yimikhonto. Obuthakathaka kathi, “Ngiqinile!”
+Wozani ngokuphangisa, lonke lina zizwe zasezinhlangothini zonke, libuthane khonapho. Yehlisa amabutho akho, Oh Thixo!
+“Izizwe kazivuswe; kaziye eSigodini sikaJehoshafathi ngoba ngizahlala khona ukwehlulela izizwe zonke zasezinhlangothini zonke.
+Hehethani ngesikela ngoba okuvunwayo sekuvuthiwe. Wozani, gxobani amavini, ngoba isikhamelo sewayini sesigcwele lezimbizakazi seziphuphuma, bukhulu kangaka ububi bazo!
+Amaxuku, amaxuku esigodini sesinqumo! Ngoba usuku lukaThixo luseduze esigodini sezinqumo.
+Ilanga lenyanga kuzakuba mnyama, lezinkanyezi zingabe zisakhanya.
+UThixo uzavungama eseZiyoni aphinde akhwaze eseJerusalema; umhlaba lomkhathi kuzagedezela. Kodwa uThixo uzakuba yisiphephelo sabantu bakhe, inqaba yabantu bako-Israyeli.”
+“Ngakho lizakwazi ukuthi mina, uThixo uNkulunkulu wenu, ngihlala eZiyoni, intaba yami engcwele. IJerusalema izakuba ngcwele; kayiyikuphinda ihlaselwe ngabezizweni futhi.
+Ngalolosuku izintaba zizagobhoza iwayini elitsha, lamaqaqa ageleze uchago; zonke indonga zakoJuda zizageleza amanzi. Umthombo uzantuntuza endlini kaThixo uthambise isigodi saseShithima.
+Kodwa iGibhithe izachithakala, i-Edomi ibe yinkangala elugwadule, ngenxa yodlakela olwenziwa ebantwini bakoJuda lapho bachitha khona igazi elingelacala elizweni labo.
+KoJuda kuzahlalwa khona kuze kube nininini laseJerusalema kuzahlala izizukulwane zonke.
+Umlandu wabo wegazi, engingakaxoli ngawo, ngizabaxolela ngawo.” UThixo uhlala eZiyoni!
 La ngamazwi ka-Amosi, omunye wabelusi baseThekhowa, lokho akubonayo mayelana lo-Israyeli eminyakeni emibili ngaphambi kokuzamazama komhlaba, ngezinsuku u-Uziya eyinkosi yakoJuda loJerobhowamu indodana kaJowashi eyinkosi yako-Israyeli.
 Wathi: “UThixo uyavungama eseZiyoni, idume iJerusalema; amadlelo abelusi ayoma lengqongo yeKhameli iyabuna.”
 Nanku okutshiwo nguThixo: “Ngenxa yezono ezintathu zeDamaseko, loba ngenxa yezine, kangiyikulunqanda ulaka lwami. Ngenxa yokuthi yatshaya iGiliyadi ngemibhulo elamazinyo ensimbi,
@@ -22614,6 +22614,7 @@ Kodwa amadoda azama ngamandla ukugwedlela emuva emhlabathini. Kodwa behluleka ng
 Khonapho basebekhala kuThixo bathi, “Oh, Thixo, ungasiyekeli sife ngoba sibulele indoda le. Ungasibeki umlandu wokubulala umuntu ongelacala, ngoba wena, Oh Thixo, wenzile njengokufisa kwakho.”
 Basebethatha uJona bamphosela olwandle, ulwandle lwase luthula ukugubhaza.
 Lokhu kwenza amadoda lawo amesabe kakhulu uThixo, asesenza umhlatshelo kuThixo enza izifungo kuye.
+Kodwa uThixo waletha inhlanzi enkulukazi yamginya uJona, uJona wahlala phakathi kwenhlanzi insuku ezintathu lobusuku obuthathu.
 Ephakathi kwenhlanzi uJona wakhuleka kuThixo uNkulunkulu wakhe.
 Wathi: “Ekuhluphekeni kwami ngambiza uThixo, wangiphendula. Ngisekujuleni kwengcwaba ngacela uncedo, wena wakulalela ukukhala kwami.
 Wangiphosela ezinzikini, phakathi emathunjini enlwandle, amagagasi agubhazela emaceleni wonke; wonke amagagasi akho lezimpophoma zawo kwangisibekela.
@@ -22624,7 +22625,6 @@ Lapho impilo yami yayisincipha, ngakhumbula wena, Thixo, umkhuleko wami waphakam
 Labo ababambelela ezithombeni ezingelamsebenzi balahlekelwa ngumusa ongaba ngowabo.
 Kodwa mina, ngizakuthi ngihlabela ingoma yokubonga ngenze umhlatshelo kuwe. Engikufungileyo ngizakugcwalisa. Insindiso ivela kuThixo.”
 UThixo walaya inhlanzi, yona yase imhlanza uJona emhlabathini owomileyo.
-
 Ilizwi likaThixo laselifika kuJona ngokwesibili lathi:
 “Hamba uye edolobheni elikhulu laseNiniva uyotshumayela kulo ilizwi engikunika lona.”
 UJona walilalela ilizwi likaThixo, waya eNineve. Phela iNiniva yayilidolobho elikhulu kakhulu, ukulethekela lonke kwakuthatha insuku ezintathu.
@@ -22700,7 +22700,6 @@ Janqula ngobuhlungu, wena Ndodakazi yeZiyoni, njengowesifazane ohelelwayo, ngoba
 Kodwa khathesi izizwe ezinengi zikujamele. Zithi, “Kangcoliswe, lamehlo ethu kawahawukele iZiyoni!”
 Kodwa kabayazi imicabango kaThixo; kabaliqedisisi icebo lakhe, yena obabutha njengezixha zamabele esizeni.
 “Sukuma ubhule, wena Ndodakazi yeZiyoni, ngoba ngizakupha impondo zensimbi; ngizakunika amasondo ethusi, njalo uzachoboza izizwe ezinengi.” Uzanikela kuThixo inzuzo yabo eyatholwa ngobuqili inotho yabo kuThixo womhlaba wonke.
-
 Hlomisa amabutho akho, wena dolobho lamabutho, ngoba sesivinjezelwe. Bazatshaya umbusi wako-Israyeli esihlathini ngomqwayi.
 “Kodwa wena Bhethilehema Efrathi, lanxa umncinyane phakathi kwezizwana zakoJuda, kuwe kuzavela ozakuba ngumbusi wako-Israyeli, omdabuko wakhe ngowasekadeni, kusukela ezikhathini zendulo.”
 Ngakho u-Israyeli uzadelwa kuze kube yisikhathi sokuthi lowo ohelelwayo abelethe, laba abafowabo bonke baphenduke ukuzahlangana labako-Israyeli.
@@ -22715,6 +22714,7 @@ Ngizachitha amadolobho elizwe lenu ngibhidlize lezinqaba zenu zonke.
 Ngizachitha ubuthakathi benu njalo kalisayikukhunkula futhi.
 Ngizachitha izithombe zenu ezabazwayo lamatshe enu okukhonza phakathi kwenu; kalisayi kuwukhothamela futhi umsebenzi wezandla zenu.
 Ngizasiphula phakathi kwenu izinsika zenu zika-Ashera, ngidilize lamadolobho enu.
+Ngizaphindisela ngentukuthelo langolaka ezizweni ezingangilalelanga.”
 Lalelani okutshiwo nguThixo ukuthi: “Sukumani lilandise indaba yenu phambi kwezintaba; amaqaqa kawezwe lokho elikutshoyo.
 Zwanini, lina zintaba, icala elethulwa nguThixo; lalelani lina zisekelo zomhlaba ezingulaphakade. Ngoba kulecala uThixo alibeka ebantwini bakhe, wethesa u-Israyeli icala.
 Bantu bami, ngenzeni kini na? Ngilihluphe ngani na? Ngiphendulani.
@@ -22765,6 +22765,7 @@ Wena Nineve, kuwe sekufike lowo oceba okubi ngoThixo, eluleke okubi.
 Nanku okutshiwo nguThixo: “Lanxa belababambene labo njalo bebanengi, bazaqothulwa banyamalale. Lanxa ngikuhluphile, wena Juda, kangisayikukuhlupha futhi.
 Khathesi ngizakwephula ijogwe labo elisentanyeni yakho, ngiqamule lamaketane akho.”
 UThixo usekhuphe ilizwi ngawe Nineve elithi, “Kawuyikuba lezizukulwane ezibizwa ngebizo lakho. Ngizachitha izifanekiso ezibaziweyo lezithombe ezibunjiweyo ezisethempelini labonkulunkulu bakho. Ngizalungisa ingcwaba lakho, ngoba ungcolile.”
+Khangela ezintabeni le, inyawo zalowo oletha izindaba ezinhle, omemezela ukuthula! Thakazelela imikhosi yakho we Juda, ugcwalise lezifungo zakho. Ababi kabasayikukuhlasela futhi; bazachithwa ngokupheleleyo.
 Umhlaseli uyasondela kuwe, Nineve. Vikela inqaba, linda umgwaqo, zilungiselele, qoqa wonke amandla akho!
 UThixo uzabuyisela ubuhle bukaJakhobe njengobuhle buka-Israyeli, lanxa abachithi bebaqothule batshabalalisa lezivini zabo.
 Amahawu amabutho akhe abomvu, amabutho agqoke okubomvu gebhu. Insimbi ezinqoleni zempi iyaphazima ngosuku ezilungiselwe ngalo; imikhonto yesihlahla sephayini iyazunguzwa.
@@ -22778,7 +22779,6 @@ Ibhuqiwe, iphangiwe, iphundliwe! Inhliziyo ziphela amandla, amadolo ayaxega, imi
 Khathesi-ke ungaphi umhome wezilwane, lapho ezinikela khona abantwana bazo ukudla, lapho okwaya khona isilwane lesilwanekazi, kanye lemidlwane, kungekho lutho olwesatshwayo na?
 Isilwane sibulalele imidlwane yaso okwaneleyo sabambela lesilwanekazi saso okwenyama yokudliwa, sagcwalisa isikhundla saso ngesikujimbileyo lomhome waso ngenyama.
 “Ngimelane lawe,” kutsho uThixo uSomandla. “Ngizazitshisa izinqola zakho zempi zibe yintuthu; lenkemba izakudla izilwane zakho ezisakhulayo. Kangiyikukutshiyela ongakubamba ukudle njengenyama emhlabeni. Amazwi ezithunywa zakho kawasayikuzwakala futhi.”
-
 Maye kulo idolobho legazi, ligcwele amanga, ligcwele ukuphanga, kasweleki ohlutshwayo lanini!
 Ukukhala kwezaswebhu, ukugodlozela kwamavili, ukumatha kwamabhiza lokugedlezela kwezinqola zempi!
 Ukuhlasela kwabagadi bamabhiza ukuphazima kwezinkemba lokubenyezela kwemikhonto. Zinengi izinkubela, izinqwaba zabafileyo, izidumbu ezingabalwayo, abantu abakhubeka ezidunjini,
@@ -22962,6 +22962,10 @@ Kwasekusithi ingilosi eyayikhuluma lami yathi, “Memezela leli ilizwi: Nanku ak
 kodwa ngizondile ngalezozizwe ezihlezi zanaba zaziba. Ngangithukuthele kancane kodwa zawengezelela lowo monakalo.’
 Ngakho-ke nanku okutshiwo nguThixo: ‘Ngizabuya eJerusalema ngilomusa, khonapho indlu yami izakwakhiwa kutsha. Intambo yesilinganiso izakwelulwa eJerusalema,’ kutsho uThixo uSomandla.
 Memezela njalo uthi: Nanku akutshoyo uThixo uSomandla, uthi: ‘Amadolobho ami azaphinda njalo aphuphume ngenotho, njalo uThixo uzaphinda ayiduduze iZiyoni, ayikhethe iJerusalema.’ ”
+Ngase ngiphakamisa amehlo ami, phambi kwami kwakulempondo ezine!
+Ngabuza ingilosi leyo eyayikhuluma lami, ngathi, “Kuyini lokhu?” Yaphendula yathi, “Lezi yizo impondo ezachitha uJuda, lo-Israyeli leJerusalema.”
+UThixo wasengitshengisa abakhandi abane.
+Ngabuza ngathi, “Laba bazekwenzani na?” Waphendula wathi, “Lezi yimpondo ezachitha uJuda ukuze angabikhona ovusa ikhanda, kodwa abakhandi balande ukuxegisa amadolo abo, bazilahlele phansi impondo lezi ezezizwe ezaphakamisa impondo zazo phezu kwelizwe lakoJuda ukuchitha abantu balo.”
 Ngaphakamisa amehlo, phambi kwami kwakulomuntu ophethe intambo yokulinganisa!
 Ngabuza ngathi, “Uya ngaphi na?” Wangiphendula wathi, “Ngiyalinganisa iJerusalema, ukubona ukuthi ibanzi njalo inde kanganani.”
 Ingilosi leyo eyayikhuluma lami yasisuka, kweza enye ingilosi iyihlangabeza
@@ -22975,10 +22979,6 @@ Memeza ujabule, we Ndodakazi yaseZiyoni. Ngoba ngiyeza, njalo ngizahlala phakath
 “Izizwe ezinengi zizahlanganiswa loThixo ngalelolanga njalo zizakuba ngabantu bami. Ngizahlala phakathi kwenu njalo lizakwazi ukuthi uThixo uSomandla ungithumile kini.
 UThixo uzamthatha uJuda njengelifa abe yisabelo sakhe elizweni elingcwele njalo uzaphinda ayikhethe iJerusalema.
 Pholani lithule phambi kukaThixo, bantu lonke, ngoba uphakamile waphuma endaweni yakhe engcwele.”
-
-
-
-
 Yase ingitshengisa uJoshuwa umphristi omkhulu emi phambi kwengilosi kaThixo, loSathane emi kwesokunene sakhe ephikisana laye.
 UThixo wathi kuSathane, “UThixo uyakukhuza, Sathane! UThixo oyikhethileyo iJerusalema, uyakukhuza! Umuntu lo kasisikhuni esihwatshwe sibhebha na?”
 UJoshuwa wema phambi kwengilosi egqoke ezingcolileyo.
@@ -23205,12 +23205,12 @@ Kodwa manje isiqholo sithi singobusisiweyo. Ngeqiniso izigangi ziyaphumelela, ka
 Kwathi labo ababemesaba uThixo bakhulumisana, uThixo walalela, wezwa. Umqulu wencwadi yesikhumbuzo walotshwa phambi kwakhe mayelana lalabo ababemesaba uThixo ababehlonipha ibizo lakhe.
 Uthi uThixo uSomandla, “Bazakuba ngabami, ngosuku mhla ngibenza inotho yami eligugu. Ngizabayekela, njengoba indoda yayibe lesihawu ixolele indodana yayo eyincedisayo.
 Njalo lizawubona umahluko phakathi kwabalungileyo lababi, phakathi kwalabo abamkhonzayo uNkulunkulu lalabo abangamkhonziyo.”
-
-
-
-
-
-
+“Ngeqiniso luyeza usuku; luzavutha njengesithando somlilo. Zonke iziqholo njalo zonke izixhwali zizakuba ngamabibi, njalo lolosuku oluzayo luzabathungela ngomlilo,” kutsho uThixo uSomandla. “Kakuyikusala mpande loba gatsha kubo.
+Kodwa lina elilesabayo ibizo lami, ilanga lokulunga lizaphuma lilokusiliswa emaphikweni alo. Njalo lizaphuma liqolotshe njengamathole evulelwe esibayeni sawo.
+Lapho-ke lizabanyathezela phansi ababi; bazakuba ngumlotha ngaphansi kwezinyawo zenu ngosuku lolo engizazenza ngalo lezizinto,” kutsho uThixo uSomandla.
+“Khumbulani umthetho wenceku yami uMosi, izimiso kanye lemithetho engamupha yona eHorebhi ingeyawo wonke ama-Israyeli.
+Khangelani, ngizalithumela umphrofethi u-Elija lungakafiki lolosuku olukhulu olwesabekayo lukaThixo.
+Uzaguqulela inhliziyo zaboyise ebantwaneni babo, lezinhliziyo zabantwana ziguqukele kuboyise; kungenjalo ngizakuza ngilitshaye ilizwe ngesiqalekiso.”
 Umbhalo wosendo lukaJesu Khristu indodana kaDavida, indodana ka-Abhrahama:
 U-Abhrahama wayenguyise ka-Isaka, u-Isaka uyise kaJakhobe, uJakhobe uyise kaJuda labafowabo,
 uJuda uyise kaPherezi loZera, unina owayenguThamari, uPherezi uyise kaHezironi, uHezironi uyise kaRamu,
@@ -27691,7 +27691,7 @@ Pho-ke njengoba lokhu kuyinto engaphikiswayo, thulani lingenzi izinto zamawala.
 Selilethe amadoda la lapha, kodwa wona engagqekezanga emathempelini kumbe athuka unkulunkulukazi wethu.
 Ngakho nxa uDemetriyasi lalabo akhanda labo belensolo loba ngobani, imithethwandaba ivuliwe, njalo labahluleli bakhona. Bangamangala.
 Nxa kukhona njalo okunye elifuna ukukutsho, kakuyethoniswa ngomthetho enkundleni.
-Njengoba kunje nje sisengozini yokubekwa icala lokuvusa isiyaluyalu ngenxa yezehlakalo zalamuhla. Kungenzeka lokho sizakwehluleka ukuchaza imbangela yalesisiphithiphithi, ngoba ngempela kungekho sizatho.”
+Njengoba kunje nje sisengozini yokubekwa icala lokuvusa isiyaluyalu ngenxa yezehlakalo zalamuhla. Kungenzeka lokho sizakwehluleka ukuchaza imbangela yalesisiphithiphithi, ngoba ngempela kungekho sizatho.” Eqeda kukhuluma lokhu, wawuchitha umhlangano.
 Kwathi umsindo usuphelile uPhawuli wabiza abafundi, wathi esebaqinisile wabavalelisa waqonda eMasedoniya.
 Wahamba wadabula kulowomango, ekhuluma amazwi amanengi okukhuthaza abantu, wacina esefike eGrisi
 lapho ahlala khona okwezinyanga ezintathu. AmaJuda abumba icebo ngaye eselungele ukuwela aye e-Asiriya yikho wacabanga ukuthi abuyele ngendlela yaseMasedoniya.

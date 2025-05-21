@@ -926,6 +926,7 @@ Yaka i baek al Yakobo elana i ba, “Epwepwet ge pat i milil i ola kokola nu kit
 Heliya nihi panuwahikagila wala bateli kaiwena. Inoke nau bahi epwepwet ya na lilikaan ge na nonowa wam labiya na hahaveyan eliyam, ge owa bahi epwepwet ya ge pat i milil i ola kokola ya nu lilikaan ge nu nenem no labiya nu hahaveyan eliyau.
 Ya awanun tubum Abalahama wana Yabowaine ge tubu Naho wana yabowaine, ebo ala toto eluwa etega bateli ya ni leke, nihi lahe.” Inoke Yakobo i bateli ola to, ge Yabowaine toto tamana Aisake i awatauwan alana i papasila-an.
 Yaka Yakobo bwasumu etega i lol ge i powonan Yabowaine elana ge tutunau gegewel i yogaagil hi na hi anan. Hi anan haba inoke bulin o hi kenuana to Giliyad oyana elal.
+Lan i gan mweluluga kekeisi, Leiban natunau yowau avaliyau ge natuliyau i nalol, inoke i lokaiyoni elal, ge i sikal i na wana panuwaa.
 Yakobo al ge i egon, i nawanawa Kenani kaiwena, inoke Yabowaine wana aneloseyau hi pwawa.
 Sauga aneloseyau i kitel yaka i ba, “Yabowaine wana boda te.” Inoke panuwa o alana i tun Mahanaim.
 Yakobo elopapatuna i patunal nihi houwa awonaa nihi na talina Iso elana labi Seil panuwa Idom.
@@ -958,7 +959,6 @@ Yakobo i baek elana i ba, “Alamwek? Alam ga nu lumen.” Yaa tau o i ba, “Ba
 Yakobo i ba, “Yabowaine ya kite alou maninima ha petupatupa-an, yaa nige ya aaliga.” Inoke panuwa o alana i tun Peniyel.
 Sabwelu i ha ga abwe Yakobo panuwa Peniyel i eguluwan, yaa i nonohomhom kaiwena mwena i mwakiwan.
 Inoke saugena o ge i nem ana siga sauga ya, ebo boda Isileli bwasumu etega hi lol, nagilina puna bunumwina ewahilina nige hi aan, kaiwena tau o i pihikana Yakobo nagilina puna ewahilina elana yaka mwena i mwakiwan.
-
 Yakobo matana i lihin talina i kite i nenem, alonau ge ana hevalau ali gewi po handeled, inoke natunau i walel hi na hinaliyau, Leya, Letiyeli ge totuwalali yowau labui elal.
 Totuwalali yowau labui aloliyau ge natuliyau i teli pahouwa-agil, eliyaa Leya alonau ge natunau, yaka eliyaa al Letiyeli ge Yosepa.
 Inoke iya i nohouwa awoliyaa. He iyoho i nanawa talina eliyana, yaka paseben i kukululu maninina i pahanalowanek bilibiliya.
@@ -1709,10 +1709,6 @@ Yaa Itipita wali tokukula wali siba elana hi ginol i ola ya te toto Eloni i gino
 Yaka kin ena i pek elal ge i sikal i na wana limiya, nige i nuwanuwatu bugul o kaiwena.
 Itipita gegewel ali wewel imwim hi ken loyaloya wewel Naile bebenaa, kaiwena nige bosowailiya wewelina nihi im.
 Yehoba wewel Naile i palogabola, enaa lan seben i mowasi ga.
-
-
-
-
 Yaka Yehoba i baek al Mosese elana i ola, “U na kin elana ge nu ba, ‘Yehoba i ba ola hiwe: No gamagal u talamwagil nihi egon, inoke nihi na nihi tapwalolo elau.
 Ebo nige nu tatalamwagil nihi eegon, nasi wam panuwa na palogabola, gamwana gegewena pwagali nihi pakalaopop.
 Pwagali wewel Naile nihi pakalaopop inoke nihi na nihi ha wam limiya, wam babatomwa elana, wam abakenuwa, am tolabe wali limiya, ge wam gamagalau wali limiya, i ola al nihi ha wam abaliligaa ge wam ulun gamwaliyaa.
@@ -1741,6 +1737,10 @@ Yaka kin Mosese ge Eloni i yogaagil ge i baek elal i ba, “Nuku na bwasumu nuku
 Yaa Mosese i ba, “Nige bosowaima naha ginol ola, kaiwena bwasumu bolo naha powonan Yehoba wama Yabowaine elana, Itipita hi bwaikikin-an. Binimala bwasumu o naha powonan mataliyaa, nasi nihi loipat-agima ge naha aliga.
 Yehoba wama Yabowaine i ba eliyama lan eton naha nawanawa-an naha na ula kekevana elana yaka bwasumu naha powonan elana.”
 Yaka kin i ba, “Ya talamwagimiu nuku na ula kekevana elana ge bwasumu nuku powonan Yehoba wami Yabowaine elana, yaa bahi nuku nonopayapu. He nuku awanun kaiweu.”
+Anana Mosese i lahe i ba, “Sauga na eguluwagiwa na na na awanun Yehoba elana, inoke bwaligumwa uluulu nihi mowasi hot alomwau am tolabe ge wam gamagalau eliyamiu. Yaa bahi nu kakakawema al. Bahi gamagal nu lolopwalil ge nu babaa, ‘Nige bosowaina nuku na bwasumu nuku powonan Yehoba elana.’”
+Inoke Mosese kin i eguluwan i na i awanun Yehoba elana,
+yaka Yehoba i ginol ola Mosese wana awanun. Inoke uluulu hi mowasi hot kin alonau ana tolabe ge wana gamagalau elal, nige etega i mimina.
+Yaa kin atena i pagasisi al, inoke gamagal nige i tatalamwagil nihi eegon.
 Inoke Yehoba i baek Mosese elana i ba, “Nu na kin elana ge nu ba, ‘Yehoba ama Hibilu wama Yabowaine i ba ola hiwe: No gamagalau nu talamwagil nihi egon, inoke nihi na nihi tapwalolo elau.
 Ebo nu kaisel ge iyoho ya nu kukukuhikagil,
 inoke nau Yehoba no gasisi eliyana wam bwasumu hosi, donki, kamel, bulumwakau, sipi ge goti ona ali gila na teli nihi aliga.
@@ -7771,6 +7771,7 @@ Inoke i yoga vevehe al i ba, “Etimwawa u nowa! Bahi veyaho!” Yaka geman i na
 Ginol o ana sapu geman nige i aatena, iyai te Diyontan ge Deibid.
 Inoke Diyontan egipoyo ge gau i pek geman elana ge i ba, “U ahe u sikal panuwaa.”
 Geman i egon enaa, inoke Deibid i tagilem pat bwabwatana labena yavanaa ge i kululu paeton Diyontan elana maninina i pahanalowanek bilibiliya. Hi peliblib-agil ge hi kahikahin, yaa Deibid i kahin nabi hot.
+
 Yaka Diyontan i baek Deibid elana i ba, “U egon ginebi wam laumwal. He iyaka alou owa Yehoba alanaa ta pebabateli-agila ge ta ba, ‘Yehoba iyaka i hago ge iya ni kite hilihili-agila, i ola al tubutubumwau ge tubutubuwau ni kite hilihili-agil sauga gegewena nige ni momowasi.’” Inoke Deibid i egon ge Diyontan i sikal i na wana panuwaa.
 Yaka Deibid i na panuwa Nobi topowon Ahimelek elana. Sauga Ahimelek Deibid i kite, inoke i lovakun ge i ginu. Yaka i nel elana i ba, “Ga i ola ge u nomwaumwau? Ga i ola nige alom gamagal etega ku nenem?”
 Anana Deibid i lahe i ba, “Kin Sol i patunau wana tuwalali etega kaiwena, ge i baem elau i ba, ‘Bahi wam nok puna nu babaunan gamagal etega elana ge ni aatena.’ He iyaka ya ba o hevalau elal abwe nihi nem nihi kiteyau labi etega elana.
@@ -7823,8 +7824,8 @@ Age nige tokokona hi gagan no panuwaa? Ga i ola ge toto ya ku pwatanim ge kokona
 
 
 
-
 Deibid i na i minaa ababunsumi elal ula kekevana gamwanaa ge oya elal panuwa Sip ana labi kekevana. Lan ge lan Sol i loyaloya kaiwena, yaa Yehoba nige Deibid i tatalamwan Sol nimanaa.
+
 
 
 
@@ -7861,7 +7862,6 @@ Ebo tau etega ana topihigelgel ni pwawa, tab ni sokal bwabwage, nige nak ni gigi
 Ya atena bubun tunahot abwe nu tabwa kin ge Isileli wali abalogugui ni minaa wam logugui gabulanaa sauga gegewena.
 He Yehoba alanaa nu papasila te tubutubuwau ha mul nige nu pwapwamowasel, yaka bahi alau ni yayaomala o un elana.”
 Inoke Deibid i bateli Sol eliyana i ola to. Yaka abwe Sol i sikal i na wana panuwaa. Yaa Deibid alonau ge wana hevalau hi na wali ababunsumi elana ula kekevana gamwanaa.
-
 He Samuwela i aliga, yaka Isileli gegewel hi migogo ge wana yaomal kaiwena hi kahikahin. Inoke tuwana hi teliya wana panuwaa Lama. Yaka abwe Deibid i na i minaa labi kekevana alana Palan.
 
 
@@ -8511,6 +8511,7 @@ Inoke kin i nel i ba, “Yaa heval Absalom i molu ya?” Anana Ahimas i lahe i b
 Inoke kin i baek elana i ba, “U talmilila ga huwo ge u matamatan.” Yaka i ginol ola wana baaba.
 Inoke gagama Itiyopiya i vin ge i ba, “No babala ge no kin, wasa waiwaisana nu hago! Lan ebe Yehoba i pwamwaliwaem bolo hi pihigelgel elam nimaliyaa.”
 Yaka kin i nel i ba, “Yaa heval Absalom i molu ya?” Anana i lahe i ba, “No babala ge no kin, binimala am topihigelgel ge bolo hi awatautau elam gegewel nihi ola to heval o.”
+He kin nuwana i nak nabi. Yaka alona wana kahin i na i ha lum toto abauluulutuk pwatanaa, i nonokahikahin i ba, “O natu Absalom! Natu, natu Absalom! Binimala nau te na aliga, owa bahiwa! O Absalom, natu, natu!”
 Yowab wana wasa hi pek hi ba, “Kin Deibid nuwana i nak Absalom kaiwena yaka i kahikahin.”
 Tolohaveyan gegewel wasa hi hago te kin i nuwanak natuna kaiwena, inoke lan o wali tagalaka ana yaliyaya i pil i tabwa nuwanak.
 Yaka hi nokekei hi tuk panuwaa, i ola tolohaveyan bolo hi puluwawi kaiwena hi louem haveyana wali ginol.
@@ -8554,7 +8555,6 @@ Inoke kin alona Kimham hi na panuwa Gilgal. He un Yuda gegewel ge Isileli ali un
 Yaka abwe Isileli bolauiliyau gegewel hi noknok kin elana ge hi babaa, “Hauna kaiwena talimeyau Yuda bolauiliyau nige wama wasa hi pepem ge alomeyau naha pakalapanet-agiwa? He hi nowa sumi, yaka alomwau natumwau ge wam tolohaveyan gegewel hi pakalapanet-agimiu wewel Yolidani.”
 Inoke Yuda bolauiliyau Isileli wali apwanawa hi lahe hi ba, “Ha ginol ola o, kaiwena iya ama un gamagalina. He ga i ola ge baena ku huga? Age kin aanan i guguyau eliyama ge ha aanana? Nigeya! Age gogomwau enuna ha ahe kaiwema? Nigeya!”
 Yaka analiya Isileli bolauiliyau hi lahe hi ba, “Age komiu ya wami kin Deibid ge ama nigeya? Nige i oola! He ama un ali gewi elulutega (10), yaa komiu ami un maisena ya. Inoke ama wama sapu i bwata lake te komiu wami sapu. Ga i ola ku kite lowagima ge ginol o ku ginol eliyama? Ama te ha baaba houwa ha ba, ‘Wala kin ta en pasikal.’” Yaa Yuda hi ba lahi analiya i gasisi hot, Isileli analiya i gasisi lake.
-
 
 
 
@@ -21904,9 +21904,6 @@ Yaka gavana, bolo gavana gabulaliyaa, tologuguiyau ge kin ana tobahikan ona, hi 
 Inoke Nebukanesa i ba, “Setaleki, Mesake ge Abedenigo wali Yabowaine ta tobalan. Iya wana anelose i patuna ge wana totuwalali i pwamwalil. Ana mel hi teli, inoke anau nige hi hahago, yaa hi talamwagil nihi yaomal, nige nuwaliya nihi kululuek yabowaine getoga elana, iyai te wali Yabowaine.
 Inoke logugui ya ginol te, ebo panuwa etega o ebo anan etega gamagaliliyau Setaleki, Mesake ge Abedenigo wali Yabowaine nihi ba panak ge nige nihi aawatauwan, he nihi gotomwatomwa-agil ge wali limi nihi pasamwalekaleka. Kaiwena nige yabowaine etega al i gagan ge bosowaina ni pwamwalila ni ola te.”
 Inoke kin abamina mihahaina i pek Setaleki, Mesake ge Abedenigo elal labi Babiloni gamwanaa.
-
-
-
 Nau kin Nebukanesa, wasa ya ya patuna panuwa gegewena gamagaliliyau eliyamiu, tuwan tomaha tomaha, ge anan tomaha tomaha, panayawi pwatanaa. Atewau komiu ku gewigewi.
 Sauga ya nuwau wami wasa na pewa ginol yawiyawi ge pankite kaiweliya, bolo Yabowaine Tomihahaina Hot i ginola elau.
 Wana pankite abanuwa ahi, wana ginol yawiyawi alona ge wali gasisi. Wana logugui, logugui mihomihotina, wana abalogugui ni gangan ya heyan ge heyan elal.
@@ -21941,6 +21938,9 @@ No baaba nige ya pwapwamowasi, inoke anan etega ya hago i loem labulabumwa i ba,
 Owa nihi patuna owaowa-agiwa gamagalau gamwaliyaa, nu na uleya ge alomwau bwasumu bekikil nuku mina, inoke nu alaalamwawin ni ola bulumwakau. Baliman seben nu ola to, ana siga nu atena Tomihahaina Hot abalogugui gegewena panayawiya i logugui-an, ge iya bosowaina abalogugui ni guyauan gamagal toto i hile elana.”
 Sauga o elana, nau kin Nebukanesa o bateli i tabwa tunahot. Hi patuna owaowa-agau gamagalau gamwaliyaa, yaka ya alaalamwawin i ola bulumwakau, ge bekubeku tuwau i pahun. Inoke kokowau pupunona i siun nabi i ola magisubu dagulina, ge nimwau kimbwaina i loyapu i ola bwasumu kimbwaina.
 Baliman seben i mowasi, abwe matau ya lihin labulabumwa ge ya awanun, inoke nuwatu waiwaisana i sikal eliyau. Inoke Tomihahaina Hot ya tobalan, ya awatauwan ge ya awa wasawasa-an, iya yawalina i gangan sauga gegewena. Wana logugui, logugui mihomihotina, wana abalogugui ni gangan ya heyan ge heyan elal.
+Gamagalau gegewel panayawiya i kitel i ola heliya bugul bwagabwaga. Aneloseyau labulabumwa ge gamagalau panayawiya, hi minaa wana logugui gabulanaa. Nige bosowaina gamagal etega wana nuwatu ni gotomwa, o ebo ni nel ni ba, “I bwe ge u ginol ola?”
+Sauga nuwatu waiwaisana i sikal eliyau, inoke gamagalau hi awatauwagau al i ola kin ali awatauwan. O tolabe ge panuwa ana tohouwa hi aheyau, inoke no abamina hi pem pasikal ya tologugui al. Yaka abwe alau i bwata hot, i lake toto valila.
+Inoke sauga ya nau Nebukanesa Kin toto labulabumwa alana ya latahin, ya tobalan ge ya awa wasawasa-an, kaiwena bugul gegewena bolo i awaawaginol i sapu ge i olaolaek. He bolo hi hanaha iya bosowaina ni teli lowagil.
 Kin Belsesa hagali bwabwatana etega i ginol, towasawasa ali gewi tausan maisena kaiweliya, inoke alonau hi anan ge oine hi imwim toyawa.
 Sauga Belsesa iyoho ana oine i imwim, yaka i ba kom bolo gold ge silba elana hi ginoliya nihi pwatanik elana, toto valila tubuna Nebukanesa i ahem Yelusalema Limi Bwabwalena gamwanaa. He nuwana alonau towasawasa, lagonau hot, ge lagonau al nihi imwimwa.
 Yaka kom bolo valila tubuna i ahem Yelusalema Yabowaine wana Limi Bwabwalena gamwanaa hi bugul pwatanik elana, inoke alonau alonau hi imwimwa.
@@ -21971,6 +21971,7 @@ Luvi: Yabowaine i luvewa sikel elana, inoke am luvi toto iya nuwana nige i pwapw
 Wali: Wam abalogugui iyaka i wali ge i pek Mediya ge Pesiya elal.”
 Yaka Belsesa i ba wana totuwalali elal towasawasa ali kaliko hi ahe Daniyela hi pagaloi, ge bobot gold hi ginoliya hi pin mwamwalinaa. Inoke kin i wasa i ba, “Daniyela iyaka ya teli heyan i tabwa tologugui etonina Babiloni gamwanaa.”
 Bulin o, Mediya ge Pesiya hi nem Belsesa, Babiloni wali kin, hi tagapaaliga.
+Inoke Dalaiyas, gagama Mediya, wana baliman sikisti tu, abana i ahe.
 Dalaiyas gavana ali gewi 120 i hilel ge i telel wana abalogugui ana labi gegewena nihi matahikan.
 Yaka pwataliyaa tologugui bwabwatal eton al i telel, etegana te Daniyela. Heliya gavana wali tuwalali nihi kite hikan, bahi kin wana tuwalali ni nanak.
 Kin i kite pwawa Daniyela wana tuwalali, tologugui bwabwatal ge gavana gegewel wali tuwalali i waisi lake. Inoke i nuwatu tage Daniyela ni teli heyan abalogugui gegewena ni logugui-an.
@@ -21999,7 +22000,6 @@ Yaka kin Dalaiyas leta i leli i patuna panuwa gegewena gamagaliliyau elal, tuwan
 Sauga ya, logugui ya ginol te no abalogugui ana labi gegewena elal, gamagalau Daniyela wana Yabowaine nuku lovakunan ge nuku awatauwan. He iya Yabowaine yawalina gaganina, ge iya i mihot. Wana abalogugui nige bosowaina ta apapanak-an, wana logugui nige ni momowasi.
 Iya tolabe ge topwamwal, abanuwaahi ge ginol yawiyawi i ginolil labulabumwa ge panayawiya. Daniyela i pwamwalem laiyoni eliyalil.
 He Dalaiyas wana sauga kin, ge Sailusa, gagama Pesiya, wana sauga kin, Daniyela wana minamina i waisi hot.
-
 Belsesa Babiloni wali kin, wana sauga logugui ana baliman houwan gamwanaa, Daniyela kenonou etega i kenonou-an ge pankite etega i masal eliyana sauga iya iyoho i kenukenu wana abakenuwa. Yaka bugul bolo i kitel ana kenonou elana wasaliya i leli lowan.
 I leli ola hiwe: Bulin o, o pankite elana matau ya lipwatanik ge ya kite mana hi towa neem labena gegewena elal ge hoga mamanana hi yu pabagobagol.
 Yaka bwasumu bekikil bwabwatal esopali, ali awa tomaha ge tomaha ona hi hopitem hogaa.
@@ -22614,6 +22614,7 @@ He totuwalali nige nuwaliya i oola, yaka hi logasisi tage waga nihi leva tukan p
 Inoke hi yoga ha Yehoba elana hi ba, “Oo Yehoba, ha awanun elam, bahi nu babaa naha yayaomal kaiwena tau ya yawalina ha apanak. Bahi nu babaa tage gegi i minaa eliyama kaiwena tau etegana ha payaomal. Bahi nu lalahema, kaiwena owa u ba te wowol ya i masal.”
 Inoke Yona hi ahe ge hi alipalo hogaa, yaka abwe wowol bwabwatana i mowasi ge i mainum.
 Ginol o kaiwena totuwalali Yehoba hi lovakunan nabiyan, inoke bwasumu etega hi powonan elana ge hi bateli nihi kukululu eliyana.
+Inoke Yehoba moti bwabwatana etegana i patuna i na Yona i tinon, ge i miminaa tinena gamwanaa lan eton ge bulin eton.
 Yona iyoho moti tinena gamwanaa, inoke i awanun wana Yabowaine Yehoba elana,
 i ba: O Yehoba, no minanakina elana ya yoga elam, inoke anau u lahe. Yaomal hot elana ya awanun labe kaiwena, inoke anau u hago.
 U alipalowau hogaa ya lau limwan gamwanaa hot, hoga i mipainagau. Wam bagol bwabwatal hi bini pwatawa.
@@ -22624,7 +22625,6 @@ Sauga yawaliu kelaubwa ni mowasi, Yehoba ya nuwahikagiwa. No awanun i ha elam i 
 Bolo hi kukululuek yabowaine kakawel elal, iyaka hi towaagiwa, nige hi nunuwana-agiwa.
 Yaa alou no ba mulolu bwasumu na powonan eliyam, ge na ginol ni ola no bateli eliyam. Pwamwal i noem Yehoba eliyam.
 Inoke Yehoba i ba moti i na Yona i mamanuvi-an datuwa.
-
 Yaka paeluwana Yehoba i baek Yona elana i ba,
 “Nu na Ninibe panuwa bwabwatana, ge wasa toto ya baunan elam nu wasaan elal.”
 Inoke Yona Yehoba anana i hago ge i na Ninibe. He Ninibe panuwa bwabwatana hot, ebo gamwana ta nawaan nasi lan eton ta nawanawa-an.
@@ -23205,12 +23205,12 @@ Nak ana toginol hi gogomwau, ge bwagana Yabowaine wana palahikan hi labose, nige
 He abwe bolo Yehoba hi lovakunan hi peba pagapagasisi-agil, yaka wali baaba Yehoba i laeganan bubun. Inoke i ba bolo hi lovakunan ge alana hi awatauwan, alaliya nihi leli lowan buki etega elana ali abanuwahikan iya matanaa.
 Inoke Yehoba Togasisi Hot i ba, “Lan toto na tuwalali gamagalau na payatalal, heliya nihi ola no hilihili hot gamagaliliyau. Alou no atilomwan nige na lalahel, ni ola tau etega natuna toto iya awana i aab i aatilomwan-an.
 Yaka abwe nuku kite al te no ginol i getoga tosasapol elal ge toginol naknak elal, i ola al i getoga bolo nau Yabowaine awau hi aab ge bolo nigeya elal.”
-
-
-
-
-
-
+Yehoba Togasisi Hot i ba, “He lan o i nenem. Lahi toto na ginol lan o ni ola hiwo kalakalasina hot, yaka tohanaha gegewel ge nak ana toginol gegewel nihi ola mwawin kekevana. Inoke lan o no lahi ni ton olagil, he nige ewahililiya etega o ebo nuwaliya etega ni mimina.
+Yaa bolo ku lovakunagau, he toto sapu ni pwatanim ni ha ni ola sabwelu kaiwemiu, yaka ni pwamolomiu ni ola sabwelu i yanemiu. Yaka komiu nuku tagil ge alona wami yaliyaya nuku susupeni ni ola bulumwakau natunau bolo hi sokalil ali gana kekeisi elana.
+Yaka toginol naknak nuku potil lowagil. Lan toto na tuwalali gamagalau na payatalal, heliya nihi ola papakova aemiu gabulanaa.” He Yehoba Togasisi Hot wana baaba i ola to.
+Yehoba i ba, “No totuwalali Mosese wana logugui nuku nuwahikan. Nau ya pek elana oya Sainai ge ya ba Isileli gegewel nihi henapuan.
+“He mulaa abwe no lan bwabwatana ge lolovakunina ni vin, palopita Ilaitiya ga na patuna eliyamiu.
+Iya tamataman aloliyau ge natuliyau ni ahel maniniliya ni abubun. Ebo nigeya, yaka na nem ge wami panuwa na apapanak-an hoti.”
 Yeisu Keliso ana lihu i ola hiwe. Yeisu Keliso iya Deibid tubutubunina, Deibid iya Abalahama tubutubunina.
 Abalahama natuna Aisake, Aisake natuna Yakobo, Yakobo natunau Yuda ge talinau,
 Yuda natunau Peles ge Sela, hinaliya Tama, Peles natuna Hesiloni, Hesiloni natuna Lama,
@@ -27691,7 +27691,7 @@ Nige gamagal etega bugul ya ni aalahagil, inoke ku bakuhu ge bahi sigasiga pagan
 Bolau ya iyaka ku enil pwatanim, he nige bugul etega hi kakaome wala limi tapwalolo elana ge wala yabowaine alana nige hi babaa lowan.
 Ebo Demitiliyas ge wana totuwalali nuwaliya gamagal etega nihi wole, he abakot i gan ge toyatala heliya iyoho. Inoke woliwoli o nihi ahe nihi na nihi pamasal elal.
 Ge ebo wami nuwatu enuna al i gan ge nuwamiu nuku pamasal, he abwe ta abubun wala nogogowa, ni ola wala logugui.
-Binimala Loma ana tologugui bugul bolo ta ginol lan ya wasaliya nihi hago, bosowaina hot nihi wolela nihi ba, ‘Age ku lohaveyan.’ Binimala ebo nihi ba ola o, he nige wala sapu hot i gagan ge ta ba pasapu elal, kaiwena awauli ya nige puna hot i gagan.”
+Binimala Loma ana tologugui bugul bolo ta ginol lan ya wasaliya nihi hago, bosowaina hot nihi wolela nihi ba, ‘Age ku lohaveyan.’ Binimala ebo nihi ba ola o, he nige wala sapu hot i gagan ge ta ba pasapu elal, kaiwena awauli ya nige puna hot i gagan.” Wana baaba o i pwamowasi, inoke nogogo i kaus ge gamagalau i patunal hi sikal.
 Panuwa hi paawaawauli i mowasi, yaka Pol toabulilek i yoga gogonil, inoke i ba pagasisel ge i lokaiyoni elal. Yaka i eguluwagil i nok i na Masidoniya.
 Labi o i nopainan ge ba pagasisi hi gewi i baunan gamagalau elal. Yaka i na i vin labi Gilis,
 ge i minaa ga o waikena eton. Tage i kukuki i nana Siliya, yaa wasa i hago Yudiya hi logugui sumi tage nihi lol. Inoke wana nuwatu i pil ge i nosikalek Masidoniya.

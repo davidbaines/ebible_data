@@ -926,6 +926,7 @@ Lavan Yakov'a, “İşte şu yığın ve seninle benim aramızda diktiğim sütu
 “Bu yığın tanık olsun, sütun da tanık olsun ki, bu yığının ötesine geçip sana kötülük etmeyeceğim. Sen de bu yığını ve sütunu geçip bana kötülük etmeyeceksin.
 Avraham’ın Tanrısı ve Nahor'un Tanrısı, babalarının Tanrısı aramızda yargıç olsun.” Yakov, babası İshak'ın Korktuğu’nun üzerine ant içti.
 Yakov dağda kurban kesti ve yakınlarını yemeye çağırdı. Yemeği yiyip geceyi dağda geçirdiler.
+Lavan sabah erkenden kalktı. Torunlarını ve kızlarını öptükten sonra onları kutsadı. Lavan gidip kendi yerine döndü.
 Yakov yola çıktı ve Tanrı'nın melekleri onu karşıladı.
 Yakov onları görünce, “Bu Tanrı'nın ordusu” dedi. O yerin adını Mahanaim koydu.
 Yakov kardeşi Esav'a, Seir ülkesine, Edom bölgesine, önünden ulaklar gönderdi.
@@ -958,7 +959,6 @@ Yakov, “Lütfen adını söyle” dedi. “Adımın ne olduğunu neden soruyor
 Yakov o yerin adını Peniel koydu.
 Yakov Peniel’den geçerken güneş üzerine doğdu ve uyluğu yüzünden aksıyordu.
 Bu nedenle İsrael’in çocukları bugüne dek uyluk kemiğinin üzerindeki siniri yemezler. Çünkü Yakov’un uyluk kemiğinin başındaki sinire dokunulmuştu.
-
 Yakov gözlerini kaldırıp baktı ve işte Esav, yanında dört yüz adamla geliyordu. Çocukları Lea, Rahel ve iki hizmetkârına teslim etti.
 Hizmetçilerle çocuklarını öne, Lea'yla çocuklarını arkaya, Rahel'le Yosef'u en arkaya koydu.
 Kendisi de onların önünden geçerek kardeşinin yanına gelene kadar yedi kez yere eğildi.
@@ -1709,10 +1709,6 @@ Mısır'ın büyücüleri de yaptıkları büyülerle aynı şeyi yaptılar. Bö
 Firavun dönüp evine gitti, ama bunu ciddiye bile almadı.
 Bütün Mısırlılar içecek su bulmak için nehrin çevresini kazdılar; çünkü nehrin suyunu içemiyorlardı.
 Yahve'nin nehri vurmasının üzerinden yedi gün geçti.
-
-
-
-
 Yahve Moşe'ye şöyle konuştu, “Firavun'un yanına git ve ona söyle, 'Yahve şöyle diyor, Halkımın gitmesine izin ver de bana hizmet etsinler.
 Eğer onların gitmesine izin vermeyi reddedersen, işte, bütün sınırlarını kurbağalarla vuracağım.
 Irmak kurbağalarla dolup taşacak, kurbağalar yukarı çıkıp evinize, yatak odanıza, yatağınıza, hizmetkârlarının evine, halkınızın üzerine, fırınlarınıza ve hamur teknelerinize girecek.
@@ -1741,6 +1737,10 @@ Firavun, Moşe'yle Aron'u çağırıp, “Gidin, ülkede Tanrınız'a kurban kes
 Moşe şöyle dedi, “Böyle yapmak uygun değil. Çünkü Mısırlılar için iğrenç olanı Tanrımız Yahve'ye kurban edeceğiz. İşte, Mısırlılar için iğrenç olanı onların gözleri önünde kurban edersek, bizi taşlamazlar mı?
 Çölde üç günlük yol gideceğiz ve Tanrımız Yahve'nin bize buyuracağı gibi kurban keseceğiz.”
 Firavun şöyle dedi, “Çölde Tanrınız Yahve'ye kurban kesmeniz için sizin gitmenize izin vereceğim, ama çok uzağa gitmeyeceksiniz. Benim için dua edin.”
+Moşe şöyle dedi, “İşte, yanından çıkıyorum. Yarın sinek sürülerinin Firavun'dan, hizmetkârlarından ve halkından uzaklaşması için Yahve'ye dua edeceğim. Yalnız Firavun Yahve'ye kurban kesmek için halkın gitmesine izin vermeyerek bir daha hilekârlık yapmasın.”
+Moşe Firavun'un yanından çıkıp Yahve'ye dua etti.
+Yahve Moşe'nin sözüne göre yaptı ve Firavun'un, hizmetkârlarının ve halkının üzerinden sinek sürülerini uzaklaştırdı. Bir tane bile kalmadı.
+Firavun bu kez de yüreğini katılaştırdı ve halkın gitmesine izin vermedi.
 Bunun üzerine Yahve Moşe'ye şöyle dedi: “Firavun'un yanına git ve ona şunu söyle: 'İbraniler'in Tanrısı Yahve şöyle dedi: Halkımı salıver de bana hizmet etsinler.
 Çünkü onları salıvermeyi reddedip onları daha tutarsan,
 işte, Yahve'nin eli çok ağır bir salgınla kırdaki hayvanlarınızın, atlarınızın, eşeklerinizin, develerinizin, sığırlarınızın ve davarlarınızın üzerindedir.
@@ -2112,7 +2112,6 @@ Eğer boğa bir erkek ya da kadın hizmetçiyi süserse, efendilerine otuz şeke
 çukurun sahibi karşılığını ödeyecektir. Parayı onların sahibine verecek ve ölü hayvan kendisinin olacaktır.”
 “Eğer birinin boğası başka birinin boğasını yaralar o da ölürse, o zaman canlı boğayı satıp bedelini bölüşecekler; ölü hayvanı da böleceklerdir.
 Ya da boğanın geçmişte süsme alışkanlığı olduğu biliniyorsa ve sahibi onu içeride tutmamışsa, kesinlikle boğa karşılığında boğa ödeyecek ve ölü hayvan kendisinin olacaktır.”
-
 “Eğer biri bir öküz ya da koyun çalar ve onu öldürür ya da satarsa, bir öküz için beş öküz, bir koyun için dört koyun ödeyecektir.
 Eğer hırsız içeri girerken yakalanır ve vurularak ölürse, onun için kan dökme suçu yoktur.
 Eğer güneş onun üzerine doğmuşsa, kan dökmeden suçludur. Zararı karşılayacaktır. Hiçbir şeyi yoksa hırsızlıktan dolayı satılacaktır.
@@ -2143,6 +2142,7 @@ Eğer komşunun giysisini rehin olarak alırsan, onu güneş batmadan önce ona 
 “Tanrı'ya sövmeyeceksin, halkının hükümdarına lanet etmeyeceksin.”
 “Hasatınızdan ve masaranızdan çıkanı sunmakta gecikmeyeceksiniz.” “Oğullarının ilk doğanı bana vereceksin.”
 Sığırlarınız ve koyunlarınız için de aynısını yapacaksınız. Yedi gün annesiyle birlikte kalacak, sonra sekizinci gün onu bana vereceksiniz.”
+“Siz benim için kutsal insanlar olacaksınız; bu nedenle kırda hayvanların parçaladığı etleri yemeyeceksiniz. Onu köpeklere atacaksınız.”
 “Yalan haber yaymayacaksın. Kötü niyetli tanık olmak için kötüye el vermeyeceksin.”
 “Kötülük yapmak için kalabalığın peşinden gitmeyeceksin. Adaleti saptırmak için mahkemede kalabalığın yanında tanıklık yapmayacaksın.
 Davasında yoksulu kayırmayacaksın.”
@@ -2848,13 +2848,6 @@ Kutsal şeyle ilgili yaptığı yanlışın bedelini ödeyecek, onun üzerine be
 “Bir kimse, Yahve'nin yapılmamasını buyurduğu şeylerden birini bilmeden yaparak günah işlerse, yine suçludur ve suçunu yüklenecektir.
 Senin biçtiğin değere göre, suç sunusu olarak sürüden kusursuz bir koçu kâhine getirecek; kâhin bilmeden işlediği günah yüzünden onun için kefaret edecek ve o bağışlanacaktır.
 Bu bir suç sunusudur. O, Yahve'nin önünde kesin olarak suçludur.”
-
-
-
-
-
-
-
 Yahve Moşe'ye şöyle konuştu:
 “Eğer bir kimse günah işlerse, Yahve'ye karşı suç işlerse, komşusuna emanet, pazarlık ya da hırsızlık konusunda yalan söylerse, ya da komşusuna baskı yaparsa,
 ya da kaybolan şeyi bulup onun hakkında yalan söylerse ve yalan üzerine ant içerse; bir kişi bu şeylerden herhangi birinde, yaptıklarıyla günah işlerse,
@@ -2878,6 +2871,13 @@ Yahve Moşe'ye şöyle dedi:
 Tavada yağla yapılacak. Yağı iyice çekince onu içeri getireceksin. Ekmek sunusunu Yahve'ye hoş koku olarak, pişmiş parçalar halinde sunacaksın.
 Onun yerine oğulları arasından gelecek olan meshedilmiş kâhin bunu sunacak. Sonsuza dek sürecek bir kural olarak Yahve'ye tümü yakılacaktır.
 Bir kâhinin sunduğu her ekmek sunusu tümüyle yakılacak. Ondan yenilmeyecektir.”
+Yahve Moşe'ye şöyle konuştu:
+“Aron'la oğullarına de ki, 'Günah sunusu yasası şudur: Yakmalık sunuların kesildiği yerde, günah sunusu Yahve'nin önünde kesilecek. Çok kutsaldır.
+Onu günah için sunan kâhin onu yiyecek. Kutsal bir yerde, Buluşma Çadırı'nın avlusunda yenilecek.
+Onun etine dokunan her şey kutsal olacaktır. Onun kanından bir giysi üzerine sıçradığında, üzerine sıçrayan şeyi kutsal bir yerde yıkayacaksınız.
+Ama içinde kaynatıldığı toprak kap kırılacak; eğer tunç bir kapta kaynatılırsa, ovulacak ve suda durulanacaktır.
+Kâhinler arasındaki her erkek ondan yiyecek. Çok kutsaldır.
+Kutsal Yer'de kefaret olarak Buluşma Çadırı'na getirilen hiçbir günah sunusu yenilmeyecek. Ateşle yakılacaktır.'”
 “'Suç sunusuyla ilgili yasa şudur: Çok kutsaldır.
 Yakmalık sunuların kesildiği yerde, suç sunusunu kesecek; kanını sunağın üzerine çepeçevre serpecek.
 Bütün yağlarını, kuyruk yağını ve iç kısmını kaplayan yağı sunacak,
@@ -4229,6 +4229,21 @@ Böylece onlar ve onlara ait olanların hepsi diri diri Şeol'e indiler. Yer onl
 Etraflarında bulunan İsrael'in tümü onların feryadı üzerine kaçtı; çünkü, “Yer bizi yutmasın!” dediler.
 Yahve'nin yanından gelen ateş buhur sunan iki yüz elli kişiyi yiyip bitirdi.
 Yahve Moşe'ye şöyle konuştu:
+“Kâhin Aron oğlu Eleazar'a söyle, o da yangından buhurdanları alıp ordugâhın dışına dağıtsın; çünkü onlar kutsaldır,
+kendi hayatlarına karşı günah işleyenlerin buhurdanlarıdır. Onları sunak için örtü olmak üzere dövülmüş levhalar yapsınlar, çünkü onları Yahve'nin önünde sundular. Bu nedenle kutsaldırlar. Bunlar İsrael'in çocuklarına bir belirti olacaktır.”
+Kâhin Eleazar, yakılan adamların sunduğu tunç buhurdanları aldı;
+Aron'un soyundan olmayan hiçbir yabancı Yahve'nin önünde buhur yakmak üzere yaklaşmasın ve Korah ve onun arkadaşları gibi olmasın diye, İsrael'in çocuklarına anılma olmak üzere, Yahve'nin Moşe aracılığıyla kendisine söylemiş olduğu gibi sunak için örtü olarak buhurdanları dövdüler.
+Ama ertesi gün İsrael'in çocukları topluluğunun tümü Moşe'ye ve Aron'a karşı söylenip, “Yahve'nin halkını siz öldürdünüz!” dediler.
+Topluluk Moşe'ye ve Aron'a karşı toplandığında, Buluşma Çadırı'na doğru baktılar. İşte, bulut onu örttü ve Yahve'nin görkemi ortaya çıktı.
+Moşe'yle Aron Buluşma Çadırı'nın önüne geldiler.
+Yahve Moşe'ye şöyle dedi:
+“Bu topluluğun arasından çıkın da onları bir anda tüketeyim!” Yüzüstü kapandılar.
+Moşe Aron'a şöyle dedi: “Buhurdanını al, sunaktan üzerine ateş koy, üzerine buhur koy, onu hemen topluluğa taşı ve onlar için kefaret et; çünkü Yahve'nin yanından gazap çıktı! Veba başladı.”
+Aron Moşe'nin dediğini yaptı ve topluluğun ortasına koştu. Halk arasında veba çoktan başlamıştı. Buhur yakıp halk için kefaret etti.
+Ölülerle diriler arasında durdu; veba da durdu.
+Korah meselesi yüzünden ölenlerin yanı sıra vebadan ölenlerin sayısı da on dört bin yedi yüz kişiydi.
+Aron Moşe'nin yanına, Buluşma Çadırı'nın kapısına döndü ve salgın kesildi.
+Yahve Moşe'ye şöyle konuştu:
 “İsrael'in çocuklarına söyle ve onlardan her ata evi için bir tane olmak üzere, atalarının evlerine göre bütün beylerinden on iki değnek al. Her birinin adını değneğinin üzerine yaz.
 Aron'un adını Levi değneği üzerine yazacaksın. Atalarının evlerinin her beyi için bir değnek olacak.
 Onları Buluşma Çadırı'nda sizinle buluştuğum Levha'nın önüne koyacaksınız.
@@ -4241,21 +4256,6 @@ Yahve Moşe'ye şöyle dedi: “İsyan çocuklarına karşı bir işaret olarak 
 Moşe öyle yaptı. Yahve ona nasıl buyurduysa öyle yaptı.
 İsrael'in çocukları Moşe'ye şöyle dediler: “İşte, yok oluyoruz! İşimiz bitti! Hepimizin işi bitti!
 Yahve'nin konutuna yaklaşan herkes ölüyor! Hepimiz yok mu olacağız?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Yahve Aron'a şöyle dedi: “Kutsal yerin kötülüğünü sen ve seninle birlikte, oğulların ve atalarının evi taşıyacaksınız; sen ve seninle birlikte oğulların kâhinliğinizin suçunu taşıyacaksınız.
 Kardeşlerinizi, atanızın oymağını, Levi oymağını da yanınıza getirin ki, onlar da size katılsınlar ve size hizmet etsinler; ama sen ve oğulların Levha Çadırı'nın önünde olacaksınız.
 Buyruklarınızı ve tüm Çadır'ın görevini tutacaklar; ancak ne onlar ne de siz ölmeyesiniz diye kutsal yerdeki takımlara ve sunağa yaklaşmayacaklar.
@@ -4647,6 +4647,7 @@ yalnız yakmalık sunu, ateşte yapılan sunu, hoş koku olarak Yahve'ye, bir bo
 bunların sayısına göre, usulüne göre, boğa için, koç için ve kuzular için onların ekmek sunusunu ve onların dökmelik sunularını;
 günah sunusu olarak bir teke sunacaksınız; bu, sürekli yakmalık sunuya, onun ekmek sunusuna ve onun dökmelik sunusuna ektir.
 “'Yakmalık sunularınız, ekmek sunularınız, dökmelik sunularınız ve esenlik sunularınız olarak, adaklarınızın ve gönüllü sunularınızın yanısıra, bunları da belirlenen bayramlarınızda Yahve'ye sunacaksınız.'”
+Moşe Yahve'nin kendisine buyurduğu her şeye göre İsrael'in çocuklarına söyledi.
 Moşe İsrael'in çocuklarının oymak başlarıyla konuşup şöyle dedi: “Yahve'nin buyurduğu şey şudur.
 Bir adam Yahve'ye adak adadığında, ya da canını bir bağla bağlayacağına dair ant içtiğinde, sözünden dönmeyecektir. Ağzından çıkan her şeye göre yapacaktır.”
 “Bir kadın da gençliğinde babasının evindeyken Yahve'ye adak adadığında ve kendisini bir sözle bağladığında,
@@ -4663,7 +4664,6 @@ Canı yaralayan her adak ve bağlayan andı kocası yerine getirebilir, ya da ko
 Ama eğer kocası gün gün geçerken ona bir şey söylemezse, o zaman kocası onun üzerine olan bütün adaklarını ya da verdiği bütün sözlerini sağlamlaştırmıştır. Bunları duyduğu gün ona hiçbir şey söylemediği için pekiştirmiştir.
 Ama eğer onları duyduktan sonra geçersiz kılarsa, o zaman kadının suçunu yüklenecektir.”
 Bunlar, erkekle karısı arasında, bir baba ile kızı arasında, gençliğinde kızın babasının evinde olduğunda, Yahve'nin Moşe'ye buyurduğu kurallardır.
-
 Yahve Moşe'ye şöyle dedi:
 “İsrael'in çocuklarının Midyanlılar'dan öcünü al. Ondan sonra halkına kavuşacaksın.”
 Moşe halka seslenip şöyle dedi: “Midyan'dan Yahve'nin öcünü almak için Midyan'a karşı savaşmak üzere aranızdan adamlar silahlandırın.
@@ -5271,6 +5271,7 @@ Tanrın Yahve'nin gözünde iyi ve doğru olanı yaptığında, senin ve senden 
 Tanrın Yahve, mülklerinden etmek için gitmekte olduğun ulusları önünden kesip attığında ve sen onları mülklerinden edip ülkelerinde oturduğunda,
 dikkatli ol, onlar önünden yok edildikten sonra onları takip ederek tuzağa düşme “Bu uluslar kendi ilâhlarına nasıl hizmet ediyorlar ben de öyle yapacağım” diye onların ilâhlarını arama.
 Tanrın Yahve'ye böyle yapmayacaksın; Yahve'nin nefret ettiği her iğrençliği kendi ilâhlarına yaptılar; çünkü oğullarını ve kızlarını bile ateşte kendi ilâhlarına yakarlar.
+Sana ne buyurduysam onu dikkatle yapacaksın. Ona ne bir şey ekleyeceksin, ne de ondan bir şey eksilteceksin.
 Eğer aranızda bir peygamber ya da rüya gören biri çıkar ve size bir belirti ya da şaşılacak bir şey verirse,
 ve bilmediğiniz “Başka ilâhların ardınca gidelim ve onlara hizmet edelim” der ve size söylediği belirti ya da şaşılacak şey gerçekleşirse,
 o peygamberin ya da o rüya görenin sözlerini dinlemeyeceksin; çünkü Tanrınız Yahve, Tanrınız Yahve'yi bütün yüreğinizle, bütün canınızla sevip sevmediğinizi bilmek için sizi sınıyor.
@@ -5289,7 +5290,6 @@ mutlaka o kentte yaşayanları kılıçtan geçirecek, onu, içindeki her şeyle
 Onun bütün ganimetini sokağın ortasına yığacaksın ve kenti, bütün yağmalarıyla birlikte Tanrın Yahve'ye ateşle yakacaksın. Sonsuza dek bir yığın olacak. Bir daha yapılmayacaktır.
 Adanmış olandan hiçbir şey eline yapışmayacak ta ki, Tanrın Yahve'nin gözünde doğru olanı yapmak için, bugün sana buyurmakta olduğum Yahve'nin bütün buyruklarını tutmak üzere,
 Yahve'nin sözünü dinlediğinde, Yahve öfkesinin kızgınlığından dönsün ve atalarına ant içtiği gibi, sana merhamet etsin, sana acısın ve seni çoğaltsın.
-
 Siz Tanrınız Yahve'nin çocuklarısınız. Ölü için kendinizi kesmeyeceksiniz ve gözlerinizin arasını tüysüz yapmayacaksınız.
 Çünkü sen Tanrın Yahve'ye kutsal bir halksın ve Yahve, kendi mülkü olan bir halk olman için yeryüzündeki bütün halkların üstünde seni seçti.
 İğrenç hiçbir şeyi yemeyeceksin.
@@ -5499,6 +5499,7 @@ ama kadına bir şey yapmayacaksın. Kadının ölümü hak edecek bir günahı 
 çünkü onu kırda buldu, nişanlı kız bağırmış, ama onu kurtaracak kimse yokmuş.
 Eğer bir adam, nişanlı olmayan el değmemiş bir kız bulursa, onu tutup onunla yatarsa ve onlar bulunursa,
 o zaman onunla yatan adam kadının babasına elli şekel gümüş verecektir. Onu alçalttığı için kadın onun karısı olacaktır. Adam bütün günlerince onu bir kenara bırakamayacaktır.
+Bir adam babasının karısını almayacak ve babasının eteğini açmayacaktır.
 Ezilerek ya da kesilerek hadım edilen kişi Yahve'nin topluluğuna girmeyecek.
 Yasa dışı birliktelikten doğan kişi Yahve'nin topluluğuna girmeyecek; onuncu kuşağa kadar ondan hiç kimse Yahve'nin topluluğuna girmeyecektir.
 Ammonlu ya da Moavlı Yahve'nin topluluğuna girmeyecek; onuncu kuşağa kadar onlardan hiç kimse asla Yahve'nin topluluğuna girmeyecektir.
@@ -5524,7 +5525,6 @@ Ama adak adamaktan kaçınırsan, bu senin için günah olmayacaktır.
 Ağzından çıkanı tutup yapacaksın. Tanrın Yahve'ye gönülden sunu olarak adadığın ve ağzınla söz verdiğin her şeyi yapmalısın.
 Komşunun bağına girdiğin zaman dilediğince üzüm yiyebilirsin, ancak kabına hiçbir şey koymayacaksın.
 Komşunun ekinine girdiğin zaman, ellerinle başakları koparabilirsin; ama komşunun ekinine orak vurmayacaksın.
-
 Bir adam bir kadın alıp onunla evlendiğinde, eğer kadında yakışıksız bir şey bulduğu için kadın onun gözünde lütuf bulmazsa, ona bir boşanma belgesi yazıp eline verecek ve onu evinden gönderecektir.
 Kadın onun evinden çıkınca gidip başka bir adamın karısı olabilir.
 Eğer sonraki koca ondan nefret eder ve ona boşanma belgesi yazıp onu eline verir ve onu evinden gönderirse; ya da onu kendine eş olarak alan sonraki koca ölürse;
@@ -5679,7 +5679,6 @@ Bu uluslar arasında rahat etmeyeceksin, ayak tabanın dinlenmeyecek; ama Yahve 
 Yaşamın önünde belirsizlik üzerinde asılı olacak. Gece gündüz korkacaksın ve yaşamının güvencesi olmayacak.
 Yüreğini ürküten korkundan ve gözlerinin gördüklerinden dolayı, sabah, “Keşke akşam olsaydı!” diyeceksin, akşam da, “Keşke sabah olsaydı!” diyeceksin.
 Sana bir daha asla göremeyeceksin dediğim yoldan, Yahve seni gemilerle tekrar Mısır'a getirecek. Orada kendinizi erkek ve kadın köleler olarak düşmanlarınıza sunacaksınız ve kimse sizi satın almayacak.
-
 Bunlar, Yahve'nin Horev'de İsrael'in çocuklarına yapmış olduğu antlaşmaya ek olarak Moşe'ye Moav diyarında onlarla yapmasını buyurduğu antlaşmanın sözleridir.
 Moşe bütün İsrael'i çağırıp onlara şöyle dedi: “Yahve'nin Mısır diyarında Firavun'a, onun bütün hizmetkârlarına ve onun bütün ülkesine yaptığı her şeyi;
 gözlerinizin gördüğü büyük denemeleri, belirtileri ve o büyük harikaları gördünüz.
@@ -5708,6 +5707,7 @@ O zaman insanlar şöyle diyecekler: “Çünkü kendilerini Mısır diyarından
 bilmedikleri ve O'nun onlara vermediği başka ilâhlara gidip hizmet ettiler ve onlara tapındılar.
 Bu nedenle Yahve bu kitapta yazılı olan tüm lanetleri bu ülkenin üzerine getirmek için ona karşı öfkesi alevlendi.
 Yahve öfkeyle, gazapla ve büyük hiddetle onları ülkelerinden söktü ve bugün olduğu gibi başka bir ülkeye attı.”
+Gizli şeyler Tanrımız Yahve'nindir; ama açığa çıkarılmış olan şeyler sonsuza dek bizim ve çocuklarımızındır; öyle ki, bu yasanın bütün sözlerini yapalım.
 Bütün bu şeyler, önünüze koyduğum kutsama ve lanet başına geldiğinde; Tanrın Yahve'nin seni sürdüğü bütün uluslar arasında bunları aklına getireceksin;
 ve Tanrın Yahve'ye dönüp, bugün sana buyurduğum her şeye göre, sen ve çocukların bütün yüreğinizle ve bütün canınızla O'nun sözünü dinlediğinde,
 o zaman, Tanrın Yahve seni esaretten kurtaracak, sana merhamet edecek ve dönecek, Tanrın Yahve'nin seni dağıttığı bütün halklardan seni toplayacaktır.
@@ -7771,6 +7771,7 @@ Yonatan çocuğun ardından bağırarak, “Çabuk git! Acele et! Gecikme!” de
 Ama çocuk bir şey bilmiyordu. Konuyu yalnızca Yonatan ve David biliyordu.
 Yonatan silahlarını çocuğa verip, “Git, onları kente götür” dedi.
 Çocuk gider gitmez, David güneyden kalktı, yüzüstü yere kapandı ve üç kez eğildi. Birbirlerini öptüler ve birbirleriyle ağladılar ve David en çok ağlayan oldu.
+
 Yonatan David'e, “Esenlik içinde git, çünkü ikimiz de Yahve'nin adıyla ant içtik, 'Yahve benimle senin aranda, benim soyumla senin soyum arasında sonsuza dek' dedik.” Kalkıp gitti; Yonatan da kente girdi.
 Sonra David, kâhin Ahimelek'in yanına Nov'a geldi. Ahimelek titreyerek David'i karşılamaya geldi ve ona, “Neden yalnızsın ve yanında kimse yok?” dedi.
 David kâhin Ahimelek'e, “Kral bana bir şey yapmamı buyurdu ve bana, 'Seni gönderdiğim iş ve sana buyurduğum şey hakkında kimse bir şey bilmesin. Gençleri belli bir yere gönderdim.' dedi.
@@ -7787,7 +7788,6 @@ David bu sözleri yüreğinde sakladı ve Gat Kralı Akiş'ten çok korktu.
 Onların önünde tavrını değiştirdi, elinde kendisini deli gibi gösterdi, kapının kanatlarına tırmaladı, salyasını sakalına akıttı.
 Bunun üzerine Akiş hizmetkârlarına, “Bakın, görüyorsunuz bu adam deli. Öyleyse onu neden bana getirdiniz?” dedi.
 “Delilerden yoksun muyum ki, bu adamı delilik etsin diye önüme getirdiniz? Bu adam evime girmeli mi?”
-
 David oradan ayrılıp Adullam’ın Mağarası'na kaçtı. Kardeşleri ve babasının bütün evi bunu duyunca, oraya, onun yanına indiler.
 Sıkıntıda olan herkes, borçlu olan herkes ve hoşnutsuz olan herkes onun yanına toplandı. O da onların üzerinde komutan oldu. Yanında dört yüz kadar adam vardı.
 David oradan Moav’ın Mispe’sine gitti ve Moav Kralı'na, “Lütfen, Tanrı’nın benim için ne yapacağını bilene dek babam ve annemin çıkıp yanınıza gelsin” dedi.
@@ -7839,6 +7839,7 @@ Saul'la adamları onu aramaya gittiler. David'e bildirildiğinde, kayaya indi ve
 Saul dağın bu tarafına, David'le adamları da dağın o tarafına gittiler; ve David, Saul'dan korktuğu için aceleyle oradan kaçtı; çünkü Saul ve adamları onları yakalamak için David'in ve adamlarının etrafını sardılar.
 Ama Saul'a bir haberci gelip şöyle dedi: “Acele edin, gelin, çünkü Filistliler ülkeye baskın yaptılar!”
 Bunun üzerine Saul David'i kovalamaktan vazgeçip Filistliler'e karşı gitti. Bu nedenle oraya Sela Hammahlekot denildi.
+David oradan çıkıp En Gedi'nin kalelerinde yaşadı.
 Saul Filistliler'in peşinden döndüğünde kendisine, “İşte David, En Gedi Çölü'nde” denildi.
 Bunun üzerine Saul bütün İsrael'den üç bin seçme adamı alıp yaban keçilerinin kayalıkları üzerinde David'le adamlarını aramaya gitti.
 Bir mağaranın bulunduğu yol kenarındaki koyun ağıllarına geldi; ve Saul ihtiyacını gidermek için içeri girdi. Şimdi David ve adamları mağaranın en iç kısımlarında kalıyorlardı.
@@ -7861,7 +7862,6 @@ Bugün bana ne kadar iyi davrandığını açıkladın, çünkü Yahve beni elin
 Şimdi işte, senin kesin olarak kral olacağını ve İsrael Krallığı'nın senin elinde pekiştirileceğini biliyorum.
 Şimdi bana, benden sonra soyumu kesmeyeceğine ve adımı babamın evinden yok etmeyeceğine Yahve aracılığıyla ant iç.”
 David Saul'a ant içti. Saul evine gitti ama David ve adamları kaleye çıktılar.
-
 Samuel öldü; ve bütün İsrael toplanıp onun için yas tuttu ve onu Rama'daki evine gömdüler. Sonra David kalkıp Paran Çölü'ne indi.
 Malları Karmel'de olan Maon'da bir adam vardı; ve adam çok büyüktü. Üç bin koyunu ve bin keçisi vardı; ve Karmel'de koyunlarını kırkıyordu.
 Adamın adı Naval'dı; karısının adı da Avigail'di. Bu kadın akıllı ve güzel bir yüzü vardı; ama adam huysuz ve işlerinde kötüydü. Kalev'in evindendi.
@@ -8511,6 +8511,7 @@ Kral, “Genç Avşalom iyi mi?” dedi. Ahimaas, “Yoav kralın hizmetkârın�
 Kral, “Gel ve burada dur” dedi. Geldi ve durdu.
 İşte Kuşlu geldi. Kuşlu, “Efendim kral için iyi haber, çünkü Yahve bugün sana karşı ayaklananların hepsinden öcünü aldı” dedi.
 Kral Kuşlu’ya, “Genç Avşalom iyi mi?” dedi. Kuşlu, “Efendim kralın düşmanları ve sana kötülük yapmak için ayaklananların hepsi o genç adam gibi olsun” diye yanıt verdi.
+Kral çok sarsıldı ve kapının üstündeki odaya çıkıp ağladı. Giderken, “Oğlum Avşalom! Oğlum, oğlum Avşalom! Keşke senin yerine ben ölseydim, oğlum, oğlum ey Avşalom!” dedi.
 Yoav'a, “İşte, kral Avşalom için ağlıyor ve yas tutuyor” diye bildirildi.
 O günkü zafer, bütün halk arasında yasa döndü; çünkü halk o gün, “Kral oğlu için yas tutuyor” dendiğini duydu.
 Savaştan kaçtığında utanan halk nasıl sessizce giderse, o gün halk da kente sessizce girdi.
@@ -8554,7 +8555,6 @@ Böylece kral Gilgal’e geçti, Kimham da onunla birlikte geçti. Yahuda halkı
 İşte, İsrael halkının tümü krala gelip, “Kardeşlerimiz Yahuda halkı seni neden kaçırdı ve kralı, ev halkını ve onunla birlikte bütün David'in adamlarını Yarden'den geçirdiler?” dediler.
 Yahuda halkının tümü İsrael halkına, “Çünkü kral bize yakın akrabamızdır. Öyleyse neden bu konuda öfkeleniyorsunuz? Biz kralın hesabından hiç yemek yedik mi? Ya da bize bir armağan mı verdi?” diye yanıt verdi.
 İsraelliler Yahudalılar'a yanıt verip dediler: “Kralda on payımız var ve David’de sizden daha fazla hakkımız var. Öyleyse neden bizi hor gördünüz ki, kralımızı geri getirmek için önce bizim öğütlerimiz alınmadı?” Yahudalılar'ın sözleri İsraelliler'in sözlerinden daha sertti.
-
 Orada Benyaminli Bikri oğlu Şeva adında kötü bir adam vardı. Boru çaldı ve şöyle dedi, “David’te payımız yoktur, Yişay oğlunda da mirasımız yoktur. Herkes çadırlarına, ey İsrael!”
 Böylece İsraelliler'in hepsi David’in peşinden ayrılıp Bikri oğlu Şeva’nın ardından gittiler; ama Yahudalılar Yarden’den Yeruşalem’e kadar krallarına katıldılar.
 David Yeruşalem’deki evine geldi; ve kral cariyeleri olan ve evi bakmak için bıraktığı on kadını aldı, onları gözaltında tuttu ve onlara yiyecek sağladı, ama onların yanına girmedi. Böylece dul yaşayarak ölüm günlerine kadar kapalı kaldılar.
@@ -8865,6 +8865,20 @@ Aşer ve Bealot'ta Huşay oğlu Baana;
 Benyamin'de Ela oğlu Şimei;
 Gilad diyarında, Amor Kralı Sihon'un ve Başan Kralı Og'un ülkesinde Uri oğlu Gever; ve ülkede bulunan tek memur oydu.
 Yahuda ve İsrael, kalabalıkta deniz kıyısındaki kum gibi çoktu; yiyip içiyor ve neşeliydiler.
+Solomon, Irmak'tan Filistliler ülkesine ve Mısır sınırına kadar bütün krallıklar üzerinde hüküm sürüyordu. Solomon'un bütün günlerinde ona vergi verdiler ve hizmet ettiler.
+Solomon'un bir günlük yiyeceği otuz kor ince un, altmış ölçek un,
+on baş semiz sığır, otlaklardan yirmi baş sığır ve geyik, ceylan, karaca ve semiz kümes hayvanlarından başka yüz koyundu.
+Çünkü Irmak'ın bu tarafında Tifsah'tan Gaza'ya kadar her yerde, Irmak'ın bu tarafında olan bütün kralların üzerinde hüküm sürüyordu; ve çevresinde, her yanında barış vardı.
+Yahuda ve İsrael halkı, her biri asmasının altında ve incir ağacının altında, Dan'dan Beer Şeva'ya kadar Solomon'un bütün günlerinde güvenlik içinde yaşadı.
+Solomon'un savaş arabaları için kırk bin ahır atı ve on iki bin atlısı vardı.
+Bu memurlar Kral Solomon'a ve Kral Solomon'un sofrasına gelen herkese, her biri kendi ayında yiyecek sağlıyordu. Hiçbir şeyi eksik bırakmıyorlardı.
+Ayrıca, her biri görevine göre memurların bulundukları yere, atlar ve hızlı atlar için arpa ve saman getirirlerdi.
+Tanrı, Solomon'a deniz kıyısındaki kum kadar bol bilgelik, anlayış ve yürek genişliği verdi.
+Solomon'un bilgeliği, bütün doğuluların bilgeliğinden ve bütün Mısırlılar'ın bilgeliğinden üstündü.
+Çünkü o, bütün insanlardan daha bilgeydi; Ezrahlı Etan'dan, Mahol'un oğulları Heman'dan, Kalkol'dan ve Darda'dan daha bilgeydi; ünü çevredeki bütün uluslardaydı.
+Üç bin özdeyiş söyledi, ezgilerinin sayısı bin beşdi.
+Lübnan'daki sedirden duvarda biten mercanköşküne kadar ağaçlardan söz ederdi; ayrıca hayvanlardan, kuşlardan, sürüngenlerden ve balıklardan söz ederdi.
+Bütün uluslardan insanlar Solomon'un bilgeliğini duyamaya gelirdi; onun bilgeliğini duymuş olan yeryüzünün bütün kralları adamlar gönderirdi.
 Sur Kralı Hiram, Solomon'a hizmetkârlarını gönderdi. Çünkü babasının yerine kendisini kral olarak meshettiklerini duymuştu. Hiram da David'i her zaman sevmişti.
 Solomon Hiram'a adam gönderip şöyle dedi:
 “Babam David'in, Yahve düşmanlarını onun ayaklarının altına koyana dek, çevresinde her taraftaki savaşlar yüzünden Tanrısı Yahve'nin adına bir ev yapamadığını biliyorsun.
@@ -8883,20 +8897,6 @@ Solomon'un yük taşıyan yetmiş bin ve dağlarda taş kesen seksen bin adamı,
 bunların dışında Solomon'un işte çalışan halkı yöneten, işin başında olan üç bin üç yüz baş görevlisi vardı.
 Kral buyurdu ve evin temelini yontulmuş taşla atmak için büyük taşlar, değerli taşlar kestiler.
 Solomon'un yapıcıları, Hiram'ın yapıcıları ve Geballılar bunları kestiler ve evi yapmak için keresteyi ve taşları hazırladılar.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 İsrael'in çocukları Mısır diyarından çıktıktan dört yüz seksen yıl sonra, Solomon'un İsrael üzerindeki hükmünün dördüncü yılında, ikinci ay olan Ziv ayında, Yahve'nin evini yapmaya başladı.
 Kral Solomon'un Yahve için yaptığı evin uzunluğu altmış arşın, genişliği yirmi, yüksekliği otuz arşındı.
 Evin tapınağının önündeki eyvan, evin eni boyunca yirmi arşın uzunluğundaydı. Evin önündeki genişliği on arşındı.
@@ -9523,6 +9523,7 @@ Ahav'ın işlerinin geri kalanı, yaptığı her şey, yaptırdığı fildişi e
 Böylece Ahav atalarıyla uyudu; yerine oğlu Ahazya kral oldu.
 Asa oğlu Yehoşafat, İsrael Kralı Ahav'ın dördüncü yılında Yahuda üzerinde hüküm sürmeye başladı.
 Yehoşafat hüküm sürmeye başladığında otuz beş yaşındaydı ve Yeruşalem'de yirmi beş yıl hüküm sürdü. Annesinin adı Şilhi'nin kızı Azuva'ydı.
+
 Babası Asa'nın bütün yollarında yürüdü. Ondan sapmadı, Yahve'nin gözünde doğru olanı yaptı. Ancak yüksek yerler kaldırılmamıştı. Halk hâlâ kurban kesip yüksek yerlerde buhur yakıyordu.
 Yehoşafat İsrael Kralı'yla barış yaptı.
 Yehoşafat'ın işlerinin geri kalanı, gösterdiği kudreti ve nasıl savaştığı Yahuda krallarının Tarihler Kitabı'nda yazılı değil midir?
@@ -9534,7 +9535,6 @@ Yehoşafat atalarıyla uyudu ve babası David'in Kenti'nde atalarının yanına 
 Ahav oğlu Ahazya, Yahuda Kralı Yehoşafat'ın on yedinci yılında Samariya'da İsrael üzerinde hüküm sürmeye başladı ve iki yıl İsrael üzerinde hüküm sürdü.
 Yahve'nin gözünde kötü olanı yaptı, babasının yolunda, annesinin yolunda ve İsrael'i günah işlettirmiş olan Nevat oğlu Yarovam'ın yolunda yürüdü.
 Baal'a hizmet etti, ona tapındı ve babasının yapmış olduğu her şeyle İsrael'in Tanrısı Yahve'yi öfkelendirdi.
-
 Ahav'ın ölümünden sonra Moav İsrael'e karşı başkaldırdı.
 Ahazya Samariya'daki üst odasındaki kafesten düşüp hastalandı. Bunun üzerine haberciler gönderip onlara, “Gidin, Ekron ilâhı Baal Zevuv'a bu hastalıktan iyileşip iyileşmeyeceğimi sorun” dedi.
 Ancak Yahve'nin meleği Tişbeli Eliya'ya şöyle dedi, “Kalk, Samariya Kralı'nın habercilerini karşılamaya çık ve onlara de ki, 'İsrael'de Tanrı olmadığı için mi Ekron ilâhı Baal Zevuv'a sormaya gidiyorsunuz?
@@ -9851,6 +9851,7 @@ Yehoyada, Yahve, kral ve halk arasında, Yahve'nin halkı olsunlar diye antlaşm
 Ülkenin bütün halkı Baal’ın evine gidip onu yıktılar. Sunaklarını ve suretlerini tamamen parçaladılar ve Baal’ın kâhini Mattan’ı sunakların önünde öldürdüler. Kâhin, Yahve'nin evinin başına görevliler atadı.
 Yüzbaşıları, Karyalılar'ı, muhafızları ve ülkenin bütün halkını yanına aldı; ve kralı Yahve'nin evinden indirdiler ve muhafız kapısından geçerek kralın evine geldiler. Kralların tahtı üzerine oturdu.
 Böylece ülkenin bütün halkı sevindi ve kent sessizdi. Atalya'yı kralın evinde kılıçla öldürmüşlerdi.
+Yehoaş hüküm sürmeye başladığında yedi yaşındaydı.
 Yehoaş, Yehu'nun yedinci yılında hükmetmeye başladı ve Yeruşalem'de kırk yıl hükmetti. Annesinin adı Beerşeva'lı Sivya'ydı.
 Yehoaş, kâhin Yehoyada'nın kendisine öğrettiği bütün günlerinde, Yahve'nin gözünde doğru olanı yaptı.
 Ancak yüksek yerler kaldırılmadı. Halk hâlâ yüksek yerlerde kurban kesiyor ve buhur yakıyordu.
@@ -9872,7 +9873,6 @@ Yahuda Kralı Yehoaş, ataları Yehoşafat, Yehoram ve Ahazya'nın, Yahuda krall
 Ve Yoaş'ın işlerinin geri kalanı ve yaptığı bütün işler, Yahuda krallarının Tarihler Kitabı'nda yazılı değil mi?
 Hizmetkârları kalkıp düzen kurdular ve Yoaş'ı Silla'ya inen yolda Millo evinde vurdular.
 Çünkü hizmetkârları Şimeat oğlu Yosakar ve Şomer oğlu Yehozavad onu vurdular ve Yoaş öldü; ve onu David'in kentinde atalarının yanına gömdüler; ve oğlu Amatsya onun yerine kral oldu.
-
 Yahuda Kralı Ahazya oğlu Yoaş'ın yirmi üçüncü yılında, Yehu oğlu Yehoahaz, Samariya'da İsrael üzerindeki on yedi yıllık hükmüne başladı.
 Yahve'nin gözünde kötü olanı yaptı ve İsrael'i günah işlettiren Nevat oğlu Yarovam'ın günahlarını izledi. Ondan ayrılmadı.
 Yahve'nin öfkesi İsrael'e karşı alevlendi ve onları sürekli olarak Suriye Kralı Hazael'in eline ve Hazael oğlu Benhadad'ın eline teslim etti.
@@ -10456,21 +10456,6 @@ Manaşşe'nin yarım oymağı çocukları ülkede yaşadılar. Başan'dan Baal H
 Ataları evlerinin başları şunlardı: Efer, Yişi, Eliel, Azriel, Yeremya, Hodavya ve Yahdiel. Bunlar cesur yiğitler, ünlü adamlardı, ataları evlerinin başlarıydı.
 Atalarının Tanrısı'na karşı suç işlediler ve Tanrı'nın önlerinden yok ettiği ülke halklarının ilâhları ardınca fahişelik ettiler.
 Böylece İsrael'in Tanrısı, Aşur Kralı Pul'un ve Aşur Kralı Tilgat Pilneser'in ruhunu harekete geçirdi ve Ruvenliler'i, Gadlılar'ı ve Manaşşe'nin yarım oymağını sürüp Halah'a, Habor'a, Hara'ya ve Gozan Irmağı'na götürdü; bugüne dek öyledir.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Levi'nin oğulları: Gerşon, Kehat ve Merari.
 Kohat'ın oğulları: Amram, Yitshar, Hevron ve Uzziel.
 Amram'ın oğulları: Aron, Moşe ve Miryam. Aron'un oğulları: Nadav, Avihu, Elazar ve İtamar.
@@ -10537,6 +10522,21 @@ Merarioğulları'na, boylarına göre, Ruven oymağından, Gad oymağından ve Z
 İsrael'in çocukları, Levililer'e otlaklarıyla birlikte o kentleri verdiler.
 Yahuda'nın çocukları oymağından, Şimon'un çocukları oymağından, Benyamin'in çocukları oymağından adlarıyla anılan şu kentleri kura ile verdiler.
 Kohatoğulları'nın bazı oymaklarının Efraim oymağından sınır kentleri vardı.
+Onlara sığınma kentleri verildi: Efraim dağlık bölgesindeki Şekem ile otlaklarını ve Gezer ile otlaklarını,
+Yokmeam ile otlaklarını ve Beyt Horon ile otlaklarını,
+Ayalon ile otlaklarını ve Gat Rimmon ile otlaklarını;
+Manaşşe'nin yarım oymağından da Aner ile otlaklarını, Bileam ile otlaklarını, Kohatoğulları boyunun geri kalanına verdiler.
+Manaşşe yarım oymağının Gerşomoğulları'na, Başan'daki Golan ile otlaklarını, Aştarot ile otlaklarını;
+İssakar oymağından Kedeş ile otlaklarını, Daverat ile otlaklarını,
+Ramot ile otlaklarını, Anem ile otlaklarını;
+Aşer oymağından Maşal ile otlaklarını, Avdon ile otlaklarını,
+Hukok ile otlaklarını, Rehov ile otlaklarını;
+Naftali oymağından Galile'deki Kedeş ile otlaklarını, Hammon ile otlaklarını, Kiriatayim ile otlaklarını verdiler.
+Merarioğulları'na, Levililer'in geri kalanına, Zevulun oymağından, Rimmon ile otlaklarını ve Tabor ile otlaklarını,
+Yarden'in ötesinde, Yeriha'da, Yarden'in doğusunda, Ruven oymağından, çölde Betser ile otlaklarını, Yahtsa ile otlaklarını,
+Kedemot ile otlaklarını Mefaat ile otlaklarını,
+Gad oymağından, Gilad'da Ramot ile otlaklarını, Mahanaim ile otlaklarını,
+Heşbon ile otlaklarını, Yatser ile otlaklarını verdiler.
 İssakaroğulları'ndan: Tola, Pua, Yaşuv ve Şimron, dört.
 Tolaoğulları: Uzzi, Refaya, Yeriel, Yahmay, İvsam ve Şemuel, ataları evlerinin başları, Tola'dan; kuşaklarından cesur yiğitler. David'in günlerinde onların sayıları yirmi iki bin altı yüzdü.
 Uzzi'nin oğlu: İzrahya. İzrahya'nın oğulları: Mikael, Ovadya, Yoel ve İşşiya, beş; hepsi de baş adamlardı.
@@ -10725,6 +10725,7 @@ Eliel, Oved ve Metsobalı Yaasiel.
 Bunlar, Kiş oğlu Saul'dan kaçmakta olan David'in yanına, Ziklag'a gelenlerdi. Onlar savaşta ona yardımcı olan yiğitler arasındaydılar.
 Yaylarla silahlanmışlardı ve hem sağ ellerini hem de sol ellerini kullanarak taş atabiliyor ve yaydan ok atabiliyorlardı. Bunlar Benyamin oymağından Saul'un akrabalarıydı.
 Baş Ahiezer'di, sonra Givalı Şemaah'ın oğulları Yoaş; Azmavet'in oğulları Yeziel ve Pelet; Beraka; Anatotlu Yehu;
+
 Otuzlar'dan bir yiğit olup ve Otuzlar'ın önderi olan Givonlu İşmaya; Yeremya; Yahaziel; Yohanan; Gederalı Yozavad;
 Eluzay; Yerimot; Bealya; Şemarya; Haruplu Şefatya;
 Korahlılar'dan Elkana, İşşiya, Azarel, Yoezer ve Yaşoveam;
@@ -10762,7 +10763,6 @@ Yarden'in öte yakasında, Ruvenliler'den, Gadlılar'dan ve Manaşşe'nin yarım
 Bunların hepsi savaş düzenini bilen savaşçılardı ve David'i bütün İsrael'in üzerine kral yapmak için Hevron'a tam bir yürekle geldiler; İsrael'in geri kalanı da David'i kral yapmak için tek yürekti.
 Onlar David'le birlikte üç gün orada kaldılar, yiyip içtiler; çünkü kardeşleri onlara erzak sağlamıştı.
 İssakar, Zevulun ve Naftali'ye varıncaya kadar onlara yakın olanlar da, eşekler, develer, katırlar ve öküzler üzerinde ekmek getirdiler; un, basılmış incir, kuru üzüm salkımları, şarap, yağ, bol miktarda sığır ve koyun getirdiler; çünkü İsrael'de sevinç vardı.
-
 David binlerin, yüzlerin başlarıyla ve her önderle danıştı.
 David bütün İsrael topluluğuna şöyle dedi: “Eğer size iyi görünüyorsa ve bu Tanrımız Yahve'den ise, İsrael diyarında kalan kardeşlerimize, otlakları olan kentlerinde kâhinlerle Levililer'in bulunduğu her yere haber gönderelim de yanımıza toplansınlar.
 Tanrımız'ın Sandığı'nı da geri getirelim. Çünkü Saul zamanında onu aramadık.”
@@ -11214,7 +11214,6 @@ Solomon savaş arabaları ve atlılar topladı. Bin dört yüz savaş arabası v
 Kral, Yeruşalem'de gümüşü ve altını taş kadar sıradan yaptı ve sedirleri ovadaki incir ağaçları kadar sıradan yaptı.
 Solomon'un atları Mısır'dan ve Keve'den getiriliyordu. Kralın tüccarları onları Keve'den satın alıyordu.
 Mısır'dan altı yüz gümüşe savaş arabası, yüz elli gümüşe at alıp getirirlerdi. Bunları Hitit krallarına ve Suriye krallarına da satıp gönderirlerdi.
-
 Solomon, Yahve'nin adına bir ev ve krallığı için bir ev yapmaya karar verdi.
 Solomon, yük taşımak için yetmiş bin adam, dağlarda taş kesmek için seksen bin adam ve onların başında üç bin altı yüz adam saydı.
 Solomon, Sur Kralı Huram'a haber gönderip şöyle dedi: “Babam David'e yaptığın ve kendisine oturacağı bir ev yapmak üzere sedir ağaçları gönderdiğin gibi, bana da öyle yap.
@@ -11232,6 +11231,7 @@ Dan kızlarından bir kadının oğludur, babası da Surlu bir adamdı; altın, 
 “Şimdi efendimin sözünü etmiş olduğu buğdayı, arpayı, yağı ve şarabı hizmetkârlarına göndersin.
 Biz de Lübnan'dan sana ihtiyacın olduğu kadar odun keselim. Bunları sana deniz yoluyla sallarda Yafa'ya kadar sana getirelim. Sen de Yeruşalem'e kadar çıkarırsın.”
 Solomon, babası David'in saydığı sayımdan sonra İsrael ülkesindeki bütün yabancıları saydı. Yüz elli üç bin altı yüz kişi bulundu.
+Onlardan yetmiş binini yük taşımaya, seksen binini dağlarda taş kesmeye, üç bin altı yüz kişiyi de halka işlerini tayin etmeye koydu.
 Solomon, Yahve'nin Yeruşalem'de babası David'e göründüğü Moria Dağı'nda, Yevuslu Ornan'ın harman yerinde David'in hazırlamış olduğu yerde, Yahve'nin evini yapmaya başladı.
 Krallığının dördüncü yılında, ikinci ayın ikinci gününde yapmaya başladı.
 Solomon'un Tanrı'nın evinin yapımı için koyduğu temeller şunlardır: Uzunluğu birinci ölçüye göre, altmış arşın, genişliği yirmi arşın.
@@ -11478,7 +11478,6 @@ Aviya Yerovam'ı kovaladı ve ondan şu kentleri aldı: Köyleriyle birlikte Bey
 Aviya'nın günlerinde Yerovam bir daha güçlenmedi. Yahve onu vurdu ve öldü.
 Ama Aviya güçlendi ve on dört kadınla evlendi, yirmi iki oğul ve on altı kız babası oldu.
 Aviya'nın diğer işleri, onun yolları ve sözleri Peygamber İddo'nun yorumunda yazılıdır.
-
 Böylece Aviya atalarıyla uyudu ve onu David'in kentinde gömdüler. Ve oğlu Asa onun yerine kral oldu. Onun günlerinde ülke on yıl sakin kaldı.
 Asa, Tanrısı Yahve'nin gözünde iyi ve doğru olanı yaptı.
 Çünkü yabancı sunakları ve yüksek yerleri kaldırdı, dikili taşları kırdı, Aşera direklerini kesti.
@@ -11493,6 +11492,7 @@ Asa Tanrısı Yahve'ye feryat edip şöyle dedi: “Yahve, güçlüyle güçsüz
 Böylece Yahve, Etiyopyalılar'ı Asa'nın ve Yahuda'nın önünde vurdu; ve Etiyopyalılar kaçtı.
 Asa ve onunla birlikte olan halk onları Gerar'a kadar kovaladı. Etiyopyalılar'ın çoğu düştü, kendilerini kurtaramadılar; çünkü Yahve'nin ve ordusunun önünde yok oldular. Yahuda ordusu çok ganimet götürdü.
 Gerar çevresindeki bütün kentleri vurdular, çünkü Yahve'nin korkusu üzerlerine geldi. Bütün kentleri yağmaladılar, çünkü içlerinde çok ganimet vardı.
+Sığırların çadırlarını da vurdular, çok sayıda koyun ve deveyi sürüp Yeruşalem'e döndüler.
 Tanrı'nın Ruhu Oded oğlu Azarya'nın üzerine geldi.
 Asa'yı karşılamaya çıktı ve ona, “Dinleyin beni, ey Asa ve bütün Yahuda ve Benyamin! Siz Yahve ile birlikte oldukça O sizinledir; eğer onu ararsanız, O sizin tarafınızdan bulunacaktır; ama eğer O'nu bırakırsanız, sizi bırakacaktır.
 İsrael uzun zamandır gerçek Tanrı'dan, öğreten kâhinden ve yasadan yoksundu.
@@ -12362,12 +12362,6 @@ Onlardan sonra, İmmer oğlu Sadok kendi evinin karşısını onardı. Ondan son
 Ondan sonra, Şelemya oğlu Hananya ve Zalaf'ın altıncı oğlu Hanun başka bir kısmı onardı. Ondan sonra, Berekya oğlu Meşullam odasının karşısını onardı.
 Ondan sonra, tapınak görevlilerinin ve tüccarların evinin kuyumcularından Malkiya, Hammifkad Kapısı'nın karşısına ve köşe çıkışına kadar olan kısmı onardı.
 Köşe yokuşu ile Koyun Kapısı arasını kuyumcular ve tüccarlar onardı.
-
-
-
-
-
-
 Ama Sanballat bizim duvarı yaptığımızı duyunca kızdı, çok öfkelendi ve Yahudiler'le alay etti.
 Kardeşlerinin ve Samariya ordusunun önünde konuşup, “Bu zayıf Yahudiler ne yapıyorlar? Kendilerini mi güçlendirecekler? Kurban mı kesecekler? Bir günde mi bitirecekler? Moloz yığınlarından taşları mı canlandıracaklar, çünkü onlar yandılar?” dedi.
 Ammonlu Toviya da yanındaydı ve, “Yaptıklarına, bir tilki bile tırmansa, taş duvarlarını yıkar” dedi.
@@ -12385,6 +12379,12 @@ Baktım, doğruldum ve ileri gelenlere, yöneticilere ve halkın geri kalanına,
 Düşmanlarımız, bunun bize bildirildiğini ve Tanrı'nın onların öğüdünü boşa çıkardığını duyunca, hepimiz duvara, her birimiz kendi işine döndük.
 O zamandan sonra hizmetkârlarımın yarısı işte çalıştı, yarısı da mızrakları, kalkanları, yayları ve zırhları tuttu. Yöneticiler ise Yahuda evinin arkasındaydı.
 Duvarları yapanlar ve yük taşıyanlar kendilerini yüklediler; herkes bir eliyle iş yapıyor, öbür eliyle de silahını tutuyordu.
+Yapıcılar arasında herkes kılıcını yanında taşıyordu ve böyle bina ediyordu. Boru çalan benim yanımdaydı.
+İleri gelenlere, yöneticilere ve halkın geri kalanına, “İş büyük ve geniş bir alana yayılmış durumda. Bizler duvar üzerinde ayrı, birbirimizden uzaktayız.” dedim.
+“Her nerede boru sesini duyarsanız, oraya, yanımıza toplanın. Tanrımız bizim için savaşacak.”
+Böyle çalışıyorduk. Halkın yarısı gün doğumundan yıldızlar görünene dek mızrakları tutuyordu.
+Aynı zamanda halka, “Herkes hizmetkârıyla birlikte Yeruşalem’de konaklasın ki, gece bize bekçilik etsinler, gündüz de çalışsınlar” dedim.
+Bu yüzden ne ben, ne kardeşlerim, ne hizmetkârlarım, ne de ardımdan gelen bekçiler giysilerimizi çıkarmazdık. Herkes suya silahıyla giderdi.
 O zaman halk ve karıları, kardeşleri Yahudiler'e karşı büyük bir feryat kopardılar.
 Çünkü aralarından, “Biz, oğullarımız ve kızlarımız çoğuz. Buğday alalım ki, yiyip sağ kalalım.” diyenler vardı.
 “Kıtlık nedeniyle buğday alalım diye tarlalarımızı, bağlarımızı ve evlerimizi rehine veriyoruz” diyenler de vardı.
@@ -12490,11 +12490,11 @@ Bunlar soy kütüklerini aradılar, ama bulamadılar. Bu yüzden yetkisiz kılı
 Vali onlara, Urim ve Tummim ile hizmet etmek üzere bir kâhin çıkana dek en kutsal şeylerden yememelerini söyledi.
 Topluluğun tamamı kırk iki bin üç yüz altmış kişiydi,
 ayrıca yedi bin üç yüz otuz yedi erkek hizmetçileri ve kadın hizmetçileri, onların erkek ve kadın iki yüz kırk beş ezgcisi vardı.
-Atları yedi yüz otuz altı, katırları iki yüz kırk beş,
-Develeri dört yüz otuz beş, eşekleri altı bin yedi yüz yirmiydi.
+Atları yedi yüz otuz altı, katırları iki yüz kırk beş, Develeri dört yüz otuz beş, eşekleri altı bin yedi yüz yirmiydi.
 Atalar evlerinin başları arasından bazıları işe katkıda bulundu. Vali hazineye bin darik altın, elli leğen ve beş yüz otuz kâhin giysisi verdi.
 Atalar evlerinin başlarından bazıları işin hazinesine yirmi bin darik altın ve iki bin iki yüz mina gümüş verdi.
 Halkın geri kalanının verdiği ise yirmi bin darik altın, iki bin mina gümüş ve altmış yedi kâhin giysisiydi.
+Böylece kâhinler, Levililer, kapı bekçileri, ezgiciler, halktan bazıları, tapınak hizmetkârları ve bütün İsrael kendi kentlerinde oturdular. Yedinci ay gelince İsrael'in çocukları kendi kentlerindeydiler.
 Bütün halk, Su Kapısı'nın önündeki geniş yere bir adammış gibi toplandılar; ve Yazıcı Ezra'ya, Yahve'nin İsrael'e buyurmuş olduğu Moşe'nin Yasa Kitabı'nı getirmesini söylediler.
 Yazıcı Ezra, yedinci ayın birinci günü, Yasa Kitabı'nı topluluğun, hem erkek hem de kadın, anlayıp işitebilen herkesin önüne getirdi.
 Su Kapısı'nın önündeki geniş yerden sabahın erken saatlerinden öğleye kadar, erkeklerin ve kadınların ve anlayabilenlerin önünde okudu. Bütün halkın kulakları Yasa Kitabı'na dikkat kesilmişti.
@@ -12550,6 +12550,7 @@ Krallarımız, beylerimiz, kâhinlerimiz ve babalarımız da senin yasanı tutma
 Çünkü onlar sana krallıklarında, onlara verdiğin büyük iyilikte ve önlerine koyduğun geniş ve verimli ülkede hizmet etmediler. Kötü işlerinden dönmediler.”
 “İşte, bugün biz hizmetçileriz ve atalarımıza meyvesini ve iyiliğini yemeleri için verdiğin ülkede, işte, biz onun üzerinde hizmetçileriz.
 Ülke günahlarımız yüzünden başımıza koyduğun krallara çok ürün veriyor. Bedenlerimiz ve hayvanlarımız üzerinde de istedikleri yetkiye sahipler ve biz büyük sıkıntı içindeyiz.
+Bütün bunlara rağmen, sağlam bir antlaşma yapıyoruz ve yazıyoruz; beylerimiz, Levililerimiz ve kâhinlerimiz de onu mühürlüyorlar.”
 Mühürleyenler şunlardı: Hakalya oğlu Vali Nehemya ve Sidkiya,
 Seraya, Azarya, Yeremya,
 Paşhur, Amarya, Malkiya,
@@ -12589,7 +12590,6 @@ yasada yazılı olduğu gibi oğullarımızın ve hayvanlarımızın ilk doğanl
 ve hamurumuzun ilk ürününü, sallamalık sunularımızı, her çeşit ağacın meyvesini, yeni şarabı ve yağı Tanrımız'ın evinin odalarına ve toprağımızın ondalığını Levililer'e getirelim diye biz, kâhinler, Levililer ve halk kuralar çektik; çünkü bütün çiftçi köylerimizde ondalıkları Levililer alırlar.
 Levililer ondalık alırken Aron soyundan gelen kâhin Levililer'le birlikte olacak. Levililer ondalıkların ondalığını Tanrımız'ın evine, odalara, hazine evine çıkaracaktır.
 Çünkü İsrael'in çocukları ve Levi'nin çocukları buğdayın, yeni şarabın ve yağın sallamalık sunusunu, kutsal yerin kaplarının ve hizmet eden kâhinlerin, kapı bekçileriyle ilahicilerin bulunduğu odalara getirecekler. Tanrımız'ın evini bırakmayacağız.
-
 Halkın beyleri Yeruşalem'de oturuyorlardı. Halkın geri kalanı da on kişiden birinin getirilip kutsal kent Yeruşalem'de, dokuzunun da öbür kentlerde oturması için kura çekti.
 Halk Yeruşalem'de oturmak için kendilerini gönüllü olarak sunan bütün adamları kutsadı.
 Yeruşalem'de yaşayan il başkanları şunlardır: Ama Yahuda kentlerinde İsrael, kâhinler, Levililer, tapınak hizmetkârları ve Solomon'un hizmetkârlarının oğulları, herkes kendi mülkünde yaşıyordu.
@@ -13890,14 +13890,6 @@ Nilüfer ağaçlarının altında, Kamışların örtüsünde, bataklıkta yatar
 Nilüferler onu gölgeleriyle örter, Derenin söğütleri onu çevreler.
 İşte, ırmak taşsa bile, o ürkmez. Arden onun ağzına kadar taşsa bile, o emindir.
 O gözetlerken biri onu tutar mı, Ya da tuzakla burnunu deler mi?
-
-
-
-
-
-
-
-
 “Levyatan’ı çengelle çekebilir misin, Ya da onun dilini bağla bastırabilir misin?
 Burnuna ip takabilir misin, Ya da çenesini kancayla delebilir misin?
 Sana çok yalvarır mı, Ya da sana tatlı sözler söyler mi?
@@ -13924,6 +13916,14 @@ Etinin katmerleri birbirine yapışmıştır. Üzerinde sabittirler. Kımıldat�
 Yüreği taş kadar serttir, Evet, değirmen taşının alt taşı gibi sert.
 O kendini kaldırdığında, güçlüler korkar. Onun dayağı karşısında geri çekilirler.
 Ona kılıçla saldıran olsa, galip gelemez; Ne mızrak, ne cirit, ne de kargı.
+Demiri saman, Tuncu da çürük odun sayar.
+Ok onu kaçıramaz. Sapan taşları ona saman çöpü gibidir.
+Topuzlar anız sayılır. Cirit atışlarına güler.
+Alt tarafları keskin çömlek parçaları gibidir, Harman döveni gibi çamurda iz bırakır.
+Derin suyu bir kazan gibi kaynatır. Denizi merhem kazanı gibi yapar.
+Ardından yolu parlatır. İnsan derinliğin ak saçlı olduğunu sanır.
+Yeryüzünde korkusuz olarak yaratılmış, Onun bir eşi benzeri yoktur.
+Yüksek olan her şeyi görür. O, bütün gurur oğulları üzerinde kraldır.”
 O zaman İyov Yahve'ye şöyle yanıt verdi:
 “Her şeyi yapabileceğini, Ve hiçbir amacının engellenemeyeceğini biliyorum.
 “Bilgisizce tasarıyı karartan bu adam kimdir?” diye sordun. Bu yüzden anlamadığımı, benim için çok şaşılası olan, Bilmediğim şeyleri söyledim.
@@ -13959,6 +13959,7 @@ Onları demir sopayla kıracaksın, Çömlekçi kabı gibi parçalayacaksın.”
 Ey krallar, şimdi akıllı olun. Ey dünya hâkimleri, ders alın.
 Yahve’ye korkuyla hizmet edin, Titreyerek sevinin.
 Oğul'a içtenlikle saygı gösterin ki öfkelenmesin, Yoksa yolunuzda mahvolursunuz. Çünkü hiddeti yakında alevlenecek. Ne mutlu O'na sığınanlara.
+
 Ey Yahve, düşmanlarım nasıl da çoğaldı! Bana karşı ayaklananlar çoktur.
 Canım için birçoğu, “Tanrı katında ona yardım yoktur” diyor. Selah.
 Ama sen, ey Yahve, çevremde kalkansın, Yüceliğim ve başımı yükselten sensin.
@@ -14049,7 +14050,6 @@ Kötüler Şeol'e döndürüleceklerdir. Tanrı’yı unutan tüm uluslar da…
 Çünkü yoksullar hep unutulmayacak, Mazlumun umudu sonsuza dek yok olmayacak.
 Kalk, ey Yahve! İnsan galip çıkmasın. Uluslar senin önünde yargılansın.
 Onları korkut, ey Yahve. Uluslar, yalnızca insan olduklarını bilsinler. Selah.
-
 Neden uzakta duruyorsun, ey Yahve? Sıkıntı zamanlarında neden kendini saklıyorsun?
 Kötüler kibirle mazlumları avlıyor. Mazlumlar kötülerin kurduğu tuzağa düşüyor.
 Çünkü kötü kişi yüreğindeki arzularla övünür. Açgözlüleri yüceltir ve Yahve’yi yerer.
@@ -14075,6 +14075,7 @@ Yahve kutsal tapınağındadır. Yahve gökte tahtındadır. O’nun gözleri ba
 Yahve doğru kişiyi sınar, Ama O'nun canı kötüden ve zorbalığı sevenden nefret eder.
 Kötülerin üzerine kızgın korlar yağdıracak; Ateş, kükürt ve kavurucu rüzgâr onların kâsesine düşen pay olacak.
 Çünkü Yahve doğrudur. Doğruluğu sever. Doğru kişi O’nun yüzünü görecek.
+
 Yardım et, ey Yahve, çünkü tanrısal kişi kalmadı. İnsanoğulları arasında sadık olanlar tükeniyor.
 Herkes komşusuna yalan söylüyor. Yaltaklanan dudaklarla, çift yürekle konuşuyorlar.
 Yahve tüm yaltaklanan dudakları, Ve övünen dilleri kessin.
@@ -14088,8 +14089,7 @@ Ne zamana dek, ey Yahve? Beni sonsuza dek mi unutacaksın? Yüzünü benden daha
 Her gün yüreğimde keder var, Ne zamana dek canımı teselli edeceğim? Ne zamana dek düşmanım bana karşı zafer kazanacak?
 Bak ve yanıt ver bana, ey Tanrım Yahve. Gözlerime ışık ver ki, ölüm uykusuna yatmayayım,
 Öyle ki, düşmanım, “Onu yendim” demesin, Düştüğümde düşmanlarım sevinmesin.
-Ama ben senin sevgi dolu iyiliğine güveniyorum. Yüreğim senin kurtuluşunla seviniyor.
-Yahve’ye ezgiler söyleyeceğim, Çünkü bana iyilik etti.
+Ama ben senin sevgi dolu iyiliğine güveniyorum. Yüreğim senin kurtuluşunla seviniyor. Yahve’ye ezgiler söyleyeceğim, Çünkü bana iyilik etti.
 Akılsız yüreğinde, “Tanrı yoktur” dedi. Yozlaştılar, İğrenç işler yaptılar. İyilik eden kimse yok.
 Anlayan, Tanrı’yı arayan birisi var mı diye, Yahve gökten insanoğullarına baktı,
 Hepsi saptı. Hepsi birlikte yozlaştılar. İyilik eden kimse yok, bir kişi bile yok.
@@ -14128,6 +14128,7 @@ Avına karşı doyumsuz bir aslan, Pusuya yatmış genç bir aslan gibi.
 Kalk, ey Yahve, onunla uğraş. Yere çal onu. Kılıcınla kurtar canımı kötülerden,
 Elinle insanlardan, ey Yahve, Payı bu yaşamda olan dünya insanlarından. Değer verdiklerinin karnını doyurursun. Oğulların bolluk içindedir, Onlar da çocukları için servet biriktirirler.
 Bana gelince, yüzünü doğrulukla göreceğim. Uyandığımda senin suretini görmeye doyacağım.
+
 Seni seviyorum, ey Yahve, gücüm sensin.
 Yahve benim kayam, kalem ve kurtarıcımdır, Tanrım, kayam, sığındığımdır, Kalkanım ve kurtuluşumun boynuzu, yüksek kulem.
 Övülmeye layık olan Yahve’yi çağırırım, Ve kurtulurum düşmanlarımdan.
@@ -14249,7 +14250,6 @@ Yeryüzünün dört bucağı bunu hatırlayıp Yahve’ye dönecek. Ulusların b
 Dünyanın bütün zenginleri yiyecek ve tapınacaklar. Toprağa inen herkes O’nun önünde eğilecek, Canını hayatta tutamayanlar bile.
 Gelecek kuşaklar O’na hizmet edecek. Sonraki kuşaklara Efendi anlatılacak.
 Gelip O'nun doğruluğunu henüz doğmamış halka bildirecekler. Çünkü bunu O yaptı.
-
 Yahve benim çobanımdır, Hiç eksiğim olmaz.
 Beni yeşil çayırlarda yatırır. Sakin suların kıyısına götürür.
 Canımı yeniler. Adı uğruna doğruluk yollarında bana rehberlik eder.
@@ -14334,6 +14334,7 @@ Yahve'nin sesi çölü sarsar. Yahve Kadeş Çölü’nü sarsar.
 Yahve’nin sesi geyikleri doğurtur, Ormanları çıplak bırakır. O’nun tapınağındaki her şey “Yücesin!” diyor.
 Yahve Tufan'da tahtına oturdu. Evet, Yahve sonsuza dek Kral olarak oturur.
 Yahve halkına güç verir. Yahve halkını esenlikle kutsar.
+
 Seni överim, ey Yahve, çünkü beni ayağa kaldırdın, Düşmanlarımı bana sevindirmedin.
 Ey Yahve Tanrım, sana seslendim, Ve bana şifa verdin.
 Ey Yahve, canımı Şeol'den çıkardın. Çukura inmeyeyim diye beni hayatta tuttun.
@@ -14371,7 +14372,6 @@ Yahve’ye övgüler olsun, Çünkü güçlü bir kentte Bana şaşılası sevgi
 Bana gelince, aceleyle, “Gözlerinin önünden atıldım” dedim. Yine de sana seslendiğimde dileklerimin sesini duydun.
 Yahve’yi sevin, ey O’nun kutsalları! Yahve sadıkları korur, Kibirli davrananlara tam karşılığını verir.
 Ey sizler, Yahve’ye umut bağlayanlar, hepiniz, Güçlü olun ve yüreğiniz cesaretli olsun.
-
 Ne mutlu itaatsizliği bağışlanmış, Günahı örtülmüş olan insana.
 Ne mutlu Yahve tarafından suçu sayılmayan, Ruhunda hile olmayan insana.
 Sustuğumda gün boyu inlemelerimden Kemiklerim eridi.
@@ -14405,6 +14405,7 @@ Böylece onları ölümden kurtarır, Kıtlık içinde onları yaşatır.
 Canımız Yahve’yi bekler. O bizim yardımımız ve kalkanımızdır.
 Yüreğimiz O’nda sevinç bulur, Çünkü biz O'nun kutsal adına güvendik.
 Madem umudumuz sende, Sevgi dolu iyiliğin üzerimizde olsun, ey Yahve!
+
 Yahve’yi her zaman öveceğim. O’nun övgüsü hep ağzımda olacak.
 Canım Yahve ile övünür. Alçakgönüllüler bunu duyup sevinsin.
 Yahve'yi benimle birlikte övün. Adını hep birlikte yüceltelim.
@@ -14427,7 +14428,6 @@ Doğrunun dertleri çoktur, Ama Yahve onu hepsinden kurtarır.
 Bütün kemiklerini korur. Onlardan hiçbiri kırılmaz.
 Kötüyü kötülük öldürür. Doğru kişiden nefret edenler mahkûm olurlar.
 Yahve hizmetkârının canını kurtarır. O’na sığınanların hiçbiri mahkûm olmaz.
-
 Ey Yahve, benimle çekişenlerle sen çekiş, Bana karşı savaşanlarla sen savaş.
 Küçük ve büyük kalkanı al, Yardımım için ayağa kalk.
 Mızrağı savur ve beni kovalayanları engelle. Canıma, “Senin kurtuluşun benim.” de.
@@ -14456,6 +14456,7 @@ Yüreklerinde, “Oh! Dileğimiz buydu, Onu yuttuk!” demesinler.
 Felaketime sevinenler, Hayal kırıklığına uğrayıp şaşkına dönsünler. Bana karşı kendilerini yüceltenler, Utanç ve rezilliğe bürünsünler.
 Haklı davamı destekleyenler, Sevinçle haykırıp coşsunlar. Sürekli şöyle desinler: “Hizmetkârının bolluk içinde olmasından hoşlanan Yahve yücelsin!”
 Dilim gün boyu senin doğruluğundan, Övgülerinden söz edecek.
+
 Kötünün itaatsizliği hakkında yüreğimde bir esin var: “Gözünde Tanrı korkusu yoktur.”
 Kendini beğendiği için, Günahını fark edemez ve ondan nefret etmez.
 Ağzının sözleri kötülük ve hiledir. Akıllı olmayı ve iyilik yapmayı bırakmıştır.
@@ -14468,7 +14469,6 @@ Evinin bolluğuyla bol bol doyacaklar. Senin zevklerinin ırmağından onlara i�
 Seni tanıyanlara sevgi dolu iyiliğini, Yüreği doğru olanlara karşı doğruluğunu sürdür.
 Gururlunun ayağının bana karşı gelmesine, Kötünün elinin beni kovmasına izin verme.
 Orada kötülük yapanlar düştü. Yıkıldılar ve kalkamazlar.
-
 Kötülük edenler yüzünden üzülme, Haksızlık yapanlara da özenme.
 Çünkü yakında ot gibi biçilecekler, Yeşil bitki gibi solup gidecekler.
 Yahve’ye güven ve iyilik et. Ülkede otur ve güvenli otlakların tadını çıkar.
@@ -14509,6 +14509,7 @@ Kusursuz adamın üzerine bir nişan koy, doğru adama bak, Çünkü gelecek ese
 İsyan edenlere gelince, onlar hep birlikte yok edilecekler. Kötülerin geleceği kesilip atılacaktır.
 Ama doğruların kurtuluşu Yahve'dendir. O, sıkıntı zamanlarında onların kalesidir.
 Yahve onlara yardım eder ve onları kurtarır. Onları kötülerin elinden kurtarıp özgür kılar, Çünkü O’na sığındılar.
+
 Ey Yahve, öfkenle beni azarlama, Gazapla beni yola getirme.
 Çünkü okların beni deldi, Elin üzerime ağır basıyor.
 Öfken yüzünden bedenime rahat yok, Günahımdan ötürü kemiklerimde de hiç sağlık kalmadı.
@@ -14589,12 +14590,12 @@ Yahve gündüz vakti Sevgi dolu iyiliğini buyurur. Gece vakti O’nun ezgisi, Y
 Kayam olan Tanrı'ya diyeceğim: “Beni neden unuttun? Düşmanın zulmü yüzünden neden yas tutuyorum?”
 Düşmanlarım kemiklerime saplanmış bir kılıç gibi, Hakaret ediyorlar, Bana sürekli “Tanrın nerede?” diye soruyorlar.
 Neden umutsuzsun, ey canım? Neden içim huzursuz? Tanrı’ya umut bağla! Çünkü yine de O’nu öveceğim, Yüzümün kurtuluşu ve Tanrım O’dur.
-
 Davamı gör, ey Tanrım, Tanrısız ulusa karşı davamı savun. Beni hileci ve kötü insanlardan kurtar.
 Çünkü sen benim gücümün Tanrısı’sın. Beni neden reddettin? Düşmanın zulmünden ötürü neden yas tutayım?
 Işığını ve gerçeğini gönder. Bana yol göstersinler. Beni kutsal dağına, çadırına götürsünler.
 O zaman Tanrı'nın sunağına, Büyük sevincim olan Tanrım'a gideceğim. Seni arpla öveceğim, Tanrım, Tanrım benim.
 Neden umutsuzluk içindesin, ey canım? Neden içim huzursuz? Tanrı’ya umut bağla! Çünkü yine O’nu öveceğim. Kurtarıcım, yardımcım, Tanrım benim.
+
 Kulaklarımızla duyduk, ey Tanrı, Atalarımız onların günlerinde, eski günlerde, Yaptığın işi bize anlattı.
 Ulusları elinle kovdun, Ama onları diktin. Halkları kırdın, Ama onları yaydın.
 Çünkü ülkeyi kendi kılıçlarıyla mülk edinmediler, Onları kurtaran kendi kolları da değildi. Ancak senin sağ elin, kolun ve yüzünün ışığıydı. Çünkü sen onları kayırdın.
@@ -14697,7 +14698,6 @@ Bir adam zengin olursa, Evinin görkemi artarsa korkma.
 Gerçi yaşarken canını kutsadıysa da - Kendin için iyilik ettiğinde insanlar seni överler -
 Atalarının nesline gidecektir. Işığı bir daha göremeyecekler.
 Anlayıştan yoksun zenginlik sahibi olan insan, Yok olup giden hayvanlara benzer.
-
 Kudretli Olan Tanrı, Yahve konuşuyor, Gün doğumundan gün batımına kadar yeryüzüne sesleniyor.
 Güzelliğin kusursuzluğu Siyon'dan, Tanrı parlıyor.
 Tanrımız geliyor ve susmuyor. Önününde ateş yiyip bitiriyor. Çevresi şiddetli fırtınayla kaplı.
@@ -14721,6 +14721,8 @@ Oturup kardeşinin aleyhinde konuşuyor, Kendi annenin oğluna iftira ediyorsun.
 Sen bunları yaptın, bense sustum. Beni de tıpkı kendin gibi mi sandın. Seni azarlıyor, gözlerinin önünde seni suçluyorum.”
 “Ey siz Tanrı’yı unutanlar, şimdi şunu iyi tartın, Yoksa sizi parçalarım, kurtaran kimse olmaz.
 Kim şükran kurbanını sunarsa beni yüceltir; Kendisine Tanrı’nın kurtuluşunu göstermem için yolunu hazırlamış olur.”
+
+
 Ey Tanrım, sevgi dolu iyiliğin uyarınca merhamet et bana. Sevecen merhametinin bolluğuna göre sil isyanlarımı.
 Beni suçumdan büsbütün yıka. Beni günahımdan temizle.
 Çünkü isyanlarımı biliyorum. Günahım sürekli karşımda.
@@ -14752,13 +14754,13 @@ Doğru kişi de bunu görüp korkacak, Ve ona gülüp şöyle diyecek:
 Ama ben Tanrı'nın evindeki yeşil zeytin ağacı gibiyim. Sonsuza dek Tanrı'nın sevgi dolu iyiliğine güvenirim.
 Yaptıkların için sonsuza dek sana şükredeceğim. Kutsallarının önünde senin adına umut bağlarım, Çünkü adın iyidir.
 
-
 Akılsız, yüreğinde “Tanrı yoktur” dedi. Yozlaştılar ve iğrenç şeyler yaptılar. İyilik eden kimse yok.
 Anlayan, Tanrı’yı arayan birinin olup olmadığını görmek için, Tanrı gökten insanoğullarına baktı.
 Hepsi geri döndü. Birlikte kirlendiler. İyilik eden kimse yok, bir kişi bile.
 Kötülük edenlerin bilgisi yok mu? Halkımı ekmek yer gibi yiyor, Tanrı'yı çağırmıyorlar.
 Korkunun olmadığı yerde çok korktular. Çünkü Tanrı sana karşı ordugâh kuranın kemiklerini dağıttı. Onları utandırdın, Çünkü Tanrı onları reddetti.
 Keşke İsrael'in kurtuluşu Siyon'dan gelseydi! Tanrı, halkını sürgünden geri getirince, Yakov sevinecek, İsrael coşacak.
+
 
 Ey Tanrı, adınla kurtar beni. Gücünle beni haklı çıkar.
 Ey Tanrı, duamı duy. Ağzımdan çıkan sözlere kulak ver.
@@ -14767,7 +14769,6 @@ Ey Tanrı, duamı duy. Ağzımdan çıkan sözlere kulak ver.
 Düşmanlarıma yaptıkları kötülüğün karşılığını verecektir. Onları kendi gerçeğinle yok et.
 Sana gönülden kurban sunacağım. Ey Yahve adına şükredeceğim, Çünkü adın iyidir.
 Çünkü beni her sıkıntıdan kurtardı. Gözüm düşmanlarıma karşı zaferi gördü.
-
 
 Ey Tanrı, duamı dinle. Yalvarışımdan kendini saklama.
 Dikkatini ver, yanıtla beni. Sıkıntı ve inilti içinde huzursuzum
@@ -14849,6 +14850,7 @@ Yiyecek bulmak için bir aşağı bir yukarı gezinsinler, Doymazlarsa bütün g
 Bense gücüne ezgiler söyleyeceğim. Evet, sabahları sevgi dolu iyiliğini yüksek sesle ezgiyle dile getireceğim. Çünkü sen benim yüksek kulem, Sıkıntılı günümde sığınağım oldun.
 Seni ilahilerle öveceğim, ey gücüm. Çünkü Tanrı benim yüksek kulemdir, merhametimin Tanrısı’dır.
 
+
 Ey Tanrı, bizi reddettin ve yıktın. Öfkelendin, Bizi eski halimize döndür.
 Ülkeyi salladın, yarıklar açtın Çatlaklarını düzle, Çünkü yer sarsılıyor.
 Halkına zor şeyler gösterdin. Bize sersemleten şarabı içirdin.
@@ -14861,7 +14863,6 @@ Kim beni surlu kente götürecek? Bana kim Edom'a kadar yol gösterecek?
 Ey Tanrı, sen bizi reddetmedin mi? Ordularımızla yola çıkmıyorsun, ey Tanrı.
 Düşmana karşı bize yardım et, Çünkü insanın yardımı boştur.
 Tanrı’yla yiğitlik ederiz, Çünkü düşmanlarımızı ezecek olan O’dur.
-
 
 Ey Tanrı, feryadımı duy, Duamı dinle.
 Yüreğim bunaldığında sana seslenirim Yeryüzünün öbür ucundan. Beni benden daha yüksek olan kayaya götür.
@@ -14921,7 +14922,6 @@ Saban yarıklarını bolca sular, Sırtlarını düzeltirsin. Yağmurlar yumuşa
 Yılı bolluğunla taçlandırırsın. Arabaların bereketle dolup taşar.
 Çöller yeşillikle taşar. Tepeler neşeye bürünür.
 Otlaklar sürülerle kaplanır. Vadiler de buğdayla örtünür. Sevinçle bağrışır, ezgi söylerler.
-
 Ey bütün yeryüzü, Tanrı’ya, sevinçle haykırın!
 Adının yüceliğine ilahi söyleyin! Görkem ve övgü sunun!
 “İşlerin ne muhteşemdir!” deyin Tanrı’ya, “Gücünün büyüklüğünden Düşmanların önünde boyun eğiyor.
@@ -14942,6 +14942,7 @@ Ağzımla O’na yakardım. Dilimle O övüldü.
 Günaha yüreğimde yer verseydim, Efendi dinlemezdi.
 Ama kesinlikle, Tanrı dinledi. Duamın sesini işitti.
 Duamı geri çevirmeyen, Sevgi dolu iyiliğini benden esirgemeyen Tanrı'ya övgüler olsun!
+
 Tanrı bize merhamet etsin ve bizi kutsasın, Yüzüyle üzerimize ışık saçtırsın. Selah.
 Öyle ki, yeryüzünde yolun, Bütün uluslar arasındaki kurtuluşun bilinsin.
 Halklar seni övsün, ey Tanrı. Bütün halklar seni övsün.
@@ -15028,7 +15029,6 @@ Canımı arayanlar Hayal kırıklığına uğrayıp Şaşkına dönsünler. Mahv
 Bana “Oh! Oh!” diyenler Utançlarından geri dönsünler.
 Bütün seni arayanlar Sende sevinip coşsunlar. Senin kurtarışını sevenler sürekli, “Tanrı yücelsin!” desinler.
 Bense yoksul ve muhtacım. Tez bana gel, ey Tanrı. Sensin benim yardımcım ve kurtarıcım. Geç kalma ey Yahve.
-
 Sana sığınıyorum, ey Yahve. Hayal kırıklığına uğratma beni hiçbir zaman.
 Beni kendi doğruluğunla kurtar, Bana yardım et. Kulak ver bana ve beni kurtar.
 Her zaman gidebileceğim Sığınacak kayam ol. Kurtulmam için buyruk ver, Çünkü kayam ve kalem sensin benim.
@@ -15124,6 +15124,7 @@ Antlaşmanı say, Çünkü yeryüzünün karanlık yerleri Zorbalık inleriyle d
 Ezilen utanç içinde geri dönmesin. Yoksul ve muhtaçlar senin adını yüceltsinler.
 Kalk, ey Tanrı! Kendi davanı savun. Akılsızın bütün gün seninle nasıl alay ettiğini hatırla.
 Düşmanlarının sesini unutma. Sana karşı ayaklananların patırtısı sürekli yükseliyor.
+
 Sana şükrederiz ey Tanrı. Şükrederiz, çünkü adın yakındır. İnsanlar senin şaşılası işlerini anlatırlar.
 Belirlenen vakti seçtiğimde, Kusursuzca ben yargılayacağım.
 Yeryüzünde oturanların tümü sarsılıyor. Onun direklerini sağlam bir şekilde ben tutuyorum. Selah.
@@ -15168,7 +15169,6 @@ Bulutlar suyunu boşalttı. Gökler gök gürültüsüyle ses verdi. Okların da
 Gürleyişinin sesi kasırgadaydı. Şimşekler dünyayı aydınlattı. Yer titredi ve sarsıldı.
 Senin yolun denizden geçiyordu; Yolların büyük sulardaydı. Ayak izlerin belli değildi.
 Moşe ve Aron’un eliyle, Halkını sürü gibi güttün.
-
 Öğrettiğime kulak verin, ey halkım. Ağzımdan çıkan sözlere kulaklarınızı çevirin.
 Ağzımı bir benzetmeyle açacağım. Eskilerin sırlarını söyleyeceğim,
 Onları işittik ve bildik, Atalarımız bize anlattı.
@@ -15254,6 +15254,7 @@ Uluslar neden “Nerede onların Tanrısı?” desin? Hizmetkârlarının dökü
 Tutsakların iniltisi senin önüne gelsin. Gücünün büyüklüğüne göre, ölüme mahkûm olanları koru.
 Komşularımıza sana ettikleri hakaretin aşağılanmasını, Onların bağrına yedi kat geri öde, ey Efendimiz.
 Böylece biz, senin halkın ve otlağının koyunları, Sana sonsuza dek şükredeceğiz. Tüm nesiller boyunca seni sonsuza dek öveceğiz.
+
 Duy bizi, ey İsrael’in Çobanı, Yosef'i sürü gibi güden, Keruvlar üzerinde oturan sensin, Saç ışığını.
 Efraim, Benyamin ve Manaşşe'nin önünde Uyandır gücünü! Gel ve kurtar bizi!
 Ey Tanrı, bizi döndür, Yüzün parlasın, Biz de kurtuluruz.
@@ -15290,7 +15291,6 @@ Keşke halkım beni dinleseydi, İsrael benim yollarımda yürüseydi!
 Düşmanlarını hemen boyun eğdirir, Elimi düşmanlarına karşı çevirirdim.
 Yahve'den nefret edenler O'nun önünde sinerdi, Onların cezası sonsuza dek sürerdi.
 Ve onu buğdayın en iyisiyle de beslerdim. Seni kayadan bal ile doyururdum.”
-
 Tanrı büyük toplantıyı yönetir. İlahlar arasında hükmeder.
 “Ne vakte kadar haksızca yargılayacak, Kötüden yana taraf tutacaksınız?” Selah.
 “Zayıfı, yoksulu ve öksüzü savunun. Yoksulun ve ezilenin hakkını koruyun.
@@ -15299,6 +15299,7 @@ Bilmiyorlar ve anlamıyorlar. Karanlıkta ileri geri yürüyorlar. Yeryüzünün
 “Sizler ilahlarsınız” dedim. “Hepiniz Yüceler Yücesi'nin oğullarısınız.
 Yine de insanlar gibi öleceksiniz, Hükümdarlardan biri gibi düşeceksiniz.”
 Kalk, ey Tanrı, yeryüzünü yargıla, Çünkü bütün ulusları sen miras alacaksın.
+
 Ey Tanrı, susma. Sessiz ve sakin kalma, ey Tanrı.
 Çünkü işte, düşmanların ayağa kalkıyor. Senden nefret edenler başlarını kaldırdılar.
 Halkına karşı kurnazca düzen kuruyorlar. Değer verdiğin insanlara karşı öğütleşiyorlar.
@@ -15344,7 +15345,6 @@ Merhamet ve gerçek buluştular. Doğruluk ve esenlik öpüştüler.
 Gerçek yerden bitecek. Doğruluk gökten aşağıya bakacak.
 Evet, Yahve iyi olanı verecek. Diyarımız, artarak ürün verecektir.
 Doğruluk O’nun önünden gidecektir, Adımlarına yol hazırlayacaktır.
-
 Duy, ey Yahve, yanıtla beni, Çünkü ben yoksul ve muhtacım.
 Canımı koru, çünkü ben tanrısal biriyim. Sen Tanrım, sana güvenen hizmetkârını kurtar.
 Bana merhamet et, ey Efendim, Çünkü bütün gün sana sesleniyorum.
@@ -15369,6 +15369,7 @@ Beni tanıyanlar arasında Rahav'ı ve Babil'i kaydedeceğim. İşte, Filist, Su
 Siyon için şöyle denecek: “Bu ve şu onda doğmuştur.” En Yüce Olan’ın kendisi onu pekiştirecektir.
 Yahve ulusları yazarken sayacak, “Bu orada doğmuştur.” Selah.
 Dans edenlerle şarkı söyleyenler şöyle diyecek: “Bütün kaynaklarım sendedir.”
+
 Ey Yahve, kurtuluşumun Tanrısı, Gündüz ve gece senin önünde yakardım.
 Duam senin önüne gelsin. Yakarışıma kulağını eğ.
 Çünkü canım sıkıntılarla dolu. Hayatım Şeol'e yaklaştı.
@@ -15440,7 +15441,6 @@ Ey Efendim, nerede o eski sevgi dolu iyiliğin, Sadakatinle David’e ant içtti
 Unutma, ey Efendi, hizmetkârının aşağılanmasını, Bütün güçlü halkların alaylarını nasıl bağrımda taşıdığımı,
 Düşmanların onunla alay ettiler, ey Yahve, Meshettiğinin ayak izleriyle alay ettiler.
 Sonsuza dek övgüler olsun Yahve’ye. Amin ve Amin.
-
 Ey Efendi, bütün kuşaklar boyunca Sen bizim meskenimiz oldun.
 Dağlar doğmadan önce, Sen yeryüzünü ve dünyayı yaratmadan önce, Öncesizlikten sonsuza dek, Tanrı sensin.
 İnsanı yıkıp şöyle dersin: “Geri dönün, insanoğulları.”
@@ -15474,6 +15474,7 @@ Aslanın ve kobranın üzerine basacaksın. Genç aslanı ve yılanı ayakların
 “Sevgisini bana bağladığı için onu kurtaracağım. Adımı bildiği için onu yücelteceğim.
 Beni çağıracak, ben de ona yanıt vereceğim. Sıkıntıda onun yanında olacağım. Onu kurtaracak ve yücelteceğim.
 Onu uzun ömürle doyuracağım, Ona kurtarışımı göstereceğim.”
+
 Yahve’ye şükretmek, Ey Yüceler Yücesi, adını ilahilerle övmek,
 Sabahları sevgi dolu iyiliğini, Her gece sadakatini,
 On telli sazla, arpla, Lirin ezgisiyle duyurmak ne iyidir.
@@ -15489,7 +15490,6 @@ Doğrular palmiye ağacı gibi serpilip gelişecektir. Lübnan'daki sedir ağac�
 Onlar Yahve’nin evine dikilmişlerdir. Tanrımız’ın avlularında serpilip gelişeceklerdir.
 Onlar yaşlılıklarında da meyve verecekler. Taze ve yemyeşil olacaklar,
 Ta ki, Yahve’nin doğru olduğunu göstersinler. O benim kayamdır, Ve O’nda hiç haksızlık bulunmaz.
-
 Yahve hüküm sürüyor! İhtişamla kuşanmış! Yahve kudretle donanmış. Dünya da pekiştirilmiş, sarsılmaz.
 Tahtın eskiden beri kurulmuştur. Sen sonsuzluktansın.
 Seller yükseldi, ey Yahve, Seller sesini yükseltti. Seller, dalgalarını yükseltti.
@@ -15585,6 +15585,7 @@ Komşusuna gizlice kara çalanı sustururum. Katlanamam küstah ve kibirli insan
 Gözlerim ülkedeki sadıkların üzerinde olacak, Ta ki, benimle otursunlar. Kusursuzca yürüyen kişi, Bana hizmet edecek.
 Hileci kişi evimde oturmayacak. Yalan söyleyen, gözümün önünde durmayacak.
 Her sabah ülkedeki bütün kötüleri yok edeceğim, Yahve’nin kentinden kötülüğün tüm işçilerini kesip atacağım.
+
 Duamı duy, ey Yahve! Feryadım sana ulaşsın.
 Sıkıntılı günümde yüzünü benden saklama. Kulağını bana çevir. Çağırdığım gün bana hemen yanıt ver.
 Çünkü günlerim duman gibi tükeniyor. Kemiklerim meşale gibi yanıyor.
@@ -15613,7 +15614,6 @@ Yeryüzünün temelini eskiden sen attın. Gökler senin ellerinin işidir.
 Onlar yok olacak, ama sen duracaksın. Evet, hepsi bir giysi gibi eskiyecek. Onları bir kaftan gibi değiştireceksin, onlar da değişecek.
 Ama sen aynısın. Yıllarının sonu yoktur.
 Hizmetkârlarının çocukları devam edecek. Onların soyu senin önünde sağlamlaştırılacak.”
-
 Yahve’yi öv, ey canım! İçimde var olan her şey, O’nun kutsal adını övsün!
 Yahve’yi öv, ey canım, İyiliklerinin hiçbirini unutma.
 Bütün günahlarını bağışlayan, Bütün hastalıklarını iyileştiren,
@@ -15807,6 +15807,7 @@ Beylere hakaret yağdırır, Yolsuz çorak bir yerde onları dolaştırır.
 Yine de yoksulları sıkıntılarından kurtarır, Ailelerini sürü gibi çoğaltır.
 Doğrular bunu görecek ve sevinecek. Bütün kötüler ağzını kapayacak.
 Bilge olan bunlara dikkat etsin. Yahve’nin sevgi dolu iyiliklerini düşünsün.
+
 Yüreğim kararlıdır, ey Tanrı. Ezgi söyleyecek, canımla müzik yapacağım.
 Uyan, ey arp ve lir! Şafağı ben uyandırayım.
 Uluslar arasında sana şükürler sunayım, ey Yahve. Halkların arasında seni ilahilerle öveyim.
@@ -15820,7 +15821,6 @@ Kim beni surlu kente götürecek? Bana kim Edom'a kadar yol gösterecek?
 Ey Tanrı, sen bizi reddetmedin mi? Ordularımızla yola çıkmıyorsun, ey Tanrı.
 Düşmana karşı bize yardım et, Çünkü insanın yardımı boştur.
 Tanrı’yla yiğitlik ederiz, Çünkü düşmanlarımızı ezecek olan O’dur.
-
 Ey övgülerimin Tanrısı, sessiz kalma,
 Çünkü kötünün ağzını, hilekâr ağzını bana karşı açtılar. Benimle yalancı bir dille konuştular.
 Nefret dolu sözlerle çevremi sarıp, Nedensiz yere bana karşı savaştılar.
@@ -16329,6 +16329,7 @@ Ey Yahve, senden nefret edenlerden nefret etmez miyim? Sana karşı ayaklananlar
 Onlardan katıksızca nefret ederim. Onlar benim düşmanım oldular.
 Beni yokla, ey Tanrı, yüreğimi bil. Beni dene ve düşüncelerimi öğren.
 Bak, içimde kötü bir yol var mı, Sonsuzluk yolunda bana öncülük et.
+
 Ey Yahve, kurtar beni kötü insanlardan. Koru beni zalimden.
 Onlar, yüreklerinde kötülük tasarlar, Sürekli savaş için toplanırlar.
 Dillerini yılan gibi keskinleştirdiler. Engerek zehri dudaklarının altındadır. Selah.
@@ -16342,7 +16343,6 @@ Beni kuşatanların başına gelince, Kendi dudaklarının kötülüğü onları
 Kötülük konuşan yeryüzünde tutunamasın. Kötülük, zalimi yıkmak için onu avlasın.
 Bilirim ki, Yahve dertlinin davasına bakar, Muhtacı haklı çıkarır.
 Gerçekten doğrular senin adına şükredecekler. Doğrular senin huzurunda oturur.
-
 Ey Yahve, seni çağırdım. Bana tez gel! Seni çağırdığımda sesimi dinle.
 Duam buhur gibi, El kaldırışım akşam kurbanı gibi Senin önünde dursun.
 Ey Yahve, ağzıma bekçi koy. Dudaklarımın kapısını koru.
@@ -16353,6 +16353,7 @@ Onların yargıçları kayanın yanına atıldı. Sözlerimi duyacaklar, Çünk�
 Çünkü gözlerim senin üzerinde, Ey Efendimiz Yahve. Sana sığınıyorum. Canımı yoksul bırakma.
 Bana kurdukları tuzaktan, Kötülük işçilerinin kapanlarından koru beni.
 Ben geçip giderken, Kötüler hep birlikte kendi ağlarına düşsünler.
+
 Sesimle Yahve'ye yakarıyorum. Sesimle Yahve'den merhamet diliyorum.
 Yakınmamı O’nun önünde döküyorum. O’na dertlerimi anlatıyorum.
 Ruhum içimde bunaldığında, Sen yolumu bilirsin. Yürüdüğüm yolda, Bana tuzak kurdular.
@@ -16360,7 +16361,6 @@ Sağıma bak da gör, Çünkü beni düşünen kimse yok. Sığınacak yer bende
 Sana feryat ettim, ey Yahve. “Sen benim sığınağımsın” dedim. “Yaşayanlar diyarından benim payımsın.”
 Feryadımı dinle, Çünkü çok çaresizim. Kurtar beni bana zulmedenlerden, Çünkü onlar benden güçlüdür.
 Canımı zindandan çıkar da, Adına şükredeyim. Doğrular çevremi saracak, Çünkü bana iyilik edeceksin.
-
 Duamı duy, ey Yahve. Dileklerimi dinle. Sadakatin ve doğruluğunla beni rahatlat.
 Hizmetkârınla yargıya girme, Çünkü senin önünde Yaşayanlardan hiçbiri doğru değildir.
 Çünkü düşman canımın peşinde. Hayatımı yerle bir etti. Çoktan ölmüş olanlar gibi Beni karanlık yerlerde yaşattı.
@@ -17465,7 +17465,6 @@ Yoksul ve akıllı bir genç, artık öğüt almayı bilmeyen yaşlı ve akıls�
 Çünkü hapisten kral olmak için çıktı; evet, kendi krallığında bile yoksul doğmuştu.
 Güneşin altında yürüyen bütün yaşayanları gördüm, onun yerine geçen öteki gençle birlikteydiler.
 Bütün halkın, üzerinde olduğu bütün insanların sonu yoktu; ama ondan sonra gelenler onda sevinç duymayacaklardır. Gerçi bu da boş ve rüzgârı kovalamaktır.
-
 Tanrı'nın evine gittiğinde adımlarına dikkat et; çünkü dinlemek için yaklaşmak, akılsızların kurbanını vermekten daha iyidir, çünkü onlar kötülük yaptıklarını bilmezler.
 Ağzınla acele etme, yüreğin Tanrı'nın önünde bir şey söylemek için acele etmesin; çünkü Tanrı göklerde, sen ise yerdesin. Bu yüzden sözlerin az olsun.
 Çünkü bir rüyanın çok kaygıyla gelmesi gibi, aptalın konuşması da çok sözle gelir.
@@ -17485,6 +17484,7 @@ Bu da ağır bir kötülüktür, her halde nasıl geldi ise, öyle gidecektir. R
 Bütün günlerinde karanlıkta yer, bitkin düşer, hastalanır ve öfkelenir.
 İşte, iyi ve uygun gördüğüm şey, Tanrı'nın kendisine verdiği ömrünün bütün günlerinde insanın yemesi, içmesi ve güneşin altında çalıştığı bütün emeğinde, iyiliğin tadını çıkarmasıdır; çünkü bu onun payıdır.
 Tanrı'nın kendisine zenginlik ve servet verdiği, ondan yemesi, payını alması ve emeğinden sevinç duyması için ona güç verdiği her adam için de Tanrı'nın armağanı budur.
+Çünkü Tanrı onu yüreğinin sevinciyle meşgul ettiği için, yaşamının günlerini pek düşünmez.
 Güneşin altında gördüğüm bir kötülük var, insanlara da ağır geliyor:
 Tanrı'nın kendisine zenginlik, servet ve saygınlık verdiği, böylece canının arzuladığı hiçbir şeyden yoksun kalmadığı, ancak Tanrı'nın ona yemesi için bir güç vermediği ve onu bir yabancının yediği bir adam. Bu boş ve kötü bir hastalıktır.
 Bir adam yüz çocuk babası olsa da, uzun yıllar yaşasa da, yıllarının günleri çok olsa da, ama canı iyiliğe doymamışsa ve dahası gömülmemişse, derim ki, ölü doğmuş bir çocuk ondan iyidir;
@@ -17694,6 +17694,7 @@ Kusursuz güvercinim, eşsizdir. Annesinin biricik kızıdır. Kendisini doğura
 Görünüşü sabah gibi, Ay kadar güzel, güneş kadar parlak, Ve sancak açmış ordu kadar muhteşem olan bu kadın kimdir?
 Vadinin yeşil fidanlarını görmek, Asma tomurcuklandı mı, narlar çiçek açtı mı diye görmek için, Ceviz bahçesine indim.
 Farkına varmadan, Arzum beni soylu halkımın arabalarıyla oturttu.
+Geri dön, geri dön, ey Şulamlı! Geri dön, geri dön de sana bakalım. Neden Şulamlı'ya, Mahanaim dansına bakar gibi bakmak istiyorsun?
 Sandaletler içinde ayakların ne güzel, ey bey kızı! Yuvarlak kalçaların mücevher gibi, Usta ellerinin işi.
 Vücudun yuvarlak bir kadeh gibi, Karışık şaraptan yoksun değil. Belin zambaklarla süslenmiş bir buğday yığını gibi.
 İki memen sanki bir çift geyik vayrusu, İkiz ceylan yavrusu.
@@ -17707,7 +17708,6 @@ Ben sevgiliminim. Onun arzusu banadır.
 Gel, sevgilim! Kıra çıkalım. Köylerde geceleyelim.
 Sabahleyin erkenden bağlara çıkalım. Asma tomurcuk verdi mi, Çiçeği açtı mı, Narlar çiçeklendi mi görelim. Orada sana sevgimi vereceğim.
 Adamotları hoş koku saçıyor. Kapılarımızın önünde Taze ve kuru her çeşit değerli meyve var, Onları senin için sakladım, ey sevgilim.
-
 Ah, keşke sen annemin memelerinden süt emmiş kardeşim gibi olsaydın! Seni dışarıda bulsam, öperdim; Kimse de beni kınamazdı.
 Sana yol gösterir, Beni eğiten annemin evine götürürdüm. Sana baharatlı şaraptan, Narımın suyundan içirirdim.
 Sol eli başımın altında olurdu. Sağ eli beni kucaklardı.
@@ -17897,7 +17897,6 @@ Size, “Fısıldayan ve mırıldanan ruh çağıranlara ve büyücülere danı�
 Yasaya ve antlaşmaya dönün! Eğer bu söze göre konuşmazlarsa, kesinlikle onlar için sabah olmaz.
 İçinden çok sıkıntılı ve aç olarak geçecekler. Öyle olacak ki, acıktıklarında kaygı çekecekler, krallarına ve Tanrıları'na lanet edecekler. Yüzlerini yukarıya çevirecekler,
 sonra yeryüzüne bakacaklar ve sıkıntıyı, karanlığı ve ızdırap kasvetini görecekler. Koyu karanlığın içine sürülecekler.
-
 Ama acı çekmiş olana artık kasvet olmayacak. Eskiden Zevulun ülkesini ve Naftali ülkesini alçaltmıştı; ama son zamanda, deniz yolunda, Yarden'in ötesinde, ulusların Galilesi'ni görkemli kıldı.
 Karanlıkta yürüyen halk büyük bir ışık gördü. Ölüm gölgesi diyarında yaşayanların üzerine ışık parladı.
 Ulusu çoğalttın. Sevincini artırdın. İnsanlar ganimet paylaştıklarında nasıl sevinirlerse, onlar da senin önünde, hasattaki sevince göre sevinirler.
@@ -17918,6 +17917,7 @@ Bu nedenle Efendi onların gençleri için sevinmeyecek, Onların yetimlerine ve
 Çünkü kötülük ateş gibi yakar. Çalıları ve dikenleri yiyip bitirir; Evet, ormanın sık yerlerini tutuşturur, Bir duman sütununda buram buram yükselir.
 Ordular Yahvesi'nin gazabıyla ülke yandı; Halk da ateş için yakıttır. Kimse kardeşini esirgemiyor.
 Biri sağ tarafta yalayıp yutacak ve aç kalacak; Sol taraftan yiyecek, onlar da doymayacaklar. Herkes kendi kolunun etini yiyecek;
+Manaşşe Efraim'i, Efraim Manaşşe'yi yiyecek; Onlar ikisi birlikte Yahuda'ya karşı olacaklar. Bütün bunlara rağmen öfkesi geri dönmedi, ama eli hâlâ uzanmış duruyor.
 Yoksulları adaletten yoksun bırakmak ve halkım arasındaki yoksulların haklarını gasp etmek; dul kadınları kendileri için yağmalamak ve öksüzleri kendilerine av yapmak için,
 haksız hükümler buyuranların ve ağır hükümler çıkaran yazıcıların vay haline!
 Yoklama gününde ve uzaklardan gelecek ıssızlıkta ne yapacaksınız? Yardım için kime kaçacaksınız? Servetinizi nereye bırakacaksınız?
@@ -18953,8 +18953,7 @@ Gökten aşağı bak Ve kutsallığının ve görkeminin konutundan gör. Gayret
 Ey Yahve, neden bizi yollarından saptırıyorsun Yüreğimizi de korkundan katılaştırıyorsun? Hizmetkârların uğruna, mirasının oymakları uğruna geri dön.
 Kutsal halkın onu kısa bir süre için mülk edindi. Düşmanlarımız senin kutsal yerini çiğnediler.
 Hiçbir zaman üzerlerinde hüküm sürmediğin, Adınla çağrılmamış olanlar gibi olduk.
-Ah, keşke gökleri yarıp insen de, Dağlar senin huzurunda sarsılsalar;
-ateşin çalıyı tutuşturduğu gibi, Ateşin suyu kaynattığı gibi. Adını düşmanlarına duyur ki, Uluslar senin huzurunda titresinler!
+Ah, keşke gökleri yarıp insen de, Dağlar senin huzurunda sarsılsalar; ateşin çalıyı tutuşturduğu gibi, Ateşin suyu kaynattığı gibi. Adını düşmanlarına duyur ki, Uluslar senin huzurunda titresinler!
 Beklemediğimiz korkunç şeyler yaptığın zaman indin, Dağlar da senin huzurunda sarsıldı.
 Çünkü eskiden beri insanlar duymadı, Kulak kavramadı, Göz de senden başka bir Tanrı görmedi, O Tanrı ki, kendisini bekleyen için işler.
 Sevinen ve doğru şeyler yapan kişiyi, Senin yollarında seni hatırlayanları karşılarsın. İşte, öfkelendin, biz de günah işledik. Uzun zamandır günah içindeyiz. Kurtulacak mıyız biz?
@@ -18964,6 +18963,7 @@ Ama şimdi, ey Yahve, sen bizim Babamız'sın. Biz balçığız, sen de çömlek
 Öfkelenme, ey Yahve. Kötülüğü sonsuza dek anma. Bak ve gör, sana yalvarıyoruz, Biz hepimiz senin halkınız.
 Kutsal kentlerin çöl oldu. Siyon çöl oldu, Yeruşalem ıssız.
 Atalarımızın seni övdüğü kutsal ve güzel evimiz Ateşle yakıldı. Bütün güzel yerlerimiz harap oldu.
+Bunlar böyleyken kendini geri mi çekeceksin, ey Yahve? Sessiz kalıp bizi ağır bir şekilde cezalandıracak mısın?
 “Beni sormayanlar tarafından soruldum. Beni aramayanlar tarafından bulundum. Adımla çağırılmayan bir ulusa, ‘Beni görün, beni görün’ dedim.
 Ellerimi bütün gün, Kendi düşünceleri ardınca, iyi olmayan bir yolda yürüyen Asi bir halka uzattım.
 Bahçelerde kurban keserek, Tuğlalarda buhur yakarak Sürekli yüzüme karşı beni kışkırtan;
@@ -19242,7 +19242,6 @@ Ah kedere karşı kendimi teselli edebilseydim! Yüreğim içimde baygın.
 “Hasat geçti. Yaz bitti ve kurtulmadık.”
 Halkımın kızının yarasından yaralandım. Yas tutuyorum. Dehşet beni yakaladı.
 Gilad'da merhem yok mu? Orada hekim yok mu? Öyleyse halkımın kızı neden iyileşmedi?
-
 Keşke, başım sular, Gözlerim gözyaşı pınarı olsa da, Halkımın kızının öldürülmüş olanları için Gece gündüz ağlasam!
 Keşke çölde konaklayacak bir yerim olsaydı da, Halkımı bırakıp da yanlarından gitsem! Çünkü hepsi zina edici, Hain bir topluluk.
 “Dillerini yaylarıymış gibi yalana eğiyorlar. Ülkede güçlendiler, ama gerçek için değil; Çünkü kötülükten kötülüğe gidiyorlar, Ve beni bilmiyorlar,” diyor Yahve.
@@ -19268,6 +19267,7 @@ Söyle, “Yahve şöyle diyor, ‘İnsanların cesetleri açık kır üzerinde 
 Yahve şöyle diyor, “Bilge adam bilgeliğiyle övünmesin. Güçlü adam gücüyle övünmesin. Zengin adam zenginliğiyle övünmesin.
 Ama övünen bununla övünsün, Anlayışa sahip olmakla, Ve yeryüzünde sevgi dolu iyilik, adalet ve doğruluk yapanın Ben Yahve olduğumu bilmekle övünsün, Çünkü ben bunlardan hoşlanırım,” diyor Yahve.
 “İşte, günler geliyor” diyor Yahve, “yalnız bedenen sünnetli olanların hepsini cezalandıracağım:
+Mısır'ı, Yahuda'yı, Edom'u, Ammon'un çocuklarını, Moav'ı ve çölde oturan saçlarının köşeleri kesilmiş olanların hepsini. Çünkü bütün uluslar sünnetsizdir ve bütün İsrael evi yürekte sünnetsizdir.”
 Ey İsrael evi, Yahve'nin size söylediği sözü dinleyin!
 Yahve şöyle diyor: “Ulusların yolunu öğrenmeyin, Gökyüzü belirtilerinden korkmayın; Çünkü uluslar onlardan korkar.
 Çünkü halkların gelenekleri boştur; Çünkü biri ormandan bir ağaç keser, Baltayla usta eli işidir.
@@ -21007,6 +21007,11 @@ Sizi İsrael ülkesine, atalarınıza vermeye ant içmiş olduğum ülkeye getir
 Orada yollarınızı ve kendinizi kirlettiğiniz bütün işlerinizi hatırlayacaksınız. O zaman yapmış olduğunuz bütün kötülükler yüzünden kendi gözünüzde kendinizden tiksineceksiniz.
 Ey İsrael evi, kötü yollarınıza, ya da bozuk işlerinize göre değil, ancak kendi adım uğruna ben size böyle davrandığım zaman, benim Yahve olduğumu bileceksiniz,” diyor Efendi Yahve.
 Yahve'nin sözü bana geldi ve şöyle dedi:
+“Ey insanoğlu, yüzünü güneye çevir, güneye doğru duyur, güneydeki kır ormanına karşı peygamberlik et.
+Güney ormanına de, “Yahve'nin sözünü dinle: Efendi Yahve şöyle diyor, “İşte, ben senin içinde bir ateş tutuşturacağım, içinde bulunan her yeşil ağacı ve her kuru ağacı yiyip bitirecek. Yanan alev sönmeyecek, güneyden kuzeye kadar bütün yüzler onunla yanacak.
+Bütün insanlar, ben Yahve'nin onu tutuşturduğunu görecek. O sönmeyecek
+O zaman şöyle dedim, “Ah, ey Efendi Yahve! Benim için, ‘Benzetmeler konuşan adam bu değil mi?’ diyorlar.”
+Yahve'nin sözü bana geldi ve şöyle dedi:
 “Ey insanoğlu, yüzünü Yeruşalem'e çevir, kutsal yerlere doğru duyur, İsrael ülkesine karşı peygamberlik et.
 İsrael ülkesine de, ‘Yahve şöyle diyor: İşte, sana karşıyım, kılıcımı kınından çıkaracağım, doğruyu da kötüyü de senden kesip atacağım.
 Şimdi, doğruyu ve kötüyü senden kesip atacağım için, bu yüzden kılıcım güneyden kuzeye kadar bütün insanlara karşı kınından çıkacak.
@@ -21038,11 +21043,6 @@ Sana yalan görümler görürken, Sana yalan falcılık ederken, Ta ki, seni ağ
 Onu kınına geri koy. Yaratıldığın yerde, Doğduğun ülkede seni yargılayacağım.
 Üzerine öfkemi dökeceğim. Gazabımın ateşini üzerine üfleyeceğim. Seni yok etmekte usta olan vahşi adamların eline teslim edeceğim.
 Ateşe yakıt olacaksın. Kanın memleketin ortasında olacak. Bir daha harırlanmayacaksın; Çünkü bunu ben, Yahve, söyledim.”
-
-
-
-
-
 Ve Yahve'nin sözü bana geldi ve şöyle dedi,
 “Sen, ey insanoğlu, yargılayacak mısın? Kanlı kenti yargılayacak mısın? Öyleyse ona bütün iğrençliklerini bildir.
 Söyle, ‘Efendi Yahve şöyle diyor: Zamanı gelsin diye, kendi içinde kan döken kent ve kendisini kirletmek için kendisine karşı putlar yapan kent!
@@ -21904,9 +21904,6 @@ Yerel valiler, vekiller, valiler ve kralın danışmanları bir araya toplanmı�
 Nebukadnetsar söyleyip dedi: “Şadrak, Meşak ve Abednego’nun Tanrısı övülsün. O, meleğini gönderip kendisine güvenen hizmetkârlarını kurtardı. Kralın sözünü değiştirdiler ve kendi Tanrıları'ndan başka bir ilâha hizmet etmemek ve tapmamak için kendi bedenlerini verdiler.
 Bu nedenle, Şadrak, Meşak ve Abednego’nun Tanrısı’na karşı kötü söz söyleyen her halkın, ulusun ve dilin parçalanması ve evlerinin çöplüğe çevrilmesi için buyruk çıkarıyorum. Çünkü böyle kurtarabilen başka bir ilâh yoktur.”
 O zaman kral, Şadrak, Meşak ve Abednego’yu Babil eyaletinde yükseltti.
-
-
-
 Kral Nebukadnetsar, yeryüzünde oturan bütün halklara, uluslara ve dillere: Esenliğiniz çok olsun.
 Yüce Tanrı'nın benim için yapmış olduğu Belirtileri ve harikaları göstermek bana iyi göründü.
 Belirtileri ne büyüktür! Harikaları ne güçlüdür! Krallığı sonsuz bir krallıktır. Hakimiyeti kuşaktan kuşağa sürer.
@@ -21941,6 +21938,9 @@ Söz daha kralın ağzındayken gökyüzünden bir ses geldi ve şöyle dedi: �
 İnsanlar arasından kovulacaksın ve kırın hayvanlarıyla birlikte oturacaksın, öküz gibi ot yedirecekler; Yüce Olan’ın insanların krallığı üzerinde hüküm sürdüğünü ve onu dilediğine verdiğini anlayana dek, senin üzerinden yedi vakit geçecek.'”
 Bu şey aynı saatte Nebukadnetsar üzerinde, hemen yerine geldi. İnsanlar arasından kovuldu ve öküz gibi ot yedi; saçları kartal tüyleri gibi, tırnakları kuşların pençeleri gibi uzayana dek bedeni gökyüzünün çiyiyle ıslandı.
 O günlerin sonunda, ben, Nebukadnetsar, gözlerimi göğe kaldırdım ve anlayışım bana geri döndü; ve Yüce Olan'ı övdüm ve sonsuza dek yaşayanı övüp onurlandırdım, Çünkü O'nun hakimiyeti sonsuz bir hakimiyettir, Ve krallığı kuşaktan kuşağa sürer.
+Yeryüzünün bütün sakinleri bir hiç olarak anılır; Ve O, gök ordusunda ve yeryüzünün sakinleri arasında dilediğine göre yapar; Ve kimse O'nun elini durduramaz, Ya da O'na, “Ne yapıyorsun?” diye soramaz.
+Aynı zamanda anlayışım bana geri döndü; ve krallığımın görkemi için, heybetim ve ihtişamım bana geri döndü. Danışmanlarım ve beylerim beni aradılar; ve krallığımda pekiştirildim, büyüklüğüme de büyüklük katıldı.
+Şimdi ben, Nebukadnetsar, göğün Kralı'nı övüyor, yüceltiyor ve onurlandırıyorum; çünkü bütün işleri gerçektir ve yolları adalettir; ve kibir içinde yürüyenleri alçaltmaya gücü yeten O'dur.
 Kral Belşatsar beylerinden binine büyük bir ziyafet verdi ve bin kişinin önünde şarap içti.
 Şaraptan tat alırken, babası Nebukadnetsar'ın Yeruşalem'deki tapınaktan çıkarmış olduğu altın ve gümüş kapların kendisine getirsinler ve böylece kral, beyleri, karıları ve cariyeleri onlarla içsinler diye buyurdu.
 O zaman Tanrı'nın Yeruşalem'deki tapınağından çıkarılmış olan altın kapları getirdiler; kral, beyleri, karıları ve cariyeleri onlarla içtiler.
@@ -21971,6 +21971,7 @@ TEKEL: Terazide tartıldın ve eksik bulundun.
 PERES: Krallığın bölündü ve Medler ile Persler'e verildi.”
 Bunun üzerine Belşatsar buyurdu ve Daniel'e mor giydirdiler, boynuna altın bir zincir taktılar ve krallıkta üçüncü yönetici olacaktır diye onun hakkında duyuru yaptılar.
 O gece Keldani Kralı Belşatsar öldürüldü.
+Medli Darius altmış iki yaşında iken krallığı aldı.
 Darius, krallığın üzerine yüz yirmi yerel vali koymayı uygun gördü. Bunlar bütün krallık içinde olacaktı.
 Ve onların üzerine üç başkan koyacaktı. Bunlardan biri Daniel'di. Böylece yerel valiler onlara hesap verecek ve kral hiç kayıp yaşamayacaktı.
 O zaman bu Daniel başkanlardan ve yerel valilerden üstündü. Çünkü kendisinde olağanüstü bir ruh vardı; kral da onu bütün krallığın üzerine koymayı düşündü.
@@ -21999,7 +22000,6 @@ O zaman Kral Darius, yeryüzünde oturan bütün halklara, uluslara ve dillere �
 Krallığımın bütün diyarında, İnsanların Daniel'in Tanrısı'nın önünde titreyip korkmaları için buyruk çıkarıyorum. Çünkü O, yaşayan Tanrı'dır ve sonsuza dek sarsılmaz. O'nun krallığı yıkılmayacak olandır. Hakimiyeti sona dek sürecektir.
 O kurtarır ve yardım eder. Gökte ve yerde belirtiler ve harikalarla işler, Daniel'i aslanların gücünden O kurtarmıştır.”
 Böylece bu Daniel, Darius'un ve Persli Koreş'in krallığında başarılı oldu.
-
 Babil Kralı Belşatsar’ın birinci yılında, Daniel yatağındayken bir düş ve başında görümler gördü. Sonra düşü yazdı ve konuların özetini anlattı.
 Daniel söyleyip dedi: “Geceleyin görümümde gördüm ve işte, gökyüzünün dört rüzgârı büyük denize saldırdılar.
 Denizden birbirinden farklı dört büyük hayvan çıktı.
@@ -22170,6 +22170,8 @@ Kadın yine gebe kaldı ve bir kız doğurdu. O zaman ona, “Adını Lo Ruhama 
 Ama Yahuda evine acıyacağım ve onları Tanrıları Yahve aracılığıyla kurtaracağım. Onları yayla, kılıçla, savaşla, atlarla ve atlılarla kurtarmayacağım.”
 Kadın Lo Ruhama'yı sütten kesince gebe kaldı ve bir oğul doğurdu.
 Kadın, “Adını Lo Ammi koy” dedi, “Çünkü siz benim halkım değilsiniz, ben de sizin Tanrınız olmayacağım.
+Ama İsrael'in çocuklarının sayısı ölçülemeyen, sayılamayan deniz kumu gibi olacak. Ve öyle olacak ki, onlara, 'Siz benim halkım değilsiniz' denilen yerde, 'Yaşayan Tanrı'nın oğullarısınız' denilecek.
+Yahuda'nın çocukları ve İsrael'in çocukları bir araya toplanacaklar, kendilerine tek bir baş atayıp ülkeden çıkacaklar; çünkü Yizreel günü büyük olacak.”
 “Erkek kardeşlerinize, ‘Halkım!’, Kız kardeşlerinize, ‘Sevdiğim!’ deyin.
 Annenizle çekişin! Çekişin, çünkü o benim karım değil, Ben de onun kocası değilim. Yüzünden fuhuşunu, Zinalarını bağrından atsın.
 Yoksa onu çırılçıplak soyarım, Doğduğu günde olduğu gibi yaparım, Onu çöl ederim, Ve onu kurak bir yere çeviririm, Onu susuzluktan öldürürüm.
@@ -22193,8 +22195,6 @@ Seni sadakatle kendime nişanlayacağım, Ve Yahve'yi tanıyacaksın.
 O gün yanıt vereceğim.” diyor Yahve. “Göklere yanıt vereceğim, Ve onlar da yere yanıt verecekler;
 Ve yer buğdaya, yeni şaraba ve yağa yanıt verecek; Onlar da Yizreel'e yanıt verecekler.
 Onu kendim için, toprağa ekeceğim; Ve merhamet bulmamış olana merhamet edeceğim; Ve halkım olmayanlara, 'Halkımsın' diyeceğim; Onlar da bana, 'Tanrım!' diyecekler.”
-
-
 Yahve bana dedi, “İsrael'in çocukları başka ilâhlara yöneldikleri ve kuru üzüm pidelerini sevdikleri halde, tıpkı Yahve'nin onları sevdiği gibi, sen de yine git, başkasının sevdiği ve zina eden bir kadını sev.”
 Bunun üzerine onu kendime on beş gümüş ve bir homer ve yarım arpaya satın aldım.
 Ona şöyle dedim, “Çok günler yanımda kalacaksın. Fahişelik etmeyeceksin ve başka bir erkekle birlikte olmayacaksın. Ben de sana öyle olacağım.”
@@ -22318,6 +22318,7 @@ Halkım benden dönmeye kararlı. En Yüce Olan'a seslenseler bile, Kesinlikle o
 Öfkemin kızgınlığını yerine getirmeyeceğim. Efraim'i yok etmek için geri dönmeyeceğim. Çünkü ben Tanrı'yım, insan değilim; Aranızdaki Kutsal Olan'ım. Gazapla gelmeyeceğim.
 Aslan gibi kükreyen Yahve'nin ardından yürüyecekler; Çünkü O kükreyecek ve çocuklar batıdan titreyerek gelecekler.
 Mısır'dan bir kuş gibi, Aşur ülkesinden bir güvercin gibi titreyerek gelecekler; Ve onları evlerine yerleştireceğim.” diyor Yahve.
+Efraim yalanla, İsrael evi de beni hileyle kuşattı. Yahuda hâlâ Tanrı'dan sapıyor, Ve Kutsal Olan'a sadakatsizlik ediyor.
 Efraim rüzgârı güdüyor, Doğu rüzgârını kovalıyor. Sürekli yalanı ve yıkımı artırıyor. Aşur'la antlaşma yapıyor, Ve yağ Mısır'a götürülüyor.
 Yahve'nin de Yahuda'yla bir davası var, Ve Yakov'u kendi yollarına göre cezalandıracak, İşlerine göre ona karşılık verecektir.
 Rahimde kardeşinin topuğundan tuttu, Ve yetişkinliğinde Tanrı'yla çekişti.
@@ -22332,7 +22333,6 @@ Gilad kötüyse, Kesinlikle onlar değersizdirler. Gilgal'da boğalar kurban edi
 Yakov Aram ülkesine kaçtı. İsrael bir karı edinmek için hizmet etti. Bir karı için sürüleri ve sığırları güttü.
 Yahve bir peygamber aracılığıyla İsrael'i Mısır'dan çıkardı, Ve bir peygamber aracılığıyla o korundu.
 Efraim çok acı öfkelendirdi. Bu yüzden kanı onun üzerinde kalacak, Ve Efendisi onun aşağılamasını ödeyecek.”
-
 Efraim konuştuğunda titreme vardı. İsrael'de kendini yüceltti, Ama Baal yüzünden suçlu olunca öldü.
 Şimdi günahları daha da çok artırıyorlar, Ve kendi anlayışlarına göre gümüşlerinden dökme suretler yaptılar, Hepsi de usta işi. Onlar için, “İnsan kurban ediyorlar, Ve buzağıları öpüyorlar” diyorlar.
 Bu yüzden sabah sisi gibi, Erken eriyen çiy gibi, Harman yerinden kasırga ile savrulan saman çöpü gibi, Bacadan tüten duman gibi olacaklar.
@@ -22348,6 +22348,7 @@ Efraim'in suçu birikti. Günahı birikti.
 Doğuran kadının ağrıları onun üzerine gelecek. O akılsız bir oğuldur, Çünkü zamanı gelmişken, rahmin ağzına gelmiyor.
 Onları Şeol'ün elinden fidye ile kurtaracağım. Onları ölümden kurtaracağım! Ey ölüm, belaların nerede? Ey Şeol, yıkımın nerede?” “Gözlerimden acıma gizlenecek.
 Kardeşleri arasında verimli olsa bile, doğu rüzgârı gelecek, Yahve'nin soluğu çölden yükselecek; Onun kaynağı kesilecek, Ve pınarı kuruyacak. Hazine ambarını yağmalayacak.
+Samariya suçunu taşıyacak, Çünkü Tanrısı'na başkaldırdı. Kılıçla düşecekler. Bebekleri parçalanacak, Ve gebe kadınların karnı yarılacak.”
 Ey İsrael, Tanrın Yahve'ye dön; Çünkü günahın yüzünden düştün.
 Sözleri yanına al ve Yahve'ye dönün. O'na deyin, “Bütün günahlarımızı bağışla, Ve iyi olanı kabul et; Öyle ki, dudaklarımızın adadığı gibi boğalar sunalım.
 Aşur bizi kurtaramaz. Atlar üzerine binmeyeceğiz; Ve ellerimizin işine artık 'İlâhlarımız!' demeyeceğiz. Çünkü öksüz sende merhamet bulur.”
@@ -22357,7 +22358,6 @@ Dalları yayılacak, Ve güzelliği zeytin ağacı gibi, Ve kokusu Lübnan gibi 
 İnsanlar onun gölgesinde oturacak. Buğday gibi canlanacaklar, Asma gibi çiçek açacaklar. Kokuları Lübnan şarabı gibi olacak.
 Efraim diyecek putlarla ne işim var artık? Ben yanıt veriyorum ve ona bakacağım. Ben yeşil bir selvi gibiyim; Senin meyven benden olur.”
 Bu şeyleri anlamak için bilge olan kimdir? Anlayışlı olan kimdir ki, bunları bilebilsin? Çünkü Yahve'nin yolları doğrudur, Ve doğrular onlarda yürür, Ama başkaldıranlar onlarda tökezler.
-
 Petuel oğlu Yoel'e gelen Yahve'nin sözü.
 Ey ihtiyarlar, Duyun bunu, memleketin bütün sakinleri dinleyin! Sizin günlerinizde ya da atalarınızın günlerinde Hiç böylesi oldu mu?
 Çocuklarınıza bunu anlatın, Çocuklarınız kendi çocuklarına, Onların çocukları da başka kuşaklara anlatsınlar.
@@ -22405,32 +22405,32 @@ Harman yerleri buğdayla dolacak, Tekneler de yeni şarap ve yağla taşacak.
 Size sürüyle uçan çekirgenin, Büyük çekirgenin, küçük çekirgenin ve tırtılın, aranıza gönderdiğim Büyük ordumun yediği yılları geri vereceğim.
 Bolca yiyip doyacaksınız, Sizin için şaşılası şeyler yapan Tanrınız Yahve'nin adını öveceksiniz. Halkım bir daha asla hayal kırıklığına uğramayacak.
 Ben'im İsrael'in arasında olduğumu, Tanrınız Yahve olduğumu Ve başka kimsenin olmadığını bileceksiniz. Halkım bir daha asla hayal kırıklığına uğramayacak.
+Ondan sonra, Ruhum'u bütün insanların üzerine dökeceğim. Oğullarınız ve kızlarınız peygamberlik edecek. Yaşlılarınız düşler görecek. Gençleriniz görümler görecek.
+Ve o günlerde erkek ve kadın hizmetçilerin üzerine de Ruhum'u dökeceğim.
+Göklerde ve yerde belirtiler göstereceğim: Kan, ateş ve duman direkleri.
+Yahve'nin büyük ve korkunç günü gelmeden önce Güneş karanlığa, ay kana dönecek.
+Öyle olacak ki, her kim Yahve'nin adını çağırırsa kurtulacak; Çünkü Yahve'nin söylediği gibi, Siyon Dağı'nda ve Yeruşalem'de kaçıp kurtulanlar, Geride kalanlar arasında Yahve'nin çağırdığı kimseler olacak.
 “Çünkü işte, o günlerde ve o zamanda, Yahuda ve Yeruşalem'in sürgünlerini geri getirdiğimde,
 Bütün ulusları toplayacağım Ve onları Yehoşafat Vadisi'ne indireceğim; Ve orada halkım ve mirasım olan İsrael için, onu uluslar arasında dağıttıkları için onları yargılayacağım. Onlar ülkemi böldüler,
 Ve halkım için kura çektiler, Ve fahişeye ücreti için erkek çocuğu verdiler Ve içebilsinler diye şarap karşılığında bir kız sattılar.”
 “Hem de siz benim için nesiniz, Ey Sur ve Sayda ve bütün Filist bölgeleri? Siz bana karşılık mı ödeyeceksiniz? Ve eğer bana karşılığını ödeyecek olursanız, Ben karşılığını hemen ve çabucak kendi başınıza döndüreceğim.
 Çünkü gümüşümü ve altınımı aldın, En değerli hazinelerimi tapınaklarına götürdün,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Yahuda'nın çocuklarını ve Yeruşalem'in çocuklarını Kendi sınırlarından uzaklaştırmak için Grekler'in oğullarına sattınız.
+İşte, onları sattığın yerden harekete geçireceğim, Karşılığını kendi başınıza ödeyeceğim;
+Oğullarını ve kızlarını Yahuda'nın çocuklarının eline satacağım, Onlar da onları uzak bir ulusa, Şevalılar'a satacaklar, Çünkü Yahve böyle söyledi.”
+Uluslar arasında şunu ilan edin: “Savaşa hazırlanın! Yiğitleri harekete geçirin. Bütün savaşçılar yaklaşsın. Yukarı çıksınlar.
+Sabanlarınızı kılıçlara, bağcı bıçaklarınızı mızraklara döndürün. Zayıf olan, 'Ben güçlüyüm' desin.
+Çabuk gelin, ey çevredeki uluslar, toplanın.” Ey Yahve, yiğitlerini oraya indir.
+“Uluslar harekete geçip Yehoşafat Vadisi'ne çıksınlar; Çünkü orada oturup çevredeki bütün ulusları yargılayacağım.
+Orağı sallayın, Çünkü hasat olgunlaştı. Gelin, çiğneyin, çünkü şarap teknesi doldu, tekneler taşıyor, Çünkü kötülükleri büyüktür.”
+Kalabalıklar, Karar Vadisi'nde kalabalıklar! Çünkü Karar Vadisi'nde Yahve'nin günü yakındır.
+Güneş ve ay karardı, Yıldızlar da ışıltılarını geri çekti.
+Yahve Siyon'dan kükreyecek, Yeruşalem'den gürleyecek; Gökler de yeryüzü de sarsılacak; Ama Yahve, halkına sığınak, İsrael'in çocuklarına kale olacak.
+“Böylece, kutsal dağım Siyon'da oturan Tanrınız Yahve'nin Ben olduğumu bileceksiniz. O zaman Yeruşalem kutsal olacak Ve bir daha ondan yabancı geçmeyecek.
+O gün dağlar tatlı şarap damlatacak, Tepeler süt akıtacak, Yahuda'nın bütün derelerinde sular akacak; Yahve'nin evinden bir kaynak çıkacak ve Şittim Vadisi'ni sulayacak.
+Mısır ıssız kalacak, Edom da Yahuda'nın çocuklarına yaptıkları zorbalık yüzünden Issız bir çöl olacak, çünkü ülkelerinde suçsuz kanı döktüler.
+Ama Yahuda sonsuza dek, Yeruşalem de kuşaktan kuşağa oturulacak yer olacak.
+Onların temizlemediğim kanlarını temizleyeceğim, Çünkü Yahve Siyon'da oturuyor.”
 Tekoa çobanları arasında bulunan Amos'un sözleri, Yahuda Kralı Uzziya'nın günlerinde ve İsrael Kralı Yoaş oğlu Yarovam'ın günlerinde, depremden iki yıl önce İsrael hakkında gördü.
 Şöyle dedi: “Yahve Siyon'dan kükreyecek, Ve Yeruşalem'den sesini duyuracak; Ve çobanların otlakları yas tutacak, Ve Karmel'in tepesi kuruyacak.”
 Yahve şöyle diyor: “Damaskus'un üç, hatta dört suçundan ötürü Cezasını geri çevirmeyeceğim, Çünkü Gilad'ı demirden dövenlerle dövdüler.
@@ -22614,6 +22614,7 @@ Yine de adamlar kendilerini karaya geri döndürmek için sıkı kürek çektile
 Bu yüzden Yahve'ye feryat edip, “Sana yalvarıyoruz, ey Yahve, sana yalvarıyoruz, bu adamın canından dolayı ölmeyelim, suçsuz kanı üzerimize yükleme; çünkü sen, ey Yahve, hoşnut olduğun gibi öyle yaptın” dediler.
 Bunun üzerine Yona'yı tutup denize attılar; denizin hiddeti dindi.
 O zaman adamlar Yahve'den çok korktular; ve Yahve'ye kurban kestiler ve adaklar adadılar.
+Yahve, Yona'yı yutmak için büyük bir balık hazırladı. Yona üç gün üç gece bu balığın karnında kaldı.
 O zaman Yona, balığın karnından Tanrısı Yahve'ye dua etti.
 Ve dedi: “Sıkıntımın içinden Yahve'yi çağırdım. Bana yanıt verdi. Şeol'ün karnından haykırdım. Sen benim sesimi duydun.
 Çünkü beni derinliklere, Denizlerin yüreğine attın. Seller çevremi sardı. Bütün dalgaların ve dev dalgaların üzerimden geçti.
@@ -22624,7 +22625,6 @@ Dağların diblerine indim. Yeryüzü bana sonsuza dek yasaklandı; Ama sen haya
 Boş putlara bakanlar kendi merhametlerini terk ederler.
 Ama ben sana şükran sesiyle kurban sunacağım. Adamış olduğumu ödeyeceğim. Kurtuluş Yahve'ye aittir.”
 O zaman Yahve balığa konuştu ve balık Yona'yı kuru toprağa kustu.
-
 Yahve'nin sözü ikinci kez Yona'ya geldi ve dedi:
 “Kalk, o büyük kent Ninova'ya git ve sana vereceğim sözü orada duyur.”
 Bunun üzerine Yona kalkıp, Yahve'nin sözü uyarınca Ninova'ya gitti. Ninova çok büyük bir kentti, içinden geçmek üç günlük bir yoldu.
@@ -22700,7 +22700,6 @@ Siyon kızı, ağrı çek, doğuran kadın gibi ağrı çek. Çünkü şimdi ken
 Şimdi sana karşı birçok ulus toplandı, “O kirlensin, Ve gözlerimiz Siyon'u zevkle izlesin” diyorlar.
 Ama Yahve'nin düşüncelerini bilmiyorlar, O'nun tasarısını da anlamıyorlar. Çünkü onları harman yerine demetler gibi topladı.
 Kalk, harman döv, ey Siyon kızı, Çünkü boynuzunu demir yapacağım, Ve toynaklarını tunç yapacağım. Birçok halkı ezeceksin. Onların kazançlarını Yahve'ye, Ve mallarını da bütün yeryüzünün Efensisi'ne adayacağım.
-
 Şimdi sen, ey ordular kızı, Ordu halinde toplanacaksın. O, bize karşı kuşatma kurdu. İsrael yargıcının yanağına değnekle vuracaklar.
 Ama sen, Yahuda boyları arasında küçük olan Beytlehem Efrata, İsrael'de hükümdar olacak kişi bana senden çıkacak; Onun çıkışları eskiden, kadim zamanlardandır.
 Bu yüzden, doğum sancısı çeken kadın doğurana dek onları terk edecek. O zaman kardeşlerinin geri kalanı İsrael'in çocuklarına dönecek.
@@ -22715,6 +22714,7 @@ Yahve şöyle diyor, “O gün öyle olacak ki, Senden atlarını söküp ataca�
 Büyücülüğü elinden yok edeceğim. Falcıların olmayacak.
 Aranızdan oyma suretlerinizi ve dikili taşlarını söküp atacağım; Ve artık kendi ellerinin işine tapmayacaksın.
 Senden Aşera direklerini söküp atacağım; Ve senin kentlerini harap edeceğim.
+Söz dinlemeyen uluslardan öfke Ve gazapla öç alacağım.”
 Şimdi Yahve'nin ne dediğini dinleyin: “Kalk, davanı dağların önünde savun, Ve tepeler senin söyleyeceklerini duysun.
 Ey dağlar, yeryüzünün sağlam temelleri, Yahve'nin davasını dinleyin; Çünkü Yahve'nin halkına karşı davası var, Ve İsrael'le çekişecek.
 Ey halkım, sana ne yaptım? Sana nasıl yük oldum? Bana yanıt ver!
@@ -22765,6 +22765,7 @@ Senden Yahve'ye karşı kötülük tasarlayan, kötülük öğütleyen biri çı
 Yahve şöyle diyor: “Onlar güçte tam olsalar ve çok olsalar bile, yine de kesilip yok olacaklar. Seni ezdimse de, seni bir daha ezmeyeceğim.
 Şimdi onun boyunduruğunu senin üzerinden kıracağım ve senin bağlarını koparacağım.”
 Yahve senin hakkında şöyle buyurdu: “Artık senin adını taşıyacak bir kuşak olmayacak. Senin ilâhlarının evinden oyma sureti ve dökme sureti kesip atacağım. Senin mezarını yapacağım, çünkü sen aşağılıksın.”
+İşte, dağların üzerinde müjde getirenin, esenlik ilan edenin ayakları! Bayramlarını tut, ey Yahuda! Adaklarını yerine getir, çünkü kötü olan artık senin içinden geçmeyecek. O tümüyle kesilip atıldı.
 Parça parça eden senin karşına çıktı. Kaleyi koru! Yolu gözet! Belini güçlendir! Gücünü kuvvetlice sağlamlaştır!
 Çünkü Yahve Yakov'un yüceliğini İsrael'in yüceliği gibi geri döndürüyor, çünkü yok ediciler onları yok etti ve onların asma dallarını mahvettiler.
 Yiğitlerin kalkanı kızıl edildi. Yiğit adamlar kırmızıya büründüler. Hazırlık gününde savaş arabaları çelikle parlıyor ve çam mızrakları savruluyor.
@@ -22778,7 +22779,6 @@ Boş, faydasız ve haraptır. Yürek eriyor, dizler birbirine çarpıyor, bedenl
 Aslanların ini ve genç aslanların avlarını yedikleri yer nerede? Aslan ve dişi aslan orada aslan yavrularıyla dolaşırdı, ve onları korkutan kimse yoktu?
 Aslan yavrularına yetecek kadar parçaladı, ve dişi aslanları için avını boğdu, ve mağaralarını öldürdükleriyle, ve inlerini avla doldurdu.
 Ordular Yahvesi şöyle diyor: İşte, sana karşıyım; onun savaş arabalarını duman içinde yakacağım; kılıç da genç aslanlarını yiyip bitirecek; senin avını yeryüzünden kesip atacağım; ve senin elçilerinin sesi bir daha duyulmayacak.
-
 Vay haline kanlı kent! Her yanı yalan ve soygunla dolu, ganimetin sonu yok.
 Kırbaç sesleri, tekerlek takırtıları, dörtnala koşan atlar ve sıçrayan savaş arabaları,
 atlılar saldırıyor, kılıçlar çakıyor, mızraklar parlıyor, ölüler kalabalığı ve büyük ceset yığını, cesetlerin sonu yok. Cesetlere ayakları takılıyor
@@ -22962,6 +22962,10 @@ Bunun üzerine benimle konuşan melek, “Şunu duyur” dedi: “Ordular Yahves
 Kaygısız olan uluslara çok öfkeleyim; çünkü ben birazcık hoşnutsuzdum, ama onlar felakete katkıda bulundular.”
 Bu nedenle Yahve, “Yeruşalem'e merhametle döndüm” diyor. “Evim orada yapılacak,” diyor Orduların Yahvesi, “Ve Yeruşalem’in üzerine ölçü ipi çekilecektir.”
 “Dahası şunu duyurup söyle, Ordular Yahvesi şöyle diyor: ‘Kentlerim yine bollukla taşacak ve Yahve Siyon’u yine avutacak ve Yeruşalem’i yine seçecek.’”
+Gözlerimi kaldırıp baktım ve işte dört boynuz.
+Benimle konuşan meleğe, “Bunlar ne?” diye sordum. Bana, “Bunlar Yahuda’yı, İsrael’i ve Yeruşalem’i dağıtmış olan boynuzlardır.” diye yanıt verdi.
+Yahve bana dört usta gösterdi.
+O zaman, “Bunlar ne yapmaya geliyor?” diye sordum. “Bunlar Yahuda’yı dağıtmış olan boynuzlardır; öyle ki, kimse başını kaldırmadı; ama bunlar onları dehşete düşürmek, Yahuda ülkesini dağıtmak için boynuzlarını kaldıran ulusların boynuzlarını yere çalmak için geldiler.” dedi.
 Gözlerimi kaldırıp baktım, elinde ölçü ipi olan bir adam vardı.
 O zaman, “Nereye gidiyorsun?” diye sordum. Bana, “Yeruşalem’i ölçmeye, genişliğinin ve uzunluğunun ne olduğunu görmeye” dedi.
 İşte, benimle konuşan melek dışarı çıktı, başka bir melek de onu karşılamaya çıktı.
@@ -22975,10 +22979,6 @@ Ey Siyon kızı, ezgi söyle ve sevin! Çünkü işte, ben geliyorum ve senin i�
 O gün birçok ulus Yahve'ye bağlanacak, ve benim halkım olacaklar; ve ben senin içinde oturacağım, ve beni Ordular Yahvesi'nin sana gönderdiğini bileceksin.
 Yahve kutsal diyarda Yahuda'yı kendi payı olarak miras alacak ve Yeruşalem'i yine seçecek.
 Ey bütün insanlar, Yahve'nin önünde sessiz olun, çünkü O kutsal meskeninden uyanıp kalktı!'
-
-
-
-
 Bana, Yahve'nin meleğinin önünde duran Başkâhin Yeşu'yu ve onun sağında düşmanı olmak için duran Şeytan'ı gösterdi.
 Yahve Şeytan'a, “Yahve seni azarlasın, ey Şeytan! Evet, Yeruşalem'i seçmiş olan Yahve seni azarlasın! Bu, ateşten çıkarılmış yanmış bir odun parçası değil midir?” dedi.
 Yeşu ise kirli giysiler giymişti ve meleğin önünde duruyordu.
@@ -23205,12 +23205,12 @@ Yiyip bitireni sizin hatırınıza azarlayacağım, toprağınızın ürününü
 O zaman Yahve'den korkanlar birbirleriyle konuştular; Yahve de dinledi ve duydu ve Yahve'den korkanlar ve adını onurlandıranlar için O'nun önünde bir anı kitabı yazıldı.
 Ordular Yahvesi, “Onlar benim olacaklar.” diyor. “Yaptığım günde kendi malım olacaklar. Bir adamın kendisine hizmet eden kendi oğlunu esirgemesi gibi, onları esirgeyeceğim.
 O zaman döneceksiniz ve doğruyla kötüyü, Tanrı'ya hizmet edenle etmeyeni ayırt edeceksiniz.”
-
-
-
-
-
-
+“Çünkü işte, fırın gibi yanan gün geliyor. O gün, bütün kibirliler ve kötülük yapanların hepsi anız olacaklar. O gün onları yakıp yok edecek” diyor Ordular Yahvesi, “Öyle ki, onlarda ne kök ne de dal bırakmayacak.
+Ama size, adımdan korkanlara, kanatlarında şifa olarak doğruluk güneşi doğacak. Çıkıp ahırdaki buzağılar gibi sıçrayacaksınız.
+Kötüleri çiğneyeceksiniz. Çünkü yapmakta olduğum o günde, sizin ayaklarınızın altında kül olacaklar” diyor Ordular Yahvesi.
+“Hizmetkârım Moşe'nin yasasını, bütün İsrael için Horev'de kendisine buyurduğum kuralları ve ilkeleri hatırlayın.
+İşte, Yahve'nin büyük ve korkunç günü gelmeden önce, size Peygamber Eliya'yı göndereceğim.
+Babaların yüreklerini çocuklarına, çocukların yüreklerini de babalarına döndürecek. Öyle ki, gelip yeryüzünü lanetle vurmayayım.”
 Avraham oğlu, David oğlu Yeşua Mesih’in soyağacı kitabıdır.
 Avraham İshak’ın babasıydı, İshak Yakov’un babasıydı, Yakov Yahuda ve kardeşlerinin babasıydı,
 Yahuda Tamar’dan doğan Peres’le Zerah’ın babasıydı, Peres Hetsron’un babasıydı. Hetsron Ram’ın babasıydı,
@@ -27691,7 +27691,7 @@ Belediye yazmanı kalabalığı yatıştırıp, “Ey Efesliler, Efes Kenti’ni
 Çünkü buraya getirdiğiniz bu adamlar, ne tapınağı soymuşlar ne de tanrıçanıza küfretmişlerdir.
 Eğer Dimitrios ve yanındaki sanatçı arkadaşlarının herhangi birine karşı bir şikayeti varsa, mahkemeler açık, yargıçlar da var. Birbirlerini orada suçlasınlar.
 Soruşturacağınız başka konular varsa, bunun karara bağlanacağı yer yasal toplantıdır.
-Çünkü bugün çıkan kargaşayla ilgili olarak suçlanma tehlikesiyle karşı karşıyayız. Hiçbir neden olmadığı için bu kargaşanın hesabını veremeyiz.”
+Çünkü bugün çıkan kargaşayla ilgili olarak suçlanma tehlikesiyle karşı karşıyayız. Hiçbir neden olmadığı için bu kargaşanın hesabını veremeyiz.” Bunu söyledikten sonra topluluğu dağıttı.
 Kargaşa dindikten sonra, Pavlus öğrencileri yanına çağırdı, onlarla vedalaşıp Makedonya’ya gitmek üzere yola çıktı.
 O yörelerden geçip onları çok sözle cesaretlendirerek Yunanistan’a geldi.
 Orada üç ay kaldıktan sonra Suriye’ye yelken açmak üzereyken Yahudiler’in kendisine karşı bir düzen kurması nedeniyle, Makedonya üzerinden dönmeye karar verdi.

@@ -926,6 +926,7 @@ Ale Laban akingtala Jacob maonam, “Manga nunumi awote awuman imi se manga bang
 Manga nunumi awote awura mu se manga baonga mu kausa iwita aniruk, se ani kiarik namarik me ka maguwurik, se ni betela, kier ale tair ani me aga maguwurko.
 Anananga nanangatak Abraham Nahor ilak nunga Kaem mu nanga tutera ko Kaem bagarukko.” Se Jacob den aora biya noko nuet Isaac ko Kaem, ko nguanga se nup patawukaso, wore ko nup te balam.
 Ale nu goat bo moram ale sor duruk ago mu te Kaem tama bita tuam. Ale ko nunguning sang kaiyam ale inang beteram, se ko gue suan suen la taiman ale naman. Ale sor umu te ani gilingiman.
+Ukiram se tumong biyala Laban barasam, ko nanawusari se ko numasari nunga iluwam ale den amilmil nungaram, ale nu peleram ko sor te namaram.
 Jacob betela sor mu beteram ale aolak iluwam namawaram se Kaem ko engel lage te kote arataman.
 Se nu nungarkam ale balam, “Kuwim imi Kaem ko kager kari nunga nuguwim!” mam. Umutang nu sor mu nup beteram Mahanaim mam.
 Jacob ko ura kari den nungaram ale nunga giruwuram se ko laun Esau kote, ko ali Seir, sor Edom mu te, girimon namamonko nunga maonam.
@@ -958,7 +959,6 @@ Se Jacob isuam, “Nika nip aga manaruko,” mam. Bare kari mu mam, “Ni anape 
 Se Jacob sor mu nup beteram Peniel ma se balam, “Ani Kaem ilak pingita nanimi nangama arigiman, bare ani me kuerem,” mam.
 Worem basuwaram se Jacob sor Peniel mu beteram. Bare nu aolak diram me ilukaso, mu awuk, noko bugi duap kutugam.
 Buta se tom mu te se tai aitak, Israel alo anapeya mosan ale nasan, mu ko bugi duap ko pisi me nasan.
-
 Jacob motam patawu Esau ko kari 400 arungak taiwaram mu nungarkam. Ale noko nuwus ilagala Leah, Rachel, se ko ura saonga imet ilagala mu nunga kuriang nomoke nomoke nungaram se arungu sanami gilingiman.
 Nu ko ura saonga imet nunga kuriang arungu gira nunga awuram. Ale Leah ko kuriang arungu mu kusumuri nunga awuram, ale Rachel ko namar Joseph ilak mu nukum te nunga awuram.
 Se Jacob kota mu giram ko laun kote nama se, bugura kulukurukaso koma motam ali ningi kapakaso, se aking barasukaso, nama akingtala uwutatala bitakaso. Nu tom 7 ko uwutata ko laun kote beteram.
@@ -13959,6 +13959,7 @@ Se ni supuling ura ko tam aora mu te nunga bitaruko, ale kani iwita nunga pakaku
 Buta se, nina king alo, ikia sinar ago la bagaralko; nina ali sor ko supuling alo, ninguru sinar talko.
 Yawe ko nguanga se kua bowa nagural ale amilmil tualko.
 Nina king alo, noko namar suwik duap ningi nebugura kulukalko. Mena mu, noko gomang magara mu tairatela barasuk ale ninga menawurokko. Ikialko. Kariimet arikaya nu nunga yumura kuwim ko arigisan mu amilmilamonko.
+
 O Yawe, ani ago ko kager kari memek suen biya! Nuna suen biya nunguningkiri ani agarak kagerawasan!
 Ale nuna ani ago ko balsan, “Kaem nu me sangukko pa!” masan.
 Bare Yawe, ni keta suanta aninga karem se ni aninga lautem; ni aninga kager menawusam ale nup biya se sokel aisisam.
@@ -14049,7 +14050,6 @@ Kariimet memek alo mu kariimet kuera nunga sor te namamonko, kariimet Kaem nubir
 Bare nu kariimet nungumik mel mena mu me ta nunga kuamili saparukko; se kariimet ikup gi se nukote loaga lagasan mu nu nunga sangukko.
 Yawe, baresko! Ni kariimet bo ari sager se me ka kiarukko; sor suen la ni kema te taimon se nunga tuterko.
 O Biya, ni nguangara aromemek te nunga maguwurko; sor suen la nunga kasuru se ikimon, mu nuna ali ewere ko kariimet yam.
-
 O Yawe, ni awuk se bagara suwuta? Kariimet ikup arigisan bare awuk se ni me kasagasam?
 Kariimet memek alo nunumi patawusan, ale nunga ikia memek mu dagarok iwita nungursan ale kariimet kituwura guat te ilusan.
 Nuna nunga ikia memek mu ko nunumi patawusan ale nunga sikisaki kawel te mel gemasan mu nunga atumu sangorsan; bare nuna Yawe nubiring tusan.
@@ -14075,6 +14075,7 @@ Bare ikialko. Yawe ko temple laili ningi bagoso; nu ko daiga kuwim te kualala ba
 Nu nungarkoso ale kariimet ningo diram mu nunga amilmiloso; bare kager daong ko kariimet memek mu me nunga kueso.
 Noko gomang magara mu tama iwita sisuwurok se nungumik kuali kaparukko; se daula bo kowar biya mu nunga maguwurokko.
 Mu awuk, Yawe mu ningo se diram; nu munan diram la anirukko kueso, se kariimet munan diram la betesan mu nu arigimonko.
+
 O Yawe, nanga sangaruko! Imi te kari ningo nuam bo ta me bagoso; se kariimet nongomang ningi nunguning mu mena tala.
 Kariimet suen la nunga saki den kawel nunga manorsan; nuguring te den welang balsan, bare nongomang ningi kawel biya aniso.
 Buta se Yawe, kariimet den welang kawel nuguring te aratuwoso mu nuguring kaloko! Ale kariimet nunumi patawu se anira mu betela nuguring kaloko!
@@ -14088,8 +14089,7 @@ O Yawe, ni tom awila nunguningkiri ani ago ko kamili saparukko? Ni tom awila nun
 Ani tom awila nunguningkiri ikia aga moa lagarukko? ale tirom woremkalal angamang bataga lagarukko? Tom awila nunguningkiri aga kager kari aga maguwu lagamonko?
 O Yawe, ni aninga Kaem, kema gurugu aisu ale agiring ilupko! Aga sangaru se ani me kuerikko;
 kager kari alo balmon, “Ana ka sokel menawuman,” mamon, ale amilmilamon, “Ni dagulem,” ma aga balmon bore ko.
-Bare ni ani ago ko kua lagasam mu ko ani angamang ningi nunguning aso; ale kager kari nuguting te aga bataguru toko mu ko ani amilmilasam.
-Yawe, ani wur iluwek ale nip patawurikko, mu awuk, ni ani ago ko ningo la bita lagasam.
+Bare ni ani ago ko kua lagasam mu ko ani angamang ningi nunguning aso; ale kager kari nuguting te aga bataguru toko mu ko ani amilmilasam. Yawe, ani wur iluwek ale nip patawurikko, mu awuk, ni ani ago ko ningo la bita lagasam.
 Kariimet ikia sinar mena mu balsan, “Kaem mena!” masan. Nunga ikia maga saparam, se nuna munan suen la betesan mu am memek la betesan; ale bo ta munan ningo me beteso.
 Yawe duruk wonong te baga se loagoso se ko kariimet lilim nongote tai kaposo, nu bo i ikia sinar karogo se nukote la motam bita lagoso wore arigokko loagoso.
 Bare mena. Nuna suen la lage ningo nubiring tui muruwuman, ale suen la kilek memek te kapa sapaman, ale bo ta munan ningo bo me bitawoso, am mena biya.
@@ -14128,6 +14128,7 @@ Nuna lion iwita yumuman ale inang moa namonko karanga sipa se loagakuawuwasan.
 Yawe, bares ale nongorak kagerer ale nunga menawurko; ka batir te kari memek nunga moar ale aga bataguru toko.
 Nika sokel aora garagar mu te aga sangaru toko. Nononga ikia nongomang motam mu na nokoyam ali ewere ko melmasak te aniso; buta se nunga memek koma mu inang iwita ninguru nungaru se namon ale nutagu lagarukko, nunga kuriang imas gue te koma suanta tala bitarko.
 Se ani mu angimik den mena, owore te se ani nika motam te bagarikko; se tom ani maragarik mu aninga angamang motam amilmilarukko, mu awuk, ani nika kiwim te kerak bagasam.
+
 O Yawe, ani ninguru ka kuesam; ni sokel ani aisisam.
 Yawe mu aninga manga gek am, aninga bitua gek am, se aninga bataguru ta kari; nu aninga Kaem, manga biya bo iwita, se ani kararasam ale aga kager kari memek nunga ko te yumusam. Nu aninga karem, se aninga sokel.
 Aninga niara Kaem nup biya kote beterem, se nu kager kari nuguting te aga bataguru tam.
@@ -14249,7 +14250,6 @@ mu awuk, Yawe nu King Biya; nu ali sor suen la nunga bitarso.
 Kariimet nungumik mel karogo mu no gi se nup patawumonko; kariimet tom tukunangta baga kua iwi namasan, mu suen la koma dugu te nubugura kulukurmon ale nup patawumonko, mu awuk, nuna pempem marak me baga lagamonko.
 Se kariimet gue udagi taiwasan mu nu bowa ningi bagamonko; ale nunga kuriang gue mu Kari Biya ko dugu duap nunga manarmon se ikimonko.
 Nuna noko kiwem ningo umu balu pagarmon ale balmon, “Nu nanga sangaru tam!” mamon se kariimet gue me bilangasan mu maingte karogo ikimonko.
-
 Yawe mu aninga Bitua Kari, se ani mel bo ko me tukunangasam.
 Nu ani kuwim ningo wolong wore te agarak namoso, yu ningo bo duap te agarak namoso, se ani dagisam ale aeman sapasam.
 Nu sokel sangam iru aisiso; ale kota ko nup biya ko ningo ko, nu aninga kiti guruguso se lage ningo diram mu karosam.
@@ -14334,6 +14334,7 @@ Yawe ko dogotak sor garagarayam mu lilim sisuwuso; nu sor garagarayam Kadesh mu 
 Yawe ko aira mu tam bibiya yam moa irukuso ale gawa kower kulukumuso se kaposo se sor wetang aso. Se noko temple ningi mu suen la aisan ale balsan, “Kaem nup biya!” masan.
 Yawe nu King bagoso, yu gagi lilim bitarso; Yawe nu King pempem la bagoso.
 Yawe ko kariimet sangam sokel nungarso; Yawe ko gomang lila kariimet nungarso.
+
 Yawe, ani nika nip patawurikko; mu awuk, ani ikup ningi kaperem, bare ni aninga patawurem, se kari memek me aga eremon se kaparik se amilmilamonko.
 O Yawe, aninga Kaem, ani saonga ko kete airem, se ni aga sangem ale aga nungem.
 Ani kuera lage te, bare ni aninga sangaru taem, se ani me kua iwi namerem.
@@ -14371,7 +14372,6 @@ Ani Yawe nup patawurikko, mu awuk, nu ani tawun biya aga kueso; se tom kager kar
 Ani ninguru nguangakasam, ale ikikasam mu ni aninga beterem ale awar biya bagasam iwita ko ikikasam; bare tom ani nikate wosengem, mu ni aninga niara ikiem ale aga sangem.
 Buta se nina Yawe ko kariimet, nina noko ninguru ko kua tualko! Nu kariimet nu la karo tui lagasan mu ninguru nunga bitarso, bare nu nusupuling lagara ko kariimet mu koma memek nungarso.
 Nina Yawe ko kariimet nukote la loaga lagasan, nina nengemang ningi gek am sanamaralko.
-
 Awiriya ko munan memek Kaem buring tuam ale ko memek siwu saparam mu amilmilarukko.
 Awiriya gomang ningi nunguning te ko memek wetang te balu saparam se Yawe siwu tuam mu amilmilarukko.
 Tom aninga memek ira kaluwukasam mu ani tirom woremkalal yaman karogo niara kikira te angimik sokel menakaso.
@@ -14405,6 +14405,7 @@ mu nu nunga sinar taso se nuna me kuesan; nu karak tom te na nungarso se terong 
 Ana Yawe kote la loagawasan; nu nanga Saonga Kari, se nanga karem.
 Anananga nangamang motam ninguru ta nu ko ko amilmiloso, mu awuk, ana noko nup laili mu te la ira sanami lagasan.
 O Yawe, nika kua nangara kumik menara mena mu nangaruko; ana nikate la nangamang ikia bita se lagasan.
+
 Ani Yawe ko pempem balu se lagarikko; ko nup patawura mu ani agiring te butata anirukko.
 Aninga adera angimik mu noko balu patawurukko; kariimet ikup giwasan mu ikimon ale amilmilamonko.
 Nina ani agarak bolala la ko nup nikim garagar wore patawunakko; ana noko nup biya se noko sail ko amilmilanakko!
@@ -14427,7 +14428,6 @@ Kariimet ningo diram mu ikup suen biya arigimonko, bare Yawe ikup suen la mu te 
 Nu nunga nungumik sokel suen la ko sinar tauk se bo ta me maga namarukko.
 Memek betera ko kariimet alo mu memek arigimonko; nuna kariimet ningo diram mu nunga bita maguwuman mu ko koma memek tamonko.
 Bare Yawe ko ura kariimet mu nunga sangaru taukko; awiriya noko ningi yumusan mu bo me ta memek tamonko.
-
 Yawe, awiriya ani agarak barimasan mu ni nongorak barimerko; awiriya ani agarak kagersan, mu ni nongorak kagererko.
 Ni bares ale tai aga sangaruko; nika kager ko karem mel gi ale tai aga sangaruko.
 Nika gatu mare se saenang gi ale tai kager aga ira baguram mu nongorak kagererko. Ni aninga adera angimik manaru ale balu, “Ani nika saonga ningo,” meko.
@@ -14456,6 +14456,7 @@ Ni me nungarki sager se balmon, “Ese, terong, ana mel nangamang te aniram mu k
 Arikaya ani ikup ningi kaperem se amilmilakasan mu, dolara nungaru ale nunga ikia ngualawurko; arikaya ani memek kituwura ko aga balsan ale nuna ningo yawara ko nunumi betesan mu, dolara nungaru ale nunup karogo kaparko.
 Ni ani angimik memek bo mena mu wetang aga sapar se, kariimet aga kuawara mu ngata betemon ale amilmilamonko. Nuna pempem balmon, “Yawe nup biya tunakko! Nu noko ura kari bituok se ningo la bagarukko kueso,” mamonko.
 Buta se ani nika munan ningo diram la mu ko balu se, pempem nip patawu se lagarikko. Nunguning.
+
 Kaem ko den bo aningate tairam, mu kariimet memek bitawara wore nunga memek ko den: Nuna Kaem ko me nguanga gilingisan.
 Nuna nongota nunumi ko ikisan mu nuna terong ko nunumi balsan, bore te se nongota nunga memek mu ari ikimon ale nubiring tumonko me terong.
 Nononga nuguring te mu den memek se den kawel la arataso; nononga ikia maga saparam se kilek ningo bo me betesan.
@@ -14468,7 +14469,6 @@ Mu awuk, ni marak pempem bagara ko duap; nika nikinang mu ana nikim nangarso.
 O Biya, nika kua nangara kumik menara mena mu, kariimet nika iki karo tui lagasan mu nongote pempem ani se lagarukko; nika munan ningo nunguningkiri mu, kariimet diram la karo kisisan mu nungaruko.
 Nunumi patawura ko kariimet mu nungarki sager se ani nusuwik te me aga eremonko, ale nuguting te me agarak kagermonko.
 Arigalko! Kariimet memek bitawara mu dagulaman aniwasan; nuna dagulaman ale udagi me barasamonko!
-
 Ni kariimet memek mu ningo la bagasan mu ko me gemang dagulokko, ale nunga mel ningo ningo karogo bagasan mu ko me ikia ka morukko,
 mu awuk, nuna mu sirsir iwita maraka namamonko tom pingi aram, ale tam gawa marakaso ale kaposo iwita mena namamonko.
 Yawe kote la loaga se kiwem ningo wore bita se lagerko; uwuta mu asele ali imi te baga se mel bo ko me nguangerkowo.
@@ -14509,6 +14509,7 @@ Kariimet nungumik te den mena se ningo diram la betesan mu nungarkalko; nuna non
 Bare memek betera ko kariimet mu yawarakala me bagamonko, nuna maga sapamonko.
 Kariimet ningo diram nunga sangaru tata ko munan mu Yawe kote taiso; ikup tom ningi mu, nu nunga manga gek am.
 Nu nunga sangarso ale kariimet memek nuguting te nunga bataguru taso; nuna nu kote taisan se nunga ira kaluwuso, mu awuk, nu nunga manga gek am.
+
 O Yawe, gemang memek te ani me ining aisuko; nika gemang memek te aga memek koma me aga maguwurko.
 Mu awuk, nika gatu mare ninguru angimik ningi namaram; nika kiting ninguru aga maguwuram ale agarak kaparam.
 Nika gemang magara ani ago ko mu kuera yaman ninguru aisam, ale aninga asokel menawu saparam.
@@ -14589,12 +14590,12 @@ Yawe woremkalal pempem gomang aisiso, ale tirom wur aisiso se guranek iwita ilu 
 Aninga Kaem mu aninga Duruk motongar, se ani isarsam, “Ni awuk se ani ago ko kamili saparam? Awuk se kari memek aga maguwuman se iwitata ma niara te la bagasam?”
 Nuna kowarkalal maiya la nusuwik sapara den balsan, ale masan, “Nika Kaem apoko ya?” masan. Den imi ani mare iwita angimik barukuso ale ningi namoso se ani kuerikko kaesam.
 Aninga angamang motam pa awuk se dagulam? Awuk se kumik lila mena? Bare aninga ikia, aninga loagara mu Kaem kote la bitirikko; se nu aninga sanguk se ani akingtala nup patawurikko; nu aninga Saonga Kari, se aninga Kaem.
-
 Aga Kaem, kariimet nubiring ni kisiman ale kiwem memek se kawel te aga bita maguwusan umu, nuguting te aga bataguru toko.
 Ni Kaem, aninga yumura kuwim aora. Ni awuk se biring gurugu aisem? Awuk se kari memek aga maguwuman se iwitata ma niara te la bagasam?
 Nika nikim se nika bitua ningo mu te lage aga kasuru ale agarak nika bagara kuwim, ka duruk laili mu te agarak namarko.
 Se ani nika altar duap te namarik ale gita moa se ka nip patawurikko, mu awuk, ni aninga Kaem, ni angamang sangam tuem ale amilmil aisem se ani ni ko ko ninguru amilmilasam.
 Aninga angamang motam pa awuk se dagulam? Awuk se kumik lila mena? Bare aninga ikia, aninga loagara mu Kaem kote la bitirikko; se nu aninga sanguk se ani akingtala nup patawurikko; nu aninga Saonga Kari, se aninga Kaem.
+
 O Kaem, ni girakala anananga taleng girigir alo nunga tom te kiwem aora bibiya beterem; dugu duap mu ana nainet alo nanga manorman se ana nadogowa te ikiman.
 Ni keta kariimet iwareng nunga karo parusuwurem ale ali mu anananga girigir alo nungarem se te yawarakala dagiman; ni kariimet iwareng umu nunga munan memek koma nunga maguwurem, ale anananga girigir alo nunga bituem se gue pagam namaram.
 Nuna nongota nunga kager ko mel te, agi nongota nunga nosokel te ali mu me bataguru taman, mena; bare mu nika kiting, nika sokel te, se ka kimik nikim mu te kager mu menawurem; mu awuk, ni ka gemang motam ka kariimet ko aniram se uwutata beterem.
@@ -14697,7 +14698,6 @@ Mu awuk, maingte nu kueruk mu mel bo giok ale karogo me namarukko; noko mel ning
 Tom nu marak baga se mu, nu ko melmasak mu ko amilmil bitakaso, se kariimet balukasan nu kari yawara makasan.
 Bare nu kuera ko sor, ko nuet nongotak te kapaman, mu te kaparukko, ale sor nikim me arigokko.
 Ikialko. Awiriya kumik mel suen biya karogo, bare nu kumik ikia sinar ningo mena, mu nu mel diwang bo iwita kua iwi namarukko.
-
 Yawe nu Kaem, nu sokel garagar, kowar bausa te se nama kowar kapara te, ali lilim ko kariimet suen la nunga aruso.
 Nu Zion wonong, wonong balayam yawara nunguning mu te baga se, kumik nikim biyala kaposo.
 Anananga Kaem taiwoso mu tetela la me taiso; tama kuamili biya giram taiso se yar daula samamer lautam ilak taiso.
@@ -14721,6 +14721,8 @@ Nina nengeta ninga launuria nunga nunup te den kawel balsan, ale nenenga gue sua
 Nina uwuta bitakasan se ani den bo me balukasam, se nina ani nenenga bo iwita aga ikikasan. Bare aitak ani den te ninga betesam ale den te ninguru ninga atumekko.
 “Nina kariimet nibiring ani aisisan, mu aninga den ikial ale giris palagalko! Mena mu, ani ninga batutumurek se katir katir kaparal se kariimet bo ninga sangukko mena.
 Ikialko. Kariimet tama bita aisa iwita nongomang ningi nunguning te amilmil aisisan, mu ani aip biya aisisan, ale ani te nunga sangaru taikko lage kuring kagorsan.”
+
+
 O Kaem, nika kua nangara ko munan mu te gemang lila aisuko; nika gemang bataga biya mu te aga memek siwu waruko.
 Aninga paguwura suen la siwu waru ale aninga memek anup nunguruko.
 Aninga bita paguwura mu angamin te aniso, ale aga memek mu wetang te aniso.
@@ -14752,13 +14754,13 @@ Se kariimet ningo diram mu arigimon ale nonoman biyala sapamon, ale gusi se balm
 Bare ani mu tam olive bo, Kaem ko temple ko por ningi aragawara wore iwita, ani pempem Kaem ko kua nangara ko munan mu ko kua se te ira sanami lagasam.
 O Kaem, ani ni kiwem beterem mu ko pempem amilmil kisu se lagarikko; ani nika kariimet nunga biguwura ningi ka nip patawurik ale ilukuawurikko, mu awuk, nika nip mu ningo.
 
-
 Kariimet sinar mena mu balsan, “Kaem mena!” masan. Nunga ikia maga saparam, se nuna munan suen la betesan mu am memek la betesan; ale bo ta munan ningo me beteso.
 Kaem duruk wonong te baga se loagoso se ko kariimet lilim nongote tai kaposo, nu bo i ikia sinar karogo se nukote la motam bita lagoso wore arigokko loagoso.
 Bare mena. Nuna suen la lage ningo nubiring tui muruwuman, ale suen la kilek memek te kapa sapaman; ale bo ta munan ningo bo me bitawoso, am mena biya.
 Se kariimet memek bitawara mu awuk? Nuna me ari ikimonko e? Nuna aninga kariimet bread nokoyam nunga bita maguwusan; ale Kaem ko ikia me tasan.
 Bare ikialko, nuna ninguru nguangamonko, nguangara ko nguangara nunga iramurokko; mu awuk, kari ninga moa maguwu lagaman mu ko koma, Kaem ninguru nunga menawurokko, ale nunga nosokel ngil ngual waru parusuwurokko. Nina mariraral se nuna dolomonko, mu awuk, Kaem nunga meram ale susuru gurugu nungaram.
 O saonga! Aga angamang mu saonga bo Zion barasuk ale Israel kariimet nunga sangukko! Tom Kaem ko kariimet nunga sanguk se aking daiga bagara ningo arigimon, mu Jacob ko digo nongomang motam nungeruk se Israel kariimet amilmilamonko!
+
 
 O Kaem, nika nip biya ko sokel te aga bataguru toko; ani memek bo me beterem se nika sokel te aga sangaruko.
 O Kaem, aninga guranek ikiko; degewa gurugu ale aninga aira ikiko.
@@ -14767,7 +14769,6 @@ Nunguningta, Kaem mu aninga saonga kari; nu aninga bitarso se ani terong la baga
 O Kaem, nononga memek ani ago ko beteman mu koma nungaruko; ni munan diram la karo tua ko Kaem, buta se nunga menawurko.
 O Yawe, aninga angamang amilmil te tama bo bita kisekko; ani nika nip patawurikko, mu awuk, nika nip mu ningo.
 Ni aninga sangem se ikup suen la angimik te aratam mu me aga maguwuram, ale amotam te aga kager ni nunga maguwurem se nungarkem.
-
 
 O Kaem, aninga guranek ikiko! Ni aninga niara imi ko degewa me bagurko.
 Aninga wosenga imi iki ale agiring ilupko; ikup imi aninga maguwurokko nunguning iwita se angimik gawa kaparam.
@@ -14849,6 +14850,7 @@ Nuna na ko loagasan geragasan, ale me arigisan mu am ngus ngus geraga lagasan.
 Bare ani nika sokel aora biya mu ko wur iluwekko; turomola pempem mu ani nika kua nangara mu ko wur iluwekko; mu awuk, ikup kam ningi mu ni aninga yumura kuwim, se aninga manga gek am.
 Ni aninga Sokel, ani wur iluwek ale nip patawurikko; O Kaem, ni aninga yumura kuwim, se ni ninguru aga kua lagasam.
 
+
 O Kaem, ni ana nago ko gemang magaram se biring gurugu nangarem se kager utu naguram ale nasokel menawuram; bare akingtala nanga sangaruko!
 Ni wanara sor maguwu kam anananga ali yukuem, se papak mam woselaram ale yukuawoso; bare tair ale nunguru burangir se kuwim kuwim te aking pelerukko.
 Ni ana nika kariimet ikup ninguru nangarem, se kariimet yu aora nana ale dagulu barasukam ana dagulu barasuwasan.
@@ -14861,7 +14863,6 @@ Bare aga Kaem, awiri ani agarak sor Edom mu te namaruk ale ko wonong sokel aora 
 Awiriya bo mena, mu am nigita. Ni biring gurugu nangarem ale kager te me nanga sangarukasam.
 Bare aitak mu ni ana nanga sangaruko; mu awuk, ali ko kari bo ana nanga sangukko me terong.
 Bare ana nanga Kaem te mu ana kager te mariranakko; nu kota kager kari memek alo mu nunga waruk se kapamonko.
-
 
 O Kaem, de gurugu ale aninga guranek ewere ikiko.
 Ani wonong iwareng bo awar biya wore te baga se, saonga bo taikko lage bo am mena biya se ani nika arusam, ni ani agarak nama manga bo kalel biya owore awote aga patawu bitarko.
@@ -14921,7 +14922,6 @@ Ni tuwik te ningam yu tusam se ali mu yu karogo, buta se yu mu ali bugulik tuso 
 Nika ningo mu nangarsam se na inang sor magoso; se kariimet nunga inang te gia ko kitak se korokem mu mel suen la kuring aratu saposo.
 Sor palunga wosesel biya mu te sirsir ningo barasoso; se duruk luan amilmil kelagoso.
 Sor sirsir karogo mu sipsip sor magaram ale suen biya; se duruk duap ningi sor wolong mu inang muguri karogo terong mam; se melmasak suen biya ninguru tala amilmilasan.
-
 Ali sor lilim ko kariimet, amilmil kelagal ale Kaem nup patawuralko!
 Wur iluwal, nup biya tual, ale noko nup kualala biya patawuralko!
 Ale Kaem maonal, “Mel suen la ni betesam mu am duap bo nunguningkiri! Nika sokel aromemek owore te se, kariimet memek ni ko ko ninguru kuruga namasan.
@@ -14942,6 +14942,7 @@ Ani nup patawu se nu aga sangukko niarem, ale aga memek me kaluwurem.
 Bare ani aga memek angamang motam ningi kaluwurem le mu, nu me aga saongam le.
 Bare nu nunguningta aninga niara ikiam ale agiring iluwam.
 Se ana Kaem nup biya patawunakko! Mu awuk, nu gomang motam kaolam ale aninga niara me buring tuam.
+
 O nanga Kaem, nika gemang lila se ka marak nangaruko; gemang nangaru ale ka nikim yawara nangaruko.
 Mu te ali lilim ko kariimet nika munan se ka sangaru ta ko sokel mu ko ikimonko.
 O Kaem, aninga angamang kariimet suen la ni ko ko amilmilamon ale nip patawumonko!
@@ -15028,7 +15029,6 @@ Se kariimet aninga momonko negawasan mu dolomon ale parasa namamonko; ale nuna a
 Ale awiriya aninga gusirsan mu nunga dolara nunga iramurokko.
 Bare kariimet nika kua lagasan mu nonoman nungeruk se ni ko ko amilmilamonko; kariimet ni nunga sangaruko nomotam bita lagasan mu pempem balmon, “Yawe mu ningo!” ma balmonko.
 Bare ani kituwura, asokel mena; buta se O Kaem, tairate tair ale aga bataguru toko. O Yawe, ni aninga saonga se aga bataguru ta ko kari; ni pasak ala tair ale aga sangaruko.
-
 O Yawe, ani ni kete taisam, aga bitaru se dolara me aga irokko.
 Agiring iki ale nika kiwem ningo diram mu te aga sangaru ale aga bataguru toko.
 Ni pempem aninga manga aora bager se ani te nagu nama yumurekko; ni la balu se ani terong la bagarikko, mu awuk, ni aninga manga gek am se aninga yumura kuwim.
@@ -15124,6 +15124,7 @@ Nika den kalem mu ko kamili me saparukko, mu awuk, tiromorom ko kari memek alo k
 Buta se kariimet nunga bita maguwuman mu nungarkiwer se me dola namamonko, mena; nuna kituwura guat se nungumik mel mena bare nunga sangaru se nika nip patawumonko.
 O Kaem, bares ale ni keta ka kiwem ningo diram wore te sokel ago anirukko ko baluko; kariimet memek ni ko ko den alel balu lagasan wore ko ikia toko.
 Kari memek nunga ngata nirung kawel pempem bita lagasan mu ko kamili me saparukko.
+
 O Kaem, ana amilmil kisisan! Nunguningta ana amilmil kisisan, mu awuk, ni ana nangarak pingi bagasam. Kariimet nika kiwem duap duap beterem mu ko balsan.
 Ni balsam, “Ani agata kariimet te nunga tuterikko tom mu ko ikiwasam; ani munan diram te kariimet nunga tutesam.
 Ali lilim la mu yam yukuok se kariimet suen la yam uririkimonko, bare ali ko nukuri mu ani ilukuawusam se aora biya aniso.
@@ -15168,7 +15169,6 @@ Tuwik taiti nuwi ningi wore kapakaso; taiti gomang te pure pagakaso; pure nikim 
 Pure nirung daula biya ningi aratukaso, se pure nikim ali sor lilim la nikim tuikaso; ali uririkikaso ale wanara ko kapakaso.
 Ni gagi tamun ningi aolak iluwem, ale gagi naung du biya mu batagem koma sang ko namerem, bare ka siwik molak me arigiman.
 Ni ka kariimet sipsip iwita nunga giem; ni Moses, Aaron ilak nunga kari gira ko nunga awurem ale nongorak aolak iluwem.
-
 O aga kariimet, nina aninga den ikialko; nedegawa ninguru gurugal ale den ani balikko ewere ikialko.
 Ani mel girakala aratukaso wore sang balik se ikial ale te sinar palagalko; ale mel saki nengete yumura wore ninguru ko ikialko.
 Girakala anananga girigir alo ko nanga manorman, se nadogowa ikiam se ko ikiman.
@@ -15254,6 +15254,7 @@ Sor saki ko kariimet nanga isarsan, “Nenenga Kaem apoko ya?” ma balsan mu me
 Ana nanga kariimet saki talipara ningi baga se niasan kikisan wore nunga niara ikiko! Nuna uwutata baga kuemonko bagasan; se nika sokel aora biya wore te nunga bataguru toko!
 O Kari Biya, sor saki nunga bala memek ni kimik kuali beteman mu ko koma tom 7 ko iwita nungaruko!
 Asele ana nika kariimet, nika sipsip ko nanga balem se ni anananga bitua kari, mu pempem amilmil kisinak ale nika nip biya pempem patawu se laganakko.
+
 O Israel nanga Bitua Kari, ni anananga niara ikiko! Ni ana Joseph ko gue nanga gira kari. Ni ka daiga kuwim te kualala daigem se engel bibiya ka laturman, se nika sokel wetang sapar,
 se Ephraim se Benjamin se Manasseh ko kariimet arigimonko. Nika sokel aora garagar wore te tai nanga sangaru toko!
 O Kaem, gemang nangaru ale nanga sangaru toko; nanga sangaru se girakala ningo bagaman uwuta aking baganakko.
@@ -15290,7 +15291,6 @@ Aninga angamang motam nunguning mu aga kariimet Israel ninguru agiring ikimon al
 Uwuta mu asele, ani tairate kager kari memek alo nunga maguwuwasan mu nunga morik ale nunga menawurikko.
 Arikaya ani me aga kuesan mu nguangamon ale ani asiwik duap ningi nubugura kulukurmonko; se ikup memek nungarsam mu butata pempem anirukko.
 Bare nina mu, ani inang yaman ningo nunguningkiri mu se, honey yaman nuam mu ningarik se nal ale ningimik karogo terong maukko.”
-
 Kaem biguwura biya bitaruwoso; kari supuling bibiya, kaem gotektek iwita nunumi bitawara, wore arataman se nu ko ikia wetang te balu pagarso:
 “Nina tutera kawel betesan ale kariimet memek bitawara wore nunga atumu sangorsan, bare amaru te kiwem memek sowore bita talko?
 Ani iwita beteralko balsam: Nina kariimet kituwura se kuriang nunam nonet kuera wore nunga saongalko! Ale kariimet ikup giman ale baga maguwuwasan wore ningo nuam nongote beteralko!
@@ -15299,6 +15299,7 @@ Nina ningimik ikia ningo mena se nina nguala sipawasan! Ale nina tiromorom ningi
 Ani Kaem Kalel Biya iwita balsam, nina kaem iwita ninimi betesan, bare nina suen la aninga kuriang la.
 Nina ali ko kariimet tala, se ali ko kariimet kuesan iwitatala, nina kueralko; nina kari supuling bibiya dagulasan ale nunup mena namoso iwitatala dagulalko.”
 O Kaem, ni bares ale ali lilim ko kariimet suen la nunga bita paguwura mu wetang saparko; mu awuk, ali sor suen la ko kariimet mu am nika la.
+
 O Kaem, kiring me kaloko; kutek me ale kiring me sisirokko!
 Arikko! nika kager kari memek kager ko kirimi karame mawasan, nuna ni me ka kuesan ale ni kerak barimasan.
 Nuna yumura la nika kariimet nunga maguwumonko ikia memek bitawasan; ale kariimet ni nunga kuesam wore nunga maguwumonko karogo kaeyawasan.
@@ -15344,7 +15345,6 @@ Se kariimet nunumi ko kua tui se nunumi nongomang nunguning tua ko munan betemon
 Numi gomang tua nunguning ko munan mu ali te barasukko; se Kaem nu ningo diram la bagara ko munan mu duruk uningi bitiruk se tai kaparukko.
 Yawe mu anapeya ningo ningo mu nangaruk, ale nanga ali welang tuok se na inang duap duap ali imi te barasukko.
 Se ningo diram la bagara ko munan mu girok ale noko lage te aolak iluwokko mu nungok burangarukko.
-
 O Yawe, aninga wosenga iki ale aga sangaruko; ani agata aimi sangikko me terong.
 Ni aninga bitaruko, mu awuk, aninga angamang motam nikate la beterem. Ni aninga Kaem; ani nika ura kari yawara; ani nikate la loaga lagasam.
 O aga Biya, ni ani ago ko gemang batagukko, mu awuk, ani kowarkalal maiya nika aru lagasam.
@@ -15369,6 +15369,7 @@ Kaem iwita balam, “Wonong sor aninga ikisan mu ningi, ani Egypt se Babylonia n
 Nunguningta, Zion ko iwita balmonko, “Kariimet imi, se kariimet umu, mu Zion ko kariimet tala,” ma balmonko. “Se Kaem Sokel Garagar mu eng am Zion sokel tuokko,” ma balmonko.
 Yawe kariimet nunup giok ale nunup duap te mu iwita batagukko, “Kariimet imi Zion wonong ko kariimet.”
 Se nuna wur ilumon ale iru seseka se balmon, “Ana nanga mel ningo ningo suen la mu Zion ningi bulowolok maso ale taiso,” mamonko.
+
 O Yawe, ni aninga Kaem, aninga saonga kari; ani tirom kowarkalal ni kema te ka aru wosenga lagasam.
 Degewa gurugu ale aninga guranek ikiko; aninga niara nikate betesam.
 Mu awuk, aninga angamang motam ikup ninguru iram, se ani kua namarikko tom pingi aram.
@@ -15440,7 +15441,6 @@ O Biya, girakala ni ninguru nanga kuakasam, bare aitak awuk? Ni David ilak saruk
 Ana nika ura kariimet se den dolara gisan mu ko kamili me saparukko; me ikia alo den ikup nangarsan se yam giwasan mu ko ikiko.
 O Biya, kari king ilak kagerawara alo mu den dolara manorsan! Ale nu apareyate namoso agi taiso wore den ikup la tusan.
 Yawe, ana nika nip pempem la patawu se laganakko! Nunguningta! Nunguningkiri!
-
 O Biya, ni anananga bagara kuwim ningo; anananga girigir alo nunga tom te, tai aitak, se pempem la butata bagerko.
 Duruk ali se mel suen la me aratu namaman ko tom te la, ni Kaem kimik menara mena butata bagasam.
 Ni balsam se ana kariimet aking kupkup ko geragasan; ale balsam, “Nina kariimet ko gue, nina kueral ale ali ko aralko!”
@@ -15474,6 +15474,7 @@ Ni lion se mot memek nunga nusupuling ita parusuwurko, lion sokel ago se mot mem
 Se Yawe iwita balam, “Ani nu sangaru taik ale bituekko, mu awuk, nu aninga kueso ale ani abowa ningi bagoso.
 Nu aninga aurok mu ani kuring iluwekko; nu memek ningi kaparuk, mu ani ilak baga se bataguru taik ale nup biya tuekko.
 Ale balik se amilmil te tom maiya biya ali imi te baga se, ani noko saonga yawara mu ko iki se lagarukko.”
+
 O Yawe, mel biya aninga angamang motam ningi mu ani amilmil ni kisek ale nip patawurik, ale wur duap duap nika nip te iluwekko, O aninga Kaem Kalel Biya.
 Turomola pempem mu nika kua ana nangara ko munan mu ko balu pagik, ale tirom mu nika gemang nunguningkiri nangara ko munan mu ko balikko.
 Ale bawe se gita mel te yagowom yawara gurugek ale nika nip patawurikko.
@@ -15489,7 +15490,6 @@ Kariimet ningo diram bagara mu tam ningo naur iwita aragamon, ale Lebanon ko tam
 Nuna Yawe ko kawam ningi tam ningo iwita araga se nunguning yawara kapa se lagamonko.
 Nuna garukamon ta wore yam nunguning kapa se lagamonko; nuna tam iru, nunguning duap beteram ale kaposo iwita, sokel karogo la baga se,
 ni ko ko iwita balmon, “Yawe ningo diram la baga lagoso; nu anananga manga gek am, se memek bo ta noko ningi me aniso,” ma balmonko.
-
 Yawe nu King Biya; nu nup biya nunguningkiri se sokel garagar. Nu ali sokel ago nungam se gek am aniso, ale me namaruk tairukko.
 O Yawe, ni duap te nunguningkiri bagakasam, ale mel suen biya me aratukaso la, ni tom suen biya ko king bagakasam.
 Gagi mu nirung biyala kaposo, ko tamun sokel ago kelagoso se nirung biyala barasoso.
@@ -15585,6 +15585,7 @@ Se awiriya saki alo nubiring ko den memek balso, mu ani kuring kalikko; se awiri
 Ani kariimet ni kiring karo tusan mu la nunga kua se, balik se agarak bagamonko; kariimet nunga bagara aolak diram mu la aninga ura kariimet bagamonko.
 Kawel kari memek bo ta ani king aga bitua bowa ningi me bagarukko, ale kariimet kuamili suring ilagala mu aninga amakete me ta bagarukko.
 Ani turomola pempem barasik ale sor imi te kariimet memek alo nuguring kalikko; ale Yawe ko wonong ningi kariimet memek suen la nunga karik se watingi aratamonko.
+
 O Yawe, aninga guranek ikiko; ni aninga sangaruko ka arusam.
 Ani ikup biya ningi kaperem ale bagasam, se ni ani ago ko kema motam me kaluwurko. Degewa gurugu ani aisuko; tom ani airik mu ni tairate agiring ilupko.
 Mu awuk, aninga marak bagara ko tom ali imi te mu, tairate tama bur iwita mena namoso; aga angimik sokel mu tama ningi barasuwoso iwita.
@@ -15613,7 +15614,6 @@ Duap te nunguningkiri girakala biya, ni ali imi ko nukuri yager beterem; se tait
 Melmasak suen la umu mena namamonko, bare ni mu butata baga se lagerko; nuna suen la nanimi te ira ko guang iwita gigira amonko; se guang gigira aram se waru sapara ale iru gia ko iwita, ni nunga menawur se mena namamonko.
 Bare ni am koma suanta bagasam, ale ni mu kimik menara mena.
 Nika kariimet nunga kuriang mu ni kema te bagamonko; nononga gue te mu eng am ni kema te pempem butata baga se lagamonko.”
-
 Ani Yawe ko nup patawurikko; angamang motam lilim te noko nup laili mu patawurikko.
 Ani Yawe ko nup patawurikko; noko munan ago ko beteram mu me ta ko angamili saparukko.
 Nu aninga memek suen la kututuwuso, ale aga kuera ikes menawuso.
@@ -15807,6 +15807,7 @@ mu Kaem nunga supuling gomang ikup nungaram, ale nunga kaoram se sor merang te, 
 Bare nu kariimet nungumik mel mena wore nunga saongam, se nunga kuriang gue mu pagam, ale sipsip gue pagoso sor ereso iwita sor iram.
 Se kariimet ningo diram bitawara mu munan imi arigisan ale ko amilmilasan, bare memek bitawara alo mu arigisan ale nuguring menaso.
 Awiriya ikia sinar ago mu, kiwem imi suen la ninguru ko iki se, Yawe ko kua ana nangara biya mu ko kuamin ares maukko.
+
 O Kaem, ani ni ko ko angamang ningi ninguru nunguning aram; ani aga adera angimik lilim la nika wur iluwek ale nip patawurikko.
 Ani ukira duap ago barasik ale aga gita se kulele kolawirik se sor ukirokko.
 O Yawe, ani sor kasik la nongoma te amilmil kisek, ale kariimet suen la nongoma te wur iluwek ale nip patawurikko.
@@ -15820,7 +15821,6 @@ Bare aga Kaem, awiri ani agarak sor Edom mu te namaruk ale ko wonong sokel aora 
 Awiriya bo mena, mu am nigita. Ni biring gurugu nangarem ale kager te me nanga sangarukasam.
 Bare aitak mu ni ana nanga sangaruko; mu awuk, ali ko kari bo ana nanga sangukko me terong.
 Bare ana nanga Kaem te mu ana kager te mariranakko; nu kota kager kari memek alo mu nunga waruk se kapamonko.
-
 O Kaem, ni keta suanta ani nika nip patawu lagasam, ni ani ago ko kiring me kaloko.
 Mu awuk, kariimet memek nuguring kawel ago mu aga balu maguwusan, ale ani ago ko den kawel balsan.
 Nuna nongomang memek te den te aga bita gilingisan; bare mu kumik duap bo mena biya.
@@ -16329,6 +16329,7 @@ O Yawe, arikaya ni me ka kuesan, mu ani betela me nunga kuesam; se arikaya ni ke
 Ani me nunga kuesam nunguningkiri, ale kari memek ko nungarkasam.
 O Kaem, ni aninga angamang motam ari gurugu ale aga ikia suen la ari ikiko.
 Ale memek mu menawur ale pempem la ningo bagara ko lage te aga bitarko.
+
 O Yawe, ni kari memek alo nuguting te aga bataguru toko! Aga bitaru se kager ko kari memek me aga bita maguwumonko!
 Nuna pempem nongomang ningi ikia memek betemonko iki gurugu lagasan. Ale ngual ngual kager patawusan.
 Nunga nungamili nuguring mu mot memek ko wore toroman, mot urer ko kuating memek iwita mu nunga nungamili kopa te aniso.
@@ -16342,7 +16343,6 @@ Tama kaok kaniwara wore nungumik kuali waru ale tama ningi nunga waruko; mutim d
 Kawel kari memek alo umu ali imi te kuring bo me ta nungaruko; kager daong ko kari memek alo mu ikup memek nunga irok se memek tamonko.
 O Yawe, ani ko ikisam ni kariimet nungumik mel mena mu nunga bitarsam, ale kituwura guat alo mu munan ningo diram la nongote betesam.
 Nunguningta, kariimet ningo dirkiriyam mu nika nip biya amilmil tui se diram la ni kema te bagamonko.
-
 O Yawe, ani nika arusam; tairate agate tairko. Tom ani ka aurik mu, agiring ikiko.
 Aninga guranek mu mel yawara bo ko tama bur siring yawara iwita toko; aninga agiting kanuwa mu, tirom bainga ko tama bita kisa iwita.
 O Yawe, aninga agiring ko sinar to se agiring angamili te den memek bo me ta aratukko.
@@ -16353,6 +16353,7 @@ Ale balmon, “Nononga nosokelel mu manga papak mam ale parasaram bilik bilik ka
 O Yawe, ni keta suanta ni Kaem, ani ni kete la loaga lagasam; ni aninga yumura kuwim, se ani nika ningi yumusam; ni aga bita to se me kua namarikko.
 Ni aga sangaru se bawang bo ago ko kereman mu me aga kutirokko, nunga dagarok kereman mu ningi me sorarikko tala.
 Bare memek bitawara alo mu nunga ngual awur se nongota nunga dagarok nunga taliparukko, se ani mu yawarakala la nunga kia kaparik ale ningo la bagarikko.
+
 Ani Yawe kote niasam, nu gomang aisuk ale aga sangukko arusam.
 Ani angamang ikup mu suen la nu manorsam se ikiso.
 O Yawe, tom ani angamang motam sokel menaso, mu ni keta aninga saonga ko lage mu ko ikisam. Tuang ani te aolak ilusam mu dagarok bo kaluwura la te kira beteman.
@@ -16360,7 +16361,6 @@ Ni aninga abeta koma sing sang te loager ale arikko, kariimet bo aga sangukko me
 O Yawe, ani ni kete niasam, ale balsam, “Ni mu aninga yumura kuwim, se tom ani ali imi te marak baga se mu, ni aninga mel ningo se gira nunguningkiri,” ma balsam.
 Se degewa gurugu ale aninga niara ikiko; ani aeman sisi kaparam. Kari ikup aisisan mu nuguting te aga sangaru toko, mu awuk, ani nunga kiarikko me terong.
 Se ikup ewere ko talipara ningi aga sangaru to se ani nika nip patawurikko. Nika ningo mu aninga te bitar se kariimet ningo diram bitawara mu arigimon ale tai agarak ilu biguwumon ale nip patawumonko.
-
 O Yawe, degewa gurugu ale aninga aira ikiko; nika kiwem mu diram nunguningkiri se ni den nunguning balsam; buta se tai aga sangaruko.
 Ni aninga munan me tuatir ilupko, mu awuk, kariimet bo ta diram nika metam te me bagoso.
 Kari ani agarak bitawara mu aga iluwam ale aga menawu ali karogo aga beteram; ale tiromorom ningi aga saparam se kariimet kua namakoyam iwita bagasam.
@@ -17897,7 +17897,6 @@ Se tom awiriya bo, kariimet wit mairap se kariimet dora nongorak kasikasi te mun
 Kaem ko kiti guruga den ningi pempem loaga se lagaralko! Bare awiriya kiti guruga den baluwoso mu uwuta me munakawoso, mu tiromorom ningi maga namarukko.
 Kariimet uwuta mu nongomang maga, na ko kua se, wonong karo gurungumu se lagamonko. Ale karak ninguru nunga bilok mu, nongomang magaruk se nunga king se nunga kaem nongote kualala loaga se nunga balu maguwumonko.
 Ale tom nomotam aliti loagamon bare mu, ikup memek la, se tiromorom nguangara karogo mu la sor ira saparuk se arigimonko. Ale tiromorom yanana kiriyam mu ningi kapamonko.
-
 Bare aninga kariimet awiriya ikup umu ningi maga kuena lagaman mu nususuru dirmaukko. Tom bo te mu Zebulun se Naphtali ko kariimet mu dolara memek ningi lagaman. Bare maingte mu nunga ali Galilee lilim la, gagi norogen kaora se yu Jordan koma sang ko, kariimet iwareng te bagasan, mu nup biya tuokko.
 Kariimet tiromorom ningi lagaman mu nikim biya bo arigiman; awiriya maga namara ko tiromorom ningi bagaman mu nikim biya nongote kaparam.
 Ni nunga sor umu ulaluwurem ale amilmil biya nungarem; se nuna ni kema te, inang bolala awura ko amilmil bita kam amilmilasan, agi kager kari kager ningi melmasak ningo ningo gia ale pagaru nunumi tua ko amilmil bita kam amilmilasan.
@@ -17918,6 +17917,7 @@ Bore te se, Kari Biya nunga kari kulak nunga me amilmilaso, ale uwuta tala, nu n
 Nunguningta, nunga munan memek umu tama iwita barasoso, ale tam bisek iru kaniso nama giarum biya karogo la kani malilawoso, ale ko bur patatangoso tarigiso wore iwita.
 Yawe Sokel Garagar ko gomang memek te ali kaniruk se kariimet mu tama kower iwita kanimonko. Kariimet nongota nunumi ko me ikimonko:
 awiriya koma sengam ko mu te mel moa nauk, wore yam karak kuawurukko, awiriya koma ngas ko mu te mu betela moa nauk, wore am na ko kuawurukko. Ale nongota nongota nunga kuriang moa namonko:
+Manasseh ko kariimet mu Ephraim ko kariimet nunga moa namonko, se Ephraim ko mu Manasseh ko mu nunga moa namonko; ale bolala la aking Judah ilak barimamonko. Uwutata aratuk ta wore, noko gomang motam me ta kua kaposo, kuting daong ko am kualala aniso.
 Nina law kaola ko kari alo, me ta namaralkowo! Mu awuk, nina law memek, kariimet te nunga maguwura ko, mu kalo nungursan,
 ale ninga law memek umu te aninga kariimet nungumik mel mena alo mu nunga bita maguwusan; ale nunga ikup diram la me ari nungursan; ale imet gerewa se kuriang nungumik nunam nonet mena mu, ninga kawel te nunga melmasak nongote gisan.
 Ninga munan memek sumu ko koma sor awar te tairuk, mu nina awuk beteralko? Nina awiri kote saonga ko nagu namaralko? Ale kawel te mel ningo gi lagaman sumu aparete awuralko?
@@ -22405,32 +22405,32 @@ Barley se wheat te nunga burangara ko kuwim mu inang karogo duruk tarigirukko; s
 “Anigita kager bitakasam se locust nunumi nogowom kaora la taikasan ale ninga maguwukasan; ani aninga kager kari sokel ago iwita nunga bitakasam se taikasan. Bare yia awilaya ninga na inang magaram mu aking kuwim kuwim te nungek se aratukko.
 Se ninga na inang suen kelaguk se udagi me ko kueralko; nina ani Yawe, nenenga Kaem, aip patawu se lagaralko; ani agata mel bibiya nego ko beterem. Se udagi nina aninga kariimet me magi kutuwa se dola lagaralko.
 Se Israel, mu te nina ikial, ani nina nengerak bagasam. Ani Yawe, nenenga Kaem, kaem bo bo mena. Se udagi nina aninga kariimet me magi kutuwa se dola lagaralko.
+“Se maingte ani aga Bur bitirik se kariimet suen la nunga ningi kaparukko. Se ninga namarari se ninga nanawusari mu agiring tamon ale agiring diram la balu pagarmonko, se ninga kari garuk mu ipingira arigimonko; se ninga kari kulak mu kausa yumura sang arigimonko.
+Se aga ura kari ta se aga ura imet ta nunga ningi karogo la bitirik se kaparukko.
+Tom mu te taiti gomang te se ali te kausa duap duap, gue, se tama, se tama bur biya iwita bitirik se aratukko.
+Worem motam tiromorom paguk, sige motam gue iwita guar mauk, asele Yawe ko tom biya, nguangara ago, umutang aratukko.
+Se awiriya Yawe nup te airuk mu saonga taukko; mu awuk, Yawe balam butata, Duruk Zion te se Jerusalem ningi mu kariimet ikup memek kia kapaman ale bagasan mu nunga ningi, noko ma nunga balam mu nunga giokko.”
 “Ikialko! Tom mu kaparuk se ani Judah se Jerusalem ningi mel suen biya nungek burangarikko.
 Tom mu te ani sor suen la nunga bolala awurek ale arungak Jehoshaphat ko sor gomeng mu te arungu kaparikko. Aninga kariimet Israel mu aninga angamang motam, bare nungumik te kilek memek bita lagaman umu ko, ani kuwim mu te den te nunga bitirikko, mu awuk, nuna aninga kariimet nunga parusuwuman se sor sor namaman bagakasan, ale nuna aninga ali pakaku nunumi tui gurugu ago namaman.
 Ale nuna aninga kariimet ura dungan ko nunga gimonko kolara kolaman ale nunga parusuwu nunumi tuman. Aking nuna aninga kari kulak se imet itiwik mu mel yam ko nunga bitakasan, ale arungu nama kari saki arungu diakasan, ale koma manga tokasan mu te lage luan imet te nunga dia se, waen te agotala dia nokasan.
 “Tyre, Sidon se Philistia sor lilim la, ikialko! Ani memek awuk wore beterem se nina butata aningate betesan a? Ani mel i nengete bita maguwurem se koma ko suwuta betesan e? Buta agi mu, sinar talko! Ani tairik ale kiwem nina beteman mu ko koma ninga maguwurikko.
 Mu awuk, nina aninga silver se gold se aga mel yawara yawara giman ale ago nama ninga temple ningi awuman.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ale nina aninga kariimet Judah se Jerusalem mu nunga giman ale Greek alo arungu nunga diaman, se nunga sor beteman awar biya namaman.
+“Bare iwita ikialko. Aitak mu ani kuwim nina te nunga beteman se namaman umu te nunga giek se pelemon ale taimonko. Ani nina kilek aguwaya nuna nungumik te beteman turantala nina ningimik te bitirikko.
+Ale ninga nanamarari se ninga nanawusari mu nunga giek ale Judah alo nuguting te nunga awurek, se aking nuna nunga gimon ale Sabean alo nongorak diamon se nuna nunga sor awar biya nunguningkiri mu te nongorak namamonko.” Imi Yawe ko kuring se uwutata aratukko.
+Den imi balal se sor sor namarukko: Kager ko ninimi nungalko! Kager kari nongomang patawural se suen la tai bolala awumon ale sanami muruwumonko.
+Ninga ali te kaura ko mel mel ital se nama kager ko batir ko aratamon, se tam kower te tagi karogo kapara ko yaku mu moa dingumu ago namaral se gatu ko aratamonko. Se kituwura alo ta wore nokokosa momon ale balmon, “Ani asokel ago!” mamonko.
+Nina sor suen la ninga koma koma te pasak tai umu te ilu biguwuralko. O Yawe, ni ka kager kari arungu tai kaparko!
+Yawe balso, “Sor suen la barasamon ale Jehoshaphat ko sor gomeng mu te taimonko; mu awuk, ani umu te daigek ale sor suen la nunga tuterikko.
+Arigalko. Nononga kilek memek mu yopa saparam. Inang muguri mu garukaram, se batir sisuwuralko! Waen ko nunguning yoparam se bolala awuman mu kuring aratam, se tairal ira parusuwural se kani waen yu karogo mu kuring aratu saparukko!”
+Kariimet ninguru ta, se kaura koma mena, mu tai kuwim gomeng, den te tutera ko, mu te biguwuman. Mu awuk, Yawe ko tutera tom sor gomeng mu te mu tai pingi aram.
+Worem se sige mu tiromorom kelagamonko, se baras nikim me kapamonko tala.
+Yawe Zion baga se lion iwita niaruk, ale Jerusalem baga se pure iwita paguk se ali se taiti mu uririkimonko. Bare Yawe mu ko kariimet Israel nunga yumura kuwim gek am bagarukko.
+“Se munan umu te nina ko ikialko, ani Yawe, nenenga Kaem, ani aga duruk laili Zion bagasam. Jerusalem mu akingtala laili anirukko; se udagi kariimet iwareng taimon ale me ta eremonko ale kau tamonko.
+“Tom mu te duruk luan mu tam waen ago terong maukko; se duruk dopang mu bulmakau amin welang ago mu ago terong maukko; se Judah sor suen la yu ago la terong ma saparukko. Yu ningo bo Yawe ko temple ningi palenguk aratuk ale sor gomeng maraka mu yu tui saparukko.
+Bare Egypt mu sor garagarayam memek ko aratukko, se Edom sor mu betela maraka garagara maukko, mu awuk, nuna Judah kariimet arungu kagerman, ale kariimet nungumik den mena wore nunga moman se kueman.
+Se Judah sor mu kariimet ago terong ma saparukko; se Jerusalem mu kariimet karogo pempem butata anirukko.
+Ani kariimet nungumik den mena, nunga moman se kueman se ani koma me kutuwurem, mu koma kutuwurekko.” Yawe Zion pempem bagoso!
 
 
 
@@ -22614,6 +22614,7 @@ Bare mena. Kari ari mu sail te dal gurugumon ale wos ilumon ale ago langi aratam
 Se nuna Yawe kote aiman ale balman, “O Yawe, Jonah ko Kaem,” maman, “ana kari imi uwuta betenak se kueruk mu ni me nanga moar se kuenakko. Ana kari imi am ipi betenak se kueruk mu ni ana kari memek alo iwita me nanga ikiko. O Yawe, ni Jonah ko Kaem, ni keta ka ikia karo tuem se ikup imi aratam,” maman.
 Asele Jonah patawuman ale gagi ningi sapaman, se gagi kueram nama malinaram.
 Mel imi aratam se kariari mu Yawe ko ninguru tala nguangaman, ale Yawe tama bita tumon ale nongomang motam tumonko mu ko ikia Yawe koma te kaloman.
+Bare Yawe nu wal aromemek bo beteram se tairam, ale Jonah lakumam, se Jonah wal umu tuagu ningi woremkalal ilagala suan se tirom ilagala suan ko bagaram.
 Jonah wal tuagu ningi baga se, Yawe, noko Kaem, mu kote guranek beteram,
 ale mam: “Ani ikup memek ningi baga se Yawe nika aurem, se ni ani agiring iluwem. Ani kuera mutim ningi baga se saonga ko niarem, se ni aninga niara ikiem.
 Ni ani gagi du biya wore ningi aga saperem se nama dagulem, ale du biya kaperem se gagi ko lalol ninguru aga lautam; ka tamun bibiya kelagakasan ale angimik ko namakasan.
@@ -22624,7 +22625,6 @@ Ani sarengem ale kaperem nama laga gagi ko duruk duap ningi aratem, ale kua iwi 
 “Arikaya kaem kawel alo mu nunga ilukuawusan mu nika gemang lila bowa ningi me bagasan.
 Bare ani mu, wur amilmil ilu se anapeya tama mel tama bita kisekko balem umu bita kisekko. Ale balik, ‘Sangaru tata ko munan mu Yawe kote taiso!’ maikko.”
 Se Yawe wal aromemek mu kiti gurugam se Jonah ilak nama kapa saun te kapi beteram.
-
 Yawe ko den akingtala iwita Jonah kote tairam:
 “Ni bares ale wonong biya Nineveh wore ningi namar ale den ani ka manorsam imitang nunga manaruko.”
 Se Jonah Yawe ko kuring kaoram ale barasam Nineveh namaram. Wonong umu ulal biya nunguningkiri, se ni ningi aolak ilup mu, woremkalal ilagala suan bare asele nama koma sang te aratuko.
@@ -22765,6 +22765,7 @@ Nineveh, nika ningi kari memek bo aratam ale Yawe ilak barimarukko ikia tuati gu
 Bare Yawe iwita balso: “Nineveh alo sor saki ko kager kari nongorak nunumi nuguting iluman ale nuna suen biya nunguningkiri, bare ani nunga menawurik se menamonko. O Judah, nunguningta ani memek ningi ka beterem, bare udagi uwuta me ka bitirikko.
 Aitak mu ani nononga sokel ninga iramuram mu menawu saparikko, ale nunga mayang aora te ninga talipaman mu batutumu warikko.”
 Yawe den aora biya balu ni Nineveh kisam mu iwita: “Ni mu aitak kimik kuriang gue bo nika nip giokko mu mena. Ani ni melmasak dora, tam te kisi awurem se ka kaem kawel alo nunga kuar nika temple ningi anisan sumu, nunga kulukumu biagi maguwu saparikko. Ale nika nip te ka kuera mutim ilu bitirikko, mu awuk, ni memek nunguningkiri!”
+O Judah, duruk luan awote loagerko, kari bo den gilalong ningo giam ale ago taiwoso, nu marolila se bagara welang ko den bala ko kari! Nika kagin ko biguwura tom bibiya mu te mu amilmilerko! Ale anapeya mel Kaem tuiko ilak den kalem mu tuiko! Memek bo udagi me utu nagurok ale ka maguwurokko, mena; mu nuna mena sapaman.
 Nineveh, nika kager memek mungkala utu naguram. Nika kager kari ka wonong ko por ko sinar tamon, ale ka lage bitarmon, ale kager ko sokel ago la sanami muruwumon ale loaga sagamonko!
 Yawe Jacob se Israel mu tam waen ningo iwita, bare kager memek maguwu silati warman, wore aitak aking gi kuwim kuwim te nungok burangarukko tom.
 Nineveh, kager ni kerak kagerarukko taiso mu nunga kager ko karem mu diriyam, nunga kager ko guang mu diriyam tala. Se nunga karis ain te nunga mu, nikim tama iwita biliwilik bagoso, se nunga gatu tam aora te kisiman mu gurugusan patawusan.
@@ -22778,7 +22779,6 @@ Nineveh marok kulikuling iwita aniso! Am memek ko memek arigam! Se ko kariimet n
 Nineveh mu lion ko wonong iwita bagakaso. Bare aitak lion anumang se pagar bibiya bagaman mu apalak namaman? Nu lion gotektek nunga nanuruwukaso se nguangara mena geragawaman mu aitak apalak nama sapaman?
 Se lion mu aratukaso ale mel saki ninguru nunga moakaso, ale gi ago tai ko kuriang se lion pagar mu terong la namonko bita nungarukaso.
 Bare Yawe Sokel Garagar mu iwita balso, “Ni arigem, ani aitak ni kerak kager biya bitirikko. Ani nika karis suen la kai maliluwu saparikko; se aga baenat te nika kager kari kulak, lion iwita, mu nunga menawu saparikko; se aratamon ale saki alo me nunga bita maguwumonko. Nika den gia ko kari bo ta me bagoso, se udagi den bo gimon ale me karogo nama balmonko.”
-
 O Nineveh, ikup ko ikup arikkowo! Ni kariimet gue ko wonong, kawel munan ago terong maem, kager munan te mel gia mu ago terong maem, kariimet saki nunga bita maguwura mu nika mel ningo nunguning iwita!
 Karis ko girigirik nirung kaposo se horse ko wip niaso owore ikiko! Horse ko suwik se karis numi koma ko kaposo ko nirung owore me ikisam e?
 Kager kari wuli karogo horse darangara nungarsan, nunga baenat mu kore biliwilik bagoso, se nunga gatu mu kore nikim kapawoso. Kariimet suen biya kueman, ale nunumi awote duruk tarigiman, se nunga kaura ko koma mena se kariimet nunga ira kalakumu nama taisan.
@@ -23205,12 +23205,12 @@ Ale aking balsan, 'Nusupuling lagara ko kariimet alo se memek betera ko kariimet
 Se udagi kariimet Yawe kua tuiwara mu nongota nunumi ago munakawaman se Yawe ikiam. Ale balam se duruk wonong te scroll bo nu koma te awote garekaman, garek umu awiriya nu kua tui se nu nup biya tuiwara umu nunga nunup se nunga dugu duap ago awote garekaman.
 Se Yawe Sokel Garagar mu mam, “Kariimet umu am aninga angama pasarang nunguningkiri,” mam. “Se day tom, te aninga melmasak ningo ningo gi nungekko mu te mu, ani kari bo, ko namar nu kua tui lagoso se gomang motam tuso iwita, ani aga kariimet umu angamang nungarik ale nunga giekko.
 Asele nina kariimet ningo diram la Kaem bowa ningi bagara umu se kariimet memek nu bowa ningi me bagara alo mu, wetang te nungarki nunga ikialko.”
-
-
-
-
-
-
+“Nunguning ta, day tom bo taiwoso. Day tom umu tama bo kowar tamatama iwita kanirukko. Se nusupuling lagara alo se memek betera alo mu sua batutumu wara se yager butuk la anikam, tama umu nunga kai saparuk se yager butuk bo ta me bangawurukkowo.” Yawe Sokel Garagar mu uwuta balso.
+“Bare nina awiriya ani aip biya patawu lagaman mu, munan ningo diram mu worem basukam bausok ale sangam ningaru se mel kasik la nungok burangurukko; se bulmakau gotekgotek por betera ale arata gopa palaga iwita, nina aratal ale tinga kola se amilmilaralko.
+Ale kam ani munan umu bitirikko tom mu te mu, kariimet memek bita lagaman mu, tama nuwi iwita kapamon se nina nisiwik gomang te nunga ira kalakamaralko.” Yawe Sokel Garagar mu uwuta balso.
+“Nina aninga ura kari Moses ko law mu, ko ningamili me saparukko. Ani kiti guruga den se law umu nina Israel alo suen la ninga, duruk Horeb te Moses tuem.
+“Ikialko. Ani Yawe aga day tom nguangara ago mu me taiso la mu, ani prophet Elijah bitirik se girok tairukko.
+Nu ba alo nongomang motam gurugok se nunga kuriang alo kua nungarmonko; se kuriang alo nongomang motam gurugok se nunga nonet alo kua nungarmonko. Se kam ani tairek mu, nunga ali sor me maguwurekko.”
 Imi Jesus Kristus ko taleng usir nononga nunup. Jesus mu David ko gue te tairam, se David mu Abraham ko gue te tairam.
 Abraham ko namar mu Isaac. Se Isaac ko namar mu Jacob. Se Jacob ko namar mu Judah, se ko kuriang saki ago.
 Se Judah ko namar ilagala mu Perez se Zerah. Nunga nunam mu Tamar. Se Perez ko namar mu Hezron. Se Hezron ko namar mu Ram.
@@ -27691,7 +27691,7 @@ Mel imi kaluwura ko mel bo mena, bore te se nina kutek mal ale mel bo beteralko 
 Nina kariari nongorak taiman imi, nuna temple suen la ningi me tere naman, agi nanga kaem imet umu ko den memek bo me balman, mena.
 Bore te se, Demetrius ko ura suan nongorak, kari i bo ko nengemang ikup agi mu, den ariga ko kari bagasan, se umu te den te ninimi atumal se nuna ko koma balu ningarmonko.
 Se ikup mel i biya nuam agi mu, den ariga ko kuwim te diram karogo namaralko.
-Se aitakta mu ana munan aitak beteman imi ko ikup ginakko lage te bagasan. Se nanga ilumon ale nanga isarmon agi mu ana awuk balnakko, mu awuk, ikup imi kumik duap bo mena,” mam.
+Se aitakta mu ana munan aitak beteman imi ko ikup ginakko lage te bagasan. Se nanga ilumon ale nanga isarmon agi mu ana awuk balnakko, mu awuk, ikup imi kumik duap bo mena,” mam. Kari supuling mu uwuta balam, ale kariimet nunga biguwura umu parusuwuram se namaman.
 Se tom kariimet nunga nirung umu menaram mu, Paul Kris alo nunga den beteram se taiman. Se den sangam nungaram, ale nunga beteram ale Macedonia namakaso.
 Nu sor umu ningi aolak ilu se den sangam suen biya kariimet nungaru nungaru nama Greece aratam.
 Ale nu umu te sige ilagala suan baga udagi dal tauk ale Syria namarukko negawa, Juda alo nu momonko den taling beteman se ikiam mu nu aking koma gurugam peleram, lage Macedonia aratam namaram mu kaoram.

@@ -926,6 +926,7 @@ And Laban said to Jacob, Behold this heap, and behold the pillar, which I have s
 This heap be witness, and the pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
 The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the Fear of his father Isaac.
 And Jacob offered a sacrifice in the mountain, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mountain.
+And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
 And Jacob went on his way, and the angels of God met him.
 And Jacob said when he saw them, This is God’s host: and he called the name of that place Mahanaim.
 And Jacob sent messengers before him to Esau his brother unto the land of Seir, the field of Edom.
@@ -958,7 +959,6 @@ And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wher
 And Jacob called the name of the place Peniel: for, said he, I have seen God face to face, and my life is preserved.
 And the sun rose upon him as he passed over Penuel, and he limped upon his thigh.
 Therefore the children of Israel eat not the sinew of the hip which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew of the hip.
-
 And Jacob lifted up his eyes, and looked, and, behold, Esau was coming, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
 And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.
 And he himself passed over before them, and bowed himself to the ground seven times, until he came near to his brother.
@@ -1709,10 +1709,6 @@ And the magicians of Egypt did in like manner with their enchantments: and Phara
 And Pharaoh turned and went into his house, neither did he lay even this to heart.
 And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river.
 And seven days were fulfilled, after that Jehovah had smitten the river.
-
-
-
-
 And Jehovah spake unto Moses, Go in unto Pharaoh, and say unto him, Thus saith Jehovah, Let my people go, that they may serve me.
 And if thou refuse to let them go, behold, I will smite all thy borders with frogs:
 and the river shall swarm with frogs, which shall go up and come into thy house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneading-troughs:
@@ -1741,6 +1737,10 @@ And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your G
 And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to Jehovah our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?
 We will go three days’ journey into the wilderness, and sacrifice to Jehovah our God, as he shall command us.
 And Pharaoh said, I will let you go, that ye may sacrifice to Jehovah your God in the wilderness; only ye shall not go very far away: entreat for me.
+And Moses said, Behold, I go out from thee, and I will entreat Jehovah that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to-morrow: only let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to Jehovah.
+And Moses went out from Pharaoh, and entreated Jehovah.
+And Jehovah did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one.
+And Pharaoh hardened his heart this time also, and he did not let the people go.
 Then Jehovah said unto Moses, Go in unto Pharaoh, and tell him, Thus saith Jehovah, the God of the Hebrews, Let my people go, that they may serve me.
 For if thou refuse to let them go, and wilt hold them still,
 behold, the hand of Jehovah is upon thy cattle which are in the field, upon the horses, upon the asses, upon the camels, upon the herds, and upon the flocks: there shall be a very grievous murrain.
@@ -2112,7 +2112,6 @@ And if a man shall open a pit, or if a man shall dig a pit and not cover it, and
 the owner of the pit shall make it good; he shall give money unto the owner thereof, and the dead beast shall be his.
 And if one man’s ox hurt another’s, so that it dieth, then they shall sell the live ox, and divide the price of it; and the dead also they shall divide.
 Or if it be known that the ox was wont to gore in time past, and its owner hath not kept it in; he shall surely pay ox for ox, and the dead beast shall be his own.
-
 If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall pay five oxen for an ox, and four sheep for a sheep.
 If the thief be found breaking in, and be smitten so that he dieth, there shall be no bloodguiltiness for him.
 If the sun be risen upon him, there shall be bloodguiltiness for him; he shall make restitution: if he have nothing, then he shall be sold for his theft.
@@ -2143,6 +2142,7 @@ for that is his only covering, it is his garment for his skin: wherein shall he 
 Thou shalt not revile God, nor curse a ruler of thy people.
 Thou shalt not delay to offer of thy harvest, and of the outflow of thy presses. The first-born of thy sons shalt thou give unto me.
 Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with its dam; on the eighth day thou shalt give it me.
+And ye shall be holy men unto me: therefore ye shall not eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.
 Thou shalt not take up a false report: put not thy hand with the wicked to be an unrighteous witness.
 Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to turn aside after a multitude to wrest justice:
 neither shalt thou favor a poor man in his cause.
@@ -2848,13 +2848,6 @@ and he shall make restitution for that which he hath done amiss in the holy thin
 And if any one sin, and do any of the things which Jehovah hath commanded not to be done; though he knew it not, yet is he guilty, and shall bear his iniquity.
 And he shall bring a ram without blemish out of the flock, according to thy estimation, for a trespass-offering, unto the priest; and the priest shall make atonement for him concerning the thing wherein he erred unwittingly and knew it not, and he shall be forgiven.
 It is a trespass-offering: he is certainly guilty before Jehovah.
-
-
-
-
-
-
-
 And Jehovah spake unto Moses, saying,
 If any one sin, and commit a trespass against Jehovah, and deal falsely with his neighbor in a matter of deposit, or of bargain, or of robbery, or have oppressed his neighbor,
 or have found that which was lost, and deal falsely therein, and swear to a lie; in any of all these things that a man doeth, sinning therein;
@@ -2878,6 +2871,13 @@ This is the oblation of Aaron and of his sons, which they shall offer unto Jehov
 On a baking-pan it shall be made with oil; when it is soaked, thou shalt bring it in: in baken pieces shalt thou offer the meal-offering for a sweet savor unto Jehovah.
 And the anointed priest that shall be in his stead from among his sons shall offer it: by a statute for ever it shall be wholly burnt unto Jehovah.
 And every meal-offering of the priest shall be wholly burnt: it shall not be eaten.
+And Jehovah spake unto Moses, saying,
+Speak unto Aaron and to his sons, saying, This is the law of the sin-offering: in the place where the burnt-offering is killed shall the sin-offering be killed before Jehovah: it is most holy.
+The priest that offereth it for sin shall eat it: in a holy place shall it be eaten, in the court of the tent of meeting.
+Whatsoever shall touch the flesh thereof shall be holy; and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in a holy place.
+But the earthen vessel wherein it is boiled shall be broken; and if it be boiled in a brazen vessel, it shall be scoured, and rinsed in water.
+Every male among the priests shall eat thereof: it is most holy.
+And no sin-offering, whereof any of the blood is brought into the tent of meeting to make atonement in the holy place, shall be eaten: it shall be burnt with fire.
 And this is the law of the trespass-offering: it is most holy.
 In the place where they kill the burnt-offering shall they kill the trespass-offering; and the blood thereof shall he sprinkle upon the altar round about.
 And he shall offer of it all the fat thereof: the fat tail, and the fat that covereth the inwards,
@@ -4229,6 +4229,21 @@ So they, and all that appertained to them, went down alive into Sheol: and the e
 And all Israel that were round about them fled at the cry of them; for they said, Lest the earth swallow us up.
 And fire came forth from Jehovah, and devoured the two hundred and fifty men that offered the incense.
 And Jehovah spake unto Moses, saying,
+Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are holy,
+even the censers of these sinners against their own lives; and let them be made beaten plates for a covering of the altar: for they offered them before Jehovah; therefore they are holy; and they shall be a sign unto the children of Israel.
+And Eleazar the priest took the brazen censers, which they that were burnt had offered; and they beat them out for a covering of the altar,
+to be a memorial unto the children of Israel, to the end that no stranger, that is not of the seed of Aaron, come near to burn incense before Jehovah; that he be not as Korah, and as his company: as Jehovah spake unto him by Moses.
+But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of Jehovah.
+And it came to pass, when the congregation was assembled against Moses and against Aaron, that they looked toward the tent of meeting: and, behold, the cloud covered it, and the glory of Jehovah appeared.
+And Moses and Aaron came to the front of the tent of meeting.
+And Jehovah spake unto Moses, saying,
+Get you up from among this congregation, that I may consume them in a moment. And they fell upon their faces.
+And Moses said unto Aaron, Take thy censer, and put fire therein from off the altar, and lay incense thereon, and carry it quickly unto the congregation, and make atonement for them: for there is wrath gone out from Jehovah; the plague is begun.
+And Aaron took as Moses spake, and ran into the midst of the assembly; and, behold, the plague was begun among the people: and he put on the incense, and made atonement for the people.
+And he stood between the dead and the living; and the plague was stayed.
+Now they that died by the plague were fourteen thousand and seven hundred, besides them that died about the matter of Korah.
+And Aaron returned unto Moses unto the door of the tent of meeting: and the plague was stayed.
+And Jehovah spake unto Moses, saying,
 Speak unto the children of Israel, and take of them rods, one for each fathers’ house, of all their princes according to their fathers’ houses, twelve rods: write thou every man’s name upon his rod.
 And thou shalt write Aaron’s name upon the rod of Levi; for there shall be one rod for each head of their fathers’ houses.
 And thou shalt lay them up in the tent of meeting before the testimony, where I meet with you.
@@ -4241,21 +4256,6 @@ And Jehovah said unto Moses, Put back the rod of Aaron before the testimony, to 
 Thus did Moses: as Jehovah commanded him, so did he.
 And the children of Israel spake unto Moses, saying, Behold, we perish, we are undone, we are all undone.
 Every one that cometh near, that cometh near unto the tabernacle of Jehovah, dieth: shall we perish all of us?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 And Jehovah said unto Aaron, Thou and thy sons and thy fathers’ house with thee shall bear the iniquity of the sanctuary; and thou and thy sons with thee shall bear the iniquity of your priesthood.
 And thy brethren also, the tribe of Levi, the tribe of thy father, bring thou near with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall be before the tent of the testimony.
 And they shall keep thy charge, and the charge of all the Tent: only they shall not come nigh unto the vessels of the sanctuary and unto the altar, that they die not, neither they, nor ye.
@@ -4647,6 +4647,7 @@ but ye shall offer a burnt-offering, an offering made by fire, of a sweet savor 
 their meal-offering and their drink-offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the ordinance:
 and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
 These ye shall offer unto Jehovah in your set feasts, besides your vows, and your freewill-offerings, for your burnt-offerings, and for your meal-offerings, and for your drink-offerings, and for your peace-offerings.
+And Moses told the children of Israel according to all that Jehovah commanded Moses.
 And Moses spake unto the heads of the tribes of the children of Israel, saying, This is the thing which Jehovah hath commanded.
 When a man voweth a vow unto Jehovah, or sweareth an oath to bind his soul with a bond, he shall not break his word; he shall do according to all that proceedeth out of his mouth.
 Also when a woman voweth a vow unto Jehovah, and bindeth herself by a bond, being in her father’s house, in her youth,
@@ -4663,7 +4664,6 @@ Every vow, and every binding oath to afflict the soul, her husband may establish
 But if her husband altogether hold his peace at her from day to day, then he establisheth all her vows, or all her bonds, which are upon her: he hath established them, because he held his peace at her in the day that he heard them.
 But if he shall make them null and void after that he hath heard them, then he shall bear her iniquity.
 These are the statutes, which Jehovah commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house.
-
 And Jehovah spake unto Moses, saying,
 Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.
 And Moses spake unto the people, saying, Arm ye men from among you for the war, that they may go against Midian, to execute Jehovah’s vengeance on Midian.
@@ -5271,6 +5271,7 @@ Observe and hear all these words which I command thee, that it may go well with 
 When Jehovah thy God shall cut off the nations from before thee, whither thou goest in to dispossess them, and thou dispossessest them, and dwellest in their land;
 take heed to thyself that thou be not ensnared to follow them, after that they are destroyed from before thee; and that thou inquire not after their gods, saying, How do these nations serve their gods? even so will I do likewise.
 Thou shalt not do so unto Jehovah thy God: for every abomination to Jehovah, which he hateth, have they done unto their gods; for even their sons and their daughters do they burn in the fire to their gods.
+What thing soever I command you, that shall ye observe to do: thou shalt not add thereto, nor diminish from it.
 If there arise in the midst of thee a prophet, or a dreamer of dreams, and he give thee a sign or a wonder,
 and the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;
 thou shalt not hearken unto the words of that prophet, or unto that dreamer of dreams: for Jehovah your God proveth you, to know whether ye love Jehovah your God with all your heart and with all your soul.
@@ -5289,7 +5290,6 @@ thou shalt surely smite the inhabitants of that city with the edge of the sword,
 And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, unto Jehovah thy God: and it shall be a heap for ever; it shall not be built again.
 And there shall cleave nought of the devoted thing to thy hand; that Jehovah may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;
 when thou shalt hearken to the voice of Jehovah thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of Jehovah thy God.
-
 Ye are the children of Jehovah your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
 For thou art a holy people unto Jehovah thy God, and Jehovah hath chosen thee to be a people for his own possession, above all peoples that are upon the face of the earth.
 Thou shalt not eat any abominable thing.
@@ -5499,6 +5499,7 @@ but unto the damsel thou shalt do nothing; there is in the damsel no sin worthy 
 for he found her in the field, the betrothed damsel cried, and there was none to save her.
 If a man find a damsel that is a virgin, that is not betrothed, and lay hold on her, and lie with her, and they be found;
 then the man that lay with her shall give unto the damsel’s father fifty shekels of silver, and she shall be his wife, because he hath humbled her; he may not put her away all his days.
+A man shall not take his father’s wife, and shall not uncover his father’s skirt.
 He that is wounded in the stones, or hath his privy member cut off, shall not enter into the assembly of Jehovah.
 A bastard shall not enter into the assembly of Jehovah; even to the tenth generation shall none of his enter into the assembly of Jehovah.
 An Ammonite or a Moabite shall not enter into the assembly of Jehovah; even to the tenth generation shall none belonging to them enter into the assembly of Jehovah for ever:
@@ -5524,7 +5525,6 @@ But if thou shalt forbear to vow, it shall be no sin in thee.
 That which is gone out of thy lips thou shalt observe and do; according as thou hast vowed unto Jehovah thy God, a freewill-offering, which thou hast promised with thy mouth.
 When thou comest into thy neighbor’s vineyard, then thou mayest eat of grapes thy fill at thine own pleasure; but thou shalt not put any in thy vessel.
 When thou comest into thy neighbor’s standing grain, then thou mayest pluck the ears with thy hand; but thou shalt not move a sickle unto thy neighbor’s standing grain.
-
 When a man taketh a wife, and marrieth her, then it shall be, if she find no favor in his eyes, because he hath found some unseemly thing in her, that he shall write her a bill of divorcement, and give it in her hand, and send her out of his house.
 And when she is departed out of his house, she may go and be another man’s wife.
 And if the latter husband hate her, and write her a bill of divorcement, and give it in her hand, and send her out of his house; or if the latter husband die, who took her to be his wife;
@@ -5679,7 +5679,6 @@ And among these nations shalt thou find no ease, and there shall be no rest for 
 and thy life shall hang in doubt before thee; and thou shalt fear night and day, and shalt have no assurance of thy life.
 In the morning thou shalt say, Would it were even! and at even thou shalt say, Would it were morning! for the fear of thy heart which thou shalt fear, and for the sight of thine eyes which thou shalt see.
 And Jehovah will bring thee into Egypt again with ships, by the way whereof I said unto thee, Thou shalt see it no more again: and there ye shall sell yourselves unto your enemies for bondmen and for bondwomen, and no man shall buy you.
-
 These are the words of the covenant which Jehovah commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb.
 And Moses called unto all Israel, and said unto them, Ye have seen all that Jehovah did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
 the great trials which thine eyes saw, the signs, and those great wonders:
@@ -5708,6 +5707,7 @@ Then men shall say, Because they forsook the covenant of Jehovah, the God of the
 and went and served other gods, and worshipped them, gods that they knew not, and that he had not given unto them:
 therefore the anger of Jehovah was kindled against this land, to bring upon it all the curse that is written in this book;
 and Jehovah rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as at this day.
+The secret things belong unto Jehovah our God; but the things that are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither Jehovah thy God hath driven thee,
 and shalt return unto Jehovah thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thy heart, and with all thy soul;
 that then Jehovah thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the peoples, whither Jehovah thy God hath scattered thee.
@@ -7771,6 +7771,7 @@ And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s 
 But the lad knew not anything: only Jonathan and David knew the matter.
 And Jonathan gave his weapons unto his lad, and said unto him, Go, carry them to the city.
 And as soon as the lad was gone, David arose out of a place toward the South, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
+
 And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of Jehovah, saying, Jehovah shall be between me and thee, and between my seed and thy seed, for ever. And he arose and departed: and Jonathan went into the city.
 Then came David to Nob to Ahimelech the priest: and Ahimelech came to meet David trembling, and said unto him, Why art thou alone, and no man with thee?
 And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know anything of the business whereabout I send thee, and what I have commanded thee: and I have appointed the young men to such and such a place.
@@ -7787,7 +7788,6 @@ And David laid up these words in his heart, and was sore afraid of Achish the ki
 And he changed his behavior before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.
 Then said Achish unto his servants, Lo, ye see the man is mad; wherefore then have ye brought him to me?
 Do I lack madmen, that ye have brought this fellow to play the madman in my presence? shall this fellow come into my house?
-
 David therefore departed thence, and escaped to the cave of Adullam: and when his brethren and all his father’s house heard it, they went down thither to him.
 And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became captain over them: and there were with him about four hundred men.
 And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me.
@@ -7839,6 +7839,7 @@ And Saul and his men went to seek him. And they told David: wherefore he came do
 And Saul went on this side of the mountain, and David and his men on that side of the mountain: and David made haste to get away for fear of Saul; for Saul and his men compassed David and his men round about to take them.
 But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have made a raid upon the land.
 So Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Sela-hammahlekoth.
+And David went up from thence, and dwelt in the strongholds of En-gedi.
 And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of En-gedi.
 Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
 And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet. Now David and his men were abiding in the innermost parts of the cave.
@@ -7861,7 +7862,6 @@ For if a man find his enemy, will he let him go well away? wherefore Jehovah rew
 And now, behold, I know that thou shalt surely be king, and that the kingdom of Israel shall be established in thy hand.
 Swear now therefore unto me by Jehovah, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.
 And David sware unto Saul. And Saul went home; but David and his men gat them up unto the stronghold.
-
 And Samuel died; and all Israel gathered themselves together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.
 And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.
 Now the name of the man was Nabal; and the name of his wife Abigail; and the woman was of good understanding, and of a beautiful countenance: but the man was churlish and evil in his doings; and he was of the house of Caleb.
@@ -8511,6 +8511,7 @@ And the king said, Is it well with the young man Absalom? And Ahimaaz answered, 
 And the king said, Turn aside, and stand here. And he turned aside, and stood still.
 And, behold, the Cushite came; and the Cushite said, Tidings for my lord the king; for Jehovah hath avenged thee this day of all them that rose up against thee.
 And the king said unto the Cushite, Is it well with the young man Absalom? And the Cushite answered, The enemies of my lord the king, and all that rise up against thee to do thee hurt, be as that young man is.
+And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would I had died for thee, O Absalom, my son, my son!
 And it was told Joab, Behold, the king weepeth and mourneth for Absalom.
 And the victory that day was turned into mourning unto all the people; for the people heard say that day, The king grieveth for his son.
 And the people gat them by stealth that day into the city, as people that are ashamed steal away when they flee in battle.
@@ -8554,7 +8555,6 @@ So the king went over to Gilgal, and Chimham went over with him: and all the peo
 And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and brought the king, and his household, over the Jordan, and all David’s men with him?
 And all the men of Judah answered the men of Israel, Because the king is near of kin to us: wherefore then are ye angry for this matter? have we eaten at all at the king’s cost? or hath he given us any gift?
 And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
-
 And there happened to be there a base fellow, whose name was Sheba, the son of Bichri, a Benjamite: and he blew the trumpet, and said, We have no portion in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
 So all the men of Israel went up from following David, and followed Sheba the son of Bichri; but the men of Judah clave unto their king, from the Jordan even to Jerusalem.
 And David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in ward, and provided them with sustenance, but went not in unto them. So they were shut up unto the day of their death, living in widowhood.
@@ -8865,6 +8865,20 @@ Jehoshaphat the son of Paruah, in Issachar;
 Shimei the son of Ela, in Benjamin;
 Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer that was in the land.
 Judah and Israel were many as the sand which is by the sea in multitude, eating and drinking and making merry.
+And Solomon ruled over all the kingdoms from the River unto the land of the Philistines, and unto the border of Egypt: they brought tribute, and served Solomon all the days of his life.
+And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
+ten fat oxen, and twenty oxen out of the pastures, and a hundred sheep, besides harts, and gazelles, and roebucks, and fatted fowl.
+For he had dominion over all the region on this side the River, from Tiphsah even to Gaza, over all the kings on this side the River: and he had peace on all sides round about him.
+And Judah and Israel dwelt safely, every man under his vine and under his fig-tree, from Dan even to Beer-sheba, all the days of Solomon.
+And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
+And those officers provided victuals for king Solomon, and for all that came unto king Solomon’s table, every man in his month; they let nothing be lacking.
+Barley also and straw for the horses and swift steeds brought they unto the place where the officers were, every man according to his charge.
+And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea-shore.
+And Solomon’s wisdom excelled the wisdom of all the children of the east, and all the wisdom of Egypt.
+For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Calcol, and Darda, the sons of Mahol: and his fame was in all the nations round about.
+And he spake three thousand proverbs; and his songs were a thousand and five.
+And he spake of trees, from the cedar that is in Lebanon even unto the hyssop that springeth out of the wall; he spake also of beasts, and of birds, and of creeping things, and of fishes.
+And there came of all peoples to hear the wisdom of Solomon, from all kings of the earth, who had heard of his wisdom.
 And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
 And Solomon sent to Hiram, saying,
 Thou knowest how that David my father could not build a house for the name of Jehovah his God for the wars which were about him on every side, until Jehovah put them under the soles of his feet.
@@ -8883,20 +8897,6 @@ And Solomon had threescore and ten thousand that bare burdens, and fourscore tho
 besides Solomon’s chief officers that were over the work, three thousand and three hundred, who bare rule over the people that wrought in the work.
 And the king commanded, and they hewed out great stones, costly stones, to lay the foundation of the house with wrought stone.
 And Solomon’s builders and Hiram’s builders and the Gebalites did fashion them, and prepared the timber and the stones to build the house.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month, that he began to build the house of Jehovah.
 And the house which king Solomon built for Jehovah, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
 And the porch before the temple of the house, twenty cubits was the length thereof, according to the breadth of the house; and ten cubits was the breadth thereof before the house.
@@ -9523,6 +9523,7 @@ Now the rest of the acts of Ahab, and all that he did, and the ivory house which
 So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.
 And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.
 Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi.
+
 And he walked in all the way of Asa his father; he turned not aside from it, doing that which was right in the eyes of Jehovah: howbeit the high places were not taken away; the people still sacrificed and burnt incense in the high places.
 And Jehoshaphat made peace with the king of Israel.
 Now the rest of the acts of Jehoshaphat, and his might that he showed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?
@@ -9534,7 +9535,6 @@ And Jehoshaphat slept with his fathers, and was buried with his fathers in the c
 Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.
 And he did that which was evil in the sight of Jehovah, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, wherein he made Israel to sin.
 And he served Baal, and worshipped him, and provoked to anger Jehovah, the God of Israel, according to all that his father had done.
-
 And Moab rebelled against Israel after the death of Ahab.
 And Ahaziah fell down through the lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover of this sickness.
 But the angel of Jehovah said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it because there is no God in Israel, that ye go to inquire of Baal-zebub, the god of Ekron?
@@ -9851,6 +9851,7 @@ And Jehoiada made a covenant between Jehovah and the king and the people, that t
 And all the people of the land went to the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of Jehovah.
 And he took the captains over hundreds, and the Carites, and the guard, and all the people of the land; and they brought down the king from the house of Jehovah, and came by the way of the gate of the guard unto the king’s house. And he sat on the throne of the kings.
 So all the people of the land rejoiced, and the city was quiet. And Athaliah they had slain with the sword at the king’s house.
+Jehoash was seven years old when he began to reign.
 In the seventh year of Jehu began Jehoash to reign; and he reigned forty years in Jerusalem: and his mother’s name was Zibiah of Beer-sheba.
 And Jehoash did that which was right in the eyes of Jehovah all his days wherein Jehoiada the priest instructed him.
 Howbeit the high places were not taken away; the people still sacrificed and burnt incense in the high places.
@@ -9872,7 +9873,6 @@ And Jehoash king of Judah took all the hallowed things that Jehoshaphat and Jeho
 Now the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah?
 And his servants arose, and made a conspiracy, and smote Joash at the house of Millo, on the way that goeth down to Silla.
 For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
-
 In the three and twentieth year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
 And he did that which was evil in the sight of Jehovah, and followed the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin; he departed not therefrom.
 And the anger of Jehovah was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Ben-hadad the son of Hazael, continually.
@@ -10456,21 +10456,6 @@ And the children of the half-tribe of Manasseh dwelt in the land: they increased
 And these were the heads of their fathers’ houses: even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valor, famous men, heads of their fathers’ houses.
 And they trespassed against the God of their fathers, and played the harlot after the gods of the peoples of the land, whom God destroyed before them.
 And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half-tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river of Gozan, unto this day.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The sons of Levi: Gershon, Kohath, and Merari.
 And the sons of Kohath: Amram, Izhar, and Hebron, and Uzziel.
 And the children of Amram: Aaron, and Moses, and Miriam. And the sons of Aaron: Nadab, and Abihu, Eleazar, and Ithamar.
@@ -10537,6 +10522,21 @@ Unto the sons of Merari were given by lot, according to their families, out of t
 And the children of Israel gave to the Levites the cities with their suburbs.
 And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which are mentioned by name.
 And some of the families of the sons of Kohath had cities of their borders out of the tribe of Ephraim.
+And they gave unto them the cities of refuge, Shechem in the hill-country of Ephraim with its suburbs; Gezer also with its suburbs,
+and Jokmeam with its suburbs, and Beth-horon with its suburbs,
+and Aijalon with its suburbs, and Gath-rimmon with its suburbs;
+and out of the half-tribe of Manasseh, Aner with its suburbs, and Bileam with its suburbs, for the rest of the family of the sons of Kohath.
+Unto the sons of Gershom were given, out of the family of the half-tribe of Manasseh, Golan in Bashan with its suburbs, and Ashtaroth with its suburbs;
+and out of the tribe of Issachar, Kedesh with its suburbs, Daberath with its suburbs,
+and Ramoth with its suburbs, and Anem with its suburbs;
+and out of the tribe of Asher, Mashal with its suburbs, and Abdon with its suburbs,
+and Hukok with its suburbs, and Rehob with its suburbs;
+and out of the tribe of Naphtali, Kedesh in Galilee with its suburbs, and Hammon with its suburbs, and Kiriathaim with its suburbs.
+Unto the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its suburbs, Tabor with its suburbs;
+and beyond the Jordan at Jericho, on the east side of the Jordan, were given them, out of the tribe of Reuben, Bezer in the wilderness with its suburbs, and Jahzah with its suburbs,
+and Kedemoth with its suburbs, and Mephaath with its suburbs;
+and out of the tribe of Gad, Ramoth in Gilead with its suburbs, and Mahanaim with its suburbs,
+and Heshbon with its suburbs, and Jazer with its suburbs.
 And of the sons of Issachar: Tola, and Puah, Jashub, and Shimron, four.
 And the sons of Tola: Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Ibsam, and Shemuel, heads of their fathers’ houses, to wit, of Tola; mighty men of valor in their generations: their number in the days of David was two and twenty thousand and six hundred.
 And the sons of Uzzi: Izrahiah. And the sons of Izrahiah: Michael, and Obadiah, and Joel, Isshiah, five; all of them chief men.
@@ -10725,6 +10725,7 @@ Eliel, and Obed, and Jaasiel the Mezobaite.
 Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish; and they were among the mighty men, his helpers in war.
 They were armed with bows, and could use both the right hand and the left in slinging stones and in shooting arrows from the bow: they were of Saul’s brethren of Benjamin.
 The chief was Ahiezer; then Joash, the sons of Shemaah the Gibeathite, and Jeziel, and Pelet, the sons of Azmaveth, and Beracah, and Jehu the Anathothite,
+
 and Ishmaiah the Gibeonite, a mighty man among the thirty, and over the thirty, and Jeremiah, and Jahaziel, and Johanan, and Jozabad the Gederathite,
 Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,
 Elkanah, and Isshiah, and Azarel, and Joezer, and Jashobeam, the Korahites,
@@ -10762,7 +10763,6 @@ And on the other side of the Jordan, of the Reubenites, and the Gadites, and of 
 All these, being men of war, that could order the battle array, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.
 And they were there with David three days, eating and drinking; for their brethren had made preparation for them.
 Moreover they that were nigh unto them, even as far as Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, victuals of meal, cakes of figs, and clusters of raisins, and wine, and oil, and oxen, and sheep in abundance: for there was joy in Israel.
-
 And David consulted with the captains of thousands and of hundreds, even with every leader.
 And David said unto all the assembly of Israel, If it seem good unto you, and if it be of Jehovah our God, let us send abroad every where unto our brethren that are left in all the land of Israel, with whom the priests and Levites are in their cities that have suburbs, that they may gather themselves unto us;
 and let us bring again the ark of our God to us: for we sought not unto it in the days of Saul.
@@ -11214,7 +11214,6 @@ And Solomon gathered chariots and horsemen: and he had a thousand and four hundr
 And the king made silver and gold to be in Jerusalem as stones, and cedars made he to be as the sycomore-trees that are in the lowland, for abundance.
 And the horses which Solomon had were brought out of Egypt; the king’s merchants received them in droves, each drove at a price.
 And they fetched up and brought out of Egypt a chariot for six hundred shekels of silver, and a horse for a hundred and fifty: and so for all the kings of the Hittites, and the kings of Syria, did they bring them out by their means.
-
 Now Solomon purposed to build a house for the name of Jehovah, and a house for his kingdom.
 And Solomon counted out threescore and ten thousand men to bear burdens, and fourscore thousand men that were hewers in the mountains, and three thousand and six hundred to oversee them.
 And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him a house to dwell therein, even so deal with me.
@@ -11232,6 +11231,7 @@ the son of a woman of the daughters of Dan; and his father was a man of Tyre, sk
 Now therefore the wheat and the barley, the oil and the wine, which my lord hath spoken of, let him send unto his servants:
 and we will cut wood out of Lebanon, as much as thou shalt need; and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.
 And Solomon numbered all the sojourners that were in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found a hundred and fifty thousand and three thousand and six hundred.
+And he set threescore and ten thousand of them to bear burdens, and fourscore thousand that were hewers in the mountains, and three thousand and six hundred overseers to set the people at work.
 Then Solomon began to build the house of Jehovah at Jerusalem on mount Moriah, where Jehovah appeared unto David his father, which he made ready in the place that David had appointed, in the threshing-floor of Ornan the Jebusite.
 And he began to build in the second day of the second month, in the fourth year of his reign.
 Now these are the foundations which Solomon laid for the building of the house of God. The length by cubits after the first measure was threescore cubits, and the breadth twenty cubits.
@@ -11478,7 +11478,6 @@ And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the to
 Neither did Jeroboam recover strength again in the days of Abijah: and Jehovah smote him, and he died.
 But Abijah waxed mighty, and took unto himself fourteen wives, and begat twenty and two sons, and sixteen daughters.
 And the rest of the acts of Abijah, and his ways, and his sayings, are written in the commentary of the prophet Iddo.
-
 So Abijah slept with his fathers, and they buried him in the city of David; and Asa his son reigned in his stead. In his days the land was quiet ten years.
 And Asa did that which was good and right in the eyes of Jehovah his God:
 for he took away the foreign altars, and the high places, and brake down the pillars, and hewed down the Asherim,
@@ -11493,6 +11492,7 @@ And Asa cried unto Jehovah his God, and said, Jehovah, there is none besides the
 So Jehovah smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled.
 And Asa and the people that were with him pursued them unto Gerar: and there fell of the Ethiopians so many that they could not recover themselves; for they were destroyed before Jehovah, and before his host; and they carried away very much booty.
 And they smote all the cities round about Gerar; for the fear of Jehovah came upon them: and they despoiled all the cities; for there was much spoil in them.
+They smote also the tents of cattle, and carried away sheep in abundance, and camels, and returned to Jerusalem.
 And the Spirit of God came upon Azariah the son of Oded:
 and he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin: Jehovah is with you, while ye are with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.
 Now for a long season Israel was without the true God, and without a teaching priest, and without law:
@@ -12362,12 +12362,6 @@ After them repaired Zadok the son of Immer over against his own house. And after
 After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another portion. After him repaired Meshullam the son of Berechiah over against his chamber.
 After him repaired Malchijah one of the goldsmiths unto the house of the Nethinim, and of the merchants, over against the gate of Hammiphkad, and to the ascent of the corner.
 And between the ascent of the corner and the sheep gate repaired the goldsmiths and the merchants.
-
-
-
-
-
-
 But it came to pass that, when Sanballat heard that we were building the wall, he was wroth, and took great indignation, and mocked the Jews.
 And he spake before his brethren and the army of Samaria, and said, What are these feeble Jews doing? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of rubbish, seeing they are burned?
 Now Tobiah the Ammonite was by him, and he said, Even that which they are building, if a fox go up, he shall break down their stone wall.
@@ -12385,6 +12379,12 @@ And I looked, and rose up, and said unto the nobles, and to the rulers, and to t
 And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work.
 And it came to pass from that time forth, that half of my servants wrought in the work, and half of them held the spears, the shields, and the bows, and the coats of mail; and the rulers were behind all the house of Judah.
 They that builded the wall and they that bare burdens laded themselves; every one with one of his hands wrought in the work, and with the other held his weapon;
+and the builders, every one had his sword girded by his side, and so builded. And he that sounded the trumpet was by me.
+And I said unto the nobles, and to the rulers and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another:
+in what place soever ye hear the sound of the trumpet, resort ye thither unto us; our God will fight for us.
+So we wrought in the work: and half of them held the spears from the rising of the morning till the stars appeared.
+Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and may labor in the day.
+So neither I, nor my brethren, nor my servants, nor the men of the guard that followed me, none of us put off our clothes, every one went with his weapon to the water.
 Then there arose a great cry of the people and of their wives against their brethren the Jews.
 For there were that said, We, our sons and our daughters, are many: let us get grain, that we may eat and live.
 Some also there were that said, We are mortgaging our fields, and our vineyards, and our houses: let us get grain, because of the dearth.
@@ -12490,11 +12490,11 @@ These sought their register among those that were reckoned by genealogy, but it 
 And the governor said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.
 The whole assembly together was forty and two thousand three hundred and threescore,
 besides their men-servants and their maid-servants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
-Their horses were seven hundred thirty and six; their mules, two hundred forty and five;
-their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.
+Their horses were seven hundred thirty and six; their mules, two hundred forty and five; their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.
 And some from among the heads of fathers’ houses gave unto the work. The governor gave to the treasury a thousand darics of gold, fifty basins, five hundred and thirty priests’ garments.
 And some of the heads of fathers’ houses gave into the treasury of the work twenty thousand darics of gold, and two thousand and two hundred pounds of silver.
 And that which the rest of the people gave was twenty thousand darics of gold, and two thousand pounds of silver, and threescore and seven priests’ garments.
+So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinim, and all Israel, dwelt in their cities. And when the seventh month was come, the children of Israel were in their cities.
 And all the people gathered themselves together as one man into the broad place that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which Jehovah had commanded to Israel.
 And Ezra the priest brought the law before the assembly, both men and women, and all that could hear with understanding, upon the first day of the seventh month.
 And he read therein before the broad place that was before the water gate from early morning until midday, in the presence of the men and the women, and of those that could understand; and the ears of all the people were attentive unto the book of the law.
@@ -12550,6 +12550,7 @@ neither have our kings, our princes, our priests, nor our fathers, kept thy law,
 For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.
 Behold, we are servants this day, and as for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it.
 And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have power over our bodies, and over our cattle, at their pleasure, and we are in great distress.
+And yet for all this we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal unto it.
 Now those that sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah,
 Seraiah, Azariah, Jeremiah,
 Pashhur, Amariah, Malchijah,
@@ -12589,7 +12590,6 @@ also the first-born of our sons, and of our cattle, as it is written in the law,
 and that we should bring the first-fruits of our dough, and our heave-offerings, and the fruit of all manner of trees, the new wine and the oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites; for they, the Levites, take the tithes in all the cities of our tillage.
 And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure-house.
 For the children of Israel and the children of Levi shall bring the heave-offering of the grain, of the new wine, and of the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
-
 And the princes of the people dwelt in Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts in the other cities.
 And the people blessed all the men that willingly offered themselves to dwell in Jerusalem.
 Now these are the chiefs of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinim, and the children of Solomon’s servants.
@@ -13890,14 +13890,6 @@ He lieth under the lotus-trees, In the covert of the reed, and the fen.
 The lotus-trees cover him with their shade; The willows of the brook compass him about.
 Behold, if a river overflow, he trembleth not; He is confident, though a Jordan swell even to his mouth.
 Shall any take him when he is on the watch, Or pierce through his nose with a snare?
-
-
-
-
-
-
-
-
 Canst thou draw out leviathan with a fishhook? Or press down his tongue with a cord?
 Canst thou put a rope into his nose? Or pierce his jaw through with a hook?
 Will he make many supplications unto thee? Or will he speak soft words unto thee?
@@ -13924,6 +13916,14 @@ The flakes of his flesh are joined together: They are firm upon him; they cannot
 His heart is as firm as a stone; Yea, firm as the nether millstone.
 When he raiseth himself up, the mighty are afraid: By reason of consternation they are beside themselves.
 If one lay at him with the sword, it cannot avail; Nor the spear, the dart, nor the pointed shaft.
+He counteth iron as straw, And brass as rotten wood.
+The arrow cannot make him flee: Sling-stones are turned with him into stubble.
+Clubs are counted as stubble: He laugheth at the rushing of the javelin.
+His underparts are like sharp potsherds: He spreadeth as it were a threshing-wain upon the mire.
+He maketh the deep to boil like a pot: He maketh the sea like a pot of ointment.
+He maketh a path to shine after him; One would think the deep to be hoary.
+Upon earth there is not his like, That is made without fear.
+He beholdeth everything that is high: He is king over all the sons of pride.
 Then Job answered Jehovah, and said,
 I know that thou canst do all things, And that no purpose of thine can be restrained.
 Who is this that hideth counsel without knowledge? Therefore have I uttered that which I understood not, Things too wonderful for me, which I knew not.
@@ -13959,6 +13959,7 @@ Thou shalt break them with a rod of iron; Thou shalt dash them in pieces like a 
 Now therefore be wise, O ye kings: Be instructed, ye judges of the earth.
 Serve Jehovah with fear, And rejoice with trembling.
 Kiss the son, lest he be angry, and ye perish in the way, For his wrath will soon be kindled. Blessed are all they that take refuge in him.
+
 Jehovah, how are mine adversaries increased! Many are they that rise up against me.
 Many there are that say of my soul, There is no help for him in God. [Selah
 But thou, O Jehovah, art a shield about me; My glory, and the lifter up of my head.
@@ -14049,7 +14050,6 @@ The wicked shall be turned back unto Sheol, Even all the nations that forget God
 For the needy shall not alway be forgotten, Nor the expectation of the poor perish for ever.
 Arise, O Jehovah; let not man prevail: Let the nations be judged in thy sight.
 Put them in fear, O Jehovah: Let the nations know themselves to be but men. [Selah
-
 Why standest thou afar off, O Jehovah? Why hidest thou thyself in times of trouble?
 In the pride of the wicked the poor is hotly pursued; Let them be taken in the devices that they have conceived.
 For the wicked boasteth of his heart’s desire, And the covetous renounceth, yea, contemneth Jehovah.
@@ -14075,6 +14075,7 @@ Jehovah is in his holy temple; Jehovah, his throne is in heaven; His eyes behold
 Jehovah trieth the righteous; But the wicked and him that loveth violence his soul hateth.
 Upon the wicked he will rain snares; Fire and brimstone and burning wind shall be the portion of their cup.
 For Jehovah is righteous; he loveth righteousness: The upright shall behold his face.
+
 Help, Jehovah; for the godly man ceaseth; For the faithful fail from among the children of men.
 They speak falsehood every one with his neighbor: With flattering lip, and with a double heart, do they speak.
 Jehovah will cut off all flattering lips, The tongue that speaketh great things;
@@ -14088,8 +14089,7 @@ How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy f
 How long shall I take counsel in my soul, Having sorrow in my heart all the day? How long shall mine enemy be exalted over me?
 Consider and answer me, O Jehovah my God: Lighten mine eyes, lest I sleep the sleep of death;
 Lest mine enemy say, I have prevailed against him; Lest mine adversaries rejoice when I am moved.
-But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.
-I will sing unto Jehovah, Because he hath dealt bountifully with me.
+But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation. I will sing unto Jehovah, Because he hath dealt bountifully with me.
 The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works; There is none that doeth good.
 Jehovah looked down from heaven upon the children of men, To see if there were any that did understand, That did seek after God.
 They are all gone aside; they are together become filthy; There is none that doeth good, no, not one.
@@ -14128,6 +14128,7 @@ He is like a lion that is greedy of his prey, And as it were a young lion lurkin
 Arise, O Jehovah, Confront him, cast him down: Deliver my soul from the wicked by thy sword;
 From men by thy hand, O Jehovah, From men of the world, whose portion is in this life, And whose belly thou fillest with thy treasure: They are satisfied with children, And leave the rest of their substance to their babes.
 As for me, I shall behold thy face in righteousness; I shall be satisfied, when I awake, with beholding thy form.
+
 I love thee, O Jehovah, my strength.
 Jehovah is my rock, and my fortress, and my deliverer; My God, my rock, in whom I will take refuge; My shield, and the horn of my salvation, my high tower.
 I will call upon Jehovah, who is worthy to be praised: So shall I be saved from mine enemies.
@@ -14249,7 +14250,6 @@ For the kingdom is Jehovah’s; And he is the ruler over the nations.
 All the fat ones of the earth shall eat and worship: All they that go down to the dust shall bow before him, Even he that cannot keep his soul alive.
 A seed shall serve him; It shall be told of the Lord unto the next generation.
 They shall come and shall declare his righteousness Unto a people that shall be born, that he hath done it.
-
 Jehovah is my shepherd; I shall not want.
 He maketh me to lie down in green pastures; He leadeth me beside still waters.
 He restoreth my soul: He guideth me in the paths of righteousness for his name’s sake.
@@ -14334,6 +14334,7 @@ The voice of Jehovah shaketh the wilderness; Jehovah shaketh the wilderness of K
 The voice of Jehovah maketh the hinds to calve, And strippeth the forests bare: And in his temple everything saith, Glory.
 Jehovah sat as King at the Flood; Yea, Jehovah sitteth as King for ever.
 Jehovah will give strength unto his people; Jehovah will bless his people with peace.
+
 I will extol thee, O Jehovah; for thou hast raised me up, And hast not made my foes to rejoice over me.
 O Jehovah my God, I cried unto thee, and thou hast healed me.
 O Jehovah, thou hast brought up my soul from Sheol; Thou hast kept me alive, that I should not go down to the pit.
@@ -14371,7 +14372,6 @@ Blessed be Jehovah; For he hath showed me his marvellous lovingkindness in a str
 As for me, I said in my haste, I am cut off from before thine eyes: Nevertheless thou heardest the voice of my supplications, When I cried unto thee.
 Oh love Jehovah, all ye his saints: Jehovah preserveth the faithful, And plentifully rewardeth him that dealeth proudly.
 Be strong, and let your heart take courage, All ye that hope in Jehovah.
-
 Blessed is he whose transgression is forgiven, Whose sin is covered.
 Blessed is the man unto whom Jehovah imputeth not iniquity, And in whose spirit there is no guile.
 When I kept silence, my bones wasted away Through my groaning all the day long.
@@ -14405,6 +14405,7 @@ To deliver their soul from death, And to keep them alive in famine.
 Our soul hath waited for Jehovah: He is our help and our shield.
 For our heart shall rejoice in him, Because we have trusted in his holy name.
 Let thy lovingkindness, O Jehovah, be upon us, According as we have hoped in thee.
+
 I will bless Jehovah at all times: His praise shall continually be in my mouth.
 My soul shall make her boast in Jehovah: The meek shall hear thereof, and be glad.
 Oh magnify Jehovah with me, And let us exalt his name together.
@@ -14427,7 +14428,6 @@ Many are the afflictions of the righteous; But Jehovah delivereth him out of the
 He keepeth all his bones: Not one of them is broken.
 Evil shall slay the wicked; And they that hate the righteous shall be condemned.
 Jehovah redeemeth the soul of his servants; And none of them that take refuge in him shall be condemned.
-
 Strive thou, O Jehovah, with them that strive with me: Fight thou against them that fight against me.
 Take hold of shield and buckler, And stand up for my help.
 Draw out also the spear, and stop the way against them that pursue me: Say unto my soul, I am thy salvation.
@@ -14456,6 +14456,7 @@ Let them not say in their heart, Aha, so would we have it: Let them not say, We 
 Let them be put to shame and confounded together that rejoice at my hurt: Let them be clothed with shame and dishonor that magnify themselves against me.
 Let them shout for joy, and be glad, that favor my righteous cause: Yea, let them say continually, Jehovah be magnified, Who hath pleasure in the prosperity of his servant.
 And my tongue shall talk of thy righteousness And of thy praise all the day long.
+
 The transgression of the wicked saith within my heart, There is no fear of God before his eyes.
 For he flattereth himself in his own eyes, That his iniquity will not be found out and be hated.
 The words of his mouth are iniquity and deceit: He hath ceased to be wise and to do good.
@@ -14468,7 +14469,6 @@ For with thee is the fountain of life: In thy light shall we see light.
 Oh continue thy lovingkindness unto them that know thee, And thy righteousness to the upright in heart.
 Let not the foot of pride come against me, And let not the hand of the wicked drive me away.
 There are the workers of iniquity fallen: They are thrust down, and shall not be able to rise.
-
 Fret not thyself because of evil-doers, Neither be thou envious against them that work unrighteousness.
 For they shall soon be cut down like the grass, And wither as the green herb.
 Trust in Jehovah, and do good; Dwell in the land, and feed on his faithfulness.
@@ -14509,6 +14509,7 @@ Mark the perfect man, and behold the upright; For there is a happy end to the ma
 As for transgressors, they shall be destroyed together: The end of the wicked shall be cut off.
 But the salvation of the righteous is of Jehovah: He is their stronghold in the time of trouble.
 And Jehovah helpeth them, and rescueth them: He rescueth them from the wicked, and saveth them, Because they have taken refuge in him.
+
 O Jehovah, rebuke me not in thy wrath; Neither chasten me in thy hot displeasure.
 For thine arrows stick fast in me, And thy hand presseth me sore.
 There is no soundness in my flesh because of thine indignation; Neither is there any health in my bones because of my sin.
@@ -14589,12 +14590,12 @@ Yet Jehovah will command his lovingkindness in the day-time; And in the night hi
 I will say unto God my rock, Why hast thou forgotten me? Why go I mourning because of the oppression of the enemy?
 As with a sword in my bones, mine adversaries reproach me, While they continually say unto me, Where is thy God?
 Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; for I shall yet praise him, Who is the help of my countenance, and my God.
-
 Judge me, O God, and plead my cause against an ungodly nation: Oh deliver me from the deceitful and unjust man.
 For thou art the God of my strength; why hast thou cast me off? Why go I mourning because of the oppression of the enemy?
 Oh send out thy light and thy truth; let them lead me: Let them bring me unto thy holy hill, And to thy tabernacles.
 Then will I go unto the altar of God, Unto God my exceeding joy; And upon the harp will I praise thee, O God, my God.
 Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; for I shall yet praise him, Who is the help of my countenance, and my God.
+
 We have heard with our ears, O God, Our fathers have told us, What work thou didst in their days, In the days of old.
 Thou didst drive out the nations with thy hand; But them thou didst plant: Thou didst afflict the peoples; But them thou didst spread abroad.
 For they gat not the land in possession by their own sword, Neither did their own arm save them; But thy right hand, and thine arm, and the light of thy countenance, Because thou wast favorable unto them.
@@ -14697,7 +14698,6 @@ For when he dieth he shall carry nothing away; His glory shall not descend after
 Though while he lived he blessed his soul (And men praise thee, when thou doest well to thyself),
 He shall go to the generation of his fathers; They shall never see the light.
 Man that is in honor, and understandeth not, Is like the beasts that perish.
-
 The Mighty One, God, Jehovah, hath spoken, And called the earth from the rising of the sun unto the going down thereof.
 Out of Zion, the perfection of beauty, God hath shined forth.
 Our God cometh, and doth not keep silence: A fire devoureth before him, And it is very tempestuous round about him.
@@ -14721,6 +14721,8 @@ Thou sittest and speakest against thy brother; Thou slanderest thine own mother�
 These things hast thou done, and I kept silence; Thou thoughtest that I was altogether such a one as thyself: But I will reprove thee, and set them in order before thine eyes.
 Now consider this, ye that forget God, Lest I tear you in pieces, and there be none to deliver:
 Whoso offereth the sacrifice of thanksgiving glorifieth me; And to him that ordereth his way aright Will I show the salvation of God.
+
+
 Have mercy upon me, O God, according to thy lovingkindness: According to the multitude of thy tender mercies blot out my transgressions.
 Wash me thoroughly from mine iniquity, And cleanse me from my sin.
 For I know my transgressions; And my sin is ever before me.
@@ -14752,13 +14754,13 @@ Lo, this is the man that made not God his strength, But trusted in the abundance
 But as for me, I am like a green olive-tree in the house of God: I trust in the lovingkindness of God for ever and ever.
 I will give thee thanks for ever, because thou hast done it; And I will hope in thy name, for it is good, in the presence of thy saints.
 
-
 The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity; There is none that doeth good.
 God looked down from heaven upon the children of men, To see if there were any that did understand, That did seek after God.
 Every one of them is gone back; they are together become filthy; There is none that doeth good, no, not one.
 Have the workers of iniquity no knowledge, Who eat up my people as they eat bread, And call not upon God?
 There were they in great fear, where no fear was; For God hath scattered the bones of him that encampeth against thee: Thou hast put them to shame, because God hath rejected them.
 Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Then shall Jacob rejoice, and Israel shall be glad.
+
 
 Save me, O God, by thy name, And judge me in thy might.
 Hear my prayer, O God; Give ear to the words of my mouth.
@@ -14767,7 +14769,6 @@ Behold, God is my helper: The Lord is of them that uphold my soul.
 He will requite the evil unto mine enemies: Destroy thou them in thy truth.
 With a freewill-offering will I sacrifice unto thee: I will give thanks unto thy name, O Jehovah, for it is good.
 For he hath delivered me out of all trouble; And mine eye hath seen my desire upon mine enemies.
-
 
 Give ear to my prayer, O God; And hide not thyself from my supplication.
 Attend unto me, and answer me: I am restless in my complaint, and moan,
@@ -14849,6 +14850,7 @@ They shall wander up and down for food, And tarry all night if they be not satis
 But I will sing of thy strength; Yea, I will sing aloud of thy lovingkindness in the morning: For thou hast been my high tower, And a refuge in the day of my distress.
 Unto thee, O my strength, will I sing praises: For God is my high tower, the God of my mercy.
 
+
 O God thou hast cast us off, thou hast broken us down; Thou hast been angry; oh restore us again.
 Thou hast made the land to tremble; thou hast rent it: Heal the breaches thereof; for it shaketh.
 Thou hast showed thy people hard things: Thou hast made us to drink the wine of staggering.
@@ -14861,7 +14863,6 @@ Who will bring me into the strong city? Who hath led me unto Edom?
 Hast not thou, O God, cast us off? And thou goest not forth, O God, with our hosts.
 Give us help against the adversary; For vain is the help of man.
 Through God we shall do valiantly; For he it is that will tread down our adversaries.
-
 
 Hear my cry, O God; Attend unto my prayer.
 From the end of the earth will I call unto thee, when my heart is overwhelmed: Lead me to the rock that is higher than I.
@@ -14921,7 +14922,6 @@ Thou waterest its furrows abundantly; Thou settlest the ridges thereof: Thou mak
 Thou crownest the year with thy goodness; And thy paths drop fatness.
 They drop upon the pastures of the wilderness; And the hills are girded with joy.
 The pastures are clothed with flocks; The valleys also are covered over with grain; They shout for joy, they also sing.
-
 Make a joyful noise unto God, all the earth:
 Sing forth the glory of his name: Make his praise glorious.
 Say unto God, How terrible are thy works! Through the greatness of thy power shall thine enemies submit themselves unto thee.
@@ -14942,6 +14942,7 @@ I cried unto him with my mouth, And he was extolled with my tongue.
 If I regard iniquity in my heart, The Lord will not hear:
 But verily God hath heard; He hath attended to the voice of my prayer.
 Blessed be God, Who hath not turned away my prayer, Nor his lovingkindness from me.
+
 God be merciful unto us, and bless us, And cause his face to shine upon us; [Selah
 That thy way may be known upon earth, Thy salvation among all nations.
 Let the peoples praise thee, O God; Let all the peoples praise thee.
@@ -15028,7 +15029,6 @@ Let them be put to shame and confounded That seek after my soul: Let them be tur
 Let them be turned back by reason of their shame That say, Aha, aha.
 Let all those that seek thee rejoice and be glad in thee; And let such as love thy salvation say continually, Let God be magnified.
 But I am poor and needy; Make haste unto me, O God: Thou art my help and my deliverer; O Jehovah, make no tarrying.
-
 In thee, O Jehovah, do I take refuge: Let me never be put to shame.
 Deliver me in thy righteousness, and rescue me: Bow down thine ear unto me, and save me.
 Be thou to me a rock of habitation, whereunto I may continually resort: Thou hast given commandment to save me; For thou art my rock and my fortress.
@@ -15124,6 +15124,7 @@ Have respect unto the covenant; For the dark places of the earth are full of the
 Oh let not the oppressed return ashamed: Let the poor and needy praise thy name.
 Arise, O God, plead thine own cause: Remember how the foolish man reproacheth thee all the day.
 Forget not the voice of thine adversaries: The tumult of those that rise up against thee ascendeth continually.
+
 We give thanks unto thee, O God; We give thanks, for thy name is near: Men tell of thy wondrous works.
 When I shall find the set time, I will judge uprightly.
 The earth and all the inhabitants thereof are dissolved: I have set up the pillars of it. [Selah
@@ -15168,7 +15169,6 @@ The clouds poured out water; The skies sent out a sound: Thine arrows also went 
 The voice of thy thunder was in the whirlwind; The lightnings lightened the world: The earth trembled and shook.
 Thy way was in the sea, And thy paths in the great waters, And thy footsteps were not known.
 Thou leddest thy people like a flock, By the hand of Moses and Aaron.
-
 Give ear, O my people, to my law: Incline your ears to the words of my mouth.
 I will open my mouth in a parable; I will utter dark sayings of old,
 Which we have heard and known, And our fathers have told us.
@@ -15254,6 +15254,7 @@ Wherefore should the nations say, Where is their God? Let the avenging of the bl
 Let the sighing of the prisoner come before thee: According to the greatness of thy power preserve thou those that are appointed to death;
 And render unto our neighbors sevenfold into their bosom Their reproach, wherewith they have reproached thee, O Lord.
 So we thy people and sheep of thy pasture Will give thee thanks for ever: We will show forth thy praise to all generations.
+
 Give ear, O Shepherd of Israel, Thou that leadest Joseph like a flock; Thou that sittest above the cherubim, shine forth.
 Before Ephraim and Benjamin and Manasseh, stir up thy might, And come to save us.
 Turn us again, O God; And cause thy face to shine, and we shall be saved.
@@ -15290,7 +15291,6 @@ Oh that my people would hearken unto me, That Israel would walk in my ways!
 I would soon subdue their enemies, And turn my hand against their adversaries.
 The haters of Jehovah should submit themselves unto him: But their time should endure for ever.
 He would feed them also with the finest of the wheat; And with honey out of the rock would I satisfy thee.
-
 God standeth in the congregation of God; He judgeth among the gods.
 How long will ye judge unjustly, And respect the persons of the wicked? [Selah
 Judge the poor and fatherless: Do justice to the afflicted and destitute.
@@ -15299,6 +15299,7 @@ They know not, neither do they understand; They walk to and fro in darkness: All
 I said, Ye are gods, And all of you sons of the Most High.
 Nevertheless ye shall die like men, And fall like one of the princes.
 Arise, O God, judge the earth; For thou shalt inherit all the nations.
+
 O God, keep not thou silence: Hold not thy peace, and be not still, O God.
 For, lo, thine enemies make a tumult; And they that hate thee have lifted up the head.
 They take crafty counsel against thy people, And consult together against thy hidden ones.
@@ -15344,7 +15345,6 @@ Mercy and truth are met together; Righteousness and peace have kissed each other
 Truth springeth out of the earth; And righteousness hath looked down from heaven.
 Yea, Jehovah will give that which is good; And our land shall yield its increase.
 Righteousness shall go before him, And shall make his footsteps a way to walk in.
-
 Bow down thine ear, O Jehovah, and answer me; For I am poor and needy.
 Preserve my soul; for I am godly: O thou my God, save thy servant that trusteth in thee.
 Be merciful unto me, O Lord; For unto thee do I cry all the day long.
@@ -15369,6 +15369,7 @@ I will make mention of Rahab and Babylon as among them that know me: Behold, Phi
 Yea, of Zion it shall be said, This one and that one was born in her; And the Most High himself will establish her.
 Jehovah will count, when he writeth up the peoples, This one was born there. [Selah
 They that sing as well as they that dance shall say, All my fountains are in thee.
+
 O Jehovah, the God of my salvation, I have cried day and night before thee.
 Let my prayer enter into thy presence; Incline thine ear unto my cry.
 For my soul is full of troubles, And my life draweth nigh unto Sheol.
@@ -15440,7 +15441,6 @@ Lord, where are thy former lovingkindnesses, Which thou swarest unto David in th
 Remember, Lord, the reproach of thy servants; How I do bear in my bosom the reproach of all the mighty peoples,
 Wherewith thine enemies have reproached, O Jehovah, Wherewith they have reproached the footsteps of thine anointed.
 Blessed be Jehovah for evermore. Amen, and Amen.
-
 Lord, thou hast been our dwelling-place In all generations.
 Before the mountains were brought forth, Or ever thou hadst formed the earth and the world, Even from everlasting to everlasting, thou art God.
 Thou turnest man to destruction, And sayest, Return, ye children of men.
@@ -15474,6 +15474,7 @@ Thou shalt tread upon the lion and adder: The young lion and the serpent shalt t
 Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
 He shall call upon me, and I will answer him; I will be with him in trouble: I will deliver him, and honor him.
 With long life will I satisfy him, And show him my salvation.
+
 It is a good thing to give thanks unto Jehovah, And to sing praises unto thy name, O Most High;
 To show forth thy lovingkindness in the morning, And thy faithfulness every night,
 With an instrument of ten strings, and with the psaltery; With a solemn sound upon the harp.
@@ -15489,7 +15490,6 @@ The righteous shall flourish like the palm-tree: He shall grow like a cedar in L
 They are planted in the house of Jehovah; They shall flourish in the courts of our God.
 They shall still bring forth fruit in old age; They shall be full of sap and green:
 To show that Jehovah is upright; He is my rock, and there is no unrighteousness in him.
-
 Jehovah reigneth; he is clothed with majesty; Jehovah is clothed with strength; he hath girded himself therewith: The world also is established, that it cannot be moved.
 Thy throne is established of old: Thou art from everlasting.
 The floods have lifted up, O Jehovah, The floods have lifted up their voice; The floods lift up their waves.
@@ -15585,6 +15585,7 @@ Whoso privily slandereth his neighbor, him will I destroy: Him that hath a high 
 Mine eyes shall be upon the faithful of the land, that they may dwell with me: He that walketh in a perfect way, he shall minister unto me.
 He that worketh deceit shall not dwell within my house: He that speaketh falsehood shall not be established before mine eyes.
 Morning by morning will I destroy all the wicked of the land; To cut off all the workers of iniquity from the city of Jehovah.
+
 Hear my prayer, O Jehovah, And let my cry come unto thee.
 Hide not thy face from me in the day of my distress: Incline thine ear unto me; In the day when I call answer me speedily.
 For my days consume away like smoke, And my bones are burned as a firebrand.
@@ -15613,7 +15614,6 @@ Of old didst thou lay the foundation of the earth; And the heavens are the work 
 They shall perish, but thou shalt endure; Yea, all of them shall wax old like a garment; As a vesture shalt thou change them, and they shall be changed:
 But thou art the same, And thy years shall have no end.
 The children of thy servants shall continue, And their seed shall be established before thee.
-
 Bless Jehovah, O my soul; And all that is within me, bless his holy name.
 Bless Jehovah, O my soul, And forget not all his benefits:
 Who forgiveth all thine iniquities; Who healeth all thy diseases;
@@ -15807,6 +15807,7 @@ He poureth contempt upon princes, And causeth them to wander in the waste, where
 Yet setteth he the needy on high from affliction, And maketh him families like a flock.
 The upright shall see it, and be glad; And all iniquity shall stop her mouth.
 Whoso is wise will give heed to these things; And they will consider the lovingkindnesses of Jehovah.
+
 My heart is fixed, O God; I will sing, yea, I will sing praises, even with my glory.
 Awake, psaltery and harp: I myself will awake right early.
 I will give thanks unto thee, O Jehovah, among the peoples; And I will sing praises unto thee among the nations.
@@ -15820,7 +15821,6 @@ Who will bring me into the fortified city? Who hath led me unto Edom?
 Hast not thou cast us off, O God? And thou goest not forth, O God, with our hosts.
 Give us help against the adversary; For vain is the help of man.
 Through God we shall do valiantly: For he it is that will tread down our adversaries.
-
 Hold not thy peace, O God of my praise;
 For the mouth of the wicked and the mouth of deceit have they opened against me: They have spoken unto me with a lying tongue.
 They have compassed me about also with words of hatred, And fought against me without a cause.
@@ -16329,6 +16329,7 @@ Do not I hate them, O Jehovah, that hate thee? And am not I grieved with those t
 I hate them with perfect hatred: They are become mine enemies.
 Search me, O God, and know my heart: Try me, and know my thoughts;
 And see if there be any wicked way in me, And lead me in the way everlasting.
+
 Deliver me, O Jehovah, from the evil man; Preserve me from the violent man:
 Who devise mischiefs in their heart; Continually do they gather themselves together for war.
 They have sharpened their tongue like a serpent; Adders’ poison is under their lips. [Selah
@@ -16342,7 +16343,6 @@ Let burning coals fall upon them: Let them be cast into the fire, Into deep pits
 An evil speaker shall not be established in the earth: Evil shall hunt the violent man to overthrow him.
 I know that Jehovah will maintain the cause of the afflicted, And justice for the needy.
 Surely the righteous shall give thanks unto thy name: The upright shall dwell in thy presence.
-
 Jehovah, I have called upon thee; make haste unto me: Give ear unto my voice, when I call unto thee.
 Let my prayer be set forth as incense before thee; The lifting up of my hands as the evening sacrifice.
 Set a watch, O Jehovah, before my mouth; Keep the door of my lips.
@@ -16353,6 +16353,7 @@ As when one ploweth and cleaveth the earth, Our bones are scattered at the mouth
 For mine eyes are unto thee, O Jehovah the Lord: In thee do I take refuge; leave not my soul destitute.
 Keep me from the snare which they have laid for me, And from the gins of the workers of iniquity.
 Let the wicked fall into their own nets, Whilst that I withal escape.
+
 I cry with my voice unto Jehovah; With my voice unto Jehovah do I make supplication.
 I pour out my complaint before him; I show before him my trouble.
 When my spirit was overwhelmed within me, Thou knewest my path. In the way wherein I walk Have they hidden a snare for me.
@@ -16360,7 +16361,6 @@ Look on my right hand, and see; For there is no man that knoweth me: Refuge hath
 I cried unto thee, O Jehovah; I said, Thou art my refuge, My portion in the land of the living.
 Attend unto my cry; For I am brought very low: Deliver me from my persecutors; For they are stronger than I.
 Bring my soul out of prison, That I may give thanks unto thy name: The righteous shall compass me about; For thou wilt deal bountifully with me.
-
 Hear my prayer, O Jehovah; give ear to my supplications: In thy faithfulness answer me, and in thy righteousness.
 And enter not into judgment with thy servant; For in thy sight no man living is righteous.
 For the enemy hath persecuted my soul; He hath smitten my life down to the ground: He hath made me to dwell in dark places, as those that have been long dead.
@@ -17465,7 +17465,6 @@ Better is a poor and wise youth than an old and foolish king, who knoweth not ho
 For out of prison he came forth to be king; yea, even in his kingdom he was born poor.
 I saw all the living that walk under the sun, that they were with the youth, the second, that stood up in his stead.
 There was no end of all the people, even of all them over whom he was: yet they that come after shall not rejoice in him. Surely this also is vanity and a striving after wind.
-
 Keep thy foot when thou goest to the house of God; for to draw nigh to hear is better than to give the sacrifice of fools: for they know not that they do evil.
 Be not rash with thy mouth, and let not thy heart be hasty to utter anything before God; for God is in heaven, and thou upon earth: therefore let thy words be few.
 For a dream cometh with a multitude of business, and a fool’s voice with a multitude of words.
@@ -17485,6 +17484,7 @@ And this also is a grievous evil, that in all points as he came, so shall he go:
 All his days also he eateth in darkness, and he is sore vexed, and hath sickness and wrath.
 Behold, that which I have seen to be good and to be comely is for one to eat and to drink, and to enjoy good in all his labor, wherein he laboreth under the sun, all the days of his life which God hath given him: for this is his portion.
 Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labor—this is the gift of God.
+For he shall not much remember the days of his life; because God answereth him in the joy of his heart.
 There is an evil which I have seen under the sun, and it is heavy upon men:
 a man to whom God giveth riches, wealth, and honor, so that he lacketh nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but an alien eateth it; this is vanity, and it is an evil disease.
 If a man beget a hundred children, and live many years, so that the days of his years are many, but his soul be not filled with good, and moreover he have no burial; I say, that an untimely birth is better than he:
@@ -17694,6 +17694,7 @@ My dove, my undefiled, is but one; She is the only one of her mother; She is the
 Who is she that looketh forth as the morning, Fair as the moon, Clear as the sun, Terrible as an army with banners?
 I went down into the garden of nuts, To see the green plants of the valley, To see whether the vine budded, And the pomegranates were in flower.
 Before I was aware, my soul set me Among the chariots of my princely people.
+Return, return, O Shulammite; Return, return, that we may look upon thee. Why will ye look upon the Shulammite, As upon the dance of Mahanaim?
 How beautiful are thy feet in sandals, O prince’s daughter! Thy rounded thighs are like jewels, The work of the hands of a skilful workman.
 Thy body is like a round goblet, Wherein no mingled wine is wanting: Thy waist is like a heap of wheat Set about with lilies.
 Thy two breasts are like two fawns That are twins of a roe.
@@ -17707,7 +17708,6 @@ I am my beloved’s; And his desire is toward me.
 Come, my beloved, let us go forth into the field; Let us lodge in the villages.
 Let us get up early to the vineyards; Let us see whether the vine hath budded, And its blossom is open, And the pomegranates are in flower: There will I give thee my love.
 The mandrakes give forth fragrance; And at our doors are all manner of precious fruits, new and old, Which I have laid up for thee, O my beloved.
-
 Oh that thou wert as my brother, That sucked the breasts of my mother! When I should find thee without, I would kiss thee; Yea, and none would despise me.
 I would lead thee, and bring thee into my mother’s house, Who would instruct me; I would cause thee to drink of spiced wine, Of the juice of my pomegranate.
 His left hand should be under my head, And his right hand should embrace me.
@@ -17897,7 +17897,6 @@ And when they shall say unto you, Seek unto them that have familiar spirits and 
 To the law and to the testimony! if they speak not according to this word, surely there is no morning for them.
 And they shall pass through it, sore distressed and hungry; and it shall come to pass that, when they shall be hungry, they shall fret themselves, and curse by their king and by their God, and turn their faces upward:
 and they shall look unto the earth, and, behold, distress and darkness, the gloom of anguish; and into thick darkness they shall be driven away.
-
 But there shall be no gloom to her that was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali; but in the latter time hath he made it glorious, by the way of the sea, beyond the Jordan, Galilee of the nations.
 The people that walked in darkness have seen a great light: they that dwelt in the land of the shadow of death, upon them hath the light shined.
 Thou hast multiplied the nation, thou hast increased their joy: they joy before thee according to the joy in harvest, as men rejoice when they divide the spoil.
@@ -17918,6 +17917,7 @@ Therefore the Lord will not rejoice over their young men, neither will he have c
 For wickedness burneth as the fire; it devoureth the briers and thorns; yea, it kindleth in the thickets of the forest, and they roll upward in a column of smoke.
 Through the wrath of Jehovah of hosts is the land burnt up; and the people are as the fuel of fire: no man spareth his brother.
 And one shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:
+Manasseh, Ephraim; and Ephraim, Manasseh; and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
 Woe unto them that decree unrighteous decrees, and to the writers that write perverseness;
 to turn aside the needy from justice, and to rob the poor of my people of their right, that widows may be their spoil, and that they may make the fatherless their prey!
 And what will ye do in the day of visitation, and in the desolation which shall come from far? to whom will ye flee for help? and where will ye leave your glory?
@@ -18953,8 +18953,7 @@ For thou art our Father, though Abraham knoweth us not, and Israel doth not ackn
 O Jehovah, why dost thou make us to err from thy ways, and hardenest our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
 Thy holy people possessed it but a little while: our adversaries have trodden down thy sanctuary.
 We are become as they over whom thou never barest rule, as they that were not called by thy name.
-Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might quake at thy presence,
-as when fire kindleth the brushwood, and the fire causeth the waters to boil; to make thy name known to thine adversaries, that the nations may tremble at thy presence!
+Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might quake at thy presence, as when fire kindleth the brushwood, and the fire causeth the waters to boil; to make thy name known to thine adversaries, that the nations may tremble at thy presence!
 When thou didst terrible things which we looked not for, thou camest down, the mountains quaked at thy presence.
 For from of old men have not heard, nor perceived by the ear, neither hath the eye seen a God besides thee, who worketh for him that waiteth for him.
 Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou wast wroth, and we sinned: in them have we been of long time; and shall we be saved?
@@ -18964,6 +18963,7 @@ But now, O Jehovah, thou art our Father; we are the clay, and thou our potter; a
 Be not wroth very sore, O Jehovah, neither remember iniquity for ever: behold, look, we beseech thee, we are all thy people.
 Thy holy cities are become a wilderness, Zion is become a wilderness, Jerusalem a desolation.
 Our holy and our beautiful house, where our fathers praised thee, is burned with fire; and all our pleasant places are laid waste.
+Wilt thou refrain thyself for these things, O Jehovah? wilt thou hold thy peace, and afflict us very sore?
 I am inquired of by them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.
 I have spread out my hands all the day unto a rebellious people, that walk in a way that is not good, after their own thoughts;
 a people that provoke me to my face continually, sacrificing in gardens, and burning incense upon bricks;
@@ -19242,7 +19242,6 @@ Behold, the voice of the cry of the daughter of my people from a land that is ve
 The harvest is past, the summer is ended, and we are not saved.
 For the hurt of the daughter of my people am I hurt: I mourn; dismay hath taken hold on me.
 Is there no balm in Gilead? is there no physician there? why then is not the health of the daughter of my people recovered?
-
 Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!
 Oh that I had in the wilderness a lodging-place of wayfaring men; that I might leave my people, and go from them! for they are all adulterers, an assembly of treacherous men.
 And they bend their tongue, as it were their bow, for falsehood; and they are grown strong in the land, but not for truth: for they proceed from evil to evil, and they know not me, saith Jehovah.
@@ -19268,6 +19267,7 @@ Speak, Thus saith Jehovah, The dead bodies of men shall fall as dung upon the op
 Thus saith Jehovah, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches;
 but let him that glorieth glory in this, that he hath understanding, and knoweth me, that I am Jehovah who exerciseth lovingkindness, justice, and righteousness, in the earth: for in these things I delight, saith Jehovah.
 Behold, the days come, saith Jehovah, that I will punish all them that are circumcised in their uncircumcision:
+Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that have the corners of their hair cut off, that dwell in the wilderness; for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.
 Hear ye the word which Jehovah speaketh unto you, O house of Israel:
 thus saith Jehovah, Learn not the way of the nations, and be not dismayed at the signs of heaven; for the nations are dismayed at them.
 For the customs of the peoples are vanity; for one cutteth a tree out of the forest, the work of the hands of the workman with the axe.
@@ -21007,6 +21007,11 @@ And ye shall know that I am Jehovah, when I shall bring you into the land of Isr
 And there shall ye remember your ways, and all your doings, wherein ye have polluted yourselves; and ye shall loathe yourselves in your own sight for all your evils that ye have committed.
 And ye shall know that I am Jehovah, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord Jehovah.
 And the word of Jehovah came unto me, saying,
+Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the field in the South;
+and say to the forest of the South, Hear the word of Jehovah: Thus saith the Lord Jehovah, Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burnt thereby.
+And all flesh shall see that I, Jehovah, have kindled it; it shall not be quenched.
+Then said I, Ah Lord Jehovah! they say of me, Is he not a speaker of parables?
+And the word of Jehovah came unto me, saying,
 Son of man, set thy face toward Jerusalem, and drop thy word toward the sanctuaries, and prophesy against the land of Israel;
 and say to the land of Israel, Thus saith Jehovah: Behold, I am against thee, and will draw forth my sword out of its sheath, and will cut off from thee the righteous and the wicked.
 Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of its sheath against all flesh from the south to the north:
@@ -21038,11 +21043,6 @@ while they see for thee false visions, while they divine lies unto thee, to lay 
 Cause it to return into its sheath. In the place where thou wast created, in the land of thy birth, will I judge thee.
 And I will pour out mine indignation upon thee; I will blow upon thee with the fire of my wrath; and I will deliver thee into the hand of brutish men, skilful to destroy.
 Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I, Jehovah, have spoken it.
-
-
-
-
-
 Moreover the word of Jehovah came unto me, saying,
 And thou, son of man, wilt thou judge, wilt thou judge the bloody city? then cause her to know all her abominations.
 And thou shalt say, Thus saith the Lord Jehovah: A city that sheddeth blood in the midst of her, that her time may come, and that maketh idols against herself to defile her!
@@ -21904,9 +21904,6 @@ And the satraps, the deputies, and the governors, and the king’s counsellors, 
 Nebuchadnezzar spake and said, Blessed be the God of Shadrach, Meshach, and Abed-nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king’s word, and have yielded their bodies, that they might not serve nor worship any god, except their own God.
 Therefore I make a decree, that every people, nation, and language, which speak anything amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill; because there is no other god that is able to deliver after this sort.
 Then the king promoted Shadrach, Meshach, and Abed-nego in the province of Babylon.
-
-
-
 Nebuchadnezzar the king, unto all the peoples, nations, and languages, that dwell in all the earth: Peace be multiplied unto you.
 It hath seemed good unto me to show the signs and wonders that the Most High God hath wrought toward me.
 How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.
@@ -21941,6 +21938,9 @@ While the word was in the king’s mouth, there fell a voice from heaven, saying
 and thou shalt be driven from men; and thy dwelling shall be with the beasts of the field; thou shalt be made to eat grass as oxen; and seven times shall pass over thee; until thou know that the Most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
 The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hair was grown like eagles’ feathers, and his nails like birds’ claws.
 And at the end of the days I, Nebuchadnezzar, lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the Most High, and I praised and honored him that liveth for ever; for his dominion is an everlasting dominion, and his kingdom from generation to generation;
+and all the inhabitants of the earth are reputed as nothing; and he doeth according to his will in the army of heaven, and among the inhabitants of the earth; and none can stay his hand, or say unto him, What doest thou?
+At the same time mine understanding returned unto me; and for the glory of my kingdom, my majesty and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent greatness was added unto me.
+Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those that walk in pride he is able to abase.
 Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 Belshazzar, while he tasted the wine, commanded to bring the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem; that the king and his lords, his wives and his concubines, might drink therefrom.
 Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king and his lords, his wives and his concubines, drank from them.
@@ -21971,6 +21971,7 @@ TEKEL; thou art weighed in the balances, and art found wanting.
 PERES; thy kingdom is divided, and given to the Medes and Persians.
 Then commanded Belshazzar, and they clothed Daniel with purple, and put a chain of gold about his neck, and made proclamation concerning him, that he should be the third ruler in the kingdom.
 In that night Belshazzar the Chaldean king was slain.
+And Darius the Mede received the kingdom, being about threescore and two years old.
 It pleased Darius to set over the kingdom a hundred and twenty satraps, who should be throughout the whole kingdom;
 and over them three presidents, of whom Daniel was one; that these satraps might give account unto them, and that the king should have no damage.
 Then this Daniel was distinguished above the presidents and the satraps, because an excellent spirit was in him; and the king thought to set him over the whole realm.
@@ -21999,7 +22000,6 @@ Then king Darius wrote unto all the peoples, nations, and languages, that dwell 
 I make a decree, that in all the dominion of my kingdom men tremble and fear before the God of Daniel; for he is the living God, and stedfast for ever, And his kingdom that which shall not be destroyed; and his dominion shall be even unto the end.
 He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.
 So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
-
 In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream and told the sum of the matters.
 Daniel spake and said, I saw in my vision by night, and, behold, the four winds of heaven brake forth upon the great sea.
 And four great beasts came up from the sea, diverse one from another.
@@ -22170,6 +22170,8 @@ And she conceived again, and bare a daughter. And Jehovah said unto him, Call he
 But I will have mercy upon the house of Judah, and will save them by Jehovah their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
 Now when she had weaned Lo-ruhamah, she conceived, and bare a son.
 And Jehovah said, Call his name Lo-ammi; for ye are not my people, and I will not be your God.
+Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass that, in the place where it was said unto them, Ye are not my people, it shall be said unto them, Ye are the sons of the living God.
+And the children of Judah and the children of Israel shall be gathered together, and they shall appoint themselves one head, and shall go up from the land; for great shall be the day of Jezreel.
 Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 Contend with your mother, contend; for she is not my wife, neither am I her husband; and let her put away her whoredoms from her face, and her adulteries from between her breasts;
 lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.
@@ -22193,8 +22195,6 @@ I will even betroth thee unto me in faithfulness; and thou shalt know Jehovah.
 And it shall come to pass in that day, I will answer, saith Jehovah, I will answer the heavens, and they shall answer the earth;
 and the earth shall answer the grain, and the new wine, and the oil; and they shall answer Jezreel.
 And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them that were not my people, Thou art my people; and they shall say, Thou art my God.
-
-
 And Jehovah said unto me, Go again, love a woman beloved of her friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins.
 So I bought her to me for fifteen pieces of silver, and a homer of barley, and a half-homer of barley;
 and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be any man’s wife: so will I also be toward thee.
@@ -22318,6 +22318,7 @@ How shall I give thee up, Ephraim? how shall I cast thee off, Israel? how shall 
 I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee; and I will not come in wrath.
 They shall walk after Jehovah, who will roar like a lion; for he will roar, and the children shall come trembling from the west.
 They shall come trembling as a bird out of Egypt, and as a dove out of the land of Assyria; and I will make them to dwell in their houses, saith Jehovah.
+Ephraim compasseth me about with falsehood, and the house of Israel with deceit; but Judah yet ruleth with God, and is faithful with the Holy One.
 Ephraim feedeth on wind, and followeth after the east wind: he continually multiplieth lies and desolation; and they make a covenant with Assyria, and oil is carried into Egypt.
 Jehovah hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.
 In the womb he took his brother by the heel; and in his manhood he had power with God:
@@ -22332,7 +22333,6 @@ Is Gilead iniquity? they are altogether false; in Gilgal they sacrifice bullocks
 And Jacob fled into the field of Aram, and Israel served for a wife, and for a wife he kept sheep.
 And by a prophet Jehovah brought Israel up out of Egypt, and by a prophet was he preserved.
 Ephraim hath provoked to anger most bitterly: therefore shall his blood be left upon him, and his reproach shall his Lord return unto him.
-
 When Ephraim spake, there was trembling; he exalted himself in Israel; but when he offended in Baal, he died.
 And now they sin more and more, and have made them molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
 Therefore they shall be as the morning cloud, and as the dew that passeth early away, as the chaff that is driven with the whirlwind out of the threshing-floor, and as the smoke out of the chimney.
@@ -22348,6 +22348,7 @@ The iniquity of Ephraim is bound up; his sin is laid up in store.
 The sorrows of a travailing woman shall come upon him: he is an unwise son; for it is time he should not tarry in the place of the breaking forth of children.
 I will ransom them from the power of Sheol; I will redeem them from death: O death, where are thy plagues? O Sheol, where is thy destruction? repentance shall be hid from mine eyes.
 Though he be fruitful among his brethren, an east wind shall come, the breath of Jehovah coming up from the wilderness; and his spring shall become dry, and his fountain shall be dried up: he shall make spoil of the treasure of all goodly vessels.
+Samaria shall bear her guilt; for she hath rebelled against her God: they shall fall by the sword; their infants shall be dashed in pieces, and their women with child shall be ripped up.
 O Israel, return unto Jehovah thy God; for thou hast fallen by thine iniquity.
 Take with you words, and return unto Jehovah: say unto him, Take away all iniquity, and accept that which is good: so will we render as bullocks the offering of our lips.
 Assyria shall not save us; we will not ride upon horses; neither will we say any more to the work of our hands, Ye are our gods; for in thee the fatherless findeth mercy.
@@ -22357,7 +22358,6 @@ His branches shall spread, and his beauty shall be as the olive-tree, and his sm
 They that dwell under his shadow shall return; they shall revive as the grain, and blossom as the vine: the scent thereof shall be as the wine of Lebanon.
 Ephraim shall say, What have I to do any more with idols? I have answered, and will regard him: I am like a green fir-tree; from me is thy fruit found.
 Who is wise, that he may understand these things? prudent, that he may know them? for the ways of Jehovah are right, and the just shall walk in them; but transgressors shall fall therein.
-
 The word of Jehovah that came to Joel the son of Pethuel.
 Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or in the days of your fathers?
 Tell ye your children of it, and let your children tell their children, and their children another generation.
@@ -22405,32 +22405,32 @@ And the floors shall be full of wheat, and the vats shall overflow with new wine
 And I will restore to you the years that the locust hath eaten, the canker-worm, and the caterpillar, and the palmer-worm, my great army which I sent among you.
 And ye shall eat in plenty and be satisfied, and shall praise the name of Jehovah your God, that hath dealt wondrously with you; and my people shall never be put to shame.
 And ye shall know that I am in the midst of Israel, and that I am Jehovah your God, and there is none else; and my people shall never be put to shame.
+And it shall come to pass afterward, that I will pour out my Spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
+and also upon the servants and upon the handmaids in those days will I pour out my Spirit.
+And I will show wonders in the heavens and in the earth: blood, and fire, and pillars of smoke.
+The sun shall be turned into darkness, and the moon into blood, before the great and terrible day of Jehovah cometh.
+And it shall come to pass, that whosoever shall call on the name of Jehovah shall be delivered; for in mount Zion and in Jerusalem there shall be those that escape, as Jehovah hath said, and among the remnant those whom Jehovah doth call.
 For, behold, in those days, and in that time, when I shall bring back the captivity of Judah and Jerusalem,
 I will gather all nations, and will bring them down into the valley of Jehoshaphat; and I will execute judgment upon them there for my people and for my heritage Israel, whom they have scattered among the nations: and they have parted my land,
 and have cast lots for my people, and have given a boy for a harlot, and sold a girl for wine, that they may drink.
 Yea, and what are ye to me, O Tyre, and Sidon, and all the regions of Philistia? will ye render me a recompense? and if ye recompense me, swiftly and speedily will I return your recompense upon your own head.
 Forasmuch as ye have taken my silver and my gold, and have carried into your temples my goodly precious things,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+and have sold the children of Judah and the children of Jerusalem unto the sons of the Grecians, that ye may remove them far from their border;
+behold, I will stir them up out of the place whither ye have sold them, and will return your recompense upon your own head;
+and I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the men of Sheba, to a nation far off: for Jehovah hath spoken it.
+Proclaim ye this among the nations; prepare war; stir up the mighty men; let all the men of war draw near, let them come up.
+Beat your plowshares into swords, and your pruning-hooks into spears: let the weak say, I am strong.
+Haste ye, and come, all ye nations round about, and gather yourselves together: thither cause thy mighty ones to come down, O Jehovah.
+Let the nations bestir themselves, and come up to the valley of Jehoshaphat; for there will I sit to judge all the nations round about.
+Put ye in the sickle; for the harvest is ripe: come, tread ye; for the winepress is full, the vats overflow; for their wickedness is great.
+Multitudes, multitudes in the valley of decision! for the day of Jehovah is near in the valley of decision.
+The sun and the moon are darkened, and the stars withdraw their shining.
+And Jehovah will roar from Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but Jehovah will be a refuge unto his people, and a stronghold to the children of Israel.
+So shall ye know that I am Jehovah your God, dwelling in Zion my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
+And it shall come to pass in that day, that the mountains shall drop down sweet wine, and the hills shall flow with milk, and all the brooks of Judah shall flow with waters; and a fountain shall come forth from the house of Jehovah, and shall water the valley of Shittim.
+Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence done to the children of Judah, because they have shed innocent blood in their land.
+But Judah shall abide for ever, and Jerusalem from generation to generation.
+And I will cleanse their blood, that I have not cleansed: for Jehovah dwelleth in Zion.
 The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 And he said, Jehovah will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds shall mourn, and the top of Carmel shall wither.
 Thus saith Jehovah: For three transgressions of Damascus, yea, for four, I will not turn away the punishment thereof; because they have threshed Gilead with threshing instruments of iron.
@@ -22614,6 +22614,7 @@ Nevertheless the men rowed hard to get them back to the land; but they could not
 Wherefore they cried unto Jehovah, and said, We beseech thee, O Jehovah, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood; for thou, O Jehovah, hast done as it pleased thee.
 So they took up Jonah, and cast him forth into the sea; and the sea ceased from its raging.
 Then the men feared Jehovah exceedingly; and they offered a sacrifice unto Jehovah, and made vows.
+And Jehovah prepared a great fish to swallow up Jonah; and Jonah was in the belly of the fish three days and three nights.
 Then Jonah prayed unto Jehovah his God out of the fish’s belly.
 And he said, I called by reason of mine affliction unto Jehovah, And he answered me; Out of the belly of Sheol cried I, And thou heardest my voice.
 For thou didst cast me into the depth, in the heart of the seas, And the flood was round about me; All thy waves and thy billows passed over me.
@@ -22624,7 +22625,6 @@ When my soul fainted within me, I remembered Jehovah; And my prayer came in unto
 They that regard lying vanities Forsake their own mercy.
 But I will sacrifice unto thee with the voice of thanksgiving; I will pay that which I have vowed. Salvation is of Jehovah.
 And Jehovah spake unto the fish, and it vomited out Jonah upon the dry land.
-
 And the word of Jehovah came unto Jonah the second time, saying,
 Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.
 So Jonah arose, and went unto Nineveh, according to the word of Jehovah. Now Nineveh was an exceeding great city, of three days’ journey.
@@ -22700,7 +22700,6 @@ Be in pain, and labor to bring forth, O daughter of Zion, like a woman in travai
 And now many nations are assembled against thee, that say, Let her be defiled, and let our eye see our desire upon Zion.
 But they know not the thoughts of Jehovah, neither understand they his counsel; for he hath gathered them as the sheaves to the threshing-floor.
 Arise and thresh, O daughter of Zion; for I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many peoples: and I will devote their gain unto Jehovah, and their substance unto the Lord of the whole earth.
-
 Now shalt thou gather thyself in troops, O daughter of troops: he hath laid siege against us; they shall smite the judge of Israel with a rod upon the cheek.
 But thou, Beth-lehem Ephrathah, which art little to be among the thousands of Judah, out of thee shall one come forth unto me that is to be ruler in Israel; whose goings forth are from of old, from everlasting.
 Therefore will he give them up, until the time that she who travaileth hath brought forth: then the residue of his brethren shall return unto the children of Israel.
@@ -22715,6 +22714,7 @@ and I will cut off the cities of thy land, and will throw down all thy stronghol
 And I will cut off witchcrafts out of thy hand; and thou shalt have no more soothsayers:
 and I will cut off thy graven images and thy pillars out of the midst of thee; and thou shalt no more worship the work of thy hands;
 and I will pluck up thine Asherim out of the midst of thee; and I will destroy thy cities.
+And I will execute vengeance in anger and wrath upon the nations which hearkened not.
 Hear ye now what Jehovah saith: Arise, contend thou before the mountains, and let the hills hear thy voice.
 Hear, O ye mountains, Jehovah’s controversy, and ye enduring foundations of the earth; for Jehovah hath a controversy with his people, and he will contend with Israel.
 O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.
@@ -22765,6 +22765,7 @@ There is one gone forth out of thee, that deviseth evil against Jehovah, that co
 Thus saith Jehovah: Though they be in full strength, and likewise many, even so shall they be cut down, and he shall pass away. Though I have afflicted thee, I will afflict thee no more.
 And now will I break his yoke from off thee, and will burst thy bonds in sunder.
 And Jehovah hath given commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image; I will make thy grave; for thou art vile.
+Behold, upon the mountains the feet of him that bringeth good tidings, that publisheth peace! Keep thy feasts, O Judah, perform thy vows; for the wicked one shall no more pass through thee; he is utterly cut off.
 He that dasheth in pieces is come up against thee: keep the fortress, watch the way, make thy loins strong, fortify thy power mightily.
 For Jehovah restoreth the excellency of Jacob, as the excellency of Israel; for the emptiers have emptied them out, and destroyed their vine-branches.
 The shield of his mighty men is made red, the valiant men are in scarlet: the chariots flash with steel in the day of his preparation, and the cypress spears are brandished.
@@ -22778,7 +22779,6 @@ She is empty, and void, and waste; and the heart melteth, and the knees smite to
 Where is the den of the lions, and the feeding-place of the young lions, where the lion and the lioness walked, the lion’s whelp, and none made them afraid?
 The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his caves with prey, and his dens with ravin.
 Behold, I am against thee, saith Jehovah of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions; and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.
-
 Woe to the bloody city! it is all full of lies and rapine; the prey departeth not.
 The noise of the whip, and the noise of the rattling of wheels, and prancing horses, and bounding chariots,
 the horseman mounting, and the flashing sword, and the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies; they stumble upon their bodies;—
@@ -22962,6 +22962,10 @@ So the angel that talked with me said unto me, Cry thou, saying, Thus saith Jeho
 And I am very sore displeased with the nations that are at ease; for I was but a little displeased, and they helped forward the affliction.
 Therefore thus saith Jehovah: I am returned to Jerusalem with mercies; my house shall be built in it, saith Jehovah of hosts, and a line shall be stretched forth over Jerusalem.
 Cry yet again, saying, Thus saith Jehovah of hosts: My cities shall yet overflow with prosperity; and Jehovah shall yet comfort Zion, and shall yet choose Jerusalem.
+And I lifted up mine eyes, and saw, and, behold, four horns.
+And I said unto the angel that talked with me, What are these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem.
+And Jehovah showed me four smiths.
+Then said I, What come these to do? And he spake, saying, These are the horns which scattered Judah, so that no man did lift up his head; but these are come to terrify them, to cast down the horns of the nations, which lifted up their horn against the land of Judah to scatter it.
 And I lifted up mine eyes, and saw, and, behold, a man with a measuring line in his hand.
 Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.
 And, behold, the angel that talked with me went forth, and another angel went out to meet him,
@@ -22975,10 +22979,6 @@ Sing and rejoice, O daughter of Zion; for, lo, I come, and I will dwell in the m
 And many nations shall join themselves to Jehovah in that day, and shall be my people; and I will dwell in the midst of thee, and thou shalt know that Jehovah of hosts hath sent me unto thee.
 And Jehovah shall inherit Judah as his portion in the holy land, and shall yet choose Jerusalem.
 Be silent, all flesh, before Jehovah; for he is waked up out of his holy habitation.
-
-
-
-
 And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan standing at his right hand to be his adversary.
 And Jehovah said unto Satan, Jehovah rebuke thee, O Satan; yea, Jehovah that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire?
 Now Joshua was clothed with filthy garments, and was standing before the angel.
@@ -23205,12 +23205,12 @@ and now we call the proud happy; yea, they that work wickedness are built up; ye
 Then they that feared Jehovah spake one with another; and Jehovah hearkened, and heard, and a book of remembrance was written before him, for them that feared Jehovah, and that thought upon his name.
 And they shall be mine, saith Jehovah of hosts, even mine own possession, in the day that I make; and I will spare them, as a man spareth his own son that serveth him.
 Then shall ye return and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
-
-
-
-
-
-
+For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble; and the day that cometh shall burn them up, saith Jehovah of hosts, that it shall leave them neither root nor branch.
+But unto you that fear my name shall the sun of righteousness arise with healing in its wings; and ye shall go forth, and gambol as calves of the stall.
+And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I make, saith Jehovah of hosts.
+Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, even statutes and ordinances.
+Behold, I will send you Elijah the prophet before the great and terrible day of Jehovah come.
+And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers; lest I come and smite the earth with a curse.
 The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judah and his brethren;
 and Judah begat Perez and Zerah of Tamar; and Perez begat Hezron; and Hezron begat Ram;
@@ -27691,7 +27691,7 @@ Seeing then that these things cannot be gainsaid, ye ought to be quiet, and to d
 For ye have brought hither these men, who are neither robbers of temples nor blasphemers of our goddess.
 If therefore Demetrius, and the craftsmen that are with him, have a matter against any man, the courts are open, and there are proconsuls: let them accuse one another.
 But if ye seek anything about other matters, it shall be settled in the regular assembly.
-For indeed we are in danger to be accused concerning this day’s riot, there being no cause for it: and as touching it we shall not be able to give account of this concourse.
+For indeed we are in danger to be accused concerning this day’s riot, there being no cause for it: and as touching it we shall not be able to give account of this concourse. And when he had thus spoken, he dismissed the assembly.
 And after the uproar ceased, Paul having sent for the disciples and exhorted them, took leave of them, and departed to go into Macedonia.
 And when he had gone through those parts, and had given them much exhortation, he came into Greece.
 And when he had spent three months there, and a plot was laid against him by the Jews as he was about to set sail for Syria, he determined to return through Macedonia.

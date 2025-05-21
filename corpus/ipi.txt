@@ -22614,6 +22614,7 @@ Piape akali tupa mane sipi okone ingane minu-awua ayatenenga makale nembo toto m
 Utupane mane katulo ipa ayatenenga napolo-peyama yaa-lo andoto, Gote ee loto, wua leaini-pia. Gote nimba tane pukale-lo nembo tapi pua teke pele oko. Akali okomane koo mindi napiya-kola nanimato bala ipa solewata okona omea-kale loto aindaka leyama. Bala omola okonena tene oko nanimanga eya loto, nimbato nanima omamakale-lo ando konda napipe-lo pote leyama leaini-pia.
 Utupane-mane wuane lo pote lokoyo piyu, Jona minoto, ipa solewatanga awua aindaka leai-kola, sii andane ika leane okone kapoyale okone angi teke tepa yae-pia.
 Akali utupane mane ipa solewata ika lea oko kapoyale tepaya-kola andoto Gote yukuwa, opa maiyu, potomisa loto, balana pii wato minamakale leaini-pia.
+Oto okone angi, Gote-to pisa andane wetete mindimane Jona goae leakale laya ya-kola, Jona bala pisa andane wetete okonena ini andapangosa utulu otongapi, ole tepoi paleae-pia.
 Jona bala pisa andane wetete okona ini anda pangosa paluto, balana Gote Akali Andane okone-lo pote leae-pia:
 Akali Andane nambanga kendapene ipupia-kola nimba ee lawuako, nimbato yano peyapi. Namba wandakali omene atalaini yuu okona atoto, nimbato namba moyola-lo ai lawua-kola, nimbato nambana ai lawuako alewato yano peyapi. Nimbato solewatanga namba awua aindaka lapi-kola solewata mane namba ombo atane pango nenanga wete ateyo.
 <range>
@@ -22624,7 +22625,6 @@ Namba omape-pene guu-lo yoto nambato Gote nimba nembo tolo-peke loto, pote lawua
 Owato gote tupamane katulo wandakali tupa moya napiyaini tekeko, wandakali minditupa-mane utupane-lo lotu lalaini. Gote-to owato gote lotu lalaini wandakali utupane ondo wato, moyapia-yale tekeko, utupane-mane balana ondo ene oko masia mayiaini.
 Gote nimbato angu nanima molo peke lalene. Tene okonena nambato wee-tomo tupa loto, opa nimba giyu, nimbana gene oko layu lokale. Minditaka pukale-lo nimba towa potomisa lawua tupa pukale leae-pia.
 Jona-to wuane lea-kola, Gote-to ale wato, pisa andane wetete okomane Jona miangu-tangu, solewata ayatenenga aikamaka leakale lea-kola pisa okone mane Jona miangu-tangu aikamaka leae-pia.
-
 Gote-to lapone teke Jona lamawuato,
 Nimbato tano andane Ninipe okonena puu. Poto, nambato nimba pii giwa tupa tano okonena tane wandakali tupa lamaipe leae-pia.
 Gote-na pii okone wato minuto, Jona bala Ninipe tano okonena peae-pia. Ninipe tano okone, tano andane gene yene mindi yaepia. Wandakali mindimane tano okonena ayatene ukusa tole ato kee asini angu poto, tano okonena ayatene amoyangisia poyale peando, katulo, ole-tepo pitaka palane.
@@ -27691,7 +27691,7 @@ Wandakali mindikipi mindimane katulo nanimato owato pii leyama nalolo-peyako, ya
 <range>
 Kote ale olane akali tupa atalu, kote ale olane gii tupa yalu peya-ko. Dimiti-yasapi, bala towa atu piape piyaini akali tupapi, utupane-mane kote loto, akali mindinga koo tene mindi yata amakale nembo teaindo, utupane-mane bala kote lolo peakale kondalapa.
 Andipa tene mindi ata napiya-kola, nanima mee epo amunguli puato, pii taimane laiyu nena pua atalama. Wuane piyai lo Lomo tane gapomane akali andane tupamane ale yaindo, utupane-mane katulo nanima tipa puato, tene anu peakale yakama epo amunguli puato, pii taimane laiyu nena pua atalaipe lolopeya. Utupane-mane wuane leaindo, nanimato katulo pii mindi yano peya napuluma-kola, utupane-mane loto, yakamato nanima towa yanda mina ika loyale wuane piyai lo nanima kosimi lolopeyai. Tene okonena, yakamato pii waka mindi lo tika pimakale nembo teaindo, matili kanjole tupamane gapomane okona loo oko wato minuto, epo amunguli pulai-angi, utupane-mane yakamana pii okone lo tika peakale kondalapa leaipia.
-<range>
+Wuane lalu, Epesasa tane gapomane akali kawane okomane wandakali amunguli pua ateaini tupa pitaka lamawuato, yakama puu toko lalapa leaipia.
 Epesasa tano okona tane tupamane pii taimane loto, kili kalae lo ateaini okone lokoyo piyu, andaka peai-kola, Poloto Kitisene wandakali tupa epo amunguli peakale leaipia. Amunguli peai-kola, balato utupane minu tai laya wato, pii minditupa utupane lamai-yaepia. Lamaiyu, balato yakama atalapape lalu, Masetonia potopinjia okona peaipia.
 Bala Masetonia potopinjia okona yuu waka-waka yane tupana epoko pua atoto, Kitisene wandakali tupa minu tai laya wato, pii kambua lamaima pulu, matili bala Gitiki kanditi okona peaipia.
 Gitiki kanditi okona ana tepo atalu, matili bala sipinga pitiyu, Sitiya potopinjia okona pokale nembo teane tekeko, balato ale ya-kola, Juta yame wandakali minditupa-mane bala atu sipinga pitiyu, bala peyo ome lamakale lo pii lo puta piyai lene oko ale yaepia. Ale wato, balana nembo-tene oko lawa puato, Masetonia potopinjia okona asini peke lokale nembo teaipia.

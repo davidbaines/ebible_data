@@ -926,6 +926,7 @@ Tane me otopa sa ebowa Iosep wane itun ita wanase, “Tane Iawe God osowe oto da
 
 
 
+
 Tane Iakob leulene bolawe aleidie into God enseliwa me donsaiena.
 Ita Iakob mo ewamone wanase, “Ema ipa God nolawa dewalala saradoubu, sa baiwa bola sa me ebowa wana Maanaim.”
 Tane Iakob gagalowa bautasane me nolawa dewalala wanamone waubamopio antopue me tatawa Esau bola Edom ebowa da waia Sia bedewe wandia diapua baiwa.
@@ -958,7 +959,6 @@ Tane Iakob wanase, “Ne menanedia e eboa wae dianea.” Ita me leusane wanase, 
 Tane mape Iakob emaweido God ewen ita do me bolepona tane inalen sa baiwa me bola sa ebowa Penuel wane itun.
 Ita me bola Penuel bedewe aleidie tampa bumpa aisideno baiwa ansuleidio omo wisene tontalen.
 Mapo ita tauma walamawa bedewe Israel apanawa nosinosiu moia tampa bumpa mai naipona, dia. Ipawa Iakob tampa bumpa epeno aisidena baiwa.
-
 
 
 
@@ -2127,7 +2127,6 @@ Naita apana mida meba mamba ita inawa saua kadiwa wapie diamopia, apana sa ideit
 
 
 
-
 Iawe God wanase, “Naita apana da i sanaa mai apana da naisepia baiwa sauasapona lagasapie ninasapia, me nainai mataopa dewasapie i sa wanepie muriwa naisepi.
 Tane i sa mamba apana nainai menasampo toulepia, apana ideita i mamba i sanaa mataopawa ruawalepie malesasapi.
 Tane naita i da baraulempa, mo ideita i sa bosapu.
@@ -2140,6 +2139,7 @@ ita do ne nuakadina polapolaua e ilepituwapi sa ipa ona bedewe isima moamoaua ma
 Naita e ne apanana da nuaparelala mane wanamone ita sipoa osowesane debama mai leusane wadawada insena, mane amonalala apanawa dewawa rua, dia.
 Naita e apana da mane wanaa ita me garawa onapea eneepia sauawa eueuwa rua, me e manea sa leusapie eneepi, ita e omo enediawo garawa sa leusae wanaa.
 Ipawa me garawa dea os obasa topio rupulepia. Me gara dainea rupulepie itulepi? Naita e mai gara sa leusae apana sa wanaa, me ne mainawo sau baiwa ke wampo sipoasapa, ipawa ne ipa Iawe nuapare Godiwa.”
+
 
 
 
@@ -7772,13 +7772,13 @@ Ita walama sawo ualene odene alena Sol Dawid emalawoasadie.
 
 
 
+
 Dawid alen bola debama ebowa Nob bedewe pirisi ebowa Elimelek ewepia baiwa. Elimelek nosene alen Dawid donsapie auwasapia baiwa ita me salene wanase, “E dima baiwa eba mape wien?”
 Dawid pirisi Elimelek sipoasane wanase, “Ne warere dianena nitu da dewasapa. Tane me ne dianene wanase, ‘Ne waaubaedina umanawa ita waeuwa dieena mai mida da diaa!’ Ne sorodiana diamona antopue bola dea bedewe ne onianeapu.
 E nana da manawo winede ba dia, ne neaa? Bured uduudu 5 ba nana dainea e manawo winompa neaa.”
 Tane pirisi Elimelek me sipoasane wanase, “No mai bured da mainimbo wineipona. Tane bured Iawe mampe amonantoiena sa os winede. E bured ema wadane nana rua, naita sorodiaa mai ioto do ituntopua mo napua rua.”
 Dawid sipoasane wanase, “Ulaipaida, no ona awa antitana walamawe mai iotomba do itunteipona, ne apanana sanaau muba etepu onieidewantoi. Ande no nubaida etemba onietadewanten nola ema debama dewasataa baiwa.”
 Tane nana da mai wineipe, sa baiwa bured Iawe God mampe amonantona otawialene nambe teeno wineia pirisi otene Dawid wanen. Ipawa aita me bured sanaa otawialene aupe teen.
-
 
 
 
@@ -8865,26 +8865,26 @@ God aten insaisawa euda warere waneno kadi saiwa dodomanasadia umanawa Israelwa 
 
 
 Iuda ita Israel apanawa uaraidanton mo ewaewau owa tampa nelawa rua. Mo mampo nana ita esa rua os, ita mo nuaeuntoie.
+Warere Solomon bola uduudu apanawa oniamon Eupirates esawa oso ualene, ita Pilistan apanawa waimoia bolauwo ita iene alene Isibtiwa enenituden. Apana sa amonau waaubantoie Solomon mampe inawaa wandia walamawe ita do mo me aiawa ruawantoie.
+
+
+
+Ita warere Solomon inawaa wandia walamawe bola debama Dan iene alene bola debama Beasibawo wisena Israel apanawa uduudu muba bolau dewasaie iraintoie waimoie.
+
+
+
+
+
+
+
+
+
 Mapo warere Dawid inawaa wandia walamawe me nuawadawada sowaida ipa warere Iram, me bola debama Taire apanawa oniamodie. Tane warere Iram, Dawid otopa Solomon Israel apanawa warereu sanaa enena umanawa etene nolawa apanawa waaubamono anton me auwasapua baiwa.
 Ita warere Solomon gagalo wanaubeno leulene warere Iram mampe alen me wanase,
 “E ateiten ambi ne mamana Dawid uwa daitada uaraia enane panane do onantoie. Sa baiwa me mai rua ita wadaposi duwa wadapona Iawe God wadaposisampa baiwa. Me Iawe God oniedie emalawoa apana bauta aimopie nanamopio tauma me God wadaposisampa duwa wadepi.
 Tane tauma Iawe ne Godna wanwan euda obasa nen bola uduudu bedewe ita ne onana eneia apanawa dia do empuempu dia.
 Sa baiwa ne tauma insedina wadapos duwa wadapa Iawe Godna wadaposisapina baiwa. Ne mamana Dawid diena rua, me wanase, ‘Ne ando e otoa dewasapo e aupaa wadepie warerelepi. Ita me ne ebona wadaposisampa duwa wadepi.’
 Sa baiwa e nolaa wadeia apanawa waubamowo Lebanon tawowa bedewe antopue ia badowa eboa sida waia tomopu ne baina ita nolana wadeia apanawa do awodea nolantopu. No atenten e apanaa bola debama Saidon bedewe waimoia ia totowa atendewanton, mai no Israelwa ruamba. Sa baiwa e ne dianea mane ambi rua e nolaa apana wanamopa ita rua ne malesamopa.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -14405,6 +14405,7 @@ Sa baiwa Iawe God sumanaiwaitana, insaisala itune badowa enonuna, Iawe God suman
 
 
 
+
 Ne walama uduudu Iawe God wadaposisapina ita me asowa wapina.
 Ne me ebowa debamasapina, e apana ituaisilala gagalo ema etane nuaeuitana.
 Iawe God wadaposisata, no awodea me ebowa debamasata!
@@ -14427,6 +14428,7 @@ Dewa dodomana dewasaia apanawa poka saiwa uara donsai, tane Iawe God walama uduu
 Me emawa mo osouwo, sa baiwa mai neaipu da tewapi.
 Tane kadi dewalala, mo muba kadiwa dewasaia kadimopi, ita apana mida dodomana dewasaio emalawoamoia matangelawa mo wadapu.
 Tane Iawe God me nolawa dewalala inamode. Apana mida Iawe God saumopie inamopia baiwa me mampe antoia mai matangela donsapu, dia.
+
 
 
 
@@ -14941,7 +14943,6 @@ Ita apana amonau nuau dodomana mampe e manawo dewasampo nuaa eulempa; mo pulou d
 
 
 
-
 O God, nuaparembaite, sau euda osombo itua. E nana mainimbosae oiwawaitaa.
 Ita apana uduudu tawo osowe waimoia e dewaa atentopu, uwa daitada apanawa atentopu e mo inamoa rua.
 Uwa daitada apanawa God wadaposiepu, apana uduudu e wadaposiepu!
@@ -14949,7 +14950,6 @@ Apana uduudu tawo osowe nuaeu mampe sasantopu ipawa e dewaa dodomana mampe uwa d
 Uwa daitada apanawa God wadaposiepu apana uduudu e wadaposiepu!
 Ita tawo osowe nana mauralepi ita no Godimba sau debama no osombo itupi.
 Ulaipa, God sau euda no osombosapi ita bola daitada bede wanwanlala me wadaposisana.
-
 
 
 
@@ -17474,13 +17474,13 @@ Apana dea mai onalepie emalawoa nanausapia rua, dia, tane apana natantopua edasa
 
 
 
-
 Maura apanawa menasadia mauraidalepi, tane dima uduudu menasadia mai donsapie wadepi, dia. Apana sa mauralepia menasadia me dima uduudu menasadia wadompa tane mai pokasampa. Me insaisa sa insedia ipa diapana ipasiawaia.
 Naita e mauraidaitaa, apana uara e mauraa sa moawa wadompe mamposampa, ita maura apanawa wane ewono mauraa dialempa.
 Apana mida nola pokamodia, nana debama ba kerauda nai tane itudewantoi, tane maura debama apanawa, maurau inseie mai itudewantoipe bubuantoipona, dia.
 Tane kero da debamaia tawo ema osowe winedia ne donsana, apana mida tawo ema nituwa mampe mauraleidie wadeditue anatedia nitu sa me inawawa kadisapi.
 Maura apanawa sa maurawa oniepidewalepie inisapio debamalepia baiwa nolawa dewasadie, tane maura sa kadilena baiwa me rebasan. Ita me bolepio aupe me obampa mai dima da wineipona wadapu, dia.
 No tawo ema osowe muntite mai dima da wadape do sabamontepona, dia, tane do bontate mai dima da nolawa pokanena wadate do ana, diaida. No bontate maura sa mai wadate do ana, dia.
+
 
 
 
@@ -17897,7 +17897,6 @@ E epe dewaitena baiwa Tatamba me meba eueuwa da sabamosapio ateitana. Sa ipa: I 
 
 
 
-
 Walama sawo apana mai poka eteia do wankasantopu. Sebulun ita Napitali bedewe wanwalala apana ituaisimoio nuaparentoie waimoia, walama iedia wisepio uwa daitada apanawa Galili ita Mediterenian Owawa tampe ita Ioadan esawa nosena sawano inta debama nowa oso waimoia ebou debamalepi.
 Apana mida dubawa bedewe waimoia, sapa debamaia ewei. Ita mida bolala rua waimoia osouwo sapa wade.
 Iawe God e mo dewamoano uarantone nuaeuntoi, e mo dewamoano nuaeuntoi. E dima mo mampo dewasaana baiwa nuaeuwantoi. Mo nuaeuwau sa ipa maura debama uwauwantoie nuaeuwantoia rua, ba sorodia antoie emalawoau apanawa aimoie aupe nitubu oteie nuaeuwantoia rua.
@@ -17905,6 +17904,7 @@ Iawe God e mo dewamoano uarantone nuaeuntoi, e mo dewamoano nuaeuntoi. E dima mo
 
 Oto no mainimbo mulen, Iawe God oto mona amonalene no nenen. Me muka wadepie mukamukaua no onianepi ita apana me ebowa wampe wampase, “Me ebowa ipa Wadewasa Apanawa Eudida, God Mukamukaua, Wanwankasalala Mamba, Warere Wanwan Euda Obasa Wadepie Wisepi.
 Me onionia mukawa ita wanwan euda wadene wisena debamalepie winakasalempa. Me warere Dawid aupawa wadepie wampie gonaawa oniepi. Me dodomana mampe ita do ulaipa mampe apana oniamompaa bedewe me gonaawa badowa enakasalepi. Iawe God Mukamukaua, me ando epe dewasapio segalepia rua, ipawa me apanawa nuawadawadaidamode.”
+
 
 
 
@@ -18955,13 +18955,13 @@ Dogo bedewe nitu daitada inintoie wimoia rua, irai bedewe lawuru daitada inintop
 
 
 
-
 Mapoido mai mida da God da e ruaa umanawa etapona, mai mida da God da e ruaa ewapona; e apana mida sumanaiantoie waimoia saumoiana.
 Apana mida nuaeu mampe dewa eubu dewamoie, ita e intaa dodomana asiasi antoia e saumoiana. Tane e nuaa kadilen no mainimbo, ipawa no walama daumawa kadiwa dewakasanten. Apana inainanimba epe ambi e inanea?
 No dewamba kadiwa sa dewaneno e emaawo miramiraidanten, no dewamba eubu rubumoite dewamoitana e emaawo ewaewa ipa gara kepawa miramiraua rua. No tonaidanten ia asiwa tonantoia rua, ita lanunu ia asiwa uwakokomodio nomoia rua, no dewamba kadiu awananene alene kadiidanen.
 Tane mai mida e manawo rauparileipona, ba sau baiwa e manawo ieipe waitaraeipona, dia, no kadimba baiwa e adianananee eneana, e no eneano nuba kadimba kadiidanen.
 Tane Iawe God e ipa no mamamba, no ipa onta rua ita e eba ipa onta dewalala rua, e witaa mampe no dewaneana.
 Mai nua kadilempa no mainimbo, no kadiwamba mai nuaawo ituwo winompo insene os wanempa, no uduudu ipa e apanaa, sa baiwa nuaparembaite leuite ewanea.
+
 
 
 
@@ -22614,6 +22614,7 @@ Tane waa bedewe nolantoia apanawa mai menamoipona me owa bedewe aubepu, sa baiwa
 Sa baiwa mo Iawe God mampe sidantone waienase, “Iawe God no apana ema euda bosataa baiwantitana wawuwa mai no osombosae matangelanewo bontata. Dewa ema ipa e eba insaisawaitene dewasaano segalen.”
 Ema aupe mo Iona wadane owa bedewe aubeieno iene alen. Mo epe dewasaieno tauwadea os rauwanaga aisidene dialen.
 Waa bedewe nolantoia apanawa dewa ema ewane Iawe God sawaidantoiena, sa baiwa mo Iawe God mampe pulo dewasane ita badowa sauantoiena.
+Tane Iawe God dewasano owa moia debamaia wisene Iona numen ita me moia sa bupa bedewe wandio walama natadea ita tadina natadea dianton.
 Iona owa moia bupa bedewe wandie Iawe God mampe rauparilene wanase,
 “O Iawe God ne poka debama etedina, bedewe manawo rauparinteno etaneana. Bolala bolau bedewe iane aidantene sau baiwa iririntedino etaneana.
 E ne aubaneano owa didiweido iane aidanten. E rabamaa mukawa epaubanedie leusaitunedie. E rabamaa ne osonawo epedie tutuwadie.
@@ -22624,7 +22625,6 @@ Walama sawo ne insaisana koaleno boida baiwantedine. O Iawe God ne e insaene man
 Apana mida god lagawaau wadaposimoia, e nuawadawadaa winakasala adiananasai.
 Tane ne nebaida e os wadaposiepina; Ne e manawo pulo itupa, ne dima e manawo sauatena rua dewamopa. Iawe God e os apana inamoiana.”
 Walama isiwa diantono aupe Iawe God owa moia debama dieno Iona uta rua einaubeno owa waiwe nosen.
-
 Iawe God osowe me gagalowa Iona diede.
 Me wadi wadiase, “E imaitee bola debama Niniwe bedewe aitee ita ne gagalona wae apana diamoa.”
 Sa baiwa Iona Iawe God aiawa ruawalene imalene alen Niniwe bedewe. Bola ema ipa debamaia walama natadea bedewe ewatuwapi.
@@ -22700,11 +22700,11 @@ Tane ne ideita bola debama Niniwe nuaparewanteapa, ipawa apana uaraia 120,000 ma
 
 
 
-
 E Ierusalem apanawa onala apanawa diamono auwepu. No emalawoamba apanawa aitamana wimone tonusaneiena onamba enapua baiwa, mo koina mampe Israelwa uwaula apanawa sainapa epaubasapu.
 Iawe God wadiase, “Beteliem Eparata, e ipa bola keraudida Iuda bedewe, tane e bedeawoe apana dea ando wisepie Israelwa uwaula apanawa segalepie oniamopi ne baina, me damba reresawa simaido odene wisenaa.”
 Sa baiwa Iawe God Israel apanawa otamopie emalawoau witaposapio waimompo, ideita i oto gamoa walamawa wisepio gamolepi. Tauma onionia apanawa sa me apanawaida deaantone waimoia leuntopu wimopue sosou isiwa Israel bedewe waimoia do deantopue wampu.
 Me ando badowa Iawe God mukawa mampe enepie me apanawa oniadewasamopi, gamo apanawa puewa oniadewasamodia rua, Iawe God me Godiwa muka wanena epe dewasapia rua. Me apanawa ando oniadewasamompo mai mida da kadimopi, dia. Ipawa apana uduudu tawo osowe wanwanlala me nuawadawadasapue wiwirawantopu.
+
 
 
 
@@ -27691,7 +27691,7 @@ Dewa ema uduudu ipa sabamoido, mai apana da wakoasapia rua, dia. Sa baiwa rasa b
 Apana ema nata mai kadiwa da dewasapona, dia. Mo mai no godimba dubu kakaila bedewe nitu uwatauwa da pointope wadapona, dia. Do no godimba iwoa Atemis mo mai wakadisasapona. Tane e di otamole mape wilen.
 Sa baiwa naita Demetirius ita me nola sosowa do apana da wawumompa, mo apana sa kotu walamawa ituia rua kotu bedewe banlamopie antopuo ita kotu apanawa mo kadiu dodomanasapi.
 Tane e manlawo insaisa da winompa, sa ipa no apanamba eiau borubu bedewe gagalowantata.
-Rasa debama ande segalena baiwa wawu no mainimbo wisepia sawa dewa ema uduudu ena. Rasa rebareba ema ipasia. Sa baiwa no mai intamba da wineipona ita Rom gabemaniwa mampe gagalontata, dia.”
+Rasa debama ande segalena baiwa wawu no mainimbo wisepia sawa dewa ema uduudu ena. Rasa rebareba ema ipasia. Sa baiwa no mai intamba da wineipona ita Rom gabemaniwa mampe gagalontata, dia.” Me gagalo ema wane diasane apana uduudu waaubamono antoiena.
 Epesus bedewe rasa rebareba obasalene dialeno aupe Paul gagalo wanaubeno sumanailala sape waimoia me mampe wimono me wasaumone sumanaibu badosan. Me wasaumone diasane me auwamone emone Masedonia awa alen.
 Me Masedonia bedewainta gagalowa uara daitada mampe sumanailala wasaumodie aleidie Akaia tawowa bedewe wisen.
 Me sape nolaleidie wandio uaboa natadea dialeno aupe me waa asiasi Siriawo alepona baiwaleidie. Tane Iuswa insaisau dewasaia me bosapua umanawa etene waweinta leulepie Masedonia tawowa bedewainta alepia insedie.

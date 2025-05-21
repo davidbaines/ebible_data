@@ -926,6 +926,7 @@ Yapu pirninya ngaanya nyawa puru yapun murrutjunu wantinytjanya. Nyakulalpi kuli
 <range>
 Yuwa, Mama Kuurrtu-linya nyangama tjiinya-lin tirtu kuliratjaku. Mama Kuurrnga, nyuntuku tjamu Yayipuramalu puru ngayuku mama Nayiyulu pupakatirra marninypungkupayilu-linya nyangama.” Nyangka Tjayikapalu Mama Kuurrta mirangka watjarnu wantingu yapu pirninya wayirntara Layipanku pika-pika yankutjamaaltu wantikitjalu. Tjiinya Mama Kuurrnga tjiinya palunyaku mama Yayitjikilu pupakatirra marninypungkupayi, palunyala mirangka watjarnu wantingu.
 Palunyalu Tjayikapalu puluka pungkulalpi purlingkartu paaralpi kutjupatjarra nintirnu Mama Kuurrku. Palunyalu-tjananya wati yungarrapirti yarltingu kuka kutjupatjarranya-ya pitjala lurrtjurringkula ngalkutjaku. Nyangka-ya ngalangu wiyarringkulalpi purlingkartu ngarringu tjirnturringu.
+Nyangka Layipantu mungayurnturalpi pitjangu yurntalpa, tjamu kaparlitarrartu-tjananya nyunytjurnu wantirra marlaku yanu ngurra yungarrakutu.
 Nyangka Tjayikapanya pakara kutipitjangu. Pitjalayirnu nyangu yayintjulpa pirninya-ya ngata-ngata pitjalayinnyangka.
 Nyangka Tjayikapalu-tjananya nyakulalpi watjarnu, “Wiya, ngaanya-kulila Mama Kuurrku warrmarla pirniku ngurra. Tjiinya-rniya pitjangu kurtangkatarra patjurinkukitja.” Nyangka Tjayikapalu ngurra palunyanya yini tjapirnu Maanayiminya. Tjiinya Maanayiminya wangka ngaapirinypa, Warrmarlaku Ngurra Kutjarranya.
 Nyangka Tjayikapalu wati marnkurrpa witurnu tjakultjarra-ya palunyaku kurta Yiitjulakutu yankutjaku ngurra yini Yiitamala nyinarranyangka. Nyangka-ya mularrpartu mapitjalayirnu Yiitjula lurrtjurringkulalpi watjarnu, “Nyuntuku marlanypa Tjayikapalu ngaapirinypa watjarnu, ‘Yuwa Kurta, ngayulu-rna Tjayikapalu nyuntuku marlanytju watjara, tjiinyan nyuntulu ngayuku puurrpirinypa nyinarra. Nyangka-rnanta tjakultjura, tjiinya-rna Kamuru Layipanta rawa nyinarranytja. Tjiinya-rna kuwarrikutju pakara pitjangu. Palunyalu-rna pirnipurlka kanyira, puluka, tungki, tjiipu nanikuurrpa pirni, puru waarka palyalpayi pirninyatarrartu. Yuwa Kurta, watjara-rnanta tjiinya-rnin nintilu kulira pukurlarrirra kawarrtu nyakulatjaku.’ Palunyapirinypa nyuntuku marlanytju watjarnu.”
@@ -958,7 +959,6 @@ Nyangka Tjayikapalu tjapirnu, “Tjapilku-munta-rnanta? Yinin ngananya?” Nyang
 Nyangka Tjayikapalu watjarnu, “Yuwa-parta-rna Mama Kuurrnga yiiku nyakulalpi ngaa mirrimaalpartu ngarala.” Palunyalu ngurra palunyanya yini Paniyulnga tjapirnu. Tjiinya Paniyulnga wangka ngaapirinypa, Mama Kuurrku Yiiku.
 Nyangka tjirntu pakannyangka Tjayikapanya ngurra palunyanya wantirra kutipitjangu, tjiinya yangkarltjarra lurrparayintja.
 Nyangka kuwarritarrartu-ya Yitjurayilku tjamupirtilu paarlpa yangkarltatjanya ngalkunytjamaaltu wantipayi, tjiinyamarntu-lu Tjayikapanya yangkarlpa pungu palunyanguru.
-
 Nyangka Tjayikapalu nyangu palunyaku kurta Yiitjunya waalkarrara pitjanyangka wati 400-tjarra. Palunyalu watjarnu tjilku pirninya-ya ngunytjuwana-ngunytjuwana mapitjalayiltjaku.
 Palunyalu watjarnu minyma waarka palyalpayinya-pula tjilkutjarra kurranyu mapitjatjaku. Palunyalu watjarnu Liyanya tjilkutjarra ngururrpa mapitjatjaku. Palunyalu watjarnu Rayirrtjulnga-pula Tjawutjanya marla mapitjatjaku.
 Nyangka Tjayikapanya kurranyurringkula mapitjangu palunyaku kurtangka ngamurringkulalpi 7-nguru mantangka pupakatingu.
@@ -1709,10 +1709,6 @@ Nyangka-ya puurrpa Piiruku maparntjarra pirnilu palunyapirinypartu palyaranytja.
 Nyangka puurrpa Piirunya wantirra marlaku mapitjangu palunyaku ngurrakutu.
 Nyangka-ya Yiitjipunyamartatji pirnilu kapi yirralangka kantilytja tjawaranytja kapi tjurnu tjikilkitjalu. Tjiinya-ya kapi yirralangkatja purtu tjikiranytja.
 Nyangka ngurra 7-tjanu kapi palunyanya marlaku walykumunurringu.
-
-
-
-
 Nyangka Mama Kuurrtu Mawutjala watjarnu, “Mapitja puurrpa Piirulakutu. Palunyalu watjala ngayulu-rna Mama Kuurrtu ngaapirinypa watjarnu, ‘Ngayuku katja yurntalpirti-tjananya witula. Nyangka-rniyayi mapitja marninypuwa.
 Nyangka-tjingurun tirtu tungun-tungunpa nyinarranyangka ngayulu-tjanamparnanku ngarnngi pirni pakaltjingalku. Nyangka-ya nyuntuku ngurra lipiwana parrawuurlmarayinma.
 Tjiinya-ya ngarnngi pirninya kapi yirrala Nayilta pirnirringkulalpi pakara mapitjaku nyuntuku yiwarlangka tjarrpaku, puru nyuntuku ngurra ngarripayingka puru piirrpangkatarrartu. Puru-ya nyuntuku yamatji pirniku yiwarlangkatarrartu tjarrpaku, yarnangu pirnikurtu-tjanampa ngurrangka puru tiirrtji pirningka puru mirrka paalpayingkatarrartu-ya tjarrparralpi parrawuurlmarayinma.
@@ -1741,6 +1737,10 @@ Nyangka puurrpa Piirulu Mawutjanya-pulanya Yarannga yarltirralpi watjarnu, “Yu
 Nyangka Mawutjalu watjarnu, “Wiya, ngamurtu-latju kuka pungkulalpi paalkitjamunu. Tjiinya-tjinguru-lanyatjuya Yiitjipunyamartatjilu nyaku miirlarraralpi-lanyatju yatulku mirrirntanku.
 Palunyakutarra-latju yanku ngurra kutjarratjanulu kuka pungkulalpi paalku nintilku, Mama Kuurrtu watjarnu wantinyangka.”
 Nyangka puurrpa Piirulu watjarnu, “Yuwa, palya-yan mayu-mayu yanku palunyalu kuka pungkulalpi paalku Mama Kuurrku nintilku. Palunyalu tiwa-kurlu-yan yanku. Ngamuwana-ya parrangarama. Puru ngayukutarrartu-tjuya tjapinma.”
+Nyangka Mawutjalu watjarnu, “Yuwa, mapitjalalpi-rna Mama Kuurrta tjapilku. Nyangka tjirntungka purnpurnpa pirninya-ya wiyarringkula yanku. Nyangka-yan nyuntulu, nyuntuku yamatji pirninya, puru nyuntuku yarnangu ngulytju pirninyatarra purnpurnmaalpa nyinama. Nyangka puru-kurlu-lanyatjun yarlamayulku. Marrkuntjamaaltu-lanyatju wanti. Nyangka-latjuyi mapitja kuka pungkula paara Mama Kuurrku nintinma.”
+Nyangka Mawutjalu puurrpa Piirunya wantirra mapitjalalpi Mama Kuurrta tjapirnu.
+Nyangka Mama Kuurrtu Mawutjanya kuliralpi purnpurnpa pirninya pakaltjingarnu wiyarnu. Nyangkalta-ya pakara yanu wiyarringu. Nyangka-ya puurrpa Piirunya, palunyaku yamatji pirninya puru palunyaku yarnangu ngulytju pirninya purnpurnmaalpa nyinarranytja. Purnpurnpa kutjupa nyinanytjamaalpartu. Pirninyartu-ya wiyarringu.
+Parturtu puurrpa Piirunya marlaku witu-witurringu. Palunyalu marrkura-tjananya tirtu kanyiranytja.
 Nyangka Mama Kuurrtu Mawutjala watjarnu, “Mapitja puurrpa Piirula watjala tjiinya-rna Mama Kuurrtu Yiipuru pirniku Puurrtu ngaapirinypa watjarnu, ‘Ngayuku katja yurntalpirti-tjananya witula. Nyangka-rniyayi mapitja marninypuwa.
 Wiyangka-rnanku pika purlkanya yartakanku nyuntuku yanamulpa pirniku tjiinya purniku, tungkiku, kamurlku, pulukaku, tjiipuku puru nanikuurrkutarrartu. Nyangka-ya mirrirriku wiyarriku.
 <range>
@@ -4228,6 +4228,21 @@ Nyangka-ya wati marnkurrngartu, kurri, tjilkutarrartu, puru Kuuraku wanalpayi pi
 Tjiinya-ya yulytja pirnitjarra wanka karralukatingu wiyarringu mirri pirniku ngurrakutu. Nyangka manta marlaku tjuturringkulalpi-tjananya yangatjunu. Nyangkalta-ya wiyarringu.
 Nyangka-ya Yitjurayilku tjamupirti ngamu ngaralanytja. Palunyalu-ya mirra-tjananya kulira ngurlu kukurraarnu. Palunyalu-ya watjarnu, “Wiya, ngayunyatarrartu-lanyanta yarlarringkulalpi kuurltjunku.”
 Nyangkalta Mama Kuurrtu waru tjaarrtjingarnu. Nyangka kampangu-tjananya wiyarnu wati 250-nya, nyarra parnti walykumunu-ya tiinti miirl-miirlkutu katingu kanyiranytjanya.
+
+
+
+
+
+Nyangka tjirntungka yarnangu pirnilu-ya pitjangu Mawutjanya-pulanya Yarannga mirrparn-mirrparntu watjarnu, “Wiya, nyuntulu-pulan mirrirntanu Mama Kuurrku katjapirti kutjupatjarra.”
+Palunyanguru-ya parralarringu nyangu yutuwari tiinti miirl-miirlta ngaralanyangka. Nyangka Mama Kuurrku tili purlkanya yartakarringu.
+Nyangka Mawutjanya-pula Yarannga mapitjangu tiinti miirl-miirlta kalkurni ngaralanytja.
+Nyangka Mama Kuurrtu Mawutjanya-pulanya watjarnu,
+“Wati-langarriwa-pula. Nyangka-tjananyarnayi yarnangu pala pirninyartu wiyala.” Nyangka-pula mantangka pupakatingu.
+Nyangka Mawutjalu Yarannga watjarnu, “Tjapulpanku mantjiralpi murrnyultu waru yurrala. Palunyalu parnti walykumunu pulparru murrnyultungka katu pata-patala. Palunyalu waarrpungkula kati nyarra yarnangu pirninya-ya ngarala, palunyalakutu. Palunyalu nintila Mama Kuurrku. Nyangka-tjanampayi kalyparriwa. Tjiinya Mama Kuurrnga kuwarri mirrparnpa purlkanya nyinarra. Nyangka-ya wiyangkalpi pikatjarrarringkula mirrirringkula-wanarayintja.”
+Nyangka Yarantu mularrpartu tjapulpanku mantjira kukurraarnu yarnangu pirningka ngururrkutjarra ngarangu. Palunyalu nyangu wiyangkalpi-ya mirrirringkulanytja. Nyangka parnti walykumunu pulparru murrnyultungka pata-patarnu. Palunyalu Mama Kuurrku nintiralpi tjapirnu-tjanampa kalyparritjaku.
+Nyangka palunyangururtu kutjupa mirrirringkutjamunurtu. Tjiinya Yarannga ngururrkutjarra ngaralanytja. Nyangka kutjupanguru-ya mirri pirninya ngarrirranytja. Nyangka kutjupanguru-ya wanka pirninya ngaralanytja.
+Tjiinya-ya yarnangu minga-minga mirrirringu wiyarringu, 14,700-pa. Nyangka-ya kutjupatjarra mirrirringu Kuuralawana.
+Nyangkalta Yarannga marlaku yanu Mawutjala lurrtjurringu ngaralanytja tiinti miirl-miirlta.
 Nyangka Mama Kuurrtu Mawutjanya watjarnu,
 “Yuwa, Yitjurayilku tjamupirti-tjananya watjala tjiinya-yanku wana 12-pa mantjira katitjaku. Tjiinya Yitjurayiltu katja 12-pa kanyirnu. Nyangka katja 12-ku wartangkatja-ya liita kutju-kutjulu-yanku wana kati nintila. Nyangka wana kutju-kutjungka watiku yini walkatjurra.
 Palunyalun Yaranku yini walkatjunku Liipayiku tjamupirtiku wanangka.
@@ -4241,21 +4256,6 @@ Nyangka Mama Kuurrtu Mawutjanya watjarnu, “Yaranku wana marlakulu tjarrpatjurr
 Nyangka Mawutjalu mularrpartu katingu tjarrpatjunu wantingu.
 Nyangka-ya Yitjurayilku tjamupirtilu Mawutjanya watjarnu, “Wiya, wartalpitjanu-latju kurrakuturringu.
 Tjinguru kutjupa Mama Kuurrku tiinti miirl-miirlta ngamurringkulalpi mirrirriku. Nyangka-tjinguru-latju puru pirninyartu mirrirriku.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7771,6 +7771,7 @@ Nyangka Tjuultu kuliralpi kurlarta warningu Tjanatjannga nguwanpa wakarnu. Nyang
 
 
 Nyangka mularrpartu Tjanatjannga pakara yanu Tayipirrta tjakultjunu. Nyangka-pulanku ngaparrkulu yampura yularrayirnu wantingu.
+
 Nyangka Tjanatjantu watjarnu, “Yuwa, Mama Kuurrtunta miranykanyira kanyinma. Tjiinya-linku ngaangkalpi kalkurnu yungarrapirti miranykanyira kanyilkitjalu. Nyangka Mama Kuurrtu-linya nyakula tjiinya-lin mayuratjakutarra.” Nyangkalta Tayipirrnga yanu. Nyangka Tjanatjannga marlaku yanu yiwarlakutu.
 Nyangka Tayipirrnga Tjuulku ngurlu pitjalayirnu parrapitjangu yiwarla kutjupaku, tiinti miirl-miirlpa ngaralanyangka. Palunyalu mirrka ngatjirnu wati nyarra tiinti miirl-miirlta palyalpayingka. Nyangka-ra nyuma miirl-miirlpa nintirnu mirrka kutjupa kanyintjamunulu. Tjiinya nyuma palunyanya miirl-miirlpa ngaralanytja. Ngarna wati nyarra tiinti miirl-miirlta waarka palyalpayilu-ya ngalku. Nyangka Tayipirrku nintirnu mirrka kutjupa kanyintjamunulu.
 <range>
@@ -7861,7 +7862,6 @@ Tjiinya wati kutjupalu wati yanyan-yanyanpa nyinapayi tjulyaralpi wanka walatjun
 Nyangka-rna nintilu kulira tjiinyan mularrpa Yitjurayilku tjamupirtiku puurrarringkulalpi puurrpa tirtu nyinama.
 Nyangka-rni watjala wanti Mama Kuurrta mirangka tjiinyan ngayuku tjamu kaparlipirti mirrirntankutjamaaltu wantikitjalu.”
 Nyangka mularrpartu Tayipirrtu Mama Kuurrta mirangka watjarnu wantingu-tjananya mirrirntankutjamaaltu wantikitjalu. Nyangkalta Tjuulnga marlaku yanu ngurrakutu. Nyangka Tayipirrnga-ya marlaku yanu yungarrangkartu kumpiralpi nyinarranytja.
-
 Nyangkalta Tjamiyulnga mirrirringu. Nyangka-ya Yitjurayilku tjamupirti pirninyartu pitjangu kapurturringkulalpi-raya yularranytja. Palunyalulta-ya pulpangka tjarrpatjunu palunyaku ngurrangka yitingka.
 
 
@@ -8865,6 +8865,20 @@ Nyangka-ya yarnangu pirnilu tjuma palunyanya kuliralpi kata paarnarrarnu. Paluny
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nyangka Tjalamantu wati tjukurrtjarra-tjananya wiyarnu yankula-ya puurrpa nyarra ngurra kutjupangka nyinapayila watjaltjaku. Nyangka-ya mularrpartu kutipitjangu tjukurrpa ngaapirinypa watjarnu, “Yuwa, ngayuku mamalu kuliranytja tjurrtju purlkanya Mama Kuurrku palyalkitjalu. Nyangka Mama Kuurrtu marrkuralpi watjarnu, ‘Wiya, nyuntulun palyalkitjamunu. Nyuntuku katjalu-tju ngula palyalku.’ Nyangka-rna kuwarrinya kulira tjurrtju palunyanya palyalkitjalu. Nyangka-yayi yarnangu pirnilu tjarrparra Mama Kuurrnga pupakatirra marninypungama.
 <range>
 <range>
@@ -8883,20 +8897,6 @@ Nyangka puurrpa palunyalu-tjananya witurnu marlakulu-ya yankula ngaapirinypa wat
 
 
 Nyangka-ya mularrpartu waarka palyalpayilu warta pirni katingu ngarnmanymanu tjunu. Puru-ya yaputarrartu yurrarayirnu tjunu tjurrtju purlkanya palyalkitjalu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Nyangka puurrpa Tjalamantu-tjananya waarka palyalpayi pirninya watjarnu tjurrtju purlkanya-ya palyaratjaku. Nyangka-ya mularrpartu wati mingapirinytju kutjurntara palyarayirnu wiyarnu.
 <range>
 <range>
@@ -12362,12 +12362,6 @@ Nyangka ngayulu-tjananyarna wati pirninya watjarnu, “Yuwa, yaarrpa palyalkitja
 <range>
 <range>
 <range>
-
-
-
-
-
-
 Nyangka wati nyarra Tjanpalarrtu kulirnu tjiinya-latju yaarrpa purlkanya palyaranyangka. Palunyatjanu lirri warurringkulalpi-lanyatju Tjiyu pirninya panypuratjarralu tjumara watjaranytja.
 Palunyaku yamatji pirningka watjarnu, “Wiya, nyaapanyka-ya Tjiyu pirnilu palyalku? Tjinguru-ya kulira yaarrpa nyarranya waarrpungkula palyara wiyalkitjalu. Wiya, yapu pirninya-ya wartalpitjanu murtuny-murtunyarringu pirniwanartu ngarrirra. Kamu-ya waarrpungku palyalku wiyalku.”
 Nyangka wati kutjupalu tjalkirr-tjalkirrtu watjarnu, “Wiya, yaarrpa yuruly-yurulypa-ya palyara. Wiya-kulila tuukalu tatiralpi punkatjingalku.”
@@ -12384,6 +12378,12 @@ Nyangka-rna kuliralpi watjarnu wati pirninya kurlartatjarra puru kunmarnu purlka
 Palunyalu-rna parranyakulayirnu yarnangu pirninya watjarnu, “Wiya, palunyaku-tjanampala ngurlurringkutjamaaltu Mama Kuurrnga kulinma. Tjiinya Mama Kuurrnga-lampa purlkanya nyinarra. Nyangka-la ngurlumaaltu pika puwa.”
 Nyangka yanyan-yanyanpa nyinapayilu-ya pina taparlarrarnu kulirnu tjiinya-latju wartalpitjanu kulintjatjanu ninti nyinarranytja. Tjiinya Mama Kuurrtu-tjananya marrkuralpi ngayunya-lanyatju yangatjura kanyiranytja.
 Nyangka-latju ngaapirinypa palyaranytja. Tjiinya kutjupatjarralu-ya yaarrpa palyaranytja. Nyangka kutjupatjarralu-ya kurlartatjarralu kunmarnu purlkatjarralu ngarala miranykanyira kanyilpayi.
+
+
+
+
+
+
 
 
 
@@ -14640,6 +14640,7 @@ Yuwa, nyuntulu-rnin ngarltunytjulu tirtu kanyinma. Nyangka-rna nyuntuku ngurrang
 
 
 
+
 Mama Kuurrtu-lanya yangatjura kanyilpayi. Nyangka-lan kurrurnpa rapa nyinarra. Tjiinya-lanya tirtu yirringkara kanyilpayi kutjupa-kutjupa ngaralanyangka.
 Palunyangka-lan ngurlumaalpa nyinama. Nyangka mantatarrartu yurrirranyangka purli wararra kartakatirra yuru purlkanyangka punka-punkara tjarrparranyangka-lan ngurlumaalpa nyinama.
 Tjinguru kapi warnanpa purlkanya wirtatjarra rurrku kukurrmanku. Wiya, ngurlumaalpa-lan nyinama. Tjiinya yapu wararratarrartu tiltirr-tiltirrmaranyangka, ngurlumaalpa-lan nyinama.
@@ -14651,6 +14652,7 @@ Pitjalalpi-yan nyaku kata paarnarralku Mama Kuurrtu manta lipiwanalu kutjupa-kut
 Tjiinya Mama Kuurrtu marrkulpayi yarnangu pirnilu-yanku warrmarlara manta lipiwanalu pika pungkulanyangka. Palunyalu kurlarta, kupulu pirninya kartarntankupayi, puru tjara pirninya tilira tjarrpatjunkupayi.
 Mama Kuurrtu watjarnu, “Wiya, tjurlpilyarrinytjamaalpa-ya kurrurnpa yipilyarri. Palunyalu-rniya ngayunya ruukulila tjiinya-tjanamparnanku puurrpa purlkanya nyinarranyangka. Nyangka yarnangu ngurra kutjupa-kutjupangkatjalu-rniya manta lipingkatjalurtu marninypungama.”
 Yuwa, Mama Kuurrtu Yayirninytjulu Palyalpayilu-lanya miranykanyira kanyira. Mama Kuurrnga, tjiinya Tjayikapalu pupakatirra marninypungkupayi, palunyalu-lanya yangatjura kanyilpayi.
+
 
 
 
@@ -14884,7 +14886,6 @@ Palunyalu-latju palyamunu palyaralpi kurntarringkula nyinanytjatjanulu puluka pu
 
 
 
-
 Yuwa Mama, nyuntunya-rnanta pupakatirra marninypungkupayi. Palunyalu-rnanku kurrurnpatarra mukurringkula. Tjiinyakurlu-ya ngurra yayilurrungka pitjalayila purtu mukurringkula pinalukutju kulinma, “Kapipalka ngarrima. Nyangka-rna waarrpungkulalpi tjikila.” Palunyapirinypa.
 Yuwa, mukurringkula-rnanta nyuntunya nyakukitjalu. Puru-rna mukurringkula nyuntuku tili purlkanya nyakukitjalu tjurrtjungka yirrnyaranyangka.
 Walykumunu tjiinya wanka-rna nyinarratjaku. Nyangka palunyangka munkarra ngarala tjiinya-rnin mukulyanytjulu kanyiratjaku. Palunyalangurulta-rnanta marninypungama.
@@ -14896,7 +14897,6 @@ Lurrtju-rnanta tirtu nyinama. Nyangka-rnin waku purlkanyalu patjurira kanyinma.
 Yarnangu nyarra nyinarra-rniya yurakanyira pungkula tjunkukitjalu,
 palunyanya-tjananya warrmarlalu pungku tjunku. Nyangka ngupanulu pitjaku ngalku wiyalku.
 Yuwa Mama, ngayulu-rnanta puurrpa purlkalu pukurltu marninypungama, tjiinya-rnin yirringkaranyangka. Nyangkanta-ya yarnangu nyarra nyuntunya mularrkuliranytjalu marninypungama. Nyangka-ya mayulpayi pirninya kanmarrarriku nyinama.
-
 
 
 
@@ -17897,7 +17897,6 @@ Palunyangka-rni watjarnu, “Yuwa, purtun watjarayilku-watjarayilku, nyangka-ya 
 
 
 
-
 Kutjulpirtu-ya yarnangu pirnilu kuliranytja ngurra nyarra Kalalinya palyamunu ngaralanytja. Tjiinya-ya Tjipulanku tjamu kaparlipirti puru Natjaliku tjamu kaparlipirti ngurra palunyangkartu nyinarranytja. Nyangka-ya pirnilu kulilpayi ngurra palyamunu. Palunyangka-ya ngula marlangkatja-marlangkatjalu marninypungkula watjanma, “Ngurra walykumunu.” Ngurra palunyanya lipi purlkanya ngarala kapi kantilywana pururtu kapi yini Tjuutantawana. Ngurra palunyangka-ya malikitarrartu nyinapayi.
 Nyangka-ya ngaapirinypa watjalku, “Yarnangu-ya mungalurrta nyinarranytjalu nyangu tili purlkanya yirrnyaranyangka. Munga purlkanyangka-ya purtu kuliranytja. Nyangka-tjananya tili purlkalu yartakanu kanyira.”
 Yuwa Mama Kuurr, nyuntulu-tjananyan miranykanyira kanyiranytja. Nyangka-ya yarnangu pirnirringu. Palunyangurunta-ya pukurltu marninypungkula. Tjiinyakurlu-ya mirrka purlkanya yurraralpi pukurlpa nyinama, palunyapirinypa.
@@ -17905,6 +17904,7 @@ Yuwa Mama Kuurr, nyuntulu-tjananyan miranykanyira kanyiranytja. Nyangka-ya yarna
 
 Tjiinya tjilku yirti-lampa ngarriku. Mama Kuurrtu-lampa katja nintilku puurrarringkula-lanyanta kanyiratjaku. Nyangka-ya katja palunyanya yini pirni tjapinma, “Yayirninytjulu watjalpayinya”, “Mama Kuurrnga yayirninytjulu palyalpayinya”, “Mamanya tirtu nyinapayinya”, “Puurrpa rapara kanyilpayinya”.
 Nyangka puurrpa palunyalu yarnangu pirninyartu puurrarringkula kanyinma. Nyangka-ya kurrurnpa rapa tirtu nyinama. Puurrpa palunyanya Tayipirrta yarangka nyinama, Tayipirrnga nyarra puurrpa kutjulpirtu nyinarranytja, palunyala yarangka. Puurrpa palunyalu tjukarurru nyinarranytjalu yarnangu pirninya walykumunulu kanyinma. Palunyalu puurrpa nyinarrayilku tirtu nyinaku nyinama. Tjiinya Mama Kuurrnga tjiinya Yayirninytjulu Palyalpayilu puurrpa palunyanya nyinatjunkulalpi tirtu nyakula kanyinma.
+
 
 
 
@@ -21904,9 +21904,6 @@ Nyangka-ya puurrpa kutjupa-kutjupa pirnilu kapurturringkulalpi ngarala-tjananya 
 Nyangka puurrpa purlkanyalu watjarnu, “Wiya, marninypungama-la Mama Kuurrnga tjiinya wati marnkurrtu-ya pupakatirra marninypungkupayinya. Tjiinya yayintjulpa wiyarnu pitjala-tjananya wankaltjaku. Tjiinya-ya ngayuku wangka wantirralpi Mama Kuurrnga mula-mularringkula tirtu kuliranytja. Palunyalu-ya purli palunyanya pupakatirra marninypungkukitjamunulu watjarnu, ‘Palya-lanyatju warungka tjarrpatjunku.’”
 Nyangka puurrpa purlkanyalu watjarnu, “Wiya, panypurangkula-ya watjantjamaaltu wanti Mama Kuurrnga tjiinya wati marnkurrtu-ya pupakatirra marninypungkupayinya. Kutjupalu panypurangkula watjaranyangka-rna watjalku warrmarlalu-ya kartara murtuny-murtunymara mirrirntankutjaku palunyalu palunyaku yiwarla yurntura punkatjingaltjaku. Tjiinyamarntu kutjupanya Mama Kuurrngapirinypa nyinarranytjamaalpa tjiinya waru purlkanyangka wankaltjaku.”
 Nyangkalta-tjananya puurrpa purlkanyalu wati marnkurrnga marlakulu tjunu puurrpa-ya nyinarratjaku.
-
-
-
 Nyangka puurrpa Napitjalu lata walkatjuralpi wiyarnu-tjanampa yarnangu kutjupa-kutjupaku nyarra manta lipiwana-ya nyinarranytjaku. Tjiinya ngaapirinypa walkatjunu wantingu: Yuwa, ngayulu-rna puurrpa Napitjalu-tjanamparnanku lata ngaanya walkatjura.
 Kulila-ya tjukurrpa ngaanya-rna watjaranyangka. Tjiinya Mama Kuurrtu tjiinya puurrpa purlkanya nyinapayilu-tju yayirninytjulu kutjupa-kutjupa palyaranytja.
 Yuwa, Mama Kuurrtu yayirninytjulu kutjupa-kutjupa palyalpayi. Nyangka-rna kata paarnarrara kulilpayi. Tjiinya Mama Kuurrnga puurrpa purlkanya tirtu nyinaku nyinama.
@@ -21941,6 +21938,9 @@ Nyangka wangkarra wiyarringkulalpi puurrpa Napitjalu kulirnu yilkaringuru wangka
 Nyangkanta-ya yarnangu pirnilu ngurlura wanarayilku wantiku. Nyangkan yanku yanamulpa purtingkatja pirningka lurrtjurringkula pulukapirinytju nyinarra yukiri ngalkuma. Palunyapirinypan nyinarrayilku kurli 7-tjanulu nintirringkulalpi kulilku tjiinya Mama Kuurrnga ngurra lipikurtu puurrpa nyinarranyangka. Tjiinya kutjupa yungarra puurrarringkula nyinakitjamunu. Ngarna Mama Kuurrtu kuliralpi wati kutjupa-kutjupa tjunku puurrpa nyinarratjaku.”
 Nyangka wangkangu wiyarringkunyangka palunyapirinypa ngarangu. Tjiinya-ya puurrpa Napitjanya payirnu wiyarnu. Palunyangka yanu yanamulpa ngupanupirinypa nyinarranytja. Palunyatjanu yukiri ngalkulanytja pulukapirinytju. Ngurratarrartu yurirlta ngarrirranytja. Nyangka-lu kulyarrtjuranytja. Nyangka-lu mangka purlkarringkulalpi wirrmira purlkanya ngaralanytja. Puru miltji kurlunytjanu wirrmirarringkula yanu tjurlpu miltjipirinypa ngaralanytja.
 Nyangka puurrpa Napitjalu watjarnu: Yuwa, kurli 7-tjanulu-rna yilkarikutu yirranyangu. Nyangka-rni kata tjukarurrurringu. Palunyangka-rna marninypungu Mama Kuurrnga tjiinya tirtu nyinarranytjanya. Mama Kuurrnga puurrpa purlkanya tirtu nyinaku nyinama.
+Palunyalu nyakula yarnangu pirni manta lipingkatjanya-ya purlkamunu nyinarranyangka. Tjiinya palunyanya puurrpa nyinarra yarnangu parnangkatja pirniku puru yayintjulpa pirni nyarra yilkaringka nyinapayikutarrartu. Puru Mama Kuurrtu palyaranyangka kutjupalu purtu marrkulku wantiku. Nyangka kutjupalu tjapilkitjamunu, “Nyaatjanungkan palunyapirinypa palyara?”
+Yuwa, kata-rni tjukarurrurringu. Nyangka-rna marlaku puurrpa nyinarra. Nyangka-ya puurrpa pirninya pukurlarringu marlaku-rna pitjangu nyinarranyangka. Tjiinya-rniya pirnilurtu pururtu marninypungkulanytja.
+Nyangka-rna Mama Kuurrnga puurrpa yilkaringkatjanya marninypungkula. Tjiinyamarntu palunyalu mayuntjamaaltu tjurrkurltu palyalpayi. Palunyalu marniny-marninypa pirninya-tjananya punkatjingalpayi.”
 Nyangka wati yini Palytjitjanya puurrarringu nyinarranytja palunyaku mama Napitjanya wiyarrinyangka. Palunyalu yarltingu-tjananya palunyaku yamatji pirninya pitjala-ya mirrka purlkanya ngalkulatjaku. Nyangka-ya mularrpartu pitjangu lurrtjulu mirrka ngalkula wayinpatarrartu tjikiranytja.
 Nyangka puurrpa Palytjitjalu tjikirayirnu kakirirringkulalpi palunyaku waarka palyalpayi pirni yarltirralpi watjarnu, “Yarra-ya panikinpa walykumunu pirninya mantjira kati, nyarra ngayuku mamalu Tjurutjamala tjurrtju purlkanyangkatja mantjira katingu, palunyanya. Nyangka-latjuyi palunyangka tjikila, ngayuku yamatji pirnilu kurrilutarrartu-latju.”
 Nyangka mularrpartu-ya yanu panikinpa palunyanya mantjirayirnu katinytja. Nyangkalta-ya panikinpa palunyangka wayinpa tjikiranytja.
@@ -21971,6 +21971,7 @@ Nyangka wangka wayimankutjalu nintitjura tjiinya Mama Kuurrtunta wayimanu nyangu
 Nyangka wangka tjarrantjalu nintitjura tjiinya Mama Kuurrtunku ngurra pirni-tjananya tjarrarnu. Tjiinya ngurra kutjupatjarra tjarraralpi nintirnu wati kayilingkatjaku-tjanampa. Palunyalu ngurra kutjupatjarranya nintirnu wati kakarrarangkatja pirniku.”
 Nyangka puurrpa purlkanyalu kuliralpi watjarnu palunyaku waarka palyalpayilu-ya kawutu walykumunu puru lirringkatja walykumunu katirra Tannyulta parratjunkutjaku. Nyangka-ya mularrpartu katingu parratjunu. Nyangka puurrpa purlkanyalu watjarnu Tannyulnga puurrpa nampa marnkurrpa nyinarratjaku.
 Nyangka munga palunyangkartu-ya kutjupalu pitjangu puurrpa palunyanya pungu mirrirntanu.
+Nyangka puurrpa kutjupa kayilinguru pitjangu ngurra Papulanku puurrarringu nyinarranytja.
 Nyangka puurrpa purlkalu yini Turayilu wati marnkurrpa ngurrkarntanu tjunu puurrpa kutjupatjarra pirninya miranykanyira kanyiratjaku. Wati ngaanya-tjananya ngurrkarntanu Tannyulnga puru wati kutjupa kutjarra.
 <range>
 Nyangka Tannyultu waarka walyku-walykumunu palyaranytja kutjupangka munkarra. Nyangka puurrpa purlkanyalu nyakulalpi nyinatjunu ngurra pirnikurtu puurrpa nyinarratjaku.
@@ -22597,7 +22598,6 @@ Nyangka Tannyulnga puurrpa tirtu nyinarranytja nyarra Turayinya puurrpa purlkany
 
 
 
-
 Nyangka wati yini Tjawunanya, tjiinya Yamitayiku katja ngurra kutjupangka nyinarranytja. Nyangka-lu Mama Kuurrtu watjarnu, “Yuwa, pakara yarra yiwarla purlkanyakutu, ngurra nyarra Ninapalakutu. Palunyalu-tjananya ngurlutjurra. Tjiinya-tjananyarna nyakula palyamunurringkulanyangka-ya.”
 <range>
 Nyangka Tjawunalu Mama Kuurrnga kulirnu wantirra yarla kutjupawana kutipitjangu. Pitjalayirnu parrapitjangu yiwarla yini Tjapaku tjiinya kapi kantilytja ngaralanyangka. Palunyalu nyangu pawurrpa ngaralanytja ngurra yini Payintakutu yankukitja. Palunyalu payipungkulalpi tatirnu-tjananya pawurrpa katipayi pirningka. Nyangkalta-ya kutipitjangu. Tjiinya Tjawunalu kuliranytja Mama Kuurrnga wantirra kumpira kutipitjakitjalu.
@@ -22614,6 +22614,7 @@ Nyangka-ya kulirnu wantirralpi warta kapingkatja puru yurritjingaranytja pawurrp
 Nyangka-ya Mama Kuurrnga tjapirnu, “Wiya Puurr, kulilku-munta-lanyatjun? Wati ngaanya-latju kapingka warniku tjarrpatjunkunyangka mirrirriku. Nyangka-lanyatju ngaparrtjika mirrirntankutjamaaltu wanti. Tjiinya nyuntulun palurukurrurntu pirriya purlkanya pakaltjingarnu.”
 Nyangkalta-ya Tjawunanya tjitirnu kapingka warningu tjarrpatjunu. Nyangkalta kapi yurrimaralarringu ngarrirranytja.
 Nyangka-ya pawurrpa katipayi pirnilu nyakulalpi ngurlurringu Mama Kuurrku. Palunyalu-ya mantakuturringkulalpi kuka pungkulalpi tilirnu tjunu Mama Kuurrku nintirnu. Puru-ya kalkurnu kutjupa-kutjupa Mama Kuurrku palyalkitjalu.
+Nyangka Tjawunalu kapi kaninytjarranguru purtu kuliranytja kapi ngukura mirrirritjakutarra. Nyangka Mama Kuurrtu kuka kapingkatja purlkanya witurnu. Nyangka pitjangu Tjawunanya kuurltjunu. Nyangka tjuni kaninytjarra ngarringu tjirntu marnkurrpa puru munga marnkurrpa.
 Nyangka Tjawunalu kuka kapingkatjaku tjuninguru Mama Kuurrnga ngaapirinypa marninypungkula-lu watjaranytja,
 “Yuwa Puurr, kapingka mirrirrikitjalu-rnanta tjapirnu, nyangka-rnin kuliralpi yirringkanu. Mirrirrikitjalu-rnanta mirrangu watjarnu, ‘Wankala-rni!’ Nyangka-rnin kuliralpi wankarnu.
 Tjiinya-rnin warningu kapi kaninytjarra tjarrpatjunu, nyangka-rni kapi purlkanyalu tjuturnu kanyiranytja. Nyangkan kapi purlkanya yurritjingaranyangka tirtu-rni rulyupungkula kanyiranytja.
@@ -22624,7 +22625,6 @@ Yuwa Puurr, nguwanpa mirrirringkulalpi-rnanta tjapirnu nyangka-rnin yilkaringuru
 Nyangka kutjupatjarralu-ya yapu wartatarrartu kunpu-kunpu pupakatirra marninypungkula. Tjiinya-ya nyuntuku mula-mularringkutjamaalarringu.
 Nyangka-rnanta ngayulu yinkaku marninypungku. Kuka-rna pungku tililku tjunkulalpi nyuntuku nintilku. Puru-rna kalkurnu wantitjalu palyalku. Yuwa Mama Kuurr, nyuntulu kutjulun wankalpayi.” Palunyapirinypa Tjawunalu marninypungkula watjaranytja.
 Nyangka Mama Kuurrtu kuka kapingkatja watjarnu Tjawunanya mantangka yulkapatjunkutjaku. Nyangka mularrpartu mapitjangu mantangka-lu yulkapatjunu.
-
 Nyangka Mama Kuurrtu Tjawunanya pururtu watjarnu,
 “Pakara yarra yiwarla purlkanyakutu, ngurra nyarra Ninapalakutu. Mapitja-tjananya watjala ngayulu watjarnu wantitjanyartu.”
 Nyangka mularrpartu Tjawunalu Mama Kuurrnga kulirnu pakara kutipitjangu Ninapalakutu. Tjiinya yiwarla palunyanya purlkanya mularrpa ngaralanytja. Tjiinya tjarrparralpi tjina pitjalayilku-pitjalayilku ngurra marnkurrtjanu kutjupa kantilykutu parrapitjaku.
@@ -22701,11 +22701,11 @@ Tjiinya-rna ngayulu kulira ngarlturringkula yarnangu pirniku, yiwarla ngaa Ninap
 
 
 
-
 Nyangka Mama Kuurrtu watjarnu, “Yuwa, ngurra purlkanya pirni-ya Tjuutalawana ngarala. Nyangka Pitjiliyamanya ngurra kurlunypa ngarala. Parturtu-rna ngurra palunyangkatja wati ngurrkarntanku tjunku Yitjurayilku tjamupirtiku puurrpa nyinarratjaku. Tjiinyamarntu-ya palunyaku tjamupirti kutjulpirtu ngurra palunyangka nyinarranytja.”
 
 Nyangka puurrpa palunyalu yarnangu pirninya walykumunura kanyinma. Tjiinyakurlu tjiipu pirninya miranykanyira kanyinma, palunyapirinypa. Palunyalu-tjananya walykumunulu miranykanyira kanyinma tjiinyamarntu Mama Kuurrtu yirringkaranyangka. Nyangka-ya ngurlumaalpa nyinama. Nyangka-yayi yarnangu ngurra kutjupa-kutjupangkatjalu nintilu kulinma puurrpa purlkanya nyinarranyangka, Mama Kuurrngapirinypa.
 Nyangka-tjananya puurrpa palunyalu miranykanyinma. Nyangka-ya yarnangu kutjupa-kutjupa pikaku pitjakitjamunu. Nyangka-ya ngurlumaalpa walykumunu nyinama.
+
 
 
 
@@ -23205,12 +23205,12 @@ Tjiinya-lan nyakula yarnangu karnany-karnanypa pirninya-ya pukurlpa nyinarranyan
 Nyangka-ya yarnangu nyarra Mama Kuurrnga kuliltjarra nyinarranytjalu-yanku ngaparrkulu yipilymara watjaranytja. Nyangka-tjananya Mamalu kuliralpi watjarnu kutjupalu-tjananya yini walkatjura wantitjaku. Nyangka mularrpartu walkatjunu wantingu. Nyangka Mama Kuurrtu walka palunyanya tirtu kanyira.
 Palunyalu watjarnu, “Yuwa, ngayulu-tjananyarna kanyinma. Ngula-rna yarnangu pirninya nyakula tjarranma. Palunyalu-tjananyarna nyarra walkatjunu wantitjanya ngarlturringkula kanyinma. Tjiinyakurlu mamalunku katja nyarra palunyaku wangka wangarnarralu kulira palyalpayinya ngarlturringkula kanyinma, palunyapirinypa.
 Palunyangka-yan nyaku tjiinya-rna walykumunu palyalpayinya puru palyamunu palyalpayinya tjarrannyangka. Nyangka walykumunu-tjanampa ngaraku nyarra-ya ngayuku wangka wangarnarralu kulira palyalpayiku. Nyangka-tjanampa palyamunu ngaraku ngayula tungunpungkupayi pirniku.”
-
-
-
-
-
-
+Puru Mama Kuurrtu watjarnu, “Kulila-ya. Waru purlkanya-rna wiyalku nyangka-tjananya kampaku yarnangu nyarra karnany-karnanypa nyinarranytjanya puru palyamunu palyaranytjanya. Tjiinya-tjananya warulu tjanpipirinypa kampaku wiyalku. Kutjupanya wankarrikitjamunu. Pirninyartu-ya mirrirriku wiyarriku. Yuwa, ngayulu-rna Mama Kuurrtu yayirninytjulu palyalpayilu watjarnu wantingu.
+Nyangka-rniyan ngayuku wangka wangarnarralu kulira palyalpayilu nyaku tjirntupirinypa-rna pakannyangka. Tjiinyakurlu tjirntu pakaralpi yuun-yuunmara kanyinma. Palunyapirinypa-tjananyarnanta yuun-yuunmara kanyinma. Tjiinya-tjananyarnanta pika wiirrura kanyinma. Nyangka-yan pukurlpa mularrpa nyinama. Tjiinyakurlu-ya puluka kurlunypa ngarlpurringkula ngarama, palunyapirinypa.
+Tjirntu palunyangka-yan yarnangu palyamunu palyalpayi pirninya kantulkupirinypa. Nyangka-ya mantapirinypa nyuntuku tjinawana ngarrima.
+Yuwa, Mawutjaku wangka-ya wangarnarralu kulira palyanma. Wangka palunyanya-rna kutjulpirtu Mawutjanya watjarnu yapu yini Tjayinayila tatirnu nyinarranyangka. Ngayulu-rna wangka palunyanya nintirnu. Tjiinya-yayin marlangkatja-marlangkatjalu pakara wangarnarralu kulira palyanma.
+Yuwa, ngayulu-rna witulku wati yini Layirrtjanya tjiinya ngayuku wangka kulira tjakultjunkupayinya ngarnmanyarrirra tjukurrpa-tjananyanta watjaltjaku. Palunyalu-rna marla pitjaku yarnangu pirninya tjarralkitja. Nyangka-ya pirninyartu ngurlurriku. Yuwa, Layirrtjanya ngarnmanypa pitjaku.
+Palunyalu-tjananya mama ngunytju watjalku tjilku-yanku mukulyanytjulu kanyiratjaku. Puru tjilku-tjananya watjalku mama ngunytju-yanku mukulyanytjulu kuliratjaku, tjiinya-rna pitjaku ngurra ngaanya wiyaltjakutarra.” Palunyapirinypa Mama Kuurrtu watjarnu. Yuwa, palunya.
 Tjukurrpa ngaanya Tjiitja-Kurayitjanyatjarra. Tjiinya Yayipuramaku tjamupirtilu-ya katjapirti yutira-wanarayirnu, nyangkalta Tayipirrnga ngarringu. Nyangka Tayipirrku wartangkatjalu-ya katjapirti yutira-wanarayirnu, nyangkalta Tjiitja-Kurayitjanya ngarringu.
 Tjiinya Yayipuramalu yutirnu katja yini Yayitjikinya. Nyangka Yayitjikilu yutirnu katja yini Tjayikapanya. Nyangka Tjayikapalu yutirnu katja yini Tjuutanya, katja kutjupatjarranyatarrartu.
 Nyangka Tjuutalu yutirnu katja kutjarra yini Pirinynga-pula Tjirranya. Tjiinya-pulampa ngunytju yini Tayimanya. Nyangka Pirinytju yutirnu katja yini Yitjurannga. Nyangka Yitjurantu yutirnu katja yini Raamanya.
@@ -27691,7 +27691,7 @@ Tjiinya pirninyartu-ya ninti. Nyangka kutjupa ngurrparrikitjamunu. Nyangka-rniya
 Kulila. Wati ngaa kutjarranya-yan kunpu-kunpu katingu ngaratjunu wantingu. Tjiinya-pula yayirnirringkula watjaranytjamunu kungka-lan pupakatirra marninypungkupayinya. Puru-pula kungka palunyaku tjurrtjunguru mulyatarrirranytjamunu.
 Nyangka-tjinguru Tamitirrilu puru palunyaku waarka palyalpayilutarrartu-ya mukurringkula payilkitjalu. Palunyalu-tjinguru-ya kuurrku yarltirra katima. Nyangka-ya puurrpa pirningka mirangka wangkama.
 Nyangka-tjinguru-yan puru warnirripungkulanytjalu puurrpa yiwarlangkatjanya-lanyatjun tjakultjunama. Nyangka-latju yarnangu pirninya yarltima mirtingi-ya wangkatjaku.
-Tjiinya puurrpa purlkanyalu Ruumanyamartatjilu kulilku tjiinya kuwarrinya-lan pika-pikarringkulanyangka. Palunyalu-lanya payilku. Nyangka-lan purtu kulilku. Tjiinyamarntu-lan kunpu-kunpu pika-pikarringkula mirrarranytja.”
+Tjiinya puurrpa purlkanyalu Ruumanyamartatjilu kulilku tjiinya kuwarrinya-lan pika-pikarringkulanyangka. Palunyalu-lanya payilku. Nyangka-lan purtu kulilku. Tjiinyamarntu-lan kunpu-kunpu pika-pikarringkula mirrarranytja.” Nyangkalta-tjananya witurnu ngurraku-ya yankutjaku.
 Nyangka Yipitjala nyinapayinya-ya pika-pika wangkarrayirnu wiyarringu. Nyangka Puultu wanalpayi pirninya yarltingu kapurtunu. Palunyalu tjukurrpa-tjananya watjara kurrurnpa yipilymarayirnu tjamalara wantirra yanu Matjuniyaku.
 Ngurra palunyalawanalu tjukurrpa-tjananya parrawatjara kurrurnpa yipilymaranytja. Palunyalu ngurra Yakayaku yanu.
 Palunyalu nyinarrayirnu kirnara marnkurrarringu. Palunyalu ngurra Tjiriyaku yankukitjalu tjakulpa kulirnu tjiinya Tjiyu pirnilu-yanyu mirritjuranyangka. Wantirralpi watjarnu Matjuniyalawana marlaku yankukitjalu.

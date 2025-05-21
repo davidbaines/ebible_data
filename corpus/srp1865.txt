@@ -926,6 +926,7 @@ I još reèe Lavan Jakovu: gledaj ovu gomilu i gledaj ovaj spomenik, koji podigo
 Svjedok je ova gomila i svjedok je ovaj spomenik: da ni ja neæu prijeæi preko ove gomile k tebi ni ti k meni da neæeš prijeæi preko ove gomile i spomenika ovoga na zlo.
 Bog Avramov i bogovi Nahorovi, bogovi oca njihova, neka sude meðu nama. A Jakov se zakle strahom oca svojega Isaka.
 I Jakov prinese žrtvu na gori, i sazva braæu svoju na veèeru; i jedoše pa noæiše na gori.
+A ujutru rano usta Lavan, i izljubi svoju unuèad i kæeri svoje, i blagoslovi ih, pa otide i vrati se u svoje mjesto.
 A Jakov otide svojim putem; i sretoše ga anðeli Božiji;
 A kad ih ugleda Jakov, reèe: ovo je oko Božji. I prozva ono mjesto Mahanaim.
 I Jakov posla pred sobom glasnike k Isavu bratu svojemu u zemlju Sir, krajinu Edomsku.
@@ -958,7 +959,6 @@ A Jakov zapita i reèe: kaži mi kako je tebi ime. A on reèe: što pitaš kako 
 I Jakov nadjede ime onomu mjestu Fanuil; jer, veli, Boga vidjeh licem k licu, i duša se moja izbavi.
 I sunce mu se rodi kad proðe Fanuil, i hramaše na stegno svoje.
 Zato sinovi Izrailjevi ne jedu krajeva od mišiæa na zglavku u stegnu do današnjega dana, što se Jakovu povrijediše krajevi od mišiæa na zglavku u stegnu.
-
 A Jakov podigav oèi svoje pogleda, a to Isav ide, i èetiri stotine ljudi s njim. I razdijeli djecu uz Liju i uz Rahilju i uz dvije robinje.
 I namjesti naprijed robinje i njihovu djecu, pa Liju i njezinu djecu za njima, a najposlije Rahilju i Josifa.
 A sam proðe naprijed, i pokloni se do zemlje sedam puta dokle doðe do brata svojega.
@@ -1709,10 +1709,6 @@ Ali i vraèari Misirski uèiniše tako svojim vraèanjem; i srce Faraonu otvrdnu
 I okrenuv se Faraon otide kuæi svojoj, i ne mari ni za to.
 A Misirci svi kopaše oko rijeke tražeæi vode da piju; jer ne mogahu piti vode iz rijeke.
 I navrši se sedam dana kako rijeku udari Gospod.
-
-
-
-
 I reèe Gospod Mojsiju: idi k Faraonu, i reci mu: ovako veli Gospod: pusti narod moj, da mi posluži.
 Ako li neæeš pustiti, evo æu moriti svu zemlju žabama.
 I rijeka æe se napuniti žaba, i one æe izaæi i skakati tebi po kuæi i po klijeti gdje spavaš i po postelji tvojoj i po kuæama sluga tvojih i naroda tvojega i po peæima tvojim i po naævama tvojim;
@@ -1741,6 +1737,10 @@ I Faraon dozva Mojsija i Arona, i reèe im: idite, prinesite žrtvu Bogu svojemu
 A Mojsije reèe: ne valja tako; jer bismo prinijeli na žrtvu Gospodu Bogu svojemu što je neèisto Misircima; a kad bismo prinijeli na žrtvu što je neèisto Misircima na oèi njihove, ne bi li nas pobili kamenjem?
 Tri dana hoda treba da idemo u pustinju da prinesemo žrtvu Gospodu Bogu svojemu, kao što nam je kazao.
 A Faraon reèe: pustiæu vas da prinesete žrtvu Gospodu Bogu svojemu u pustinji; ali da ne idete dalje; pa se molite za me.
+A Mojsije reèe: evo ja idem od tebe, i moliæu se Gospodu da otidu bubine od Faraona i od sluga njegovijeh i od naroda njegova sjutra; ali nemoj opet da prevariš, i da ne pustiš naroda da prinese žrtvu Gospodu.
+I otide Mojsije od Faraona, i pomoli se Gospodu.
+I uèini Gospod po rijeèi Mojsijevoj, te otidoše bubine od Faraona i od sluga njegovijeh i od naroda njegova; ne osta ni jedna.
+Ali opet otvrdnu srce Faraonovo, i ne pusti naroda.
 Tada reèe Gospod Mojsiju: idi k Faraonu, i reci mu: ovako veli Gospod Bog Jevrejski: pusti narod moj da mi posluži;
 Ako li ih ne pustiš nego ih još staneš zadržavati,
 Evo, ruka Gospodnja doæi æe na stoku tvoju u polju, na konje, na magarce, na kamile, na volove i na ovce, s pomorom vrlo velikim.
@@ -2112,7 +2112,6 @@ Ako ko otkrije jamu ili iskopa jamu a ne pokrije, pa upadne vo ili magarac,
 Da naknadi gospodar od jame i plati novcem gospodaru njihovu, a što je uginulo da je njegovo.
 Ako vo jednoga ubode vola drugome, te pogine, onda da prodadu vola živoga i novce da podijele, tako i ubijenoga vola da podijele.
 Ako li se znalo da je vo prije bio bodaè pa ga nije èuvao gospodar njegov, da da vola za vola, a ubijeni neka bude njemu.
-
 Ko ukrade vola ili ovcu ili kozu, i zakolje ili proda, da vrati pet volova za jednoga vola, a èetiri ovce ili koze za jednu ovcu ili kozu.
 Ako se lupež uhvati gdje potkopava, te bude ranjen tako da umre, da ne bude kriv za krv onaj koji ga bude ubio;
 Ali ako se bude sunce rodilo, da je kriv za krv. A lupež sve da naknadi; ako li ne bi imao, onda da se on proda za svoju kraðu.
@@ -2143,6 +2142,7 @@ Jer mu je to sve odijelo èim zaklanja tijelo svoje; u èem æe spavati? pa kad 
 Nemoj psovati sudija, i starješini naroda svojega ne govori ružno.
 Od ljetine svoje i od žitkih stvari svojih nemoj se zatezati da prineseš prvine; prvenca izmeðu sinova svojih meni da daš.
 Tako èini s volom svojim i s ovcom i s kozom; sedam dana neka bude s majkom svojom, a osmoga dana da ga daš meni.
+Biæete mi sveti ljudi; mesa u polju rastrgnuta ne jedite, bacite ga psima.
 Ne iznosi lažnijeh glasova; ne pristaj s bezbožnikom da svjedoèiš krivo.
 Ne idi za množinom na zlo, i ne govori na sudu povodeæi se za veæim brojem da se izvrne pravda.
 Siromahu u parnici njegovoj ne gledaj što je siromah.
@@ -2848,13 +2848,6 @@ I tako koliko se ogriješio o svetu stvar neka naknadi, i na to još neka dometn
 Ko zgriješi i uèini štogod što je Gospod zabranio da se ne èini, ako i nije znao, ipak je kriv, i nosiæe svoje bezakonje.
 Neka dovede k svešteniku ovna zdrava s cijenom kojom precijeniš prijestup; i oèistiæe ga sveštenik od grijeha njegova, koji je uèinio ne znajuæi, i oprostiæe mu se.
 Prijestup je; zgriješio je Gospodu.
-
-
-
-
-
-
-
 Opet reèe Gospod Mojsiju govoreæi:
 Kad ko zgriješi i uèini zlo djelo Gospodu udarivši u bah bližnjemu svojemu za ostavu ili za stvar predanu u ruke ili otevši što ili zanesavši bližnjega svojega,
 Ili naðe izgubljeno što, pa udari u bah, ili se krivo zakune za koju god stvar koju može èovjek uèiniti i ogriješiti se njom,
@@ -2878,6 +2871,13 @@ Ovo je žrtva Aronova i sinova njegovijeh, koju æe prinositi Gospodu onaj dan k
 U tavi s uljem neka se gotovi; prženo neka donese; i pržene komade dara neka prinese na ugodni miris Gospodu.
 I sveštenik izmeðu sinova njegovijeh, koji bude pomazan nakon njega, neka èini tako isto zakonom vjeènim; neka se pali Gospodu sve to;
 I svaki dar sveštenikov neka se sav spali, a neka se ne jede.
+Još reèe Gospod Mojsiju govoreæi:
+Kaži Aronu i sinovima njegovijem, i reci: ovo je zakon za žrtvu radi grijeha: na mjestu gdje se kolje žrtva paljenica, neka se kolje i žrtva za grijeh pred Gospodom; svetinja je nad svetinjama.
+Sveštenik koji prinese žrtvu za grijeh neka je jede; na svetom mjestu neka se jede, u trijemu od šatora od sastanka.
+Što se god dotakne mesa njezina, biæe sveto; i ako ko pokapa krvlju njezinom haljinu, ono što pokapa neka opere na svetom mjestu.
+I sud zemljani u kojem bude kuhano neka se razbije; ako li je kuhano u sudu mjedenom, neka se istre i vodom opere.
+Svako muško izmeðu sveštenika neka to jede; svetinja je nad svetinjama.
+Ali nijedna žrtva za grijeh, od koje se krv unese u šator od sastanka da se uèini oèišæenje od grijeha u svetinji, neka se ne jede, nego neka se ognjem sažeže.
 A ovo je zakon za žrtvu radi prijestupa; svetinja je nad svetinjama.
 Na kojem se mjestu kolje žrtva paljenica, na onom neka se kolje i žrtva za prijestup; i krvlju njezinom neka se pokropi oltar ozgo unaokolo.
 A sve salo njezino neka se prinese, i rep i salo što pokriva crijeva,
@@ -4228,6 +4228,21 @@ I otvorivši zemlja usta svoja proždrije ih, i domove njihove i sve ljude Korej
 I tako siðoše sa svijem što imahu živi u grob, i pokri ih zemlja i nesta ih iz zbora.
 A svi Izrailjci koji bijahu oko njih pobjegoše od vike njihove, jer govorahu: da nas ne proždre zemlja.
 I izaðe oganj od Gospoda, i sažeže onijeh dvjesta i pedeset ljudi koji prinesoše kad.
+Tada reèe Gospod Mojsiju govoreæi:
+Kaži Eleazaru sinu Arona sveštenika neka pokupi kadionice iz toga garišta, i ugljevlje iz njih neka razbaci, jer su svete;
+Kadionice onijeh koji ogriješiše duše svoje neka raskuju na ploèe da se okuje oltar, jer kadiše njima pred Gospodom, zato su svete, i neka budu sinovima Izrailjevijem znak.
+I pokupi Eleazar sveštenik kadionice mjedene, kojima bjehu kadili oni što izgorješe, i raskovaše ih na okov oltaru
+Za spomen sinovima Izrailjevijem, da ne pristupa niko drugi koji nije roda Aronova da kadi pred Gospodom, da mu ne bude kao Koreju i družini njegovoj, kao što mu bješe kazao Gospod preko Mojsija.
+A sjutradan vikaše sav zbor sinova Izrailjevijeh na Mojsija i na Arona govoreæi: pobiste narod Gospodnji.
+A kad se stjecaše narod na Mojsija i na Arona, pogledaše na šator od sastanka, a to oblak na njemu, i pokaza se slava Gospodnja.
+I doðe Mojsije i Aron pred šator od sastanka.
+I reèe Gospod Mojsiju govoreæi:
+Uklonite se iz toga zbora da ih odmah potrem. A oni padoše nièice.
+I reèe Mojsije Aronu: uzmi kadionicu, i metni u nju ognja s oltara, i metni kada, i idi brže ka zboru, i oèisti ih; jer gnjev žestok izaðe od Gospoda, i pomor poèe.
+I uzevši Aron kadionicu, kao što mu reèe Mojsije, otrèa usred zbora, i gle, pomor veæ bješe poèeo u narodu; i okadiv oèisti narod.
+I stajaše meðu mrtvima i živima, i ustavi se pomor.
+A onijeh koji pomriješe od toga pomora bješe èetrnaest tisuæa i sedam stotina, osim onijeh što izgiboše s Koreja.
+I vrati se Aron k Mojsiju na vrata šatora od sastanka, kad se ustavi pomor.
 Potom reèe Gospod Mojsiju govoreæi:
 Reci sinovima Izrailjevijem, i uzmi od njih po jednu palicu od svakoga doma otaca njihovijeh, od svijeh knezova njihovijeh, po domovima otaca njihovijeh, dvanaest palica, i ime svakoga napiši na palici njegovoj.
 A na palici Levijevoj napiši ime Aronovo, jer je svaka palica za jednog poglavara od doma otaca njihovijeh.
@@ -4241,21 +4256,6 @@ A Gospod reèe Mojsiju: donesi opet palicu Aronovu pred svjedoèanstvo da se èu
 I uèini Mojsije, kako mu zapovjedi Gospod tako uèini.
 Tada rekoše sinovi Izrailjevi Mojsiju govoreæi: pomrijesmo, propadosmo, svi propadosmo.
 Ko se god približi k šatoru Gospodnjemu, gine; hoæemo li svi izginuti?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A Gospod reèe Aronu: ti i sinovi tvoji i dom oca tvojega s tobom nosite grijehe o svetinju; ti i sinovi tvoji s tobom nosite grijehe sveštenstva svojega.
 I braæu svoju, pleme Levijevo, pleme oca svojega uzmi k sebi da budu uza te i služe ti; a ti æeš i sinovi tvoji s tobom služiti pred šatorom od sastanka.
 Neka dobro slušaju zapovijesti tvoje i rade što treba u svem šatoru; ali k sudovima od svetinje k oltaru neka ne pristupaju, da ne izginu i oni i vi.
@@ -4647,6 +4647,7 @@ Nego prinesite žrtvu paljenicu, žrtvu ognjenu za ugodni miris Gospodu, jedno t
 I dar njihov i naljeve njihove, uz tele, uz ovna i uz jaganjce, po broju njihovu, kako je ureðeno;
 I jednoga jarca za grijeh, osim svagdašnje žrtve paljenice i dara njezina i naljeva njezina.
 To prinosite Gospodu na praznike svoje, osim onoga što biste po zavjetu ili od svoje volje prinijeli za žrtve paljenice ili darove ili naljeve ili žrtve zahvalne.
+
 I kaza Mojsije sinovima Izrailjevijem sve što zapovjedi Gospod.
 I reèe Mojsije knezovima od plemena sinova Izrailjevijeh govoreæi: ovo je zapovjedio Gospod.
 Kad koji èovjek uèini zavjet Gospodu, ili se zakune vezavši se dušom svojom, neka ne pogazi rijeèi svoje, nego neka uèini sve što izaðe iz usta njegovijeh.
@@ -4662,8 +4663,7 @@ I muž njezin èuvši oæuti i ne poreèe, tada da su tvrdi svi zavjeti njezini,
 Ako li to poreèe muž njezin onaj dan kad èuje, svaki zavjet koji bi izašao iz usta njezinijeh i sve èim bi vezala dušu svoju da nije tvrdo; muž je njezin porekao, i Gospod æe joj oprostiti.
 Svaki zavjet i sve za što bi se vezala zakletvom da muèi dušu svoju, muž njezin potvrðuje i ukida.
 Ako bi muž njezin od dana do dana æutao, onda potvrðuje sve zavjete njezine i sve za što bi se vezala; potvrðuje, jer joj ne poreèe u onaj dan kad èu.
-Ako li poreèe pošto èuje, sam æe nositi grijeh njezin.
-Ovo su naredbe, koje zapovjedi Gospod Mojsiju za muža i ženu, za oca i kæer u mladosti njezinoj, dokle je u kuæi oca svojega.
+Ako li poreèe pošto èuje, sam æe nositi grijeh njezin. Ovo su naredbe, koje zapovjedi Gospod Mojsiju za muža i ženu, za oca i kæer u mladosti njezinoj, dokle je u kuæi oca svojega.
 Opet reèe Gospod Mojsiju govoreæi:
 Osveti sinove Izrailjeve na Madijancima, pak æeš se onda pribrati k rodu svojemu.
 I Mojsije reèe narodu govoreæi: opremite izmeðu sebe ljude na vojsku da idu na Madijance da uèine osvetu Gospodnju na Madijancima,
@@ -5271,6 +5271,7 @@ I prinesi žrtve svoje paljenice, meso i krv, na oltaru Gospoda Boga svojega; kr
 Kad istrijebi Gospod Bog tvoj ispred tebe narode ka kojima ideš da naslijediš zemlju njihovu, i naslijedivši je kad se nastaniš u zemlji njihovoj,
 Èuvaj se da se ne uhvatiš u zamku pošavši za njima pošto se potru ispred tebe, i da ne potražiš bogova njihovijeh, i reèeš: kako su ovi narodi služili svojim bogovima, tako æu i ja èiniti.
 Ne èini tako Gospodu Bogu svojemu; jer oni èiniše svojim bogovima sve što je gadno pred Gospodom i na što on mrzi; jer su i sinove svoje i kæeri svoje sažizali bogovima svojim.
+Što vam god ja zapovijedam sve držite i tvorite, niti što dodajte k tome ni oduzmite od toga.
 Ako ustane meðu vama prorok ili koji sne sanja, i kaže ti znak ili èudo,
 Pa se zbude taj znak ili èudo koje ti kaže, i on ti reèe: hajde da idemo za drugim bogovima, kojih ne znaš, i njima da služimo,
 Nemoj poslušati što ti kaže taj prorok ili sanjaè, jer vas kuša Gospod Bog vaš da bi se znalo ljubite li Gospoda Boga svojega iz svega srca svojega i sve duše svoje.
@@ -5289,7 +5290,6 @@ Pobij maèem sve koji žive u gradu onom, i zatri i njega i sve što bi u njemu 
 I sav plijen iz njega skupi nasred ulice njegove, spali ognjem i onaj grad i sav plijen iz njega Gospodu Bogu svojemu, da bude gomila dovijeka i da se više ne sazida.
 I neka ti od prokletijeh stvari ne prione ništa za ruku, eda bi se Gospod povratio od žestine gnjeva svojega, uèinio ti milost i smilovao se na te, i umnožio te, kao što se zakleo ocima tvojim,
 Kad slušaš glas Gospoda Boga svojega držeæi sve zapovijesti njegove, koje ti ja danas zapovijedam, da bi èinio što je pravo pred Gospodom Bogom tvojim.
-
 Vi ste sinovi Gospoda Boga svojega; nemojte se rezati niti brijati meðu oèima za mrtvacem.
 Jer si narod svet Gospodu Bogu svojemu, i tebe izabra Gospod da si mu narod osobit izmeðu svijeh naroda na zemlji.
 Ne jedi ništa gadno.
@@ -5499,6 +5499,7 @@ A djevojci ne èini ništa, nije uèinila grijeha koji zaslužuje smrt, jer kao 
 Jer naðe je u polju, i djevojka isprošena vika, ali ne bi nikoga da je odbrani.
 Ako ko naðe djevojku koja nije isprošena i uhvati je i legne s njom, i zateku se,
 Tada èovjek onaj koji je legao s njom da da ocu djevojèinu pedeset sikala srebra, i neka mu ona bude žena zato što je osramoti; da je ne može pustiti dok je živ.
+Niko da se ne ženi ženom oca svojega, ni da otkrije skuta oca svojega.
 U sabor Gospodnji da ne ulazi ni utuèen ni uškopljen.
 U sabor Gospodnji da ne ulazi kopile, ni deseto koljeno njegovo da ne ulazi u sabor Gospodnji.
 Ni Amonac ni Moavac da ne ulazi u sabor Gospodnji, ni deseto koljeno njihovo, da ne ulazi u sabor Gospodnji dovijeka.
@@ -5524,7 +5525,6 @@ Ako li se ne zavjetuješ, neæe biti na tebi grijeha.
 Što ti izide iz usta, ono drži i uèini, kao što zavjetuješ Gospodu Bogu svojemu dragovoljno, što izreèeš ustima svojim.
 Kad uðeš u vinograd bližnjega svojega, možeš jesti grožða po volji dok se nasitiš; ali ga ne meæi u sud svoj.
 Kad uðeš u usjev bližnjega svojega, možeš trgati klasje rukom svojom; ali da ne zažnješ srpom u usjev bližnjega svojega.
-
 Kad ko uzme ženu i oženi se njom, pa se dogodi da mu ona ne bude po volji, što on naðe na njojzi štogod ružno, neka joj napiše knjigu raspusnu i da joj u ruke, pa neka je otpusti iz svoje kuæe.
 A ona otišavši iz kuæe njegove, ako otide i uda se za drugoga,
 Pa ako ovaj drugi muž omrzne na nju i napiše joj knjigu raspusnu i da joj u ruku, i otpusti je iz svoje kuæe, ili ako umre ovaj drugi muž koji se oženi njom,
@@ -5679,7 +5679,6 @@ Ali u onijem narodima neæeš odahnuti, niti æe se stopalo noge tvoje odmoriti;
 I život æe tvoj biti kao da visi prema tebi, i plašiæeš se noæu i danju, i neæeš biti miran životom svojim.
 Jutrom æeš govoriti: kamo da je veèe! a veèerom æeš govoriti: kamo da je jutro! od straha kojim æe se strašiti srce tvoje, i od onoga što æeš gledati oèima svojima.
 I vratiæe te Gospod u Misir na laðama, putem za koji ti rekoh: neæeš ga više vidjeti. I ondje æete se prodavati neprijateljima svojim da budete robovi i robinje, a neæe biti kupca.
-
 Ovo su rijeèi zavjeta koji zapovjedi Gospod Mojsiju da uèini sa sinovima Izrailjevijem u zemlji Moavskoj, osim zavjeta koji je uèinio s njima na Horivu.
 I sazva Mojsije sve sinove Izrailjeve i reèe im: vidjeli ste sve što uèini Gospod na vaše oèi u zemlji Misirskoj Faraonu i svijem slugama njegovijem i svoj zemlji njegovoj,
 Kušanja velika, koja vidješe oèi tvoje, one znake i èudesa velika.
@@ -5708,6 +5707,7 @@ I odgovaraæe se: jer odustaviše zavjet Gospoda Boga otaca svojih, koji uèini 
 Jer idoše i služiše drugim bogovima i poklanjaše im se, bogovima kojih ne znaše i koji im ništa ne dadoše.
 Zato se Gospod razgnjevi na tu zemlju, i pusti na nju sva prokletstva zapisana u ovoj knjizi.
 I istrijebi ih Gospod Bog iz zemlje njihove u gnjevu i u jarosti i u ljutini velikoj, i izbaci ih u drugu zemlju, kao što se vidi danas.
+Što je tajno ono je Gospoda Boga našega, a javno je naše i sinova naših dovijeka, da bismo izvršivali sve rijeèi ovoga zakona.
 A kad doðe na tebe sve ovo, blagoslov i kletva koju iznesoh preda te, ako ih se opomeneš u srcu svom, gdje bi god bio meðu narodima, u koje te zagna Gospod Bog tvoj,
 I obratiš se ka Gospodu Bogu svojemu i poslušaš glas njegov u svemu što ti ja zapovijedam danas, ti i sinovi tvoji, iz svega srca svojega i iz sve duše svoje,
 Tada æe Gospod Bog tvoj povratiti roblje tvoje i smilovaæe se na tebe, i opet æe te sabrati izmeðu svijeh naroda, po kojima te bude rasijao Gospod Bog tvoj.
@@ -7771,6 +7771,7 @@ Još viknu Jonatan za momkom: brže, ne stoj. I momak Jonatanov pokupi strijele,
 Ali momak ne znaše ništa, samo Jonatan i David znahu šta je.
 I Jonatan dade oružje svoje momku koji bijaše s njim, i reèe mu: idi, odnesi u grad.
 I kad momak otide, David usta s južne strane i pade nièice na zemlju i pokloni se tri puta, i poljubiše se, i plakaše obojica, a David osobito.
+
 I reèe Jonatan Davidu: idi s mirom, kao što smo se zakleli obojica imenom Gospodnjim rekavši: Gospod da je svjedok izmeðu mene i tebe i izmeðu mojega sjemena i tvojega sjemena dovijeka.
 Tada David doðe u Nov k Ahimelehu svešteniku; a Ahimeleh se uplaši i istrèa pred Davida, i reèe mu: zašto si sam, i nema nikoga s tobom?
 A David reèe Ahimelehu svešteniku: car mi nešto zapovjedi, i reèe mi: niko da ne dozna zašto te šaljem i šta sam ti zapovjedio. A sluge sam opravio u to i to mjesto.
@@ -7787,7 +7788,6 @@ I David metnu ove rijeèi u srce svoje, i poboja se veoma Ahisa cara Gatskoga.
 I pretvori se pred njima i uèini se lud u rukama njihovijem; i šaraše po vratima, i bacaše pjenu niz bradu svoju.
 I Ahis reèe slugama svojim: eto, vidite da je èovjek lud; što ste mi ga doveli?
 Zar nemam dosta ludijeh, nego mi dovedoste toga da luduje preda mnom? zar æe taj uæi u kuæu moju?
-
 Tada David otide odande i uteèe u peæinu Odolamsku. A kad to èuše braæa njegova i sav dom oca njegova, doðoše onamo k njemu.
 I skupiše se oko njega koji god bijahu u nevolji i koji bijahu zaduženi i koji god bijahu tužna srca; i on im posta poglavica; i bješe ih s njim oko èetiri stotine ljudi.
 I odande otide David u Mispu Moavsku, i reèe caru Moavskom: dopusti da se otac moj i mati moja sklone kod vas dokle vidim šta æe Bog uèiniti sa mnom.
@@ -7839,6 +7839,7 @@ I Saul izide sa svojim ljudima da ga traži; a Davidu javiše, te on siðe sa st
 I Saul iðaše jednom stranom planine, a David sa svojim ljudima drugom stranom planine; i David hiæaše da uteèe Saulu, jer Saul sa svojim ljudima opkoljavaše Davida i njegove ljude da ih pohvata.
 U tom doðe glasnik Saulu govoreæi: brže hodi; jer Filisteji udariše na zemlju.
 Tada se vrati Saul ne tjerajuæi dalje Davida, i otide pred Filisteje. Otuda se prozva ono mjesto Sela-Amalekot.
+
 A David otišavši odande stade na tvrdijem mjestima Engadskim.
 I kad se Saul vrati odagnavši Filisteje, rekoše mu govoreæi: eno Davida u pustinji Engadskoj.
 Tada uze Saul tri tisuæe ljudi izabranijeh iz svega Izrailja, i otide da traži Davida i ljude njegove po vrletima gdje su divokoze.
@@ -7860,8 +7861,7 @@ I reèe Davidu: praviji si od mene, jer si mi vratio dobro za zlo koje sam ja te
 I danas si mi pokazao da mi dobro èiniš; jer me Gospod dade tebi u ruke, a ti me opet ne ubi.
 I ko bi našavši neprijatelja svojega pustio ga da ide dobrijem putem? Gospod neka ti vrati dobro za ovo što si mi uèinio danas.
 I sada, evo, znam da æeš zacijelo biti car, i jako æe biti u tvojoj ruci carstvo Izrailjevo.
-Zato mi se sada zakuni Gospodom da neæeš istrijebiti sjemena mojega poslije mene, ni imena mojega zatrti u domu oca mojega.
-I zakle se David Saulu; i Saul otide kuæi svojoj, a David i ljudi njegovi otidoše na tvrdo mjesto.
+Zato mi se sada zakuni Gospodom da neæeš istrijebiti sjemena mojega poslije mene, ni imena mojega zatrti u domu oca mojega. I zakle se David Saulu; i Saul otide kuæi svojoj, a David i ljudi njegovi otidoše na tvrdo mjesto.
 U tom umrije Samuilo i sabra se sav Izrailj, i plakaše za njim, i pogreboše ga u domu njegovu u Rami. A David usta i siðe u pustinju Faransku.
 A bijaše jedan èovjek u Maonu, a stoka mu bijaše na Karmilu; i bijaše èovjek vrlo bogat, jer imaše tri tisuæe ovaca i tisuæu koza, i tada strizijaše ovce svoje na Karmilu.
 I bješe ime tomu èovjeku Naval, a ženi mu ime Avigeja; i ona bijaše žena razumna i lijepa, a on bijaše tvrda srca i opak, a bijaše od roda Halevova.
@@ -8511,6 +8511,7 @@ A car mu reèe: je li zdravo dijete Avesalom? Odgovori Ahimas: vidio sam veliku 
 A car mu reèe: ukloni se, i stani tamo. I on se ukloni, i stade.
 Tada, gle, doðe Husije i reèe: glas caru i gospodaru mojemu da te je Gospod izbavio danas iz ruku svijeh koji ustaše na te.
 A car reèe Husiju: je li zdravo dijete Avesalom? A Husije reèe: neka neprijatelji gospodara mojega cara i koji god ustaju na te zla radi, neka proðu kao to dijete.
+Tada se car sneveseli, i pope se u gornju klijet nad vratima, i stade plakati, a iduæi govoraše: sine moj Avesalome, sine moj, sine moj Avesalome! kamo da sam ja umro mjesto tebe! Avesalome sine moj, sine moj!
 I javiše Joavu: evo car plaèe i tuži za Avesalomom.
 I pobjeda onoga dana pretvori se u žalost svemu narodu, jer narod èu u onaj dan gdje govore: žali car sina svojega.
 I narod se u onaj dan krijaše ulazeæi u grad kao što se krije narod koji se stidi kad pobjegne iz boja.
@@ -8554,7 +8555,6 @@ Otuda car otide u Galgal, i Himam otide s njim. I tako sav narod Judin doprati c
 A gle, svi ljudi Izrailjci doðoše k caru i rekoše mu: zašto te ukradoše braæa naša, ljudi Judini, i prevedoše preko Jordana cara i dom njegov i sve ljude Davidove s njim?
 A svi ljudi od Jude odgovoriše ljudima od Izrailja: jer je car nama rod; pa što se srdite toga radi? jesmo li što pojeli caru? je li nas darom darivao?
 Tada odgovoriše ljudi od Izrailja ljudima od Jude, i rekoše: mi imamo deset dijelova u cara, i Davidu smo više nego vi; zašto dakle ne mariste za nas? nijesmo li mi prvi govorili da dovedemo natrag cara svojega? Ali besjeda ljudi od Jude bješe tvrða od besjede ljudi od Izrailja.
-
 A ondje se desi nevaljao èovjek, po imenu Seva sin Vihrijev, od Venijamina. On zatrubi u trubu i reèe: mi nemamo dijela s Davidom, ni našljedstva sa sinom Jesejevijem; svak u svoj šator, o Izrailju!
 Tako svi Izrailjci otstupiše od Davida i otidoše za Sevom sinom Vihrijevim; ljudi pak od Jude držaše se cara svojega i otpratiše ga od Jordana do Jerusalima.
 A kad car David doðe u kuæu svoju u Jerusalim, uze car deset žena inoèa, koje bješe ostavio da mu èuvaju kuæu, i metnu ih u zatvor, gdje ih hranjaše ali ne lijegaše s njima, nego ostaše zatvorene do smrti svoje i življahu kao udovice.
@@ -8865,6 +8865,20 @@ Josafat sin Farujin u Isaharu;
 Simej sin Ilin u Venijaminu;
 Gever sin Urijev u zemlji Galadskoj, u zemlji Siona cara Amorejskoga i Oga cara Vasanskoga; jedan bješe pristav u toj zemlji.
 Jude i Izrailja bijaše mnogo kao pijeska pokraj mora; i jeðahu i pijahu i veseljahu se.
+A Solomun vladaše svijem carstvima od rijeke do zemlje Filistejske i do meðe Misirske, i donošahu dare i služahu Solomunu svega vijeka njegova.
+A hrana Solomunova bijaše na dan trideset kora bijeloga brašna, i šezdeset kora drugoga brašna;
+Deset volova ugojenijeh i dvadeset s paše, i sto ovaca, osim jelena i srna i divokoza i ugojenijeh ptica.
+Jer on vladaše svuda s ovu stranu rijeke od Tapse do Gaze, nad svijem carevima s ovu stranu rijeke, i bješe miran sa sviju strana unaokolo.
+I življahu Juda i Izrailj bez straha, svaki pod svojom lozom i pod svojom smokvom, od Dana do Virsaveje, svega vijeka Solomunova.
+I imaše Solomun èetrdeset tisuæa konja za jaslima za kola svoja, i dvadeset tisuæa konjika.
+I pristavi hranjahu cara Solomuna i sve koji dolažahu za sto cara Solomuna, svaki svoga mjeseca, i ne dadijahu da se èega premakne.
+A jeèam i slamu za konje i za mazge donošahu na mjesto gdje bijahu, svaki kako mu bijaše odreðeno.
+I Bog dade mudrost Solomunu i razum vrlo velik i srce prostrano kao pijesak na brijegu morskom.
+Jer mudrost Solomunova bijaše veæa od mudrosti svijeh istoènijeh naroda i od sve mudrosti Misirske.
+Mudriji bijaše od svakoga èovjeka, i od Etana Ezraita i od Emana i od Halkola i od Darde, sinova Maolovijeh; i razglasi se ime njegovo po svijem narodima unaokolo.
+I izgovori tri tisuæe prièa, i bijaše pjesama njegovijeh tisuæa i pet.
+Govorio je i o drveæu, od kedra na Livanu do isopa koji nièe iz zida; govorio je i o stoci i o pticama i o bubinama i o ribama.
+I dolažahu iz svijeh naroda da èuju mudrost Solomunovu, od svijeh careva na zemlji, koji èuše za mudrost njegovu.
 I Hiram car Tirski posla sluge svoje k Solomunu èuvši da su ga pomazali za cara na mjesto oca njegova, jer Hiram ljubljaše Davida svagda.
 A Solomun posla ka Hiramu i poruèi mu:
 Ti znaš da David otac moj nije mogao sagraditi doma imenu Gospoda Boga svojega od ratova kojima ga opkoliše, dokle ih Gospod ne položi pod noge njegove.
@@ -8883,20 +8897,6 @@ I imaše Solomun sedamdeset tisuæa nosilaca i osamdeset tisuæa tesaèa u plani
 Osim nastojnika Solomunovijeh, koji bijahu nad tijem poslom, tri tisuæe i trista, koji upravljahu narodom koji poslovaše taj posao.
 I zapovjedi car da snose veliko kamenje, skupocjeno kamenje za temelj domu, tesano kamenje.
 I tesahu poslenici Solomunovi i poslenici Hiramovi i Givleji, i pripravljahu drvo i kamenje da se zida dom.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Èetiri stotine i osamdesete godine po izlasku sinova Izrailjevijeh iz zemlje Misirske, èetvrte godine carovanja Solomunova nad Izrailjem, mjeseca Zifa, a to je drugi mjesec, poèe zidati dom Gospodu.
 A dom što ga zida car Solomun Gospodu bijaše u dužinu od šezdeset lakata, a u širinu od dvadeset lakata, a u visinu od trideset lakata.
 I bijaše trijem pred crkvom dvadeset lakata dug, prema širini doma, a deset lakata širok pred domom.
@@ -9523,6 +9523,7 @@ A ostala djela Ahavova i sve što je uèinio, i za kuæu od slonove kosti koju j
 Tako poèinu Ahav kod otaca svojih, i na njegovo se mjesto zacari Ohozija sin njegov.
 A Josafat sin Asin zacari se nad Judom èetvrte godine carovanja Ahavova nad Izrailjem;
 I imaše Josafat trideset i pet godina kad poèe carovati, i carova dvadeset i pet godina u Jerusalimu. A materi mu bješe ime Azuva kæi Silejeva.
+
 I hoðaše putem Ase oca svojega sasvijem, i ne otstupi od njega èineæi sve što je pravo pred Gospodom.
 Ali visina ne oboriše; narod još prinošaše žrtve i kaðaše na visinama.
 I uèini mir Josafat s carem Izrailjevijem.
@@ -9533,8 +9534,7 @@ I Josafat naèini laðe Tarsiske da idu u Ofir po zlato; ali ne otidoše; jer se
 Tada reèe Ohozija sin Ahavov Josafatu: neka idu moje sluge s tvojim slugama na laðama. Ali Josafat ne htje.
 I poèinu Josafat kod otaca svojih, i pogreboše ga kod otaca njegovijeh u gradu Davida oca njegova; a na njegovo se mjesto zacari Joram sin njegov.
 Ohozija sin Ahavov zacari se nad Izrailjem u Samariji sedamnaeste godine carovanja Josafatova nad Judom; i carova nad Izrailjem dvije godine.
-I èinjaše što je zlo pred Gospodom, i hoðaše putem oca svojega i putem matere svoje i putem Jerovoama sina Navatova, koji navede na grijeh Izrailja.
-I služaše Valu i klanjaše mu se, i gnjevljaše Gospoda Boga Izrailjeva sasvijem kako je èinio otac njegov.
+I èinjaše što je zlo pred Gospodom, i hoðaše putem oca svojega i putem matere svoje i putem Jerovoama sina Navatova, koji navede na grijeh Izrailja. I služaše Valu i klanjaše mu se, i gnjevljaše Gospoda Boga Izrailjeva sasvijem kako je èinio otac njegov.
 A po smrti Ahavovoj odmetnuše se Moavci od Izrailja.
 A Ohozija pade kroz rešetku iz gornje sobe svoje u Samariji, i razbolje se; pa posla poslanike i reèe im: idite, pitajte Velzevula boga Akaronskoga hoæu li ozdraviti od ove bolesti.
 Ali anðeo Gospodnji reèe Iliji Tesviæaninu: ustani, izidi na susret poslanicima cara Samarijskoga i reci im: eda li nema Boga u Izrailju, te idete da pitate Velzevula boga u Akaronu?
@@ -9851,6 +9851,7 @@ Tada Jodaj uèini zavjet izmeðu Gospoda i cara i naroda da æe biti narod Gospo
 Potom sav narod zemaljski otide u dom Valov, i raskopaše dom i oltar, i izlomiše likove njegove sasvijem; a Matana sveštenika Valova ubiše pred oltarima. A sveštenik opet uredi službu u domu Gospodnjem.
 I uze stotinike i vojvode i vojnike i sav narod zemaljski, i izvedoše cara iz doma Gospodnjega, i uðoše u dom carski putem na vrata vojnièka. I sjede na carski prijesto.
 I radovaše se sav narod zemaljski, i grad se umiri pošto Gotoliju ubiše maèem kod carskoga doma.
+Joasu bješe sedam godina kad se zacari.
 Sedme godine Jujeve poèe carovati Joas, i carova èetrdeset godina u Jerusalimu. Materi mu bješe ime Sivija iz Virsaveje.
 I èinjaše Joas što je pravo pred Gospodom dokle ga god uèaše sveštenik Jodaj.
 Ali visine ne biše oborene; narod još prinošaše žrtve i kaðaše na visinama.
@@ -9872,7 +9873,6 @@ A Joas car Judin uze sve posveæene stvari, što Josafat i Joram i Ohozija oci n
 A ostala djela Joasova i sve što je èinio, nije li to zapisano u dnevniku careva Judinijeh?
 A sluge njegove podigoše se i pobuniše se, i ubiše Joasa u domu Milonu, kuda se ide u Silu.
 Joazahar sin Simeatov i Jozavad sin Somirov, sluge njegove, ubiše ga, te umrije; i pogreboše ga kod otaca njegovijeh u gradu Davidovu; a na njegovo mjesto zacari se Amasija sin njegov.
-
 Godine dvadeset treæe carovanja Joasa sina Ohozijina nad Judom zacari se Joahaz sin Jujev nad Izrailjem u Samariji, i carova sedamnaest godina.
 I èinjaše što je zlo pred Gospodom, jer hoðaše za grijesima Jerovoama sina Navatova, kojima navede na grijeh Izrailja i ne otstupi od njih.
 Zato se razgnjevi Gospod na Izrailja i dade ih u ruke Azailu caru Sirskom i u ruke Ven-Adadu sinu Azailovu za sve ono vrijeme.
@@ -10456,21 +10456,6 @@ A sinovi polovine plemena Manasijina življahu u toj zemlji od Vasana do Val-Erm
 A ovo bijahu poglavari u domu otaca njihovijeh: Efer i Jesej i Elilo i Azrilo i Jeremija i Odavija i Jadilo, ljudi hrabri i na glasu, poglavari u domu otaca svojih.
 Ali kad zgriješiše Bogu otaca svojih i èiniše preljubu za bogovima naroda one zemlje, koje Bog istrijebi ispred njih,
 Podiže Bog Izrailjev duh Fula cara Asirskoga i duh Telgat-Felnasara cara Asirskoga, i preseliše pleme Ruvimovo i pleme Gadovo i polovinu plemena Manasijina, i odvedoše ih u Alu i u Avor i u Aru, i na rijeku Gozan, gdje ostaše do danas.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Sinovi Levijevi bijahu: Girson, Kat i Merarije.
 A sinovi Katovi: Amram, Isar i Hevron i Ozilo.
 A sinovi Amramovi: Aron i Mojsije, i kæi Marija. A sinovi Aronovi: Nadav i Avijud i Eleazar i Itamar.
@@ -10537,6 +10522,21 @@ Sinovima Merarijevim po porodicama njihovijem daše ždrijebom od plemena Ruvimo
 Tako daše sinovi Izrailjevi Levitima te gradove i podgraða njihova.
 I daše ždrijebom od plemena sinova Judinijeh i od plemena sinova Simeunovijeh i od plemena sinova Venijaminovijeh te gradove, koje imenovaše poimence.
 I onima koji bijahu od roda sinova Katovijeh a gradovi njihovi i meðe njihove bijahu u plemenu Jefremovu,
+Njima daše grad za utoèište Sihem i podgraða njegova u gori Jefremovoj, i Gezer i podgraða njegova,
+I Jokmeam i podgraða njegova, i Vet-Oron i podgraða njegova,
+I Ejalon i podgraða njegova, i Gat-Rimon i podgraða njegova,
+I od polovine plemena Manasijina Anir i podgraða njegova, i Vileam i podgraða njegova, porodicama sinova Katovijeh ostalijem.
+A sinovima Girsonovijem daše od porodice polovine plemena Manasijina Golan u Vasanu i podgraða njegova, i Astarot i podgraða njegova;
+A od plemena Isaharova Kedes i podgraða njegova, Davrat i podgraða njegova,
+I Ramot i podgraða njegova, i Anim i podgraða njegova;
+A od plemena Asirova Masal i podgraða njegova, i Avdon i podgraða njegova,
+I Hukok i podgraða njegova, i Reov i podgraða njegova;
+A od plemena Neftalimova Kedes u Galileji i podgraða njegova, i Amon i podgraða njegova, i Kirijatajim i podgraða njegova.
+Sinovima Merarijevim ostalijem daše od plemena Zavulonova Rimon i podgraða njegova, Tavor i podgraða njegova;
+A preko Jordana prema Jerihonu na istoènoj strani Jordana, od plemena Ruvimova Vosor u pustinji i podgraða njegova, i Jasu i podgraða njezina,
+I Kedimot i podgraða njegova, i Mifat i podgraða njegova;
+A od plemena Gadova Ramot u Galadu i podgraða njegova, i Mahanajim i podgraða njegova,
+I Esevon i podgraða njegova, i Jazir i podgraða njegova.
 A sinovi Isaharovi bijahu: Tola i Fuja i Jasuv i Simron, èetvorica.
 A sinovi Tolini: Ozije i Refaja i Jerilo i Jamaj i Jefsam i Samuilo, poglavari otaèkih domova svojih od Tole, hrabri ljudi u porodicama svojim; bješe ih za vremena Davidova na broj dvadeset i dvije tisuæe i šest stotina.
 A sinovi Ozijevi: Izraja, i sinovi Izrajini: Mihailo i Ovadija i Joilo i Jesija, skupa pet poglavara.
@@ -10725,6 +10725,7 @@ Elilo i Ovid i Jasilo iz Mesovaje.
 A ovo su koji doðoše k Davidu u Siklag dok se još krijaše od Saula sina Kisova, i bijahu meðu junacima pomažuæi u ratu,
 Naoružani lukom, iz desne ruke i iz lijeve gaðahu kamenjem i iz luka strijelama, izmeðu braæe Saulove, od plemena Venijaminova:
 Poglavar Ahijezer i Joas sinovi Semaje iz Gavaje, Jezilo i Felet sinovi Azmavetovi, i Veraha i Juj iz Anatota,
+
 I Ismaja Gavaonjanin, junak meðu tridesetoricom i nad tridesetoricom, i Jeremija i Jazilo i Joanan i Jozavad od Gedirota,
 Eluzaj i Jerimot i Valija i Semarija i Sefatija od Arufa,
 Elkana i Jesija i Azareilo i Joezer i Jasoveam Korijani,
@@ -10762,7 +10763,6 @@ A onijeh ispreko Jordana, od plemena Ruvimova i Gadova i od polovine plemena Man
 Svi ovi vojnici u vojnièkom redu doðoše cijela srca u Hevron da postave Davida carem nad svijem Izrailjem. A i ostali svi Izrailjci bijahu složni da carem postave Davida.
 I bijahu ondje s Davidom tri dana jeduæi i pijuæi, jer im braæa bijahu pripravila.
 A i oni koji bijahu blizu njih, dori do Isahara i Zavulona i Neftalima, donošahu hljeba na magarcima i na kamilama i na mazgama i na volovima, jela, brašna, smokava i suhoga grožða i vina i ulja, volova, ovaca izobila; jer bijaše radost u Izrailju.
-
 I David uèini vijeæe s tisuænicima i sa stotinicima i sa svijem vojvodama,
 I reèe David svemu zboru Izrailjevu: ako vam je po volji, i ako je od Gospoda Boga našega, da pošaljemo na sve strane k braæi svojoj ostaloj po svijem krajevima Izrailjevijem, i k sveštenicima i Levitima po gradovima i podgraðima njihovijem, da se skupe k nama,
 Pa da donesemo k sebi kovèeg Boga svojega, jer ga ne tražismo za vremena Saulova.
@@ -11214,7 +11214,6 @@ I nakupi Solomun kola i konjika, i imaše tisuæu i èetiri stotine kola i dvana
 I uèini car te bijaše u Jerusalimu srebra i zlata kao kamena, a kedrovijeh drva kao divljih smokava koje rastu po polju, tako mnogo.
 I dovoðahu Solomunu konje iz Misira i svakojaki trg, jer trgovci carevi uzimahu svakojaki trg za cijenu.
 I odlažahu, te dogonjahu iz Misira kola po šest stotina sikala srebra, a konje po sto pedeset; i tako svi carevi Hetejski i carevi Sirski preko njih dobivahu.
-
 I naumi Solomun da zida dom imenu Gospodnjemu i dom carski sebi.
 I odbroji Solomun sedamdeset tisuæa nosilaca i osamdeset tisuæa koji æe tesati u gori, i tri tisuæe i šest stotina nastojnika nad njima.
 I posla Solomun ka Hiramu caru Tirskom i poruèi mu: kako si èinio Davidu ocu mojemu i slao mu drva kedrovijeh da zida sebi kuæu gdje æe sjedjeti, uèini tako i meni.
@@ -11232,6 +11231,7 @@ Sina jedne žene izmeðu kæeri Danovijeh, kojemu je otac bio Tirac; on umije ra
 Neka dakle pšenicu i jeèam, ulje i vino, što je rekao gospodar moj, pošlje slugama svojim.
 A mi æemo nasjeæi drva na Livanu koliko ti god treba, i spustiæemo ih u splavovima morem u Jopu, a ti ih odande vozi u Jerusalim.
 Tada Solomun izbroji sve inostrance koji bijahu u zemlji Izrailjevoj poslije brojenja kad ih izbroji David otac njegov, i naðe ih se sto i pedeset i tri tisuæe i šest stotina;
+I odredi od njih sedamdeset tisuæa koji æe nositi, i osamdeset tisuæa koji æe tesati u planini, a tri tisuæe i šest stotina nastojnika da nastoje da radi narod.
 I poèe Solomun zidati dom Gospodnji u Jerusalimu na brdu Moriji, koje bi pokazano Davidu ocu njegovu na mjestu koje bješe pripravio David, na gumnu Ornana Jevusejina.
 A poèe zidati drugoga dana drugoga mjeseca èetvrte godine carovanja svojega.
 A ovako zasnova Solomun da zida dom Božji: u dužinu šezdeset lakata po staroj mjeri, a u širinu dvadeset lakata.
@@ -11478,7 +11478,6 @@ I Avija potjera Jerovoama, i uze mu gradove Vetilj i sela njegova, i Jesanu i se
 I Jerovoam se više ne oporavi za života Avijina; i udari ga Gospod, te umrije.
 A Avija utvrdi se, i uze èetrnaest žena, i rodi dvadeset i dva sina i šesnaest kæeri.
 A ostala djela Avijina i putovi njegovi i besjede njegove zapisane su u knjizi proroka Ida.
-
 A kad poèinu Avija kod otaca svojih i pogreboše ga u gradu Davidovu, zacari se na njegovo mjesto Asa sin njegov. Za njegova vremena poèinu zemlja deset godina.
 I èinjaše Asa što je dobro i pravo pred Gospodom Bogom njegovijem.
 Jer obori oltare tuðe i visine, i izlomi likove njihove i isijeèe lugove njihove.
@@ -11493,6 +11492,7 @@ I zavapi Asa ka Gospodu Bogu svojemu govoreæi: Gospode, tebi je ništa pomoæi 
 I razbi Gospod Etiopljane pred Asom i pred Judom, i pobjegoše Etiopljani.
 I tjera ih Asa i narod koji bijaše s njim dori do Gerara. I popadaše Etiopljani da ih nijedan ne osta živ, jer se satrše pred Gospodom i pred vojskom njegovom; i oni odnesoše plijen velik veoma.
 I pobiše sve gradove oko Gerara, jer doðe na njih strah Gospodnji, i oplijeniše sve one gradove, jer bijaše u njima mnogo plijena.
+Pobiše i po stanovima pastirskim ljude, i odvedoše mnogo ovaca i kamila; i vratiše se u Jerusalim.
 Tada duh Božji doðe na Azariju sina Odidova;
 Te otide pred Asu i reèe mu: èujte me, Aso i sve pleme Judino i Venijaminovo; Gospod je s vama, jer ste vi s njim; i ako ga ustražite, naæi æete ga; ako li ga ostavite, i on æe vas ostaviti.
 Dugo je Izrailj bez pravoga Boga i bez sveštenika uèitelja, i bez zakona.
@@ -12362,12 +12362,6 @@ Za njima opravlja Sadok sin Imirov prema svojoj kuæi; a za njim opravlja Semaja
 Za njim opravlja Ananija sin Selemijin i Anun šesti sin Salafov, toliko; za njima opravlja Mesulam sin Varahijin prema svojoj klijeti;
 Za njim opravlja Malhija sin zlatarev do kuæe Netinejske i trgovaèke prema vratima Mifkadskim do uzbrdice na uglu;
 A izmeðu uzbrdice na uglu i ovèjih vrata opravljaše zlatari i trgovci.
-
-
-
-
-
-
 A kad èu Sanavalat da zidamo zid, razgnjevi se i rasrdi se vrlo, i rugaše se Jevrejima,
 I govoraše pred braæom svojom i vojnicima Samarijskim: šta rade ti nemoæni Judejci? hoæemo li ih ostaviti? hoæe li prinositi žrtve? hoæe li sada svršiti? eda li æe u život povratiti iz praha kamenje spaljeno?
 A Tovija Amonac koji bijaše uza nj reèe: neka zidaju; da lisica doðe, provaliæe kameni zid njihov.
@@ -12385,6 +12379,12 @@ I razgledavši ustah i rekoh starješinama i glavarima i ostalom narodu: ne bojt
 A kad èuše neprijatelji naši da smo doznali, razbi Gospod njihovu namjeru, i mi se vratismo svi k zidu, svaki na svoj posao.
 I od tada polovina mojih momaka poslovaše, a druga polovina držaše koplja i štitove i lukove i oklope, i knezovi stajahu iza svega doma Judina.
 I koji zidahu i koji nošahu teret i koji tovarahu, svaki jednom rukom raðaše a u drugoj držaše koplje.
+A koji zidahu, svaki imahu maè pripasan uz bedricu, i tako zidahu. A trubaè stajaše kod mene.
+Jer rekoh starješinama i glavarima i ostalom narodu: posao je velik i dug, i mi smo se rasuli po zidu daleko jedan od drugoga.
+Gdje èujete trubu da trubi, onamo trèite k nama; Bog naš vojevaæe za nas.
+Tako raðasmo posao, i polovina ih držaše koplja od zore pa dokle zvijezde ne izidu.
+U to vrijeme još rekoh narodu: svaki s momkom svojim neka noæuje u Jerusalimu da bi nam noæu stražili a danju radili.
+A ja i moja braæa i momci moji i stražari što idu za mnom neæemo svlaèiti sa sebe haljina; u svakoga da je maè i voda.
 I stade velika vika ljudi i žena na braæu njihovu Judejce.
 Jer neki govorahu: nas i sinova naših i kæeri naših ima mnogo; da dobavimo žita da jedemo i ostanemo živi.
 Drugi opet govorahu: da založimo polja svoja i vinograde i kuæe da dobijemo žita u ovoj gladi.
@@ -12490,11 +12490,11 @@ Oni tražiše po knjigama da bi pokazali rod svoj, ali se ne naðe, zato biše o
 I zaprijeti im Tirsata da ne jedu od svetinje nad svetinjama dokle ne nastane sveštenik s Urimom i Tumimom.
 Svega zbora skupa bješe èetrdeset i dvije tisuæe i tri stotine i šezdeset,
 Osim sluga njihovijeh i sluškinja njihovijeh, kojih bješe sedam tisuæa i tri stotine i trideset i sedam; i meðu njima bješe pjevaèa i pjevaèica dvjesta i èetrdeset i pet;
-Imahu sedam stotina i trideset i šest konja, dvije stotine i èetrdeset i pet masaka,
-Èetiri stotine i trideset i pet kamila, šest tisuæa i sedam stotina i dvadeset magaraca.
+Imahu sedam stotina i trideset i šest konja, dvije stotine i èetrdeset i pet masaka, Èetiri stotine i trideset i pet kamila, šest tisuæa i sedam stotina i dvadeset magaraca.
 Tada neki izmeðu glavara domova otaèkih priložiše na posao. Tirsata dade u riznicu tisuæu drama zlata, pedeset èaša, pet stotina i trideset haljina sveštenièkih.
 A glavari domova otaèkih dadoše u riznicu za posao dvadeset tisuæa drama zlata, i srebra dvije tisuæe i dvjesta mina.
 A što dade ostali narod bješe dvadeset tisuæa drama zlata, i dvije tisuæe mina srebra, i šezdeset i sedam haljina sveštenièkih.
+I tako se naseliše sveštenici i Leviti i vratari i pjevaèi i ljudi iz naroda i Netineji i sav Izrailj u svojim gradovima; i kad doðe sedmi mjesec, sinovi Izrailjevi bijahu u svojim gradovima.
 Tada se skupi sav narod jednodušno na ulicu koja je pred vratima vodenijem, i rekoše Jezdri književniku da donese knjigu zakona Mojsijeva koji dade Gospod Izrailju.
 I donese Jezdra sveštenik zakon pred zbor, u kom bjehu ljudi i žene i svi koji mogahu razumjeti, prvoga dana sedmoga mjeseca.
 I èita je na ulici koja je pred vratima vodenijem od jutra do podne pred ljudima i ženama i onijem koji mogahu razumjeti, i uši svemu narodu bijahu obraæene ka knjizi zakonskoj.
@@ -12550,6 +12550,7 @@ I carevi naši, knezovi naši i oci naši ne izvršivaše zakona tvojega niti ma
 Jer u carstvu svom i u velikom dobru tvom koje si im èinio, i u zemlji prostranoj i rodnoj koju si im dao, ne služiše tebi niti se povratiše od zlijeh djela svojih.
 Evo, mi smo danas robovi; i još u zemlji, koju si dao ocima našim da jedu rod njezin i dobra njezina, evo mi smo robovi u njoj.
 I ona rod svoj obilati raða carevima koje si postavio nad nama za grijehe naše, i koji gospodare nad našim tjelesima i nad stokom našom po svojoj volji, te smo u velikoj tjeskobi.
+A radi svega toga èinimo tvrd zavjet i pišemo, a knezovi naši, Leviti naši, sveštenici naši peèate.
 A koji zapeèatiše bjehu ovi: Nemija Tirsata, sin Ahalijin, i Sedekija,
 Seraja, Azarija, Jeremija,
 Pashor, Amarija, Malhija,
@@ -12589,7 +12590,6 @@ I prvence od sinova svojih i stoke svoje, kako piše u zakonu, i prvence od gove
 I prvine tijesta svojega i prinose svoje i rod od svijeh drveta, vino i ulje da donosimo sveštenicima u klijeti doma Boga svojega, i Levitima desetak od zemlje svoje, i Leviti da uzimaju desetak po svijem mjestima gdje uzradimo;
 I da bude sveštenik sin Aronov s Levitima kad Leviti uzimaju desetak, i da Leviti donose desetak od desetka u dom Boga našega, u klijeti, u spreme njegove.
 Jer u te klijeti dužni su sinovi Izrailjevi i Leviti donositi prinos od žita, od vina i ulja, gdje su sveti sudovi, i sveštenici koji služe, i vratari i pjevaèi, da ne ostavljamo doma Boga svojega.
-
 I naseliše se knezovi narodni u Jerusalimu, a ostali narod meta ždrijeb da uzmu jednoga od deset da sjedi u Jerusalimu svetom gradu, a ostalijeh devet dijelova po drugim gradovima.
 I blagoslovi narod sve ljude koji sami od svoje volje pristaše da sjede u Jerusalimu.
 Ovo su glavari zemaljski koji se naseliše u Jerusalimu, a po ostalijem gradovima Judejskim nastaniše se svaki na svojem našljedstvu po gradovima svojim Izrailjci, sveštenici i Leviti, Netineji i sinovi sluga Solomunovijeh:
@@ -13890,18 +13890,10 @@ Hoæeš li mu provuæi situ kroz nos? ili mu šiljkom provrtjeti èeljusti?
 Hoæe li te mnogo moliti, ili æe ti laskati?
 Hoæe li uèiniti vjeru s tobom da ga uzmeš da ti bude sluga dovijeka?
 Hoæeš li se igrati s njim kao sa pticom, ili æeš ga vezati djevojkama svojim?
-Hoæe li se njim èastiti drugovi? razdijeliti ga meðu trgovce?
-Hoæeš li mu napuniti kožu šiljcima i glavu ostvama?
-Digni na nj ruku svoju; neæeš više pominjati boja.
-Gle, zaludu je nadati mu se; kad ga samo ugleda èovjek, ne pada li?
-
-
-
-
-Nema slobodna koji bi ga probudio; a ko æe stati preda me?
-Ko mi je prije dao što, da mu vratim? što je god pod svijem nebom, moje je.
-Neæu muèati o udima njegovijem ni o sili ni o ljepoti stasa njegova.
-Ko æe mu uzgrnuti gornju odjeæu? k èeljustima njegovijem ko æe pristupiti?
+Hoæe li se njim èastiti drugovi? razdijeliti ga meðu trgovce? Nema slobodna koji bi ga probudio; a ko æe stati preda me?
+Hoæeš li mu napuniti kožu šiljcima i glavu ostvama? Ko mi je prije dao što, da mu vratim? što je god pod svijem nebom, moje je.
+Digni na nj ruku svoju; neæeš više pominjati boja. Neæu muèati o udima njegovijem ni o sili ni o ljepoti stasa njegova.
+Gle, zaludu je nadati mu se; kad ga samo ugleda èovjek, ne pada li? Ko æe mu uzgrnuti gornju odjeæu? k èeljustima njegovijem ko æe pristupiti?
 Vrata od grla njegova ko æe otvoriti? strah je oko zuba njegovijeh.
 Krljušti su mu jaki štitovi spojeni tvrdo.
 Blizu su jedna do druge da ni vjetar ne ulazi meðu njih.
@@ -13923,6 +13915,14 @@ Pod njim su oštri crepovi, stere sebi oštre stvari u glibu.
 Za sobom ostavlja svijetlu stazu, rekao bi da je bezdana osijedjela.
 Ništa nema na zemlji da bi se isporedilo s njim, da bi stvoreno bilo da se nièega ne boji.
 Što je god visoko prezire, car je nad svijem zvijerjem.
+
+
+
+
+
+
+
+
 
 Tada Jov odgovori Gospodu i reèe:
 Znam da sve možeš, i da se ne može smesti što naumiš.
@@ -13959,6 +13959,7 @@ Udariæeš ih gvozdenom palicom; razbiæeš ih kao lonèarski sud.”
 Sad, carevi, orazumite se; nauèite se sudije zemaljske!
 Služite Gospodu sa strahom, i radujte se s trepetom.
 Poštujte sina, da se ne razgnjevi, i vi ne izginete na putu svome; jer æe se gnjev njegov brzo razgorjeti. Blago svjema koji se u nj uzdaju!
+
 Gospode! kako je mnogo neprijatelja mojih! Mnogi ustaju na me.
 Mnogi govore za dušu moju: nema mu pomoæi od Boga.
 Ali ti si, Gospode, štit koji me zaklanja, slava moja; ti podižeš glavu moju.
@@ -14049,7 +14050,6 @@ Vratiæe se u pakao bezbožnici, svi narodi koji zaboravljaju Boga;
 Jer neæe svagda biti zaboravljen ubogi, i nada nevoljnicima neæe nigda poginuti.
 Ustani, Gospode, da se ne posili èovjek, i da prime narodi sud pred tobom.
 Pusti, Gospode, strah na njih; neka poznadu narodi da su ljudi.
-
 Zašto, Gospode, stojiš daleko, kriješ se kad je nevolja?
 S oholosti bezbožnikove muèe se ubogi; hvataju se ubogi prijevarom koju izmišljaju bezbožnici.
 Jer se bezbožnik dièi željom duše svoje, grabljivca pohvaljuje.
@@ -14075,6 +14075,7 @@ Gospod je u svetom dvoru svom, prijesto je Gospodnji na nebesima; oèi njegove g
 Gospod ispituje pravednoga; a bezbožnoga i kojemu je milo èiniti zlo nenavidi duša njegova.
 Pustiæe na bezbožnike dažd od živoga ugljevlja, ognja i sumpora; i ognjeni vjetar biæe im dio iz èaše;
 Jer je Gospod pravedan, ljubi pravdu; lice æe njegovo vidjeti pravednici.
+
 Pomagaj, Gospode; jer nesta svetijeh, jer je malo vjernijeh meðu sinovima èovjeèijim.
 Laž govore jedan drugome, usnama lažljivijem govore iz srca dvolièna.
 Istrijebiæe Gospod sva usta lažljiva, jezik velièavi,
@@ -14088,8 +14089,7 @@ Dokle æeš me, Gospode, sasvijem zaboravljati? dokle æeš odvraæati lice svoj
 Dokle æu se domišljati u duši svojoj, mutiti se u srcu svom dan i noæ? dokle æe se neprijatelj moj podizati nada mnom?
 Pogledaj, usliši me, Gospode, Bože moj! Prosvijetli oèi moje da ne zaspim na smrt.
 Da ne reèe neprijatelj moj: nadvladao sam ga; da se ne raduju koji me gone, ako posrnem.
-A ja se uzdam u milost tvoju; radovaæe se srce moje za spasenje tvoje.
-Pjevaæu Gospodu, koji mi dobro èini.
+A ja se uzdam u milost tvoju; radovaæe se srce moje za spasenje tvoje. Pjevaæu Gospodu, koji mi dobro èini.
 Reèe bezumnik u srcu svojem: nema Boga; nevaljali su, gadna su djela njihova; nema nikoga dobro da tvori.
 Gospod pogleda s neba na sinove èovjeèije, da vidi ima li koji razuman, traži li koji Boga.
 Svi su zašli, svi se pokvarili, nema nikoga dobro da tvori, nema nijednoga.
@@ -14128,6 +14128,7 @@ Oni su kao lav koji hoæe da rastrže, i kao laviæ koji sjedi u potaji.
 Ustani, Gospode, preteci ih, obori ih. Odbrani dušu moju maèem svojim od bezbožnika,
 Rukom svojom, Gospode, od ljudi ovijeh, od ljudi ovoga svijeta, kojima je dio ovaj život, kojima si trbuh napunio svoga bogatstva, da æe im i sinovi biti siti i ostatak ostaviti svojoj djeci.
 A ja æu u pravdi gledati lice tvoje; kad se probudim, biæu sit od prilike tvoje.
+
 Ljubiæu te, Gospode, krjeposti moja,
 Gospode, grade moj, zaklone moj, koji se oboriti ne može, izbavitelju moj, Bože moj, kamena goro, na kojoj se ne bojim zla, štite moj, rože spasenja mojega, utoèište moje!
 Prizivljem Gospoda, kojemu se klanjati valja, i opraštam se neprijatelja svojih.
@@ -14249,7 +14250,6 @@ Jer je Gospodnje carstvo; on vlada narodima.
 Ješæe i pokloniæe se svi pretili na zemlji; pred njim æe pasti svi koji slaze u prah, koji ne mogu saèuvati duše svoje u životu.
 Sjeme æe njihovo služiti njemu. Kazivaæe se za Gospoda rodu potonjemu.
 Doæi æe, i kazivaæe pravdu njegovu ljudima njegovijem, koji æe se roditi; jer je on uèinio ovo.
-
 Gospod je pastir moj, ništa mi neæe nedostajati.
 Na zelenoj paši pase me, vodi me na tihu vodu.
 Dušu moju oporavlja, vodi me stazama pravednim imena radi svojega.
@@ -14334,6 +14334,7 @@ Glas Gospodnji potresa pustinju, potresa Gospod pustinju Kades.
 Glas Gospodnji oprašta košute bremena, i sa šuma skida odijelo; i u crkvi njegovoj sve govori o slavi njegovoj.
 Gospod je sjedio nad potopom, i sjedjeæe Gospod kao car uvijek.
 Gospod æe dati silu narodu svojemu, Gospod æe blagosloviti narod svoj mirom.
+
 Uzvišivaæu te, Gospode, jer si me oteo, i nijesi dao neprijateljima mojim da mi se svete.
 Gospode, Bože moj! zavikah k tebi, i iscijelio si me.
 Gospode! izveo si iz pakla dušu moju, i oživio si me da ne siðem u grob.
@@ -14371,7 +14372,6 @@ Da je blagosloven Gospod, što mi pokaza divnu milost kao da me uvede u tvrd gra
 Ja rekoh u smetnji svojoj: odbaèen sam od oèiju tvojijeh; ali ti èu molitveni glas moj, kad te prizvah.
 Ljubite Gospoda svi sveti njegovi; Gospod drži vjeru; i uvršeno vraæa onima koji postupaju oholo.
 Budite slobodni, i neka bude jako srce vaše, svi koji se u Gospoda uzdate.
-
 Blago onome, kojemu je oproštena krivica, kojemu je grijeh pokriven.
 Blago èovjeku, kojemu Gospod ne prima grijeha i u èijem duhu nema lukavstva.
 Kad muèah, posahnuše kosti moje od uzdisanja mojega po vas dan.
@@ -14405,6 +14405,7 @@ On æe dušu njihovu izbaviti od smrti, i prehraniti ih u gladne godine.
 Duša se naša uzda u Gospoda; on je pomoæ naša i štit naš.
 O njemu se veseli srce naše; jer se u sveto ime njegovo uzdamo.
 Da bude milost tvoja, Gospode, na nama, kao što se uzdamo u tebe.
+
 Blagosiljam Gospoda u svako doba, hvala je njegova svagda u ustima mojima.
 Gospodom se hvali duša moja; neka èuju koji stradaju, pa neka se raduju.
 Velièajte Gospoda sa mnom, uzvišujmo ime njegovo zajedno.
@@ -14427,7 +14428,6 @@ Mnogo nevolje ima pravednik, ali ga od svijeh izbavlja Gospod.
 Èuva Gospod sve kosti njegove, nijedna se od njih neæe slomiti.
 Bezbožnika ubiæe zlo, i koji nenavide pravednika prevariæe se.
 Gospod iskupljuje dušu sluga svojih, i koji se god u njega uzdaju, neæe se prevariti.
-
 Gospode! budi suparnik suparnicima mojim; udri one koji udaraju na me.
 Uzmi oružje i štit, i digni se meni u pomoæ.
 Potegni koplje, i presijeci put onima koji me gone, reci duši mojoj: ja sam spasenje tvoje.
@@ -14456,6 +14456,7 @@ Ne daj da govore u srcu svojem: dobro! to smo htjeli! Ne daj da govore: proždri
 Nek se postide i posrame svi koji se raduju zlu mojemu, nek se obuku u stid i u sram koji se razmeæu nada mnom.
 Neka se raduju i vesele koji mi žele pravdu, i govore jednako: velik Gospod, koji želi mira sluzi svojemu!
 I moj æe jezik kazivati pravdu tvoju, i hvalu tebi svaki dan.
+
 Bezakoniku je bezbožna rijeè u srcu; nema straha Božijega pred oèima njegovijem.
 Ali laže sebi u oèi, mjesto da prizna svoje bezakonje i omrzne na nj.
 Rijeèi su usta njegovijeh nepravda i lukavstvo, neæe da se opameti da tvori dobro.
@@ -14468,7 +14469,6 @@ Jer je u tebe izvor životu, tvojom svjetlošæu vidimo svjetlost.
 Raširi milost svoju na one koji te znadu, i pravdu svoju na dobra srca.
 Ne daj da stane na mene noga ohola, i ruka bezbožnièka da me zaljulja.
 Onamo neka padnu koji èine bezakonje, neka se stropoštaju i ne mogu ustati.
-
 Nemoj se žestiti gledajuæi nevaljale, nemoj zavidjeti onima koji èine bezakonje.
 Jer se kao trava brzo kose, i kao zeleno bilje venu.
 Uzdaj se u Gospoda i tvori dobro; živi na zemlji i hrani istinu.
@@ -14509,6 +14509,7 @@ Hrani èistotu i pazi pravdu, jer æe u èovjeka mirna ostati natražje.
 A bezakonika æe nestati sasvijem; natražje æe se bezbožnièko zatrti.
 Od Gospoda je spasenje pravednicima; on je krjepost njihova u nevolji.
 Gospod æe im pomoæi, i izbaviæe ih; izbaviæe ih od bezbožnika, i saèuvaæe ih, jer se u njega uzdaju.
+
 Gospode! nemoj me karati u gnjevu svojem, niti me nakazati u jarosti svojoj.
 Jer strijele tvoje ustrijeliše me, i ruka me tvoja tišti.
 Nema zdrava mjesta na tijelu mojem od gnjeva tvojega; nema mira u kostima mojim od grijeha mojega.
@@ -14589,12 +14590,12 @@ Danju je javljao Gospod milost svoju, a noæu mu je pjesma u mene, molitva Bogu 
 Reæi æu Bogu, gradu svojemu: zašto si me zaboravio? zašto idem sjetan od pakosti neprijateljeve?
 Koji mi pakoste, prebijajuæi kosti moje, rugaju mi se govoreæi mi svaki dan: gdje ti je Bog?
 Što si klonula, dušo moja, i što si žalosna? Uzdaj se u Boga; jer æu ga još slaviti, spasitelja mojega i Boga mojega.
-
 Sudi mi, Bože, i raspravi parbu moju s narodom rðavim! od èovjeka nepravednoga i lukavoga izbavi me.
 Jer si ti Bog krjeposti moje; zašto si me odbacio? Zašto idem sjetan od pakosti neprijateljeve?
 Pošlji vidjelo svoje i istinu svoju, neka me vode, i izvedu na svetu goru tvoju i u dvorove tvoje.
 Onda æu pristupiti k žrtveniku Božijemu, k Bogu radosti i veselja svojega, i uz gusle slaviæu te, Bože, Bože moj!
 Što si klonula, dušo moja, i što si žalosna? Uzdaj se u Boga; jer æu ga još slaviti, spasitelja mojega i Boga mojega.
+
 Bože, svojim ušima slušasmo, oci nam naši pripovijedaše djelo koje si uèinio u njihovo vrijeme, u staro vrijeme.
 Rukom svojom izgnao si narode, a njih posadio; iskorijenio si plemena, a njih namnožio.
 Jer ne zadobiše zemlje svojim maèem, niti im mišica njihova pomože, nego tvoja desnica i tvoja mišica, i svjetlost lica tvojega, jer ti bijahu omiljeli.
@@ -14697,7 +14698,6 @@ Jer kad umre, neæe ništa ponijeti, niti æe poæi za njim slava njegova.
 Jer dušu njegovu blagosiljaju za života njegova, i slave tebe, što ugaðaš sebi.
 Ali æe on otiæi u stan otaca svojih, gdje svijeta nigda ne vide.
 Èovjek u èasti, ako nije razuman, izjednaèiæe se sa stokom, koju kolju.
-
 Bog nad bogovima, Gospod, govori, i doziva zemlju od istoka sunèanoga do zapada.
 Sa Siona, koji je vrh krasote, javlja se Bog.
 Ide Bog naš, i ne muèi; pred njim je oganj koji proždire, oko njega je bura velika.
@@ -14721,6 +14721,8 @@ Sjediš i govoriš na brata svojega, sina matere svoje opadaš.
 Ti si to èinio, ja muèah, a ti pomisli da sam ja kao ti. Oblièiæu te, metnuæu ti pred oèi grijehe tvoje.
 Razumijte ovo koji zaboravljate Boga! inaèe æu zgrabiti, pa neæe niko izbaviti.
 Onaj mene poštuje koji prinosi hvalu na žrtvu i koji je putem na opazu. Ja æu mu pokazati spasenje Božije.
+
+
 Smiluj se na me, Bože, po milosti svojoj, i po velikoj dobroti svojoj oèisti bezakonje moje.
 Operi me dobro od bezakonja mojega, i od grijeha mojega oèisti me.
 Jer ja znam prijestupe svoje, i grijeh je moj jednako preda mnom.
@@ -14752,13 +14754,13 @@ Gle èovjeka koji ne držaše u Bogu krjeposti svoje, nego se uzdaše u velièin
 A ja, kao maslina zelena u domu Gospodnjem, uzdam se u milost Božiju bez prestanka i dovijeka.
 Dovijeka æu hvaliti tebe, jer dobro èiniš, i uzdaæu se u ime tvoje; jer si dobar k svecima svojim.
 
-
 Reèe bezumnik u srcu svojemu: nema Boga; pronevaljališe se i zagrdješe u bezakonju, nema nikoga dobro da tvori.
 Bog s neba pogleda na sinove èovjeèije da vidi ima li koji razuman, i traži li koji Boga.
 Svi zastraniše, svi se pokvariše, nema nikoga dobro da tvori, nema ni jednoga.
 Zar neæe da se orazume koji god èine bezakonje, jedu narod moj kao što jedu hljeb, i ne prizivaju Boga?
 Drktaæe od straha gdje straha nema. Jer æe Bog rasuti kosti onijeh koji ustaju na tebe. Ti æeš ih posramiti, jer ih Bog odvrže.
 Ko æe poslati sa Siona spasenje Izrailju? Kad Bog povrati zarobljeni narod svoj, radovaæe se Jakov, veseliæe se Izrailj.
+
 
 Bože! imenom svojim pomozi mi, i krjepošæu svojom odbrani me na sudu.
 Bože! usliši molitvu moju, èuj rijeèi usta mojih.
@@ -14767,7 +14769,6 @@ Gle, Bog je pomoænik moj, Gospod daje snagu duši mojoj.
 Obratiæe zlo na neprijatelje moje, istinom svojom istrijebiæe ih.
 Rado æu prinijeti žrtvu, proslaviæu ime tvoje, Gospode, jer je dobro.
 Jer me izbavljaš od svake nevolje, i na neprijatelje moje bez straha gleda oko moje.
-
 
 Usliši, Bože, molitvu moju, i nemoj se sakriti od moljenja mojega.
 Pazi, i saslušaj me; cvilim u jadu svom i uzdišem
@@ -14849,6 +14850,7 @@ Neka tumaraju tražeæi hrane, i ne nasitivši se neka noæi provode.
 A ja æu pjevati silu tvoju, rano ujutru glasiti milost tvoju; jer si mi bio obrana i utoèište u dan nevolje moje.
 Silo moja! tebi æu pjevati, jer si ti Bog èuvar moj, Bog koji me miluje.
 
+
 Bože, rasrdio si se na nas, rasuo si nas, gnjevio si se; povrati nas.
 Zatresao si zemlju, i razvalio si je; stegni rasjeline njezine, jer se njiha.
 Dao si narodu svojemu da pozna ljutu nevolju, napojio si nas vina od kojega se zanesosmo.
@@ -14861,7 +14863,6 @@ Ko æe me odvesti u tvrdi grad? Ko æe me otpratiti do Edoma?
 Zar neæeš ti, Bože, koji si nas odbacio, i ne ideš, Bože, s vojskom našom?
 Daj nam pomoæ u tjeskobi. A obrana je èovjeèija uzalud.
 Bogom smo jaki; on gazi neprijatelje naše.
-
 
 Èuj, Bože, viku moju, slušaj molitvu moju.
 Od kraja zemlje vièem k tebi, kad klonu srce moje. Izvedi me na goru, gdje se ne mogu popeti.
@@ -14921,7 +14922,6 @@ Brazde njezine napajaš, ravniš grude njezine, kišnim kapljama razmekšavaš j
 Ti vjenèavaš godinu, kojoj dobro èiniš; stope su tvoje pune masti.
 Tiju paše po pustinjama, i humovi se opasuju radošæu.
 Luke se osipaju stadima, i polja se zaodijevaju pšenicom; vesele se i pjevaju.
-
 Poklikni Bogu, sva zemljo!
 Zapjevajte slavu imenu njegovu, dajte mu hvalu i slavu.
 Recite Bogu: kako si strašan u djelima svojim! radi velike sile tvoje laskaju ti neprijatelji tvoji.
@@ -14942,6 +14942,7 @@ K njemu zavikah ustima svojim, i jezikom svojim proslavih ga.
 Da sam vidio u srcu svom bezakonje, ne bi me uslišio Gospod.
 Ali Bog usliši, primi glas moljenja mojega.
 Blagosloven Bog, koji ne odvrže molitve moje i ne ostavi me bez milosti svoje!
+
 Bože, budi nam milostiv i blagosiljaj nas, obasjavaj nas licem svojim,
 Da bi se znao na zemlji put tvoj, po svima narodima spasenje tvoje.
 Da te slave narodi, Bože, da te slave svi narodi!
@@ -15028,7 +15029,6 @@ Nek se postide i posrame koji traže dušu moju! Nek ustupe natrag, i osramote s
 Sa stidom nek se vrate natrag koji mi govore: ha! ha!
 Nek se tješe i vesele tobom koji traže tebe, i koji ljube spasenje tvoje, neka jednako govore: velik je Bog!
 A ja sam ništ i ubog, Bože, pohitaj k meni! ti si pomoæ moja i izbavitelj moj, Gospode, ne èasi!
-
 U tebe se, Gospode, uzdam, nemoj me ostaviti pod sramotom vjeènom.
 Pravdom svojom izbavi me, i oprosti me, prigni k meni uho svoje i pomozi mi.
 Budi mi grad gdje bih svagda dolazio da živim, uredi spasenje moje; jer si ti grad moj i krjepost moja.
@@ -15124,6 +15124,7 @@ Pogledaj na zavjet; jer su sve peæine zemaljske pune stanova bezakonja.
 Nevoljnik nek se ne vrati sramotan, ništi i ubogi neka hvale ime tvoje.
 Ustani, Bože, brani stvar svoju, opomeni se kako ti se bezumnik ruga svaki dan!
 Ne zaboravi obijesti neprijatelja svojih, vike, koju jednako dižu protivnici tvoji!
+
 Hvalimo te, Bože, hvalimo; blizu je ime tvoje. Za tebe kazuju èudesa tvoja.
 “Kad vidim da je vrijeme, sudiæu pravo.
 Njiha se zemlja sa svijema koji žive na njoj, ja utvrðujem stupove njezine.”
@@ -15168,7 +15169,6 @@ Iz oblaka lijaše voda, oblaci davahu glas, i strijele tvoje leæahu.
 Grmljahu gromovi tvoji po nebu; munje tvoje sijevahu po vasiljenoj, zemlja se tresijaše i njihaše.
 Po moru bijaše put tvoj, i staze tvoje po velikoj vodi, i trag tvoj ne poznavaše se.
 Vodio si narod svoj kao ovce rukom Mojsijevom i Aronovom.
-
 Èuj, narode moj, nauk moj, prigni uho svoje k rijeèima usta mojih.
 Otvoram za prièu usta svoja, kazaæu stare pripovijetke.
 Što slušasmo i doznasmo, i što nam kazivaše oci naši,
@@ -15254,6 +15254,7 @@ Zašto da govore neznabošci: gdje je Bog njihov? Neka se pokaže pred oèima na
 Neka izaðu pred lice tvoje uzdasi sužanjski, silom mišice svoje saèuvaj namijenjene smrti.
 Sedminom vrati u njedra susjedima našim ruženje, kojim te ružiše, Gospode!
 A mi narod tvoj i ovce paše tvoje dovijeka æemo tebe slaviti i od koljena na koljeno kazivati hvalu tvoju.
+
 Pastire Izrailjev, èuj! koji vodiš sinove Josifove kao ovce, koji sjediš na heruvimima, javi se!
 Pred Jefremom i Venijaminom i Manasijom probudi krjepost svoju, i hodi da nam pomožeš.
 Bože! povrati nas, neka zasja lice tvoje da se spasemo!
@@ -15290,7 +15291,6 @@ O kad bi narod moj slušao mene, i sinovi Izrailjevi hodili putovima mojim!
 Brzo bih pokorio neprijatelje njihove, i na protivnike njihove digao bih ruku svoju;
 Koji mrze na Gospoda, bili bi im pokorni, i dobri dani njihovi bili bi dovijeka;
 Najboljom bi pšenicom hranio njih, i medom bih iz kamena sitio ih.”
-
 Bog stade na saboru Božijem, usred bogova izreèe sud:
 “Dokle æete suditi nepravo, i bezbožnicima gledati ko je ko?
 Sudite ubogome i siroti, onoga koga gone i ništega pravdajte.
@@ -15299,6 +15299,7 @@ Ne poznaše, niti razumješe, hode po tami; zadrmaše se zemlji svi temelji.
 Rekoh: bogovi ste, i sinovi višnjega svi.
 Ali æete kao ljudi pomrijeti, i kao svaki knez pašæete.”
 Ustani, Bože, sudi zemlji; jer su tvoji po našljedstvu svi narodi.
+
 Bože! nemoj zamuknuti, nemoj šutjeti, niti poèivaj, Bože!
 Jer evo neprijatelji tvoji uzavreše, i koji te nenavide, podigoše glavu.
 Po narod tvoj zlo naumiše, i dogovaraju se na izbrane tvoje.
@@ -15344,7 +15345,6 @@ Milost i istina srešæe se, pravda i mir poljubiæe se.
 Istina æe niknuti iz zemlje i pravda æe s neba priniknuti.
 I Gospod æe dati dobro, i zemlja naša daæe plod svoj.
 Pravda æe pred njim iæi, i postaviæe na put stope svoje.
-
 Prigni, Gospode! uho svoje i usliši me, jer sam nevoljan i ništ.
 Saèuvaj dušu moju, jer sam tvoj poklonik. Spasi slugu svojega, Bože moj, koji se u te uzda.
 Smiluj se na me, Gospode, jer k tebi vièem vas dan.
@@ -15369,6 +15369,7 @@ Slavno kazuju za tebe, grade Božji!
 O Sionu æe se govoriti: taj se i taj rodio u njemu; sam višnji utvrðuje ga.
 Gospod æe u prijepisu naroda zavikati: ovaj se rodio u njemu.
 I koji pjevaju i vesele se, svi su izvori moji u tebi.
+
 Gospode Bože, spasitelju moj, danju vièem i noæu pred tobom.
 Nek izaðe preda te molitva moja, prigni uho svoje k jauku mojemu;
 Jer je duša moja puna jada, i život se moj primaèe paklu.
@@ -15440,7 +15441,6 @@ Gdje su preðašnje milosti tvoje, Gospode? Kleo si se Davidu istinom svojom.
 Opomeni se, Gospode, prijekora sluga svojih, koji nosim u njedrima svojim od svijeh silnijeh naroda,
 Kojim kore neprijatelji tvoji, Gospode, kojim kore trag pomazanika tvojega.
 Blagosloven Gospod uvijek! Amin, amin.
-
 Gospode! ti si nam utoèište od koljena do koljena.
 Prije nego se gore rodiše i sazda se zemlja i vasiljena, i od vijeka i do vijeka ti si Bog.
 Ti povraæaš èovjeka u truhlež, i govoriš: vratite se sinovi ljudski!
@@ -15474,6 +15474,7 @@ Na lava i na aspidu nastupaæeš i gaziæeš laviæa i zmaja.
 “Kad me ljubi, izbaviæu ga; zakloniæu ga, kad je poznao ime moje.
 Zazvaæe me, i uslišiæu ga; s njim æu biti u nevolji, izbaviæu ga i proslaviæu ga.
 Duga života nasitiæu ga, i pokazaæu mu spasenje svoje.”
+
 Lijepo je hvaliti Gospoda, i pjevati imenu tvojemu, višnji,
 Javljati jutrom milost tvoju, i istinu tvoju noæu,
 Uz deset žica i uz psaltir, i uz jasne gusle!
@@ -15489,7 +15490,6 @@ Pravednik se zeleni kao finik, kao kedar na Livanu uzvišuje se.
 Koji su zasaðeni u domu Gospodnjem, zelene se u dvorovima Boga našega;
 Rodni su i u starosti, jedri i zeleni,
 Javljajuæi da je pravedan Gospod, braniè moj, i da nema u njemu nepravde.
-
 Gospod caruje. Obukao se u velièanstvo, obukao se Gospod u silu, i opasao se. Zato je vasiljena tvrda, i neæe se pomjeriti.
 Prijesto tvoj stoji od iskona; od vijeka ti si.
 Podižu rijeke, Gospode, podižu rijeke glas svoj, podižu rijeke vale svoje:
@@ -15585,6 +15585,7 @@ Ko tajno opada bližnjega svojega, toga izgonim; ko je ohola oka i naduta srca, 
 Oèi su moje obraæene na vjerne na zemlji, da bi sjedjeli sa mnom. Ko hodi putem pravijem, taj služi meni.
 Ne živi u domu mojem koji radi lukavo; koji govori laž, ne stoji pred oèima mojima.
 Jutrom zatirem sve bezbožnike na zemlji, da bih istrijebio iz grada Gospodnjega sve koji èine bezakonje.
+
 Gospode! èuj molitvu moju, i vika moja nek izaðe preda te.
 Nemoj odvratiti lica svojega od mene; u dan kad sam u nevolji prigni k meni uho svoje, u dan kad te prizivam, pohitaj, usliši me.
 Jer proðoše kao dim dani moji, kosti moje kao topionica ogorješe.
@@ -15613,7 +15614,6 @@ Davno si postavio zemlju, i nebesa su djelo ruku tvojih.
 To æe proæi, a ti æeš ostati; sve æe to kao haljina ovetšati, kao haljinu promijeniæeš ih i promijeniæe se.
 Ali ti si taj isti i godine tvoje neæe isteæi.
 Sinovi æe sluga tvojih živjeti, i sjeme æe se njihovo utvrditi pred licem tvojim.
-
 Blagosiljaj, dušo moja, Gospoda, i sve što je u meni sveto ime njegovo.
 Blagosiljaj, dušo moja, Gospoda, i ne zaboravljaj nijednoga dobra što ti je uèinio.
 On ti prašta sve grijehe i iscjeljuje sve bolesti tvoje;
@@ -15807,6 +15807,7 @@ On sipa sramotu na knezove, i ostavlja ih da lutaju po pustinji gdje nema putova
 On izvlaèi ubogoga iz nevolje, i plemena množi kao stado.
 Dobri vide i raduju se, a svako nevaljalstvo zatiskuje usta svoja.
 Ko je mudar, neka zapamti ovo, i neka poznadu milosti Gospodnje.
+
 Gotovo je srce moje, Bože; pjevaæu i hvaliæu zajedno sa slavom svojom.
 Preni se psaltire i gusle, ustaæu rano.
 Slaviæu tebe, Gospode, po narodima, pojaæu tebi po plemenima.
@@ -15820,7 +15821,6 @@ Ko æe me odvesti u tvrdi grad? ko æe me otpratiti do Edoma?
 Zar neæeš ti, Bože, koji si nas odbacio, i ne ideš, Bože, s vojskama našim?
 Daj nam pomoæ u tjeskobi, obrana je èovjeèija uzalud.
 Bogom smo jaki; on gazi neprijatelje naše.
-
 Bože, slavo moja, nemoj muèati,
 Jer se usta bezbožnièka i usta lukava na me otvoriše; govore sa mnom jezikom lažljivijem.
 Rijeèima zlobnijem sa svijeh strana gone me, i oružaju se na me ni za što.
@@ -16329,6 +16329,7 @@ Zar da ne mrzim na one, koji na te mrze, Gospode, i da se ne gadim na one koji u
 Punom mrzošæu mrzim na njih; neprijatelji su mi.
 Okušaj me, Bože, i poznaj srce moje, ispitaj me, i poznaj pomisli moje.
 I vidi jesam li na zlu putu, i vodi me na put vjeèni.
+
 Izbavi me, Gospode, od èovjeka zloga, saèuvaj me od nasilnika,
 Koji pomišljaju zlo u srcu i svaki dan podižu rat;
 Oštre jezik svoj kao zmija, jed je aspidin u ustima njihovijem.
@@ -16342,7 +16343,6 @@ Neka padne na njih živo ugljevlje; neka ih on baci u oganj, u propasti, da ne u
 Èovjek jezièan neæe se utvrditi na zemlji, nepravednoga æe zloæa uvaliti u pogibao.
 Znam da æe Gospod pokazati pravdu nevoljnome i pravicu ubogima.
 Da! pravedni æe slaviti ime tvoje, pravi æe ostati pred licem tvojim.
-
 Gospode, vièem k tebi, pohiti k meni, èuj glas moljenja mojega, kad vièem k tebi.
 Nek izaðe molitva moja kao kad pred lice tvoje, dizanje ruku mojih kao prinos veèernji.
 Postavi, Gospode, stražu kod jezika mojega, èuvaj vrata usta mojih.
@@ -16353,6 +16353,7 @@ Kao kad ko sijeèe i teše, tako se razletješe kosti naše do èeljusti pakleni
 Ali su k tebi, Gospode, Gospode, upravljene oèi moje, u tebe se uzdam, nemoj odbaciti duše moje.
 Saèuvaj me od zamke, koju mi metnuše, od lukavstva onijeh, koji èine bezakonje.
 Pašæe u mreže svoje bezbožnici, a ja æu jedan proæi.
+
 Glasom svojim ka Gospodu vièem, glasom svojim Gospodu se molim.
 Izlivam pred njim moljenje svoje, tugu svoju pred njim kazujem,
 Kad iznemogne u meni duh moj. Ti znaš stazu moju. Na putu, kojim hodim, sakriše mi zamku.
@@ -16360,7 +16361,6 @@ Pogledam nadesno, i vidim da me niko ne zna; nestade mi utoèišta, niko ne mari
 Vièem k tebi, Gospode; velim: ti si utoèište moje, dio moj na zemlji živijeh.
 Èuj tužnjavu moju; jer se muèim veoma. Izbavi me od onijeh koji me gone, jer su jaèi od mene.
 Izvedi iz tamnice dušu moju, da slavim ime tvoje. Oko mene æe se skupiti pravednici, kad mi uèiniš dobro.
-
 Gospode, usliši molitvu moju, primi moljenje moje po istini svojoj, usliši me po pravdi svojoj.
 I ne idi na sud sa slugom svojim, jer se neæe opravdati pred tobom niko živ.
 Neprijatelj goni dušu moju, gazi u prah život moj, posaðuje me u mrak, kao davno pomrle.
@@ -17465,7 +17465,6 @@ Bolje je dijete ubogo a mudro nego car star a bezuman, koji se veæ ne zna pouè
 Jer jedan izlazi iz tamnice da caruje, a drugi koji se rodi da caruje osiromaši.
 Vidjeh sve žive koji hode pod suncem gdje pristaju za djetetom drugim, koje æe stupiti na njegovo mjesto.
 Nema kraja narodu koji bijaše pred njim, a koji poslije nastanu neæe se radovati njemu. I to je taština i muka duhu.
-
 Èuvaj nogu svoju kad ideš u dom Božji, i pristupi da slušaš; to je bolje nego što bezumni daju žrtve, jer ne znaju da zlo èine.
 Nemoj nagliti ustima svojim, i srce tvoje da ne bude brzo izgovoriti što pred Bogom, jer je Bog na nebu a ti si na zemlji, zato neka bude malo rijeèi tvojih.
 Jer san dolazi od mnogoga posla, a glas bezumnikov od mnogih rijeèi.
@@ -17485,6 +17484,7 @@ I to je ljuto zlo što odlazi kako je došao; i kaka mu je korist što se trudio
 I svega vijeka svojega jeo u mraku, i mnogo se brinuo i žalostio i ljutio?
 Eto, to vidjeh da je dobro i lijepo èovjeku da jede i pije i uživa dobro od svega truda svojega kojim se trudi pod nebom za života svojega, koji mu Bog da, jer mu je to dio.
 I kad kome Bog da bogatstvo i blago, i da mu da uživa i uzima svoj dio i da se veseli s truda svojega, to je dar Božji.
+Jer se neæe mnogo opominjati dana života svojega, jer mu Bog daje da mu je srce veselo.
 Ima zlo koje vidjeh pod suncem i èesto je meðu ljudima:
 Nekome Bog da bogatstvo i blago i slavu, te duša njegova ima sve što god želi, ali mu ne da Bog da to uživa, nego uživa drugi. To je taština i ljuto zlo.
 Da bi ko rodio sto sinova i živio mnogo godina i dani bi se vijeka njegova veoma namnožili, a duša se njegova ne bi nasitila dobra, te ni pogreba ne bi imao, kažem da je bolje nedonošèe od njega.
@@ -17694,6 +17694,7 @@ Ko je ona što se vidi kao zora, lijepa kao mjesec, èista kao sunce, strašna k
 Siðoh u orašje da vidim voæe u dolu, da vidim cvate li vinova loza, pupe li šipci.
 Ne doznah ništa, a duša me moja posadi na kola Aminadavova.
 Vrati se, vrati se Sulamko, vrati se, vrati se, da te gledamo. Šta æete gledati na Sulamci? kao èete vojnièke.
+
 Kako su lijepe noge tvoje u obuæi, kæeri kneževska; sastavci su bedara tvojih kao grivne, djelo ruku umjetnièkih.
 Pupak ti je kao èaša okrugla, koja nije nikad bez piæa; trbuh ti je kao stog pšenice ograðen ljiljanima;
 Dvije dojke tvoje kao dva blizanca srnèeta;
@@ -17707,7 +17708,6 @@ Ja sam dragoga svojega, i njega je želja za mnom.
 Hodi, dragi moj, da idemo u polje, da noæujemo u selima.
 Raniæemo u vinograde da vidimo cvate li vinova loza, zameæe li se grožðe, cvatu li šipci; ondje æu ti dati ljubav svoju.
 Mandragore puštaju miris, i na vratima je našim svakojako krasno voæe, novo i staro, koje za te dohranih, dragi moj.
-
 O da bi mi brat bio, da bi sao sise matere moje! našavši te na polju poljubila bih te, i ne bih bila prijekorna.
 Povela bih te i dovela bih te u kuæu matere svoje; ti bi me uèio, a ja bih te pojila vinom mirisavijem, sokom od šipaka.
 Lijeva je ruka njegova meni pod glavom a desnom me grli.
@@ -17897,7 +17897,6 @@ I ako vam reku: pitajte vraèe i gatare, koji šapæu i mrmljaju; recite: ne tre
 Zakon i svjedoèanstvo tražite. Ako li ko ne govori tako, njemu nema zore.
 I hodiæe po zemlji potucajuæi se i gladujuæi; i kad bude gladan, ljutiæe se i psovati cara svojega i Boga svojega gore.
 A kad pogleda na zemlju, a to nevolja i mrak i teška muka, i on zagnan u tamu.
-
 Ali neæe se onako zamraèiti pritiješnjena zemlja kao prije kad se dotaèe zemlje Zavulonove i zemlje Neftalimove, ili kao poslije kad dosaðivaše na putu k moru s one strane Jordana Galileji neznabožaèkoj.
 Narod koji hodi u tami vidjeæe vidjelo veliko, i onima koji sjede u zemlji gdje je smrtni sjen zasvijetliæe vidjelo.
 Umnožio si narod, a nijesi mu uvelièao radosti; ali æe se radovati pred tobom kao što se raduju o žetvi, kao što se vesele kad dijele plijen.
@@ -17918,6 +17917,7 @@ Zato se Gospod neæe radovati mladiæima njegovijem, i na sirote njegove i na ud
 Jer æe se razgorjeti bezbožnost kao oganj, koji sažeže èkalj i trnje, pa upali gustu šumu, te otide u dim visoko.
 Od gnjeva Gospoda nad vojskama zamraèiæe se zemlja i narod æe biti kao hrana ognju, niko neæe požaliti brata svojega.
 I zgrabiæe s desne strane, pa æe opet biti gladan, i ješæe s lijeve strane, pa se opet neæe nasititi; svaki æe jesti meso od mišice svoje,
+Manasija Jefrema, i Jefrem Manasiju, a obojica æe se složiti na Judu. Kod svega toga neæe se odvratiti gnjev njegov, nego æe ruka njegova još biti podignuta.
 Teško onima koji postavljaju zakone nepravedne i koji pišu nepravdu,
 Da odbiju od suda uboge, i da otimaju pravicu siromasima naroda mojega, da bi im plijen bile udovice i sirote grabež.
 A što æete èiniti u dan pohoðenja i pogibli koja æe doæi izdaleka? kome æete pribjeæi za pomoæ? gdje li æete ostaviti slavu svoju?
@@ -18953,8 +18953,7 @@ Ti si zaista otac naš, ako i ne zna Avram za nas, i Izrailj nas ne poznaje; ti 
 Zašto si nam dao da zaðemo, Gospode, s putova tvojih? da nam otvrdne srce da te se ne bojimo? Vrati se radi sluga svojih, radi plemena našljedstva svojega.
 Za malo naslijedi narod svetosti tvoje; neprijatelji naši pogaziše svetinju tvoju.
 Postasmo kao oni kojima nijesi nigda vladao niti je prizivano ime tvoje nad njima.
-O da bi razdro nebesa i sišao, da se rastope gore od tebe,
-Kao što se na ognju razgori granje i voda uzavri od ognja, da ime tvoje poznadu neprijatelji tvoji i da narodi drkæu od tebe.
+O da bi razdro nebesa i sišao, da se rastope gore od tebe, Kao što se na ognju razgori granje i voda uzavri od ognja, da ime tvoje poznadu neprijatelji tvoji i da narodi drkæu od tebe.
 Kad si èinio strahote kojima se ne nadasmo, ti si slazio, i gore se rastapahu od tebe.
 Otkako je vijeka ne èu se, niti se ušima dozna, niti oko vidje Boga osim tebe da bi tako uèinio onima koji ga èekaju.
 Sretao si onoga koji se raduje tvoreæi pravdu; pominju te na putovima tvojim; gle, ti si se razgnjevio što griješismo; da na njima jednako ostasmo, bismo se spasli.
@@ -18964,6 +18963,7 @@ Ali sada, Gospode, ti si naš otac; mi smo kao, a ti si naš lonèar, i svi smo 
 Gospode, ne gnjevi se veoma, i ne pominji dovijeka bezakonja; evo, pogledaj; mi smo svi tvoj narod.
 Gradovi svetosti tvoje opustješe; Sion opustje, Jerusalim posta pustoš.
 Dom naše svetinje i naše krasote, u kom te slaviše oci naši, izgorje ognjem, i sve što nam bješe drago potrveno je.
+Hoæeš li se na to uzdržati, Gospode, i muèati, i jednako nas muèiti?
 Potražiše me koji ne pitahu za me; naðoše me koji me ne tražahu; rekoh narodu koji se ne zove mojim imenom: evo me, evo me.
 Vas dan pružah ruke svoje narodu nepokornu, koji ide za svojim mislima putem koji nije dobar,
 Narodu, koji me jednako gnjevi u oèi, koji prinosi žrtve u vrtovima i kadi na opekama;
@@ -19242,7 +19242,6 @@ Eto vike kæeri naroda mojega iz daljne zemlje: zar Gospod nije u Sionu? car nje
 Žetva je prošla, ljeto minulo, a mi se ne izbavismo.
 Satrven sam što je kæi naroda mojega satrvena, u žalosti sam, èudo osvoji me.
 Nema li balsama u Galadu? nema li ondje ljekara? zašto se dakle ne iscijeli kæi naroda mojega?
-
 O, da bi glava moja bila voda, a oèi moje izvori suzni! da plaèem danju i noæu za pobijenima kæeri naroda svojega.
 O, da mi je u pustinji stanak putnièki! da ostavim narod svoj i da otidem od njih, jer su svi preljuboèinci, zbor nevjernièki;
 I zapinju jezik svoj kao luk da lažu, i osiliše na zemlji, ali ne za istinu, nego idu iz zla u zlo, niti znaju za me, govori Gospod.
@@ -19268,6 +19267,7 @@ Reci: ovako govori Gospod: i mrtva æe tjelesa ljudska ležati kao gnoj po njivi
 Ovako veli Gospod: mudri da se ne hvali mudrošæu svojom, ni jaki da se ne hvali snagom svojom, ni bogati da se ne hvali bogatstvom svojim.
 Nego ko se hvali, neka se hvali tijem što razumije i poznaje mene da sam ja Gospod koji èinim milost i sud i pravdu na zemlji, jer mi je to milo, govori Gospod.
 Eto, idu dani, veli Gospod, kad æu pohoditi sve, obrezane i neobrezane,
+Misirce i Judejce i Edomce i sinove Amonove i Moavce i sve koji se s kraja strigu, koji žive u pustinji; jer su svi ti narodi neobrezani, i sav je dom Izrailjev neobrezana srca.
 Slušajte rijeè koju vam govori Gospod, dome Izrailjev.
 Ovako veli Gospod: ne uèite se putu kojim idu narodi, i od znaka nebeskih ne plašite se, jer se od njih plaše narodi.
 Jer su uredbe u naroda taština, jer sijeku drvo u šumi, djelo ruku umjetnièkih sjekirom;
@@ -21006,6 +21006,11 @@ Mili æete mi biti s ugodnijem mirisom, kad vas izvedem iz naroda i saberem vas 
 I poznaæete da sam ja Gospod kad vas dovedem u zemlju Izrailjevu, u zemlju za koju podigoh ruku svoju da æu je dati ocima vašim.
 I ondje æete se opomenuti putova svojih i svijeh djela svojih, kojima se oskvrniste, i sami æete sebi biti mrski za sva zla svoja koja èiniste.
 I poznaæete da sam ja Gospod kad vam uèinim radi imena svojega; ne po vašim zlijem putovima niti po opakim djelima vašim, dome Izrailjev, govori Gospod Gospod.
+
+
+
+
+
 Opet mi doðe rijeè Gospodnja govoreæi:
 Sine èovjeèji, okreni lice svoje na jug i pokaplji prema jugu, i prorokuj na šumu u južnom polju.
 I reci šumi južnoj: èuj rijeè Gospodnju, ovako veli Gospod Gospod: evo ja æu raspaliti u tebi oganj koji æe proždrijeti u tebi svako drvo zeleno i svako drvo suho; plamen razgorjeli neæe se ugasiti, i izgorjeæe od njega sve od juga do sjevera.
@@ -21033,16 +21038,11 @@ A ti, sine èovjeèji, naèini dva puta, kuda æe doæi maè cara Vavilonskoga; 
 Naèini put, kojim æe doæi maè na Ravu sinova Amonovijeh, i u Judeju na tvrdi Jerusalim.
 Jer æe car Vavilonski stati na rasputici, gdje poèinju dva puta, te æe vraèati, gladiæe strijele, pitaæe likove, gledaæe u jetru.
 Nadesno æe mu vraèanje pokazati Jerusalim da namjesti ubojne sprave, da otvori usta na klanje, da podigne glas podvikujuæi, da namjesti ubojne sprave prema vratima, da naèini opkope, da pogradi kule.
-I uèiniæe se vraèanje zaludno zakletima, a to æe napomenuti bezakonje da se uhvate.
-Zato ovako veli Gospod Gospod: što napominjete svoje bezakonje, te se otkriva nevjera vaša i grijesi se vaši vide u svijem djelima vašim, zato što doðoste na pamet, biæete pohvatani rukom.
-A ti, neèisti bezbožnièe, kneže Izrailjev, kome doðe dan kad bi na kraju bezakonje,
-Ovako veli Gospod Gospod: skini tu kapu i svrzi taj vijenac, neæe ga biti; niskoga æu uzvisiti a visokoga æu poniziti.
-Uništiæu, uništiæu, uništiæu ga, i neæe ga biti, dokle ne doðe onaj kome pripada, i njemu æu ga dati.
-A ti, sine èovjeèji, prorokuj i reci: ovako veli Gospod Gospod za sinove Amonove i za njihovu sramotu; reci dakle: maè, maè je izvuèen, uglaðen da kolje, da zatire, da sijeva,
-Dokle ti viðaju taštinu, dokle ti gataju laž, da te metnu na vratove pobijenijem bezbožnicima, kojima doðe dan kad bi kraj bezakonju.
-Ostavi maè u korice; na mjestu gdje si se rodio, u zemlji gdje si postao, sudiæu ti;
-I izliæu na te gnjev svoj, ognjem gnjeva svojega dunuæu na te i predaæu te u ruke žestokim ljudma, vještim u zatiranju.
-Ognju æeš biti hrana, krv æe ti biti posred zemlje, neæeš se spominjati, jer ja Gospod rekoh.
+I uèiniæe se vraèanje zaludno zakletima, a to æe napomenuti bezakonje da se uhvate. A ti, sine èovjeèji, prorokuj i reci: ovako veli Gospod Gospod za sinove Amonove i za njihovu sramotu; reci dakle: maè, maè je izvuèen, uglaðen da kolje, da zatire, da sijeva,
+Zato ovako veli Gospod Gospod: što napominjete svoje bezakonje, te se otkriva nevjera vaša i grijesi se vaši vide u svijem djelima vašim, zato što doðoste na pamet, biæete pohvatani rukom. Dokle ti viðaju taštinu, dokle ti gataju laž, da te metnu na vratove pobijenijem bezbožnicima, kojima doðe dan kad bi kraj bezakonju.
+A ti, neèisti bezbožnièe, kneže Izrailjev, kome doðe dan kad bi na kraju bezakonje, Ostavi maè u korice; na mjestu gdje si se rodio, u zemlji gdje si postao, sudiæu ti;
+Ovako veli Gospod Gospod: skini tu kapu i svrzi taj vijenac, neæe ga biti; niskoga æu uzvisiti a visokoga æu poniziti. I izliæu na te gnjev svoj, ognjem gnjeva svojega dunuæu na te i predaæu te u ruke žestokim ljudma, vještim u zatiranju.
+Uništiæu, uništiæu, uništiæu ga, i neæe ga biti, dokle ne doðe onaj kome pripada, i njemu æu ga dati. Ognju æeš biti hrana, krv æe ti biti posred zemlje, neæeš se spominjati, jer ja Gospod rekoh.
 Opet mi doðe rijeè Gospodnja govoreæi:
 A ti, sine èovjeèji, hoæeš li suditi, hoæeš li suditi gradu krvnièkom? i hoæeš li mu pokazati sve gadove njegove?
 Reci: ovako veli Gospod Gospod: ide vrijeme gradu koji proljeva krv u sebi i gradi gadne bogove sebi da se skvrni.
@@ -21904,9 +21904,6 @@ I sabraše se knezovi i upravitelji i vojvode i vijeænici carevi, i vidješe te
 Progovori Navuhodonosor i reèe: da je blagosloven Bog Sedrahov, Misahov i Avdenagov, koji posla anðela svojega i izbavi sluge svoje, koje se u nj pouzdaše i ne poslušaše zapovijesti careve i dadoše tjelesa svoja da ne bi služili niti se poklonili drugom bogu osim svojega Boga.
 Zato zapovijedam da se svaki kojega mu drago naroda i plemena i jezika, koji bi pohulio na Boga Sedrahova, Misahova i Avdenagova, da se isijeèe i kuæa da mu bude bunište, jer nema drugoga boga koji može tako izbaviti.
 Tada car uzvisi Sedraha, Misaha i Avdenaga u zemlji Vavilonskoj.
-
-
-
 Car Navuhodonosor svijem narodima, plemenima i jezicima što su po svoj zemlji, mir da vam se umnoži.
 Svidje mi se da objavim znake i èudesa što mi uèini Bog višnji.
 Znaci njegovi kako su veliki! i èudesa njegova kako su silna! carstvo je njegovo carstvo vjeèno, i vlast njegova od koljena do koljena.
@@ -21941,6 +21938,9 @@ Te rijeèi još bjehu u ustima caru, a glas doðe s neba: tebi se govori, care N
 I biæeš prognan izmeðu ljudi, i živjeæeš sa zvijerjem poljskim, hraniæe te travom kao goveda, i sedam æe vremena proæi preko tebe dokle poznaš da višnji vlada carstvom ljudskim i daje ga kome hoæe.
 U taj èas ispuni se ta rijeè na Navuhodonosoru; i bi prognan izmeðu ljudi i jede travu kao goveda, i rosa nebeska kvasi mu tijelo da mu narastoše dlake kao pera u orla i nokti kao u ptica.
 Ali poslije toga vremena ja Navuhodonosor podigoh oèi svoje k nebu, i um moj vrati mi se, i blagoslovih višnjega, i hvalih i slavih onoga koji živi dovijeka, èija je vlast vlast vjeèna i èije je carstvo od koljena do koljena;
+I svi stanovnici zemaljski ništa nijesu prema njemu, i radi što hoæe s vojskom nebeskom i sa stanovnicima zemaljskim, i nema nikoga da bi mu ruku ustavio i rekao mu: šta radiš?
+U to vrijeme um moj vrati mi se, i na slavu carstva mojega vrati mi se velièanstvo moje i svjetlost moja; i dvorani moji i knezovi moji potražiše me, i utvrdih se u carstvu svom, i doda mi se više velièanstva.
+Sada ja Navuhodonosor hvalim, uzvišujem i slavim cara nebeskoga, èija su sva djela istina i èiji su putovi pravedni i koji može oboriti one koji hode ponosito.
 Car Valtasar uèini veliku gozbu tisuæi knezova svojih, i pijaše vino pred tisuæom njih.
 Napiv se vina Valtasar zapovjedi da se donesu sudovi zlatni i srebrni, koje bješe odnio Navuhodonosor otac mu iz crkve Jerusalimske, da iz njih piju car i knezovi mu, i žene njegove i inoèe njegove.
 I donesoše zlatne sudove koje bjehu odnijeli iz crkve doma Gospodnjega u Jerusalimu, i pijahu iz njih car i knezovi njegovi, žene njegove i inoèe njegove;
@@ -21971,6 +21971,7 @@ TEKEL, izmjeren si na mjerila, i našao si se lak.
 FERES, razdijeljeno je carstvo tvoje, i dano Midijanima i Persijanima.
 Tada zapovjedi Valtasar, te obukoše Danila u skerlet, i metnuše mu zlatnu verižicu oko vrata, i proglasiše za nj da je treæi gospodar u carstvu.
 Istu noæ bi ubijen Valtasar car Haldejski.
+A Darije Midijanin preuze carstvo, i bješe mu oko šezdeset i dvije godine.
 Svidje se Dariju te postavi nad carstvom sto i pedeset upravitelja da budu nad svijem carstvom;
 A nad njima tri starješine, od kojih jedan bješe Danilo, kojima æe upravitelji davati raèune da ne bi caru bilo štete.
 A taj Danilo nadvišivaše starješine i upravitelje, jer u njemu bješe velik duh i car mišljaše da ga postavi nad svijem carstvom svojim.
@@ -21999,7 +22000,6 @@ Tada car Darije pisa svijem narodima i plemenima i jezicima što življahu u svo
 Od mene je zapovijest da se u svoj državi carstva mojega svak boji i straši Boga Danilova, jer je on Bog živi, koji ostaje dovijeka, i carstvo se njegovo neæe rasuti, i vlast æe njegova biti do kraja;
 On izbavlja i spasava, i èini znake i èudesa na nebu i na zemlji, on je izbavio Danila od sile lavovske.
 I taj Danilo bijaše sreæan za carovanja Darijeva i za carovanja Kira Persijanca.
-
 Prve godine Valtasara cara Vavilonskoga usni Danilo san i vidje utvaru glave svoje na postelji; tada napisa san i pripovjedi ukratko.
 Danilo progovori i reèe: vidjeh u utvari svojoj noæu, a to èetiri vjetra nebeska udariše se na velikom moru.
 I èetiri velike zvijeri izidoše iz mora, svaka drugaèija.
@@ -22170,6 +22170,8 @@ I ona opet zatrudnje i rodi kæer; i Gospod mu reèe: nadjeni joj ime Loruhama; 
 A na dom Judin smilovaæu se, i izbaviæu ih Gospodom Bogom njihovijem, a neæu ih izbaviti lukom ni maèem ni ratom ni konjma ni konjicima.
 Potom odbivši od sise Loruhamu opet zatrudnje i rodi sina.
 I reèe Gospod: nadjeni mu ime Loamija; jer vi nijeste moj narod, niti æu ja biti vaš.
+Ali æe ipak broj sinova Izrailjevijeh biti kao pijesak morski, koji se ne može izmjeriti ni izbrojiti; i mjesto da im se reèe: nijeste moj narod, reæi æe im se: sinovi Boga živoga.
+I sabraæe se sinovi Judini i sinovi Izrailjevi ujedno, i postaviæe sebi jednoga poglavara i otiæi æe iz zemlje, jer æe biti velik dan Jezraelski.
 Recite braæi svojoj: narode moj; i sestrama svojim: pomilovana.
 Prite se s materom svojom, prite se, jer mi nije žena, niti sam joj ja muž; neka odbaci kurvarstva svoja od lica svojega, i preljube svoje od dojaka svojih,
 Da je ne bih svukao golu i uèinio je kaka je bila onaj dan kad se rodila, i da je ne bih postavio da bude kao pustinja i obratio je da bude kao zemlja zasušena, i umorio je žeðu.
@@ -22193,8 +22195,6 @@ I zaruèiæu te sebi vjerom, i poznaæeš Gospoda.
 I tada æu se odazvati, govori Gospod, odazvaæu se nebesima, a ona æe se odazvati zemlji.
 A zemlja æe se odazvati žitu i vinu i ulju, a to æe se odazvati Jezraelu.
 I posijaæu je sebi na zemlji, i smilovaæu se na Loruhamu, i reæi æu Loamiji: ti si moj narod, i on æe reæi: Bože moj!
-
-
 Potom reèe mi Gospod: idi opet, ljubi ženu koju ljubi ljubavnik a ona èini preljubu, kao što Gospod ljubi sinove Izrailjeve a oni gledaju za tuðim bogovima i ljube žbanove vinske.
 I kupih je za petnaest sikala srebra i gomor i po jeèma.
 I rekoh joj: sjedi kod mene dugo vremena, i ne kurvaj se, i ne budi drugoga; tako æu i ja biti tvoj.
@@ -22318,6 +22318,7 @@ Kako da te dam, Jefreme? da te predam, Izrailju? kako da uèinim od tebe kao od 
 Neæu izvršiti ljutoga gnjeva svojega, neæu opet zatrti Jefrema; jer sam ja Bog a ne èovjek, svetac usred tebe; neæu doæi na grad.
 Iæi æe oni za Gospodom; on æe rikati kao lav; kad rikne, sa strahom æe dotrèati sinovi s mora;
 Sa strahom æe dotrèati iz Misira kao ptica, i kao golub iz zemlje Asirske; i naseliæu ih u kuæama njihovijem, govori Gospod.
+
 Opkolio me je Jefrem lažju i dom Izrailjev prijevarom; ali Juda još vlada s Bogom i vjeran je sa svetima.
 Jefrem se hrani vjetrom, i ide za ustokom; svaki dan množi laž i pogibao; i hvataju vjeru s Asircem i nose ulje u Misir.
 I s Judom ima Gospod parbu i pohodiæe Jakova prema putovima njegovijem, platiæe mu po djelima njegovijem.
@@ -22331,8 +22332,7 @@ A ja sam Gospod Bog tvoj od zemlje Misirske, još æu ti dati da sjediš u šato
 I govoriæu preko proroka, i umnožiæu utvare, i davaæu prièu preko proroka.
 Doista je Galad bezakonje, postaše sama taština; u Galgalu prinose junce na žrtvu, i oltari su im kao gomile kamenja po brazdama na njivi mojoj.
 I Jakov pobježe u zemlju Sirsku, i Izrailj služi za ženu, i za ženu èuva ovce.
-I prorokom izvede Gospod Izrailja iz Misira, i prorokom èuva ga.
-Jefrem ga ljuto razgnjevi; zato æe ostaviti na njemu krv njegovu, i vratiæe mu sramotu njegovu Gospod njegov.
+I prorokom izvede Gospod Izrailja iz Misira, i prorokom èuva ga. Jefrem ga ljuto razgnjevi; zato æe ostaviti na njemu krv njegovu, i vratiæe mu sramotu njegovu Gospod njegov.
 Kad Jefrem govoraše, bješe strah; bješe se uzvisio u Izrailju; ali se ogriješi o Vala, te umrije.
 I sada jednako griješe i grade sebi lijuæi od srebra svojega po razumu svojemu likove, koji su svi djelo umjetnièko, a oni govore za njih: ljudi koji prinose žrtve neka cjeluju teoce.
 Zato æe biti kao oblak jutarnji i kao rosa koja u zoru padne, pa je nestane, kao pljeva, koju odnosi vjetar s gumna, i kao dim iz dimnjaka.
@@ -22348,6 +22348,7 @@ Svezano je bezakonje Jefremovo, ostavljen je grijeh njegov.
 Bolovi kao u porodilje spopašæe ga, sin je nerazuman, jer ne bi toliko vremena ostao u utrobi.
 Od groba æu ih izbaviti, od smrti æu ih saèuvati; gdje je, smrti, pomor tvoj? gdje je, grobe, pogibao tvoja? kajanje æe biti sakriveno od oèiju mojih.
 Rodan æe biti meðu braæom svojom; ali æe doæi istoèni vjetar, vjetar Gospodnji, koji ide od pustinje, i usahnuæe mu izvor, i studenac æe mu zasušiti; on æe odnijeti blago od svijeh dragih zaklada.
+Samarija æe opustjeti, jer se odmetnu od Boga svojega; oni æe pasti od maèa, djeca æe se njihova razmrskati i trudne žene njihove rasporiti.
 Obrati se, Izrailju, ka Gospodu Bogu svojemu, jer si pao svojega radi bezakonja.
 Uzmite sa sobom rijeèi, i obratite se ka Gospodu; recite mu: oprosti sve bezakonje, i primi dobro; i daæemo žrtve usana svojih.
 Asirac nas ne može izbaviti, neæemo jahati na konjma, niti æemo više govoriti djelu ruku svojih: Bože naš; jer u tebe nalazi milost sirota.
@@ -22357,7 +22358,6 @@ Raširiæe se grane njegove, i ljepota æe mu biti kao u masline i miris kao Liv
 Oni æe se vratiti i sjedjeti pod sjenom njegovijem, raðaæe kao žito i cvjetaæe kao vinova loza; spomen æe mu biti kao vino Livansko.
 Jefreme, šta æe mi više idoli? Ja æu ga uslišiti i gledati; ja æu mu biti kao jela zelena; od mene je tvoj plod.
 Ko je mudar, neka razumije ovo; i razuman neka pozna ovo; jer su pravi putovi Gospodnji, i pravednici æe hoditi po njima, a prestupnici æe pasti na njima.
-
 Rijeè Gospodnja koja doðe Joilu sinu Fatuilovu.
 Èujte, starci; slušajte, svi stanovnici zemaljski; je li ovako što bilo za vašega vremena ili za vremena vaših otaca?
 Pripovijedajte to sinovima svojim, i sinovi vaši svojim sinovima, i njihovi sinovi potonjemu koljenu.
@@ -22405,32 +22405,32 @@ I gumna æe se napuniti žita, a kace æe se preljevati vinom i uljem.
 I naknadiæu vam godine koje izjede skakavac, hrušt i crv i gusjenica, velika vojska moja, koju slah na vas.
 I ješæete izobila, i biæete siti i hvaliæete ime Gospoda Boga svojega, koji uèini s vama èudesa, i narod moj neæe se posramiti dovijeka.
 I poznaæete da sam ja usred Izrailja, i da sam ja Gospod Bog vaš, i da nema drugoga, i narod moj neæe se posramiti dovijeka.
+I poslije æu izliti duh svoj na svako tijelo, i proricaæe sinovi vaši i kæeri vaše, starci æe vaši sanjati sne, mladiæi æe vaši viðati utvare.
+I na sluge æu i na sluškinje u one dane izliti duh svoj;
+I uèiniæu èudesa na nebu i na zemlji, krv i oganj i pušenje dima.
+Sunce æe se pretvoriti u tamu i mjesec u krv prije nego doðe veliki i strašni dan Gospodnji.
+I svaki koji prizove ime Gospodnje spašæe se; jer æe na gori Sionu i u Jerusalimu biti spasenje, kao što je rekao Gospod, i u ostatku koji pozove Gospod.
 Jer, gle, u one dane i u ono vrijeme, kad vratim roblje Judino i Jerusalimsko,
 Sabraæu sve narode, i svešæu ih u dolinu Josafatovu, i ondje æu se suditi s njima za svoj narod i za našljedstvo svoje Izrailja, kojega rasijaše meðu narode i razdijeliše zemlju moju;
 I za moj narod bacaše ždrijeb, i davaše dijete za kurvu, i prodavaše djevojku za vino, te piše.
 I šta hoæete vi sa mnom, Tire i Sidone, i svi krajevi Palestinski? hoæete li da mi platite? i hoæete li da mi vratite? Odmah æu vam bez oklijevanja platiti platu vašu na vašu glavu.
 Jer uzeste srebro moje i zlato moje, i najljepše zaklade moje unesoste u svoje crkve.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I sinove Judine i sinove Jerusalimske prodadoste sinovima Grèkim da biste ih otjerali daleko od meðe njihove.
+Evo, ja æu ih dignuti s mjesta kuda ih prodadoste, i platiæu vam platu vašu na vašu glavu.
+I prodaæu vaše sinove i vaše kæeri u ruke sinovima Judinijem, i oni æe ih prodati Savejcima u narod daljni, jer Gospod reèe.
+Objavite ovo po narodima, oglasite rat, podignite junake neka doðu i idu svi vojnici.
+Raskujte raonike svoje na maèeve, i srpove svoje na koplja; ko je slab, neka reèe: junak sam.
+Skupite se i hodite, svi narodi unaokolo, i saberite se; tamo svedi, Gospode, junake svoje.
+Neka se podignu i doðu narodi u dolinu Josafatovu; jer æu ondje sjesti da sudim svijem narodima unaokolo.
+Zamahnite srpom, jer je žetva uzrela; hodite, siðite, jer je tijesak pun, kace se preljevaju; jer je zloæa njihova velika.
+Gomile, gomile u dolini sudskoj; jer je dan Gospodnji blizu u dolini sudskoj.
+Sunce æe i mjesec pomrknuti, i zvijezde æe ustegnuti svoju svjetlost.
+I Gospod æe riknuti sa Siona, i iz Jerusalima æe pustiti glas svoj, i zatrešæe se nebo i zemlja; ali æe Gospod biti utoèište svome narodu i krjepost sinovima Izrailjevijem.
+I poznaæete da sam ja Gospod Bog vaš, koji nastavam u Sionu, u svetoj gori svojoj; i Jerusalim æe biti svet, i tuðinci neæe više iæi po njemu.
+I tada æe gore kapati slatkim vinom, i humovi æe se topiti od mlijeka, i svijem potocima Judinijem teæi æe voda, i izaæi æe izvor iz doma Gospodnjega i natopiæe dolinu Sitim.
+Misir æe opustjeti, i Edomska æe biti pusta pustinja za nasilje uèinjeno sinovima Judinijem, jer proliše krv pravu u zemlji njihovoj.
+A Juda æe stajati dovijeka i Jerusalim od koljena do koljena.
+I oèistiæu krv njihovu, koje ne oèistih; i Gospod æe nastavati u Sionu.
 Rijeèi Amosa koji bijaše izmeðu pastira iz Tekuje, što vidje za Izrailja za vremena Ozije cara Judina i za vremena Jerovoama sina Joasova cara Izrailjeva, dvije godine prije trusa.
 Reèe dakle: Gospod æe riknuti sa Siona, i iz Jerusalima æe pustiti glas svoj, i tužiæe stanovi pastirski i posušiæe se vrh Karmilu.
 Ovako veli Gospod: za tri zla i za èetiri što uèini Damasak, neæu mu oprostiti, jer vrhoše Galad gvozdenom branom.
@@ -22614,6 +22614,7 @@ A ljudi stadoše veslati da bi došli ka kraju; ali ne mogahu, jer im bura na mo
 Tada prizvaše Gospoda i rekoše: molimo ti se, Gospode, da ne poginemo radi duše ovoga èovjeka, i nemoj metnuti na nas krvi prave, jer ti, Gospode, èiniš kako hoæeš.
 Potom uzeše Jonu i baciše ga u more, i presta bura na moru.
 Tada se pobojaše oni ljudi Gospoda vrlo, i prinesoše žrtvu Gospodu i uèiniše zavjete.
+
 A Gospod zapovjedi, te velika riba proguta Jonu; i Jona bi u trbuhu ribljem tri dana i tri noæi.
 I zamoli se Jona Gospodu Bogu svojemu iz trbuha ribljega,
 I reèe: zavapih u nevolji svojoj ka Gospodu, i usliši me; iz utrobe grobne povikah, i ti èu glas moj.
@@ -22623,8 +22624,7 @@ Optekoše me vode do duše, bezdana me opkoli, sita omota mi se oko glave.
 Sidoh do krajeva gorskih, prijevornice zemaljske nada mnom su dovijeka; ali ti izvadi život moj iz jame, Gospode Bože moj.
 Kad nestajaše duše moje u meni, pomenuh Gospoda, i molitva moja doðe k tebi, u svetu crkvu tvoju.
 Koji drže lažne taštine, ostavljaju svoju milost.
-A ja æu ti glasom zahvalnijem prinijeti žrtvu, ispuniti što sam zavjetovao; spasenje je u Gospoda.
-I Gospod zapovjedi ribi, te izbljuva Jonu na zemlju.
+A ja æu ti glasom zahvalnijem prinijeti žrtvu, ispuniti što sam zavjetovao; spasenje je u Gospoda. I Gospod zapovjedi ribi, te izbljuva Jonu na zemlju.
 I doðe rijeè Gospodnja Joni drugi put govoreæi:
 Ustani, i idi u Nineviju grad veliki, i propovijedaj mu ono što ti ja kažem.
 I ustav Jona otide u Nineviju po rijeèi Gospodnjoj; a Ninevija bješe grad vrlo velik, tri dana hoda.
@@ -22700,7 +22700,6 @@ Muèi se i vièi, kæeri Sionska, kao porodilja, jer æeš izaæi iz grada i sta
 A sada se sabraše na te mnogi narodi govoreæi: da se oskvrni, i da se oèi naše nagledaju Siona.
 Ali ne znaju misli Gospodnjih, niti razumiju namjere njegove, jer ih je skupio kao snoplje na gumno.
 Ustani i vrsi, kæeri Sionska, jer æu ti naèiniti rog gvozden, i kopita æu ti naèiniti mjedena, te æeš satrti mnoge narode, i posvetiæu Gospodu blago njihovo i imanje njihovo Gospodu sve zemlje.
-
 Saberi se sada u èete, èetnice, opsjedi nas, neka biju prutom po obrazu sudiju Izrailjeva.
 A ti, Vitlejeme Efrato, ako i jesi najmanji meðu tisuæama Judinijem, iz tebe æe mi izaæi koji æe biti gospodar u Izrailju, kojemu su izlasci od poèetka, od vjeènijeh vremena.
 Zato æe ih ostaviti dokle ne rodi ona koja æe roditi; tada æe se ostatak braæe njegove vratiti sa sinovima Izrailjevijem.
@@ -22715,6 +22714,7 @@ I zatræu gradove u tvojoj zemlji, i razvaliæu sva tvrda mjesta tvoja;
 I istrijebiæu vraèanje iz ruku tvojih, i neæeš imati gatara;
 I istrijebiæu likove tvoje rezane i stupove tvoje isred tebe, i neæeš se više klanjati djelu ruku svojih;
 I iskorijeniæu gajeve tvoje isred tebe, i raskopaæu gradove tvoje,
+I izvršiæu osvetu s gnjevom i ljutinom na narodima koji ne slušaše.
 Slušajte šta govori Gospod: ustani, sudi se s gorama, i neka èuju humovi glas tvoj.
 Slušajte, gore i tvrdi temelji zemaljski, parbu Gospodnju, jer Gospod ima parbu s narodom svojim, i s Izrailjem se sudi.
 Narode moj, šta sam ti uèinio? i èim sam ti dosadio? Odgovori mi.
@@ -22765,6 +22765,7 @@ Iz tebe je izašao koji smišlja zlo Gospodu, savjetnik nevaljao.
 Ovako veli Gospod: ako i jesu u sili i mnogo ih ima, opet æe se isjeæi i proæi. Muèio sam te, neæu te više muèiti.
 Nego æu sada slomiti jaram njegov s tebe, i pokidaæu tvoje okove.
 Ali za tebe zapovjedi Gospod da se ne sije više ime tvoje; iz doma bogova tvojih istrijebiæu likove rezane i livene; naèiniæu ti od njega grob kad budeš prezren.
+Eto, na gorama noge onoga koji nosi dobre glase, koji oglašuje mir. Praznuj, Juda, svoje praznike, ispunjaj zavjete svoje, jer zlikovac neæe više prolaziti po tebi; sasvijem se zatro.
 Izaðe zatiraè na te, èuvaj grad, pazi na put, utvrdi bedra, ukrijepi se dobro.
 Jer Gospod povrati slavu Jakovljevu kao slavu Izrailjevu, jer ih pustošnici opustošiše i loze im potrše.
 Štit je junaka njegovijeh crven, vojnici su u skerletu; kola æe mu biti kao zapaljeni luèevi na dan kad se uvrsta, i jele æe se ljuljati strašno.
@@ -22778,7 +22779,6 @@ Isprazni se, i ogolje, i opustje; i srce se rastopi, koljena udaraju jedno o dru
 Gdje je loža lavovima i pasište laviæima, kuda iðaše lav i lavica i laviæ, i nikoga ne bješe da plaši?
 Lav lovljaše svojim laviæima dosta, i davljaše lavicama svojim, i punjaše peæine svoje lova i lože svoje grabeža.
 Evo me na te, govori Gospod nad vojskama, i popaliæu kola tvoja u dim, i maè æe proždrijeti laviæe tvoje, i istrijebiæu sa zemlje grabež tvoj, i neæe se èuti glas poslanika tvojih.
-
 Teško gradu krvnièkom, vas je pun laži i otimanja, grabež ne izbiva iz njega.
 Pucaju bièevi, i toèkovi prašte, i konji topoæu, i kola skaèu,
 Konjanici poskakuju, i maèevi se sjaju, i koplja sijevaju, i mnoštvo je pobijenijeh i sila mrtvijeh tjelesa, nema broja mrtvacima; i pada se preko mrtvaca,
@@ -22962,6 +22962,10 @@ I reèe mi anðeo koji govoraše sa mnom: vièi i reci: ovako veli Gospod nad vo
 I gnjevim se silno na narode bezbrižne, jer se malo razgnjevih a oni pomogoše na zlo.
 Zato ovako veli Gospod: obratih se k Jerusalimu milošæu, dom æe se moj opet sazidati u njemu, govori Gospod nad vojskama, i uže æe se zategnuti preko Jerusalima.
 Još vièi i reci: ovako veli Gospod nad vojskama: opet æe gradovi moji obilovati dobrom, i Gospod æe opet utješiti Sion i opet æe izabrati Jerusalim.
+Tada podigoh oèi svoje i vidjeh, i gle, èetiri roga.
+I rekoh anðelu koji govoraše sa mnom: što je to? A on mi reèe: to su rogovi koji razmetnuše Judu, Izrailja i Jerusalim.
+Potom pokaza mi Gospod èetiri kovaèa.
+I rekoh: šta su ti došli da rade? A on odgovori i reèe: ono su rogovi koji razmetnuše Judu da niko ne podiže glave; a ovi doðoše da ih uplaše, da odbiju rogove narodima, koji podigoše rog na zemlju Judinu da je razmetnu.
 Opet podigoh oèi svoje i vidjeh, i gle, èovjek, i u ruci mu uže mjeraèko.
 I rekoh: kuda ideš? A on mi reèe: da izmjerim Jerusalim da vidim kolika mu je širina i kolika mu je dužina.
 I gle, anðeo koji govoraše sa mnom izide, i drugi anðeo izide mu na susret.
@@ -22975,10 +22979,6 @@ Pjevaj i veseli se, kæeri Sionska, jer evo ja idem i nastavaæu usred tebe, gov
 I mnogi æe se narodi prilijepiti ka Gospodu u taj dan, i biæe mi narod, i ja æu nastavati usred tebe, i poznaæeš da me je poslao k tebi Gospod nad vojskama.
 I Gospod æe naslijediti Judu, svoj dio, u zemlji svetoj, i opet æe izabrati Jerusalim.
 Neka muèi svako tijelo pred Gospodom, jer usta iz svetoga stana svojega.
-
-
-
-
 Poslije mi pokaza Isusa poglavara sveštenièkoga, koji stajaše pred anðelom Gospodnjim, i Sotonu, koji mu stajaše s desne strane da ga pre.
 A Gospod reèe Sotoni: Gospod da te ukori, Sotono, Gospod da te ukori, koji izabra Jerusalim. Nije li on glavnja istrgnuta iz ognja?
 A Isus bijaše obuèen u haljine prljave, i stajaše pred anðelom.
@@ -23205,12 +23205,12 @@ Zato hvalimo ponosite da su sreæni; napreduju koji èine bezakonje, i koji isku
 Tada koji se boje Gospoda govoriše jedan drugome, i pogleda Gospod, i èu, i napisa se knjiga za spomen pred njim za one koji se boje Gospoda i misle o imenu njegovu.
 Ti æe mi biti blago, veli Gospod nad vojskama, u onaj dan kad ja uèinim, i biæu im milostiv kao što je otac milostiv svome sinu koji mu služi.
 Tada æete se obratiti i vidjeæete razliku izmeðu pravednika i bezbožnika, izmeðu onoga koji služi Bogu i onoga koji mu ne služi.
-
-
-
-
-
-
+Jer, gle, ide dan, koji gori kao peæ, i svi æe ponositi i svi koji rade bezbožno biti strnjika, i upaliæe ih dan koji ide, veli Gospod nad vojskama, i neæe im ostaviti ni korijena ni grane.
+A vama, koji se bojite imena mojega, granuæe sunce pravde, i zdravlje æe biti na zracima njegovijem, i izlaziæete i skakaæete kao teoci od jasala.
+I izgaziæete bezbožnike, jer æe oni biti pepeo pod vašim nogama u dan kad ja uèinim, veli Gospod nad vojskama.
+Pamtite zakon Mojsija sluge mojega, kojemu zapovjedih na Horivu za svega Izrailja uredbe i zakone.
+Evo, ja æu vam poslati Iliju proroka prije nego doðe veliki i strašni dan Gospodnji;
+I on æe obratiti srce otaca k sinovima, i srce sinova k ocima njihovijem, da ne doðem i zatrem zemlju.
 Pleme Isusa Hrista, sina Davida Avraamova sina.
 Avraam rodi Isaka. A Isak rodi Jakova. A Jakov rodi Judu i braæu njegovu.
 A Juda rodi Faresa i Zaru s Tamarom. A Fares rodi Esroma. A Esrom rodi Arama.

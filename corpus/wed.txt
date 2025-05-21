@@ -2127,7 +2127,6 @@ Wate rava i vioga da i viraḡena, ma ana lawana aubaina i ruba pulo au aniap
 
 
 
-
 “Mepa da oroto wavine matatapu i gwalai da i viawawanei, ma eḡa aiai wei wavinena ita rautani da ita ravaḡi. Nai orotona wavine mataopana ina vimaiei ma ina ravaḡi.
 Wate mepa da amana i viḡa, lamna maranai oroto matatapu ana mataopa ina vimaiei wavine amana awarina.
 Aiai wavinena e paraparauma lamna ina viraḡeni.
@@ -2140,6 +2139,7 @@ Ma Tau ana meji guratana ma ḡavia au orana ana viraḡenimi. Awawami ina vi
 —Mepa da mane u unelei molamolakana awarina, lamna eḡa mane ḡelauna au tepana ma vibaḡei.
 Mepa da rava ḡelauna ana kwama u vaia da manena ina veremelem ma muriai ma vere-melei, ana kwama ma vere-melei muriai da madeḡa ina ḡaira.
 Kwamana lamnei e purupurui da inina e vivibola. Bo aiwai ḡelauna e mamae da ina vipuruei? Mepa da kwama eḡa uta veremelei ma tauna awariu i tou agu aubaina ma Tau ana paribelei aubaina Tau rau-nuapoapoeu.”
+
 
 
 
@@ -7772,13 +7772,13 @@ Ma lamna aubaina tauna David i unurana-kauei ma i ʼnana-vaitetei.
 
 
 
+
 David i nae au Nob da Pirisi pulo tauapuna Ahimelek ita inanai. Tauna ana rovona i opu da David i viegualauei, ma i riwa, “Aiwai aubaina u nei, ma am rava mepa?”
 David pirisi Ahimelek i paribei i pa, “Gulau Saul nola tagogi aubaina i paritawaneu wate wenanare i riweu, ‘Eḡa aiai ina aramanei aiwai a kaukauei.’ Au sorodia a riwei da e paipainiu.
 Awarim lam da uta vereu? Palawa apuapunana 5 ma vereu bo aiwai ḡelauna kampa.”
 Wate pirisi i riwa, “Awariai eḡa palawa ota ita mamae, wate vovivirana Bada awarina. Wei palawana ma vaia mepa da am sorodia aupom biaḡa eḡa waivine maiteni ita viawawana.”
 David i paribelei, Riwa kaua tauai eḡa waivine maiteni ata matamatave, maranai a opuopu ḡavia aubaina au nelara e ujiuji. Amadodo lamna gulau ana nola a kaukauei ma wei nolana aubaina a vokaukaua kaua.
 Nai marana palawa waduboi i votawanaei ma palawa voui i terei Bada au naona au tempol. Kampa eḡa lam ḡelauna ita mamae ma pirisi palawa vovivirana David i verei.
-
 
 
 
@@ -8865,26 +8865,26 @@ Maranai mai Israel Solomon ana etara riwana i nonori, marina taui Solomon ina 
 
 
 Mai Judah ma mai Israel ai patara i maḡa dewadewa me bubu au gera. Taui ai lam ma ai uma tagotagogina ma i vinuaiai kaua.
+Ma Solomon dobuna anatapuna i vibadei. Ana parata au waira Euphrates i vikarei da i ḡaira au Philistia ma kampa da i ḡaira Egypt ana au parata. Wei ravai tax i vivimaiei gulau Solomon awarina ma i voteletelei maranai lawalawaina.
+
+
+
+Maranai Solomon i vibada mai Judah ma Israel ana nuaubai i mae, ai nuabola eḡa aiwai. Au lavaratei Dan ana dam ai au dobu i vikarei da i ḡaira au Beersheba au rauanaḡei, numa nununai ravai anatapui ai numa ma ai wapu i mae.
+
+
+
+
+
+
+
+
+
 Maranai David maemaeninai, tura-kauana lamna Gulau Hiram, Tyre ai gulau. Maranai gulau Hiram riwana i vaia da Solomon i vigulau au Israel, amana David epaiana, Tauna ana taunola i paritawanei da gulau vouna i viegualauei.
 Ma gulau Solomon wei riwana i paritawanei gulau Hiram awarina i pa:
 Tam u aramanei da amau dam maḡamaḡaui au ririvaiai i mae-kwaviviroi ma maiteni i viḡaiḡaiawa nonoa. Ma lamna aubaina eḡa tagotagogina da tempol ita voai Bada ana God, viborumana aubaina. Wate i vivipaipai da au naona Bada ana aguei ana ḡavia ita vipupui.
 Wate marina Bada nuauba i vereu. Au ḡavia ma au nuabola eḡa.
 A vinua-notanota da tempol ana voai, Bada God viborumana ma vimae-ḡaeḡaenana aubaina. Me Bada amau i ririwei nanare maranai i riwa i pa, “Natum orotona ana terei gulau, am au gabu, ma tauna numa ina voai tau viborumau aubaina.”
 Lamna aubaina am taunola ma paritawanei au ola Lebanon, da aubaiu ai bagibagi cedar ina tarai. Tam am nelara ai tarana i aramana-kauei. Tau au nelara ana paritawaneiai da ina tara agui. Am nelara ana vimaiei, biaḡa e vivibaḡei nanare ana vimaia.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -14405,6 +14405,7 @@ Bada ma vitumaḡanei, da ma virewapana ma tepam ina tora. Anina Bada ma vit
 
 
 
+
 Bada ana vimaeḡaeḡaeni marana patapatai, ma ana viborumana-nonoei.
 Orau taputapuneiBada ana voepaepai; Vilamolamonai riwau ina nonori ma ina vinuaiai.
 Ona nei ata Bada tana vimaeḡaeḡaeni wavana tana voepae-gogonei.
@@ -14427,6 +14428,7 @@ Rava jijimanii ai nuabola i maḡa wate Bada taui e vovoagui ai au nuabola.
 E inainana-vaitetei da eḡa gelamina tagogi ina wanagai.
 Ḡoa apoapoe ravai ai apoapoe ina vunumelei, ma aiavoi da ḡoa aiaii ravai e gedugeduaiei, ina kovoḡi.
 Bada ana taunola e gagagaloei, aiai da e nenei Bada au ḡouna, kovoḡa ina vorei.
+
 
 
 
@@ -14941,7 +14943,6 @@ Anina ma ai pulo nota aiainei ina vikarena-melei da ina kaukauei ma ma vinuai
 
 
 
-
 Oo God ma raunuʼapoapoelelai ma ma viaiainiai, ma naom weka ma tereiai da ma voaguiai!
 Da au dobu am kaua ina aramanei, da rava anatapui au dobu ina aramanei da tam ai tauvilawana.
 Rava ina voepaepaim Oo God, rava anatapui ina vimaeḡaeḡaenim.
@@ -14949,7 +14950,6 @@ Rava anatapui au dobu ina vinuaiai ma ana morelanai ina wela, aubaina tam rava
 Rava ina voepaepaim Oo God. Rava anatapui ina voepaepaim.
 Anina ma doa maura ḡaeḡaena ina vereta ma God ina viaiaina-kaueta
 Riwa kaua, God ina viaiainita ma rava anatapui au dobu tauna ina vivirei.
-
 
 
 
@@ -17474,13 +17474,13 @@ Am ḡavia, ainelam ina viḡaviem ma ina vovaiubaim, wate maranai taumi rua�
 
 
 
-
 Aiavoi mane nuanuai e vaivaia eḡa melanai nuanuai ina rauei; aiavoi e ḡoeḡoei da ina vipurapura; taui eḡa melanai ai rauoḡara anatapuna ina vaia. A inanai da wei anona eḡa.
 Maranai am maura e rarata, lamna maranai patara e ḡeḡetai da e amam vereverem. Wate wei maurana aiwai aiaina e vereverem? Eḡa aiwai, anina e viatataim da tam maumauram, wate rava ḡelauna am maura ina tawanei aubaim.
 Taunola e amam kaua bo eḡa, wate e matamatave kaua. Mane ravana eḡa nanare, tauna ana maura e notanota-maratomei.
 Au dobu kaua apoapoe kaukauana a inanai; Mane ma purapura ravana ana maura au anara e tereterei muriai aubaina. Wate wei lamnei, ana nuabola ḡaeḡaena i tuarui.
 Ana mane ma ana maura i kauana labalababai ma anatapuna i vine-boai. Natuna eḡa ana buderi ita terei.
 Menanarena dobuna ta ruinei nanarena tana nae me, kovakovata ma ana ura kwakwavita. Amapo eḡa ata purapura, ta vopolepolei tana vinimavoei.
+
 
 
 
@@ -17897,7 +17897,6 @@ Lamna aubaina Bada ainelana mataira ina viatataiemi: Matatapu ina duama ma tev
 
 
 
-
 Taui i vivinuʼapoapoe, ai vinuapoapoe ina kwa. Rorova dobu Zebulun ma dobu Naphtali i kwalai ma i vinimalamalai, wate muriai dobuna ina viboruma-kauei. Galili, jentail ai dobu, au boga Mediteranean ina vikarei da maramatanei ina nae da waira Jordan au baba ḡelauna.
 Taui waguwaguvareina taubabarai lalaina ḡaeḡaena i ʼnanai; Taui gimtona taumaenina awarii lalalaina i lalai.
 Tam ai dam u vimaḡai ma ai nuaiai u viratai; am viturana i vinuaiaiei; me tuaruta au marana e vivinuaiai, me sorodia e vivinuaiai, maranai, ḡavia purapurai i tuarui, e ḡutaḡutai.
@@ -17905,6 +17904,7 @@ Tam ai dam u vimaḡai ma ai nuaiai u viratai; am viturana i vinuaiaiei; me t
 
 Aubaina, awarita tevera i tupua! Tevera orotona i vereta! Tauna ina vibada. Tauna ina ḡorei: Tauvinuaterena Aiaii telarana, God Vivirewapanana; Amata Maemae Nonoana; Nuauba Badana.
 Ana vigulau ma ana nuauba ina tua, eḡa damona ita mamae. Noina Gulau David ana au vigulau gabuna ina kiala, ma nuavainei ma jijimaninei ina vibada kaua; Ina mae-nonoa, marina da mara au damona. Bada Vivivirewapana Kaukauana ana nuavainei wei anatapuna ina kauei!
+
 
 
 
@@ -18955,13 +18955,13 @@ Me doa, pei e vivigogoi ma debagau lam e verevereta, nanare Bada God, rava e 
 
 
 
-
 Oo Bada wariaḡa da marina, eḡa aiai god ḡelaui ponana ita nonori, ita inanai, bo ita aramana dadanei. Anina Tam ainelam. Taui da e vivipaipaiem e vovoagui.
 Tam kaua aiaii ravai e vovoagui, am tarawatu e vovojijini. Wate maranai ta ḡoʼapoapoe ḡiriḡiri tam amlom e voḡaiḡai. Aiwai aubaina ma vilawaniai?
 Anatapuiai a ḡoʼapoapoe, Au matam, ai kaua jijimanii anatapui miramirai me gara wadubona. Anataputa ta poipoi me ai-rugurugu, Ata ḡoʼapoapoe e kapupuana-naieta.
 Ma eḡa aiai wavam ita voepaepai bo ita voguratei da naom ita inanai. Lamna aubaina tam u netawanelai da ai ḡoʼapoapoei e vunuvunuiai.
 Wate Bada, tam amaiai. Tauai dogodogo ma tam nau tauvoaina. Tam anatapuiai uramei u rauḡaroḡaroelai.
 Lamna aubaina, eḡa ma meji guratana awariai. Ma eḡa ai ḡoʼapoapoe ma nota-nonoei. Ma i ʼnanaiai, anatapuiai tam natunatum.
+
 
 
 
@@ -22614,6 +22614,7 @@ Wate waga ravai i lare-guratana da waga ita ḡairei au gera, wate eḡa tagot
 Anina ma taui anatapui i tou Jonah ana God awarina i pa, “Oo Bada! eḡa ma voterelai da wei ravana ana ḡoʼapoe aubaina, ana iʼraḡe, ma eḡa tarana wavuna ana avarai!”
 Ma Jonah i vojijini ma i tawana-opunei au boga ma maratagogi kojikojira i wanatuini ma daumora i matave.
 Ma ravai i rovoana-kauei da pulo i apui Bada awarina ma i parivainuaḡani da tauna ina vivirei.
+Wate Bada iana ḡaeḡaena i paritawanei da Jonah i lawani. Ma Jonah iana au manawana i mae aupom ma waguvara tonuḡa.
 Jonah iana au manawana ma i raupari Bada, ana God awarina.
 I pa, “Au nuabola au orana a tou Bada awarina, ma i paribeleu. Irairaḡei, ai au dobu ma agu a gararei ma au tou u nonori.
 Au gabinou u tawana ḡaireu, boga au gabaura dewadewana. Boga i kwaviviroiu. Rabamam ḡaeḡaei i viaimonumonui.
@@ -22624,7 +22625,6 @@ Malana a vaia au lawana i opuopu, ma Bada a raupari awarim, am au tempol, ma 
 Taui kokoitau labalababa e viviborumei, am nuavaina mamae-nonoana i geduaiei.
 Wate tau ana welem, ana voepaepaim ma au pulo ana apui awarim. Au parivainuaḡa awarim ana kauei lawana maemae nonoana Badei e nenei.”
 Ma Bada iana i egari da Jonah i medana-tawanei au gera.
-
 Ma Bada i babani me Jonah awarina,
 I pa, “Ma nae taon ḡaeḡaena vinualaulaunana Niniveh ma au riwa a vereverem ma pariverei.”
 Jonah, Bada riwana i voteletelei ma i nae au Niniveh. Niniveh lamna taon ḡaeḡae otana ma aupom tonuḡa i vaia da i verautuini.
@@ -22700,11 +22700,11 @@ Wate nai taon ḡaeḡaena Niniveh ma ana patara 120,000, taui gimtona taumaenin
 
 
 
-
 Sorodia ona vomairi! Ona vokaukaua! Ḡavia Jerusalem i matave kwaipipini. Israel ana gulau ina kwapui, jiḡonei navanavana ina kwapui.
 Tam, Bethlehem Ephrathah, melaḡai aburu oina dam Judah au orai. Wate awarimiei, Israel ai gulau ina opu. Tauna wariaḡana, au karena da marina.
 Bada mai Israel i voterei ai ḡavia au urai, da wavine marina au manawa, tevera orotona ina ḡuni. Ma ai rava ḡelaui a tuvai-opunei, ina nememei ai au gana au Israel.
 Tauna Bada ana rewapanei, ina mairi ma ana sipu ina raveni, ana vinualaulaunei ma Bada wavana ḡaeḡaenei. Rava anatapui au dobu, Tauna ina vivirana-kauei ma lamna aubaina taui kampa ina mae-kaua.
+
 
 
 
@@ -27691,7 +27691,7 @@ Eḡa aiai wei ina vikaua-moruei. Lamna aubaina orami ina rauei ma eḡa aiwai
 Wei ravai o neiai weka wate taui eḡa au numa taparoro aiwai ita danenei bo ata god ita riwana-boei.
 Mepa da Demetrius ana rava maiteni e viviwavui taui ina nae ina rauetara ma ami viwavu ona naei kampa taurauetara awarina.
 Ma mepa da ami nuabola ḡelaui e mamae lamna taon babadai ai au boru ona babaniei ma ona tere-jijimani.
-Ma amadodo aiwai i tupua, tau a rovo da ina viwavuita mae-boaboa aubaina. Wei vikaruwaḡawaḡana anona eḡa, ma mepa da Rome ina paridadana ma tauta menanare tana paribelananei.
+Ma amadodo aiwai i tupua, tau a rovo da ina viwavuita mae-boaboa aubaina. Wei vikaruwaḡawaḡana anona eḡa, ma mepa da Rome ina paridadana ma tauta menanare tana paribelananei. Anina ma boru i gudui ma rava i vilamonei.”
 Vikaruwaḡawaḡa au Ephesus taon i kwa ma au murina Paul kerisiana i raukwatueiai da i vinua-terenei, i viegualauei ma i netawanei da i nae au Masedonia provins.
 Ma dobuna ḡaeḡaenana i naeni ma kaua maḡamaḡaui kerisiana i vinua-terenei. Anina ma au Akaia i ḡeta.
 Kampa nawaravi tonuḡa i mae. Tauna i vokaukaua da ita nae au Syria ma wate i nelaḡai da mai Jew ḡelaui viraḡenana i viviogatarei lamna aubaina da i nae me au Masedonia.

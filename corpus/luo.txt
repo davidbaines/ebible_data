@@ -926,6 +926,7 @@ Laban nomedo wacho ne Jakobo niya, “Ne pidhni kendo ne sironi maseketo e kinda
 Pidhni kata sironi gin joneno ni ok nakadh pidhni mondo amonji kendo in bende ok nikadh pidhni kata sironi mondo imonja.
 Mad Nyasach Ibrahim, kod Nahor, gi Nyasach kwereni obed jangʼad bura e kindwa.” Omiyo Jakobo notimo kwongʼruok e nying Nyasach Isaka wuon-gi.
 Notimo misango e godno kendo noluongo wedene e nyasino. Bangʼ kane gisechiemo, ne ginindo kanyo.
+Kiny ne gokinyi mangʼich, Laban nogone nyige gi nyikwaye oriti kendo nogwedhogi. Eka nowuok modok dala.
 Jakobo nodhi nyime gi wuodhe, kendo malaike mag Nyasaye noromo kode.
 Kane Jakobo onenogi, nowacho niya, “Ma en kambi mar Nyasaye!” Kuom mano nochako kanyo ni Mahanaim (tiende ni kembni ariyo).
 Jakobo nooro joote nyime ir owadgi Esau e piny Seir, gwengʼ mar Edom.
@@ -958,7 +959,6 @@ Jakobo nowachone niya, “Asayi nyisa nyingi.” To nodwoko Jakobo niya, “Ang�
 Kuom mano Jakobo nochako kanyo ni Peniel (tiende ni wangʼ Nyasaye) kowacho niya, “Nikech aseneno Nyasaye wangʼ gi wangʼ kendo ngimana oresi.”
 Chiengʼ notuchne ka okadho Peniel kendo nowuotho kolingʼo nikech bamne nowil.
 Mano emomiyo nyaka kawuono jo-Israel ok cham ringʼo moriwo fuond bam ka giparogo wil mar fuond bam Jakobo.
-
 Jakobo notingʼo wangʼe moneno Esau kabiro ka en gi ji mia angʼwen. Kuom mano nopogo nyithindo e kind Lea gi Rael kod jotichne mamon ariyo.
 Noketo jotichne mamon ariyo kod nyithindgi nyime, kiluwogi gi Lea kod nyithinde, to Rael gi Josef ema noketo chien.
 Jakobo owuon notelo nyimgi mi opodho auma nyadibiriyo e nyim Esau owadgi.
@@ -1709,10 +1709,6 @@ To ajuoke mag Misri notimo mana gik machal kamano gi tijegi mag ajuoke mi chuny 
 To kata kamano nodok e kare mar dak, kendo ne ok odewo wechegi.
 Jo-Misri duto nokunyo bath aora Nael mondo giyud pi modho, nikech ne ok ginyal modho pi aorano.
 Ndalo abiriyo norumo bangʼ ka Jehova Nyasaye nosechwado aora Nael.
-
-
-
-
 Eka Jehova Nyasaye nowacho ne Musa mondo odhi ir Farao kendo onyise niya, Ma e gima Jehova Nyasaye wacho: “We joga odhi mondo gilama.
 Ka idagi weyo joga mondo odhi, to abiro kelo masira mar ogwende e pinyni duto.
 Ogwende nopongʼ aora Nael kendo giniwuogi ka gidhi e odi nyaka kor nindo. Bende ginipongʼ nyaka kitandani, ute jodongi kod mag jogi, kaachiel gi kuonde tedo gi dwalo makati.
@@ -1741,6 +1737,10 @@ Eka Farao noluongo Musa kod Harun mowachonegi niya, “Dhiuru utim misango ni Ny
 To Musa nodwoko niya, “Mano ok nyal bedo kare. Misengini ma wachiwo ni Jehova Nyasaye ma Nyasachwa nyalo bedo gima kwero ni jo-Misri. To ka wachiwo misengini makwerogo e wangʼ-gi, donge gibiro goyowa gi kite?
 Nyaka wakaw wuodh ndalo adek e thim mondo wachiw misengini ni Jehova Nyasaye ma Nyasachwa mana kaka ochikowa.”
 Farao nodwoko niya, “Abiro yienu mondo udhi uchiw misengini ni Jehova Nyasaye ma Nyasachu e thim to mana ka ok udhi mabor. Omiyo lamnauru.”
+Musa nodwoko niya, “Bangʼ kinde matin ka asewuok, to abiro lamoni Jehova Nyasaye, kendo kiny lwangʼni nowe Farao, jodonge kod joge. Makmana ni Farao kik chak riambi kotamo jo-Israel dhi timo misengini ni Jehova Nyasaye.”
+Bangʼe Musa noweyo Farao mi olamo Jehova Nyasaye,
+kendo Jehova Nyasaye notimo kaka Musa nokwayo: Lwangʼni noweyo Farao kod jodonge kaachiel gi joge: Kata lwangʼni achiel ne ok odongʼ.
+To kata mana e kindeni Farao nomedo bedo gi tok teko kendo ne ok onyal weyo jo-Israel mondo odhi.
 Eka Jehova Nyasaye nowacho ne Musa niya, “Dhi ir Farao mondo iwachne kama: ‘Ma e gima Jehova Nyasaye ma Nyasach jo-Hibrania wacho: “We joga odhi mondo olama!”
 To ka itamori weyogi mondo gidhi kendo isiko kiketogi e tich misumba,
 to lwet Jehova Nyasaye biro kelo tho ne jamni mantiere lek kaka fareseni kod pundeni, ngamia magi kaachiel gi dhogi, rombegi kod dieki.
@@ -2112,7 +2112,6 @@ Ka rwath ochwowo dichwo kata dhako ma misumba, to wuon rwadhno nyaka chul ruodh 
 to wuon burno nyaka chul kuom lalno; kendo nyaka ochul wuon gigi kendo jamni mothogo nobed mage.
 “Ka rwadh ngʼato ohinyo rwadh ngʼat machielo mi otho, to ginius rwath mangimano kendo ginipog pesa kaachiel gi ring rwath mothono marom.
 To kata kamano, kane ongʼere ni rwadhno ne nigi kido mar chwopo, kendo wuon-gi ne osesiem to ne ok otweye, wuon-gi nyaka chul, chiayo kar chiayo kendo chiayo mothono nobed mare.
-
 “Ka ngʼato okwalo rwath kata rombo kendo onege kata ouse, nyaka ochul dhok abich kuom rwath kendo kweth rombe angʼwen kuom rombo.
 “Ka jakuo ojuk kakwelo kendo ogoye mi otho, ngʼatno mogoye remo ok nodongʼ e wiye kuom remo mochwer;
 to ka otimore bangʼ ka chiengʼ osetuch, to remo nodongʼ e wiye. “Jakuogno nyaka chul gima rom gi gima nokawono, to ka oonge gi gimoro, to nyaka use mondo ochulgo kuo mokwalono.
@@ -2143,6 +2142,7 @@ nikech laweno kende ema oumorego. Ere gima donindie? Ka oywakna, to abiro winjo,
 “Kik iyany Nyasaye kata kwongʼo jatend jou.
 “Kik utamru golo chiwo mowuok e decheu kata kuonde kenou. “Nyaka umiya yawuotu makayo.
 Timuru machal kamano ni rwethu kod rombeu. Weuru gibed gi minegi kuom ndalo abiriyo, to chiengʼ mar aboro miyagiuru.
+“Unubed joga maler. Kuom mano kik ucham ring chiayo mondiek onego; direuru ne guogi.
 “Kik iland wach ma ok adiera. Kik ikony ngʼat marach kidoko janeno mar miriambo.
 “Kik itim gima rach nikech ji mangʼeny time. Ka in janeno e bura, to kik iketh bura mana nikech idwaro chwako koma ji ngʼenyie,
 kendo kik ichwak ngʼato e bura nikech odhier.
@@ -2848,13 +2848,6 @@ Nyaka ochul nengo mar gima ne ok ochiwo kaluwore gi chike maler, kendo bende ome
 “Ka ngʼata otimo richo kendo otimo gima okwer e chik moro amora mar Jehova Nyasaye, kata obedo ni ok ongʼeye, to en richo kendo en okwane jaketho.
 Nyaka okelne jadolo im man-gi nengo kendo maonge songa kaka misango mipwodhogo ketho. Kamano jadolo nopwodhe kuom ketho mosetimo kokia kendo nowene.
 En misango mar pwodhruok e ketho; nikech osetimo marach e nyim Jehova Nyasaye.”
-
-
-
-
-
-
-
 Eka Jehova Nyasaye nowacho ne Musa niya,
 “Ka ngʼato otimo richo kendo ok obedo ja-ratiro e nyim Jehova Nyasaye ka owuondo nyawadgi kuom gima osingne kata gima owene mondo oriti kata gima okwal,
 kata ka okwanyo gima olal bangʼe oriambo kendo oriyo dhoge, kata ka otimo richo ma ngʼato angʼata nyalo timo;
@@ -2878,6 +2871,13 @@ Jehova Nyasaye nowacho kendo ne Musa niya,
 Tedeuru gi mo e tawo, eka ukele koseruwore maber, kendo chiwe kongʼinjore matindo tindo, kendo otimgo misango mar cham madungʼ tik mangʼwe ngʼar ni Jehova Nyasaye.
 Wuode manokaw kare kaka jadolo mowal ema nolos misangono. Nyaka wangʼe pep nimar en migawo mapile pile mar Jehova Nyasaye.
 Kuom misango mar cham moro amora ma jadolo ogolo nyaka wangʼ pep kendo kik chamgi.”
+Jehova Nyasaye nowacho ne Musa niya,
+Nyis Harun gi yawuote kama: Magi e chike mag misango mar golo richo: Chiach misango mar golo richo nyaka yangʼ e nyim Jehova Nyasaye mana kama iyangʼoe chiach misango miwangʼo pep nikech en gima ler moloyo.
+Jadolo mochiwo misangono nyaka chame kama ler mar lemo, ma nitie e laru mar Hemb Romo.
+Gimoro amora morere e misangono nobed gima owal ni Jehova Nyasaye. Ka diponi remb misangono okirore e nanga, to nyaka lwoke e kama ler mar lemo.
+Chunoni agulu motedie ringʼo mar misango mar golo richo nyaka too; to ka aguch mula ema otedee, to nyaka rudhe maler mi bangʼe lawe gi pi.
+Ngʼato angʼata madichwo ma jaodgi jodolo oyiene chamo misangono, nikech en gima ler moloyo.
+Ka remb chiayo motimgo misango miwangʼo mar golo richo okel ei Hemb Romo mondo pwodhgo richo ei Kama Ler mar lemo, to misangono kik cham; nyaka wangʼe gi mach.
 Magi e chike mag misango ma ipwodhruokgo e ketho, ma en misango maler moloyo:
 Chiayo mar misango mipwodhruokgo e ketho nyaka yangʼ mana kama iyangʼoe chiayo mar misango miwangʼo pep kendo rembe nyaka kir e bethe kendo mar misango koni gi koni.
 Eka jadolo nokaw bochene duto, kaka sembe gi boche moumo jamb-ich,
@@ -4229,6 +4229,21 @@ Negidhi e bur kagingima mi lowo uomogi kod mwandugi kendo negilal nono ei oganda
 E kinde mane giywak, jo-Israel duto mane ni machiegni kodgi noringo, kaywak niya, “Wan bende piny dhi mwonyowa!”
 Kendo mach nowuok koa kuom Jehova Nyasaye mi owangʼo ji mia ariyo gi piero abich mane oyudo chiwo misango mangʼwe ngʼar.
 Jehova Nyasaye nowacho ne Musa niya,
+“Nyis Eliazar wuod Harun, ma jadolo, mondo ogol tawo miwangʼo ubani kendo okee mirni mar mach mabor, nimar tawono ler
+nimar gin tawo mag joma otimo richo ewi ngimagi giwegi. Los tawono moriere kendo iketgi ewi kendo mar misango, nimar nochiwgi e nyim Jehova Nyasaye kendo gisebedo maler. We gibed ranyisi ne jo-Israel.”
+Omiyo Eliazar jadolo nochoko tawo mar mula mane okel gi jogo mane osewangʼ, kendo nochokogi kanyakla monywasogi mondo muon-go kendo mar misango,
+mana kaka Jehova Nyasaye nochike kokalo kuom Musa. Ma ne parone jo-Israel ni onge ngʼato angʼata makmana nyikwa Harun ema onego bi mondo owangʼ gima dungʼ tik mangʼwe ngʼar e nyim Jehova Nyasaye, ka ok kamano to obiro chalo kaka Kora kod jolupne.
+Kinyne oganda mar jo-Israel duto nongʼurne Musa kod Harun. Negiwachonegi niya, “Usenego jo-Jehova Nyasaye.”
+To ka ogandano nochokore mar kwedo Musa kod Harun kendo gilokore ka gingʼiyo Hemb Romo, apoya nono boche polo noume kendo duongʼ mar Jehova Nyasaye noyangore.
+Eka Musa kod Harun nodhi e nyim Hemb Romo,
+kendo Jehova Nyasaye nowacho ne Musa niya,
+“Wuogi e kanyakla mondo omi atiekgi chuth.” Kendo Musa gi Harun nopodho auma e nyim Jehova Nyasaye.
+Eka Musa nowacho ne Harun niya, “Kaw tawo mar ubani mari kendo iket gima dungʼ tik mangʼwe ngʼar e iye, kaachiel gi mach moa e kendo mar misango, kendo iret idhi e chokruokno mondo itimnegi misango mar pwodhruok e richo. Mirima osebiro koa ir Jehova Nyasaye; masiche osechakore.”
+Omiyo Harun notimo kaka Musa nowachone, kendo noringo modhi e dier chokruok. Masira ne osechakore e dier ji, to Harun nochiwo gima dungʼ tik mangʼwe ngʼar kendo nokwayonegi ngʼwono kuom gima gisetimo.
+Nochungʼ e kind joma ngima gi joma otho, mi masiche norumo.
+Makmana ji alufu apar gangʼwen gi mia abiriyo (14,700) nosetho nikech masichego, komedore gi jogo mane osetho nikech Kora.
+Eka Harun noduogo ir Musa e dhoranga Hemb Romo, nimar masiche noserumo.
+Jehova Nyasaye nowacho ne Musa niya,
 “Wuo gi jo-Israel kendo ichok odunga apar gariyo koa kuomgi, achiel ka achiel koa kuom jatelo moro ka moro mar dhoutgi. Ndik nying ngʼato ka ngʼato kuom odungane.
 E odunga mar Lawi ndike nying Harun, nimar nyaka bedi odunga achiel mar jatelo mar dhoot ka dhoot.
 Ketgi e Hemb Romo e nyim Sandug Rapar, kama aromoe kodi.
@@ -4241,21 +4256,6 @@ Jehova Nyasaye nowacho ne Musa niya, “Dwok odunga mar Harun e nyim Sandug Rapa
 Musa notimo mana kaka Jehova Nyasaye nonyise.
 Jo-Israel nowacho ne Musa niya, “Wabiro tho! Waserwenyo, kendo wan duto waselal!
 Ngʼato angʼata mosudo machiegni gi hekalu mar Jehova Nyasaye biro tho. Dibed ni wan duto wabiro tho?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Jehova Nyasaye nowacho ne Harun niya, “In gi yawuoti kod od wuonu nyaka ukaw tingʼ mag richo motimne kama ler mar lemo, kendo in-gi yawuoti kende ema nyaka ukaw tingʼ richo motimne jodolo.
 Kel jo-Lawi weteu koa e dhoutu mag anywola mondo oriwre kodi kendo gikonyu ka in kod yawuote tiyo e nyim Hema mar Sandug Rapar.
 Nyaka giwinju kendo giti tije duto mag Hema, to kik gidhi machiegni gi gig kama ler mar lemo kata mag kendo mar misango, ka ok kamano to gin kod un duto ubiro tho.
@@ -4647,6 +4647,7 @@ Kelneuru Jehova Nyasaye chiwo madungʼ tik mangʼwe ngʼar mar misango miwangʼo
 Chiwo mag cham kod misango miolo piny nyaka keti kaka chik dwaro maromre gi rwadhno, imno kod nyiimbego.
 Ewi mago meduru nywok achiel kaka chiwo mar pwodhruok e richo, kumedo ewi misango miwangʼo pep mapile mar cham kaachiel gi misango miolo piny.
 “ ‘Kuom chiwo mar kwongʼruok kod chiwo mar hera, losneuru Jehova Nyasaye sewni moyier kaka: misango miwangʼo pep, chiwo mag cham, misango miolo piny kod chiwo mag lalruok.’ ”
+Musa nonyiso jo-Israel gigo duto mane Jehova Nyasaye ochike.
 Musa nowacho ne jotend dhout Israel niya, “Jehova Nyasaye ochiko kama:
 Ka ngʼato osingore ne Jehova Nyasaye kata kokwongʼore mar timo gimoro to kik olokre, to nyaka one ni ochopo singruokneno.
 “Ka nyako ma rawera ma pod odak e od wuon mare osingore ne Jehova Nyasaye kata okwongʼore mar timo gimoro
@@ -4663,7 +4664,6 @@ Chwor dhako nyalo guro kata ketho singruok kata kwongʼruok ma chiege dwaro sand
 To ka chwore ok owacho gimoro kuom wachno odiechiengʼ ka odiechiengʼ, to nochop kwongʼruok mage kod singruok mage duto motwerego. Kwongʼruokgo nosiki nikech kane owinjogi to nolingʼ.
 To ka dipo ni olokore bangʼe modagi kosewinjogi, to ketho mar chiege nobed e wiye owuon.”
 Magi e chike mane Jehova Nyasaye omiyo Musa kaluwore gidak manie kind dichwo gi dhako, kendo e kind wuoro gi nyare ma pod tin modak e odgi.
-
 Jehova Nyasaye nowacho ne Musa niya,
 “In kaachiel gi jo-Israel dhi uked gi jo-Midian, eka bangʼe ibiro tho miluw bangʼ kwereni.”
 Omiyo Musa nowacho ne jo-Israel niya, “Yieruru jou moko mondo odhi oked gi jo-Midian kendo gitiek mirimb Jehova Nyasaye kuomgi.
@@ -5271,6 +5271,7 @@ Beduru motangʼ ka urito chike ma amiyou mondo udhi maber kaachiel gi nyikwau ni
 Jehova Nyasaye ma Nyasachu biro riembo ogendini ma ubiro monjo kendo kawo pinygi ka uneno. To ka useriembogi oko mi udak e pinygi,
 kendo bangʼ ka osetiekgi chuth e nyimu, to beduru motangʼ kendo kik upenj weche mag nyisechegi ka uwacho niya, “Ere kaka ogendinigi ne tiyo ni nyisechegi? Wan bende wabiro timo kamano.”
 Ok onego ulam Jehova Nyasaye ma Nyasachu kaka gilamo nyisechegi, nikech Jehova Nyasaye mon gi kit lamo ma gilamogo nyisechegigo, kendo gitimo giko mamono duto ma Jehova Nyasaye osin-go. To bende gitimo misango gi yawuotgi kod nyigi e mach ka gichiwo ne nyisechegi.
+Neuru ni utimo gik moko duto machikou, kendo kik umedie gimoro kata kik ugol.
 Ka janabi moro kata ngʼat mokoro gik mabiro timore e lek otuch e dieru kendo ohulo wach moro mar hono kod ranyisi,
 kendo ka honono kod ranyisino ma ohulo otimore bangʼe owacho niya, “We walu nyiseche mamokogi (ma gin nyiseche ma ok ungʼeyo) kendo ka owacho ni we walamgi,”
 to kik uwinj wach janabino kata jalekno. Jehova Nyasaye ma Nyasachu temou mondo ongʼe ane ka uhere gi chunyu duto kod ngimau duto.
@@ -5289,7 +5290,6 @@ to nyaka uneg jogo duto modak e dalano gi ligangla. Neg-giuru duto kaachiel gi j
 Chokuru gik moyaki dalano kendo uketgi e laru mi uwangʼ-gi kaka misango miwangʼo pep ne Jehova Nyasaye ma Nyasachu. Nyaka odongʼ gunda ma ok nochak ger.
 Gik mamonogo kik yud e lwetu eka mirima mager mar Jehova Nyasaye norum, mi notimnu ngʼwono kendo ununyaa kaka nosingore ne kwereu.
 Nikech uluoro Jehova Nyasaye ma Nyasachu, kurito chikene duto ma amiyi kawuono kendo ka utimo gik makare e wangʼ Jehova Nyasaye.
-
 Un e nyithind Jehova Nyasaye ma Nyasachu. Kik usar dendu kata uliel yie wiu, kuywago ngʼama otho, kata lielo pat wangʼu,
 nimar un oganda mowal ne Jehova Nyasaye ma Nyasachu. Kuom ogendini manie wangʼ piny, Jehova Nyasaye oseyierou mondo ubed mwandune mogeno.
 Kik ucham gimoro amora makwero.
@@ -5499,6 +5499,7 @@ Kik utim gima rach ne nyakono, onge richo motimo mowinjore gi tho. Wachni chalo 
 nimar ngʼatni noromo gi nyakoni to kata nyako mosetimgo winjruokni ogoyo koko, ne onge ngʼama okonye.
 Ka ngʼato oromo gi nyako mapok otimo winjruok mar kend gi ngʼato mi oterore kode githuon mi ofwenygi,
 nyaka ochul wuon nyakono sekel piero abich mar fedha. Nyaka okend nyakono nimar osekethone, kendo ok noriembe e ndalo duto mar ngimane.
+Ngʼato ok onego kend chi wuon, kendo kik odwany kitanda wuon mare.
 Ngʼat ma nyangetane otore kata ma duongʼne ongʼad oko kik donj e chokruok mar Jehova Nyasaye.
 Ngʼat ma onywol e kend ma ok nikare kata nyikwaye ok onego odonji e chokruok mar Jehova Nyasaye nyaka tiengʼ mar apar.
 Jo-Amon kata jo-Moab kata achiel kuom nyikwaye ok onego odonj e chokruok mar Jehova Nyasaye nyaka e tiengʼ mar apar,
@@ -5524,7 +5525,6 @@ To ka ok ukwongʼoru to ok unubed joketho.
 Gimoro amora ma dhogi owacho nyaka itim, nimar ne ukwongʼoru kendu ne Jehova Nyasaye ma Nyasachu gi dhou uwegi.
 Ka idonjo e puoth olemo mar wadu, inyalo chamo olemb mzabibu duto ma idwaro, to kik itingʼ moko ei okapu idhigo.
 Ka idonjo e puoth cham mar wadu, to inyalo jako wiye cham gi lweti, kendo kik ika cham mochungʼ.
-
 Ka ngʼato okendo dhako, to bangʼe oyudo ni ok ohere nikech osetimo gimoro ma ok nikare, onyalo ndikone barup weruok mar ketho keny, kendo oriembe oa e ode.
 Bangʼe ka dhakono osea e ode, mi obedo chi ngʼat machielo,
 to chwore mar ariyono bende ojok kode, mondiko barup weruok momiye, kendo oriembe, kata ka chwore mar ariyono otho,
@@ -5679,7 +5679,6 @@ E kind pinjego ok unuyudie hoch kata yweyo ka ombongʼ tiendeu ool. Kuno Jehova 
 Unudag ka ukia gima biro timorenu; ka un gilworo odiechiengʼ kod otieno, ka ukia gima biro timore ne ngimau.
 Ka piny oru gokinyi unuwach niya, “Mad ne bedni en odhiambo” kendo godhiambo unuwach niya, “Mad ne piny bed ni en okinyi” nikech masira ma unune nopongʼ chunyu kod gik ma wengeu none.
 Jehova Nyasaye nooru dok Misri gi yiedhi, e wuoth mane awacho ni ok onego udhiye. Kuno unuchiwru ne wasiku kaka chwo kod mon ma jotich to onge ngʼama noyie ngʼiewou.
-
 Magi e weche mag singruok mane Jehova Nyasaye ochiko Musa mondo omi jo-Israel otim kane gin Moab, kaachiel gi singruok mane osetimo kodgi Horeb.
 Musa noluongo jo-Israel duto mowachonegi niya, Useneno gi wangʼu gik moko duto mane Jehova Nyasaye otimo Misri ne Farao, jodonge duto, to gi pinyno.
 Ne uneno gi wangʼu timbe madongo mane gin ranyisi gi honni.
@@ -5708,6 +5707,7 @@ To nodwokgi niya, “Nikech jogi ne ojwangʼo singruok mar Jehova Nyasaye, ma Ny
 Negidhi mi gilamo nyiseche moko nono ma gikulorenegi, nyiseche mane ok gingʼeyo, ma gin nyiseche mane ok imiyogi mondo gilam.
 Emomiyo mirimb Jehova Nyasaye nowangʼo pinyni, kokelo kuomgi kwongʼ duto ma ondiki e kitabuni.
 Kane Jehova Nyasaye iye owangʼ ka en gi mirima mager, nogologi oko mi oterogi e piny moro ma pod gintiere nyaka chil kawuono.”
+Gik mopondo duto ni e lwet Jehova Nyasaye ma Nyasachwa, to gik mofwenynwa gin magwa kod nyithindwa nyaka chiengʼ, mondo mi walu weche duto mondiki e kitabuni.
 Ka gweth kata kwongʼ-gi ma aseketo e nyimu obironu kendo uketogi e chunyu kamoro amora ma Jehova Nyasaye ma Nyasachu nokewu e kind pinje,
 kendo ka un kod nyithindu udwogo ir Jehova Nyasaye ma Nyasachu ka uchiwo ne luor kod chunyu duto gi ngimau duto ma achikou kawuono,
 eka Jehova Nyasaye ma Nyasachu biro chopo gweth mare kuomu obiro bedo gi miwafu ne un ma ochoku duto ka uwuok e pinje duto mane okeyoue.
@@ -7771,6 +7771,7 @@ Eka nokok kowacho niya, “Reti! Dhi piyo! Kik ichungʼ!” Wuowino nokwanyo ase
 Wuowino ne ok ongʼeyo gimoro amora mane timore, makmana Jonathan gi Daudi kende ema nongʼeyo.
 Eka Jonathan nomiyo wuowino gige mag lweny mowachone niya, “Dhiyo idwokgi dala.”
 Bangʼ ka wuowino nosedhi, Daudi nowuok yo milambo mar dir kidi, mi okulore piny e nyim Jonathan nyadidek ka lend wangʼe mulo piny. Eka ne gimosore ma giywak giduto to Daudi noywak moloyo.
+
 Jonathan nowachone Daudi niya, “Dhi gi kwe nimar wasesingore e nyim Jehova Nyasaye ni osiep man e kindwa kodi ka wakwongʼore niya, Jehova Nyasaye obed janeno e kindi koda kendo e kind nyikwayi kod nyikwaya nyaka chiengʼ” Eka Daudi nowuok to Jonathan bende nodok dala.
 Daudi nodhi Nob ir Ahimelek jadolo. Ahimelek nokirni kane oromo kode mopenjo niya, “Angʼo momiyo in kendi? Angʼo momiyo ngʼato ok obiro kodi?”
 Daudi nodwoko Ahimelek jadolo niya, “Ruoth oseora e ote moro konyisa ni, ‘Kik ngʼato ngʼe gimoro amora kuom oteni kod gik monyisi mondo itim.’ Joga to asechiko mondo waromgo kamoro.
@@ -7787,7 +7788,6 @@ Wechegi nodonjo e chuny Daudi mi nomiyo oluoro Akish ruoth Gath ahinya.
 Omiyo nowuondore ni en janeko e nyimgi kanyo, kane en e lwetgi notimo timbe mag janeko, kogwaro dhorangach kendo koweyo olawo wuok e dhoge nyaka e yie tike.
 Akish nowachone jotije niya, “Ngʼiuru ngʼatni en janeko! Angʼo momiyo ukele ira?
 Uparo ni aonge gi joneko moromo momiyo ukelo ngʼatni e nyima? Ne ochuno ni nyaka ngʼatni bi e oda?”
-
 Daudi nowuok Gath moringo odhi e rogo mar Adulam. Kane owetene kod joodgi duto owinjo wachno, negidhi ire kuno.
 Ji duto mane nigi chandruok kata mane nigi gowi kata nigi ngʼur moro amora nochokore modhi ire, mine obet jatendgi. Ne gin chwo madirom mia angʼwen mane ni kode.
 Ka Daudi noa kanyo nodhi Mizpa e piny Moab mowachone ruoth Moab niya, “Bende diyie mondo wuora gi minwa obi odag kodi nyaka angʼe gima Nyasaye biro timona?”
@@ -7839,6 +7839,7 @@ Saulo gi joge nochako dwero, ka nowach ne Daudi wachno, nolor mwalo e lwanda mi 
 Saulo ne dhi e bath got konchiel to Daudi gi joge ne ni e bathe kumachielo, ka giringo mondo gi yomb Saulo. Ka Saulo gi jolwenje ne chiegni juko Daudi gi joge mondo gimakgi,
 jaote nobiro ir Saulo, mowacho niya, “Bi piyo! Jo-Filistia osebiro monjo piny.”
 Eka Saulo noweyo lawo Daudi mi odhi rado gi jo-Filistia. Mano emomiyo iluongo kanyo ni Sela Hamalekoth.
+To Daudi nodhi malo koa kanyo modak e kuonde pondo mag En Gedi.
 Bangʼ ka Saulo nosea lawo jo-Filistia, nowachne niya, “Daudi nitie e Thim En Gedi.”
 Omiyo Saulo nokawo ji alufu adek; ji moyier kowuok e Israel duto, eka noikore mowuok kodhi dwaro Daudi gi joge but Rogo ma Nyakech pondoe.
 Nobiro e abila mar rombe man but yo; to kanyo ne nitie rogo, to Saulo nodonjo e rogono mondo olosre. Daudi gi joge bende ne osedonjo ei rogono.
@@ -7861,7 +7862,6 @@ Ka ngʼato onwangʼo jasike, bende oweye odhi ma ok ohinye? Mad Jehova Nyasaye c
 Angʼeyo ni adieri ibiro bet ruoth kendo pinyruodh Israel nodhi nyime maber e bwo lochni.
 Koro singrina gi nying Jehova Nyasaye ni ok ningʼad nyikwaya kata rucho nyinga oko e od wuora.”
 Omiyo Daudi nosingore ne Saulo. Eka Saulo nodok dala, to Daudi gi joge nodhi e kargi mar pondo.
-
 Koro Samuel notho, kendo Israel duto nochokore moywage; mine giike e dalane Rama. Bangʼe Daudi nowuok molor piny e Thim Paran.
 Ne nitie ngʼat moro e piny Maon mane nigi mwandu Karmel, ne en jamoko ahinya. Ne en gi diek alufu achiel gi rombe alufu adek, mane ongʼado yiegi e Karmel.
 Ne iluonge ni Nabal to chiege ne iluongo ni Abigael. Ne en dhako mariek kendo ne ojaber, to chwore ne ja-dhood Kaleb, ne en ngʼama koch, jagwondo kendo ma timbene richo.
@@ -8511,6 +8511,7 @@ Ruoth nopenjo niya, “Bende wuowi ma Abisalom ngima?” Ahimaz nodwoke niya, �
 To ruoth nowachone niya, “Chungʼ e bathe ka kendo iriti.” Omiyo nosudo bathe mochungʼ kanyo.
 Eka ja-Kush nochopo mowacho niya, “Ruodha ma en ruoth, winj wach maber! Jehova Nyasaye oseresi kawuononi e lwet joma piem kodi duto.”
 Ruoth nopenjo ja-Kush niya, “Bende wuowi ma Abisalom ngima?” Ja-Kush nodwoko niya, “Mad wasigu mag ruodha ma en ruoth gi ji duto mane ongʼanyo ka dwahinyi obed kaka wuowino.”
+Ruoth nobwok motetni. Noidho malo e ot man ewi rangach mi oywak. Noywak kowacho niya, “Yaye wuoda Abisalom, wuoda, wuoda Abisalom! Onego an ema ne atho kari, yaye Abisalom wuoda, wuoda!”
 Nowach ne Joab niya, “Ruoth dengo malit kaywago Abisalom.”
 Loch machiengʼno nolokore ywak ni jolweny, nikech migepe mag jolweny, nowinjo kiwacho niya, “Ruoth okuyo nikech tho wuode.”
 Ji nodonjo lingʼ-lingʼ e dala maduongʼ chiengʼno mana kaka joma oloo e lweny duogo alucha ka wigi okuot.
@@ -8554,7 +8555,6 @@ Kane ruoth ongʼado odhi loka Gilgal, Kimham nongʼado kode. Jolweny duto mag Ju
 Piyo piyo nono jo-Israel nobiro ir ruoth mi giwachone niya, “Angʼo manomiyo owetewa ma jo-Juda, kelo ruoth lingʼ-lingʼ gi joode loka aora Jordan, kaachiel gi joge duto?”
 Jo-Juda duto nodwoko jo-Israel niya, “Ne watimo ma nikech ruoth en watwa machiegni. Angʼo momiyo iu owangʼ. Bende wasechamo gimoro moa ka ruoth? Bende wasekawoe gimoro ni wan wawegi?”
 Eka jo-Israel nodwoko jo-Juda duto niya, “Wan dhoudi apar e loch Daudi, to ewi mano, wan gi ratiro maduongʼ kuom Daudi moloyou. Koro angʼo momiyo ujarowa kamano? Donge wan ema ne wakwongo paro wach mar duogo ruodhwa?” To kata kamano jo-Juda nobedo mager moloyo jo-Israel.
-
 To koro ne nitie ja-Benjamin machach ma nyinge Sheba wuod Bikri. Nogoyo turumbete kokok kowacho niya, “Waonge wat moro gi joka Daudi, kata gima oriwowa gi wuod Jesse! Yaye, ja-Israel moro ka moro odog e hembe!”
 Omiyo jo-Israel duto noweyo Daudi mondo oluw Sheba wuod Bikri. To jo-Juda to nodongʼ gi ruodhgi ka gia Jordan nyaka gichopo Jerusalem.
 Kane Daudi odwogo dalane Jerusalem, nokawo monde apar mamoko mane oweyo mondo orit dalane, mine oketogi e ot moro miritogie. Nomiyogi gik ma gikonyorego, to ne ok oriwore kodgi. Nolornegi e ot nyaka ne githo, ka gidak ka mon ma chwogi otho.
@@ -8865,6 +8865,20 @@ Jehoshafat wuod Parua norito Isakar;
 Shimei wuod Ela norito Benjamin;
 Geber wuod Uri norito Gilead (enie piny mane Sihon ruoth jo-Amor kod Og ruodh Bashan ne rito chon). En kende ema ne en jaduongʼ motelone gwengʼno.
 Oganda jo-Juda gi jo-Israel ne ngʼeny machalo ka kuoyo manie e dho nam; negichiemo, mi negimetho kendo negimor.
+Kendo Solomon nobedo ruodh pinyno duto chakre Aora maduongʼ mar Yufrate nyaka e piny jo-Filistia mochweyo nyaka giko piny Misri. Pinjegi duto ne kelo osuru ni Solomon bende ne gin e bwo lochne ndalo duto.
+Chiemo mane Solomon nwangʼo odiechiengʼ kodiechiengʼ ne romo gunde piero auchiel mag mogo mayom kod gunde mia achiel gi piero ariyo ariyo mag mogo amoga;
+rwedhi apar machwe mopongʼ, rwedhi piero ariyo machwe kod rombe gi diek mia achiel kaachiel gi mwanda; ogunde, ring ngawo kod awendo machwe.
+Nimar nobedo gi loch kuom pinjeruodhi duto man yo podho chiengʼ mar Aora maduongʼ chakre Tifsa nyaka Gaza kendo ne en gi kwe gi joma olwore duto.
+E ndalo mag ngima mar Solomon Juda gi Israel chakre Dan nyaka Bersheba nodak gi kwe ka ngʼato ka ngʼato tiyo e puothe mar mzabibu kod ngʼope.
+Solomon ne nigi udi alufu piero angʼwen moger ni Farese kod Farese alufu apar gariyo.
+Jodong gwengʼno, moro ka moro e dweye ne chiwo ni ruoth Solomon gi welo duto mane oluongo, maonge gimoro amora morem.
+Bende ngʼato ka ngʼato nokelo Shairi gi lum e kuondegi mag keno ne farese maywa geche kod farese mamoko.
+Nyasaye nomiyo Solomon rieko gi ngʼeyo matut moloyo kod winjo ma ok nyalo pimore mana ka kwoyo manie dho nam.
+Rieko Solomon ne duongʼ moloyo jorieko duto manie yo wuok chiengʼ, bende noduongʼ moloyo rieko duto mag Misri.
+Noriek moloyo ngʼato angʼata moriwo kata mana Ethan ja-Ezra kendo riek moloyo Heman gi Kalkol kod Darda yawuot Mahol. Kendo humbe nolandore e pinje molwore duto.
+Nogoyo ngeche alufu adek kendo wende mane owero noromo alufu achiel gi abich.
+Nowuoyo kuom kit yien kochako gi yiende Sida mag Lebanon nyaka owino magawore e kor udi. Bende nopuonjo ji kuom le kod winy gi le mamol kod rech.
+Ji moa e pinje duto nobiro mondo owinji rieko Solomon koorgi gi ruodhi mag piny mane osewinjo humb riekone.
 Kane Hiram ruodh Turo owinjo ni Solomon osewir mondo obed ruoth kar Daudi wuon-gi, nooro joote ire nikech nosebedo ka en osiepe kod Daudi.
 Solomon nooro wachne Hiram kowacho niya,
 “Ingʼeyo ni nikech lwenje duto mane Daudi wuora kedogo koni gi koni mane miyo ok onyal gero hekalu moluongo Nying Jehova Nyasaye ma Nyasache nyaka chop Jehova Nyasaye ket wasike duto e bwo tiende.
@@ -8883,20 +8897,6 @@ Solomon ne nigi jotingʼo alufu piero abiriyo (70,000) kod jopa kidi ewi got ji 
 kaachiel gi nyipeche alufu adek gi mia adek (3,300) mane ochungʼ ne tich.
 Kane ruoth oketonegi chik negimuko kite madongo ma nengogi tek mag mise mag kite mopa mag hekalu.
 Kamano jogedo molony mag Solomon gi Hiram kod jo-Gibal nongʼado yien kendo oloso bepe kod kite mag gero hekalu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 E higa mar mia angʼwen gi piero aboro bangʼ ka jo-Israel osewuok Misri, e higa mar angʼwen mar loch Solomon kuom Israel e dwe mar Ziv, dwe mar ariyo nochako gero hekalu mar Jehova Nyasaye.
 Hekalu mane ruoth Solomon ogero ni Jehova Nyasaye borne noromo fut piero aboro gochiko kendo lachne ne romo fut piero adek to borne madhi malo ne romo fut piero angʼwen gangʼwen.
 Bor mar agola mane nitie e nyim hekalu noywayo lach hekalu, moromo fut piero adek kendo notingʼore malo maromo fut apar gabich.
@@ -9523,6 +9523,7 @@ Timbe mamoko mag loch Ahab kaachiel gi gik moko duto mane otimo, gi dala ruoth m
 Ahab noyweyo gi kwerene, kendo Ahazia wuode nokawo lochne kaka ruoth.
 Jehoshafat wuod Asa nodoko ruodh Juda e higa mar angʼwen mar Ahab ruodh Israel.
 Jehoshafat ne ja-higni piero adek gabich kane obedo ruoth kendo norito piny kodak Jerusalem kuom higni piero adek gabich. Min mare ne nyinge Azuba nyar Shilhi.
+
 E gik moko duto noluwo yore Asa wuon mare kendo ne ok oweyogi, nimar notimo gima kare e nyim Jehova Nyasaye. To kata kamano kuonde motingʼore gi malo mag lemo ne ok omuki kendo ji nodhi nyime mana gi chiwo misengini kendo wangʼo ubani.
 Jehoshafat bende ne nigi kwe gi ruodh Israel.
 Gik mamoko manotimore ndalo loch Jehoshafat gi gik mane otimo kaachiel gi humbe lwenjene, donge ondikgi e kitepe rapar mar ruodhi Juda?
@@ -9534,7 +9535,6 @@ Jehoshafat notho kaka kwerene kendo noyike but kwerene e dala maduongʼ mar Daud
 Ahazia wuod Ahab nobedo ruodh Israel e Samaria e higa mar apar gabiriyo mar loch Jehoshafat ruodh Juda, kendo nobedo ruodh Israel higni ariyo.
 Notimo richo e nyim Jehova Nyasaye nikech nowuotho e yore mag wuon-gi gi min-gi kendo e yore mag Jeroboam wuod Nebat mane omiyo Israel otimo richo.
 Notiyo ni Baal kendo nolame mi nomiyo Jehova Nyasaye, Nyasach Israel, obedo gi mirima mana kaka wuon-gi nosetimo.
-
 Bangʼ tho Ahab, jo-Moab nongʼanyo ne Israel.
 E kindeno Ahazia nosegore piny koa ewi ode mar gorofa man Samaria mi ohinyore, ne ooro joote kowacho niya, “Dhiyo mondo ipenj Baal-Zebub ma nyasach Ekron, mondo iwinji ane ni bende abiro chango e hinyruoknani.”
 To malaika mar Jehova Nyasaye nowachone Elija ja-Tishbi niya, “Dhiyo mondo irom gi joote mag ruodh Samaria mondo ipenjgi ni, ‘Nyasaye onge e Israel ka koso mamiyo upenjo Baal-Zebub ma nyasach jo-Ekron wach?’
@@ -9851,6 +9851,7 @@ Eka Jehoyada nomiyo ruoth kod jo-Israel osingore ne Jehova Nyasaye ni ginibed jo
 Jopinyno nodhi e hekalu mar Baal kendo negimuke piny. Negitoyo matindo tindo kendo mar misango kod nyiseche manono mi ginego Matan jadolo mar Baal e nyim kende mag misango. Bangʼ mano Jehoyada jadolo noketo joma rito hekalu mar Jehova Nyasaye.
 Nokawo jotend migepe mag jolweny mia achiel-ka, jo-Kari, jorito kod jopinyno duto kendo giduto kanyakla negikelo ruoth koa e hekalu mar Jehova Nyasaye mi gikowe nyaka kare mar dak, ka giluwo dhoranga jorito. Bangʼ mano Joash nobedo e kome mar loch.
 Jopinyno duto nobedo gi mor kendo dala maduongʼ nobedo gi kwe nikech Athalia nosenegi gi ligangla e kar dak ruoth.
+Joash ne ja-higni abiriyo kane ochako bedo e loch.
 E higa mar abiriyo mar loch Jehu, Joash nobedo ruoth kendo nobedo e loch Jerusalem kuom higni piero angʼwen. Min mare ne iluongo ni Zibia; mane aa Bersheba.
 Joash notimo gima ber e wangʼ Jehova Nyasaye e higni duto mane Jehoyada jadolo ne ngʼadone rieko.
 Kata kamano kuonde motingʼore gi malo mag wangʼo misengini ne ok omuki kendo ji nodhi nyime mana gi chiwo misengini kod wangʼo ubani mangʼwe ngʼar kanyo.
@@ -9872,7 +9873,6 @@ To Joash ruodh Juda nokawo gik moko duto mowal mane kwerene kaka Jehoshafat, Jeh
 To kuom weche moko mondiki e ndalo loch Joash gi gik moko duto mane otimo donge gin e kitabu mondikie weche mag ndalo mag ruodhi Juda?
 Jodonge nowinjore mondo ondhoge mi onege e Beth Milo, e yo madhi mwalo Sila.
 Jodonge mane onege ne gin Jozabad wuod Shimeath kod Jehozabad wuod Shomer. Notho moike kod kwerene e Dala Maduongʼ mar Daudi kendo Amazia wuode nobedo ruoth kare.
-
 E higa mar piero ariyo gadek mar loch Joash wuod Ahazia ruodh Juda, Jehoahaz wuod Jehu nobedo ruodh Israel ka en Samaria kendo nobedo e ruoth kuom higni apar gabiriyo.
 Notimo gik mamono e nyim wangʼ Jehova Nyasaye, kane oluwo timbe maricho mag Jeroboam wuod Nebat, mane omiyo jo-Israel odonje kendo ne ok olokore weyo gigo.
 Kuom mano Jehova Nyasaye nokecho gi jo-Israel kendo kuom ndalo mangʼeny noweyogi e bwo loch Hazael ruodh Aram kod Ben-Hadad wuode.
@@ -10456,21 +10456,6 @@ Nus mar dhood jo-Manase ne ngʼeny mokadho; negidak e piny jo-Bashan nyaka Baal 
 Magi ema ne jotelo mar anywolagi: Efer, Ishi, Eliel Azriel, Jeremia, Hodavia kod Jadiel. Ne gin jolweny mathuondi kendo marahuma kendo jotend anywolagi.
 To negiweyo Nyasach kweregi ma gindhogore kendgi gi nyiseche mag jopinyno mane Nyasaye owachonegi ni ginegi.
 Omiyo Nyasach jo-Israel nojiwo chuny Pul ruodh jo-Asuria (ma bende iluongo ni Tiglath-Pilesa ruodh jo-Asuria), mane otero jo-Reuben, jo-Gad, kod nus mar dhood jo-Manase e twech. Ne oterogi Hala, Habor, Hera kod but aora Gozan kuma gidakie nyaka chil kawuono.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Yawuot Lawi ne gin: Gershon, Kohath kod Merari.
 Yawuot Kohath ne gin: Amram, Izhar, Hebron kod Uziel.
 Nyithind Amram ne gin: Harun, Musa kod Miriam. Yawuot Harun ne gin: Nadab, Abihu, Eliazar kod Ithamar
@@ -10537,6 +10522,21 @@ Joka Merari kuom anywola ka anywola to nopog mier apar gariyo koa kuom oganda Re
 Omiyo jo-Israel nomiyo jo-Lawi miechgi kod kuondegi mag kwath.
 Koa kuom oganda Juda, Simeon, kod Benjamin negipogogi mier mondik malogo.
 Dhood Kohath mamoko ne omi mier mag dak ei oganda Efraim.
+E piny got mar Efraim nomigi Shekem (ma en dala maduongʼ mar pondo) kod Gezer,
+Jokmeam, Beth Horon,
+Aijalon to gi Gath Rimon, kaachiel gi kuonde kweth.
+To koa kuom nus oganda Manase jo-Israel nochiwo Aner kod Biliam, kaachiel gi kuondegi mag kwath ne anywola dhout Kohath mane odongʼ.
+Jo-Gershon nonwangʼo magi: Koa kuom nus anywola mar joka Manase, neginwangʼo Golan man Bashan kod Ashtaroth bende, kaachiel gi kuondegi mag kwath;
+koa kuom oganda Isakar neginwangʼo Kedesh, Daberath,
+Ramoth kod Anem, kaachiel gi kuondegi mag kwath,
+koa kuom oganda Asher neginwangʼo Mashal, Abdon,
+Hukok kod Rehob, kaachiel gi kuondegi mag kwath;
+kendo kuom oganda jo-Naftali neginwangʼo Kedesh ei Galili, Hamon kod Kiriathaim, kaachiel gi kuondegi mag kwath.
+Jo-Merari (ma gin jo-Lawi modongʼ) nonwangʼo magi: Koa kuom oganda Zebulun neginwangʼo Jokneam, Karta, Rimono kod Tabor kaachiel gi kuondegi mag kwath;
+koa kuom oganda Reuben modak loka Jordan, yo wuok chiengʼ momanyore gi Jeriko neginwangʼo Bezer e piny thim mar Jazer,
+Kedemoth kod Mefath kaachiel gi kuondegi mag kwath;
+to koa kuom oganda Gad neginwangʼo Ramoth man Gilead, Mahanaim,
+Heshbon kod Jazer kaachiel gi kuondegi mag kwath.
 Yawuot Isakar ne gin: Tola, Pua, Jashub kod Shimron. Yawuot Isakar duto ne gin yawuowi angʼwen.
 Yawuot Tola ne gin: Uzi, Refaya, Jeriel, Jamai, Ibsam kod Samuel, mane en jotend anywolagi. Ndalo loch Daudi, joka Tola kokwan chwo ma jolweny koluwore gi nonro mar nywolgi ne gin ji alufu piero ariyo gariyo gi mia auchiel (22,600).
 Wuod Uzi ne en: Izrahia. Yawuot Izrahia ne gin: Mikael, Obadia, Joel kod Ishia. Yawuowi abichgo ne gin ruodhi.
@@ -10725,6 +10725,7 @@ Eliel, Obed kod Jasiel ja-Mezoba.
 Magi e joma nobiro ir Daudi Ziklag kane Saulo wuod Kish oseriembe e nyime (jogi ne gin achiel kuom jolweny mane okonye e lweny;
 mane omanore gi atungʼ mikedogo, kendo neginyalo diro asere kata orujre gi badgi korachwich kata koracham, bende ne gin wede Saulo koa e oganda mar Benjamin):
 Jogi ne gin: Ahiezer ma jatendgi gi Joash owadgi ma yawuot Shema ja-Gibea, kod Jeziel gi Pelet yawuot Azmaveth; Beraka gi Jehu jo-Anathoth,
+
 gi Ishmaya ja-Gibeon, ngʼat maratego kuom thuondi piero adek, ma bende ne en jatelo mar thuondi piero adek, kod Jeremia gi Jahaziel gi Johanan gi Jozabad ma ja-Gedera,
 gi Eluzai gi Jerimoth gi Bealia gi Shemaria gi Shefatia ja-Haruf;
 kod Elkana gi Ishia gi Azarel gi Joezer kod Jashobeam ja-Kora,
@@ -10762,7 +10763,6 @@ kendo koa yo wuok chiengʼ mar Jordan, joka Reuben, joka Gad kod nus mar dhood j
 Jolwenygi duto nochiwore mondo giti kode. Negibiro Hebron ka gingʼado e chunygi ni Daudi nyaka bed ruodh jo-Israel duto. To jo-Israel mamoko bende ne nigi paro achiel mondo Daudi oket ruoth.
 Jogi nobedo gi Daudi ndalo adek ka gichiemo kendo metho nikech jowetegi noseikonigi gik moko.
 Bende joma nokiewo kodgi koa ka joka Isakar, joka Zebulun nyaka ka jo-Naftali nobiro kotingʼo chiemo e punde, ngamia, pundane kod rwedhi. Negikelo gik moko mangʼeny machalo mogo, olembe mag ngʼowu gi mag mzabibu motwo mongʼin gi divai, gi mo, dhok kaachiel gi rombe nikech ne nitiere mor e Israel.
-
 Daudi noporo wach kod jotende, jotend lweny alufe kod jotend lweny miche.
 Bangʼe nowachone riwruok duto mar jo-Israel niya, “Ka wachni bernu kendo ka en dwaro mar Jehova Nyasaye ma Nyasachwa, to waor wach ne jowetewa mamoko kamoro amora ma gintiere e kuonde mag Israel kaachiel gi jodolo gi jo-Lawi man kodgi e miechgi to gi lege mag kwath mondo gibi irwa.
 Eka mondo waom Sandug Muma mar Nyasachwa ma wakel ka nikech ne ok wamanye e kinde loch Saulo.”
@@ -11214,7 +11214,6 @@ Solomon nongʼiewo geche mag lweny kod farese; ne en gi geche lweny alufu achiel
 Ruoth nomiyo fedha gi dhahabu obedo manwangʼo yot ka kidi akida Jerusalem kendo yiend sida ne ngʼeny mana ka yiend ngʼowu ma otwi e got.
 Solomon nokelo farese koa Misri kod e piny miluongo ni Kue, johala mag ruoth nongʼiewogi e piny Kue.
 Negingʼiewo gach lweny koa Misri e nengo mar kilo abiriyo mar fedha kendo faras achiel e nengo maromo kilo ariyo. Bende ne giusogi ni ruodhi duto mag jo-Hiti gi jo-Aram.
-
 Solomon nochiwo chik mondo ger hekalu ni Nying Jehova Nyasaye kod ode mar ruoth.
 Nondiko jotingʼ gik moko ji alufu piero abiriyo (70,000) gi jopa kite e got ji alufu piero aboro (80,000) kod nyipeche alufu adek gi mia auchiel (3,600).
 Solomon noorone Hiram ruodh Turo wach niya, “Orna yiend sida kaka ne iorone wuora Daudi sida mane ogerogo ode mar dak.
@@ -11232,6 +11231,7 @@ ma min-gi ne nyar Dan to wuon-gi ne ja-Turo. Ne otiegore e tije dhahabu, kod fed
 “Emomiyo ruodha yie iorna ngano gi shairi kod mo zeituni kod divai mane isingo.
 Wanatongʼ yiend Lebanon moromo kaka idwaro kendo nwatwegi kanyakla ma wakwangʼ-gi e nam nyaka Jopa, eka iniomgi mitergi Jerusalem.”
 Solomon nokwano jodak duto man Israel bangʼ kwan mane wuon mare Daudi nosekwano kendo noyudo ni gin ji alufu mia achiel gi piero abich gadek gi mia auchiel (153,600).
+Ne oketo ji alufu piero abiriyo (70,000) kuomgi mondo obed jotingʼo to ji alufu piero aboro (80,000) opa kite e gode kaachiel gi ji alufu adek gi mia auchiel (3,600) ma nyipechegi mondo omi ji oti.
 Bangʼe Solomon nochako gero hekalu mar Jehova Nyasaye Jerusalem e got Moria kama Jehova Nyasaye nofwenyore ne Daudi wuon mare. Ne en e kar dino cham mar Arauna ja-Jebus kama Daudi nochiwo.
 Nochako gedo odiechiengʼ mar ariyo e dwe mar ariyo e higa mar angʼwen mar lochne.
 Mise mar gero hekalu mar Jehova Nyasaye mane Solomon oketo ne en kama: borne ne romo fut piero aboro gaboro gi nus, lachne ne romo fut piero ariyo gochiko gi nus kaluwore gi rapim machon.
@@ -11478,7 +11478,6 @@ Abija nolawo Jeroboam mokawo mieche kaka Bethel gi Jeshana kod Efron kod mier ma
 Loch Jeroboam ne ok ochako obedo motegno e kinde Abija. Bangʼe Jehova Nyasaye nogoye motho.
 Loch Abija nomedo gurore motegno. Nokendo mon apar gangʼwen kendo ne en gi yawuowi piero ariyo gariyo kod nyiri apar gauchiel.
 Weche moko mag loch Abija, timbene duto kod gik mane owacho ondiki e kitap Ido janabi.
-
 Kendo Abija notho kaka kwerene kendo noyike e Dala Maduongʼ mar Daudi. Asa wuode nobedo ruoth kare kendo e kinde mar lochne ne nitiere kwe kuom higni apar.
 Asa notimo gik mabeyo kendo makare e nyim Jehova Nyasaye ma Nyasache.
 Nogolo kende mag misango mag pinje ma oko kaachiel gi kuonde motingʼore malo komuko kite milamo kendo ngʼado sirni mag Ashera.
@@ -11493,6 +11492,7 @@ Eka Asa noywak ne Jehova Nyasaye ma Nyasache kowacho niya, “Jehova Nyasaye, on
 Eka Jehova Nyasaye nonego jo-Kush e nyim Asa kod Juda. Jo-Kush noringo
 kendo Asa kod jolweny mage nolawogi nyaka Gerar. Jo-Kush mangʼeny nonegi mane ok ginyal konyo nikech Jehova Nyasaye gi jolweny mage ema notimo mano. Jo-Juda noyako gik mangʼeny ahinya.
 Negiketho mier matindo duto mokiewo gi Gerar nikech luoro moa kuom Jehova Nyasaye nomakogi. Ne giyako mier duto mane ni kanyo nikech ne nitiere gik moko mangʼeny kanyo.
+Negituro kunde dhok kendo negipeyo rombe, diek kod ngamia mathoth bangʼe negidok Jerusalem.
 Roho mar Nyasaye nolor kuom Azaria wuod Oded.
 Nodhi moromo kod Asa mowachone niya, “Chikuru itu mondo uwinja, in Asa gi jo-Juda duto kod jo-Benjamin. Jehova Nyasaye nikodu ka un bende un kode, kudware to ununwangʼe, to kujwangʼe to en bende nojwangʼu.
 Kuom kinde marabora jo-Israel ne onge gi Nyasaye ma adier kaachiel gi jadolo mane nyalo puonjogi kendo ne gionge gi chik.
@@ -12362,12 +12362,6 @@ Zadok wuod Imer nogedo kama omanyore gi ode. E dir Zadok, to Shemaya wuod Shekan
 Hanania wuod Shelemia, kod Hanun, wuod Zalaf mar auchiel, nogero migawo machielo e dir Shemaya. Meshulam wuod Berekia nogero ohinga e dir jogo, kama omanyore gi ode.
 Malkija, ma en achiel kuom jotheth, nogedo nyaka e od jotij hekalu kod jo-ohala, kama omanyore gi Dhoranga Nonro mi ochopo nyaka kama ohinga ogomogo.
 Jotheth kod jo-ohala ema noloso ohinga chakre gorofano nyaka Dhoranga Rombe.
-
-
-
-
-
-
 Kane Sanbalat owinjo ni wasechako gero ohinga, iye nowangʼ kendo mirima nomake. Ne ojaro jo-Yahudi,
 e nyim joma ne giriworego kod jolweny mag jo-Samaria, mowachonegi niya, “En angʼo ma jo-Yahudi manyapgi timo ka? Bende gibiro chako gero ohingano? Bende gibiro chiwo misango? Bende gibiro tieke godiechiengʼ achiel? Bende gibiro miyo kitegi bedo mangima ka gia e pith mag yugigo, kaka owangʼ-gi malichni?”
 Tobia ma ja-Amon, mane ochungʼ e bathe, nowacho niya, “Ohinga ma gigerono, kata ka kibwe ema oidho, to obiro ruombore piny!”
@@ -12385,6 +12379,12 @@ Kane asenono gigi maber, ne achungo malo kendo awachone joka ruoth, jotelo kod j
 Ka wasikwa nowinjo ni wasefwenyo chenro margi kendo ni Nyasaye ne oseketho parogi, ne wadok wate e gero ohinga, ngʼato ka ngʼato e tichne.
 Kochakore e odiechiengno, nus mar joga notiyo tijno, to nus modongʼ nomanore gi tongʼ, okumba, atungʼ kod gige lweny mag akor. Jotelo nochungʼ e tok jo-Juda duto
 mane gero ohinga. Joma ne otingʼo gige gedo ne tiyo gi lwetgi, to lwetgi komachielo otingʼo gir lweny,
+to jagedo ka jagedo notingʼo liganglane e bathe kodhi nyime kod tich. To ngʼatno mane goyo turumbete nodongʼ koda.
+Bangʼe ne awachone joka ruoth, jotelo kod joma moko niya, “Tich ngʼeny kendo pek, to wangelore e kor ohingani.
+Kamoro amora ma uwinjo ka turumbete oywakie, to yworwauru kanyo. Nyasachwa biro kedonwa!”
+Omiyo ne wadhi nyime gi tich ka nus mar jowa otingʼo tongʼ, kochakore kogwen nyaka sa ma piny imore.
+E sechego ne awachone ji niya, “Ket ngʼato ka ngʼato kod jakonyne obed ei Jerusalem gotieno, mondo omi gibed jorito gotieno, to giti godiechiengʼ.”
+An, kata owetena kata joga kata jorit mane ni koda ne ok ogolo lepgi; moro ka moro notingʼo liganglane mar lweny, kata mana ka wadhi tuomo pi.
 Joma chwo kod mondgi notingʼo dwondgi ka giywak matek ne owetegi ma jo-Yahudi.
 Moko kuomgi ne wacho niya, “Wan kod yawuotwa gi nyiwa wathoth mokalo; to mondo wachiem kendo wabed mangima, nyaka wabed kod cham.”
 Jomoko kuomgi ne wacho niya, “Wasingo ni ji puothewa, puothewa mag mzabibu, kod miechwa mondo wayud cham ndalo mar kech.”
@@ -12490,11 +12490,11 @@ Jogi nomanyo nonro mar anywolagi to ne ok ginyal yudogi, omiyo nowegi oko mar jo
 Emomiyo, jatelo maduongʼ nomiyogi chik mondo kik gicham chiemo moro amora mopwodhi manyaka jadolo bedie ma puonjogi gi Urim kod Thumim.
 Jogi duto noromo ji alufu piero angʼwen gariyo mia adek gi piero auchiel (42,360),
 kiweyo jotijegi machwo kod mamon mane gin ji alufu abiriyo mia adek gi piero adek gabiriyo (7,337); kendo ne gin gi jower machwo kod mamon maromo ji mia ariyo gi piero angʼwen gabich (245).
-Ne nitiere farese mia abiriyo gi piero adek gauchiel (736) kod kanyna mia ariyo gi piero angʼwen gabich (245)
-ngamia mia angʼwen gi piero adek gabich (435) kod punde alufu auchiel mia abiriyo gi piero ariyo (6,720).
+Ne nitiere farese mia abiriyo gi piero adek gauchiel (736) kod kanyna mia ariyo gi piero angʼwen gabich (245) ngamia mia angʼwen gi piero adek gabich (435) kod punde alufu auchiel mia abiriyo gi piero ariyo (6,720).
 Jotend mier moko nochiwore tiyo tijno. Jatelo nochiwo e od keno dhahabu moromo kilo aboro gi nus, bakunde piero abich kod lep jodolo maromo mia abich gi piero adek mag jodolo.
 Jotelo mamoko mag dhoudi notero dhahabu maromo kilo mia achiel gi piero abiriyo e od keno ne tijno kod fedha moromo kilo alufu achiel gi nus.
 Gigo duto mane ochiw gi jogo modongʼne romo kilo mia achiel gi piero abiriyo mar dhahabu, kilo alufu achiel gi robo mar fedha kod lep jodolo maromo piero auchiel gabiriyo.
+Jodolo, jo-Lawi, jorit dhorangeye, jower kod jotij hekalu, kaachiel gi jomoko kod jo-Israel mamoko, nodak mana e miechgi. Kane dwe mar abiriyo ochopo kendo jo-Israel noyudo osedak e miechgi,
 ji duto nochokore kanyakla e laru manie e nyim kama iluongo ni Dhoranga Pi. Ne gikone Ezra, japuonj chik mondo okel Kitabu mar Chik mar Musa, ma Jehova Nyasaye ne osechiko jo-Israel.
 Omiyo e odiechiengʼ mokwongo mar dwe mar abiriyo, Ezra jadolo nokelo chik e nyim kanyakla mar ji, mane otingʼo chwo kod mon kod jogo duto mane nyalo winjo tiend chike.
 Nosomo chikego matek ayanga chakre okinyi nyaka odiechiengʼ tir e nyim chwo, mon kod joma moko mane nyalo winjo tiend chikego kochungʼ momanyore gi laru mar ka miluongo ni Dhoranga Pi. Kendo ji duto nochiko itgi malongʼo ne gik mondikie Kitabu mar Chik.
@@ -12550,6 +12550,7 @@ Ruodhi magwa, jotendwa, jodolo mawa kod kwerewa ne ok oluwo chikni; ne ok gichik
 Kata ndalo mane pod gin e bwo loch ruodhigi giwegi, kane pod gichamo mwandu mogundho mane imiyogi kendo gidak e piny malach kendo momewo mane ipogonegi, ne ok gitini bende ne ok giweyo timbegi maricho.
 “To koro wan wasumbini e piny mane imiyo kwerewa mondo omi gicham olembe moa kanyo kod gik moko mabeyo monyago.
 Gik moko ma pinywani nyago dhi mana ne ruodhi miketo mondo otiwa nikech richowa. Gin gi teko kuom dendwa kendo gitimo mana gima gihero ni jambwa, to wan, to wan gi midhiero miwuoro.
+“Kuom magi duto, waketo winjruok motweyowa, kwandiko wechegi piny, kendo jotendwa, gi jo-Lawi mawa kod jodolo mawa keto lwetgi kaka joneno.”
 Joma noketo lwetgi kaka joneno e magi: Nehemia ma jatelo maduongʼ, ma wuod Hakalia. Zedekia,
 Seraya, Azaria, Jeremia,
 Pashur, Amaria, Malkija,
@@ -12589,7 +12590,6 @@ mibiro ngʼiewogo makati miketo e nyim Nyasaye pile, gi misango mar cham mitimo 
 “Bende wabiro kelo e kar keno mar od Nyasaye gik machalo kaka; chiembwa mokwongo mar lowo, chiwo mar chambwa, olembe mar yiendwa duto kod divai manyien; chiembwa mokwongo mar lowo, chiwo mar chambwa, olembe mag yiendwa duto kod divai manyien gi mo ni jodolo. Kendo wabiro kelo achiel kuom apar mag chambwa ni jo-Lawi, nikech gin ema oyienigi choko achiel kuom apar e mier duto ma watiyoe.
 Jadolo moa e anywola Harun nyaka dhi gi jo-Lawi sa ma gikawo achiel kuom apar, to jo-Lawi nyaka kel achiel kuom apar mar achiel kuom aparno e kuonde keno mag od Nyasachwa.
 Jo-Israel kaachiel gi jo-Lawi, nyaka kel chiwo margi mar cham, divai manyien kod mo nyaka e kar keno kama gigo mag kama ler mar lemo ikanoe kendo kama jodolo, jorit dhorangeye kod jower odakie. “Ok wanajwangʼ od Nyasachwa.”
-
 Koro jotend oganda nodak Jerusalem, kendo joma nodongʼ nogoyo ombulu ka giyiero achiel kuom ji apar mondo odag Jerusalem, dala maduongʼ maler, to ji ochiko mane odongʼ, to nowe e miechgi.
 Ji nogoyo erokamano ne joma nochiwore mondo odag Jerusalem.
 Magi e jotelo mane odak Jerusalem mamoko ne gin jo-Israel, jodolo, jo-Lawi, jotij hekalu kod nyikwa jotij Solomon manodak e mier matindo mag Juda, ka moro ka moro e kare owuon e mier matindo mopogore opogore.
@@ -13890,14 +13890,6 @@ Onindo piny ei saka kendo opondo e dier odundu motwi e thidhna.
 Saka oime gi tipone; kendo omburi motwi e tie aora olwore.
 Kata ka aora opongʼ moo oko, to ok bwoge; chunye ngʼich angʼicha kata ka aora Jordan opongʼ kendo mwomore marach.
 En ngʼa manyalo dino wangʼe mi make, kata madi duode mi tuch ume?
-
-
-
-
-
-
-
-
 “Bende inyalo mako nyangʼ miluongo ni Leviathan gi olowu kata tweyo lewe gi tol?
 Bende inyalo tucho ume mi isoe chuma kata tucho dhoge gi olowu?
 Bende nosik kokwayi ngʼwono? Bende onyalo wuoyo kodi kobolore?
@@ -13924,6 +13916,14 @@ Pien dende oriw motegno gimoko matek ma ok gingʼingʼni.
 Kore tek ka lwanda, kendo otek mana ka pongʼ rego.
 Nyasaye kochungʼ malo to joma roteke luoro mako; gitony kata kapok omulogi.
 Ligangla mochwoego ok time gimoro, bedni en tongʼ mabor, tongʼ machiek, kata bidhi.
+Chuma chalone lum kendo nyinyo chalone yien mosetop.
+Aserni ok mi oringi; orujre chalone mana ka chungʼ bel.
+Arungu oneno mana ka lum moro matin nono; kendo kobaye gi tongʼ to onge gima bwoge.
+Laini manie bund iye bitho ka balatago motore, kendo koluwo kama otimo chwodho to dongʼ ka kar dino ngano.
+Omiyo kut matut papni ka pi machwakore e dak kendo ouko nam ka mo machiek ei agulu.
+Oweyo yo moluwo karieny, kendo kama oluwono lokore buoyo.
+Onge gimoro amora e piny ngima minyalo pimo kode, kendo onge gima oluoro.
+Ochayo le duto mokawore ni lich; en ruodh le duto ma ji oluoro.”
 Eka Ayub nodwoko Jehova Nyasaye kama:
 “Angʼeyo ni inyalo gik moko duto; onge chenroni ma ngʼato nyalo gengʼo.
 Ne ipenjo ni, ‘En ngʼa ma umo riekona gi weche mofuwogi?’ Adier asewacho gik ma ok angʼeyo tiendgi, gik miwuoro modhiera ngʼeyo.
@@ -13959,6 +13959,7 @@ Initelnigi kod ludhi mar nyinyo; kendo initogi matindo tindo ka agulu.”
 Kuom mano, un ruodhi, beduru mariek; tangʼuru un joloch mag piny.
 Tiuru ne Jehova Nyasaye gi luoro kendo moruru e nyime gi luoro.
 Bolreuru e nyim Wuowi, nono to dipo kokecho kodu mi dongʼad ndalou, motieku, nimar iye nyalo wangʼ kodu kadiemo wangʼ. Ji duto mogeno kuome gin joma ogwedhi.
+
 Yaye Jehova Nyasaye, mano kaka wasika thoth! Mano kaka joma lawa ngʼeny!
 Ji mangʼeny wuoyo kuoma, kagiwacho ni, “Nyasaye ok bi rese.” Sela
 To In e okumbana mogengʼa, yaye Jehova Nyasaye; In ema imiyo alocho, kendo isetingʼo wiya malo.
@@ -14049,7 +14050,6 @@ Joma timbegi richo dok e bur matut, nyaka ogendini duto ma wigi wil gi Nyasaye.
 To jochan wiyi ok nowilgo ngangʼ kendo geno mar joma hinyore ok rum.
 Aa malo, yaye Jehova Nyasaye, kik iyie mondo dhano olochi; ne ni ogendini ongʼadnegi bura e nyimi.
 Gogi gi luoro, yaye Jehova Nyasaye; mi ogendini ongʼe ni gin mana dhano. Sela
-
 Angʼo momiyo ichungʼ gichien, yaye Jehova Nyasaye? Angʼo momiyo ipondo ne ji e ndalo mag chandruok?
 Ngʼat ma timbene richo goyo apedha ni joma onge nyalo kendo omakogi e otegu mage mosechiko.
 Dwache maricho mopando e chunye omiyo osungore; jowuoche ema ogwedho to Jehova Nyasaye to ochayo.
@@ -14075,6 +14075,7 @@ Jehova Nyasaye ni e hekalu mare maler; Jehova Nyasaye ni e kom duongʼ mare mani
 Jehova Nyasaye nono joma kare, to joma timbegi richo kod joma ohero mahundu, to chunye ochayo.
 Obiro chwero mach maliel mager kod salfa kuom joma timbegi richo; yamo maliet ha matwoyo gik moko, biro kudhogi.
 Nikech Jehova Nyasaye en Ngʼama Kare, kendo ohero adiera; joma timbegi oriere biro neno wangʼe.
+
 Kony ji yaye Jehova Nyasaye, nikech joma oluoro Nyasaye koro onge; joma jo-adiera oserumo e dier ji.
 Ngʼato ka ngʼato riambo ne nyawadgi; dhogi mohero jaro ji wuoyo gi wuond.
 Mad Jehova Nyasaye ongʼad oko lep duto ma jaro ji kod lep duto masungore;
@@ -14088,8 +14089,7 @@ Nyaka karangʼo, yaye Jehova Nyasaye? Wiyi biro wil koda nyaka chiengʼ koso? Ib
 Abiro dhi nyime ka an gi pek manie pacha kod kuyo manie chunya odiechiengʼ kodiechiengʼ nyaka karangʼo? Wasika biro locho kuoma nyaka karangʼo?
 Para kendo idwoka, yaye Jehova Nyasaye Nyasacha. Chiw ler ne wengena, nono to dipo ka nindo otera mi atho;
 nikech mano nyalo miyo jasika wach niya, “Aseloye,” kendo wasika biro bedo mamor ka apodho.
-Anto ageno kuom herani mosiko; chunya oil kuom warruok mari.
-Abiro wer ne Jehova Nyasaye, nikech osebedo ka otimona maber.
+Anto ageno kuom herani mosiko; chunya oil kuom warruok mari. Abiro wer ne Jehova Nyasaye, nikech osebedo ka otimona maber.
 Ngʼat mofuwo wacho e chunye niya, “Nyasaye onge.” Gin joma okethore, timbegi richo mokalo tongʼ, onge kata ngʼato achiel matimo maber.
 Jehova Nyasaye ngʼiyo ji duto gie polo, mondo oneye ka bende nitie moro kuomgi ma nigi winjo, kata ka bende nitie moro kuomgi mamanyo Nyasaye.
 Ji duto osebaro, giduto kaachiel gisedoko joma okethore; onge ngʼama timo maber, onge kata achiel.
@@ -14128,6 +14128,7 @@ Gichalo sibuor ma nigi kech mar mako le, mana ka sibuor maduongʼ mopondo kokich
 Aa malo, yaye Jehova Nyasaye, chomgi tir, mi igogi piny; resa e lwet joma richo gi liganglani.
 Yaye Jehova Nyasaye, resa e lwet joma kamago gi lweti, resa e lwet jopinyni ma pokgi ni e pinyni. Itieko kech ma joma ihero nigo; yawuotgi nigi chiemo mangʼeny, kendo gikano mwandu ne nyithindgi.
 To anane wangʼi ka ngimana nikare; ka achiewo, abiro romo ka aneno kiti kaka ichal.
+
 Aheri, yaye Jehova Nyasaye, in e tekra.
 Jehova Nyasaye en lwandana, en kar pondo mara kendo en jawarna; Nyasacha en lwandana ma apondo kuome. En okumbana, en tungʼ mar warruokna, kendo en ohingana.
 Aluongo Jehova Nyasaye, en mowinjore gi pak, kendo oresa e lwet wasika.
@@ -14249,7 +14250,6 @@ Nikech loch en mar Jehova Nyasaye kendo en ema olocho ewi ogendini.
 Jo-mwandu duto manie piny biro chiemo kendo lemo; ji duto madhi piny e lowo biro kulore e nyime, jogo ma ok nyal siko kangima.
 Tienge mabiro noti ne Jehova Nyasaye, kendo nonyis ogendini mabiro wachne.
 Gibiro hulo timne makare, ne ji mapok onywol niya: “Jehova Nyasaye osewaro joge.”
-
 Jehova Nyasaye e jakwadha, ok anachand gimoro.
 Omiyo ayweyo e lum mangʼich, otelona e aore mokwe,
 odwogo chunya. Otaya e yore mag tim makare mondo nyinge oyud duongʼ.
@@ -14334,6 +14334,7 @@ Dwond Jehova Nyasaye yiengo piny motimo ongoro; Jehova Nyasaye yiengo ongoro mar
 Dwond Jehova Nyasaye ma dolo yiend bungu miyo mwanda nywol kendo omiyo yiend bungu dongʼ kolwerore. Ji duto kok ei hekalu mare kagiwacho niya, “Duongʼ odog ni Jehova Nyasaye!”
 Jehova Nyasaye obet e kom loch mare ewi ataro; Jehova Nyasaye obet e kom loch kaka Ruoth nyaka chiengʼ.
 Jehova Nyasaye miyo joge teko; Jehova Nyasaye gwedho joge gi kwe.
+
 Abiro tingʼi malo, yaye Jehova Nyasaye, nikech ne igola e bur matut, kendo ne ok iyiene wasika mondo obed mamor kuoma.
 Yaye Jehova Nyasaye Nyasacha, ne aluongi mondo ikonya kendo ne ichanga.
 Yaye Jehova Nyasaye, ne igola oko e liel, ne iresa kane oyudo aridora piny e bur matut mar joma otho.
@@ -14371,7 +14372,6 @@ Pak obed ni Jehova Nyasaye, nikech ne onyisa herane maduongʼ, kane an e dala ma
 Kane chandruok omaka to ne awacho ni, “Opoga kodi!” Kata kamano ne iwinja ka aywakni mondo ikecha kane aluongi mondo ikonya.
 Heruru Jehova Nyasaye un joge maler duto! Jehova Nyasaye rito ngima joma jo-adiera, to josunga to ochulo moromo chuth.
 Beduru motegno kendo jiwuru chunyu, un duto mugeno kuom Jehova Nyasaye.
-
 Ogwedh ngʼat ma kethone owene, kendo ma richone oseruchi.
 Ogwedh ngʼatno ma Jehova Nyasaye ok kwan-ne richone, kendo ma wuondruok onge e chunye.
 Kane alingʼ to chokena ne ochiyore, kane achur odiechiengʼ duto ma ok aywe.
@@ -14405,6 +14405,7 @@ mondo oresgi e tho kendo oritgi gibed mangima e ndalo mag kech.
 Warito Jehova Nyasaye gi geno; en e konyruokwa kendo okumbawa.
 Chunywa mor kuome, nikech wageno kuom nyinge maler.
 Mad herani ma ok rum osik kuomwa, yaye Jehova Nyasaye, mana kaka waketo genowa kuomi.
+
 Abiro miyo Jehova Nyasaye duongʼ kinde duto; dhoga biro siko kapake.
 Chunya biro sungore kuom Jehova Nyasaye, joma nigi rem mondo owinji kendo obed mamor.
 Miuru Jehova Nyasaye duongʼ kaachiel koda; watingʼuru nyinge malo kaachiel.
@@ -14427,7 +14428,6 @@ Ngʼat makare nyalo bedo gi chandruok mangʼeny, to Jehova Nyasaye rese kuomgi d
 orito chokene duto, ma kata achiel kuomgi ok notur.
 Timbe maricho biro nego ngʼama timbene rach, to jowasik joma kare, bura biro loyo.
 Jehova Nyasaye reso jotichne; onge ngʼato kata achiel mopondo kuome ma bura biro loyo.
-
 Yaye Jehova Nyasaye kedi gi joma kedo koda; ked gi joma lawa.
 Kaw kuodi gi okumbani; aa malo mondo ibi ikonya.
 Chom tongʼ ma dhoge bith mar kedo ibwog-go joma lawa. Wuo gi chunya kiwachone niya, “An e warruokni.”
@@ -14456,6 +14456,7 @@ Kik iwe giwach e chunygi niya, “Ero, otimorene mana kaka ne wadwaro.” Kata g
 Mad ji duto mamor nikech chandruokna oyud wichkuot kendo pachgi olal; mad joma kaworena oyud wichkuot gi achaya.
 Mad joma mor kuom loch ma imiya okog gi ilo kod mor; mad gisiki kagiwacho kinde duto niya, “Jehova Nyasaye mondo otingʼ malo nikech omiyo jatichne locho.”
 Abiro pako timni makare kendo kuom pakni duto odiechiengʼ duto.
+
 An-gi wach e chunya mowuok kuom Nyasaye, kuom gima joricho timo: Ok giluoro Nyasaye kata matin.
 Nikech chunye wuonde kendo owuondore kende, chunye wuonde ma ok onyal neno richone mosin-go.
 Weche mawuok e dhoge richo kendo gin miriambo; oseweyo bedo mariek kod timo maber.
@@ -14468,7 +14469,6 @@ Nimar in ema in gi soko mar pi mar ngima; kuom lerni ema wanenoe ler.
 Med nyiso herani ni joma ongʼeyi, med nyiso timni makare ne joma gie chunygi ni kare.
 Mad tiend joma sungore kik nyona, kata lwet joma timbegi richo gola kama antie.
 Neye kaka joma timo gik maricho oriere piny kopodho osedirgi piny ma ok ginyal aa malo!
-
 Kik chunyi chandre nikech joma richo bende chunyi kik gomb gige joma timo gik maricho;
 nikech gibiro ner mapiyo mana kaka lum ner; gibiro tho mi gilal nono mapiyo mana kaka yiende mangʼich.
 Gen kuom Jehova Nyasaye kendo tim maber. Eka inidag e piny kendo inichiem gi mor e lek maber.
@@ -14509,6 +14509,7 @@ Ne kit ngima joma onge ketho, non chal joma ngimagi oriere tir, ngʼama ohero kw
 To joricho duto ibiro tieki, joma timbegi richo ibiro ngʼad ndalogi oko.
 Warruok mar joma kare aa mana kuom Jehova Nyasaye; En e kar pondo margi e ndalo mar chandruok.
 Jehova Nyasaye konyogi kendo resogi oresogi e lwet joma timbegi richo, kendo owarogi, nikech gipondo kuome.
+
 Yaye Jehova Nyasaye, kik ikwera ka in gi mirima bende kik ikuma ka mirima mager omaki.
 Nikech aserni magi osechwoya, kendo lweti osebet kuoma.
 Mirimbi mager osemiyo ringra obedo maonge ngima maber; chokena ok winj maber nikech richona.
@@ -14589,12 +14590,12 @@ Jehova Nyasaye chiko herane godiechiengʼ, to gotieno to wende ni e chunya; ma e
 Awacho ni Nyasaye ma lwandana niya, “Angʼo momiyo wiyi osewil koda? Angʼo momiyo asiko gi kuyo ka jawasigu sanda?”
 Chokena tho omako kendo rama malit seche ma joma kedo koda yanya kochaya, ka giwachona odiechiengʼ duto niya, “Koro ere Nyasachino?”
 Angʼo momiyo ikuyo, yaye chunya? Angʼo momiyo inyosori, yaye chunya? Ket genoni kuom Nyasaye, nikech pod abiro pake, en e Jawarna kendo Nyasacha.
-
 Ngʼadna bura makare, yaye Nyasaye, kendo chwaka e kind joma ok ongʼeyo Nyasaye; resa e lwet joma wuondore gi joma timbegi richo.
 In Nyasaye ma apondo kuome. Koro to ijwangʼa nangʼo? Angʼo momiyo nyaka asik ka akuyo, ka jawasigu sanda?
 Or lerni kod adierani, orgi mondo gitelna; yie mondo gikela nyaka godi maler, nyaka kama idakie.
 Eka anadhi e kendo mar misango mar Nyasaye, nyaka achopi e nyim Nyasaye, Nyasaye ma kelona mor kendo ilo. Abiro paki gi nyatiti, yaye Nyasaye kendo Nyasacha.
 Angʼo momiyo ikuyo, yaye chunya? Angʼo momiyo inyosori, yaye chunya? Ket genoni kuom Nyasaye, nikech pod abiro pake, en e Jawarna kendo Nyasacha.
+
 Yaye Nyasaye, wasewinjo gi itwa; kendo kwerewa osenyisowa, gik mane itimo e ndalogi, ndalo machon gi lala.
 Ne iriembo ogendini mamoko gi lweti iwuon kendo ne iguro kwerewa kargi; ne itieko ogendinigo mi imiyo kwerewa okar.
 Ne ok giloyo pinyno gi liganglagi kendo kata bedegi bende ne ok okelonigi loch; to mana badi iwuon ma korachwich, kod ler mar wangʼi ema nomiyo gilocho nimar ne iherogi.
@@ -14697,7 +14698,6 @@ nikech onge gima obiro kawo odhigo ka otho, duongʼ ma en-go ok bi dhi kode e li
 kata obedo ni ne okawore kaka ngʼama ogwedhi kane pod ongima nikech ji nyaka paki ka mwanduni medore,
 to obiro dhi mi oriwre gi tiengʼ machon mar kwerene, ma ok nyal neno ler mar wangʼ chiengʼ kendo.
 Ngʼat man-gi mwandu mathoth to onge winjo, chalo gi le ma otho.
-
 Jal Manyalo Duto, Nyasaye ma en Jehova Nyasaye, wuoyo kendo luongo ji duto modak e piny mondo ochokrene kaachiel, chakre wuok chiengʼ nyaka podho chiengʼ.
 Nyasaye rieny gie Sayun, dala ma berne longʼo chuth.
 Nyasachwa biro kendo ok obi lingʼ mach ni e nyime mawangʼo gik moko pep, kendo ahiti mager olwore.
@@ -14721,6 +14721,8 @@ Usiko uwuoyo marach kuom joweteu kendo ukuotho koda ka oweteu mahie ma uago e ic
 Gigi duto usetimo ka an to alingʼ; useparo ni an bende achalo kodu. To koro akwerou kendo anyisou e wangʼu ni useketho kuom timo gigo duto.
 “Paruru matut kuom wachni, un joma wigi wil gi Nyasaye, nono to abiro kidhou matindo tindo, maonge ngʼama diresu:
 Ngʼat ma timona misango mar erokamano miya duongʼ mondo olos yo moriere tir, kendo anyise kaka warruok mar Nyasaye chalo.”
+
+
 Kecha, yaye Nyasaye, kaluwore gi herani ma ok rem; gol kethona duto oko kuom ngʼwononi maduongʼ.
 Luok rochruokna duto oko kendo pwodha kuom richona.
 Nikech angʼeyo kethona duto kendo richona osiko e nyima.
@@ -14752,13 +14754,13 @@ Joma kare biro neno mano mi gibed maluor; gibiro nyiere kagiwacho ni,
 An to achalo yiend zeituni madongo maber e od Nyasaye; ageno kuom hera ma ok rem mar Nyasaye manyaka chiengʼ.
 Abiro paki nyaka chiengʼ kuom gima isetimo; abiro paki e nyim jogi maler. Abiro keto geno mara kuom nyingi, nikech nyingi ber.
 
-
 Ngʼat mofuwo wacho e chunye niya, “Nyasaye onge.” Gin joma okethore, kendo yoregi obam; onge kata ngʼato achiel matimo maber.
 Nyasaye ngʼiyo ji duto gie polo; mondo oneye ka bende nitie moro kuomgi ma nigi winjo, kata ka bende nitie moro kuomgi mamanyo Nyasaye.
 Giduto gisebaro giweyo yo; giduto gisekethore; onge ngʼama timo maber, onge kata achiel.
 Bende joma timo timbe maricho dipuonjre adier? Gin joma kidho joga kaka ji chamo kuon; kendo gin joma ok luong Nyasaye mondo okonygi.
 To koro gin ka, ka kihondko maduongʼ omakogi, kata obedo ni onge gima kelo kihondko. Nyasaye osekeyo choke joma nomonji; isemiyogi wichkuot, nikech Nyasaye nodagigi.
 Yaye, mad warruok mar Israel obi koa Sayun! Kinde ma Nyasaye duogo ne joge mwandugi, onego joka Jakobo obed moil kendo Israel obed mamor!
+
 
 Resa gi nyingi, yaye Nyasaye; ngʼadna bura kare gi tekoni.
 Winj lamona, yaye Nyasaye; chik iti ne weche mawuok e dhoga.
@@ -14767,7 +14769,6 @@ Adier, Nyasaye e jakonyna; Ruoth owuon ema rita.
 Mad chandruok lwor joma ketho nyinga mi ketgi diere; tiekgi, nikech in ja-adiera.
 Abiro timoni misango gi chiwo mar hera; abiro pako nyingi, yaye Jehova Nyasaye, nikech nyingi ber.
 Nikech oseresa kuom gik mathaga duto, mi omiyo wengena ongʼiyo wasika tir bangʼ loyogi.
-
 
 Winj lamona, yaye Nyasaye, kik itamri winjo ywakna;
 Winja kendo idwoka. Pacha chanda kendo chunya onge gi kwe
@@ -14849,6 +14850,7 @@ Gibayo koni gi koni ka gidwaro chiemo kendo ka ok giyiengʼ to gingʼur.
 Anto abiro wer kuom tekoni abiro wero herani gokinyi; nikech in e ohingana, in e kar pondona e kinde mag thagruok.
 In e tekona, omiyo abiro weroni wend pak; in e ohingana, yaye Nyasaye, in e Nyasacha ma jahera.
 
+
 Yaye Nyasaye, isedagiwa mi imuomori kuomwa; isebedo ka ikecho kodwa, to koro loswa!
 Iseyiengo piny mi ibare diere ariyo, Los kuondene mosebarore, nikech oyiengni.
 Isenyiso jogi kinde mag chandruok mapek; isemiyowa kongʼo mamiyo wakwangʼ.
@@ -14861,7 +14863,6 @@ En ngʼa mabiro kela e dala maduongʼ mochiel motegno? Ngʼa mabiro telona nyaka
 Donge in ema isedagiwa, yaye Nyasaye, kendo tinde ok idhi gi jolwenjwa e lweny?
 Miwa kony mondo walo wasikwa, nikech kony mar dhano onge tich.
 Wabiro loyo lweny ka Nyasaye nikodwa, kendo obiro nyono wasikwa piny.
-
 
 Winj ywakna, yaye Nyasaye; chik iti ne lamona.
 Aluongi gie tungʼ piny, aluongi ka chunya ool; telna nyaka lwanda mohinga gi bor.
@@ -14921,7 +14922,6 @@ Ipuro puothene kendo iloso oparane duto. Imiyo puothene bedo mangʼich, kendo ig
 Igwedho higa gi cham mogundho, kendo gechegi mwandu opongʼo.
 Pewe motimo lum mag piny ongoro ngʼich oromo; kendo gode opongʼ gi mor.
 Lek duto jamni kwaye ka giwinjo maber kendo holni cham mochiek odhure; gikok gimor kendo giwer.
-
 Go koko gi mor ne Nyasaye, in piny duto!
 Wer kipako duongʼ mar nyinge; mi pakne obed gi duongʼ!
 Wachne Nyasaye niya, “Mano kaka timbe mitimo dongo! Tekoni duongʼ manade, mamiyo wasiki duto leny nono koneni.
@@ -14942,6 +14942,7 @@ Ne aywakne gi dhoga; pakne ne ni e lewa.
 Ka dine bed ni amor gi richo manie chunya, to Ruoth dine ok ochikona ite,
 to kuom adier, Nyasaye osechikona ite kendo osewinjo dwonda ka alame.
 Pak obed ne Nyasaye, ma ok osedagi lamona, kata golo herane kuoma.
+
 Mad Nyasaye timnwa ngʼwono kendo owinjwa; mad omi wangʼe rienynwa maber, Sela
 mondo yoreni ongʼere e piny, kendo ogendini duto oyud warruokne.
 Mad ji paki, yaye Nyasaye; mad ji duto opaki.
@@ -15028,7 +15029,6 @@ Mad joma dwaro ngimana yud wichkuot kendo pachgi lal; mad ji duto ma gombona hin
 Mad joma wachona niya, “Haa! Haa!” Dog kuma giaye ka wichkuot omakogi.
 To mad ji duto madwari bed moil kendo mamor kuomi; mad joma ohero warruok mari osik kawacho niya, “Jehova Nyasaye mondo oyud duongʼ!”
 Adhier kendo achando; bi ira piyo, yaye Nyasaye. In e konyruokna kendo jaresna; kik ideki, yaye Jehova Nyasaye.
-
 Kuomi ema aseponde, yaye Jehova Nyasaye; kik iwe ayud wichkuot.
 Konya kendo gola e chandruok, nikech timni makare; winja kendo iresa.
 Bedna lwanda mar pondo, ma anyalo ringo adhiye seche duto; gol chik mondo iresa, nimar in e lwandana kendo ohingana.
@@ -15124,6 +15124,7 @@ Par singruok mari nikech timbe mahundu opongʼo kuonde duto motimo mudho e piny.
 Kik iyie mondo joma idiyo ringa ka wigi okuot, to mad joma odhier gi joma ochando opak nyingi.
 Aa malo mondo isir tichni, yaye Nyasaye; parie kaka joma ofuwo jari odiechiengʼ duto.
 Kik wiyi wil gi sibuoch wasiki, chom tir sigich wasiki mosiko medore ameda.
+
 Wagoyoni erokamano, yaye Nyasaye, wagoyoni erokamano nimar Nyingi ni machiegni, kendo ji lando timbeni miwuoro.
 Iwacho niya, “An ema ayiero ndalo mowinjore, kendo an ema angʼado bura kare.
 Ka piny kaachiel gi ji duto modakie yiengni, to an ema amako sirnige motegno. Sela
@@ -15168,7 +15169,6 @@ Boche polo ne oolo pi piny, kendo polo nomor e kor polo, ka asernigi mil koni gi
 Mor polo mari nowinji ei yamo mager, mil polo mari nomenyo piny duto, kendo piny notetni kendo oyiengni.
 Yori nongʼado dier nam, yo miluwo nokadho e dier pige maringo matek, kata obedo ni kuonde mane tiendeni onyono ne ok nyal ne gi wangʼ.
 Ne itelone jogi ka rombe ka gin e lwet Musa gi Harun.
-
 Chiknauru itu, yaye un joga, winjuru weche mawuok e dhoga.
 Abiro yawo dhoga mondo awuo gi ngeche, ee, abiro hulo gik mopondo ma wuoyo kuom gik mane otimore chon gi lala.
 Gik ma wasewinjo kendo ma wangʼeyo, mane wuonewa onyisowa.
@@ -15254,6 +15254,7 @@ Angʼo momiyo ogendini onego owach ni, “Nyasachgino to ni kanye?” Mi ogendin
 Mad chur ma joma otwe churgo chopi e nyimi; rit ngima joma osengʼad nigi buch tho, gi teko mar badi.
 Chul kuor ne jobutwa nyadibiriyo kigoyo bembegi. Kuom ayany ma gisediro kuomi, yaye Jehova Nyasaye.
 Eka jogi, ma gin rombegi mikwayo, biro paki nyaka chiengʼ, kendo wabiro nyiso pakni, koa e tiengʼ moro nyaka tiengʼ machielo.
+
 Chiknwa iti, yaye Jakwadh jo-Israel, in mitelo ne Josef ka kweth mar dhok. In mibet e kom loch e kind kerubi, koro rieny ane
 e nyim Efraim, gi Benjamin gi Manase. Nyis tekri, kendo bi mondo ireswa.
 Dwogwa iri, yaye Nyasaye; mi wangʼi orienynwa, eka mondo wayud warruok.
@@ -15290,7 +15291,6 @@ Omiyo ne aweyogi nikech chunygi ne tek, kendo negiluwo yoregi giwegi.
 mano kaka dine atieko wasikgi piyo piyo kendo dine agoyo joma kedo kodgi gi lweta!
 Joma ochayo Jehova Nyasaye dine okulorene gi luoro, kendo kum margi osiko nyaka chiengʼ.
 To un dine apidhou gi ngano maber mogik, kendo dine aromou gi mor kich ma athodho e lwanda.”
-
 Nyasaye osekawo kare e dier chokruok maduongʼ, ongʼado bura e kind “nyiseche.”
 Nyaka karangʼo ma ubiro dhi nyime ka udewo wangʼ joma ok timbegi nikare kendo kudewo wangʼ joma timbegi richo? Sela
 Ngʼaduru bura makare ne joma ok nyal kod nyithi kiye, kendo konyuru joma odhier kod joma ok nyal konyore kendgi.
@@ -15299,6 +15299,7 @@ To gisesiko ka gimemore kendo onge gima gingʼeyo. Giwuotho koni gi koni e mudho
 “Asenyisou ni, ‘Un “nyiseche;” kendo ni un duto un yawuot Nyasaye Man Malo Moloyo.’
 To ubiro tho ka ji ajia; adier ubiro podho mana kaka jatelo moro amora ma ok otangʼ.”
 Aa malo, yaye Nyasaye, ngʼadni piny bura, nimar ogendini duto gin girkeni magi.
+
 Kik ilingʼ, yaye Nyasaye; kik iywe, yaye Nyasaye, bende kik ibed mos.
 Neye kaka wasiki piem kodi gi koko maduongʼ. Neye kaka joma kedo kodi ngʼanyoni.
 Gichano timo ne jogi marach lingʼ-lingʼ; giloso chenro maricho ne joma chunyi ohero.
@@ -15344,7 +15345,6 @@ Hera gi adiera biro riwore kanyakla, kendo tim makare gi kwe biro nyodhore.
 Adiera biro aa piny kochomo malo, kendo tim makare biro ngʼiyo piny gie polo.
 Jehova Nyasaye biro miyowa gima ber adier kendo pinywa biro chiego chambe.
 Tim makare biro telo nyime kendo biro loso yo ne okangene.
-
 Winj lamona, yaye Jehova Nyasaye, kendo dwoka, nimar adhier kendo achando.
 Rit ngimana, nikech achiworani. In e Nyasacha, omiyo res ngima jatichni, mogeno kuomi.
 Kecha, yaye Ruoth Nyasaye, nimar aywakni odiechiengʼ duto.
@@ -15369,6 +15369,7 @@ Ji wacho gik madongo kuomi, yaye dala maduongʼ mar Nyasaye: Sela
 Adier, nowachi kuom Sayun niya, “En min ogendini mathoth, kendo Nyasaye Man Malo Moloyo owuon biro chunge.”
 Jehova Nyasaye biro ndiko e kitabu mindikoe nying ogendini kama: “Jali nonywol ei Sayun.” Sela
 Sa ma giloso wer to giniwer niya, “Soknina duto ni e iyi.”
+
 Yaye Jehova Nyasaye, in e Nyasacha ma resa, aywagora e nyimi odiechiengʼ gotieno.
 Mad lamona chop e nyimi; yie ilok iti ne kwayona.
 Nimar chandruok opongʼo chunya kendo ngimana sudo machiegni gi liel.
@@ -15440,7 +15441,6 @@ Yaye Jehova Nyasaye, tinde ere herani maduongʼ machon, hera mane isingori kuom 
 Ruoth, parie kaka ji osechayo jatichni, parie kaka atingʼo e chunya ayenje mag ogendini duto,
 ayenje ma wasiki osejerogo, yaye Jehova Nyasaye, ayenje ma gisejarogo okangʼ kokangʼ mar jatichni mowir.
 Opak Jehova Nyasaye nyaka chiengʼ! Amin kendo Amin.
-
 Yaye Jehova Nyasaye, isebedo kar dak marwa nyaka nene e tienge duto.
 Kane pok gode obetie kata kane pok ichweyo piny gi ji modak e iye, to isebedo ka in Nyasaye nyaka nene kendo manyaka chiengʼ.
 Idwoko dhano e lowo, kiwacho niya, “Doguru e lowo un koth dhano.”
@@ -15474,6 +15474,7 @@ Ininyon sibuor gi thuond fu; adier ininyon sibuor maratego gi thuol maduongʼ ma
 Jehova Nyasaye wacho niya, “Abiro rese nikech ohera; abiro rite nikech ohulo nyinga.
 Enoluonga, kendo anadwoke; anabed kode e chandruok, adier, anakonye kendo anamiye duongʼ.
 Anami odag amingʼa kendo ananyise warruokna.”
+
 Pako Jehova Nyasaye en gima ber kendo wero wende mapako nyingi bende ber, yaye Nyasaye Man Malo Moloyo,
 hulo herani gokinyi kod adierani gotieno,
 kiwer gi nyatiti matin ma tondene apar ka wer ridore gi nyatiti maduongʼ ber adier.
@@ -15489,7 +15490,6 @@ Joma kare biro loth maber ka yiend othith, gibiro dongo ka yiend sida mar Lebano
 Nikech opidhgi e od Jehova Nyasaye, gibiro loth e agolni mag Nyasachwa.
 Kata hikgi oniangʼ to pod gininyag mana olemo, kendo ginisik ka ginyien kendo gingʼich,
 ka gilando niya “Jehova Nyasaye oriere tir; en e Lwandana, kendo onge richo moro amora kuome.”
-
 Jehova Nyasaye olocho kendo orwakore gi duongʼ, Jehova Nyasaye orwakore gi duongʼ, kendo omanore gi teko. Piny ochungʼ mongirore; onge ngʼama nyalo yienge.
 Lochni nogur chon gi lala; ionge chakruokni kata gikoni.
 Nembe tingʼore malo, yaye Jehova Nyasaye, nembe dhwolore malo ka giwuo; nembe tingʼore ka apaka gore matek.
@@ -15585,6 +15585,7 @@ Ngʼato angʼata makuodho nyawadgi lingʼ-lingʼ abiro kwero mi lingʼ; ngʼato 
 Joma jo-adiera ema abiro keto wengena kuomgi; gin ema abiro yie dak kodgi; ngʼat ma wuodhe oriere tir ema biro tiyona.
 Ok abi yiene ngʼama ohero miriambo mondo odag e oda; ngʼat moro amora mawacho miriambo ok nochungʼ e nyima.
 Okinyi kokinyi abiro tieko joma timbegi richo modak e piny. Abiro nego ngʼato angʼata matimo richo ka agologi e dala mar Jehova Nyasaye.
+
 Winj lamona, yaye Jehova Nyasaye; yie irwak lamona ma akwayigo kony.
 Kik ipandna wangʼi sa ma chunya lit. Chikna iti; ka aluongi to dwoka mapiyo.
 Nimar ndalona rumo piyo ka iro; chokena rewni ka kit kendo maliet.
@@ -15613,7 +15614,6 @@ Kar chakruok ne iketo mise mag piny, kendo polo bende gin tij lweti.
 Gin to ginilal nono in to isiko manyaka chiengʼ; giduto giniti mana kaka law ti. Ibiro lokogi kaka iloko law kendo ibiro witgi.
 In to isiko ichalri mana kaka in, kendo hiki ok norum.
 Nyithind jotichni biro dak buti machiegni; nyikwagi nodhi maber e nyimi.”
-
 Pak Jehova Nyasaye, yaye chunya; chunya maiye duto mondo opak nyinge maler.
 Pak Jehova Nyasaye, yaye chunya, kendo kik wiyi wil gi konyruok mochiwo,
 en ema oweyoni richoni duto kendo ochango tuocheni duto,
@@ -15807,6 +15807,7 @@ Jal ma olo mirimbe kuom ruodhi nomiyo gibayo koni gi koni e thim.
 To jochan to noreso e thagruokgi, kendo nomiyo joutegi onya ka rombe.
 Joma kare neno kendo gidoko mamor; To joma timbegi richo dhogi moko.
 Ngʼama riek mondo omak wechegi maber, kendo opar matut kuom hera maduongʼ mar Jehova Nyasaye.
+
 Chunya ochungʼ mongirore, yaye Nyasaye; abiro paki gi wer kendo abiro loso mamit gi chunya duto.
 Chiewuru, un orutu gi nyatiti! Abiro chiewo kogwen.
 Abiro paki e dier ogendini, yaye Jehova Nyasaye, abiro werni e dier ogendini.
@@ -15820,7 +15821,6 @@ En ngʼa mabiro kela e dala maduongʼ mochiel motegno? En ngʼa mabiro telona ny
 Donge in ema isedagiwa, yaye Nyasaye, kendo tinde ok idhi gi jolwenjwa e lweny?
 Miwa kony mondo walo wasikwa, nikech kony mar dhano onge tich.
 Wabiro loyo lweny ka Nyasaye nikodwa, kendo obiro nyono wasikwa piny.
-
 Yaye Nyasaye ma apako, kik ilingʼ,
 nimar joma timbegi richo gi jo-miriambo osemonja gi wechegi; gisewuoyo kuomwa marach, adier gisewacho miriambo kuoma.
 Gilwora koni gi koni gi weche mag achaya; gibuka maonge gima omiyo.
@@ -16329,6 +16329,7 @@ Donge amon gi jomamon kodi, yaye Jehova Nyasaye, koso donge ok awinjra gi joma c
 Achayogi kendo aonge kodgi gi tich adier akwanogi kaka wasika.
 Nona, yaye Jehova Nyasaye, mondo ingʼe chunya; tema, mondo ingʼe pacha.
 Tim kamano mondo ineane ka nitie gimoro marach kuoma, mondo itera e yor ngima mochwere.
+
 Resa, yaye Jehova Nyasaye, kuom joma richo, konya e lwet jo-mahundu,
 joma chano chenro maricho e chunygi kendo gitugo lweny pile pile.
 Gipiago lewgi mabith ka lew thuol kendo kwiri mar thuond fu ni e lewgi. Sela
@@ -16342,7 +16343,6 @@ Mi mondo makaa maliel mager oolre kuomgi, ee, ne ni odirgi e mach, kata e thidhn
 Mi mondo joma ketho nying jowetegi kik dhi maber e piny, ee, ne ni masira olawo jo-mahundu mi ojukogi.
 Angʼeyo ni Jehova Nyasaye miyo jodhier yudo adieragi, kendo oneno ni ongʼad bura kare ne joma ochando.
 Joma kare biro pako nyingi adier kendo joma ngimagi oriere tir biro dak kangima e nyimi.
-
 Aluongi, yaye Jehova Nyasaye, yie ibi ira piyo. Yie iwinj dwonda ka aluongi.
 Mad lamona osiki e nyimi mana ka ubani miwangʼo, kendo bedena osik koriere kochomo malo mana ka misango mitimoni godhiambo.
 Yaye Jehova Nyasaye, ket jarit e dhoga; ketna jarit mondo okonya umo dhoga.
@@ -16353,6 +16353,7 @@ Giniwach niya, “Mana kaka ngʼato puro kendo toyo lowo, e kaka chokewa osekere
 Anto atego wangʼa kuomi, yaye Jehova Nyasaye Manyalo Gik Moko Duto; In e kar pondona, omiyo kik iwe atho.
 Kik iwe obadho ma gisechikona maka, ee, resa kuom otegu ma joma timbegi richo ochikona.
 Mad joma timbegi richogo moki e gokegi giwegi ka anto akadho maber mak gimoro otima.
+
 Aywak matek ne Jehova Nyasaye; atingʼo dwonda ne Jehova Nyasaye mondo okecha.
 Ahulone gik mathaga duto; anyise chandruokna duto ka abet e nyime.
 E kinde ma chunya chandore e iya, to in ema ingʼeyo yor konyruokna. E bugo matut ma awuothoe ji osechikonae obadho.
@@ -16360,7 +16361,6 @@ Rang batha korachwich; mondo ine kaonge ngʼama dewa. Aonge kar pondo; bende aon
 Aywakni, yaye Jehova Nyasaye; awachoni niya, “In e kar pondona, kendo in e pokna e piny joma ngima.”
 Yie iwinj ywakna, nimar an-gi chandruok maduongʼ; resa e lwet joma lawa nimar gitek moloya mabor.
 Gonya e twech ma antie, mondo apak nyingi. Eka joma kare biro chokore buta nikech ber misetimona.
-
 Winj lamona, yaye Jehova Nyasaye, chik iti ne ywakna mar kech; bi mondo ikonya nikech in ja-adiera kendo itimo maber.
 Kik imi jatichni yud kum nimar onge kata ngʼato achiel matimo maber e nyimi.
 Jasigu lawa matek, oserodha piny nyaka e lowo; ochuna ni nyaka adag kama otimo mudho mana ka joma notho chon gi lala.
@@ -17465,7 +17465,6 @@ Ber bedo ngʼama tin modhier mariek moloyo ruoth moti mofuwo ma ok ongʼeyo kaka
 Ngʼato nyalo bedo ni oa e twech kata odhier, to bangʼe obedo ruoth e pinygi.
 Aseneno ni jogo duto mane odak kendo owuotho e bwo wangʼ chiengʼ noluwo bangʼ ngʼama tin, mane okawo kom ruoth.
 Joma ne obiro motelone ne onge gikogi. To jogo mane obiro bangʼe ne ok mor kod ruoth mane okawo kare. Ma bende onge tiende, ochalo gi lawo bangʼ yamo.
-
 Ritri ka idhi e od Nyasaye. Dhi machiegni mondo ichik iti moloyo chiwo misengini ma joma ofuwo chiwo, jogo ma ok ongʼeyo ni gitimo marach.
 Kik dhogi bed mayot kata kik irikni e chunyi kiwacho, wach moro amora e nyim Nyasaye. Nyasaye ni e polo to in to in e piny, omiyo wechegi onego bed manok.
 Kaka lek biro ka nitie paro mathoth, e kaka weche mar ngʼama ofuwo bedo nikech weche mangʼeny.
@@ -17485,6 +17484,7 @@ Gima lit ahinya machielo en: Kaka dhano nobiro e pinyni, e kaka obiro wuok e pin
 Ndalone duto ochiemo e mudho, ka en gi chandruok malich, rem kod mirima.
 Eka ne afwenyo ni ber kendo longʼo mondo dhano ochiem kendo omethi, kendo mondo oyud mor e tichne matek motimo e bwo wangʼ chiengʼ e kinde matin mar ngimane ma Nyasaye osemiye, nimar mano e pokne kende.
 Kata kamano, ka Nyasaye omiyo ngʼato mwandu gi ngima maber, kendo oyiene mondo ocham gigo to onego obed mamor kochamogi, nimar mano en mich ma Nyasaye ema chiwo.
+Ok onyal bedo gi thuolo mar nono kit ngimane e ndalo mosekadho, nikech Nyasaye okete modich gi mor mathoth e chunye.
 Aseneno richo machielo e piny, kendo obedo sandruok ahinya ni dhano:
 Nyasaye miyo dhano mwandu, ngima maber kod luor makende, mondo kik obed maonge gimoro amora ma chunye dwaro, makmana Nyasaye ok miye thuolo mar bedo gi mor kuomgi, kendo ngʼato nono ema bedo mamor kodgi. Maonge tiende, kendo en richo marach moloyo.
 Ngʼato nyalo bedo kod nyithindo mia achiel kendo odak higni mangʼeny; to kata bed ni odak mangʼeny maromo nade, ka ok onyal yudo mor kuom mwandune kendo ok oike maber ka otho, to awacho ni nyathi monywol kosetho ber moloye.
@@ -17694,6 +17694,7 @@ To an ahero mana nyako achiel kende, ma jaber ka akuru, en e nyar min kende, moh
 Ma to en ngʼa mabiro apoya ka piny madwa ru? Adier, ober ka dwe kendo ongʼangʼni ka wangʼ chiengʼ, bende ochanore ka sulwe moriedo.
 Ne alor mwalo nyaka e puoth mananas, mondo ane kaka gidongo e holo, kendo mondo ane ka mzabibu osechako golo maua kata ka olemo mongʼinore osechako chiek makwar.
 Apoya nono, kapok angʼeyo, gombona notingʼa motera nyaka dier geche joka ruoth.
+Yie iduogi, yie iduogi, yaye nyar jo-Shulam; yie iduogi, yie iduogi, mondo waneni! Ere gima omiyo ungʼiyo nyar jo-Shulam kamano, mana ka gima omielo miend Mahanaim?
 Mano kaka tiendeni beyo kirwako pat pat, yaye nyar joka ruoth! Tiendeni pichni ka kite ma nengogi tek, ka gima jopecho molony ema opayo.
 Pendi ogomo ka wend agwata, ma divai moru maber ok rumie. Nungoni chalo pidh ngano mochok kaachiel, ma ondanyo olworo koni gi koni.
 Thundeni chalo gi nyithind mwanda ariyo, gichalo gi nyithind mwanda ma rude.
@@ -17707,7 +17708,6 @@ An mar jaherana, kendo gombone ni kuoma.
 Bi, jaherana, bi wadhi waba ei gwengʼ, kendo wanind oko e bunge.
 Bi wamondi gokinyi wadhi, e puothe mzabibu mondo wangʼiane, ka mzabibu oseolo, bende wangʼiane ka gisechako thiewo, kendo ka olembe mongʼinore oselokore makwar; kuno, ema abiro miyie herana.
 Kuno ema inyalo winjoe tik mar mandrake, kendo e odwa kanyo okanni gik mamit, motingʼo gik machon gi manyien, ma asebedo ka akanoni, yaye jaherana.
-
 Ka dine ibedna owadwa mahie, mane wadhodhogo thuno achiel, to dine anyodhi, kapo ni ayudi oko, kendo onge ngʼama dine ochaya.
 Dine amako badi, mi akeli nyaka e od minwa kama ne opuonjae. Dine amiyi divai moketie yedhe madungʼ tik mamit mondo imadhi; kendo dine amiyi olemo mongʼinore makwar.
 Bade ma koracham oteno wiya, to bade ma korachwich okwaka.
@@ -17897,7 +17897,6 @@ Ka ji wachonu ni manyuru rieko kuom ajuoke gi jo-nyakalondo madhum kendo jajni, 
 To kar timo kamano to nonuru chike Nyasaye kod wechene! Ka ok ginyal wuoyo kaluwore gi wachni to ok ginyal konyo ngʼato.
 Ginitangni e piny ka githagore kendo ka gidenyo, kendo e kindeno ma kech onurogi, igi nowangʼ matek mi gikwongʼ ruodhgi kod Nyasachgi.
 Eka ginikulre ka gingʼiyo piny, to chandruok gi mudho kod chuny malit ema ginine kendo noriembgi mawitgi e mudho mandiwa.
-
 Kata kamano, joma ne nigi chandruok ok nochak obed gikuyo kendo. E ndalo mosekadho Nyasaye nomiyo piny Zebulun gi piny Naftali odoko pinje michayo, to e ndalo mabiro Jehova Nyasaye notingʼ malo Galili mar ogendini man yo nam modak e tiend aora Jordan:
 Joma wuotho e mudho oseneno ler maduongʼ; jogo modak e piny man-gi mudho mandiwa, ler oserienynegi.
 Isemiyo piny oyarore kendo isemedo morgi, mi gibedo gi ilo e nyimi mana kaka oganda bedo gi mor e ndalo keyo, kendo mana kaka ji bedo gi mor ka gipogo gik ma oyaki.
@@ -17918,6 +17917,7 @@ Kuom mano Ruoth Nyasaye ok nobed mamor gi jomatindo bende ok nokech nyithi kiye 
 Adier timbe mamono chalo gi mach maliel; ma wangʼo pedo kod kuthe, kendo omiyo bungu modinore wangʼ mi dhuol iro maduongʼ mochomo malo.
 Mirimb Jehova Nyasaye Maratego biro wangʼo piny, kendo ji ema nobed ramoki mar mach, kendo onge ngʼat mano ngʼwon-ne nyawadgi.
 E bathe korachwich gibiro mecho to pod gidenyo adenya; to e bathe koracham gibiro chiemo to ok giniyiengʼ. Ngʼato ka ngʼato nocham mana ringre nyathine owuon.
+Manase biro chamo Efraim kendo Efraim nocham Manase; giduto ginibed wasik Juda. Kata ka magi duto osetimore, to mirimbe pod ok orumo kuomgi kendo pod odhi nyime mana gikumogi.
 Yaye, unune malit un joma loso chike ma ok nikare, un joma keto chike maricho mathiro ji,
 utamo joma odhier e adieragi kendo umayo joga ma ochando gik ma onego giyudi, omiyo umayo mon ma chwogi otho kendo uyako gige nyithind kiye.
 To initim angʼo chiengʼ ngʼado bura, ka masira nowuog kuma bor? To en ngʼa manuring udhi ire mondo okonyu? Mwandu magu to unuwe kanye?
@@ -18953,8 +18953,7 @@ To ngʼe ni inie wuonwa kata obedo ni Ibrahim ok ongʼeyowa kendo Israel ok kwan
 Yaye Jehova Nyasaye, angʼo momiyo wachandore e yoregi kendo chunywa pek ma ok wanyal chiwo luor ne in? Yie iduog irwa nikech wan jotichni, oganda ma gin girkeni mari.
 Kuom ndalo matin kende jogi ne orito kar dakni maler, to sani wasikwa osenyono moketho kari maler mar lemo.
 Wan magi kochakore chon to ok isebedo ruodhgi, to bende ok oseluong-gi gi nyingi.
-Mad ibar polo mondo ilor piny, mondo gode otetni e nyimi,
-mana kaka mach wangʼo yugi kendo yienyo pi, lor piny mondo wasiki ongʼe ni intie, kendo imi ogendini otetni e nyimi!
+Mad ibar polo mondo ilor piny, mondo gode otetni e nyimi, mana kaka mach wangʼo yugi kendo yienyo pi, lor piny mondo wasiki ongʼe ni intie, kendo imi ogendini otetni e nyimi!
 Nimar kane itimo gik madongo mane ok wapar, ne ilor piny ma gode ne oyiengni e nyimi,
 nyaka aa nene onge ngʼama osewinjo, kendo onge it mosewinjo, bende onge wangʼ moseneno Nyasaye moro amora ma ok in, moserito joge mogeno kuome.
 Ikonyo joma nigi mor mar timo gik makare, ma gin joma paro yoregi. To kane wadhi nyime gi ketho e nyimi, to iyi nowangʼ. To koro ere kaka inyalo reswa?
@@ -18964,6 +18963,7 @@ Kata kamano, yaye Jehova Nyasaye, in e Wuonwa. Wan e lop chwech, to ine jachwech
 Yaye Jehova Nyasaye, kik ibed gi mirima mokadho apima, kik ipar richowa ndalo duto. Yaye Jehova Nyasaye, wakwayi, yie irangwa, nimar wan duto wan jogi.
 Miechi madongo maler olokore thim, kata mana Sayun owuon bende olokore thim, kendo Jerusalem odongʼ gunda.
 Hekalu marwa maler, kendo man-gi duongʼ mane kwerewa opakie, osewangʼ gi mach, kendo mwanduwa duto osekethore.
+Bangʼ magi duto, yaye Jehova Nyasaye, bende pod inyalo mana jwangʼowa? Adier dilingʼ thi kikumowa mokadho apima?
 “Ne afwenyora ne joma ne ok openja, bende ne oyuda gi joma ne ok omanya. To ne oganda mane ok luong nyinga, ne awachonegi ni, ‘Eri an, eri an.’
 Odiechiengʼ duto aserieyo bada ne oganda ma wigi tek, jogo mawuotho e yore ma ok beyo, ka gitimo dwarogi giwegi,
 ma gin joma osiko mana ka miya mirima e wangʼa awuon, ka gitimo misengini e puothe, kendo giwangʼo ubani e kendo molos gi matafare;
@@ -19242,7 +19242,6 @@ Winj ywak joga koa e piny man mabor: “Donge Jehova Nyasaye ni Sayun? Ruodhe be
 “Ndalo keyo kod ndalo oro osekalo, to ok wakonyore.”
 Nimar joga osehiny, an bende ahinyora; aywak kendo luoro omaka.
 Yath tinde orumo Gilead koso? Jathieth tinde onge kanyo koso? Kare ere gima omiyo adhond joga ok nyal chango?
-
 Yaye, mad wiya bed ka soko mar pi kendo pi wangʼa mol ka aora! Dwaywak odiechiengʼ kod otieno nikech nek mar joga.
 Yaye, mad ne abed gi kar nindo michulo ne jowuoth e piny ongoro, mondo omi awe joga kendo adhi mabor kodgi; nimar giduto gin jochode, kanyakla mar joma onge adiera.
 “Giketo lewgi moikore ka atungʼ, mondo gidirgo miriambo; to dhigi maber e piny ok nikech giwacho adiera. Gitimo richo bangʼ moro ka moro; ok gidewa.” Jehova Nyasaye ema owacho.
@@ -19268,6 +19267,7 @@ Wach niya, “Ma e gima Jehova Nyasaye owacho: “ ‘Ringre joma otho nopie k
 Ma e gima Jehova Nyasaye wacho: “Kik ngʼama riek sungre gi riekone kata ngʼama tek sungre gi tekone, kata ngʼama omewo sungre gi mwandu mage,
 to ngʼat ma sungore mondo osungre kama: ni ongʼeya, kendo owinja, ni An e Jehova Nyasaye, matimo ngʼwono, kendo mangʼado bura mar adier, kendo matimo gik makare e piny, nikech magi ema amorgo,” Jehova Nyasaye ema owacho.
 Jehova Nyasaye wacho niya, “Ndalo biro ma anakumie joma oter nyangu e ringruok kende
+kaka Misri, Juda, Edom, Amon, Moab gi jogo duto modak kuonde motimo ongoro man maboyo. Nimar ogendinigi duto ok oter nyangu adier, kendo kata od Israel duto bende ok oter nyangu e chunygi.”
 Winji gima Jehova Nyasaye wachoni, yaye od Israel.
 Ma e gima Jehova Nyasaye wacho: “Kik ipuonjri yore ogendini kata ibed gi bwok gi ranyisi manie kor polo, kata obedo ni gibwogo ogendini.
 Nimar kit jogi kod timbegi onge tiende; gingʼado yien koa e bungu, bangʼe japecho paye gi koyo mare.
@@ -21007,6 +21007,11 @@ Eka unungʼe ni An e Jehova Nyasaye, ka anaduogu e piny Israel, piny mane asingo
 Kanyo ema unuparie timbeu kod yoreu duto ma usedwanyorugo, kendo ok unubed mamor gi timbe mamono duto musetimo.
 Unungʼe ni An e Jehova Nyasaye, ka anati e dieru nikech nyinga, to ok nikech yoreu maricho kod timbeu mobam, yaye dhood Israel, Jehova Nyasaye Manyalo Gik Moko Duto osewacho.”
 Wach Jehova Nyasaye nobirona kama:
+Wuod dhano, chom wangʼi yo milambo; yal wach kuom jo-milambo kendo ikor wach kuom bungu manie piny milambo.
+Wach ni bungu man yo milambo kama: Winj wach Jehova Nyasaye. Ma e gima Jehova Nyasaye Manyalo Gik Moko Duto wacho: Achiegni moko mach kuomi, kendo obiro tieko yiendegi duto, manumu kaachiel gi motwo. Mach mabebni ok nonegi, kendo ji duto kochakore milambo nyaka nyandwat, majni norew wengegi.
+Ji duto none ni an Jehova Nyasaye ema asemoko majno, kendo ok notho.
+Eka nawacho niya, “Yaye Jehova Nyasaye Manyalo Gik Moko Duto, giwuoyo kuoma kagiwacho ni, ‘Donge owuoyonwa mana gi ngeche?’ ”
+Wach Jehova Nyasaye nobirona kama:
 “Wuod dhano, chom wangʼi kuom Jerusalem kendo iyal wach kikwedo kama ler mar lemo. Kor wach kuom piny Israel,
 kendo iwachne ni ma e gima Jehova Nyasaye wacho: ‘Adagi. Abiro wuodho ligangla oko e olalo mare mi aneg joma kare gi joma timbegi richo, ka agologi kuomi.
 Nikech abiro nego joma kare kod joma timbegi richo, ligangla biro wuodhore e olalo mare mitiek ngʼato angʼata, chakre yo milambo nyaka yo nyandwat.
@@ -21038,11 +21043,6 @@ Kata obedo ni osene fweny mag miriambo kuomi kendo osego gagi mag miriambo kuomi
 “ ‘Dwok ligangla e olalone. Kama ne onywolie, e lop kwereni, ema abiro ngʼadonie bura.
 Abiro olo mirimba mager kuomi kendo abiro olo mirimba maliel ka mach kuomi; bende abiro e lwet jo-mahundu, ma gin joma olony e ketho gik moko.
 Ubiro doko mafuta mimokogo mach rembu biro chwer e pinyu, ok nochak oparu kendo; nimar an Jehova Nyasaye ema asewacho kamano!’ ”
-
-
-
-
-
 Wach Jehova Nyasaye nobirona kama:
 “Wuod dhano, donge dingʼadni Jerusalem bura? Donge dingʼadni dala maduongʼ michwere remoni bura? Ka inyalo timo kamano to chome tir gi timbene mamono duto
 kendo iwachne ni: ‘Ma e gima Jehova Nyasaye Manyalo Gik Moko Duto wacho: Yaye dala maduongʼ makelo ni en owuon chandruok kuom chwero remo e dier joge, kendo dwanyore owuon kuom loso nyiseche manono,
@@ -21904,9 +21904,6 @@ kendo jorit pinje, jochik tich, jotelo, kod jongʼad rieko mag ruoth nosudo butg
 Eka Nebukadneza nowacho niya, “Opak Nyasach Shadrak, Meshak kod Abednego nikech en ema oseoro malaikane mi oreso jotichne! Negigeno kuome mi gidagi luwo chikna kendo ne giyie wito ngimagi kar tiyona kata lamo nyasaye moro machielo ma ok Nyasachgi giwegi.
 Kuom mano, agolo chik ni ogendini duto gi ji moa e dhoudi mopogore opogore ma dipo ni owacho gimoro marach kuom Nyasach Shadrak, Meshak kod Abednego mondo negi kendo utegi mondo omuki mi lokre pidhe, nikech onge nyasaye moro machielo manyalo reso ji e yo machal kama.”
 Eka ruoth nochoro Shadrak, Meshak kod Abednego e telo mamalo e piny Babulon.
-
-
-
 Ruoth Nebukadneza, Nolando ni ji duto gi ogendini kod ji moa e dhoudi mopogore opogore modak e piny ngima niya: Mad udag e ngima maber kod kwe.
 En morna mondo anyisu kuom honni gi ranyisi miwuoro ma Nyasaye Mamalo Mogik osetimona.
 Mano kaka ranyisi mage dongo, mano kaka honni mage nigi teko malich miwuoro! Pinyruodhe en pinyruoth mochwere; loch ne osiko e tienge duto.
@@ -21941,6 +21938,9 @@ Kane pok ruoth otieko wuoyo, dwol noa e polo kawacho niya, “Yaye ruoth Nebukad
 Ibiro riembi ia kuom ji kendo ibiro dak gi le mager; kichamo lum gi dhogi ka dhiangʼ kuom higni abiriyo kendo iningʼe ni Jal Man Malo Mogik nigi teko ewi pinjeruodhi duto kendo ochiwogi ni ngʼato angʼata mohero.”
 To mana gie sechego gik mane owachi kuom Nebukadneza notimore. Noriembe oa kuom ji kendo nochamo lum gi dhoge ka dhiangʼ. Tho noloko dende mangʼich mi yie wiye nodongo ka yie ongo kendo kokene nodongo maboyo machal gi kok winyo.
 Bangʼ ka higni abiriyogo noserumo, an Nebukadneza nangʼiyo polo, kendo pacha noduogo kare. Eka napako Jal Man Malo Mogik, mangima manyaka chiengʼ kamiye luor kod duongʼ kendo napake. Lochne osiko manyaka chiengʼ; pinyruodhe en pinyruoth mochwere en pinyruodh ma ok norum e tienge duto.
+Ogendini duto manie piny ikwano ka nono. Otimo gima ohero ni ogendini mag polo kod ji manie piny. Onge ngʼama nyalo gengʼo tich lwete kata wacho niya, “Angʼo mitimoni?”
+E sa ma pacha noduogeno, duongʼna gi lichna bende noduogna mondo pinyruodha ochak obed gi duongʼ. Jongʼadna rieko kod jodonga nomanya, kendo nochak oketa e lochna mi nabedo gi duongʼ moloyo kaka nachalo chon.
+Koro an Nebukadneza, apako, adendo kendo amiyo Ruodh Polo duongʼ, nikech gik moko duto motimo nikare kendo yorene duto oriere tir. To joma wuotho ka sungore to odwoko piny.
 Ruoth Belshazar noloso nyasi maduongʼ ne jodonge alufu achiel kendo nomadho kodgi divai.
 Kane Belshazar madho divai, nogolo chik mondo okel e nyime tewni mag dhahabu kod mag fedha ma Nebukadneza kwargi nogolo e hekalu mane nitie Jerusalem, mondo ruoth kaachiel gi jodonge gi monde kod jotichne ma nyiri mane oloko monde omethgo.
 Omiyo negikelo tewni mag dhahabu mane ogol e hekalu mar Nyasaye mane ni Jerusalem, kendo ruoth kaachiel gi jodonge gi monde kod jotichne ma nyiri mane oloko monde nometho gi tewnigo.
@@ -21971,6 +21971,7 @@ Mano emomiyo Nyasaye nooro lwedo mondo ondik wechego.
 “Parsin: Pinyruodhi osepogi kendo osemiye jo-Medes gi jo-Pasia.”
 Bangʼ ka Daniel noseloko lekno, Belshazar nogolo chik mondo orwak ne Daniel law maralik, oket ne thiwni mar dhahabu e ngʼute, kendo nokete jalup ruoth mar adek e pinyruoth duto.
 Gotienono Belshazar ruodh jo-Babulon nonegi,
+kendo Darius ja-Media nokawo loch mar piny ka en ja-higni piero auchiel gariyo.
 Darius noneno ni en gima ber mondo oyier jotelo mia achiel gi piero ariyo mondo okonye rito pinyruodhe duto.
 Eka noyiero Daniel gi ji ariyo mamoko mondo obed jotend jotelogo. Jorit pinjegi nomi chik ni nyaka gidwok wach ni jotelo adekgi, mondo kik gimoro dhi marach ne ruoth.
 To Daniel noloyo jotend jorit pinje mamoko duto, nikech lony mamalo mane en-go, mi ruoth koro ne chano mondo omiye teko mar rito piny duto.
@@ -21999,7 +22000,6 @@ Eka ruoth Darius nondiko ne ogendini duto, gi pinje duto kod ji duto mawacho dho
 Asegolo chik ne pinje duto manie bwo lochna ni mondo ji duto oluor Nyasach Daniel kendo omiye duongʼ. “En e Nyasaye mangima; osiko manyaka chiengʼ; pinyruodhe ok nyal tieki, kendo lochne ok norum.
 En ema oreso kendo okonyo ji; otimo honni gi ranyisi e polo kendo e piny. En ema noreso Daniel e dho sibuoche.”
 Kuom mano Daniel nomedo dhi maber e ndalo loch mar Darius kendo e ndalo loch mar Sairas ja-Pasia.
-
 E higa mokwongo mar loch Belshazar ruoth Babulon, Daniel noleko kendo noneno fweny mopogore opogore kane oyudo oyweyo e kitandane. Nondiko lekneno e kitabu.
 Daniel nowacho niya, “E fwenyna ma naneno gotieno, ne angʼicho, kendo e nyima ne nitie yembe angʼwen mag polo mane yuko nam maduongʼ.
 Ondiegi angʼwen moko malich, ma moro ka moro opogore gi nyawadgi, nowuok koa e nam.
@@ -22170,6 +22170,8 @@ Gomer ne omako ich kendo mi onywolo nyathi ma nyako. Eka Jehova Nyasaye nowachon
 Kata kamano, abiro nyiso herana ne dhood Juda kendo abiro resogi to ok abi resogi gi atungʼ, kata ligangla kata gige lweny kata gi farese kata gi jomoidho farese, to an Jehova Nyasaye ma Nyasachgi ema anaresgi.”
 Bangʼ kane Gomer oseweyo dhodho Lo-Ruhama, nonywolo nyathi machielo ma wuowi.
 Eka Jehova Nyasaye nowacho niya, “Luonge ni Lo-Ami nimar ok un joga, An bende ok An Nyasachu.
+“To kata obedo kamano, jo-Israel nobed mathoth ka kwoyo manie dho nam ma ok nyal pim kata kwano. Kama ne owachnegi ni, ‘Ok un joga,’ ibiro luongogi ni ‘yawuot Nyasaye mangima.’
+Jo-Juda gi jo-Israel nochak riwre kendo giniyier jatelo achiel kendo giniwuogi ka gia e pinje mane ginie wasumbini nimar odiechiengʼ mar Jezreel nobed maduongʼ miwuoro.”
 “Luonguru oweteu ni ‘Joga,’ kendo luonguru nyimineu ni ‘Joma ahero.’ ”
 “Kwer minu, kwere, nikech ok en jaoda, kendo ok an chwore. Onego owe wangʼ maneno mar chode kendo gi yorene mag dwanyruok.
 Ka ok kamano to abiro lonye duk modongʼ kaka ne onywole; anakete ochal kaka lop ongoro, analoke kaka lowo motwo mobaro okak, kendo ananege kod riyo mar pi.
@@ -22193,8 +22195,6 @@ Abiro timo kodi singruok mar kend e yo mar adiera, kendo ibiro yie kuom Jehova N
 Jehova Nyasaye wacho niya, “E odiechiengno abiro dwoko kwayou ma boche polo, nochiw koth ne piny,
 kendo cham biro nyak e piny, kaachiel gi divai manyien kod mo zeituni, mi giduto ginyag Jezreel.
 Abiro pidhe e piny ne an awuon; abiro nyiso herana ni ngʼat mane aluongo ni ‘Ok jaherana.’ Anawach ni joma iluongo ni, ‘Joma ok joga,’ ni, ‘Un joga’; kendo ginidwoka ni, ‘In Nyasachwa.’ ”
-
-
 Jehova Nyasaye nowachona niya, “Dhiyo, inyis herani ni chiegi kendo, kata obedo ni ohere gi ngʼama chielo, kendo en jachode. Here kaka Nyasaye ohero jo-Israel, kata obedo ni gisebaro ka gihero nyiseche moko kendo gihero chiwonigi misengini mag mzabibu motwo.”
 Omiyo ne angʼiewe kuom shekel apar gabich mag fedha gi gunde ariyo mag shairi.
 Eka ne awachone niya, “Nyaka idag koda kuom ndalo mathoth; nyaka iwe timbegi mag chode kata riwori gi ngʼato, to abiro dak kodi.”
@@ -22318,6 +22318,7 @@ Joga oramo chuth mondo oweya. Kata giluong Nyasaye Man Malo Moloyo, to ok noting
 Ok anaol mirimba mager bende ok analokra mi aketh Efraim bende. Nimar an Nyasaye, ok an dhano, Jal Maler e dieru. Ok anabi gi mirima.
 Gibiro luwo Jehova Nyasaye, noruti ka sibuor. Kuruto, to nyithinde duto nobi ire katetni kagiwuok yo podho chiengʼ.
 Ginibi ire ka gitetni ka winy moa Misri, ka akuche moa Asuria. Anami gibed e miechgi,” Jehova Nyasaye owacho.
+Efraim oselwora gi miriambo, od jo-Israel en kar wuond. Juda ok winj Nyasaye; adier ok giwinj Jal Maler ma ja-adiera.
 Efraim geno gima onge, olawo yamb wuok chiengʼ odiechiengʼ duto, kendo omedo miriambo kod gero. Oketo winjruok gi Asuria kendo ooro mor zeituni ne jo-Misri.
 Jehova Nyasaye nigi bura kuom jo-Juda; enokum Jakobo kaluwore gi yorene; kendo enochule kaluwore gi timbene.
 Kane pod en ei min nomako tiend owadgi, kaka dhano nomako amen gi Nyasaye.
@@ -22332,7 +22333,6 @@ Bende Gilead nigi anjawo? Joge gin joma nono! Bende gitimo misengini gi rwedhi, 
 Jakobo noringo modhi e piny mar Aram; Israel notiyo mondo oyud dhako, kendo nochulo nengo mare kokwayo rombe.
 Jehova Nyasaye nokonyore gi janabi ma ogolo Israel oa Misri, adier ne ooro janabi mondo orite.
 To Efraim osemiye obedo mager mobedo gi mirima; Ruodhe nowe timbene maricho mag chwero remo e wiye, kendo nochule kuom ngʼanyone.
-
 Kane Efraim owuoyo, to ji ne tetni, nodhiale e piny Israel. To notimo richo kuom lamo Baal, mi notho.
 Koro gimedo timo richo, bende giloso nyisechegi mag fedha mondo gilam, ma gin kido molos gi rieko mangʼeny, magi duto gin tich jopa bepe. Wachore kuom jogi niya, “Gitimo misango gi dhano, kendo ginyodho kido molos mar nyaroya.”
 Emomiyo ginichal mana kaka ongʼwengʼo mokinyi, bende kaka thoo mar okinyi malal nono ka nyango owuok, bende kaka mihudhwe ma yamo keyo kar dino, bende kaka iro mawuok e dirisa.
@@ -22348,6 +22348,7 @@ Timbe mamono mag Efraim osekan, kendo richoge osendik e kitabu.
 Rem machalo gi mar dhako mamuoch kayo nobine, to en nyathi maonge gi rieko, ma ka sa ochopo monego owuog e ich to okia kama iwuok godo.
 “Abiro resogi kuom teko mar piny joma otho kendo anakonygi kuom tho. In tho, ere masicheni duto, kata in piny joma otho, ere kethruokni? “Ok anakeche,
 kata ka obedo ni odhi maber kamano e kind owetene. Yamb yor wuok chiengʼ moa ir Jehova Nyasaye nobi, kakudho koa e piny motwo, ma pigene mag sokni mamol nodwon, kod yewni mokuny bende nodwon. Mwandune manie dechege noyaki duto.
+Jo-Samaria nokum kuom richogi nikech gisengʼanyo ne Nyasachgi. Noneg-gi gi ligangla; nyithindgi matindo nochwad piny, to mondgi mapek nobar iyegi.”
 Dwoguru ir Jehova Nyasaye ma Nyasachu, yaye Israel. Richou ema osemiyo upodho.
 Kaw wechegi kendo uduog ir Jehova Nyasaye! Wachne kama: “Wenwa richowa duto, kendo yie irwakwa gi ngʼwono, mi wanapaki gi dhowa.
 Asuria ok nyal resowa, bende ok wana idhi faresegi mag lweny. Ok wanachak wawach kendo ni, ‘Nyisechewa’ ne gik mwaloso gi lwetwa wawegi, nimar kuomi, ema, nyithi kiye yude kech.”
@@ -22357,7 +22358,6 @@ bade nolodhi makee. Enobed maber ka yiend zeituni, kendo nodungʼ mangʼwe ngʼa
 Ji nochak odag e tipone. Nonyaa maber mana ka cham, kendo nonyag maber ka mzabibu mi nobed gi huma ka divai moa Lebanon.
 Yaye Efraim en angʼo ma datim gi nyiseche manonogi kendo? Anadwoke kendo rite, achalo gi obudo mangʼich, nyak mari aa kuoma.”
 En ngʼat mane mariek? Obiro fwenyo tiend gigi. En ngʼat mane manyalo fwenyo tiend wechegi? Obiro ngʼeyogi. Yore mag Jehova Nyasaye nikare, joma nikare ema wuothoe, to joma jendeke to chwanyore.
-
 Wach Jehova Nyasaye mane obiro ne Joel wuod Pethuel.
 Winjuru ma, un jodongo; chikuru itu, un duto ma udak e piny. Bende gima chalo kama osetimore e ndalou, kata e ndalo mag kwereu?
 Nyis nyithindu wachni, kendo nyithindu onyis nyithindgi, kendo nyithindgi bende onyis tiengʼ maluwogi.
@@ -22405,32 +22405,32 @@ Kuonde dino cham nopongʼ gi cham; kendo degi nopongʼ mi-oo oko gi divai manyie
 “Abiro chulou kuom higni ma bonyo osechamo; bonyo madongo gi matindo, gi bonyo mamoko gi mony mar bonyo; ma gin oganda maduongʼ mar jolweny mara mane aoro e dieru.
 Unubed gi chiemo mathoth, ma uchamo nyaka unuyiengʼ, kendo unupak nying Jehova Nyasaye, ma Nyasachu, mosetimonu timbe miwuoro. Wi joga ok nochak okuod kendo.
 Eka unungʼe ni antie ei Israel, ni An e Jehova Nyasaye, ma Nyasachu, kendo ni onge moro machielo; wi joga ok nochak okuod kendo.”
+“Bangʼe, anaol Roho Maler mara kuom ji duto. Yawuotu gi nyiu nokor wach, jodongu nolek lek, jou matindo none fweny.
+Kata mana jotichna machwo gi mamon, bende, naol Roho Maler mara kuomgi ndalono.
+Anatim honni miwuoro e kor polo to e piny, remo gi mach kod iro madhwolore nobedie.
+Wangʼ chiengʼ nolokre mudho to dwe nolokre remo, kapok odiechiengʼ maduongʼ kendo malich mar Jehova Nyasaye ochopo.
+To ngʼato ka ngʼato maluongo nying Jehova Nyasaye noresi; nikech ewi got Sayun kendo ei Jerusalem resruok nobedie, mana kaka Jehova Nyasaye osewacho, e dier joma otony ma Jehova Nyasaye oluongo.”
 “E ndalogo kendo e sano, ka anadwok ni Juda gi Jerusalem mwandugi mane olalnegi.
 Abiro choko pinje duto mi akelgi mwalo e Holo mar paw Jehoshafat. Kanyono ema anangʼad nigi e bura, kuom girkeni mara, ma gin joga ma jo-Israel, nikech negikeyo joga e kind pinje kendo gikawo pinya gipogo.
 Negigoyo ombulu kuom joga kendo negiloko ohala mar hono yawuowi ka giwilo gi ochode; nyiri to negiuso ka giwilo gi divai, mondo gimadhi.
 “Yaye, jo-Turo gi jo-Sidon, kod joma odak e gwenge mag Filistia, ulawa nangʼo? Koso uchulona kuor nikech gimoro masetimo? Ka uchulona kuor to abiro dwoko timbeu e wiwu uwegi kuom gima usetimo moruyore kendo mapiyo.
 Nimar usekawo fedha gi dhahabu mara, kendo usedar gi mwanduga mabeyo mogik e hekalu mau.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ne uuso jo-Juda gi Jerusalem ne jo-Yunani, eka utergi mabor gi pinygi mane onywolgie.
+“Neuru, abiro wakogi ka agologi kuonde mane uusogie, kendo naket e wiwu uwegi gima usetimo.
+Abiro miyo jo-Juda ngʼiewo yawuotu, gin to giniusgi ne jo-Sabea, ma en piny mabor miwuoro,” Jehova Nyasaye osewacho.
+Landuru wachni e dier pinje, Ikreuru ne lweny! Jolweny magu duto oikre ne kedo! Jokedo duto mondo osudre machiegni mondo gitug lweny.
+Thedhuru kwe mau olokre ligengni, to rabeti mau obed tonge. Ngʼat ma ngoro mondo owach niya, “An gi teko!”
+Biuru piyo, un ogendini duto moa kuonde duto, mondo uchokru kanyo. Yaye Jehova Nyasaye kel jokedo magi olor kanyo!
+“Pinje mondo owakre, gichom Holo mar Jehoshafat, nikech anabed kanyo mondo angʼad bura ne pinje duto moa koni gi koni.
+Runduru musmeno, nikech cham ochiek. Biuru, unyon yiend Zeituni nikech kar biyo mzabibu opongʼ, kendo degni opongʼ mopukore. Mano kaka timbegi maricho dongo!”
+Mano oganda maduongʼ manade, mano kaka gingʼeny ka ginie holo ma en kar ngʼado bura! Nikech odiechieng Jehova Nyasaye chiegni chopo e holo mar ngʼado paro.
+Chiengʼ gi dwe nolokre mudho, kendo sulwe ok nochak orieny.
+Jehova Nyasaye noruti koa Sayun kendo nomor koa Jerusalem. Piny gi Polo noyiengni; to Jehova Nyasaye nobed kar pondo mar joge; nobed ragengʼ ne jo-Israel.
+“Eka unungʼe ni An, Jehova Nyasaye, ma Nyasachu, adak e Sayun, goda maler. Jerusalem nobed kama ler, ogendini mamoko ok nochak omonje kendo.
+“Odiechiengʼno divai manyien nochwer kawuok ewi gode; kendo chak nomol kawuok ewi thuche, holo mag pi nopongʼ chuth. Soko nomol koa e od Jehova Nyasaye kendo pi moaye sokono biro mol e holo mar Shitim.
+Misri nobed piny ma ji odar oweyo, kendo Edom nobed piny ongoro maonge tich, nikech timbe mahundu mane otimone jo-Juda, mane gichweroe remo maonge ketho e pinygi.
+Juda nobed kama ji odakie nyaka chiengʼ kendo Jerusalem bende tienge gi tienge.
+Kethogi mar chwero remo mapok aweyonegi, abiro weyonegi.” Jehova Nyasaye odak Sayun!
 Magi e weche Amos mane en achiel kuom jokwath mane odak Tekoa. Wechegi ne oneno kuom Israel higni ariyo kane piny pok oyiengni, kendo e kindeno Uzia ema ne ruodh Juda, to Jeroboam ma wuod Joash to ne ruodh Israel.
 Nowacho niya, “Jehova Nyasaye ruto koa Sayun, kendo dwonde mor koa Jerusalem; lege ma jokwath kwayoe two, kendo wi got Karmel mosebedo ka ngʼich koro ner.”
 Jehova Nyasaye wacho niya, “Jo-Damaski osebedo katimo richo mangʼeny, omiyo ok abi weyo ma ok akumogi. Nikech gisesando jo-Gilead, ka gigoyogi kod gima bith molos gi nyinyo,
@@ -22614,6 +22614,7 @@ Kar timo kamano, jogo ne otemo kar nyalogi mondo gikwangʼ gidogi e dho wath. To
 Eka ne giywakne Jehova Nyasaye niya, “Yaye Jehova Nyasaye, kiyie to kik iwewa watho kuom kawo ngima ngʼatni. Kik ikwanwa kaka joketho kuom nego ngʼama onge ketho, nimar in, yaye Jehova Nyasaye, isetimo dwaroni.”
 Eka negikawo Jona mi gibolo e nam, kendo apaka mar nam mane ger nokwe.
 Wachni nomiyo jogo oluoro Jehova Nyasaye ahinya, mine gichiwo misango ne Jehova Nyasaye kendo ne gisingorene.
+To Jehova Nyasaye nokelo rech marangʼongo mondo omwony Jona, kendo Jona nenie ei rechno kuom ndalo adek odiechiengʼ gotieno.
 Kane Jona ne ni ei rech, nolamo Jehova Nyasaye.
 Nowacho niya, “Ei masichena naluongo Jehova Nyasaye kendo nodwoka. Ei bur matut ne aywak mondo ikonya mane iwinjo ywakna.
 Niluta kuma tut mar nam, nyaka kama tutne ogikie piny, mi ataro noketa diere; kendo apaka kod ahiti madongo duto nokadho kuoma.
@@ -22624,7 +22625,6 @@ Nalutora nyaka e tiend gode mag nam kendo piny nouma chuth nyaka chiengʼ. To ni
 “Joma otwere kalamo nyiseche manono, jwangʼo ngʼwono mado bedo margi.
 An to napaki kod wend goyo erokamano mi natimni misango. Gima asesingora nachop kare nikech warruok wuok kuom Jehova Nyasaye.”
 Kendo Jehova Nyasaye nowuoyo gi rech mi rechno nongʼogo Jona oko e dho wath kama otwo.
-
 Eka wach Jehova Nyasaye ne obiro ni Jona mar ariyo kama:
 “Dhiyo e dala maduongʼ mar Nineve, kendo iwachne jo-dalano weche mane anyisi.”
 Jona notimo kaka Jehova Nyasaye nowacho modhiyo Nineve. To Nineve ne en dala maduongʼ kendo mogen ma limbene ne dwaro wuoth ndalo adek eka itiek iye duto.
@@ -22700,7 +22700,6 @@ Ywari gi rem, yaye Nyar Sayun, mana ka dhako mamuoch kayo, nikech koro ochuni ni
 To koro ogendini mangʼeny osechokore mondo giked kodi. Giwacho niya, “Wamiye obed mogak, wagouru siboi ni Sayun.”
 To gikia pach Jehova Nyasaye. Ok giwinj chenrone, En ema ochokogi ka cham midino e dier ot.
 “Chungi idin cham, yaye nyar Sayun, nikech abiro sidhoni tunge mag chuma. Abiro rwakoni ombongʼ tielo mag nyinyo kendo ibiro toyo matindo tindo pinje mangʼeny.” Mwandu magiseyudo e yore mobam ubiro walone Jehova Nyasaye, mwandugi nochiwne Ruoth Nyasaye mar piny duto.
-
 Chokuru jokedo mau, yaye dala maduongʼ mar jokedo, nikech wasikwa osegonwa agengʼa. Gibiro goyo lemb ruodh jo-Israel gi luth.
 “To in Bethlehem Efratha, kata obedo ni itin e dier dhout Juda, kuomi ema ngʼat manobedna jatend Israel nowuogie, ngʼat machakruok mare noa chon, kinde machon gi lala.”
 Kuom mano Israel ibiro jwangʼ nyaka kinde ma dhako man-gi ich nonywolie nyathi, kendo owetene mamoko nodwogi mi riwre gi jo-Israel.
@@ -22715,6 +22714,7 @@ Anaketh mier madongo manie pinyu mochiel motegno kendo anamuk ohingau.
 Abiro tieko timbeu mag jwok ma ok unuchak ugo gagi kendo.
 Abiro ketho kido mopa mau kod kite mulamo manie dieru. Ok unuchak ukulru piny ne gik ma lwetu oloso.
 Abiro muko sirni mag nyasachu ma Ashera mi agol kuomu kendo abiro ketho miechu madongo chuth.
+Anachul kuor gi mirima kod gero kuom ogendini ma osedagi luora.”
 Winj gima Jehova Nyasaye wacho: “Chungʼ malo, ket kwayoni e nyim gode; thuche mondo owinj wach ma in-go.
 “Un gode, winjuru wach ma Jehova Nyasaye nigo kodu, chikuru itu un mise mochwere mag piny. Nikech Jehova Nyasaye nigi wach kod joge; en gi bura gi jo-Israel.
 “Un joga en angʼo ma asetimonu? Asemiyou tingʼ mapek e yo mane? Dwokauru ane.
@@ -22765,6 +22765,7 @@ Ngʼat machano gik maricho kuom Jehova Nyasaye wuok mana kuomi, yaye Nineve, en 
 Jehova Nyasaye wacho kama: “Kata obedo ni gingʼeny kendo gin gi joma konyogi, ibiro ngʼad kargi oko mi gilal nono. Kata obedo ni asesandi, yaye Juda, ok anachak sandi kendo.
 Koro abiro turo jok ma giketo e ngʼuti kendo abiro chodo nyororo motweyigo.”
 Jehova Nyasaye osegolo chik kuomi, in Nineve, kowacho niya: “Ok inibed gi nyikwayi mabiro tingʼo nyingi. Abiro tieko nyisecheu manono mopa kaachiel gi mochwe gi lowo manie uteu mag lemo. Abiro kunyonu bur miyikoue nikech un joma timbegi richo.”
+Tingʼ wangʼi, ineye tiende ngʼat makelo Injili, kendo malando kwe ewi gode! Tim nyasi mar mor, yaye Juda, chopuru singruoku. Jomaricho ok nochak omonju kendo; nikech ibiro tiekgi pep.
 Ngʼat mabiro monji ochomi, yaye Nineve, omiyo rit dala mochiel motegno, rit yoreni, bed gi ikruok maber, kuom tekoni duto!
 Jehova Nyasaye biro dwoko duongʼ mar Jakobo, mana ka duongʼ mar Israel, kata obedo ni joma omonje osekethe kendo oseketho puothegi mag mzabibu.
 Okumba mag jolweny osebedo makwar ka remo; kendo lewni ma girwakorego bende kwar. Chuma manie ewi gechegi mil ka giikore ne chiengʼ lweny; tongegi opiag mabith kendo milni ka gikedogo.
@@ -22778,7 +22779,6 @@ Odongʼ nono, omaye gik moko duto, bende olonye modongʼ duk. Kibaji ogoyo chuny
 Koro to ere bur sibuor kama ne gipidhoe nyithindgi, kama sibuor madichwo gi sibuor madhako nodhiye, ka nyithind sibuochego onge gi gima ginyalo luoro?
 Sibuor ne yangʼo le moromo nyithinde kendo ne gideyo le ma gichamo gi nyawadgi, ka opongʼo kar kano chiembe kod kuonde dakne gi gik monegi.
 Jehova Nyasaye Maratego wacho niya, “An gi sigu kodu. Abiro wangʼo gecheu mag lweny gi mach mawuog iro kendo ligangla biro tieko sibuoche matindo maroteke. Kata ringregi motho ok anawenu e piny. Dwond jooteu ok nowinj kendo.”
-
 Mano kaka nobed malit ne dala mopongʼ gi remo, dala mopongʼ gi miriambo, dala mopongʼ gi gige mecho, kendo dala mopongʼ gi gik moyaki mosiko ka chando ji!
 Nochwade gi del malit, ka tiende geche magoyo koko, ka tiend farese maringo mamor matek, kendo ka geche maringo mag farese makakni ka mach!
 Oganda lweny omonjogi, gi ligengni mamil, kendo gi tonge mag lweny mamil! Joma ohinyore e lweny ngʼeny, kendo ringre joma otho ochok mangʼeny, ringre joma othogo okadho akwana, kendo joma ringo chwanyore kuom ringre joma othogo.
@@ -22962,6 +22962,10 @@ Eka malaika mane wuoyo koda nowachona niya, “Ywagri kiwacho ne ji kama: Ma e g
 to bende akecho ahinya gi ogendini modak kodhialore. Mokwongo ne akecho mana matin, to koro gisemiyo chandruok omedo doko malit moloyo.’
 “Kuom mano, Jehova Nyasaye wacho ni, ‘Abiro duogo Jerusalem mi akeche, mi oda nochak oger kanyo; kendo tol mipimogo ibiro rie e alwora mar Jerusalem,’ Jehova Nyasaye Maratego ema owacho.
 “Med lendo kiwacho kama: Ma e gima Jehova Nyasaye Maratego wacho: ‘Miecha duto biro pongʼ gi mwandu, kendo Jehova Nyasaye biro hoyo Sayun kendo obiro chako oyiero Jerusalem!’ ”
+Eka natingʼo wangʼa, mi napo kaneno tunge angʼwen!
+Napenjo malaika mane wuoyo koda niya, “Magi gin angʼo?” Nodwoka niya, “Magi e tunge mane okeyo Juda, Israel kod Jerusalem.”
+Eka Jehova Nyasaye nonyisa jotheth angʼwen.
+Napenjo niya, “Jogi obiro timo angʼo ka?” Nodwoko niya, “Magi e tunge mane okeyo jo-Juda mondo kik ngʼato angʼata kuomgi tingʼ wiye; to jothethgi osebiro mondo obwog-gi kendo gilo ogendini mane oikore kedo gi piny Juda.”
 Ne atingʼo wangʼa kendo angʼicho mi naneno ngʼat moro motingʼo tond pimo e lwete!
 Eka napenjo niya, “Idhi kanye?” Nodwoka niya, “Adhi pimo Jerusalem mondo angʼe lachne gi borne.”
 Eka malaika mane loso koda noa, kendo malaika machielo nobiro mondo oromne
@@ -22975,10 +22979,6 @@ Jehova Nyasaye wachone nyar Sayun niya, “Koguru matek kendo beduru mabor nikec
 Pinje mangʼeny noriwre gi Jehova Nyasaye e odiechiengʼno kendo ginibed joga. Anadag e dieru kendo unungʼe ni Jehova Nyasaye Maratego ema oseora iru.
 Jehova Nyasaye nokaw Juda kaka girkeni mare e piny maler, kendo enochak oyier Jerusalem.
 Ji duto mondo olingʼ thi e nyim Jehova Nyasaye, nikech osewuok oa kar dakne maler.”
-
-
-
-
 Eka ne onyisa Joshua jadolo maduongʼ kochungʼ e nyim malaika mar Jehova Nyasaye, ka Satan ochungʼ e bathe korachwich mondo ohangne wach.
 To Jehova Nyasaye nowachone Satan niya, “Jehova Nyasaye okweri, Satan! Jehova Nyasaye moseyiero Jerusalem okweri! Donge ngʼatni chalo mana ka yien maliel moyudh oko e mach?”
 Noyudo Joshua orwakore gi lewni mochido sa mane ochungʼ e nyim malaika.
@@ -23205,12 +23205,12 @@ To waneno ni joma timbegi richo ema igwedho. Chutho joma timbegi richo dhi maber
 Eka joma ne oluoro Nyasaye nowuoyo e kindgi giwegi, kendo Jehova Nyasaye nochiko ite mowinjogi. Nying joma oluoro Jehova Nyasaye kendo mamiyo nyinge duongʼ nondiki e kitabu moro e nyime.
 Jehova Nyasaye Maratego wacho niya, “Ginibed joga, odiechiengʼno kendo anaketgi kaka mwanduna mageno. Anakechgi mana kaka ngʼato kecho wuode matiyone.
 Kendo unuchak une pogruok mane kind joma kare kod joma timbegi richo, kendo e kind joma tiyone Nyasaye gi joma ok tine.”
-
-
-
-
-
-
+Jehova Nyasaye Maratego wacho niya, “Adier odiechiengʼ biro manoliel ka mach mar kendo maliet. Joma timbegi mono kod joma timbegi richo nomokgo mach. Odiechiengno nobolgi e mach mi gundgi norum chuth.
+To un muluoro nyinga, tekona nopilre kuomu ka wangʼ chiengʼ makelo ler mi changu gi bwombene. Kendo unuwuog oko ka ulengʼoru gi ilo ka nyiroye moyawnegi dho abila.
+Bangʼe ununyon joma timbegi richo piny; kendo ginibed buru e bwo tiendu odiechiengʼ ma anatimie gigi,” Jehova Nyasaye Maratego owacho.
+“Paruru chik mar jatichna Musa, buchena gi chikena mane amiye e got mar Horeb ne jo-Israel duto.
+“Neuru, anaornu janabi Elija kapod odiechiengʼ maduongʼ kendo malich mar Jehova Nyasaye obiro.
+Enoduog chunje wuone ir nyithindgi, kendo chunje nyithindo ir wuonegi; nono to anabi kendo aketh piny gi kwongʼ!”
 Ma e kaka anywola mar Yesu Kristo ma wuod Daudi kendo wuod Ibrahim chalo:
 Ibrahim ne en wuon Isaka, Isaka ne en wuon Jakobo, to Jakobo ne en wuon Juda gi owetene.
 Juda ne en wuon Perez gi Zera, ma min-gi ne en Tamar, Perez ne en wuon Hezron, Hezron ne en wuon Ram,
@@ -27691,7 +27691,7 @@ Kuom mano, kaka wechegi gin adier chuth ma ngʼato ok nyal dagi, weuru goyo koko
 Usekelo jogi ka, kata obedo ni ok gisekwalo gimoro e hekalu, kata yanyo nyasachwa madhakoni.
 Ka dipo ni Demetrio gi jotheth wetene nigi wach gi ngʼato kuomgi, to ute yalo bura oyaw dhogi, kendo joyal bura bende nitie. Kuno ema ginyalo dhi donjo ni joma okethonigi.
 To ka dipo ni nitie wach moro machielo ma udwaro nolosi, to nyaka lose mana e chokruok ma chik oyiego.
-To kaka weche chal sani, gik mutimogi biro ketowa e chandruok, nikech ibiro ngʼadnwa bura kaka joma kelo koko. Kuom mano, onge yo moro amora ma wanyalo tonygo e wachni, nikech wasegoyo koko maonge tiende.”
+To kaka weche chal sani, gik mutimogi biro ketowa e chandruok, nikech ibiro ngʼadnwa bura kaka joma kelo koko. Kuom mano, onge yo moro amora ma wanyalo tonygo e wachni, nikech wasegoyo koko maonge tiende.” Bangʼ kane osewacho wechegi, nogonyo chokruok.
 Kane kokono oserumo, Paulo noluongo jopuonjre ire mojiwogi, to bangʼe nogoyonegi oriti, mi ochako wuodhe mar dhi Makedonia.
 Nowuotho e gwengʼno kojiwo ji gi weche mangʼeny, eka nochopo e piny jo-Yunani,
 kuma nobetie kuom dweche adek. To nikech jo-Yahudi ne chano timo ne marach kane oyudo oikore mar dhi Siria, noloko pache mondo odog chien, koluwo Makedonia.

@@ -13959,6 +13959,7 @@ Stjórnaðu þeim með harðri hendi og mölvaðu þau eins og leirkrukku!“
 Þið, konungar jarðarinnar! Hlustið meðan tími er til!
 Þjónið Drottni með óttablandinni lotningu og fagnið með auðmýkt.
 Fallið á kné fyrir syni hans og kyssið fætur hans svo að hann reiðist ekki og tortími ykkur!
+
 Sálmur eftir Davíð þegar hann flúði frá Absalon, syni sínum.
 Ó, Drottinn, það eru svo margir á móti mér, svo margir sem gera uppreisn gegn mér.
 Menn segja að Guð muni alls ekki hjálpa mér.
@@ -13975,8 +13976,8 @@ Takið eftir: Drottinn hefur sýnt mér mikla náð og hann mun hlusta og svara 
 Sýnið Drottni óttablandna lotningu og syndgið ekki gegn honum. Hugsið um þetta í hvílum ykkar og verið þögul.
 Setjið traust ykkar á Drottin, og færið honum þóknanlegar fórnir.
 Margir spyrja hvar hjálp sé að fá. Drottinn, þú ert sá sem hjálpar. Láttu ljós þitt lýsa okkur.
-Gleðin sem þú hefur veitt mér er mun meiri en þeirra sem gleðjast yfir ríkulegri uppskeru.
-Nú leggst ég til hvíldar í friði og sofna, því þú, Drottinn verndar mig gegn öllu illu.
+Gleðin sem þú hefur veitt mér er mun meiri en þeirra sem gleðjast yfir ríkulegri uppskeru. Nú leggst ég til hvíldar í friði og sofna, því þú, Drottinn verndar mig gegn öllu illu.
+
 Drottinn, hlustaðu á orð mín. Heyr þú mína einlægu bæn.
 <range>
 Hlustaðu á kveinstafi mína, þú Guð, konungur minn, því að ég mun aldrei biðja til neins nema þín.
@@ -13988,8 +13989,8 @@ En hvað um mig? Af náð þinni fæ ég að ganga inn í musteri þitt, umvafin
 Drottinn, leiddu mig eins og þú lofaðir mér, annars munu óvinir mínir sigra mig. Segðu mér skýrt hvað ég á að gera, og hvert ég á að fara,
 því að þeir reyna að blekkja mig. Hjörtu þeirra eru full af illsku. Tortíming og dauði býr í ráðum þeirra og þeir nota svik og pretti sér til framdráttar.
 Ó, Guð láttu þá fá makleg málagjöld. Þeir lendi í eigin gildru. Hrintu þeim burt vegna hinna mörgu afbrota þeirra, því að þeir storka þér.
-En þeir sem treysta þér gleðjast og kætast. Þeir hrópa af gleði því þú verndar þá. Þeir sem elska þig gleðjast yfir þér.
-Því að þú, ó Guð, blessar hinn trúaða, þú verndar hann með skildi elsku þinnar.
+En þeir sem treysta þér gleðjast og kætast. Þeir hrópa af gleði því þú verndar þá. Þeir sem elska þig gleðjast yfir þér. Því að þú, ó Guð, blessar hinn trúaða, þú verndar hann með skildi elsku þinnar.
+
 Æ, Drottinn! Ekki refsa mér í reiði þinni!
 <range>
 Miskunnaðu mér því að ég örmagnast. Lækna mig, því að líkami minn er sjúkur.
@@ -13999,8 +14000,8 @@ Komdu Drottinn og læknaðu mig. Bjargaðu mér í kærleika þínum.
 Ég er aðframkominn af kvöl. Hverja nótt væti ég koddann með tárum.
 Augu mín daprast af hryggð vegna illráða óvina minna.
 Farið! Látið mig í friði, þið illmenni, því að Drottinn hefur séð tár mín
-og heyrt grátbeiðni mína. Hann mun svara öllum mínum bænum.
-Óvinir mínir munu verða til skammar og skelfingin mun steypast yfir þá. Guð mun reka þá sneypta burtu.
+og heyrt grátbeiðni mína. Hann mun svara öllum mínum bænum. Óvinir mínir munu verða til skammar og skelfingin mun steypast yfir þá. Guð mun reka þá sneypta burtu.
+
 Ég treysti þér, Drottinn, Guð minn, að þú frelsir mig frá þeim sem ofsækja mig.
 <range>
 Þeir vilja ráðast á mig úr launsátri eins og ljón, særa mig og draga burt hálfdauðan. Láttu það ekki takast!
@@ -14017,8 +14018,8 @@ Ef þeir iðrast ekki mun hann bregða sverði og eyða þeim. Hann hefur spennt
 og lagt eldlegar örvar á streng, – banvænar örvar.
 Hinn illi bruggar launráð og íhugar vélabrögð sín. Hann lætur til skarar skríða með lygum og svikum.
 Hann falli á eigin bragði.
-Ofbeldið sem hann ætlaði öðrum, verði honum sjálfum að fjörtjóni.
-Ég lofa og vegsama Drottinn, því hann er góður. Ég vil lofsyngja nafni Drottins, honum sem er öllum drottnum æðri.
+Ofbeldið sem hann ætlaði öðrum, verði honum sjálfum að fjörtjóni. Ég lofa og vegsama Drottinn, því hann er góður. Ég vil lofsyngja nafni Drottins, honum sem er öllum drottnum æðri.
+
 Ó, Drottinn Guð, mikið er nafn þitt! Jörðin er full af dýrð þinni og himnarnir endurspegla mikilleik þinn.
 <range>
 Þú hefur kennt börnum að lofsyngja þér. Fyrirmynd þeirra og vitnisburður þaggi niður í óvinum þínum og valdi þeim skömm.
@@ -14027,8 +14028,8 @@ Ofbeldið sem hann ætlaði öðrum, verði honum sjálfum að fjörtjóni.
 Og líka, að þú lést manninn verða litlu minni en Guð! Krýndir hann sæmd og heiðri!
 Þú hefur sett hann yfir allt sem þú hefur skapað, allt er honum undirgefið:
 Uxar og allur annar fénaður, villidýrin
-fuglar og fiskar, já, allt sem í sjónum syndir.
-Ó, Drottinn Guð, hversu dýrlegt er nafn þitt um alla jörðina!
+fuglar og fiskar, já, allt sem í sjónum syndir. Ó, Drottinn Guð, hversu dýrlegt er nafn þitt um alla jörðina!
+
 Drottinn, ég vil lofa þig af öllu hjarta og segja öllum frá þínum dásamlegu verkum!
 <range>
 Ég vil fagna, já, kætast þín vegna! Ég vil lofsyngja þér, Drottinn Guð, þú ert öllum guðum æðri.
@@ -14048,8 +14049,7 @@ Frelsa mig að ég geti lofað þig í allra áheyrn í hliðum Jerúsalem og gl
 Drottinn lætur svikráð þeirra koma þeim sjálfum í koll!
 Illmennin munu hrapa til heljar og eins verða örlög þeirra þjóða sem gleyma Drottni.
 Því að ekki verður skortur hinna snauðu umborinn endalaust og né hjálp fátæklinganna látin dragast lengur.
-Ó, Drottinn, rís þú upp, dæm þjóðirnar og refsa þeim. Lát þær ekki hrósa sigri yfir þér!
-Lát þá skjálfa af ótta og skilja að þeir eru aðeins dauðlegir menn.
+Ó, Drottinn, rís þú upp, dæm þjóðirnar og refsa þeim. Lát þær ekki hrósa sigri yfir þér! Lát þá skjálfa af ótta og skilja að þeir eru aðeins dauðlegir menn.
 Drottinn, hvers vegna ert þú víðs fjarri og gerir ekkert í málinu?! Hvers vegna felur þú þig þegar ég þarfnast þín svo mjög?
 Komdu og lækkaðu rostann í hinum hrokafullu og illgjörnu sem ofsækja lítilmagnann. Láttu illskubrögð þeirra koma þeim sjálfum í koll!
 Því að þessir menn stæra sig af illsku sinni, hæða Guð og hrósa þeim sem Drottinn fyrirlítur. Að safna auði er þeirra hjartans mál.
@@ -14075,6 +14075,7 @@ En, Drottinn er enn í sínu heilaga musteri. Hann ríkir enn frá himnum. Hann 
 Hann prófar bæði trúaða og vantrúaða. Hann fyrirlítur þá sem elska ofbeldi.
 Hann mun senda eld og brennistein yfir illgjörðamennina og svíða þá með glóheitum vindi.
 Því að Guð er réttlátur og hefur mætur á góðum verkum. Hinir hjartahreinu munu sjá auglit hans.
+
 Drottinn! Hjálpa þú! Hinum trúuðu fækkar óðum. Hvar eru þeir sem hægt er að treysta?
 <range>
 Allir ljúga og iðka svik og pretti, en einlægnin virðist fokin út í veður og vind.
@@ -14088,8 +14089,7 @@ Hversu lengi ætlar þú Drottinn að gleyma mér – að eilífu, eða hvað? �
 <range>
 Hve lengi verð ég að byrgja inni angist mína? Hve lengi eiga óvinir mínir að hreykja sér upp yfir mig?
 Svara mér Drottinn, Guð minn, og sendu mér ljós þitt, annars er úti um mig!
-Þaggaðu niður í óvinum mínum sem segja: „Við höfum sigrað hann!“ Láttu þá ekki hlakka yfir því að ógæfa hendi mig.
-En, – ég mun treysta þér og miskunn þinni hvað sem á gengur og fagna yfir hjálp þinni!
+Þaggaðu niður í óvinum mínum sem segja: „Við höfum sigrað hann!“ Láttu þá ekki hlakka yfir því að ógæfa hendi mig. En, – ég mun treysta þér og miskunn þinni hvað sem á gengur og fagna yfir hjálp þinni!
 En sá heimskingi sem segir: „Guð er ekki til!“ Sá er líka bæði illur og spilltur og einskis góðs af honum að vænta.
 Drottinn horfir niður af himnum og virðir fyrir sér mennina, hvort einhver sé skynsamur og geri vilja hans.
 Nei, það gerir enginn þeirra. Allir eru þeir viknir af leið, allir spilltir af synd. Enginn er raunverulega góður, ekki einn einasti!
@@ -14128,6 +14128,7 @@ Vernda mig eins og sjáaldur augans. Hyl mig í skjóli vængja þinna.
 Drottinn, rís þú upp og hastaðu á þá! Rektu þá frá! Komdu og frelsaðu mig frá hinum óguðlegu sem aðeins leita jarðnesks ávinnings, þeim sem þú hefur gefið auð og völd og ótal afkomendur.
 <range>
 En ég sækist ekki eftir veraldlegum auði, heldur því að þekkja þig og lifa réttvíslega – vera sáttur við þig. Ég vil hugsa um þig jafnt á degi sem nóttu og þegar ég vakna mun ég sjá auglit þitt og gleðjast!
+
 Þennan sálm orti Davíð eftir að Drottinn hafði frelsað hann undan óvinum hans, þeirra á meðal Sál konungi.
 Drottinn – ég elska þig! Þú hefur gert stórkostlega hluti fyrir mig!
 Drottinn er vígi mitt, þar er ég öruggur. Enginn getur veitt mér eftirför og unnið á mér. Hann er felustaður minn, frelsari og varðborg, kletturinn þar sem enginn getur náð mér! Hann er skjöldur minn. Styrkur hans er eins og uxans sem mundar horn sín í vígahug!
@@ -14177,8 +14178,8 @@ en ég muldi þá mélinu smærra og dreifði þeim upp í vindinn. Ég fleygði
 Guð lifir! Lofaður sé hann, klettur hjálpræðis míns.
 Hann er sá Guð sem endurgeldur þeim sem ofsækja mig og auðmýkir þjóðir fyrir augum mér.
 Hann frelsar mig frá óvinum mínum. Hann sér til þess að þeir ná ekki til mín og bjargar mér undan öflugum andstæðingum.
-Fyrir þetta, Drottinn minn, lofa ég þig í áheyrn þjóðanna.
-Oftsinnis hefur þú frelsað mig – það var kraftaverk í öll skiptin! Þú gerðir mig að konungi, þú hefur elskað mig og auðsýnt mér gæsku og eins muntu gera við afkomendur mína.
+Fyrir þetta, Drottinn minn, lofa ég þig í áheyrn þjóðanna. Oftsinnis hefur þú frelsað mig – það var kraftaverk í öll skiptin! Þú gerðir mig að konungi, þú hefur elskað mig og auðsýnt mér gæsku og eins muntu gera við afkomendur mína.
+
 Himnarnir sýna okkur dýrð Guðs. Þeir eru þögull vitnisburður um mikilleik verka hans.
 <range>
 Dagur og nótt vitna um vísdóm Drottins.
@@ -14192,8 +14193,8 @@ Lög Guðs eru eilíf, réttlát og hrein.
 Þau eru dýrmætari en gull. Þau eru sætari en hunang.
 Því að þau vara okkur við hættum og efla velgengni þeirra sem hlýða þeim.
 Hver verður var við syndina sem loðir við hjarta mitt? Hreinsa mig af leyndum syndum.
-Forða mér frá vondum mönnum, og stöðva hönd mína að ég geri ekkert ljótt. Sýknaðu mig af syndum mínum svo að ég lifi hreinu lífi.
-Ó, að orðin á vörum mér og hugsanir mínar geðjist þér, þú Guð, klettur minn og frelsari.
+Forða mér frá vondum mönnum, og stöðva hönd mína að ég geri ekkert ljótt. Sýknaðu mig af syndum mínum svo að ég lifi hreinu lífi. Ó, að orðin á vörum mér og hugsanir mínar geðjist þér, þú Guð, klettur minn og frelsari.
+
 Drottinn sé með þér og bænheyri þig á degi neyðarinnar! Guð Jakobs frelsi þig frá allri ógæfu.
 <range>
 Hann sendi þér hjálp frá helgidómi sínum, styðji þig frá Síon.
@@ -14202,8 +14203,8 @@ Hann veiti þér það sem hjarta þitt þráir og láti öll þín áform ná f
 Þegar við fréttum um sigur þinn, munum við hrópa fagnaðaróp og veifa fánanum Guði til dýrðar, því að mikla hluti hefur hann gert fyrir þig. Hann veiti svör við öllum þínum bænum!
 Guð blessi konunginn! – Já, það mun hann vissulega gera! í himinhæðum heyrir hann bæn mína og veitir mér mikinn sigur.
 Hinir stæra sig af herstyrk og vopnavaldi, en við af Drottni, Guði.
-Þjóðir þessar munu hrasa og farast, en við rísa og standa traustum fótum.
-Drottinn, sendu konungi okkar sigur! Drottinn, heyr þú bænir okkar.
+Þjóðir þessar munu hrasa og farast, en við rísa og standa traustum fótum. Drottinn, sendu konungi okkar sigur! Drottinn, heyr þú bænir okkar.
+
 Drottinn! Yfir valdi þínu og mætti fagnar konungurinn. Hann gleðst stórlega yfir hjálp þinni!
 <range>
 Því að þú hefur veitt honum það sem hjarta hans þráir, allt sem hann bað þig um!
@@ -14216,8 +14217,8 @@ Drottinn, hönd þín mun ná öllum óvinum þínum og hatursmönnum.
 Þegar þú stígur fram eyðast þeir í eldinum sem út frá þér gengur. Drottinn mun afmá þá og afkomendur þeirra.
 <range>
 Samsæri hafa þeir gert gegn þér Drottinn, en það mun ekki takast.
-Þegar þeir sjá boga þinn spenntan, flýja þeir sem fætur toga.
-Drottinn, þinn er mátturinn og dýrðin! Heyr þú lofgjörð okkar! Um máttarverk þín syngjum við og kveðum!.
+Þegar þeir sjá boga þinn spenntan, flýja þeir sem fætur toga. Drottinn, þinn er mátturinn og dýrðin! Heyr þú lofgjörð okkar! Um máttarverk þín syngjum við og kveðum!.
+
 Guð minn, Guð minn, hví hefur þú yfirgefið mig? Hví ert þú þögull og hjálpar ekki þegar ég hrópa til þín í neyð minni?
 <range>
 Daga og nætur græt ég og ákalla þig, en fæ ekkert svar!
@@ -14248,8 +14249,7 @@ Fátæklingurinn mun eta sig saddan og allir þeir sem leita Drottins munu finna
 Öll jörðin mun sjá það og snúa sér til Drottins, og fólk af öllum þjóðum mun vegsama hann.
 Því að Drottinn er konungur yfir öllum þjóðum.
 Jafnt háir sem lágir, allir dauðlegir menn, lúti honum og lofi hann.
-Og börnin okkar, – einnig þau munu þjóna honum því þau hafa heyrt vitnisburð okkar um hann.
-Ófæddar kynslóðir munu heyra um máttarverk hans okkar á meðal.
+Og börnin okkar, – einnig þau munu þjóna honum því þau hafa heyrt vitnisburð okkar um hann. Ófæddar kynslóðir munu heyra um máttarverk hans okkar á meðal.
 Drottinn er minn hirðir, mig mun ekkert skorta.
 Hann lætur mig hvílast á grænum grundum og njóta næðis hjá lygnum vötnum.
 Hann hressir mig og styrkir og leiðir mig réttan veg. Hann hjálpar mér, nafni sínu til vegsemdar.
@@ -14334,6 +14334,7 @@ Rödd Drottins kveður við í eldingunni og endurómar í eyðimörkinni sem n�
 Raust Drottins skekur skógartrén, feykir burt laufi þeirra og lætur hindirnar bera fyrir tímann. Allir þeir sem standa í helgidómi hans segja: „Dýrð! Já, dýrð sé Drottni!“
 Flóðið mikla var ógurlegt, en Drottinn er enn meiri! Og enn birtir hann mátt sinn og kraft.
 Hann mun veita lýð sínum styrkleik og blessa hann með friði og velgengni.
+
 Ég vil lofa þig Drottinn, því að þú hefur frelsað mig frá óvinum mínum. Þú leyfðir þeim ekki að yfirbuga mig.
 <range>
 Ó, Drottinn Guð minn, ég hrópaði til þín og þú læknaðir mig.
@@ -14345,8 +14346,8 @@ Reiði hans stendur stutta stund, en náð hans varir að eilífu! Hans vegna st
 Ég hrópaði til þín Drottinn. Já, svo sannarlega ákallaði ég þig!
 Ég sagði: „Hvers vegna vilt þú Drottinn, koma mér á kné? – leiða mig í dauðann? Þar verður lofsöngur minn til lítils gagns. Hvernig á ég þá, liðið lík, að lofa þig, og vegsama trúfesti þína?!
 Heyr þú ákall mitt, Drottinn! Miskunna þú mér og sendu mér hjálp þína.“
-Þá breytti hann grát mínum í gleðidans! Hann dró af mér sorgarklæðin og færði mig í veisluskrúða!
-Og þá gat ég lofsungið honum og gleymt ógnum grafarinnar! Ó, Drottinn, minn Guð, hvernig fæ ég fullþakkað þér?
+Þá breytti hann grát mínum í gleðidans! Hann dró af mér sorgarklæðin og færði mig í veisluskrúða! Og þá gat ég lofsungið honum og gleymt ógnum grafarinnar! Ó, Drottinn, minn Guð, hvernig fæ ég fullþakkað þér?
+
 Drottinn, þér einum treysti ég. Láttu ekki óvini mína yfirbuga mig. Bjargaðu mér, því að þú ert réttlátur í öllum hlutum.
 <range>
 Svara mér í skyndi, nú þegar ég hrópa til þín. Beygðu þig niður að mér og hlustaðu á bæn mína. Vertu mér verndarbjarg, skjól fyrir óvinum.
@@ -14370,8 +14371,7 @@ Mikil er miskunn þín við þá sem treysta þér og vitna um trúfesti þína,
 Vertu ástvinum þínum skjól gegn svikráðum manna, verndaðu þá fyrir illum tungum.
 Lofaður sé Drottinn, því að hann hefur sýnt mér dásamlega náð og verndað mig gegn illu.
 Í fljótfærni sagði ég: „Drottinn hefur yfirgefið mig.“ En hann heyrði samt bæn mína og svaraði mér!
-Elskið Drottin, öll þið sem honum treystið, því að Drottinn verndar trúfasta, en refsar harðlega þeim sem hafna honum í hroka.
-Verið því glöð og hughraust, öll þið sem vonið á Drottin!
+Elskið Drottin, öll þið sem honum treystið, því að Drottinn verndar trúfasta, en refsar harðlega þeim sem hafna honum í hroka. Verið því glöð og hughraust, öll þið sem vonið á Drottin!
 Hvílík náð að fá syndir sínar fyrirgefnar! Það er dásamlegt þegar afbrotin eru strikuð út! En sá léttir hverjum játandi syndara að heyra Drottin segja: „Ég sýkna þig.“
 <range>
 Sú var tíðin að ég þrjóskaðist við og neitaði að iðrast. En synd mín kvaldi mig og nagaði öllum stundum.
@@ -14405,6 +14405,7 @@ En, – augu Drottins vaka yfir þeim sem óttast hann, þeim sem reiða sig á 
 Ég hef sett traust mitt á Drottin. Enginn getur hjálpað nema hann, hann er skjöldur og vígi!
 Hans vegna gleðjumst við og fögnum. Hans heilaga nafni treystum við.
 Miskunn þín Drottinn umvefji okkur. Við vonum á þig.
+
 Ég vil lofa Drottin öllum stundum, vegsama hann seint og snemma.
 <range>
 Ég hrósa mér af Drottni. Hinir hógværu hlusta og öðlast nýjan kjark.
@@ -14426,8 +14427,7 @@ En öllum óguðlegum mun Drottinn eyða og afmá minningu þeirra af jörðinni
 Já, Drottinn er nálægur öllum þeim sem hafa auðmjúkt hjarta. Hann frelsar þá sem í einlægni og auðmýkt iðrast synda sinna.
 Góður maður kemst oft í vanda – fær sinn skammt af mótlæti – en Drottinn á lausn við öllu slíku.
 Jafnvel gegn slysum verndar Drottinn hann.
-Ógæfan eltir og drepur óguðlegan mann og þeir sem hata réttláta bíða síns dóms.
-En Drottinn frelsar líf þjóna sinna. Enginn sem leitar hælis hjá honum verður dæmdur sekur.
+Ógæfan eltir og drepur óguðlegan mann og þeir sem hata réttláta bíða síns dóms. En Drottinn frelsar líf þjóna sinna. Enginn sem leitar hælis hjá honum verður dæmdur sekur.
 Drottinn, farðu gegn þeim sem ásækja mig. Berst þú við þá sem berjast gegn mér.
 Klæddu þig brynju, taktu fram skjöld og verndaðu mig.
 Lyftu spjóti mér til varnar, því að óvinir mínir nálgast. Segðu við mig: „Ég bjarga þér!“
@@ -14456,6 +14456,7 @@ Láttu þá ekki segja: „Gott! Það fór eins og við óskuðum! Loksins tók
 Láttu þá blygðast sín. Láttu þá sem sýna mér hroka og fagna yfir óförum mínum, sjálfa þola skömm og svívirðing.
 Láttu þá sem óska mér blessunar sjá góða daga. Þeir hrópi: „Mikill er Drottinn sem gerir vel við þjón sinn!“
 Ég vil segja öllum frá réttlæti Drottins og lofa hann liðlangan daginn.
+
 Rödd syndarinnar talar í huga guðleysingjans og hvetur hann til vondra verka. Enginn guðsótti býr í hjarta hans.
 <range>
 Syndin dregur hann á tálar, mistök hans verða augljós og menn hata hann.
@@ -14467,8 +14468,7 @@ Hversu dýrmæt er miskunn þín ó, Guð! Mennirnir leita skjóls í skugga væ
 Þú nærir þá með krásum af borði þínu og lætur þá drekka úr lækjum unaðssemda þinna.
 Þú, Drottinn, ert uppspretta lífsins! í þínu ljósi sjáum við ljós.
 Lát miskunn þína haldast við þá sem þekkja þig og réttlæti þitt við þá sem hlýða þér og elska.
-Lát ekki fót hins hrokafulla troða á mér né hendur óguðlegra hrekja mig burt.
-Líttu á! Illgjörðamennirnir eru fallnir! Þeim hefur verið varpað um koll og þeir megna ekki að rísa upp aftur.
+Lát ekki fót hins hrokafulla troða á mér né hendur óguðlegra hrekja mig burt. Líttu á! Illgjörðamennirnir eru fallnir! Þeim hefur verið varpað um koll og þeir megna ekki að rísa upp aftur.
 Öfundaðu aldrei vonda menn,
 því að fyrr en varir eru þeir fallnir og visna eins og grasið.
 Treystu heldur Drottni, vertu góðgjarn og sýndu kærleika. Þá muntu búa öruggur í landinu og farnast vel.
@@ -14509,6 +14509,7 @@ En hvað um hinn ráðvanda og hreinskilna? Það er önnur saga! Því að gó�
 Illum mönnum verður útrýmt og þeir eiga enga framtíðarvon.
 Drottinn bjargar hinum guðræknu. Hann er þeim hjálp og skjól á neyðartímum.
 Þeir treysta honum og því hjálpar hann þeim og frelsar þá frá vélráðum óguðlegra.
+
 Drottinn, ekki refsa mér, þótt þú sért reiður.
 <range>
 Örvar þínar standa í mér og hönd þín liggur þungt á mér.
@@ -14530,8 +14531,8 @@ En illráð þeirra verka ekki á mig! Ég virði þá ekki viðlits. Áform þe
 Ég játa syndir mínar og iðrast þess sem ég hef gert.
 En ofsóknum óvina minna linnir ekki og heift þeirra minnkar ekki. Þeir hata mig án ástæðu.
 Þeir launa mér gott með illu, hata mig fyrir góðverk mín.
-Yfirgefðu mig ekki, Drottinn. Vík ekki frá mér!
-Komdu skjótt og hjálpaðu mér, þú frelsari minn!
+Yfirgefðu mig ekki, Drottinn. Vík ekki frá mér! Komdu skjótt og hjálpaðu mér, þú frelsari minn!
+
 Ég hugsaði: „Ég ætla ekki að kvarta, né segja neitt ljótt meðan óguðlegir heyra til.“
 <range>
 Og ég þagði. En hið innra leið mér verr og verr. Ég hélt aftur af mér, en gremjan magnaðist í mér. Að lokum gat ég ekki orða bundist:
@@ -14544,8 +14545,8 @@ Frelsa mig frá syndum mínum svo að heimskingjarnir hafi mig ekki að spotti.
 Drottinn, ég þegi því að þú hefur talað. Ég vil ekki kvarta, því að þú hefur refsað mér.
 Drottinn láttu refsingu þína taka enda – ég þoli ekki meira!
 Þegar þú hirtir manninn vegna synda hans, þá er nánast úti um hann. Hann er sem mölétin flík, já, hann líður burt eins og gufa.
-Heyr þú bæn mína, Drottinn, hlustaðu á hróp mitt! Vertu ekki hljóður við tárum mínum. Mundu að ég er gestur hér, förumaður á þessari jörð eins og forfeður mínir.
-Miskunna þú mér, Drottinn og læknaðu mig. Lofaðu mér aftur að sjá glaðan dag áður en ég dey.
+Heyr þú bæn mína, Drottinn, hlustaðu á hróp mitt! Vertu ekki hljóður við tárum mínum. Mundu að ég er gestur hér, förumaður á þessari jörð eins og forfeður mínir. Miskunna þú mér, Drottinn og læknaðu mig. Lofaðu mér aftur að sjá glaðan dag áður en ég dey.
+
 Ég setti alla mína von á Drottin. Hann heyrði kvein mitt og að lokum bjargaði hann mér.
 <range>
 Hann dró mig upp úr glötunargröfinni, hinni botnlausu leðju, og lyfti mér upp á klett. Hann gerði mig styrkan í gangi.
@@ -14562,8 +14563,8 @@ Sért þú ekki með mér, er úti um mig. Vandamál mín eru mér ofvaxin, og s
 Ó, Drottinn, ég hrópa til þín! Frelsa þú mig! Komdu fljótt og hjálpaðu mér.
 Ruglaðu þá í ríminu; sem sækjast eftir lífi mínu. Sendu þá burt með skömm!
 <range>
-Allir þeir sem elska Drottin og leita hans, skulu gleðjast yfir hjálpræði hans. Þeir segi án afláts: „Mikill er Drottinn!“
-Ég er aumur og fátækur, en þó ber Drottinn umhyggju fyrir mér. Þú, Guð minn, ert hjálp mín, og frelsari; Ó, komdu og bjargaðu mér! Láttu það ekki dragast!.
+Allir þeir sem elska Drottin og leita hans, skulu gleðjast yfir hjálpræði hans. Þeir segi án afláts: „Mikill er Drottinn!“ Ég er aumur og fátækur, en þó ber Drottinn umhyggju fyrir mér. Þú, Guð minn, ert hjálp mín, og frelsari; Ó, komdu og bjargaðu mér! Láttu það ekki dragast!.
+
 Guð blessar þann sem hjálpar bágstöddum. Á mæðudeginum bjargar Drottinn honum.
 <range>
 Drottinn verndar hann og heldur í honum lífinu. Hann lætur hann njóta sæmdar og frelsar hann frá óvinum hans.
@@ -14576,8 +14577,8 @@ Hatursmenn mínir hæða mig og spotta. Þeir skrafa og pískra hvað gera skuli
 Og besti vinur minn, hann snerist líka gegn mér, maðurinn sem ég treysti svo vel, hann sem át við borð mitt.
 En, Drottinn, yfirgef mig ekki! Miskunnaðu mér og læknaðu mig svo að ég geti endurgoldið þeim!
 Ég veit að þú elskar mig og að þú munt ekki láta óvini mína hlakka yfir mér.
-Vegna sakleysis míns hefur þú varðveitt mig og lætur mig lifa með þér að eilífu.
-Lofaður sé Drottinn, Guð Ísraels, frá eilífð til eilífðar. Amen. Amen.
+Vegna sakleysis míns hefur þú varðveitt mig og lætur mig lifa með þér að eilífu. Lofaður sé Drottinn, Guð Ísraels, frá eilífð til eilífðar. Amen. Amen.
+
 Eins og hindin þráir vatnslindir, þrái ég þig, ó Guð.
 <range>
 Mig þyrstir eftir Guði, hinum lifandi Guði. Hvenær fæ ég að koma og standa frammi fyrir honum?
@@ -14588,13 +14589,13 @@ Hresstu þig nú, sál mín! Minnstu þess er þú á hátíðum leiddir skrúð
 Bylgjur þínar hafa brotnað á mér og fossar þínir baðað mig í sorg.
 En þó streymir náð Drottins til mín dag eftir dag og um nætur lofa ég hann og bið til Guðs sem gaf mér lífið.
 Ég bið og segi: „Ó, þú Guð, klettur minn.“ „Hvers vegna hefur þú yfirgefið mig? Hvers vegna verð ég að þola árásir óvina minna?“
-Mig svíður undan ögrunum þeirra og aftur og aftur gera þeir gys að mér. „Hvar er þessi Guð þinn?!“ segja þeir.
-En sál mín, misstu ekki móðinn. Láttu þér ekki gremjast það. Vonaðu á Guð. Já ég veit að hann mun hjálpa mér og þá mun ég lofa hann fyrir allt það sem hann gerir. Hann er björgun mín! Hann er minn Guð!
+Mig svíður undan ögrunum þeirra og aftur og aftur gera þeir gys að mér. „Hvar er þessi Guð þinn?!“ segja þeir. En sál mín, misstu ekki móðinn. Láttu þér ekki gremjast það. Vonaðu á Guð. Já ég veit að hann mun hjálpa mér og þá mun ég lofa hann fyrir allt það sem hann gerir. Hann er björgun mín! Hann er minn Guð!
 Ó, Guð, láttu mig ná rétti mínum gegn svikulum og vondum mönnum sem ásaka mig.
 Þú einn ert Guð, skjól mitt og vígi. Hvers vegna hefur þú vísað mér frá? Hví verð ég að ganga um harmandi, kúgaður af óvinum?
 Sendu ljós þitt og sannleika til að vísa mér veginn að musteri þínu á Síon, fjallinu þínu helga.
 Þar vil ég ganga að altari Guðs, uppsprettu gleðinnar, og lofa hann með hörpuleik. Ó, Guð, – minn Guð!
 Sál mín hvers vegna ertu döpur og kjarklaus? Treystu Guði! Víst mun ég fá að lofa hann á ný, því hann mun hjálpa mér og aftur mun auglit mitt gleðjast!
+
 Guð, við höfum heyrt um máttarverk þín á dögum forfeðra okkar. Þeir hafa sagt:
 <range>
 Hann rak heiðnu þjóðirnar úr landinu og gaf okkur það, lét Ísrael setjast hér að.
@@ -14620,8 +14621,8 @@ hefði honum þá ekki verið kunnugt um það? Hann sem þekkir alla hluti og l
 En það höfum við ekki gert. Við erum í dauðans hættu fyrir það eitt að þjóna þér! Við erum eins og lömb leidd til slátrunar!
 Vakna þú! Rís þú á fætur! Hvers vegna sefur þú, Drottinn? Hefur þú hafnað okkur fyrir fullt og allt?
 Hvers vegna horfir þú í aðra átt? Af hverju er þér sama um sorg okkar og neyð?
-Við erum fallnir og liggjum hér endilangir.
-Rís þú upp, Drottinn, komdu og hjálpaðu okkur! Frelsaðu okkur vegna eilífrar elsku þinnar.
+Við erum fallnir og liggjum hér endilangir. Rís þú upp, Drottinn, komdu og hjálpaðu okkur! Frelsaðu okkur vegna eilífrar elsku þinnar.
+
 Hjarta mitt svellur af fögrum orðum. Ég vil flytja konungi ljóð. Tunga mín er penni hraðritarans, hún flytur langa sögu á augabragði:
 <range>
 Þú ert fegurri en mannanna börn. Blessun streymir um varir þínar. Velþóknun Guðs er yfir þér að eilífu.
@@ -14638,8 +14639,8 @@ Konungadætur eru í hópi vinkvenna þinna. Drottningin stendur þér við hli�
 Brúðurin – konungsdóttir – bíður í skrauthýsi sínu, íklædd fegursta djásni, kjól skreyttum gulli og perlum.
 Fögur er hún! Meyjarnar leiða hana á fund konungs.
 Þær fara í skrúðgöngu gegnum hliðið. Þarna er höllin!
-„Synir þínir verða allir konungar og feta í fótspor föður síns. Þeir munu sitja á hásætum víðs vegar um heim!“
-„Ég mun gera nafn þitt kunnugt meðal allra kynslóða og þjóðir jarðarinnar munu hylla þig að eilífu.“
+„Synir þínir verða allir konungar og feta í fótspor föður síns. Þeir munu sitja á hásætum víðs vegar um heim!“ „Ég mun gera nafn þitt kunnugt meðal allra kynslóða og þjóðir jarðarinnar munu hylla þig að eilífu.“
+
 Guð er mér hæli og styrkur, örugg hjálp í nauðum.
 <range>
 Þess vegna óttumst við ekki, þótt heimurinn farist og fjöllin steypist í hafið.
@@ -14650,8 +14651,8 @@ Hér býr Guð, hún mun ekki haggast. Þegar þörf er á, kemur Guð henni til
 Drottinn, hann sem ræður hersveitum himinsins, er hér! Hann er á meðal okkar! Hann, Guð Jakobs, er kominn til að hjálpa.
 Komið og sjáið máttarverk hans á jörðinni.
 Hann stöðvar styrjaldir um víða veröld, brýtur vopnin og kastar á eld.
-„Þögn! Standið kyrr! Vitið að ég er Guð! Allar þjóðir heims syni mér lotningu.“
-Drottinn hersveita himinsins er hér, hann er á meðal okkar! Hann, Guð Jakobs, er hér til að frelsa!
+„Þögn! Standið kyrr! Vitið að ég er Guð! Allar þjóðir heims syni mér lotningu.“ Drottinn hersveita himinsins er hér, hann er á meðal okkar! Hann, Guð Jakobs, er hér til að frelsa!
+
 Komið allar þjóðir! Klappið saman höndum af gleði! Hrópið af fögnuði fyrir Guði!
 <range>
 Drottinn er æðri öllum guðum. Hann er ógurlegur. Honum verður ekki með orðum lýst. Hann er konungur til endimarka jarðarinnar.
@@ -14660,8 +14661,8 @@ og valið úr yndislegt land og gefið okkur, þjóð sinni, Ísrael.
 Guð er stiginn upp með miklu hrópi og hvellum lúðurhljómi.
 Lofsyngið Guði, konungi okkar. Já, syngið lofgjörðarsöng fyrir konunginn, konung allrar jarðarinnar. Lofsyngið Guði!
 <range>
-Hann ríkir yfir þjóðunum. Hann situr á hásæti sínu.
-Leiðtogar heimsins koma og taka undir lofgjörðina með lýð Guðs Abrahams. Skjaldarmerki þjóðanna eru sigurtákn hans. Hann er mjög upphafinn. Hann er konungur alls heimsins.
+Hann ríkir yfir þjóðunum. Hann situr á hásæti sínu. Leiðtogar heimsins koma og taka undir lofgjörðina með lýð Guðs Abrahams. Skjaldarmerki þjóðanna eru sigurtákn hans. Hann er mjög upphafinn. Hann er konungur alls heimsins.
+
 Mikill er Drottinn! Vegsömum hann, já lofum hann! Hann býr á sínu helga fjalli í Jerúsalem.
 <range>
 Fallegt er Síonfjall í norðri. Fjallið sem þjóðin elskar, þar sem konungurinn mikli býr.
@@ -14676,7 +14677,7 @@ Nafn þitt er þekkt um alla jörðina. Þú ert lofaður um víða veröld vegn
 Gleð þig, Jerúsalem! Gleð þig Júdaættkvísl! Því að Guð mun vissulega láta þig ná rétti þínum.
 Komið og skoðið borgina! Gangið um og teljið turnana!
 Lítið á múrinn og sjáið hallirnar og segið komandi kynslóð frá því að slíkur sé Drottinn! Hann mun leiða okkur um aldur og ævi.
-<range>
+
 Hlustið nú háir og lágir, ríkir og fátækir. Allir heimsbúar hlýðið á.
 <range>
 <range>
@@ -14696,8 +14697,7 @@ En hvað um mig? Guð mun leysa sál mína frá dauða og frelsa mig úr helju.
 Vertu ekki gramur þótt einhver verði ríkur og reisi sér glæsihöll.
 Ekkert af því mun hann taka með sér í gröfina, ekki einu sinni frægð sína!
 Í lifanda lífi telur hann sig heppinn og heimurinn klappar honum lof í lófa,
-en þó deyr hann eins og aðrir og hverfur inn í myrkrið.
-Sá sem elskar eigin lofstír deyr eins og skepnan, þrátt fyrir frægð sína og frama.
+en þó deyr hann eins og aðrir og hverfur inn í myrkrið. Sá sem elskar eigin lofstír deyr eins og skepnan, þrátt fyrir frægð sína og frama.
 Drottinn er alvaldur Guð. Hann kallar þjóð sína saman úr austri og vestri.
 Dýrð Guðs ljómar frá musteri hans á Síonfjalli.
 Hann birtist í þrumugný, umlukinn eyðandi eldi og stormviðri.
@@ -14721,6 +14721,8 @@ og baktalið bróður ykkar.
 Þannig ferst ykkur og svo á ég að þegja?! Er ég þá eins og þið? Nei, ég mun hegna ykkur svo ekki verður um villst.
 En þið sem gleymduð Guði, fáið eitt tækifæri enn, síðan læt ég eyðinguna koma og þá er allt um seinan.
 Sá sem færir þakkargjörð að fórn, heiðrar mig. Og þeir sem breyta eftir orðum mínum fá að sjá hjálpræði mitt.“
+
+
 Þennan sálm orti Davíð
 eftir að Natan spámaður hafði birt honum dóm Guðs vegna hórdóms hans með Batsebu og morðsins á Úría eiginmanni hennar.
 Þú góði og miskunnsami Guð, ó, fyrirgefðu mér! Vertu mér náðugur! Taktu burt synd mína og skömm!
@@ -14738,10 +14740,10 @@ Fylltu mig aftur gleði þíns hjálpræðis og löngun til að hlýða þér!
 Þá get ég leitt aðra syndara inn á veg þinn svo að þeir – sekir eins og ég – játi syndir sínar og snúi sér til þín.
 Frelsaðu mig frá dauðans háska, ó Guð minn. Þú einn getur frelsað mig! Leyf mér að syngja um miskunn þína, Drottinn. Opnaðu varir mínar svo að ég megi vegsama þig!
 <range>
-Þú hefur ekki þóknun á dýrafórnum, annars myndi ég láta þær í té. Og brennifórnir eru ekki í uppáhaldi hjá þér.
-Þetta vilt þú: Auðmjúkan anda og iðrandi samvisku. Þann sem iðrast af öllu hjarta, munt þú ó Guð, ekki fyrirlíta.
-Drottinn, lát Ísrael ekki gjalda syndar minnar. Hjálpaðu þjóð þinni og vernda Jerúsalem.
-Þegar hjarta mitt er rétt gagnvart þér, þá gleðst þú yfir verkum mínum og því sem ég fórna á altari þínu.
+Þú hefur ekki þóknun á dýrafórnum, annars myndi ég láta þær í té. Og brennifórnir eru ekki í uppáhaldi hjá þér. Drottinn, lát Ísrael ekki gjalda syndar minnar. Hjálpaðu þjóð þinni og vernda Jerúsalem.
+Þetta vilt þú: Auðmjúkan anda og iðrandi samvisku. Þann sem iðrast af öllu hjarta, munt þú ó Guð, ekki fyrirlíta. Þegar hjarta mitt er rétt gagnvart þér, þá gleðst þú yfir verkum mínum og því sem ég fórna á altari þínu.
+
+
 Þennan sálm orti Davíð
 til að andmæla óvini sínum Dóeg sem síðar tók af lífi áttatíu og fimm presta og fjölskyldur þeirra (sjá: 1. Sam. 22.).
 Kallar þú þig hetju?! Þú sem hreykir þér af ódæði gegn þjóð Guðs og herðir þig gegn miskunn hans.
@@ -14749,26 +14751,25 @@ Kallar þú þig hetju?! Þú sem hreykir þér af ódæði gegn þjóð Guðs o
 Þú elskar illt meir en gott, lygi umfram sannleika.
 Rógburð elskar þú og annað skaðræðistal!
 En Guð mun koma þér á kné, draga þig út úr húsi þínu og uppræta af landi lifenda.
-Hinir réttlátu munu sjá það og óttast Guð, síðan hlægja og segja:
-„Svo fer fyrir þeim sem fyrirlíta Guð og treysta á mátt sinn og megin, þeim sem þrjóskast í illsku sinni.“
-Ég er sem grænt olífutré í garði Guðs. Ég treysti á miskunn hans meðan ég lifi.
-Drottinn, ég vil vegsama þig að eilífu og þakka það sem þú hefur gert. Ég segi hinum trúuðu: Góður er Guð!
+Hinir réttlátu munu sjá það og óttast Guð, síðan hlægja og segja: Ég er sem grænt olífutré í garði Guðs. Ég treysti á miskunn hans meðan ég lifi.
+„Svo fer fyrir þeim sem fyrirlíta Guð og treysta á mátt sinn og megin, þeim sem þrjóskast í illsku sinni.“ Drottinn, ég vil vegsama þig að eilífu og þakka það sem þú hefur gert. Ég segi hinum trúuðu: Góður er Guð!
+
 En sú heimska að segja: „Guð er ekki til.“ Hvers vegna segja menn slíkt? Vegna þess að hjörtu þeirra eru spillt og verk þeirra vond.
 <range>
 Guð lítur niður af himni. Hann rennir augum yfir mannanna börn. Skyldi nokkur vera hygginn og leita vilja Guðs?
 Nei, allir hafa þeir snúið í hann baki. Þeir eru spilltir. Enginn þeirra gerir vilja Guðs, ekki einn einasti!
 Þeir munu fá sinn dóm, illgjörðamennirnir sem ofsækja lýð Guðs.
-Þeir munu þjást af ótta, jafnvel þegar engin hætta er! Guð mun á sínum tíma tvístra þeim. Hann hefur fellt sinn dóm og hafnað þeim.
-Ó, að Guð kæmi frá Síon og frelsaði Ísrael! Þá munum við taka gleði okkar á ný.
+Þeir munu þjást af ótta, jafnvel þegar engin hætta er! Guð mun á sínum tíma tvístra þeim. Hann hefur fellt sinn dóm og hafnað þeim. Ó, að Guð kæmi frá Síon og frelsaði Ísrael! Þá munum við taka gleði okkar á ný.
+
+
 Sálmur eftir Davíð,
 ortur þegar menn frá Síf reyndu að svíkja hann í hendur Sál konungs.
 Komdu í mætti þínum, ó Guð, og bjargaðu mér! Verndaðu mig með krafti þínum!
 Bænheyrðu mig,
 því að ofbeldismenn hafa risið gegn mér – heiðingjar sem ekki trúa á þig, sækjast eftir lífi mínu.
-En Guð er minn hjálpari. Hann er vinur minn!
-Fyrir hans tilverknað mun illska þeirra koma þeim sjálfum í koll. Efndu loforð þitt, Guð, og þurrkaðu út þessa illvirkja.
-Glaður kem ég fram fyrir þig með fórn mína. Ég lofa nafn þitt, Drottinn, því það er gott.
-Guð hefur frelsað mig frá dauða og yfirbugað óvini mína.
+En Guð er minn hjálpari. Hann er vinur minn! Glaður kem ég fram fyrir þig með fórn mína. Ég lofa nafn þitt, Drottinn, því það er gott.
+Fyrir hans tilverknað mun illska þeirra koma þeim sjálfum í koll. Efndu loforð þitt, Guð, og þurrkaðu út þessa illvirkja. Guð hefur frelsað mig frá dauða og yfirbugað óvini mína.
+
 Heyr bæn mína, ó Guð! Snú þér ekki frá þegar ég ákalla þig.
 <range>
 Hlustaðu á ákall mitt. Ég andvarpa og græt í sorg minni.
@@ -14791,8 +14792,8 @@ Kvölds og morgna og um miðjan dag sárbæni ég Guð. Ég veit að hann heyrir
 Sjálfur Guð – sem er frá eilífð – mun svara mér, en óvinir mínir, breytast ekki og óttast ekki Guð.
 En vinur minn, sveik mig og ofsótti – rauf heit sitt.
 Orðin á tungu hans voru ljúf og blíð en hjartað fullt af hatri.
-Varpaðu áhyggjum þínum á Drottin, hann ber umhyggju fyrir þér. Hann mun aldrei láta trúaðan mann verða valtan á fótum.
-Guð mun varpa óvinum mínum til heljar, til dánarheima. Morðingjar og svikarar munu ekki ná háum aldri. En ég treysti þér, að þú leyfir mér að lifa.
+Varpaðu áhyggjum þínum á Drottin, hann ber umhyggju fyrir þér. Hann mun aldrei láta trúaðan mann verða valtan á fótum. Guð mun varpa óvinum mínum til heljar, til dánarheima. Morðingjar og svikarar munu ekki ná háum aldri. En ég treysti þér, að þú leyfir mér að lifa.
+
 Drottinn, miskunna þú mér, því að liðlangan daginn sækja óvinir mínir að.
 <range>
 Fjandmennirnir ryðjast fram, fjölmennt lið, þeir ætla að drepa mig.
@@ -14805,8 +14806,8 @@ Fjandmennirnir ryðjast fram, fjölmennt lið, þeir ætla að drepa mig.
 Þegar ég hrópa til þín um hjálp, breytist bardaginn. Óvinir mínir flýja! Þá veit ég að Guð er með mér! Hann liðsinnir mér!
 Með hjálp Guðs mun ég lofa orð hans, já vissulega mun ég lofa orð hans.
 Ég treysti Guði. Loforð hans eru dásamleg! Ég óttast ekki svikráð mannanna – hvað geta þeir gert mér?!
-Drottinn, ég vil standa við orð mín og þakka þér hjálpina!
-Þú hefur frelsað mig frá dauða og forðað frá hrösun og þess vegna fæ ég að njóta ljóss og lífs með þér.
+Drottinn, ég vil standa við orð mín og þakka þér hjálpina! Þú hefur frelsað mig frá dauða og forðað frá hrösun og þess vegna fæ ég að njóta ljóss og lífs með þér.
+
 Þennan sálm orti Davíð þegar hann flýði inn í hellinn undan Sál. (Sjá ). Ó Guð, vertu mér náðugur, því að ég treysti þér. Ég vil leita skjóls undir vængjum þínum uns storminn hefur lægt.
 <range>
 Ég hrópa til Guðs hins hæsta, hans sem leysir öll mín mál.
@@ -14817,8 +14818,8 @@ Drottinn, lofað sé nafn þitt á himnum! Láttu dýrð þína líka birtast á
 Guð minn, nú er hjarta mitt rótt og ég treysti þér. Ég vil lofa þig!
 Rís þú nú upp, sál mín!
 Vakna þú harpa og gígja! Bjóddu morgunroðann velkominn með söng! Allir landsbúar heyra þakkargjörð mína.
-Ég vil syngja þér lof meðal þjóðanna.
-Miskunn þín er há eins og himinninn og trúfesti þín nær til skýjanna.
+Ég vil syngja þér lof meðal þjóðanna. Miskunn þín er há eins og himinninn og trúfesti þín nær til skýjanna.
+
 Þið konungar og leiðtogar þjóðanna, talið þið sannleika? Er réttlæti í dómum ykkar og úrskurðum?
 <range>
 Nei, svo er ekki. Þið eruð allir svikarar sem seljið „réttlæti“ fyrir mútur.
@@ -14829,8 +14830,8 @@ Drottinn, slíttu úr þeim eiturbroddinn! Dragðu vígtennurnar úr þessum vö
 Láttu þá hverfa eins og jörðin hafi gleypt þá. Sláðu vopnin úr höndum þeirra.
 Láttu þá þorna upp eins og snigla og ekki sjá sólina frekar en þeir sem andvana eru fæddir.
 Guð mun svipta þeim burt, eyða þeim skjótar en pottur hitnar yfir eldi.
-Þá munu hinir guðhræddu fagna, þegar réttlætið sigrar og þeir fá að ganga um blóðidrifin stræti fallinna óvina.
-Þá munu menn sjá að réttlætið sigrar og að Guð dæmir jörðina með réttvísi.
+Þá munu hinir guðhræddu fagna, þegar réttlætið sigrar og þeir fá að ganga um blóðidrifin stræti fallinna óvina. Þá munu menn sjá að réttlætið sigrar og að Guð dæmir jörðina með réttvísi.
+
 Þennan sálm orti Davíð þegar Sál konungur sendi menn heim til hans til að handsama hann og drepa (sjá: 1. Sam. 19:11).
 Ó, Guð minn, frelsaðu mig frá óvinum mínum! Verndaðu mig gegn þeim sem vilja drepa mig!
 Forðaðu mér frá þessum glæpalýð, þessum morðingjum.
@@ -14849,6 +14850,7 @@ Sviptu þeim burt með reiði þinni svo að þeir verði ekki framar til. Látt
 En ég? – Á hverjum morgni vil ég syngja um miskunn þína og mátt, því að á degi neyðarinnar varstu mér vígi.
 Þú styrkur minn, um þig vil ég syngja ljóðin mín. Þú háborg mín! Þú minn miskunnsami Guð!
 
+
 Þennan sálm orti Davíð
 þegar hann átti í ófriði við Sýrlendinga og óvíst var um úrslit. Þetta gerðist á sama tíma og Jóab, hershöfðingi Ísraels, vann sigur á 12.000 Edomítum í Saltdalnum.
 Þú Guð, hefur útskúfað okkur og brotið niður varnirnar. Þú hefur reiðst okkur og tvístrað. Drottinn sýndu aftur miskunn þína.
@@ -14859,10 +14861,9 @@ Réttu út þína sterku hönd og frelsaðu okkur! Bjargaðu ástvinum þínum.
 Guð hefur heitið hjálp. Hann hefur svarið það við heilagleika sinn! Er að undra þótt ég sé glaður?! „Síkem, Súkkót, Gíleað, Manasse – allt er þetta mitt,“ segir hann. „Júda gefur konung og Efraím varðmenn.
 <range>
 Móab er þjónn minn og Edóm þræll. Og yfir Filisteu æpi ég siguróp!“
-Hver fer með til Edóms, inn í víggirtar borgir hans?
-Guð! Hann sem áður útskúfaði og yfirgaf hersveitir okkar!
-Drottinn, styð okkur gegn óvinunum, því að ekki hjálpa menn.
-Með Guðs hjálp vinnum við stórvirki, hann mun fótum troða óvinina.
+Hver fer með til Edóms, inn í víggirtar borgir hans? Drottinn, styð okkur gegn óvinunum, því að ekki hjálpa menn.
+Guð! Hann sem áður útskúfaði og yfirgaf hersveitir okkar! Með Guðs hjálp vinnum við stórvirki, hann mun fótum troða óvinina.
+
 Ó, Guð, heyrðu hróp mitt! Hlustaðu á bæn mína.
 <range>
 Því að hvar sem ég fer, jafnvel um endimörk jarðar, þá hrópa ég eftir hjálp þinni. Þegar hjarta mitt örmagnast og ég get ekki meir, þá lyftu mér á klett, hjálpræðisbjargið þitt góða, mitt örugga skjól.
@@ -14883,8 +14884,8 @@ Já, hann einn er bjarg mitt, og lausnari, vörn mín og vígi. Ég hef ekkert a
 Þú þjóð mín, treystu Drottni. Segið honum óskir ykkar, hann getur uppfyllt þær!
 Mennirnir miklast og hrokast í hégóma sínum. Einn þykist öðrum meiri, en hann metur alla jafnt.
 Safnið ekki auði með svikum og ránum og treystið ekki illa fengnu fé. Treystið Drottni! Minnist þess aftur og aftur að Drottins er styrkurinn.
-<range>
 Já, hjá þér Drottinn, er miskunn og þú launar sérhverjum eftir verkum hans.
+
 Þennan sálm orti Davíð þegar hann leitaði skjóls í Júdeueyðimörkinni.
 Ó, þú Guð minn, ég leita þín! Mig þyrstir eftir þér í þessari skrælnuðu eyðimörk. Ó, hve ég þrái þig!
 Þegar ég gekk um í helgidómi þínum þá leitaði ég þín, þráði að sjá veldi þitt og dýrð.
@@ -14895,8 +14896,8 @@ Miskunn þín er betri en lífið sjálft! Með vörum mínum lofa ég þig.
 Þá fyllist ég gleði, finn mig öruggan hjá þér.
 Ég vil halda mér fast við þig, og styðjast við þína sterku hönd.
 Þeir munu sjálfir deyja sem brugga mér banaráð, og hverfa niður til heljar.
-Þeir munu falla fyrir sverði, verða sjakölum að bráð.
-Ég vil gleðjast í Guði! Og þeir sem honum treysta skulu fagna sigri því að munni lygaranna hefur verið lokað.
+Þeir munu falla fyrir sverði, verða sjakölum að bráð. Ég vil gleðjast í Guði! Og þeir sem honum treysta skulu fagna sigri því að munni lygaranna hefur verið lokað.
+
 Ó, Drottinn, hlustaðu á neyðaróp mitt, því að hópur af þorpurum og bófum hafa gert samsæri gegn mér. Verndaðu mig!
 <range>
 <range>
@@ -14906,8 +14907,8 @@ Orð þeirra eru eins og rýtingur í bakið. Þeir hvæsa á mig og nísta hjar
 Þeir upphugsa ill verk og segja „Nú er allt klappað og klárt!“ Hjörtu þeirra fyllast illsku og svikum.
 En Guð mun slá þá til jarðar. Eins og hendi sé veifað hittir örin þá
 Tunga þeirra verður þeim að falli. Menn hrista höfuðið yfir þeim og
-ótta slær á alla. Þeir játa mikilleik Guðs og hans voldugu verk, gefa gætur að því sem hann gerir.
-En hinir trúuðu munu fagna í Drottni, leita hjálpar hans og hrósa sigri með honum.
+ótta slær á alla. Þeir játa mikilleik Guðs og hans voldugu verk, gefa gætur að því sem hann gerir. En hinir trúuðu munu fagna í Drottni, leita hjálpar hans og hrósa sigri með honum.
+
 Ó, þú Guð á Síon, við lofum þig og vegsömum og efnum heit okkar við þig.
 <range>
 Þú heyrir bænir og því leita allir menn til þín.
@@ -14920,7 +14921,6 @@ Með krafti þínum sýnir þú réttlæti þitt, þú Guð, frelsari okkar. Þ�
 Þú vökvar jörðina og eykur frjósemi hennar. Ár þínar og uppsprettur munu ekki þorna. Þú gerir jörðina hæfa til sáningar og gefur þjóð þinni ríkulega uppskeru.
 Með steypiregni vökvar þú plógförin og mýkir jarðveginn – útsæðið spírar og vex!
 Landið klæðist grænni kápu. Heiðarnar blómstra og hlíðarnar brosa, allt er loðið af gróðri!
-<range>
 Hjarðirnar liðast um hagana og dalirnir fyllast af korni. Allt fagnar og syngur!
 Allur heimurinn gleðjist með Guði!
 Lofið nafn hans, það er undursamlegt! Segið öllum frá máttarverkum hans!
@@ -14942,6 +14942,7 @@ Komið og hlustið, þið sem óttist Drottin, og ég skal segja ykkur hvað han
 En fyrst játaði ég synd mína, annars hefði ég ekki fengið svar.
 En hann heyrði bæn mína og hlustaði, gaf gaum að því sem ég sagði.
 Lof sé Guði! Hann vísaði ekki bæn minni á bug né tók miskunn sína frá mér.
+
 Ó, veittu okkur miskunn þína og náð! Leyfðu okkur að sjá þig og kærleika þinn.
 <range>
 Leyfðu öllum mönnum að fá að kynnast þér og þekkja hjálpræði þitt.
@@ -14949,7 +14950,7 @@ Allar þjóðir skulu lofa Drottin.
 Þær skulu fagna og gleðjast, því að þú færir þeim réttlæti, og leiðir þær um réttan veg.
 Allur heimurinn lofi þig, ó Guð! Já, allar þjóðir í heiminum flytji þér þakkargjörð!
 Því að uppskera jarðarinnar varð mikil og Guð, hefur blessað okkur ríkulega. Og hann blessi okkur áfram svo að allar þjóðir megi óttast hann og elska.
-<range>
+
 Þegar Guð rís á fætur þá tvístrast óvinir hans! Þeir sem hata hann flýja sem mest þeir mega.
 <range>
 Blástu þeim burt eins og reyk í vindi! Bræddu þá eins og vax í eldi! Þannig munu óguðlegir tortímast fyrir Guði.
@@ -14984,8 +14985,8 @@ Konungar jarðarinnar gefa gjafir til musteris þíns í Jerúsalem.
 Egyptar sendi gull og Bláland fórni höndum í lotningu til Guðs.
 Syngið frammi fyrir Drottni, þið konungsríki jarðarinnar, syngið honum lofgjörðarsöng,
 honum, Guði eilífðar, sem ekur um himininn og talar með þrumuraust svo að undir tekur.
-Drottinn hefur máttinn! Dýrð hans ljómar yfir Ísrael og hans voldugu verk birtast á himninum.
-Við krjúpum fyrir honum í lotningu og ótta í musteri hans. Ísraels Guð veitir þjóð sinni mátt og megin. Lofaður sé Guð!
+Drottinn hefur máttinn! Dýrð hans ljómar yfir Ísrael og hans voldugu verk birtast á himninum. Við krjúpum fyrir honum í lotningu og ótta í musteri hans. Ísraels Guð veitir þjóð sinni mátt og megin. Lofaður sé Guð!
+
 Frelsaðu mig, ó Guð, því að vatnið hækkar sífellt
 <range>
 og ég sekk æ dýpra í þessa botnlausu leðju.
@@ -15021,14 +15022,13 @@ Strikaðu þá út af listanum yfir þá sem fá að lifa, leyfðu þeim ekki a�
 Hinir auðmjúku munu sjá að Drottinn hjálpar mér og þeir munu gleðjast. Já, gleðjist, þið sem leitið Guðs!
 Því að Drottinn heyrir hróp hinna snauðu, og snýr ekki við þeim bakinu.
 Himinn og jörð, lofið Drottin, og hafið og allt sem í því er!
-Því að Guð mun frelsa Jerúsalem og endurreisa borgirnar í Júda og þjóð hans mun búa við öryggi.
-Börnin munu erfa landið og þeir sem elska Drottin njóta þar friðar og velgengni.
+Því að Guð mun frelsa Jerúsalem og endurreisa borgirnar í Júda og þjóð hans mun búa við öryggi. Börnin munu erfa landið og þeir sem elska Drottin njóta þar friðar og velgengni.
+
 Bjargaðu mér, ó Guð! Flýttu þér Drottinn, að hjálpa mér!
 <range>
 Óvinir mínir sækjast eftir lífi mínu og njóta þess að kvelja mig. Rektu þá burt með skömm! Stöðvaðu þá! Láttu þá ekki hæða mig og spotta.
 <range>
-Allir þeir sem leita Guðs skulu fagna og gleðjast. Þeir sem elska hjálpræði þitt hrópi: „Lofaður sé Guð!“
-En ég er í miklum vanda ó, Guð! Flýttu þér að hjálpa mér! Þú ert sá eini sem getur bjargað. Drottinn minn, láttu það ekki dragast!
+Allir þeir sem leita Guðs skulu fagna og gleðjast. Þeir sem elska hjálpræði þitt hrópi: „Lofaður sé Guð!“ En ég er í miklum vanda ó, Guð! Flýttu þér að hjálpa mér! Þú ert sá eini sem getur bjargað. Drottinn minn, láttu það ekki dragast!
 Drottinn, þú ert skjól mitt! Ekki yfirgefa mig!
 Frelsaðu mig frá óvinum mínum, því að þú er réttlátur. Bjargaðu mér! Snúðu eyra þínu að mér og hlustaðu á mína einlægu bæn.
 Vertu mér vígi og skjól gegn öllum árásum.
@@ -15124,6 +15124,7 @@ Minnstu loforða þinna! Landið er hulið myrkri og ofbeldismenn út um allt.
 Drottinn, þjóð þín er kúguð, en láttu hana ekki þurfa að þola þessa svívirðing endalaust. Leyfðu hinum fátæku og hrjáðu að lofa nafn þitt!
 Komdu, ó Guð, og ákærðu óvini okkar. Hlustaðu á óþverrann sem þessi illmenni ausa yfir þig alla daga!
 Gleymdu ekki formælingum óvina þinna, þær glymja hærra og hærra.
+
 Þökk sé þér Drottinn! Máttarverk þín staðfesta umhyggju þína.
 <range>
 „Já,“ svarar Drottinn, „og þegar stundin er komin mun ég refsa öllum illgjörðamönnum!
@@ -15133,8 +15134,8 @@ að láta af þrjósku og hroka.
 Velgengni og völd getur enginn þakkað sér sjálfum,
 allt eru það gjafir frá Guði. Hann upphefur einn, en niðurlægir annan.
 Drottinn heldur á bikar fullum af freyðandi víni – það er dómurinn gegn illmennum heimsins. Þau skulu drekka hann í botn!
-En ég mun vegsama Guð um aldur og ævi.
-Styrkur hinna óguðlegu verður að engu, en réttlátir skulu ríkja með reisn.
+En ég mun vegsama Guð um aldur og ævi. Styrkur hinna óguðlegu verður að engu, en réttlátir skulu ríkja með reisn.
+
 Orðstír Drottins er mikill í Júda og Ísrael.
 <range>
 Bústaður hans er í Jerúsalem. Hann situr á Síonfjalli.
@@ -15146,8 +15147,8 @@ Ekki er að undra þótt menn óttist þig! Hver fær staðist reiði Guðs?!
 Þegar þú birtir þeim dóminn frá himnum, þá nötraði jörðin og þagnaði fyrir þér.
 Þú stígur fram til að refsa illgjörðamönnunum, en verndar hina auðmjúku.
 Þegar við sjáum heimsku og reiði mannanna, þá skiljum við enn betur hve dýrð þín er mikil.
-Efnið heitin sem þið gáfuð Drottni, Guði ykkar. Allir sem umhverfis hann eru færa honum gjafir. Þeir nálgast hann með óttablandinni virðingu.
-Hann er sá sem lægir ofstopa höfðingjanna og kemur konungum jarðarinnar á kné!
+Efnið heitin sem þið gáfuð Drottni, Guði ykkar. Allir sem umhverfis hann eru færa honum gjafir. Þeir nálgast hann með óttablandinni virðingu. Hann er sá sem lægir ofstopa höfðingjanna og kemur konungum jarðarinnar á kné!
+
 Ég ákalla Drottin. Ég hrópa og kalla til hans. Ó, að hann vildi hlusta!
 Ég er í miklum vanda og þarfnast mjög hjálpar hans. Alla nóttina er ég á bæn, ég lyfti höndum til himins, – ég bið og bið. Ég mun ekki eiga glaðan dag fyrr en Drottinn hefur hjálpað mér.
 Ég hugsa um Guð, mikið þrái ég hjálp hans!
@@ -15168,7 +15169,6 @@ Með þinni voldugu hendi bjargaðir þú sonum Jakobs og Jósefs.
 Þrumurnar tjáðu reiði þína og eldingarnar lýstu upp jörðina!
 Þú lagðir veg gegnum hafið – veg sem enginn þekkti áður!
 Þú leiddir fólk þitt þessa leið eins og fjárhóp, undir leiðsögn Móse og Arons.
-
 Þjóð mín, hlustaðu á kenningu mína. Gefðu gaum að því sem ég hef að segja.
 Nú ætla ég að rifja upp fyrir þér liðna atburði, frásagnir sem varðveist hafa frá kynslóð til kynslóðar.
 <range>
@@ -15254,6 +15254,7 @@ Hvers vegna fá heiðnu þjóðirnar að hæða okkur og segja: „Hvar er þess
 Hlustaðu á stunur fanganna og hinna dauðadæmdu. Sýndu mátt þinn og frelsaðu þá.
 Drottinn, láttu þá fá sjöfalt endurgjald, þessar þjóðir sem hæða þig og spotta!
 Þá munum við, þjóð þín og gæsluhjörð, lofa þig að eilífu og þakka mikilleika þinn frá kynslóð til kynslóðar.
+
 Þú hirðir Ísraels sem leiðir þjóð þína eins og hjörð. Þú Guð sem situr á hásæti uppi yfir verndarenglunum, beygðu þig niður og hlustaðu á bæn mína. Láttu veldi þitt birtast í geisladýrð!
 <range>
 Leyfðu ættkvíslum Efraíms, Benjamíns og Manasse að verða vitni að því er þú frelsar okkur með mætti þínum.
@@ -15272,8 +15273,8 @@ Við biðjum þig, þú Guð hinna himnesku hersveita, komdu og blessaðu okkur.
 Vernda það sem þú sjálfur gróðursettir, einkasoninn þinn!
 Óvinirnir lögðu okkur að velli og kveiktu í borgunum. Þeir farast fyrir augliti þínu!
 Styrktu manninn sem þú elskar, soninn sem þú valdir
-og við munum aldrei snúa við þér baki. Lífgaðu okkur á nýjan leik og þá skulum við ákalla þig.
-Drottinn, Guð hersveitanna, dragðu okkur til þín á ný. Líttu niður til okkar og láttu okkur sjá velþóknun þína.
+og við munum aldrei snúa við þér baki. Lífgaðu okkur á nýjan leik og þá skulum við ákalla þig. Drottinn, Guð hersveitanna, dragðu okkur til þín á ný. Líttu niður til okkar og láttu okkur sjá velþóknun þína.
+
 Guð er okkar styrkur! Syngið lofsöng og fagnið fyrir Guði Ísraels!
 <range>
 Syngið lofsöng og berjið bumbur, sláið strengi hörpunnar og látið gígjurnar hljóma!
@@ -15289,8 +15290,7 @@ Nei, annars – þjóð mín vill ekki hlusta á mig. Ísrael kærir sig ekki um
 Þess vegna leyfi ég þeim að ráfa í blindni á vegum þrjósku sinnar og lifa eftir sínum eigin girndum.
 Aðeins ef þjóð mín vildi hlusta á mig! Ó, að Ísrael kysi nú að fylgja mér, ganga á mínum vegum!
 Þá mundi ég skjótlega brjóta óvini þeirra á bak aftur – reiða hnefann gegn kúgurum þeirra.
-Þá mundu hatursmenn Drottins skríða fyrir honum og ógæfa þeirra vara við.
-En ykkur mundi hann ala vel! Já, gefa ykkur hunang úr klettaskoru!“
+Þá mundu hatursmenn Drottins skríða fyrir honum og ógæfa þeirra vara við. En ykkur mundi hann ala vel! Já, gefa ykkur hunang úr klettaskoru!“
 Guð stígur fram á himnum. Hann segir: „Réttur er settur!“ Síðan birtir hann úrskurð sinn gegn dómurum á jörðu.
 Hve lengi ætlið þið, dómarar, að sniðganga réttlætið? Hve lengi ætlið þið að draga taum hinna ranglátu?
 Kveðið upp réttláta dóma í málum hinna fátæku og föðurlausu, bágstöddu og þjáðu,
@@ -15299,6 +15299,7 @@ Losið fátæklingana úr klóm hinna guðlausu!
 Ég hef kallað ykkur „guði“ og „syni hins hæsta“,
 en í raun og veru eruð þið aðeins dauðlegir menn. Þið munuð falla rétt eins og aðrir af höfðingjunum.
 Rís þú upp, ó Guð, og dæmdu jörðina. Þú hefur hana á valdi þínu og þjóðirnar eru í þinni hendi.
+
 Guð, vertu ekki þögull og afskiptalaus þegar við biðjum til þín. Svaraðu okkur! Já, bjargaðu okkur!
 <range>
 Heyrirðu ekki skarkalann og ysinn í hópi óvina þinna? Sérðu ekki hvað þeir aðhafast, þessir hatursmenn þínir?
@@ -15316,8 +15317,8 @@ sem sögðu: „Leggjum undir okkur haglendi Drottins!“
 – eins og skógi sem brennur til ösku.
 Flæmdu þá burt í óveðri, skelfdu þá með fellibyl þínum.
 Drottinn, láttu þá kenna á andúð þinni uns þeir viðurkenna mátt þinn og vald.
-Láttu öll þeirra verk mistakast, svo að þeir skelfist og blygðist sín
-og viðurkenni að þú einn, Drottinn, ert Guð yfir öllum guðum og að jörðin öll er á þínu valdi.
+Láttu öll þeirra verk mistakast, svo að þeir skelfist og blygðist sín og viðurkenni að þú einn, Drottinn, ert Guð yfir öllum guðum og að jörðin öll er á þínu valdi.
+
 Ó, hve musteri þitt er yndislegt, þú Drottinn hersveitanna.
 <range>
 Mig langar svo mjög, já ég þrái, að nálgast þig, hinn lifandi Guð.
@@ -15329,8 +15330,8 @@ Sælir eru þeir sem fá styrk frá þér og þrá það eitt að ganga veg þin
 Drottinn, Guð hersveitanna, heyrðu bæn mína! Hlusta þú Guð Ísraels.
 Guð, þú ert vörn okkar, miskunna honum sem þú smurðir til konungs.
 Einn dagur í musteri þínu er betri en þúsund aðrir sem eytt er á öðrum stað! Frekar vildi ég vera dyravörður í musteri Guðs míns, en búa í höllum óguðlegra.
-Því að Drottinn er okkur ljós og skjöldur. Vegsemd og náð veitir hann. Hann neitar þeim ekki um nein gæði sem hlýða honum.
-Drottinn hersveitanna, sæll er sá maður sem treystir þér.
+Því að Drottinn er okkur ljós og skjöldur. Vegsemd og náð veitir hann. Hann neitar þeim ekki um nein gæði sem hlýða honum. Drottinn hersveitanna, sæll er sá maður sem treystir þér.
+
 Drottinn, þú hefur baðað land þetta blessun! Þú hefur snúið hlutunum Ísrael í hag
 <range>
 og fyrirgefið syndir þjóðar þinnar, já, hulið þær allar!
@@ -15343,8 +15344,7 @@ Leyfðu okkur að njóta elsku þinnar og gæsku, ó Guð, og veittu okkur hjál
 Vissulega njóta þeir hjálpar hans þeir sem hlýða honum og heiðra hann. Velgengni og blessun hans mun breiðast yfir allt landið.
 Miskunn og sannleikur munu mætast, réttlæti og friður kyssast!
 Trúfestin eflist á jörðu og réttlætið brosir frá himni!
-Drottinn blessar landið og það ber margfalda uppskeru.
-Réttlæti og friður fylgir Drottni.
+Drottinn blessar landið og það ber margfalda uppskeru. Réttlæti og friður fylgir Drottni.
 Drottinn, líttu til mín! Hlustaðu á bæn mína! Svaraðu mér því að ég er í nauðum staddur.
 Bjargaðu mér frá dauða, því að ég tilheyri þér. Frelsaðu mig, því að ég treysti þér og hlýði.
 Miskunna mér, Drottinn. Ég mæni til þín og vona á þig liðlangan daginn.
@@ -15369,6 +15369,7 @@ Ef ég í vinahópi minnist á Egyptaland eða Babýlon, Filisteu eða Týrus e�
 En mestur heiður fylgir Jerúsalem! Hún er móðirin og gott er að vera fæddur þar! Hann, hinn hæsti Guð, mun sjálfur vernda hana.
 Þegar Drottinn lítur yfir þjóðskrárnar, mun hann merkja við þá sem hér eru fæddir!
 Á hátíðum og tyllidögum munu menn syngja: „Jerúsalem, uppsprettur lífs míns eru í þér!“
+
 Drottinn, þú Guð minn og hjálpari minn, ég ákalla þig um daga og nætur.
 <range>
 Svaraðu bænum mínum! Hlustaðu á hróp mitt,
@@ -15386,8 +15387,8 @@ Getur myrkrið borið vitni um máttarverk þín? Hvernig eiga þeir sem búa í
 Drottinn, hvers vegna hefur þú útskúfað mér? Af hverju hefur þú snúið þér burt frá mér og litið í aðra átt?
 Allt frá æsku hef ég átt erfiða ævi og oft staðið andspænis dauðanum. Ég er magnþrota gagnvart örlögum þeim sem þú hefur búið mér.
 Heift þín og reiði hefur lamað mig. Þessi skelfing þín hefur næstum gert út af við mig.
-Alla daga hvolfist hún yfir mig.
-Ástvinir, félagar og kunningjar – öll eru þau farin. Ég sit hér einn í myrkri.
+Alla daga hvolfist hún yfir mig. Ástvinir, félagar og kunningjar – öll eru þau farin. Ég sit hér einn í myrkri.
+
 Ég vil syngja um miskunn Drottins að eilífu! Ungir sem gamlir skulu fá að heyra um trúfesti þína.
 <range>
 Elska þín og náð vara að eilífu og trúfesti þín stendur óhögguð eins og himinninn.
@@ -15439,8 +15440,7 @@ Mundu hve mannsævin er stutt og að verk okkar flestra eru hégómleg og smá.
 Enginn maður lifir endalaust. Öll deyjum við að lokum. Og hver getur stigið upp úr gröf sinni?
 Drottinn, hvar er nú kærleikur þinn til mín? Hvar er gæskan sem þú lofaðir Davíð með eiði?
 Veistu það, Drottinn, að öll þjóðin hæðist að mér!
-Óvinir þínir spotta mig, manninn sem þú útvaldir til konungs.
-En þrátt fyrir allt og allt, sé Drottinn lofaður um eilífð! Amen, amen.
+Óvinir þínir spotta mig, manninn sem þú útvaldir til konungs. En þrátt fyrir allt og allt, sé Drottinn lofaður um eilífð! Amen, amen.
 Bæn guðsmannsins Móse. Drottinn, þú hefur verið okkur athvarf frá kynslóð til kynslóðar.
 Áður en þú skapaðir fjöllin og jörðin varð til, varst þú, ó Guð – þú átt þér hvorki upphaf né endi!
 Þú talar – og maðurinn verður aftur að dufti.
@@ -15474,6 +15474,7 @@ Eins skipar hann englum sínum að vernda þig, hvar sem þú ert.
 Hefur Drottinn ekki sagt: „Vegna þess að þú elskar mig, mun ég frelsa þig. Ég bjarga þér af því að þú þekkir mig og veist að mér er óhætt að treysta.
 Þegar þú kallar á mig, svara ég þér. Ég er með þér á hættustund, frelsa þig og held uppi heiðri þínum.
 Ég mun gefa þér langa og góða ævi og láta þig sjá hjálpræði mitt.“
+
 Gott er að þakka Drottni og lofsyngja Guði hinum hæsta.
 <range>
 Á hverjum morgni segi ég við Drottin: „Þökk sé þér fyrir miskunn þína!“ Og á kvöldin fagna ég yfir trúfesti hans.
@@ -15488,8 +15489,7 @@ meðan óvinir þínir – illgjörðamennirnir – tvístrast.
 Ég heyrði dóminn yfir óvinum mínum og sá þegar þeim var eytt.
 En hinir réttlátu munu blómgast líkt og ávaxtatré, já vaxa eins og sedrustrén í Líbanon.
 Því að þeir eru gróðursettir í garði Drottins og njóta umhyggju hans.
-Jafnvel á elliárunum bera þeir ávöxt og eru sem laufguð tré.
-Þeir bera vitni um réttlæti Drottins, að hann er skjól og vernd og allt sem hann gerir er gott!
+Jafnvel á elliárunum bera þeir ávöxt og eru sem laufguð tré. Þeir bera vitni um réttlæti Drottins, að hann er skjól og vernd og allt sem hann gerir er gott!
 Drottinn er konungur! Hann er íklæddur mætti og dýrð. Heimurinn allur er hásæti hans. Ó, Drottinn, þú hefur ríkt frá örófi alda.
 <range>
 Brimöldur hafsins boða dýrð þína.
@@ -15585,6 +15585,7 @@ Já, ég vil ekki vera sjálfselskur og vondur.
 Ég leita uppi réttláta menn í landinu og kalla þá til starfa, að þeir búi hjá mér, – þeir einir sem grandvarir eru.
 Svikara og lygara þoli ég ekki í mínum húsum.
 Ég þagga niður í illmennunum í landinu og útrými úr borginni öllum óguðlegum.
+
 Drottinn, heyrðu bæn mína! Hlustaðu á ákall mitt!
 <range>
 Snúðu ekki baki við mér á ógæfutímum. Hneigðu eyra þitt að mér og svaraðu mér fljótt.
@@ -15612,8 +15613,7 @@ Hann hefur tekið frá mér lífskraftinn og stytt ævi mína.
 En ég hrópaði til hans: „Þú, Guð sem lifir að eilífu, láttu mig ekki deyja fyrir aldur fram!
 Í upphafi lagðir þú undirstöður jarðarinnar og himnarnir eru verk handa þinna.
 Þau munu hverfa en þú ert að eilífu. Þau fyrnast, líkt og slitin föt sem lögð eru til hliðar.
-En þú ert hinn sami og ár þín taka aldrei enda.
-En afkomendur okkar munu lifa og þú munt varðveita þá, kynslóð fram af kynslóð.“
+En þú ert hinn sami og ár þín taka aldrei enda. En afkomendur okkar munu lifa og þú munt varðveita þá, kynslóð fram af kynslóð.“
 Ég vil lofa Guð af öllu hjarta.
 Ég vil vegsama Drottin og minnast allra velgjörða hans við mig.
 Hann fyrirgefur syndir mínar. Hann læknar mig.
@@ -15807,6 +15807,7 @@ Sumir missa allt í ofsókn, þjáningu og sorg,
 en hann bjargar fátæklingum sem honum treysta, gefur þeim fjölda afkomenda og mikla hagsæld.
 Þetta sjá hinir guðhræddu og þeir gleðjast, meðan óguðlegir þegja í skömm.
 Þú sem ert vitur, hugleiddu þetta! Hugsaðu um miskunn og kærleika Drottins.
+
 Ó, Guð, nú vil ég lofa þig! Ég vil syngja og fagna frammi fyrir þér.
 <range>
 Vaknaðu, harpa og gígja! Við viljum bjóða morgunroðann velkominn með söng!
@@ -15819,8 +15820,7 @@ Fögnum og gleðjumst því að við höfum fengið loforð frá Guði! Hann hef
 en Móab og Edóm fyrirlít ég og yfir Filisteu æpi ég siguróp.“
 Hver nema Guð getur veitt mér styrk til að sigrast á víggirtum borgum? Hver nema hann getur opnað mér leið inn í Edóm?
 Drottinn, hefur þú útskúfað okkur? Hefur þú gert her okkar óvígan?
-Ó, veittu okkur lið gegn óvinum okkar, því að mannahjálp er gagnslaus.
-Með hjálp Guðs munum við vinna hetjudáð og hann mun gjörsigra óvini okkar.
+Ó, veittu okkur lið gegn óvinum okkar, því að mannahjálp er gagnslaus. Með hjálp Guðs munum við vinna hetjudáð og hann mun gjörsigra óvini okkar.
 Þú Guð sem ég lofa, vertu ekki þögull
 því að óguðlegir baktala mig og ljúga á mig sökum.
 Án saka hata þeir mig og ráðast á mig.
@@ -16329,6 +16329,7 @@ Drottinn, ætti ég ekki að hata þá sem þig hata? Og ætti ég ekki að hafa
 Jú, ég hata þá, því að þínir óvinir eru mínir óvinir.
 Prófaðu mig Guð. Rannsakaðu hjarta mitt og hugsanir mínar.
 Sýndu mér það í fari mínu sem hryggir þig og leiddu mig svo áfram veginn til eilífs lífs.
+
 Ó, Drottinn, frelsaðu mig frá vondum mönnum. Verndaðu mig gegn ofbeldismönnunum
 <range>
 sem sitja á svikráðum alla daga og vekja ófrið.
@@ -16341,8 +16342,7 @@ Láttu þá ekki ná árangri eða hreykja sér hátt.
 Svikráð þeirra komi þeim sjálfum í koll!
 Eldsglóðum rigni yfir þá. Steyptu þeim í gjár sem þeir komast ekki úr.
 Láttu lygara einskis ávinnings njóta í landi okkar, en refsaðu þeim í skyndi.
-Drottinn mun örugglega rétta hlut fólks sem þolað hefur ofsóknir þeirra, hann mun flytja mál hinna snauðu.
-Hinir guðhræddu þakka þér. Þeir fá að lifa í nálægð þinni.
+Drottinn mun örugglega rétta hlut fólks sem þolað hefur ofsóknir þeirra, hann mun flytja mál hinna snauðu. Hinir guðhræddu þakka þér. Þeir fá að lifa í nálægð þinni.
 Drottinn, þú hefur hlustað á bæn mína, svaraðu mér fljótt! Heyr þegar ég hrópa til þín eftir hjálp.
 Líttu á bæn mína sem kvöldfórn, eins og reykelsi sem stígur upp til þín.
 Hjálpaðu mér, Drottinn, að gæta munns míns – innsiglaðu varir mínar!
@@ -16353,6 +16353,7 @@ Hirting frá guðhræddum manni er mér til góðs – hún er áhrifaríkt læk
 Drottinn, ég horfi til þín í von um hjálp. Þú ert skjól mitt. Láttu þá ekki tortíma mér.
 Forðaðu mér frá gildrum þeirra.
 Hinir óguðlegu falli í eigin net, en ég sleppi heill á húfi.
+
 Ég bið og bið til Drottins, stöðugt grátbæni ég hann.
 <range>
 Ég er hræddur og ráðvilltur. Þú einn þekkir leiðina framhjá gildrum óvina minna.
@@ -16360,7 +16361,6 @@ Enginn maður hugsar hlýtt til mín. Hvergi er góð ráð að fá. Öllum er s
 Því bið ég til Drottins og segi: „Drottinn, þú einn ert skjól mitt á jörðu, ég er hvergi öruggur nema hjá þér.
 Heyrðu hróp mitt því að ég er mjög þjakaður. Frelsaðu mig frá þeim sem ofsækja mig, því að þeir eru mér yfirsterkari.
 Leiddu mig úr þessum mikla vanda og þá mun ég lofa þig. Hinir guðhræddu munu þyrpast til mín og fagna með mér yfir hjálp þinni.“
-
 Drottinn, heyrðu bæn mína. Svaraðu ákalli mínu, því að þú ert réttlátur og stendur við orð þín.
 Leiddu mig ekki fyrir dóm, því að enginn er réttlátur frammi fyrir þér.
 Óvinir mínir eltu mig og náðu mér. Þeir slógu mig til jarðar og drógu mig inn í myrkrið – ég er eins og þeir sem gengnir eru til grafar.
@@ -27691,7 +27691,7 @@ Loks tókst borgarstjóranum að þagga svo niður í mannfjöldanum að hann ga
 Samt hafið þið nú dregið þessa menn hingað, þótt þeir hafi hvorki stolið neinu úr musteri Artemisar né lastmælt henni.
 Ef Demetríus og smiðirnir hafa einhverja ákæru á hendur þeim, þá er rétturinn reiðubúinn að taka málið fyrir undir eins, því að hann er að störfum núna. Mál þetta verður að reka á lögmætan hátt.
 Ef um önnur deilumál er að ræða, gerið þá út um þau á hinum reglubundnu fundum borgarráðsins,
-en svona megum við ekki fara að. Við eigum áreiðanlega á hættu að verða að svara til saka, hjá rómversku yfirvöldunum, fyrir þetta uppþot hér í dag, því að það var algjörlega tilefnislaust. Heimti Rómverjarnir skýringu, veit ég hreint ekki hvað segja skal.“
+en svona megum við ekki fara að. Við eigum áreiðanlega á hættu að verða að svara til saka, hjá rómversku yfirvöldunum, fyrir þetta uppþot hér í dag, því að það var algjörlega tilefnislaust. Heimti Rómverjarnir skýringu, veit ég hreint ekki hvað segja skal.“ Síðan bað hann fólkið að fara og mannfjöldinn dreifðist.
 Eftir uppþotið kallaði Páll saman lærisveinana, uppörvaði þá og kvaddi og hélt síðan til Grikklands.
 Á leiðinni þangað predikaði hann í hverjum bæ, þar sem kristna menn var að finna.
 Eftir þriggja mánaða dvöl í Grikklandi, bjó hann sig undir að sigla til Sýrlands, en komst þá á snoðir um að Gyðingarnir höfðu gert samsæri um að lífláta hann. Hann ákvað því að breyta ferðaáætluninni og fara fyrst norður til Makedóníu.

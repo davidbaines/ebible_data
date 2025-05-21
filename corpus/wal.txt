@@ -926,6 +926,7 @@ Laabaani qassikka Yaaqooba, “Keelettida shuchchai hageeho; qassi taani ne gidd
 Taani ha keelaappe nena genanau neekko kanttennaadan, neenikka tana genanau ha keelaappenne ha shuchchaa tuussaappe kanttennaadan, ha keelainne ha shuchchaa tuussai markka.
 Abrahaama Xoossai, Naakoora Xoossai, eta aawaa Xoossai, nu gidduwan i pirddo” yaagiis. Yaagin Yaaqoobi ba aawaa Yisaaqi Yayyidoogaa sunttan caaqqiis.
 Yaaqoobi deriyaa bollan yarshshuwaa yarshshiis; ba dabbotakka qumaa maanau xeesiis. Eti miidi deriyaa bollan aqidosona.
+Wonttetta gallassi guuran Laabaani denddidi, ba naatu naatanne ba macca naata yeriis; qassi eta anjjiis. Anjjidi, ba soo simmiis.
 Yaaqoobi denddidi ba ogiyaa biishin, Xoossaa kiitanchchati aara gaittidosona.
 Yaaqoobi eta be7ido wode, “Hagee Xoossai aqiyoosaa” yaagidi, he sohuwaa Maahinaima giidi sunttiis.
 Yaaqoobi Se7iira giyoosan, Eedooma biittan de7iya ba ishaa Eesawakko kiitaa baappe sinttau kiittiis.
@@ -958,7 +959,6 @@ Yaaqoobi a, “Ne sunttai oonee?” yaagidi oichchiis. SHin bitanee, “Neeni ta
 Hegaa gishshau Yaaqoobi he sohuwaa PHinii7eela giidi sunttiis; aissi giikko i, “Taani Xoossaa baazzan xeellaas; gidikkonne taani paxa attaas” yaagiis.
 I PHinii7eelappe denddiyo wode, a bolli xalqqee doliis. I ba bulxxiyaa meqettaa gishshau wobbees.
 Yaaqooba bulxxee ashuwaa matan boshettido gishshau, Israa7eela asai mehiyaa bulxxiyaa ashuwaa hachchi gakkanaassikka meenna.
-
 Yaaqoobi xoqqu gi xeellidi, Eesawi ba oiddu xeetu asaara yiyaagaa be7iis. Hegaa gishshau naata Liyissi, Raaheelissinne naa77u kaadumatatussi shaakkiis.
 Kaadumatatanne eta naata sinttan, Liyonne i naata eta geeduwan, Raaheelonne Yooseefa wurssettan wottiis.
 SHin i ba huuphen sinttau aadhdhidi, ba ishaakko matiiddi, sa7aa gakki gakkidi laapputon ziggiis.
@@ -1709,10 +1709,6 @@ SHin Gibxxe shareechchoti bantta eeqan hegaadan oottidosona; GODAI yootidoogaada
 Hegaappe guyyiyan kawoi hagau ainne hirggennan ba soo simmidi biis.
 Gibxxe asai ubbai Naile SHaafaa haattaa uyanau danddayibeenna gishshau, uyiyo haatta demmanau Naile SHaafaa lanqqiyan ollaa bookkidosona.
 GODAI haattaa shocoosappe laappun gallassa gidiis.
-
-
-
-
 Hegaappe guyyiyan GODAI Muusa, “Ba; Gibxxe kawuwaakko baada, ‘GODAI hagaadan yaagees; “Taayyo goinnana mala, ta asaa yedda.
 Neeni eta yeddennan ixxikko, taani ne biitta ubban shodhdhiyaa boshaa yeddana.
 Naile SHaafan shodhdhee shohattana. Eti shohatti kiyidi ne soo, ne siirixaa, ne arssaa giddo, ne sunttatu keettaa giddo gelana; ne asaa bolli kiyana; ne coociyaanne ne munaqa keretun gelana.
@@ -1741,6 +1737,10 @@ He wode kawoi Muusanne Aaroona xeesissidi, “Biite; ha biittan intte Xoossaassi
 SHin Muuse, “Hegee likke gidenna; nuuni GODAA nu Xoossaassi shiishshiyo yarshshoti Gibxxeta sheneyiyaabaa gidana; nuuni eta sheneyiya yarshshota eti xeellishin yarshshikko, eti nuna shuchchan caddokkonaa?
 Nuuni GODAASSI, nu Xoossaassi, yarshshota shiishshanau i nuna azaziyoogaadan, heezzu gallassa ogiyaa bazzuwaa baana koshshees” yaagiis.
 Yaagin kawoi, “GODAASSI, intte Xoossaassi, intte bazzuwaa biidi yarshshana mala, taani inttena yeddana; shin intte haakkidi booppite; taayyo ha77i woossite” yaagiis.
+Muusee, “Taani ne matappe kiyosaarakka GODAA woossana; ha gawwiina udunxxee wontto kawuwaappe, a sunttatuppenne a asaappe kichchana. SHin GODAAYYO yarshshanau asaa yeddennan ixxanau kawoi nuna zaari cimmenna mala akeeko” yaagiis.
+Hegaappe guyyiyan Muusee kawuwaa matappe kiyidi, GODAA woossiis.
+Woossin GODAI Muusee oichchidoogaadan oottiis; udunxxee kawuwaappe, a sunttatuppenne a asaappe issoinne attennan kichchiis.
+SHin ha77ikka qassi kawuwaa wozanai dammin, asaa yeddennan ixxiis.
 GODAI Muusa hagaadan yaagiis; “Ba; Gibxxe kawuwaakko baada, ‘GODAI, Ibraawetu Xoossai nena, “Eti taayyo goinnana mala ta asaa yedda” yaagees.
 Neeni yeddennan ixxada, eta oiqqa uttiyaabaa gidikko,
 taani deriyan de7iya ne mehiyaa bolli, paratu bolli, haretu bolli, gaameelatu bolli, miizzatu bolli, dorssatu bollinne deeshshatu bolli hanttaara boshaa yeggana.
@@ -2112,7 +2112,6 @@ Boorai attuma ailliyaa woikko macca ailliyo qaicidi worikko, booraa godai ailliy
 he ollaa godai mehiyaa waagaa qanxxo. I a godaassi waagaa qanxxidi, haiqqida mehiyaa bau ekko.
 “Issi asa boori haraa booraa qaicidi worikko, paxa booraa baizzidi, a waagaanne haiqqida booraa likkiyan shaakki ekkona.
 SHin he boorai qaiciyaagaa gidiyoogee kaseti erettishin, a godai a qachchennan aggidabaa gidikko, a godai boora qanxxo. Qanxxidi he haiqqidaagaa bau ekko.
-
 “Issi asi boora woikko dorssa wuuqqidi shukkikko, woikko baizzikko, booraa gishshaa ichchashu boorata, dorssaa gishshaa oiddu dorssata qanxxo.
 “Kaisoi keetta bookkiiddi ohettikkonne shocettidi haiqqikko, shocidaagee suuttaa gussidoogau oishettenna.
 SHin hegee xalqqee doliichchin hanikko, i he gukkida suuttaa acuwan oishettees. Kaisoi ba wuuqqidobaa zaaro; shin ayyo aibakko xayikko, ba wuuqqidobaa zaaranau i baizetto.
@@ -2143,6 +2142,7 @@ aissi giikko, i ba bollaa kammiyoogee hinni xalaalaana; harabaa ai maayidi aqana
 “Xoossaa bolli cashsha qaalaa haasayoppa, woikko ne deriyaa haariyaagaa qanggoppa.
 Ne kattaa xeeraappenne ne woiniyaa gum77ettaa kumettaappe taayyo yarshshuwaa shiishsha. “Neeni ne attuma naatu giddon bairatiya na7aa taayyo immanau koshshees.
 Miizzaappekka dorssaappekka hegaadan ootta. Eti laappun gallassai gakkanaashin, bantta aayetuura aayetuura takkona; hosppuntta gallassi eta taayyo imma.
+“Intte taayyo geeshsha asa gidanau koshshees; hegaa gishshau, bazzo do7ai mentterettidi worido mehiyaa ashuwaa mooppite; hegaa kanau olite.
 “Worddo odo puukkoppa; worddo markka gidada, iita asa maaddoppa.
 Iitabaa oottanau daro asaa kaalloppa; pirddaa geellayanau daro asaara maayada markkattoppa.
 Hiyyeesai pirddau shiiqikko, mootuwan a metuwaa xeellada maaddoppa.
@@ -2848,13 +2848,6 @@ GODAASSI dummayi wottido miishshatu bolli i nagaraa oottido gishshau, i he miish
 “Ai asinne erennan de7iiddi, GODAI, ‘Oottoppa’ giidi azazidobaappe issuwaa oottidi nagaran gelikko, i erana xayikkonne mooranchcha gidiyo gishshau, ba nagaran qaxxayetto.
 I ba wudiyaappe tilla bollaara de7iya issi dorssa orggiyaa naaquwaa yarshshuwaassi qeesiyaakko eho. He dorssai naaquwau qanxxiyo waagaa kessiyaagaa gido; yaatobare qeesee he dorssaa yarshshidi, bitaniyaa naaquwaa atto giissees; bitaneekka ba naaquwaappe maarettees.
 Hegee naaquwaa yarshshuwaa. I tumukka GODAA naaqqiis” yaagiis.
-
-
-
-
-
-
-
 GODAI Muusessi hagaadan yaagidi yootiis;
 “Ai asinne ba shooroi hadara wottidobaa woikko tal77idobaa kaadiyoogan, woikko asabaa bonqqiyoogan, woikko ba shooruwaa bollan sugettaa oottiyoogan GODAA naaqqikko,
 woikko bayidabaa demmidi ta be7abeikke giidi wordduwan caaqqikkonne hageeta milatiya asi oottiyoobatuppe issuwaa,
@@ -2878,6 +2871,13 @@ GODAI qassikka Muusessi hagaadan yaagidi yootiis;
 He xiillee zaitiyan munaqetti, lo77o walakettidi, bashiyan uuketto; uukkidoogaa bunchchada, sawuwaa tonggu giya kattaa yarshsho oottada GODAAYYO yarshsha.
 Qassi Aaroona attuma naatuppe a qeesetettaa laattanaadan tiyettiya ubbaikka he wogaa oottona. Hegee GODAASSI ubbatoo yarshshiyo yarshsho gididi muleera xuugetto.
 Qeesee shiishshiyo kattaa yarshshuwaappe guyye attennan wuri xuugetto; appe aibinne meetettoppo” yaagiis.
+GODAI Muusessi hagaadan yaagidi yootiis;
+“Aaroonassinne a attuma naatussi, hagaadan yaaga; ‘Nagaraa yarshshuwaa wogai hagaa: GODAAYYO xuuggiyo yarshshuwaassi shiishshiyo mehee shukettiyo sohuwan nagaraa yarshshuwaassi shiishshiyo meheekka hegan GODAA sinttan shuketto; ikka ubbaappe aadhdhida geeshsha.
+He yarshshuwaa yarshshiya qeesee Dunkkaaniyaa dabaabaa giddon de7iya geeshsha sohuwan mo.
+He ashuwaa bochchiya aibinne geeshsha gidana; qassi shukkishin ai maayuwaa bollinne suuttai xacettikko, he maayoi geeshsha sohuwan meecetto.
+Ashoi doisettido urqqa miishshai meqqo; birata disttiyan doissidobaa gidikko, he disttiyaa qaacidi haattan shokkirgganau koshshees.
+Qeesetu zariyaappe attuma asa gidida ooninne he ashuwaa mo; he ashoi keehi geeshsha.
+Gido shin Geeshsha Sohuwan nagaraa atto giissanau a suuttaa ekkidi, Dunkkaaniyaa giddo gelissido ai mehiyaa ashuwaanne maanau koshshenna; i taman xuugettanau koshshees.
 “‘Naaquwaa yarshshuwaa wogai hagaa: ikka ubbaappe aadhdhida geeshsha.
 Xuuggiyo yarshshuwaassi shiishshiyo mehiyaa shukkiyo sohuwan naaquwaa yarshshuwaa mehiyaakka shukkona; a suuttaakka yarshshiyoosaa miyyetun caccafona.
 Qassi a handdaa ubbaa, hegeekka nasiyaa handdaa, qantta ashuwaa maayida handdaa,
@@ -4228,6 +4228,21 @@ Biittai dooyettidi, etanne eta so asaa, Qoraaha citaa ubbaa etassi de7iyaabaa ub
 Yaatin eti banttau de7iyaabaa ubbaara paxa de7iiddi, Si7ooliyaa duge wodhdhidosona. Biittaikka eta bolli gorddetti bayiis; eti maabaraa giddoppe tippi giidi xayi bayidosona.
 Eta waasuwan eta matan de7iya Israa7eelati ubbai, “Biittai nunakka qassi mittana hanees!” yaagiiddi baqatidosona.
 Qassi tamaikka GODAA matappe yiidi, ixaanaa cuwayiya naa77u xeetanne ishatamu asaa mi bayiis.
+Hegaappe guyyiyan GODAI Muusa,
+“Neeni qeesiyaa Aaroona na7aa El77aazarassi yaagada yoota, ‘Ixaanaa cuwayiyoobata taman xuugettida asaa giddoppe ekka; bonqquwaa cuwayiyoobatuppe haassada laala. He ixaanaa cuwayiyoobati geeshsha.
+Bantta nagaraa gishshau haiqqida ha asatu ixaanaa cuwayiyoobata lee7issada qoxxada, yarshshuwaa saaxiniyaa kamma. Eti hegeeta GODAA sinttan shiishshido gishshau, hegeeti geeshsha; hegeeti Israa7eelata hassayissiya malaata gidana’ yaaga” yaagiis.
+Yaagin qeesee El77aazari xuugettida asati shiishshido nahaase birataappe oosettida ixaanaa cuwayiyoobata ekkidi, yarshshuwaa saaxiniyaa kammanau lee7issidi qoxxiis.
+Aaroona zare gidenna ooninne GODAA sinttan ixaanaa cuwayanau shiiqenna mala, Qoraahanne a citaa gakkidaagee a gakkenna mala, Israa7eelata hassayissanau hageeta oottiis. GODAI Muuse baggaara El77aazara azazidoogaadan hagee haniis.
+Wonttetta gallassi Israa7eela maabarai ubbai, “GODAA asaa intte worideta” yaagidi, Muuse bollinne Aaroona bolli zuuzummidosona.
+Maabarai Muusenne Aaroona bolli denddanau shiiqidi, Xoossaa Dunkkaaniyaakko simmi xeelliyo wode, shaarai Xoossaa Dunkkaaniyaa kammin, GODAA bonchchoi qoncciis.
+Hegaappe guyyiyan, Muuseenne Aarooni Xoossaa Dunkkaaniyaa sinttau yiidosona.
+Yin GODAI Muusa,
+“Ha asaa gidduwaappe kichchite; taani eta issi kuttan xaissa bayana” yaagiis. Yaagin eti sa7an gufannidosona.
+Muusee Aaroona, “Ne ixaanaa cuwayiyoogaa ekkada, bonqquwaa yarshshiyoosaappe ekkada, ixaanaa an wotta; wottada etayyo atto giissanau eesuwan maabaraakko efa. Aissi giikko, GODAA hanqqoi a matappe kiyiichchiis; boshaikka doommiichchiis” yaagiis.
+Yaagin Muusee giidoogaadan Aarooni ba ixaanaa cuwayiyoogaa ekkidi, maabaraa giddo woxxiis. Boshai asaa gidduwan doommidaashin, Aarooni ixaanaa cuwayidi, asaayyo atto giissiis.
+Yaatidi i haiqqidaageetuppenne paxa de7iyaageetuppe gidduwan eqqin, boshai aggi bayiis.
+Qoraaha gaasuwan haiqqida asai qoodettennan, ha boshan haiqqidaageeti 14,700.
+Boshai eqqidoogaappe guyyiyan, Aarooni Xoossaa Dunkkaaniyaa penggen de7iya Muusekko simmiis.
 GODAI Muusa hagaadan yaagiis;
 “Neeni, ‘Intte zariyan zariyan intte halaqatuppe huuphiyan huuphiyan issi issi xam77aa muleera tammanne naa77u xam77aa tau immite’ yaagada Israa7eelatuppe ekka. Issi issi asaa sunttaa xam77aa bollan xaafa.
 Issi issi zariyaa halaqaassi issi xam77a gidiyo gishshau, Leewa xam77an Aaroona sunttaa xaafa.
@@ -4241,21 +4256,6 @@ GODAI Muusa, “Aaroona xam77aa Taabootaa sinttan zaara wotta. Hegaa makkalidaag
 Yaagin GODAI azazidoogaadan Muusee oottiis.
 Israa7eela asai Muusa, “Nuuni haiqqana; xayana; nuuni ubbaikka xayana!
 Xoossaa Dunkkaaniyaakko, harai atto mataa shiiqiya uri ooninne haiqqana. Simmi nuuni ubbaikka haiqqiyoo?” yaagidosona.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 GODAI Aaroona, “Neeni, ne attuma naatinne Leewati geeshsha sohuwaa oosuwan polettiya nagaraa tookkana; neeninne ne attuma naatu xalaalai intte qeesetettaa oosuwan polettiya nagaraa tookkana.
 Neeninne ne attuma naati Xoossaa Dunkkaaniyaa sinttan oottiyo wode, nenaara oottidi maaddana mala, Leewa zare gidiya ne dabbota eha.
 Eti intteppe garssaara Xoossaa Dunkkaaniyaa ooso ubbaa oottona; shin etikka inttekka issippe haiqqennaadan, eti geeshsha sohuwaa miishshaakkonne yarshshiyoosaakko shiiqoppona.
@@ -4647,6 +4647,7 @@ Taman yarshshiyo yarshshoi GODAA tonggu giidi sawana mala, issi mirgguwaa, issi 
 Mirgguwaara, dorssa orggiyaaranne dorssa maratuura eta kattaa yarshshuwaanne eta ushshaa yarshshuwaa wogai azaziyo qoodaadan shiishshite.
 Qassi nagaraa yarshshuwaayyo issi deeshsha orggiyaa yarshshite. Hegeeta hachchi hachchi xuuggiyo yarshshuwaa bolli, a kattaa yarshshuwaa bollinne a ushshaa yarshshuwaa bolli gujjidi yarshshite.
 “‘Intte shiiquwaa gattanau yarshshiyo yarshshotu bollinne intte intte dosan coo immiyo yarshshotu bolli, xuuggiyo yarshshuwaa, kattaa yarshshuwaa, ushshaa yarshshuwaanne issippetettaa yarshshuwaa, hageeta GODAA baalaa intte bonchchanau keerido wodiyan wodiyan yarshshite’ yaaga” yaagiis.
+Yaagin Muusee bana GODAI azazidobaa ubbaa Israa7eelatuyyo yootiis.
 Muusee Israa7eela zaretu halaqata hagaadan yaagiis; “GODAI azaziyoogee hagaa.
 Issi asi GODAAYYO issibaa oottanau geppikko, woikko issibaa agganau caaqqikko, ba doonaappe kessidobaa ubbaa poloppe attin, ba qaalaa birshshoppo.
 “Ba aawaa son de7iya geela7o na7iyaa, GODAAYYO issibaa oottanau geppikko, woikko issibaa agganau caaqqikko,
@@ -4663,7 +4664,6 @@ I azinai a geppiyo gefaa ubbaa woikko a bana ziqqi oottanau caaqqidobaa ubbaa ph
 SHin i azinai he gallassi woikko wonttetta gallassi hegaabaa ainne geennan aggikko, i i gefaa ubbaa woikko i caaquwaa ubbaa maayees. I hegaa siyido gallassi co77u giidoogaadan i gefa ubbaa woikko i caaquwaa ubbaa maayi uttiis.
 SHin i hegaa siyido amarida wodiyaappe guyyiyan phalqqikko, i gomee a gakkees” yaagiis.
 Azina gelabeenna, ba aawaa son de7iya geela7o na7eenne i aawaa gidduwan woikko keettaayeenne keettaawaa gidduwan de7ana mala, GODAI Muusa azazido gefaa wogai hagaa.
-
 GODAI Muusa,
 “Israa7eela asaa gishshau, neeni Midiyaama asaa bolli GODAA haluwaa kiya; hegaappe guyyiyan, neeni haiqqana” yaagiis.
 Hegaa gishshau, Muusee asaa, “Midiyaama asaa bolli GODAA haluwaa kessana mala olaa baanau, intte asaa ola miishshaa gixissite.
@@ -5271,6 +5271,7 @@ Taani inttena azaziyo wogaa minttidi naagite; hegaa oottikko, intteyyoonne intte
 “Intte laattanau biyo kawotettaa GODAI intte Xoossai intte sinttappe xaissiyo wodenne inttekka eta biittaa laattidi de7iyo wode,
 eti intte sinttappe xayiichchin intte eta kaallanau, eta piriyan ohettennaadan naagettite; ‘Nuunikka etadan goinnanau, ha kawotettati bantta xoossatussi waati goinniyoonaa’ yaagidi, kaalli oichchennaadan naagettite.
 Eti bantta xoossatussi goinniyo wode, GODAI ixxiyo tunaba ubbaa oottiyo gishshau, intte GODAASSI, intte Xoossaassi, hegaadan goinnanau bessenna. Aissi giikko, eti harai atto bantta yelido attumanne macca naata bantta xoossatussi yarshshidi, taman xuuggoosona.
+“Simmi intte ta inttena azazidoogaa ubbaa oottite; a bolli aibanne gujjoppite; appe aibanne pacissoppite.
 “Intte giddon hananabaa yootiyaagee woikko aimo birshshiya asi denddidi, malaataanne maalaalissiyaabaa oottikko,
 i yootido malaatai woikko maalaalissiyaabai tumu gididi polettin, i inttena, ‘Ane kase intte erenna hara xoossatussi goinnoos’ yaagikko,
 intte a mulekka siyoppite. Intte a kumetta wozanaappenne kumetta shemppuwaappe GODAA intte Xoossaa dosiyaakkonne giidi, inttena i paaccanau hegaa oottees.
@@ -5289,7 +5290,6 @@ he kataman de7iya asa ubbaa mashshaa qaran wurssite; he katamaanne an de7iya meh
 He katamaappe intte ekkido omoodo ubbaa katamaa dabaabaa shiishshite. SHiishshidi he katamaanne a omooduwaa ubbaa GODAAYYO, intte Xoossaayyo, xuuggiyo yarshsho oottidi wurssi xuuggite. I merinaukka naa77antto keexettenna; laalettida soho gididi, he sohoi attana.
 Hirima geetettida miishshaappe aibinne intte kushiyan beettoppo. Yaatikko, GODAI ba wolqqaama hanqquwaappe simmidi, inttena maarana; i intteyyo qarettana. Kase intte maizza aawatuyyo caaqqido maachchaadan, intte qoodaa darissana.
 Aissi giikko, taani hachchi inttena azaziyo azazo ubbaa intte naagiyoogan GODAASSI, intte Xoossaassi azazettikko, qassi GODAA intte Xoossaa sinttankka likke gidiyaabaa oottikko, he giidobai intteyyo tumu polettana.
-
 “Intte GODAA intte Xoossaa naata; intte haiqqida asau inttena gom77oroppitenne sintta bagga huuphiyaa meedoppite.
 Aissi giikko, intte GODAASSI, intte Xoossaassi, geeshsha asa; GODAI inttena ba asa gidanaadan, biittan de7iya asa ubbaappe dooridi wottiis.
 “Intte tunabaa aibanne mooppite.
@@ -5499,6 +5499,7 @@ Na7iyo ainne oottoppite; o woranau bessiya nagara oottabeikku. Hagee issi asi co
 Aissi giikko, i o asi bainna sohuwan demmidi oiqqin, he geela7o na7iyaa waassaasu; shin o ashshiya asi de7ibeenna.
 “Ai asinne asau giigabeenna geela7iyo oiqqidi, i geela7otettaa ekkirggidi ohettikko,
 na7ee aawaassi ishatamu xaqara biraa qanxxo. Yaatidi na7iyo bau machcho ootto. Ba de7o laitta ubban o yeddoppo.
+“Ai asinne ba aawaa machchiyo ekkidi, ba aawaa kaushshoppo.
 “Sanggisettida woikko qaaratettida attumaasi, GODAA yaa7aa giddon beettoppo.
 “SHaaramuxan yelettida asi GODAA asaa maabaraa geloppo; harai atto biidi tammantta yeletaa gakkanaashinkka, a zariyaappe ooninne GODAA asaa maabaraa giddo geloppo.
 “Amoona asa gidin, woi Moo7aaba asa gidinkka, GODAA asaa maabaraa geloppo; harai atto biidi tammantta yeletaa gakkanaashinkka, eta asa gidida ooninne merinaukka GODAA asaa maabaraa geloppo.
@@ -5524,7 +5525,6 @@ SHin neeni geppana xayikko, hegan neeyyo nagari baa.
 GODAAYYO, ne Xoossaayyo, immana gaada neeni doonan haasayidoogaa ne dosan immana giido gishshau, ne inxxarssan haasayidoogaa pola.
 “Ne shooruwaa woiniyaa gidduwaara kanttiyo wode, woiniyaappe ne koyido keenaa mappe attin, appe aibanne ne oiqqido miishshan yeggoppa.
 Ne shooruwaa shooqaara kanttiyo wode, he shooqan de7iya tiyaappe duuttada mappe attin, ne shooruwaa kattaa baacan cakkada soo efooppa.
-
 “Issi asi machcho ekki simmidi, issi iitabaa i bolli demmidi o ixxikko, iyyo paramaa xaafi immidi, ba sooppe kessidi yeddikko,
 a a sooppe kiyada, hara azinaa gelikko,
 he naa77antto azinaikka o dosennan ixxidi, paramaa iyyo xaafi immidi, ba sooppe o kessidi yeddikko, woikko o ekkida he naa77antto azinai haiqqikko,
@@ -5679,7 +5679,6 @@ He kawotettatu giddon intte woppaa demmekketa; intte tohuwaa caammai yedhdhiyo s
 Intte de7oi ubbai hirggaana gidana; gallassinne qammi shabbirssaaninne haiquwaa yashshan un77ettidi daana.
 Intte wozanan kumida yashshaappenne intte aifee be7iyo palaappe denddidaagan, intte wonttiyo wode, ‘Aude qammanddeeshsha’ qassi qammiyo wode, ‘Aude wonttanddeeshsha’ yaagana.
 Taani inttena, ‘Naa77antto ha ogiyaa beekketa’ giido ogiyaara GODAI inttena zaaridi markkabiyan guyye Gibxxe yeddana. Hegan intte aille gidanau, intte morkketuyyo inttena baizzanau koyana; shin inttena ailleyanaukka shammiyaabaa demmekketa” yaagiis.
-
 GODAI Siinaa Deriyan Israa7eelatuura maacettido maachchaa qaalaa bolli haraa Moo7aaban etaara maacettanau Muusa azazido maachchaa qaalati hageeta.
 Muusee Israa7eela asaa ubbaa xeesi shiishshidi, etassi yootidobai hagaa; “GODAI intte sinttan Gibxxe kawuwaa bolli, a olanchchatu ubbaa bollinne a biittaa ubbaa bolli oottidobaanne gattidobaa intte aifiyan be7ideta.
 He iita metota, gita maalaalissiyaabatanne oorattabata intte aifiyan be7ideta.
@@ -5708,6 +5707,7 @@ Kawotetta ubbai hagaadan yaagana; ‘GODAI ha biittan hagaa malabaa aibissi oott
 Qassi eti biidi, erenna xoossatuyyoonne i eta goinnoppite giido xoossatuyyo goinnidosona.
 Hegaa gishshau, GODAI hanqqettidi, ha maxaafan xaafettida qanggetta ubbaa eta bolli ehiis.
 GODAI wolqqaama hanqquwaa hanqqettidi, eta biittaappe eta shoddidi, hagaadan hara biitti yedettiis’ yaagana.
+“Xuura yohoti GODAA nu Xoossaassa; shin nuuni ha higgiyaa qaalaa oottanaadan, qonccida yohoti merinau nuussanne nu naatussa.
 “Ha ta intte sinttan wottido anjjoinne qanggettai intte bollan gakkiyo wode, GODAI intte Xoossai inttena laaliyo hara kawotettatu giddon de7iiddi, hagaa intte hassayana.
 He wode inttenne intte naati GODAAKKO, intte Xoossaakko, simmidi, intte kumetta wozanaappenne intte kumetta shemppuwaappe taani hachchi inttena azazido qaalau azazettikko,
 hegan GODAI intte Xoossai intte omooduwaa zaarana; i intteyyo qarettana. GODAI intte Xoossai inttena laalido kawotettatu ubbaa giddoppekka zaaridi shiishshana.
@@ -7771,6 +7771,7 @@ Qassikka Yonaataani na7aa, “Eesota; ellellada ba; eqqoppa!” yaagidi ba qaala
 Na7ai ha yohuwaa ainne erenna; Yonaataananne Daawita xalaalai eroosona.
 Yonaataani ba ola miishshaa na7aassi immidi, “Tookka ekkada katamaa efa” yaagiis.
 Na7ai biidoogaappe guyyiyan, Daawiti he zaallaa guyyeppe kiyiis; kiyidi Yonaataana sinttan gulbbatidi, ba som77uwaa biittaa boshissidi heezzutoo ziggiis. Hegaappe guyyiyan, issoi issuwaara yerettidi yeekkidosona; shin Daawiti Yonaataanappe aaruwaa yeekkiis.
+
 Yonaataani Daawita, “Saro ba; ‘Ne giddooninne ta giddon, ne zerettaa giddooninne ta zerettaa giddon, GODAI merinaayyo markka de7o’ yaagidi nuuni naa77ai GODAA sunttan caaqqida” yaagiis. Hegaappe guyyiyan, Daawiti denddidi biis; Yonaataanikka katamaa guyye simmiis.
 Daawiti qeesiyaa Abimelekakko Nooba katamaa biis; Abimeleki Daawitaara gaittanau kokkoriiddi yiidi, “Neeni aibissi nerkka de7ai? Aibissi hara asi nenaara de7ennee?” yaagidi oichchiis.
 Oichchin Daawiti qeesiyaa Abimeleka, “Kawoi tana, ‘Taani nena kiittido yohuwaanne azazido azazuwaa ooninne eroppo’ yaagidi tana issibaa azaziis. Ta asati issi sohuwan tanaara gaittanaadan yootaas.
@@ -7787,7 +7788,6 @@ Daawiti eta haasayaa ba wozanan oiqqidi, Gaate Kawuwaa Akiisha keehippe yayyiis.
 Hegaa gishshau, Daawiti eta sinttan wozani boshettido asa milatiis; eti a oiqqana haniyo wode, gooyiyaabaadan kare penggiyaa ifittaa qaaceretteesinne buuchchaara duge zaaridi saassuwaa lokkayees.
 Akiishi ba oosanchchatuyyo, “Be7ite; hagee bitanee gooyees. Intte aissi a taakko ehiidetii?
 Ha bitanee ta sinttan gooyanaadan intte ehiidoogee, ta matan hari gooyiyaabi xayiineeyye? Ha bitanee ta soo gelanau bessiiyye?” yaagiis.
-
 Daawiti Gaate katamaappe baqatidi, Adulaama katamaa matan de7iya gonggoluwaa biis; a ishanttinne a aawaa so asai ubbai hegaa siyido wode, eti yaa duge akko wodhdhidosona.
 Metootidaageeti, woikko acuwan gelidaageeti, woikko sa7ai iitidoogeeti ubbati Daawitakko shiiqidosona; shiiqin i etayyo halaqa gidiis. Issi oiddu xeetaa gidiya asai aara de7ees.
 Daawiti he sohuwaappe denddidi, Moo7aaban de7iya Mixiphpha biis; biidi Moo7aaba kawuwaa, “Xoossai taayyo oottanabaa taani erana gakkanaassi ta aayyiyoonne ta aawaa ne achchan wotissarkkii” yaagidi woossiis.
@@ -7839,6 +7839,7 @@ Saa7oolinne a asai Daawita koyanau biidosona. Daawiti hegaa siyido wode, zaallaa
 Saa7ooli deriyaappe issi bagga miyyiyaara bees; Daawitinne a asai hinkko bagga miyyiyaara boosona. Eti Saa7oolappe baqatanau eesotoosona; aissi giikko, Saa7oolinne a asati, Daawitanne a asata oiqqanau mati uttidosona.
 SHin kiitettidaagee Saa7oolakko yiidi, “Haaya! Pilisxxeema asati biittaa bolli woraajjidosona” yaagiis.
 Saa7ooli Daawita koyiyoogaa aggidi, Pilisxxeema asatuura olettanau biis. Hegaa gishshau, he sohoi “SHaakkiya zaallaa” geetettiis.
+Daawiti he sohuwaappe kiyidi, Enggaada katamaa matan de7iya qatotun uttiis.
 Saa7ooli Pilisxxeema asata yedettiyoosaappe simmin, “Daawiti Enggaada katamaa matan de7iya bazzuwan de7ees” giidi ayyo yootidosona.
 Israa7eela ubbaa giddoppe doorettida heezzu sha7u asaa Saa7ooli ekkidi, Daawitanne a asaa koyanau, “Wora Deeshshati Geessiyo Zaallaa” giyoosaa mati biis.
 Saa7ooli ogiyaa doonan dorssaa birddiyaa matan de7iya gonggoluwaakko yiis; yiidi sheeshshau uttanau gonggoluwaa giddo geliis. Geliyo wode Daawitinne a asai gonggoluwaayyo giddokko shiiqidi uttidosona.
@@ -7861,7 +7862,6 @@ Asi ba morkke demmidi qohennan yeddiiyye? Neeni taayyo hachchi oottido kehatetta
 Ha77ikka neeni Israa7eelau kawo gidanaagaanne Israa7eela kawotettai ne maataa garssan eqqanaagaa taani erais.
 Ha77i simmi taappe guyyiyan, ta zerettaa neeni duuttennaadaaninne ta sunttaakka ta aawaa keettaappe quccennaadan GODAA sunttan taayyo caaqqa” yaagiis.
 Yaagin Daawiti Saa7oolayyo caaqqiis. Hegaappe guyyiyan, Saa7ooli ba soo simmidi biis; Daawitinne a asai pude qatuwaa biidosona.
-
 Sameeli haiqqiis; haiqqin Israa7eela asati ubbai shiiqidi, ayyo yeekkidosona; Raama kataman de7iya a son moogidosona. Hegaappe guyyiyan, Daawiti Paaraana bazzuwaa biis.
 Maa7oonan issi bitanee de7ees; he bitaniyaayyo aqoi Qarmmeloosan de7ees; i daro dure; issi sha7u deeshshatinne heezzu sha7u dorssati ayyo de7oosona. I eta ikisiyaa Qarmmeloosa kataman meedees.
 He bitaniyaa sunttai Naabaala; a keettaayee sunttai Abigaalo. A eranchchanne puulanchcha maccaasa; shin i keettaawai meqetti bainna iita asa. I Kaaleebaa yara.
@@ -8511,6 +8511,7 @@ Yaagin kawoi, “Yelaga bitanee Abeseloomi saroo?” yaagidi oichchiis. Oichchin
 Kawoi a, “Yaa shiiqa eqqa” yaagiis; yaagin i yaakko shiiqidi eqqiis.
 Hegaappe guyyiyan, Toophphe bitanee gakkidi kawuwaayyo, “Ta godau kawuwau, mishiraachcho! Ne bolli denddidaageetu ubbaa kushiyaappe GODAI hachchi nena ashshiis” yaagiis.
 Kawoi Toophphe bitaniyaa, “Yelaga bitanee Abeseloomi saroo?” yaagidi oichchiis. Oichchin Toophphe bitanee kawuwaa, “Ta godau kawuwau, ne morkketinne ne bolli iitabaa oottanau denddiyaageeti ubbati he yelaga bitaniyaadan hanona” yaagiis.
+Yaagin kawoi daroppe azzaniis; gimbbiyaa penggiyaa huuphen de7iya keettaa gelidi yeekkiis; kawoi biiddi, “Aayye ta na7au Abeseloomaa! Ta na7au! Ta na7au Abeseloomaa! Ne gishshaa taani haiqqarkkinaashsha! Aayye ta na7au Abeseloomaa! Ta na7au!” yaagidi yeekkiis.
 “Abeseloomayyo kawoi yeekkeesinne zilaalees” yaagidi Yoo7aabayyo yootidosona.
 Olanchchati ubbai, “Kawoi ba na7aayyo yeekkees” giyoogaa siyido gishshau, he gallassi eti ubbai xoonido xoonoi yeehuwau laamettiis.
 Olaappe baqatidi yeellatida olanchchatudan, asai he gallassi wuuqettidi katamaa geliis.
@@ -8554,7 +8555,6 @@ Kawoi pinnidi Gelggala biyo wode, Kimihaamikka aara issippe biis. Yihudaa olanch
 Hegaappe guyyiyan, Israa7eelati ubbai kawuwaakko biidi, “Nu ishantti Yihudaa asati kawuwaanne a so asaa aibissi wuuqqidonaa? Qassi a asaa ubbaara issippe Yorddaanoosa SHaafaa aibissi pinttidonaa?” yaagidosona.
 Yaagin Yihudaa asati ubbai Israa7eelata, “Kawoi nuuyyo mata dabbo gidiyo gishshau, nuuni hagaa oottida; yaatin, intte hegau aibissi hanqqetteetii? Nuuni kawuwaa qumaappe aibakko miidoniiyye? Woikko nuuni appe aibakko nuuyyo ekkidoniiyye?” yaagidosona.
 Israa7eela asati Yihudaa asata, “Kawuwaappe tammu kushee nuna gattees; hegaa gishshau, Daawita achchan nuuyyo intteppe aaro maatai de7ees! Yaatin, intte nuna aibissi karidetii? Nu kawuwaa guyye zaaridi ehaanau kasetidi haasayidai nuna gidokkonii?” yaagidosona. SHin Israa7eela asatuppe Yihudaa asati haasayaa keehippe wolqqanttidosona.
-
 Biniyaama zare gidiya Biikira na7ai SHebaa7a giyo issi shori bainna bitanee yan de7ees. He bitanee malkkataa punnidi, “Nuuni Daawitaara ekkiyo saami baawa! Isseya na7aara nuuni laattanabai baawa! Israa7eela asatoo, ubbaikka intte soo intte soo gelite!” yaagiis.
 Yaagin Israa7eela asati ubbai Daawita aggidi, Biikira na7aa SHebaa7aara biidosona. SHin Yihudaa asati ammanettidi, Yorddaanoosappe Yerusalaame gakkanaashin, bantta kawuwaa kaallidosona.
 Daawiti ba soo Yerusalaame simmido wode, kawo keettaa naaganau ashshido tammu baakkota ekki efiidi, issi keettan naagissi wottiis; etayyo koshshiyaabaa immiis; shin i etaara aqibeenna. Eti he keettan naagettidi, bantta haiquwaa gallassai gakkanaassi am77edan de7idosona.
@@ -8865,6 +8865,20 @@ Paaruha na7ai Yoosaafixi Yisaakoora biittaa heemmiyaagaa.
 Eela na7ai SHim77i Biniyaama biittaa heemmiyaagaa.
 Uura na7ai Gebeeri Gala7aade biittan Amooretu Kawoi Sihooninne Baasaane Kawoi Oogi kawotido biittata heemmiyaagaa; he biittata heemmiyaagee a xalaala.
 Yihudaa asainne Israa7eela asai abbaa doona shafiyaadan corattidosona; eti miiddinne uyiiddi ufaittidi de7idosona.
+Solomoni Efiraaxiisa SHaafaappe doommidi Pilisxxeema biittaa gakkanaashin, hegaappekka Gibxxe zawaa gakkanaashin de7iya kawotettata ubbaa haariis. He biittaa asati au giiraa giiridosona; eti a de7o laitta ubban ayyo haarettidosona.
+Solomonayyo hachchi hachchi qumau ishatamu konttaale muruta xiilliyaa, xeetu konttaale xiilliyaa,
+xiikkin modhdhida tammu boorata, yedan miida laatamu booratanne xeetu dorssata, eta bollikka cofoshota, gaarata, genessatanne ordde kuttota koshshees.
+Solomoni Efiraaxiisa SHaafaappe arggo baggaara de7iya kawotettata ubbaa Tifisaaha katamaappe doommidi Gaaza katamaa gakkanaashin haariis; ba yuushuwan de7iya biitta ubbaarakka saro de7iis.
+A de7o laitta ubban Yihudaa asainne Israa7eela asai Daanappe biidi Berssaabeha gakkanaashin, ubbai ba woiniyaa turaa kuwaaninne ba ettaa kuwan saro de7iis.
+Solomonayyo olaa paraa gaareta goochchiya oitamu sha7u gaaxaata paratinne tammanne naa77u sha7u paraasati de7oosona.
+He deriyaa heemmiyaageeti bantta aginan aginan Kawoi Solomoninne a maaddan maanau yiida asai ubbai miyoobaa shiishshidosona. Eti hegaappe aibanne pacissokkona.
+Eti qassi gaariyaa paratinne hankko parati maanau banggaanne dalaa peeriyan banttana gakkidaagaa gakkidaagaa ehiidi a wottiyoosan wottidosona.
+Xoossai Solomonayyo aadhdhida eratettaa, akeekaanne zawi bainna aaho qofaa immiis.
+Solomona aadhdhida eratettai arshsho baggaara de7iya asa ubbaa aadhdhida eratettaappenne Gibxxetu aadhdhida eratetta ubbaappekka aadhdhiis.
+I asa ubbaappe aadhdhida eranchcha; qassi i Ezirahiyaa Etaanappekka, Maahola naatu Hemaanappe, Kalkkoolappenne Darddaa7appekka aadhdhida eranchchaa. A woree yuushuwan de7iya kawotettata ubbaa gakkiis.
+I heezzu sha7u leemisota haasayiis; qassi a yettati issi sha7anne ichchasha.
+Solomoni Liibaanoosa zigaappe doommidi, keettaa gimbbiyaa bolli mokkiya hiisoophphiyaa giyo mittaa gakkanaashin, mittaabaa yootiis; hegaadankka qassi mehetubaa, do7atubaa, kafotubaa, sa7aara gooshettiya meretatubaanne moletubaa tamaarissiis.
+A aadhdhida eratettaa siyida biittan sa7an de7iya kawoti ubbai kiittin, kawotetta ubbaappe asai Solomona aadhdhida eraa siyanau yiis.
 Xiiroosa Kawoi Kiiraami Daawitaara ubbaton siiqettiiddi gam77ido gishshau, Solomoni ba aawaa Daawita sohuwan kawotanau tiyettidoogaa siyidi, ba oosanchchata Solomonakko kiittiis.
 Kiittin Solomonikka Kiiraamayyo zaaridi hagaadan yaagidi kiittiis;
 “GODAI a morkketa a tohuwaappe garssaara haarissana gakkanaashin, ta aawaa Daawita bolli ubbasaara denddida olaa gaasuwan, GODAA ba Xoossaa sunttaayyo Beeta Maqidase i keexxibeennaagaa neeni eraasa.
@@ -8883,20 +8897,6 @@ Solomonayyo tooho tookkiya laappun tammu sha7u asatinne shuchchaa qoo7iya hosppu
 Hageeti halaqa gididi asaa oosuwaa ootissiya heezzu sha7anne heezzu xeetu asata gujjennaana.
 Oosanchchati Kawoi Solomoni azazin, Beeta Maqidasiyaayyo baaso gidana mala wogga muruta shuchchata qoo7idi massidosona.
 Solomona asatinne Kiiraama asati kushe hiillaa eriyaageeti, Gebaala asatuurakka gididi, Beeta Maqidasiyaa keexxanau mittaa qanxxidinne shuchchaa qoo7idi giigissidosona.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Israa7eela asai Gibxxe biittaappe kiyido oiddu xeetanne hosppun tammantta laittan, Solomoni Israa7eela bolli kawotido oiddantto laittan, Ziifa giyo naa77antto aginan, Solomoni GODAA Beeta Maqidasiyaa keexxanau doommiis.
 Solomoni GODAAYYO keexxido Beeta Maqidasee zananaa usuppun tammu wara adussa; gomppaa laatamu wara aaho; geesaa hasttamu wara xoqqa.
 Beeta Maqidasiyaa geliyoosan de7iya baranddaa gomppai Beeta Maqidasiyaa gomppaakka keena laatamu wara; keettaa zananai Beeta Maqidasiyaa geliyoosaa gakkanaashin tammu wara.
@@ -9523,6 +9523,7 @@ Akaabi hanido harabai, i oottidobai ubbai, danggarssaa zaaliyan kawo keettaa i k
 Akaabi haiqqidi ba maizzan gaittiis; a sohuwan a na7ai Akaaziyaasi kawotiis.
 Israa7eela Kawoi Akaabi kawotido oiddantto laittan Asa na7ai Yoosaafixi Yihudan kawotiis.
 I kawotiyo wode laittai ayyo hasttamanne ichchasha; i Yerusalaamen laatamanne ichchashu laitta kawotiis. A aayyiyaa SHiiliha na7iyo Azuubo geetettausu.
+
 Yoosaafixi ba aawaa Asa ogiyan ubban hemettiis; i he ogiyaappe sher77i gibeenna; GODAA sinttan suurebaa oottiis. Gidikkonne, goinniyo xoqqa sohota xaissibeenna; asai he sohotun yarshshuwaa yarshshiyoogaanne ixaanaa cuwayiyoogaa aggibeenna.
 Yoosaafixikka Israa7eela kawuwaara sigettiis.
 Yoosaafixi hanido harabai, a minotettainne i olettido olai Yihudaa Kawotu Taarikiyaa Maxaafan xaafetti uttiis.
@@ -9534,7 +9535,6 @@ Yoosaafixi haiqqidi ba maizzan gaittiis. Ba maizza aawaa Daawita Kataman moogett
 Yihudaa Kawoi Yoosaafixi kawotido tammanne laappuntta laittan Akaaba na7ai Akaaziyaasi Israa7eela bolli Samaariyan kawotiis; Israa7eela bolli naa77u laitta kawotiis.
 Akaaziyaasi GODAA sinttan iitabaa oottiis; ba aawaanne ba aayee ogiyaaninne Israa7eela asaa nagaraa ootissida Nabaaxa na7aa Iyorbbaama ogiyan hemettiis.
 Akaaziyaasi Ba7aalayyo oottiisinne goinniis. A aawai kase oottidoogaadan, GODAA, Israa7eela Xoossaa i hanqqetissiis.
-
 Akaabi haiqqidoogaappe guyyiyan, Moo7aaba biittaa asai Israa7eela bolli denddiis.
 He wode Kawoi Akaaziyaasi Samaariyaa kataman bolla pooqiyaa baranddaappe kunddidi deshettiis. Hegaa gishshau asata, “Biite; biidi, taani ha deshettaappe paxanaakko, agganaakko, Eqiroona katamaa xoossaa Bi7eeli-Zeebula ane tau oichchite” yaagidi kiittiis.
 SHin GODAA kiitanchchai Tishbbiyaa Eelaasa hagaadan yaagiis; “Ba; pude baada, Samaariyaa kawoi kiittido asataara gaitta. Gaittada eta, ‘Intte Eqiroona katamaa xoossaa Bi7eeli-Zeebula oichchanau biidoogee, Israa7eelan Xoossi xayiineeyye?’ yaaga.
@@ -9851,6 +9851,7 @@ Hegaappe guyyiyan, asai GODAA asa gidana mala, Yoodaahee kawoinne asainne GODAAR
 He wode Yihudaa asai ubbai Ba7aala Eeqa Keettaa biidi, he keettaa qoliis; qolidi yarshshiyo sohotanne a misileta kinchcherettiis. Qassi Mataana giyo Ba7aala qeesiyaa yarshshiyo sohotu sinttan woridosona. Hegaappe simmin, qeesiyaa Yoodaahee GODAA Beeta Maqidasiyan naagiyaageeta wottiis.
 Wottidi banaara gadaawata, kawuwaa naagiyaageeta, kawo keettaa naagiyaageetanne Yihudaa asaa ubbaa ekkin, eti kawuwaa GODAA Beeta Maqidasiyaappe duge ehiidi, Naagiyaageetu Penggiyaa giyo penggiyaa baggaara kawo keetti issippe gelidosona. Gelin kawoi ba kawotaa araatan uttiis.
 Yaatin Yihudaa asai ubbai ufaittiis. Ataala kawo keettan bisuwan haiqqidoogaappe guyyiyan, katamaikka woppu giis.
+Yo7aashi kawotiyo wode laappun laitta na7a.
 Yeehu Israa7eela biittan kawotido laappuntta laittan, Yo7aashi Yihudan kawotiis; i Yerusalaamen oitamu laitta kawotiis. A aayee sunttai Xiibiyo; a Berssaabeha katamaappe yiida asa.
 Qeesee Yoodaahee a tamaarissidonne zorido gishshau, i de7ido laitta ubban Yo7aashi GODAA sinttan suurebaa oottiis.
 Gidikkonne asai goinniyo xoqqa sohota xaissibeenna; asaikka he sohotun yarshshuwaa yarshshiyoogaanne ixaanaa cuwayiyoogaa aggibeenna.
@@ -9872,7 +9873,6 @@ SHin Yihudaa Kawoi Yo7aashi appe kase kawotida Yihudaa kawoti Yoosaafixi, Yoraam
 Kawoi Yo7aashi hanido harabainne i oottidobai ubbai Yihudaa Kawotu Taarikiyaa Maxaafan xaafetti uttiis.
 Hegaappe guyyiyan, a oosanchchati a bolli maqettidi, Siilla giyo sohuwaa efiya ogiyan Miillo giyoosan de7iya keettan woridosona.
 A worida oosanchchati SHim77aata na7aa Yozakaaranne SHomeera na7aa Yihozabaada. Yo7aashi Daawita Kataman ba maizza aawatu duufuwan moogettiis; a sohuwan a na7ai Amesiyaasi kawotiis.
-
 Akaaziyaasa na7ai, Yihudaa Kawoi Yo7aashi kawotido laatamanne heezzantto laittan, Yeehu na7ai Yo7akaazi Samaariyaa kataman Israa7eela bolli kawotiis; i tammanne laappun laitta kawotiis.
 Nabaaxa na7ai Iyorbbaami Israa7eela asaa ootissido nagaraa kaallidi, Yo7akaazi GODAA sinttan iitabaa oottiis; i he nagaraa oottiyoogaa aggibeenna.
 Hegaa gishshau, GODAA hanqqoi Israa7eela bolli suulliis; GODAI eta daro wodiyau Sooriyaa Kawuwaa Hazaa7eelayyoonne a na7aa Benihadaadayyo zaari zaaridi aattidi immiis.
@@ -10456,21 +10456,6 @@ Minaase zaretuppe bagga yarati Baasaaneppe doommidi, Ba7aali-Hermmoone, Saniiran
 Eta aawatu so halaqati Efeera, Yishi7a, Eli7eela, Aziri7eela, Ermmaasa, Hodaawiyaanne Yaahidi7eela. Hageeti eta aawaa keettan erettida, xalanne wolqqaama asata.
 SHin ha zareti bantta aawatu Xoossaa naaqqidosona; Xoossai eta sinttaappe xaissido he biittaa asatu xoossatuura shaaramuxidosona.
 Hegaa gishshau, Israa7eela Xoossai Tigilaati-Paleseera woikko Puula giyo Asoore kawuwaa ayyaanaa denttettiis. Yaatidi Roobeela zareta, Gaada zaretanne Minaase zaretuppe baggata omooddidi, Halaaha, Habooranne Haara biittatanne Gozaana SHaafaa efiis. Eti hachchi gakkanaashin yan de7oosona.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Leewa naati Gershshoona, Qahaatanne Maraara.
 Qahaata naati Amiraama, Yixihaara, Kebroonanne Uzzi7eela.
 Amiraama naati Aaroona, Muusanne Miiriyaamo. Aaroona naati Nadaaba, Abiiha, El77aazaranne Itaamaara.
@@ -10537,6 +10522,21 @@ Roobeela zaretu biittaappe, Gaada zaretu biittaappenne Zaabiloona zaretu biittaa
 Hegaadan oottidi, Israa7eela asai Leewatuyyo ha katamatanne katamatu heeran de7iya hentta gadeta immiis.
 Qassi Yihudaa zaretu biittaappe, Simoona zaretu biittaappenne Biniyaama zaretu biittaappe, hagaappe qommo baggaara bantta sunttan xaafettida katamata etayyo saaman immiis.
 Qahaata yaratuppe amaridaageeti bantta katamata Efireema zaretu katamatuppe ekkidosona.
+Etayyo asai baqati biidi attiyo katamata, Efireema gezziyan de7iya Sekeemanne a hentta gadeta, Gezeeranne a hentta gadeta,
+Yoqima7aamanne a hentta gadeta, Beeti-Horoonanne a hentta gadeta,
+Ayyaaloonanne a hentta gadetanne Gaate-Rimmoonanne a hentta gadeta immidosona.
+Minaase zaretu baggatuppe Aneeranne a hentta gadetanne Bil77aamanne a hentta gadeta ekkidi, Qahaata yaratuppe attidaageetuyyo immidosona.
+Minaase zaretu baggatuppe Baasaanen de7iya Golaananne a hentta gadetanne Asttaarootanne a hentta gadeta ekkidi, Gershshoona yaratuyyo immidosona.
+Qassi Yisaakoora zaretuppe Qaadeesanne a hentta gadeta, Dabiraatanne a hentta gadeta,
+Raamootanne a hentta gadetanne Aaneemanne a hentta gadeta ekkidi, etayyo immidosona.
+Qassikka Aseera zaretuppe Maashaalanne a hentta gadeta, Abddoonanne a hentta gadeta,
+Huqooqanne a hentta gadetanne Rahoobanne a hentta gadeta ekkidi, etayyo immidosona.
+Hegaadankka Nifttaaleema zaretuppe Galiilan de7iya Qedeeshanne a hentta gadeta, Hammoonanne a hentta gadetanne Qiriyaataimanne a hentta gadeta ekkidi, etayyo immidosona.
+Attida Maraara yaratuyyo Zaabiloona zaretuppe Rimmoonanne a hentta gadetanne Taabooranne a hentta gadeta ekkidi immidosona.
+Qassi Roobeela zaretuppe Yarkko ginan, Yorddaanoosappe hefinttan arggo baggaara, xoqqa dembban de7iya Beexeranne a hentta gadeta, Yaahixanne a hentta gadeta,
+Qidemootanne a hentta gadetanne Mefa7aatanne a hentta gadeta ekkidi, etayyo immidosona.
+Qassikka Gaada zaretuppe Gala7aaden de7iya Raamootanne a hentta gadeta, Maahinaimanne a hentta gadeta,
+Haseboonanne a hentta gadetanne Yaa7izeeranne a hentta gadeta ekkidi etayyo immidosona.
 Yisaakoorayyo oiddu naati de7oosona; etikka Tolaa7a, Puuwa, Yaashuubanne SHimiroona.
 Tolaa7a naati Uzza, Rafaaya, Yirii7eela, Yaahimaaya, Yibisaamanne SHalumi7eela; eti Tolaa7a yaratu halaqata. Eti wolqqaamanne xala asata. Daawita wode eta qoodai laatamanne naa77u sha7anne usuppun xeeta.
 Uzza na7ai Yiziraahiyaa. Yiziraahiyaa naati Mikaa7eela, Obaadiyaa, Yuu7eelanne Yishiyaa; ha ichchashatikka so asaa halaqata.
@@ -10725,6 +10725,7 @@ Xooba katamaappe yiida Eli7eela, Yoobeedanne Ya7isi7eela.
 Daawiti Qiisa na7aa Saa7oolappe baqati biidi, Xiqilaagan uttido wode, akko yiida asati hagaappe kaallidi xaafettidaageeta. Eti kase Daawita olan maaddida mino asatu giddon de7oosona.
 Eti wonddafiyaasata; qassi bantta ushachcha kushiyaaninne haddirssa kushiyan shuchchaa yambbarshshan olanau danddayoosona. Eti Biniyaama zare gidiya Saa7oola dabbota.
 Eta halaqai Ahi7eezera; Ahi7eezerappe simmin Yo7aasha; eti Gib77appe yiida SHamaa7a naata. Harati qassi Azimaaweeta naata gidiya Yizi7eelanne Peleexa, Baraaka, Anatootappe yiida Yeeha,
+
 hasttamatu giddon wolqqaama gididi, eta kaalettiya Gabaa7oonappe yiida Yishimaa7iyaa, Ermmaasa, Yahaazi7eela, Yohanaana, Gedeerappe yiida Yozabaada,
 El77uzaaya, Yaarimoota, Ba7aaliyaa, SHamaariyaa, Hariifappe yiida SHafaaxiyaa,
 Qoraaha yarata gidiya Elqqaana, Yishiyaa, Azaari7eela, Yo7eezeranne Yaashobi7aama,
@@ -10762,7 +10763,6 @@ Yorddaanoosa SHaafaappe hefintta arshsho baggan de7iya Roobeela zariyaappe, Gaad
 Ha olau giigida olanchchati ubbai Daawita Israa7eela bolli kawoyanau bantta qofaa qachchidi, Kebroona katamaa yiidosona. Qassi Israa7eelappe attidaageetikka Daawita kawoyanau issi wozana gididosona.
 Eta dabboti etayyo koshshiyaabaa giigissi wottido gishshau, miiddinne uyiiddi Daawitaara heezzu gallassaa uttidosona.
 Israa7eela asaayyo ufaissa gidiyo gishshau, huuphessa baggaara de7iya Yisaakoorappe, Zaabiloonappenne Nifttaaleemappe asati daro qumaa ehiidosona. Xiilliyaa, balasiyaa lichchakkuwaa, woiniyaa teeraa, woine eessaanne zaitiyaa hariyan, baquluwan, gaameelaaninne booran caanidi ehiidosona; qassikka eti miizzaanne dorssaa shukkidi maanau ekkidi yiidosona.
-
 Hegaappe guyyiyan, Daawiti shaalaqatuuranne mato halaqatuura zorettiis.
 Zorettidi Israa7eela asaa ubbaa, “Intteyyo lo77o milatiyaabaa gidikkonne, GODAA nu Xoossaa shene gidikko, Israa7eela biittaa gaxan de7iya nu dabboti, qeesetinne bantta kataman de7iya Leewati nunaara issippe shiiqanaadan asa kiittoos.
 Saa7ooli kawotido wode shenehoo gin, dogettidi attida nu Xoossaa Taabootaa ane zaaridi ehoos” yaagiis.
@@ -11214,7 +11214,6 @@ Solomoni paraa gaaretanne parata shiishshiis. Ayyo issi sha7anne oiddu xeetu par
 Kawoi worqqinne biri Yerusalaamen shuchchaadan korettanaadan, zigikka bargguwan dicciya ettaadan corattanaadan oottiis.
 Solomona parati Gibxxeppenne Qaawe giyo biittaappe yiidosona. Kawuwaa zal77anchchati eta Qaaweppe miishshan shammidi ehoosona.
 Eti issi issi paraa gaariyaa usuppun xeetu xaqara biran, issi issi paraa issi xeetanne ishatamu xaqara biran Gibxxeppe shammidi ehoosona; ehiidi Hiitetu kawotu ubbatussinne Sooriyaa kawotussi baizzoosona.
-
 Solomoni GODAA sunttaayyo Beeta Maqidasiyaanne baayyo kawo keettaa keexxanau halchchiis.
 Hegaa gishshau, Solomoni tookkiyoobaa toossanau laappun tammu sha7u asatanne gezziyan shuchchaa qoo7anau hosppun tammu sha7u asata dooriis; qassi eta wochchiya heezzu sha7anne usuppun xeetu asata eta bolli sunttiis.
 Hegaappe guyyiyan, Solomoni Xiiroosa Kawuwaa Kiiraamayyo kiitaa kiittidi, “Ta aawai Daawiti baayyo kawo keettaa keexxanau neeni zigaa yeddidoogaadan, taayyookka yedda.
@@ -11232,6 +11231,7 @@ A aayyiyaa Daana zare; qassi a aawai Xiiroosa biittaa asa. I worqqaa, biraa, nah
 “Ha77ikka neeni ta godai immana giido gisttiyaanne banggaa, zaitiyaanne woiniyaa eessaa ta ashkkaratuyyo yedda.
 Neeni Liibaanoosappe koyido mittaa keenaa nuuni qanxxana; qanxxidi qashissidi, abbaa bollaara toohettidi, neekko Yoophphe baanaadan oottana. Yaatobare neeni yaappe Yerusalaame gakkanau efiissana” yaagiis.
 A aawai Daawiti kase qoodidoogaadan, Solomoni Israa7eela biittan de7iya kare biitta asaa ubbaa qoodiis; qoodin eti xeetanne ishatamanne heezzu sha7anne usuppun xeeta gididosona.
+Solomoni he asaappe laappun tammu sha7aa tookkiyoobaa toossanau, hosppun tammu sha7aa gezziyan shuchchaa qoo7anau dooriis; qassi eta wochchanau heezzu sha7anne usuppun xeetu asata sunttiis.
 Solomona aawai Daawiti GODAA Beeta Maqidasee keexettana sohuwaa Mooriyaa giyo deriyan Yerusalaamen giigissi wottiis. He sohoi GODAI Daawitayyo qonccido, Yaabuusiyaa Ornna audiyaa.
 Solomoni ba kawotido oiddantto laittan, naa77antto aginan Beeta Maqidasiyaa keexxanau doommiis.
 Solomoni Xoossaa Beeta Maqidasiyaa keexxanau baasido baasuwaa zananai usuppun tammu wara; gomppai laatamu wara.
@@ -11478,7 +11478,6 @@ Abiiyi Iyorbbaama yedettidi, appe Beeteele katamaa, Yishaana katamaanne Efiroona
 Abiiyi de7ido laittan ubban Iyorbbaami simmidi minnibeenna. GODAI Iyorbbaama dechchin haiqqiis.
 SHin Abiiyi minni minni biis. Abiiyi tammanne oiddu maccaasaa ekkidi, laatamanne naa77u attuma naatanne tammanne usuppun macca naata yeliis.
 Abiiyi oottido harabai, i hanidobainne i giidobai ubbai Hananabaa Yootiya Iddo Taarikiyaa Maxaafan xaafetti uttiis.
-
 Abiiyi haiqqidi, ba maizzan gaittiis; Daawita Kataman a moogidosona. A sohuwan a na7ai Asi kawotiis. I kawotido wode biittai tammu laitta woppaa demmiis.
 Asi GODAA ba Xoossaa sinttan lo77obaanne suurebaa oottiis.
 Asi allaga xoossatuyyo yarshshiyo sohotanne goinniyo xoqqa sohuwaa xaissiis. Goinnanau shuchchaappe oottido tuussatakka mentterettiis; Asheero giyo xoossee misiletakka qanxxeretti oliis.
@@ -11493,6 +11492,7 @@ Hegaappe guyyiyan, Asi GODAA ba Xoossaa woossidi, “Abeet GODAU, wolqqi bainna 
 Hegaa gishshau, GODAI Asa sinttaaninne Yihudaa olanchchatu sinttan Toophphiyaa olanchchata shociis; shocin Toophphiyaa olanchchati baqatidosona.
 Asinne aara de7iya asai eta Garaara gakkanaassi yedettidosona. Toophphiyaa olanchchatuppe daroi haiqqido gishshau, eti simmidi minnanaunne olettanau danddayibookkona. Hegaadan hanidi, Toophphiyaa olanchchati GODAANINNE a olanchchatun xoonettidosona. Kawuwaa Asa olanchchatikka darobaa omooddidosona.
 Hegaa heeran de7iya asai GODAI oottidobaa be7idi, daro dagammiis. Asa olanchchatikka Garaara yuushuwan de7iya katamata ubbaa bonqqidi xaissidosona.
+Qassi mehiyaa heemmiyaageetu moottata olidi, daro dorssaa, deeshshaanne gaameelaa di7idi, Yerusalaame simmidosona.
 Odeeda na7aa Azaariyaasa bolli Xoossaa Ayyaanai wodhdhiis;
 Wodhdhin Asaara gaittanau biidi, hagaadan yaagiis; “Asaa, neeni, Yihudaa asainne Biniyaama asai ubbai siyite! Intte GODAARA issippe de7iyo keena ubban ikka inttenaara de7ees. Intte a koyikko, i intteyyo beettana; shin intte a aggikko, ikka inttena aggana.
 Israa7eela asai tumu Xoossai, tamaarissiya qeeseenne higgee bainnan daro wodiyaa de7iis.
@@ -12362,12 +12362,6 @@ Etappe kaalliyaagaa Imeera na7ai Xaadooqi ba keettaa sinttan de7iya sohuwaa gimb
 Appe kaalliyaagaa SHeleemiyaa na7ai Hanaaneenne Xalaafassi usuppuntta na7a gidiya Hanuuni gimbbidosona. Etappe kaalliyaagaa Berekiyaa na7ai Mashulaami ba de7iyo kifiliyaa sinttan de7iya sohuwaa gimbbiis.
 Appe kaalliyaagaa Xomoosiyo Penggiyaa giyo penggiyaa sinttan de7iya Beeta Maqidasiyaa ashkkaratunne zal77anchchatu keettaa gakkanaashin de7iya sohuwaa worqqaa tigiya Malkkee gimbbiis. Qassikka i gimbbiyaa zooziyan bolla baggaara de7iya kifiliyaa gakkanaashin de7iya sohuwaakka gimbbiis.
 Worqqaa tigiyaageetinne zal77anchchati he kifiliyaappe doommidi, Dorssaa Penggiyaa gakkanaashin de7iya sohuwaa gimbbidosona.
-
-
-
-
-
-
 Nuuni gimbbiyaa dirssaa oosuwaa doommidoogaa Sanbbalaaxi siyido wode hanqquwaa eexxi kiyiis; qassi keehi yiillotidi, nuna baceessiis.
 Ba laggetunne Samaariyaa olanchchatu sinttan i hagaadan yaagiis; “Hageeti, ha pattenna Aihudati ai oottiyoonaa? Katamaa zaarettidi gimbbanau koyiyoonaayye? Yarshshuwaakka yarshshanau koyiyoonaa? Oosuwaa issi gallassi wurssanabaa etau milatiiyye? Gimbbiyaassi haniya shuchchaa ha xuugettidi issisan doorettida suuppaa giddoppe kessanabaa etau milatii?” yaagiis.
 A miyyiyan eqqida Amoona biittaa asa gidiya Xoobbeekka qassi hagaadan yaagiis; “Eti qassi aiba gimbbe gimbbanau danddayiyoonaa? Eti gimbbiyo gimbbee worakanai a bolli kiyiyaakkonne wulli aggana” yaagidi baceessiis.
@@ -12385,6 +12379,12 @@ Asai shabbirettidoogaa taani be7ido wode, dendda eqqada, eta, eta kaalettiyaagee
 Nu morkketi nuna qohanau maqettidoogaa nuuni eridoogaa eti siyidosona. Qassi Xoossaikka eta maqquwaa hada kessidoogaa akeekidosona. Hegaappe guyyiyan, nuuni ubbaikka simmidi, nu gimbbiyaa oosuwaa doommida.
 He wodiyaappe doommidi, ta ashkkaratuppe baggai oosuwaa oottiyo wode, baggai tiran wottiyo ola miishshaa maayidi, tooraa, gonddalliyaanne wonddafiyaa oiqqidi naaganaadan oottaas. Qassi halaqatikka Yihudaa asa ubbaappe guyyeera eqqidi minttettoosona.
 Gimbbiyaa gimbbiyaageetinne koshshiyaabaa tookkiyaageeti ubbai issi kushiyan ola miishshaa oiqqidi, issi kushiyan oosuwaa oottoosona.
+Gimbbiyaa oosuwaa oottiya ubbai bisuwaa ba xeessan gixxi gixxi uttiis. Malkkataa punniyaageekka ubba wode taappe shaahetti erenna.
+Asaa kaalettiyaageeta, halaqatanne asa ubbaa taani hagaadan yaagaas; “Gimbbiyaa oosoi gitanne keehi aaho gidiyoogaappe denddidaagan, nuuni issoi issuwaappe shaahettidi haakkida.
+Hegaa gishshau, intte malkkataa punniyoogaa siyiyo wode, i punettiyoosaa taakko haa shiiqite. Nu Xoossaikka nu gishshatau olettana” yaagaas.
+Oosuwaa wonttimaatti bazzoi zo77iyo wodeppe doommidi, omarssi xoolinttee kiyana gakkanaashin oottiyo wode ubban, baggai oottiyo wode, baggai tooraa oiqqidi naagoosona.
+He wode taani asaassi hagaadan yaagaas; “Qamman nuna naaganaunne gallassi qassi oosuwaa oottanau intte ubbaikka intte ashkkaratuura Yerusalaamen aqite” yaagaas.
+Hegaa gishshau, tana gidin, ta ishantta gidin, ta ashkkarata gidin, woi qassi tana naagiyaageeta gidinkka, nuuni ubbaikka nu maayuwaa kessennan aqeettees; qassi nu ola miishshaikka, nuuppe mulekka shaahettenna.
 Guutta wodiyaappe guyyiyan, daro asai, attumai maccai bantta zare gidiya Aihudatu bollan wolqqaama cabbuwaa kessidosona.
 Eti hagaadan yaagidosona; “Nuuni, nu attuma naatinne nu macca naati cora; hegaa gishshau, nuuni miidi paxa de7ana mala, nuuyyo kattaa koshshees” yaagidosona.
 Harati qassi, “Nuna gakkida iita koshaappe nuna ashshiya qumaa demmanau giiddi, nu goshshai, nu woiniyaa turaa sohoinne nu keettai attennan asassi oittida” yaagidosona.
@@ -12490,11 +12490,11 @@ Hageeti bantta yeletaa xaphuwaa eranau yeletaa maxaafan koyidosona, shin demmibo
 Qassi Uriimiyaaninne Tumiimiyan shaakkidi pirddiya qeesee denddana gakkanaashin, eti geeshsha qumaappe maanau danddayennaagaa Aihudata haariyaagee etau yootiis.
 Omooduwaappe Yihudaa biittaa simmida asaa qoodai muleera 42,360.
 Hegaa bollikka qassi 7,337 attuma ashkkaratinne macca ashkkarati mazamuriyaa yexxiya 245 attumanne macca asati simmidosona.
-Omooduwaappe muleera simmida asaa paratu qoodai 736; baquloti 245;
-gaameelati 435; hareti qassi 6,720.
+Omooduwaappe muleera simmida asaa paratu qoodai 736; baquloti 245; gaameelati 435; hareti qassi 6,720.
 Yaratu halaqatuppe amaridaageeti oosuwaassi imotaa immidosona. Biittaa haariyaagee hosppun kilo giraame worqqaa, 50 disttetanne 530 qeesetu maayota immiis.
 Yaratu halaqati 168 kilo giraame worqqaanne 1,250 kilo giraame biraa immidosona.
 Attida asai muleera 168 kilo giraame worqqaa, 1,100 kilo giraame biraanne 67 qeesetu maayota immidosona.
+Hegaappe guyyiyan qeeseti, Leewati, penggiyaa naagiyaageeti, mazamuriyaa yexxiyaageeti, asaappe darotinne Beeta Maqidasiyaa ashkkarati, muleera Israa7eela ubbai bantta kataman kataman uttidosona.
 Laappuntta aginai gakkiyo wode, Israa7eela asai ubbaikka bantta kataman kataman uttidosona. He aginan eti ubbaikka issippe Haattaa Penggiyaa sinttan de7iya dabaaban shiiqidosona. SHiiqidi GODAI Muuse baggaara Israa7eela asaassi immido Higgiyaa Maxaafaa ehaana mala, xaafiyaa Izira oichchidosona.
 Yaatin, laappuntta aginan koiro gallassan, attumai maccai, akeekanau danddayiya asai ubbai shiiqidosaa Iziri Higgiyaa Maxaafaa ehiis.
 Ehiidi Haattaa Penggiyaa sinttan de7iya dabaaban eqqidi, attumau maccau, akeekanau danddayiya asa ubbau Higgiyaa Maxaafaa maalladoppe gallassa seetai gakkanaashin nabbabiis; asaikka loitti ezggidi siyiis.
@@ -12550,6 +12550,7 @@ Nu kawoti, nu halaqati, nu qeesetinne nu maizza aawati ne higgiyaa naagibookkona
 Neeni eta kawotettan etayyo gita anjjuwaa immadasa; qassi aahonne mokkiya biittaakka etayyo immadasa; shin eti neeyyo goinnibookkonanne bantta iita oosuwaappe simmibookkona.
 “Hegaappe denddidaagan, nuuni hachchi aille gidiyoogaa be7a. Qassi hegeekka eti a aifiyaanne i immiyo anjjuwaa ubbaa maana mala, nu maizza aawatussi neeni immido he biittan, nuuni aille gidida.
 Nu nagaraa gishshau, neeni nu bollan denttido kawoti biittaa anjjuwaa ubbaa eti go77ettoosona. Qassi nu bollaaninne nu mehiyaa bollan bantta koyidobaa oottoosona; nuunikka gita metuwaa giddon de7oos” yaagidosona.
+Hanida yoho ubbaa gishshau, nuuni haasayidi maacido maachchaa xaafida; he nuuni xaafido maachchaa woraqataa bollan nu halaqati, nu Leewatinne nu qeeseti bantta maatafaa wottidosona.
 Hagaappe kaalliya asati he maatafai wodhdhido woraqataa bollan paramidosona. Hegeetikka Hakaaliyaa na7aa biittaa haariya Nahimiyaa; qeesetuppe: Sedeqiyaasa,
 Saraaya, Azaariyaa, Ermmaasa,
 Paashihuura, Amaariyaa, Malkkiyaa,
@@ -12589,7 +12590,6 @@ Hegee aibissee giikko, GODAA sinttan wottiyo oittaassa, hachchi hachchi yarshshi
 “Nuuni nu biittan mokkida kattaa aifiyaappe koiruwaa, qassi nu mitta ubbaa aifiyaa, woiniyaanne zaitiyaa imota oottidi, nu Xoossaa Beeta Maqidasiyaa haa qeesetukko ehaana. Qassi Leewati nu katamatun de7iya biitta ubbaa aifiyaappe asirataa ekkiyaageeta gidiyo gishshau, nu biittai aifidobaappe ubbaappe asirataa etayyo immana.
 Leewati asirataa shiishshiyo wode, Aaroona yara gidiya qeeseti etaara issippe de7anau bessees. Leewatikka asirataa shiishshoogaappe guyyiyan, asirataappe kessido asirataa nu Xoossaa Beeta Maqidasiyaa ehiidi, miishshaa wottiyo kifiliyan wottoosona.
 Israa7eela asainne Leewati kattaa, woiniyaanne wogaraa zaitiyaa imotaa, Beeta Maqidasiyaa miishshatinne Beeta Maqidasiyan oottiya qeeseti, penggiyaa naagiyaageetinne mazamuriyaa yexxiyaageeti de7iyo kifileta ehoosona. “Nuuni nu Xoossaa Beeta Maqidasiyaa oosuwaa mulekka shenehoo gookko” yaagidi caaqqidosona.
-
 Asaa kaalettiyaageeti Yerusalaamen de7idosona. Qassi hinkko asaappekka tammaappe issoi issoi geeshsha kataman Yerusalaamen de7ana mala, saamaa yeggidi dooridosona. SHin hara uddufun kushe asai bantta katamatun de7idosona.
 Yerusalaamen de7anau bantta sheniyan maayida asaa ubbaa asai anjjiis.
 Hara katamatun de7iya Israa7eela asai, qeeseti, Leewati, Beeta Maqidasiyaa ashkkaratinne Solomona ashkkaratu yarati ubbai bantta kataman kataman de7iya gadiyaa oiqqidi de7idosona. SHin hagaappe kaallidi xaafettidaageeti, Yerusalaamen de7anau yiida biittaa kaalettiyaageeta.
@@ -13890,14 +13890,6 @@ Agunttai de7iyo mittaa garssan zin77ees; maqqaa giddon torqquwan qosettees.
 Agunttai de7iyo mittati bantta kuwan a genttoosona; shaafaa doonan mokkiya mittati a kammoosona.
 SHaafai kixxidi goggiyo wodekka dagammenna; Yorddaanoosa SHaafai a som77uwan xarccettiyo wodekka i saro de7ees.
 A aifiyaa toissidi, a oiqqanau danddayiya asi de7ii? A siiriyaakka piriyaa qaran caddi oiqqanau danddayiyai oonee?
-
-
-
-
-
-
-
-
 “Neeni Lewaataana giyo miimminttiyaa moliyaa oiqqiyo hinggittan oiqqanau, woikko a inxxarssaa wodoruwan qachchanau danddayai?
 A siiriyan dafuwaa gelissanau danddayai? Woikko a gacuwaa hinggittan caddada oiqquutee?
 I nena, ‘Hayyanaa tana yeddarkkii’ yaagidi woossanee? Woikko i neeyyo mal77o qaalan haasayanee?
@@ -13924,6 +13916,14 @@ A ashoi issippe nuketti uttido gishshau, a bollai birataadan minnees.
 A wozanai shuchchaadan mino; gaacciyo woxaadankka mino.
 I denddiyo wode, minotikka yayyoosona; eti dagammidi baqatoosona.
 Akko gakkiya bisoi ainne allaalle kessenna; toorai, woikko zubbee, woikko philxxoi a ainne oottenna.
+Birataa i daladan, nahaasiyaakka musida mittaadan qoodees.
+Wonddafiyaa zubbee a baqatissenna; yambbarshshan oliyo shuchchaikka ayyo suulla mala.
+Dullai ayyo issi buuxa mala; tooraa xonggiyo wode, qilliiccidi miiccees.
+A uluwaa bollan de7iya galbbai meqerettida kon77aadan qara; urqqaara i biyo wode, marashaadan biittaa phalqqees.
+“Abbaa penttida haattaadan bukkees; xaaro giddon penttiya zaitiyaadankka bulibulissees.
+Baappe guyyeera phooliya ogiyaa kessees; abbaa haattaakka bootta hoommuwau laammees.
+Biittaa bollan a mala mereti baawa; i yayyi erenna mereta.
+Keehippe gita gidida meretata ubbaa i ziqqi oottidi xeellees; do7a ubbatussi i kawo” yaagiis.
 Hegaappe guyyiyan, Iyyoobi GODAAYYO hagaadan yaagidi zaariis;
 “Neeni ubbabaa oottanau danddayiyoogaanne ne halchchuwaakka halissanau danddayiyaabi bainnaagaa taani erais.
 ‘Laa ha eri bainnan ta zoriyaa genttiyaagee oonee?’ yaagada tana oichchadasa. Tumuppe taani taayyo gelibeennabaa haasayaas; ta eraappe haakkida maalaalissiyaabaa haasayaas.
@@ -17465,7 +17465,6 @@ Lo77o zoriyaa ekkenna ceega kawuwaappe hiyyeesa gidikkonne, aadhdhida eranchcha 
 Aissi giikko, i he hiyyeesa gidiyo sohuwaappe denddidi, woikko qasho keettaappe kiyidi, ba biittan kawo gidiyo sohuwaa gakkanau danddayees.
 Taani salo gufantton de7iyaanne hemettiya asa ubbai kawuwaa kawotettaa araataa laattiya yelagaa kaalliyaagaa be7aas.
 Issi kawoi haariyo asai qoodi bainna cora gidanau danddayees. SHin kawotaappe i kichchiyo wode, i oottidobau ooninne a galatenna. Hegaa gishshau, ha ubbaikka hada; carkkuwaa oiqqanau yedettiyoogaa mala.
-
 Xoossaa keettaa geliyo wode, ne tohuwaa akeekada tangga. Siyanau mataa shiiqiyoogee, eeyyati yarshshuwaa shiishshiyoogaappe aadhdhees; aissi giikko, eti iita oosuwaa oottiiddi de7iyoogaa erokkona.
 Ne doonan haasayanau, Xoossaa sinttankka biddanau eesotoppa. Qassi issibaa Xoossassi immana gaada ne wozanan eesotada geppaichchoppa; aissi giikko, Xoossai saluwan de7ees, neeni qassi hagan sa7an de7aasa; hegaa gishshau, ne haasayiyo qaalai guutta gido bayin.
 Hirggai dariyo wode, qamman aimoikka darees; hegaadankka, biddaa daroi eeyyatettaa qaalaa kessees.
@@ -17485,6 +17484,7 @@ Asi kallo yelettidi, kallo guyye simmiyoogeekka qassi keehi azzanissiya iitabaa.
 I ba laittaa ubbaa xuma de7uwan, azzanuwan, yiillotiyoogan, harggiyaaninne hanqquwan wurssees.
 Hegee hegaa gidikkonne, taani akeekido issi lo77obai de7ees; hegeekka salo gufantton Xoossi asi de7anaadan immido qantta laittaa giddon, asi daafuraappe miyoogee, uyiyoogeenne ufaittiyoogee lo77onne bessiyaabaa. Aissi giikko, a qaadai hegaa.
 Xoossai asassi duretettaanne aquwaa immiyoogee, ba daafuraa waagaa demmidi, miidinne uyidi ufaittanaassa. Hegeekka qassi Xoossaappe au imettida imota.
+Xoossai a wozanan ubba wode ufaissaa kuntti wottiyo gishshau, i ba de7uwaa laittaabaa daro qoppenna.
 Salo gufantton asa bolli gakkiya keehi iitabaa taani be7aas.
 Xoossai asassi aquwaa, duretettaanne bonchchuwaa ubbaa immees; ayyo koshshiyaabaappe aibanne pacissenna. SHin, ayyo imettida aqonne duretetta ubban keettaawu ufaittana mala, kumetta sheniyaa au immenna. Hegaa xallakka gidenna; i daafuridi demmidoban hara daafuribeennaagee ufaittanaadan oottees. Hegeekka hadanne keehi azzanissiya iitabaa.
 Issi asi xeetu naata gakkanau yelidi, adussa laittaa de7idi ceegganau danddayees; shin i bau imettidaban ufaittiyo qaadai au xayikko, qassi wurssettan bonchcho mooguwaakka moogettennan attikko, appe ba ayyee uluwan haiqqidi yelettida boshai keha gais.
@@ -17897,7 +17897,6 @@ Tananne taayyo GODAI immido naata be7ite. Nuuni Xiyoone Deriyan de7iya Ubbaappe 
 Higgiyaanne GODAI yootiyoobaa siyite! He asati ha qaalaadan haasayana xayikko, etau sa7ai wonttenna.
 Asai waayettidinne namisettidi, biittan toilattana; eti namisettido wode yiillotidi, pude xeellidi bantta kawuwaanne bantta Xoossaa qanggana.
 Sa7aakko duge xeellidi, waayiyaa, xumaanne yashshiya shoonnuwaa be7ana; eti sakkana xumau olettana.
-
 Gidikkonne, waayettidaageetussi hagaappe sinttau xumenna. Beni wode GODAI Zaabiloona biittaanne Nifttaaleema biittaa kaushshiis; shin sinttappe he Meediteraane Abbaa ogiyan de7iya biittaanne Yorddaanoosa SHaafaappe hefintta baggan de7iya “Aihuda gidenna asai de7iyo Galiila” giyo biittaa i bonchchana.
 Xuman hemettiya asai wolqqaama poo7uwaa be7iis; qassi sakkana xuma biittan de7iyaageetuyyo poo7oi poo7iis.
 Neeni kawotettaa asaa darissadasa; etau ufaissaa gujjadasa; asai kattaa cakkiyo wode ufaittiyoogaadan, woikko omooduwaa shaakkidi ekkiyo wode ufaittiyoogaadan, ne sinttan ufaittana.
@@ -17918,6 +17917,7 @@ Hegaa gishshau, Godai eta yelaga asatun ufaittenna; aawi bainna naatussinne am77
 Iitatettai tamadan xuuggees; kinddiichchuwaanne agunttaa mi xaissees; sikkida worai eexxin, cuwai tuussadan sitti giidi, pude kiyees.
 Ubbaappe Wolqqaama GODAA hanqquwan biittai xuugettana; asaikka taman eettiyoobaa mala gidana; ooninne ba ishaa ashshanau qoppenna.
 Eti ushachcha baggappe bonqqana; shin namisettana; haddirssa baggappe maana; shin kallokkona; eti bantta yelido naata maana.
+Minaasee Efireema, Efireemikka Minaasa maana; eti issippe gididi, Yihudaa biittaa morkkana. He ubbankka GODAA hanqqoi simmibeenna; a kusheekka biron denddidosan de7ees.
 Iita higgiyaa kessiyaageetussinne huqqunniyo xuufiyaa xaafiyaageetuyyoo aayye7ana!
 Hegan eti manqqotu pirddaa geellayoosona; hiyyeesatu maataakka sugoosona. Yaatidi am77etu aquwaanne aayyiyaa aawai bainna naatakka bonqqoosona.
 Haaho biittaappe yiya metuwan i inttena qaxxayiyo wode, waanuuteetii? Maaduwaa demmanau ookko baqatuuteetii? Intte duretettaa awan qottuuteetii?
@@ -18953,8 +18953,7 @@ Abrahaami nuna erana xayikkokka, Yaaqoobi nuna akeekennan xayikkokka, abeet GODA
 Abeet GODAU, nuuni ne ogiyaappe bayanaadan, aibissi oottadii? Qassi nuuni neessi yayyennaadan, nu wozanaa aibissi dammissadii? GODAU, ne ashkkaratu gishshau, ne biittaa laattida zaretu gishshau, nuukko simma.
 Ne geeshsha asai ne Beeta Maqidasiyaa guutta wodiyaassi laattidosona; shin nu morkketi a duge zaaridi yedhdhidosona.
 Neeni beniisappe haarabeenna asaadaaninne ne sunttankka xeesettibeenna asaadan nuuni hanida.
-Abeet GODAU, neeni salota daakkada duge wodhdhidaa gidarkkiishsha! Wodhdhin deretikka gaji gajidi kokkoridaa gidorkkonaashsha!
-Tamai qaixaariyaa miidi, haattaa penttissiyoogaadan, duge wodhdhada, ne sunttaa ne morkketa erissa; kawotettatakka ne sinttan kokkorssa.
+Abeet GODAU, neeni salota daakkada duge wodhdhidaa gidarkkiishsha! Wodhdhin deretikka gaji gajidi kokkoridaa gidorkkonaashsha! Tamai qaixaariyaa miidi, haattaa penttissiyoogaadan, duge wodhdhada, ne sunttaa ne morkketa erissa; kawotettatakka ne sinttan kokkorssa.
 Kasekka neeni nuuni naagibeenna maalaalissiyaabaa oottido wode wodhdhadasa; wodhdhin dereti ne sinttan gaji gajidi kokkoridosona.
 Beniisappe doommidi, nenan ammanettidi, naagiyaageetussi maalaalissiyaabaa oottida neeppe attin, hara Xoossaa asa haitti siyibeenna; asa aifeekka be7ibeenna.
 Xillotettaa ufaittidi oottiyaageetanne ne ogiyan nena hassayiyaageeta neeni gakkada maaddaasa. Be7a, neeni hanqqettadasa; shin nagaraa oottiyoogaa aggibookko. Nuuni nagaraa oottiiddi, adussa wodiyaa de7ida; yaatin, nuuni waanidi attanee?
@@ -18964,6 +18963,7 @@ Gidikkonne, abeet GODAU, neeni nu aawaa; nuuni urqqa; neeni urqqaa medhdhidaagaa
 Abeet GODAU, keehi hanqqettoppa; nu nagaraakka merinau hassayoppa. Be7a, nuuni ubbaikka ne asa gidiyo gishshau, nuna maara.
 Ne geeshsha katamati bazzo gididosona; harai attin, Xiyoone katamaikka bazzo gidiis; Yerusalaameekka battaale gidiis.
 Nu aawati nena galatido geeshshanne lo77o gidida nu Beeta Maqidasee taman xuugettiis; qassi nu lo77o sohoti ubbaikka moorettidosona.
+Abeet GODAU, neeni hagaa ubbaa be7adakka aggaaguutee? Neeni co77u gaada, nuna zawi bainna qixaatiyaa qaxxayuuteeyye?
 GODAI hagaadan yaagees; “Taani tana oichchibeennaageetuyyo qonccaas; qassi tana koyibeennaageetuyyo beettaas. Taani ta sunttaa xeesibeenna kawotettaayyo, ‘Yee! Yee!’ yaagada koyaas.
 Bantta qofaa kaalliiddi, lo77o gidenna ogiyan hemettiya makkalanchcha asatukko gallassa ubban ta kushiyaa miccaas.
 Ha asai ataakilttiyaa giddon yarshshiiddinne xuubiyaa bollan ixaanaa cuwayiiddi, taani xeellishin, tana ubba wode hanqqetissoosona.
@@ -19242,7 +19242,6 @@ Ta asai haaho biittan waassiyo waasuwaa siyite. Eti, “GODAI Xiyoonen baawee? H
 Yaagin asai, “Hekko cahaa wodeenne aadhdhiis; boneenne wuriis; nuuninne attibookko” yaagidi waassoosona.
 Simmi ta asai mazunxxido gishshau, ta wozanaikka mazunxxiis. Taani kayyottais; yeellai tana oiqqiis.
 Gala7aaden tiyiyo xalee baaweeyye? Yan aakimee de7ennee? Yaatin, ta asaa meqoi aissi paxennee?
-
 Ta huuphee haatta olla gideerenneeshsha! Ta aifetikka afutta pultto gidorkkonaashsha! Yaatiyaakko taani ta asatuppe morkketu kushiyan haiqqidaageetuyyo qamminne gallassi yeekkana shin!
 Taani ta asaappe shaahettada baana mala, taayyo bazzon manddarai aqiyo sohoi de7eerenneeshsha! Aissi giikko, eti ubbai shaaramuxa; eti makkaliya asaa zata.
 GODAI hagaadan yaagees; “Ta asati bantta inxxarssan wordduwaa odanau ubba wode giigi uttidosona; eta biittan tumaa gishshaa worddoi minniis. Eti iitaappe iitau aadhdhoosona; tana erokkona” yaagees.
@@ -19268,6 +19267,7 @@ GODAI tana hagaadan yaagidi azaziis; “GODAI hagaadan yaagees; ‘Asaa ahai pit
 GODAI hagaadan yaagees; “Aadhdhida eranchchai ba eran ceeqqoppo; wolqqaamai ba wolqqan ceeqqoppo; woikko duree ba duretettan ceeqqoppo.
 SHin ceeqqiya urai ooninne tana eriyoogaaninne akeekiyoogan ceeqqo. Aggenna siiquwaa, suure pirddaanne xillotettaa sa7aa bollan oottiya GODAA, tana eriyoogan ceeqqo. Aissi giikko, taani hageetan ufaittais. Taani GODAI hagaa odaas” yaagees.
 Qassikka GODAI hagaadan yaagees; “Be7ite, bantta asho xalaalaa qaxxarettida asata taani qaxxayana gallassati yoosona.
+Hegeetikka Gibxxe, Yihudaa, Eedooma, Amoonanne Moo7aaba biittaa asatanne bantta huuphiyaa shubeeriyaa meedidi, bazzon de7iya asata ubbata. Aissi giikko, ha kawotettatu ubbaa asai tumuppe qaxxarettibeenna; Israa7eela asai ubbaikka ba wozanan qaxxarettibeenna” yaagees.
 Inttenoo, Israa7eela asatoo, GODAI intteyyo yootiyo qaalaa siyite!
 GODAI hagaadan yaagees; “Deretu ogiyaa intte tamaaroppite. Dereti saluwaa bolli malaataa be7idi dagammikkokka, intte dagammoppite.
 Aissi giikko, deretu wogai hada. Eti mittaa woraappe qanxxoosona; massiyaagee kalttan massees.
@@ -21007,6 +21007,11 @@ Taani kase intte maizza aawatuyyo immana gaada caaqqido Israa7eela biittaa intte
 Intte intte iita hemetaanne intte tuna oosuwaa intte he sohuwan hassayana; intte oottido iita oosuwaa ubbaa intte shenetana.
 Inttenoo, Israa7eela asatoo, taani intte iita hemetaadaaninne intte tuna oosuwaadan gidennan, ta sunttaa gishshau taani oottiyo wode, taani GODAA gidiyoogaa intte erana. Taani Ubbaa Haariya GODAI hagaa odais” yaagees’ yaaga” yaagiiddi yiis.
 GODAA qaalai taakko hagaadan yaagiiddi yiis;
+“Laa asa na7au, tohossa baggi simmada xeella; tohossa baggau oda; Neegeeba Woraa bolli hananabaa yoota.
+Neegeeba Woraassi hagaadan yaaga; ‘GODAA qaalaa siya! Ubbaa Haariya GODAI hagaadan yaagees; “Taani ne giddon tamaa oittana; he tamai ne irxxa mittaakka ne mela mittaakka ubbaa maana. He eexxiya tamai to7enna; tohossappe biidi, huuphessi gakkanaashin de7iya asaa som77uwaa ubbaa he lacoi labana.
+Taani GODAI oittido tama gidiyoogaa asai ubbai be7ana. He tamai to7enna” yaagees’ yaaga” yaagiiddi yiis.
+Yaagin taani zaarada, “Hai Ubbaa Haariya GODAU, hagaa ta yootanau tana azazoppa. Eti tana, ‘I ubbatoo leemisuwaa odees gidennee?’ yaagidi haasayoosona” yaagaas.
+GODAA qaalai taakko hagaadan yaagiiddi yiis;
 “Laa asa na7au, ne som77uwaa Yerusalaamekko zaarada, asai goinniyo sohotu bolli qaalaa oda; Israa7eela biittaa bollan hananabaa yoota.
 Hagaadan yaaga; ‘GODAI hagaadan yaagees; “Taani neeyyo morkke. Taani ta bisuwaa shoohuwaappe shoddada, xillo asaanne iita asaa ubbaa wurssana.
 Taani ta bisuwaa shoddada, huuphessappe tohossa gakkanaashin de7iya asaa ubbaa xaissana.
@@ -21038,11 +21043,6 @@ Intte be7iyo ajjuutai worddo; intte yootiyo hiraagaikka worddo. Intte iitanne tu
 Bisuwaa shoohuwau zaarite. Intte merettido sohuwan, intte yelettido biittan taani intte bolli pirddana.
 Taani ta hanqquwaa intte bolli gussana; ta hanqquwaa tamai intte bolli eexxi kiyana. Taani inttena bashshiyoogan loohida, meqetti bainna asatuyyo aatta immana.
 Intte tamaassi eettiyo mitta gidana; intte suuttai intte biittan gukkana; intte naa77antto hassayettekketa. Taani GODAI hagaa odaas” yaagees’ yaaga” yaagiiddi yiis.
-
-
-
-
-
 GODAA qaalai taakko hagaadan yaagiiddi yiis;
 “Laa asa na7au, suuttaa gussiyaageeti kumido katamaa bolli pirddanau giigadii? Yaatikko, i oottido tuna ooso ubbaa ayyo yoota.
 Hagaadan yaaga; ‘Ubbaa Haariya GODAI hagaadan yaagees; “Neeni daro asaa suuttaa gussido gishshaunne eeqau goinniyoogan nena tunissido gishshau, ne wodee yiis.
@@ -21904,9 +21904,6 @@ Kawoppe garssaara biittaa haariyaageeti, ola gadaawati, auraajjaa haariyaageeti,
 Hegaappe guyyiyan, Naabukadanaxoori hagaadan yaagiis; “Sidiraaqa, Misaaqanne Abddanaago Xoossai galatetto! I ba kiitanchchaa kiittidi, banan ammanettida ba ashkkarata ashshiis. Eti kawuwaa azazuwaa ixxidosona; bantta Xoossaappe attin, hara xoossaassi oottanaappenne goinnanaappe haiqqanaagaa dosidosona.
 Hegaa gishshau, Sidiraaqa, Misaaqanne Abddanaago Xoossaa toochchidi haasayiya ai asikka, woikko ai kawotettikka, woikko dumma dumma qaalan haasayiya ai zareekka qanxxettananne muxettana mala, eta keettaikka laalettidi, pito doore gidana mala, taani awaajjaas. Aissi giikko, hara ai xoossinne hagaadan oottidi, asa ashshenna” yaagiis.
 Hegaappe guyyiyan, kawoi Sidiraaqa, Misaaqanne Abddanaaga Baabiloone biittan xoqqu xoqqu oottidi sunttiis.
-
-
-
 Kawoi Naabukadanaxoori asa ubbaassi, kawotettatu ubbaassinne dumma dumma qaalan haasayiya zaretu ubbaassi hagaadan yaagidi, dabddaabbiyaa kiittiis. “Saro de7eetii!
 “Ubbaappe Xoqqiya Xoossai taayyo oottido maalaalissiyaabaanne oorattabaa taani intteyyo odanau koyais.
 “A malaatai aiba gitee! I oottiyo oorattabai aiba minoo! A kawotettai merinaa kawotetta; a maataikka yeletaappe yeletaa gakkanaashiina.
@@ -21941,6 +21938,9 @@ hagaadan yaagiis; ‘Hagee ta kawo keettai an de7ana mala, taani ta gita wolqqan
 Neeni asaa giddoppe goodettada, bazzo do7aara daana; neeni booradan maataa maana. Ubbaappe Xoqqiya Xoossai asaa naatu kawotetta ubbaa haariyoogaanne kawotettaa i ba koyido uraassi immiyoogaa neeni erana gakkanaashin, laappun laittai ne bolli aadhdhana’ yaagiis.
 “Naabukadanaxoora bolli giidobai sohuwaarakka polettiis. Asa giddoppe goodettidi, booradan maataa miis. A bollaikka saluwaappe wodhdhiya akkan ka77iis. A binnaanai ankkuwaa baalliyaadan, a xugunttaikka kafuwaa xugunttaadan dicciis.
 “He laappun laittai wurido wode, taani Naabukadanaxoori xoqqu gaada saluwaa xeellaas; ta wozanai kahaikka simmiis. Simmin Ubbaappe Xoqqiya Xoossaa galataas; merinau de7iyaagaakka bonchchaasinne sabbaas. “A maatai merinaa maataa; a kawotettaikka yeletaappe yeletaa gakkanaashiina.
+Sa7an de7iya asai ubbai ayyo aibanne gidenna. Saluwan de7iya kiitanchchatu bollinne sa7an de7iya asaa bolli i ba dosaa oottees. A kushiyaa teqqanau danddayiyaabi baawa, woikko a ‘Ai oottai?’ yaagidi oichchiyaabi baawa.
+“Ta wozanai simmaanne, ta kawotettaa bonchchuwaa gishshau, ta anggainne ta puulai taayyo simmi aggiis. Kase tana zoriyaageetinne ta oosanchchati tana koyidosona. Taani ta kawotettan minnaas; kaseegaappekka aadhdhiya gitatettai taayyo gujettiis.
+“Ha77i simmi taani Naabukadanaxoori saluwaa Kawuwaa galatais; a xoqqu xoqqu oottaisinne bonchchais. Aissi giikko, i oottiyoobai ubbai likke; a ogeti ubbaikka xillo; qassi otoruwan biyaageeta i kaushshanau danddayees” yaagidi xaafiis.
 Issi gallassi Kawoi Belshshaaxaari ba oosanchchatuppe issi sha7atussi gibiraa giigissiis; giigissidi etaara issippe woiniyaa eessaa uyiis.
 Belshshaaxaari woiniyaa eessaa uyidi, ba aawai Naabukadanaxoori Yerusalaamen de7iya Beeta Maqidasiyaappe ehiido worqqaappenne biraappe oosettida ushsha miishshata ehaana mala azaziis. Aissi giikko, inne a oosanchchati, a keettaayetinne a baakkoti ubbai he ushsha miishshatun eessaa uyana mala, i koyiis.
 Yaatin, eti he Yerusalaamen de7iya Xoossaa Beeta Maqidasiyaappe ehiido worqqaappe oosettida ushsha miishshata kawuwaayyo ehiidosona. Ehin kawoi, a oosanchchati, a keettaayetinne a baakkoti he miishshatun tigettida woine eessaa uyidosona.
@@ -21971,6 +21971,7 @@ TAQEEL (mazzanettiis) giyoogee meezaanan mazzanettada, kauyyada beettadasa giyoo
 PAREES (shaahettiis) giyoogee ne kawotettai shaahettidi, Meedoonatuyyoonne Parssetuyyo imettiis giyoogaa” yaagiis.
 Hegaappe guyyiyan, Belshshaaxaari azazin, ochcha teeraa milatiya maayuwaa Daaneela maizzidosona; a qooriyankka worqqa sanssalataa aattidosona; qassi kawotettaa haariya heezzantto asa gidanaadan awaajjidosona.
 He galla qammi morkketi gelidi, Baabiloone Kawuwaa Belshshaaxaara woridosona.
+Worin a kawotettaa Meedooniyaa Daariyoosi ekkiis. He wode Daariyoosayyo laittai usuppun tammanne naa77a.
 Kawoi Daariyoosi ba kawotettaa ubbaa giddon baappe garssaara biittaa haariya xeetanne laatamu asata sunttiyoogee lo77o giidi qoppiis.
 Qassi kawuwaassi aibanne pacissennaadan, he biittaa haariyaageeta xeellana mala, heezzu asata halaqa oottidi dooriis; doorettidaageetuppe issoi Daaneela.
 Daaneeli oosuwaa oottanau bau de7iya dumma eran hara halaqatuppenne biittaa haariyaageetuppe aadhdhidi beettiis. Hegaa gishshau, kawoi a ba kumetta kawotettaa bolli bolla oottidi sunttanau halchchiis.
@@ -21999,7 +22000,6 @@ Hegaappe guyyiyan, Kawoi Daariyoosi asaa ubbaassi, kawotettatussi ubbaassinne du
 “Ta kawotettan de7iya asai ubbai Daaneela Xoossaassi yayyana malanne kokkorana mala, taani awaajuwaa kessaas. “Aissi giikko, i de7o Xoossaa; qassi i merinau de7iyaagaa. A kawotettai mulekka xayenna; a kawotaa maataikka mule attenna.
 I ashsheesinne metuwaappe kessi ekkees. Saluwankka sa7ankka malaataanne oorattabaa oottees. Daaneela gaammotu doonaappe ashshidaagee a!” yaagiis.
 Hegaa gishshau, ha Daaneeli Daariyoosa kawotettaa wodenne Parssiyaa Qiiroosa kawotettaa wode ubban ishalidi de7iis.
-
 Baabiloone Kawoi Belshshaaxaari kawotido koiro laitti, Daaneeli ba arssan zaqqullidi, aimuwaanne ajjuutaa be7iis. I ba aimuwan be7ido aife yohota xaafiis.
 Daaneeli hagaadan yaagidi xaafiis; “Qammi taani ta ajjuutan saluwaappe yiida oiddu carkkoti wogga abbaa bul77akkishin be7aas.
 Qassi issoi issuwaappe dummatiya oiddu gita do7ati abbaappe kiyidosona.
@@ -22170,6 +22170,8 @@ Goomera naa77anttuwaa shahaarada, macca na7iyo yelaasu. Yaatin, GODAI Hoose7a, �
 SHin taani Yihudaa asaassi qarettana; taani GODAN, eta Xoossan, eta ashshanaappe attin, wonddafiyan woikko bisuwan woikko olan woikko paratun woikko paraasatun ashshikke” yaagiis.
 Goomera Loruhaamo xanttaa duuttidoogaappe guyyiyan, haranttuwaa shahaarada, attuma na7aa yelaasu.
 Yaatin, GODAI Hoose7a, “A sunttaa ‘Lo7aama’ yaagada suntta. Aissi giikko, intte ta asa gidekketa; taanikka intte Xoossaa gidikke.
+“Israa7eela asai makkanaunne qoodanau danddayettenna abbaa shafe keena gidana. Etau, ‘Intte ta asa gidekketa’ geetetti odettidosan, ‘Intte de7o Xoossaa naata’ geetettana.
+Yihudaa asainne Israa7eela asai issippe shiiqana; shiiqidi banttau issi halaqaa doorana; dooridi omoodo biittaappe simmananne ishalidi de7ana. Aissi giikko, Iziraa7eela gallassai gita gallassa gidana.
 “Intte ishantta, ‘GODAI inttena, “Ta asa” yaagees’ yaagite. Qassi intte michcheta, ‘GODAI inttena, “Taani intteyyo qarettais” yaagees’ yaagite.
 “Intte aayyiyo zorite; o zorite. Aissi giikko, a ta machcho gidukku; taanikka i azina gidikke. A ba som77uwaa shaaramuxatto bessiyoogaa aggu; ba shaaramuxa oosuwaakka ba xanttatu gidduwaappe diggu.
 Hegee xayikko, a yelettido gallassaadan, taani o xiire kallo ashshana. Qassi melida bazzo biittaadan o oottana; taani o saamuwan worana.
@@ -22193,8 +22195,6 @@ taani ammanettada nena taassi giigissana. Neenikka GODAA erana” yaagees.
 Qassikka GODAI, “He gallassi taani zaaruwaa immana; taani salotussi zaaruwaa immin, eti sa7aassi zaaruwaa immana.
 Sa7aikka kattau, woine eessaunne zaitiyau zaaruwaa immana; immin eti Iziraa7eelau zaaruwaa immana.
 Taani o biittan taassi zerana. Kase taani qarettabeennaarissi ha77i qarettana. Qassi ta asa gidennaageeta, ‘Ta asa’ gaana; etikka tana, ‘Neeni nu Xoossaa’ yaagana” yaagees.
-
-
 GODAI tana, “Israa7eela asai hara xoossatukko simmidi, woiniyaa teeraa melaa lichchakkuwaa siiqishinkka GODAI eta siiqiyoogaadan, ba; baada laggettuwaa siiqada, shaaramuxaidda de7iya beni ne machchiyo neenikka zaarettada siiqa” yaagiis.
 Yaagin taani o tammanne ichchashu xaqara biraaninne xeetanne ishatamu kilo giraame deexxiya gisttiyan shammaas.
 SHammada o, “Neeni shaaramuxennaaninne hara asaara de7ennan tanaara daro wodiyaa de7anau koshshees. Taanikka nenaara de7ana” yaagaas.
@@ -22318,6 +22318,7 @@ Ta asai taappe haakkidi baanau qofaa qachchiis. Huqqunnaa qambbaraa gaasuwan eti
 Taani ta suulliya hanqquwan eta ainne oottikke; qassi Efireema naa77anttuwaa xaissikke. Aissi giikko, taani Xoossappe attin, asa gidikke. Taani Geeshsha Xoossai intte giddon de7ais; inttekko suulo hanqquwan yiikke.
 “Eti GODAA kaallana; ikka gaammodan gudana. I gudiyo wode, a naati arggo baggappe yaana;
 Gibxxe biittaappe kafotudan, Asoore biittaappekka haraphphetudan, paalliiddi yaana. Yin taani eta eta keettan keettan wottana. Taani GODAI hagaa odaas” yaagees.
+Efireema asai wordduwan, Israa7eela asaikka cimuwan tana dooddidosona. Yihudaa asaikka ammanttiya Geeshsha Xoossaa bolli xalttaamiis.
 Efireema asai maalladoppe omarssi gakkanaashin oottiyoobai ubbai, arshshoora yiya carkkuwaa kuucciyoogaa woikko yedettiyoogaa mala go77enna. Eti wordduwaanne makkala oosuwaa darissoosona; Asoore biittaara maachchaa maacettoosona; wogaraa zaitiyaa Gibxxe biitti yeddoosona.
 GODAAYYO Yihudaa asaara mootoi de7ees; i Yaaqooba asaa eta ogiyaadan qaxxayana; eta oosuwaadankka au zaarana.
 Yaaqoobi ba aayee uluwan de7iiddi, ba ishaa ginddiyaa oiqqiis. Qassi gamma gakkidi, Xoossaara baaxetiis;
@@ -22332,7 +22333,6 @@ Gala7aaden nagarai de7ees; Gala7aade asati tumuppe pattennaageeta. Eti Gelggalan
 Yaaqoobi Sooriyaa biitti baqatiis; maccaasa ekkanau keraa oottiis. Maccaasa ekkana gishshau, i yan dorssaa heemmiis.
 GODAI Israa7eela asaa hananabaa yootiyaagaa baggaara Gibxxe biittaappe kessiis; kessidi he hananabaa yootiyaagaa baggaara eta naagiis.
 SHin Efireemi GODAA keehi hanqqetissiis; suuttaa i gussidoogaa acuwaa a Godai a achchana; qassi a cashshaa au zaarana.
-
 Efireema asai haasayido wode, siyida asai yashshau kokkoriis; Israa7eela biittan eti bonchchettida asa. SHin Ba7aala giyo eeqaayyo goinnidosona; he mooruwaa gaasuwan haiqqidosona.
 Ha77ikka nagaraa bolli nagaraa oottoosona; qassi banttau goinnanau, seerissidi misileta medhdhoosona. He misileti hiillan biraappe merettidaageeta; eti ubbaikka kushe hiillai medhdhidoogeeta. Etabaa asai haasayiiddi, “Haa yiite; etayyo yarshshuwaa yarshshite; ha maraa misiliyaakka yerite” yaagees.
 Hegaa daafan eti maallado shaaraa mala, woikko guuran qolettiya maallado xaazaa mala woikko carkkoi audiyaappe denttidi efiyo suulla mala woikko maskkootiyaara kiyiya cuwa mala gidana.
@@ -22348,6 +22348,7 @@ Taani ta hanqquwan intteyyo kawuwaa immaas; immada ta yiilluwan a diggaas.
 Maareti oiqqido maccaasiyaa tuggatiyoogaa mala tuggai a bolli yaana. SHin i eri bainna na7a; aissi giikko, i yelettiyo wodee gakkin, ba aayee uluwaappe wodhdhennan ixxiya na7a mala.
 Eta taani duufuwaappe ashshana; haiquwaa wolqqaappekka wozana. Haiquwau, ne boshati awaanee? Duufuwau, ne bashshai awaanee? “Taani ta asaayyo qarettikke.
 Efireemi ba ishanttu giddon minnikkokka, GODAI yeddido arshsho bagga carkkoi bazzoppe carkkiiddi yaana. Yobare a pulttoti to77ana; a haatta ollatikka melana. Buquraa i minjjiyo keettatun de7iya al77o miishsha ubbai bonqqettana.
+Samaariyaa asai bantta Xoossaa bolli makkalido gishshau, bantta mooruwaa qixaatiyaa ekkanau bessees. Eti bisuwan busakettana; eta guutta naatikka kinchchettana; eta shahaara maccaasatu uloikka phalqqettana” yaagees.
 Israa7eela asau, intte nagaraa gaasuwan xubettidi kunddideta. Intte ha77i GODAAKKO, intte Xoossaakko simmite.
 GODAAKKO simmidi, hagaadan yaagidi woossite; “Nu nagara ubbaappe nuna maara; neeni nuna ne kehatettan shiishsha ekka; yaatin nuuni nu inxxarssan nena galatana.
 Asoore biittai nuna ashshenna; nuuni olaa paratakka toggokko. Nuuni nu kushen medhdhido eeqa misileta mulekka, ‘Hageeti nu xoossata’ gookko. Aawai bainnaageetussi qarettiyai nena” yaagite.
@@ -22357,7 +22358,6 @@ Eta yelaga marati daayana; wogaraadan eti lo77ana. Eta sawoikka Liibaanoosa ziga
 Asai simmidi, ta kuwaa garssan de7ana; kattaa carshshaadan, eti salqqisalqqana; qassi eti woiniyaa turaadan ciyyana; Liibaanoosa woiniyaa eessaadan, deree eriyoobaa gidana.
 Hagaappe sinttan Efireema asai eeqa misileera gaittenna; taani intte woosaa siyananne inttena naagana. Taani irxxa zigaa mala; intteyyo anjjo ubbai taappe beettana” yaagees.
 Aadhdhida erai de7iyo ooninne hagaa akeeko; wozani de7iyo ooninne hagaa ero. GODAA ogee suure; xilloti he ogiyaara hemettoosona. SHin nagaranchchati an xubettoosona.
-
 Putu7eela na7aa Yuu7eelakko GODAI kiittido qaalai hagaa.
 Inttenoo cimatoo, hagaa siyite! Yihudaa biittan de7iya asau ubbau, ezggite! Hagaa malabai intte wode woikko intte aawatu wode hani erii?
 Hegaa intte naatussi yootite; yootin intte naati bantta naatussi yootona; qassi eta naatikka kaalliya yeletaassi yootona.
@@ -22405,32 +22405,32 @@ Kattaa qoxxiyo audetun kattai kumana; woiniyaa eessainne zayitee gum77iyo ollata
 GODAI hagaadan yaagees; “Kase taani intte giddo yeddido, ta wolqqaama wudeti, gonddoti, booleti, gumbburotinne ukkubboti miido laittatu acuwaa taani intteyyo qanxxana.
 Maanau intteyyo daro qumai de7ana. Hegaa gishshau, intte kallananne maalaalissiyaabaa intteyyo oottida GODAA intte Xoossaa sunttaa galatana. Qassi ta asai naa77antto mulekka yeellatenna.
 He wode taani Israa7eela giddon de7iyoogaa, taani GODAI intte Xoossaa gidiyoogaanne taappe attin, hara xoossi bainnaagaa intte erana. Qassi ta asai naa77antto mulekka yeellatenna.
+“Hegaappe guyyiyan hagaadan hanana; taani asa ubbaa bolli ta Ayyaanaa gussana. Intte attuma naatinne intte macca naati hananabaa yootana; intte cimatikka aimuwaa aimottana; intte wodalla naatikka ajjuutaa be7ana.
+He gallassatun ta attuma ashkkaratu bollinne ta macca ashkkaratu bolli taani ta Ayyaanaa gussana.
+“Qassi taani bolla saluwan maalaalissiyaabaa, garssa sa7ankka suuttaa, tamaanne sitti giidi pude denddiya cuwaa bessana.
+Gitanne daroppe yashshiya GODAA gallassai gakkanaappe kase awai xumana; aginaikka suutta milatana.
+He wode hagaadan hanana; GODAA sunttaa xeesiya ubbai attana. GODAI giidoogaadan, Xiyoone Deriyaaninne Yerusalaamen kessi ekkidi attiyaageeti de7ana. Qassi GODAI xeesidoogeeti paxa de7ana.
 “He gallassatuuninne he wodiyan taani Yihudaanne Yerusalaame asaa omooduwaa zaarananne ishalissada wottana.
 Taani kawotettatu ubban de7iya asaa shiishshada, duge Yoosaafixa Wombbaa wottana; wottada eti ta asaa Israa7eela bolli oottido mooro ubbaa gishshau, taani eta yan pirddana. Aissi giikko, eti ta asaa kawotettatu giddon laalidosona; qassi ta biittaakka banttau shaakki ekkidosona;
 ta asaa bollan saamaa yeggidosona; shaaramuxa maccaasaa demmanau, attuma na7aa immidosona; qassi woine eessaa uyanau, macca na7iyo baizzidosona.
 “Inttenoo, Xiiroosa, Sidoonanne Pilisxxeema biittaa asatoo, intte ta bolli ai oottanau qoppidetii? Taani oottidoogaa haluwaa kessanau koyeetii? Hegaa intte koyikko, taani eesotada intte oottido oosuwaa intte bolli zaarana.
 Aissi giikko, intte ta biraanne ta worqqaa ekkideta; ta al77o miishshaakka intte eeqa keettata gelissideta.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Yihudaa biittaa asaanne Yerusalaame katamaa asaa eta biittaappe haassi efiidi, Giriike biittaa asau baizzideta.
+Be7ite, intte baizzido sohuwaappe taani eta ha77i kessana; kessada intte oottidobaa ubbaa intte huuphiyan zaarana.
+Taani intte attuma naatanne intte macca naata Yihudaa biittaa asau aatta immana; qassi etikka haaho biittan de7iya Saaba biittaa asau eta baizzana. Taani GODAI hagaa odaas.
+“Hagaadan yaagidi kawotettatu giddon awaajjite; ‘Olau giigite; mino asata denttettite! Olanchchati shiiqonanne kiyona.
+Intte marashaa biso, intte baacaakka toora kessanau qoxxite! Daafuranchchai, “Taani mino!” yaago.
+Inttenoo, yuushuwan de7iya kawotetta ubbatoo, eesuwan haa yiite; yiidi hegan shiiqite’ yaagite” yaagees. Abeet GODAU, ne olanchchata yaa duge wotta!
+Qassikka GODAI hagaadan yaagees; “Kawotettati denddidi, Yoosaafixa Wombbaa yoona; aissi giikko, Israa7eela yuushuwan de7iya kawotettatu ubbaa bollan pirddanau taani yan uttana.
+Eta iitatettai keehi dariis. Hegaa gishshau, cahaa wodee gakkin baacan cakkiyoogaadan, eta cakkite; woiniyaa aifee gum77iyo ollan kumin yedhdhiyoogaadankka, eta yedhdhite.
+Pirddaa wombban GODAA gallassai gakkiis; hegaa gishshau, daro daro asai pirddaa wombban de7ees.
+He gallassi awainne aginai xumana; xoolinttetikka bantta poo7uwaa genttana.
+“GODAI Xiyoonen gididi guummana; Yerusalaamenkka ba cenggurssaa sissana; saloinne sa7ai kokkorana. SHin GODAI ba asaassi Israa7eelassi baqati attiyo sohonne qato gidana.
+Taani ta geeshsha deriyan Xiyoonen de7iya GODAA intte Xoossaa gidiyoogaa intte he wode erana. Yerusalaame katamai geeshsha gidana; qassi allagati naa77antto Yerusalaame woraajjokkona.
+“He gallassi dereti aife eessaa, woiniyaagaa xokkana; keratikka maattaa goggana. Yihudaa biittan de7iya shaafa ubbaara haattai shohattana. GODAA Beeta Maqidasiyaappe pulttoi goggana; goggidi, SHiixima Zanggaaraa ushshana.
+“Gibxxe biittai baisa gidana; Eedooma biittaikka booddila bazzo gidana. Aissi giikko, eti Yihudaa asaa bolli iitabaa oottidosona; qassi Yihudaa biittan xillo asaa suuttaakka gussidosona.
+SHin Yihudaa biittai merinau, Yerusalaame katamaikka yeleta ubbaa gakkanaashin, asi de7iyo soho gidana.
+Taani haluwaa kessennan aggido eta suuttaa haluwaa biron kessana; aissi giikko, GODAI Xiyoonen de7ees” yaagees.
 Ooziyaani Yihudaa biittan kawo, qassi Yo7aasha na7ai Iyorbbaami Israa7eela biittan kawo gididi de7ido laittan Taqo7a biittan dorssaa heemmiyaageetuppe issoi Amoxi, biittai qaaxxanaappe naa77u laittappe kase Israa7eelabaa be7ido ajjuutai hagaa.
 I hagaadan yaagiis; “GODAI Xiyoone Deriyan gudees; Yerusalaame katamankka ba cenggurssaa sissees. Henttanchchati mehiyaa heemmiyo hentta gadeti meloosona; Qarmmeloosa Deriyaa huuphiyan de7iya irxxaikka shullees” yaagiis.
 GODAI hagaadan yaagees; “Damasqqo asai zaari zaaridi oottido nagaraa gishshau, taani eta qaxxayennan aggikke. Aissi giikko, eti Gala7aade biittaa asaa birata achchaara de7iya gaariyan yettidi qoxxidosona.
@@ -22614,6 +22614,7 @@ SHin markkabiyaa laaggiyaageeti markkabiyaa guyye abbaa dooni kessanau wolqqappe
 Hegaa gishshau, eti hagaadan yaagidi, GODAAKKO waassidosona; “Abeet GODAU, ha bitaniyaa shemppuwaa gishshau, neeni nuna xaissennaadaaninne ha geeshsha suuttaa acuwaakka neeni nuuppe achchennaadan, nuuni nena minttidi woossoos. Aissi giikko, GODAU, neeni ne koyiyoogaadan oottadasa” yaagidosona.
 Hegaappe guyyiyan, Yoonaasa denttidi, abban olidosona; olin abbaa beetai woppu giis.
 Yaatin, asati GODAASSI keehi yayyidosona; GODAASSI yarshshuwaa yarshshidosona; shiiquwaakka shiiqqidosona.
+Yoonaasa mittana mala, issi gita moliyaa GODAI giigissiis; giigissin he moliyaa uluwan Yoonaasi heezzu gallassaanne heezzu qammaa de7iis.
 Yoonaasi moliyaa uluwan de7iiddi, hagaadan yaagidi, GODAAKKO, ba Xoossaakko, woossiis;
 “Taani ta tuggaa giddon de7aidda GODAA xeegaas; xeegin i tau koyiis. Taani Si7ooliyaa ulo giddon de7aidda waassaas; neenikka ta waasuwaa siyadasa.
 Neeni tana ciimma abbaa xaggau duge oladasa; haattai ta yuushuwaa dooddiis; ne dambbalainne ne beetai ta bollaara kanttidosona.
@@ -22624,7 +22625,6 @@ Taani dereti baasettido sohuwaa duge wodhdhaas; biittaaninne a hiraquwan merinau
 Hada eeqatuyyo goinniyaageeti GODAN ammanettiyoogaa aggidosona.
 SHin taani galataara neeyyo yarshshana; taani shiiqqidobaa ubbaakka gattana. Aissi giikko, atotettai GODAAPPE yees” yaagiis.
 Hegaappe guyyiyan, GODAI moliyaa azazin, molee Yoonaasa biittaa bollan cooyiis.
-
 GODAA qaalai naa77anttuwaakka Yoonaasakko hagaadan yaagiiddi yiis;
 “Dendda! Denddada he gita katamaa Nanawe ba; baada taani neeyyo yootiyo qaalaa etayyo markkatta” yaagiis.
 Yaagin Yoonaasi denddidi, GODAA qaalaadan Nanawe biis. Nanawee keehi gita katama; ha gaxaappe ya gaxaa gakkanau heezzu gallassa hemetissees.
@@ -22700,7 +22700,6 @@ Inttenoo, Xiyoone asatoo, maaretai oiqqido maccaaseedan ooliiddi abaraadite. Ais
 SHin ha77i daro kawotettati ne bolli shiiqidosona; shiiqidi, “Yerusalaamee tuno; nu aifeekka Xiyoone dereqqo” yaagoosona.
 SHin eti GODAA qofaa erokkona; a halchchuwaakka akeekokkona. Kattaa qoxxiyo audiyau shiishshido mirqqiyaadan, GODAI eta qaxxayanau shiishshiis.
 GODAI hagaadan yaagees; “Inttenoo, Yerusalaame asatoo, denddite; denddidi, intte morkketa qoxxite. Taani intte kaciyaa birata, intte qinccafiliyaakka nahaase oottana. Intte daro kawotettata kinchcherettana; eti sugettan shiishshidobaa ubbaa intte GODAAYYO dummayana; eta aquwaakka intte sa7a ubbaa Godaayyo immana” yaagees.
-
 Inttenoo, Yerusalaame asatoo, intte olanchchata shiishshite! Aissi giikko, nuuni morkketun doodettida; etikka Israa7eela kaalettiyaagaa gappataa gatiman shocanau hanoosona.
 GODAI hagaadan yaagees; “Nenoo Efiraataa, Beetaliheeme katamau, neeni Yihudaa katamatu giddon guutta; shin au denddoi beniisappe doommidi, merinaappe gididoogee, Israa7eela asaa haariyaagee taayyo neeppe kiyana” yaagees.
 Hegaa gishshau, maaretan oiqettiya maccaasiyaa he na7aa yelana gakkanaashin, GODAI Israa7eela asaa morkketu kushiyan aattidi immana. Hegaappe guyyiyan, omooduwan de7iya a ishantti simmidi, bantta asaara walahettana.
@@ -22715,6 +22714,7 @@ Taani ne biittaa katamata xaissana; ne qatotakka ubbaa laalana.
 Qassi ne kaayuwaa taani xaissana; murunniyaageetikka hagaappe sinttanau ne giddon de7okkona.
 Taani ne eeqa misiletanne ne goinnanau essido shuchchata ne giddoppe xaissana; hagaappe sinttanau neeni ne kushiyan medhdhidobaassi goinnakka.
 Taani Asheero giyo xoossee misiliyaa ne giddoppe xoqollana; ne katamatakka xaissana.
+Taayyo azazettibeenna kawotettatu bolli yiilluwaaninne hanqquwan taani haluwaa kiyana” yaagees.
 GODAI Israa7eela asaara mootettiyoogaa siyite. Abeet GODAU dendda! Denddada xoqqa deretu sinttan pirddetta; neeni giyoobaa keratikka siyona.
 Inttenoo deretoo, inttenoo, sa7ai eqqido mino baasotoo, GODAI mootiyo mootuwaa siyite. GODAI ba asaara mootettees; Israa7eela asaara i palamettees.
 GODAI eta hagaadan yaagees; “Ta asau, taani inttena waatidanaa? Taani intteyyo waanada tooho gididanaa? Ane taayyo odite!
@@ -22765,6 +22765,7 @@ Nanawee, GODAA bolli iitabaa maqqiyaagee, iita zoriyaa zoriyaagee ne giddoppe ki
 GODAI hagaadan yaagees; “Nanaweti minonne cora gidikkokka, xoqolettidi xayana. Yihudaa asau, taani inttena kase tuggayaas; shin hagaappe sinttanau tuggayikke.
 Ha77i taani Asooretu qambbaraa intte morggiyaappe menttana; intte qashettido qashuwaakka taani duuterettana” yaagees.
 Nanawee, GODAI ne bolli pirddido pirddai hagaadan yaagiyaagaa; “Hagaappe sinttanau ne sunttaa xeesissiya zeretti neeyyo de7enna. Ne xoossatu keettan de7iya misiletanne eeqata taani xaissana. Neeni hanttaara gidido gishshau, taani ne duufuwaa bookkana” yaagiyaagaa.
+Be7ite, issi kiitettidaagee lo77o mishiraachchuwaa odiiddinne sarotettaa awaajjiiddi, xoqqa deretu bollaara gakkiis. Inttenoo, Yihudaa asatoo, intte morkketi muleera xayidosona; eti naa77antto intte biittaa woraajjokkona. Hegaa gishshau, intte baalata bonchchite; intte shiiqqidobaakka gattite.
 Nenoo Nanawe katamau, mentterettiyaabai kiyiichchiis! Hegaa gishshau, ne qatuwaa naaga; ne ogiyaakka wochcha; ne gittaa mintta; ne wolqqaakka kuntta.
 Bonqqiyaageeti bonqqidi, eta woiniyaa turaa xaissikkokka, GODAI Israa7eela bonchchuwaa zaaridoogaadan, Yaaqooba bonchchuwaakka zaarana.
 Olanchchatu gonddalleti zo7o; olanchchatikka zo7o maayuwaa maayidosona. Eti olau giigiyo wode, para gaareti tamaa lacuwaadan pholqqu goosona; eti bantta tooraa toomaakka maggulssoosona.
@@ -22778,7 +22779,6 @@ Nanawe katamai baisa gidiis; qassi onidi, bazzo gidiis! Asaa wozanai yashshan se
 Gaammotu geesso mala, wodala gaammoti de7iyo soho malanne attumanne macca gaammoti bantta maratuura eta yashissiyaabi bainnan, yuuyiyo wora mala gidida Nanawe katamai ha77i awan de7ii?
 Gaammoi ba maratussi gidiyaabaa oiqqiis; banaara de7iya macca gaammeessikka mentterettidi immiis. Ba geessuwaa hasi oiqqidoban, ba gonggoluwaakka hasi ehiido ashuwan kunttiis.
 Ubbaappe Wolqqaama GODAI hagaadan yaagees; “Be7a, taani ne bollan denddaas! Taani ne para gaareta taman xuuggana; ne wodala gaammotakka bisoi maana. Neeni hasiyoobaa taani biittaappe xaissana; neeyyo kiitettiyaageetu qaalaikka naa77antto mulekka siyettenna” yaagees.
-
 Daro asaa suuttaa gussida Nanawe katameessi aayye7ana! Worddoi in kumi uttiis. A wolqqan ekkidonne bonqqido duretau qoodi baawa.
 Nanawe katamen lissuwaa arppeelloi, irzzuwaa gonddorssai, paratu adaraasoinne para gaaretu gufettai siyettees.
 Paraasati piriixoosona; bisoi phopholqqattees; tooratikka phooloosona. Daro asai haiqqiis! Ahai ahaa bolli doorettiis! Haiqqidabau qoodi baawa! Hegaara kanttidi biya asaikka ahan xubettees.
@@ -23205,12 +23205,12 @@ Nuuni otorettiyaageeti anjjettishin be7eettees; iitaa oottiyaageetikka ishalidi 
 He wode GODAASSI yayyiyaageeti issoi issuwaara haasayidosona; GODAIKKA ezggidi siyiis. GODAASSI yayyidaageetinne a sunttaakka bonchchidaageeti dogettennaadan, eta hassayissiya maxaafai a sinttan xaafettiis.
 Ubbaappe Wolqqaama GODAI hagaadan yaagees; “Eti tabaa gidana; taani oottiyo gallassi eti taassi dummatida asa gidana; aawai baassi oottiya ba na7aa maariyoogaadan, taani eta maarana.
 He wode intte zaarettidikka xilluwaappenne nagaranchchaappe gidduwan de7iya zawaanne Xoossaassi azazettiyaageetuppenne azazettennaageetuppe gidduwan de7iya zawaa be7ana” yaagees.
-
-
-
-
-
-
+Ubbaappe Wolqqaama GODAI hagaadan yaagees; “Be7ite, coociyaa tamaadan eexxiya gallassai matattiis; otorettiyaageetinne iitaa oottiyaageeti ubbai utula mala gidana. He yiya gallassai eta xuuggana; etayyo xaphuwaa xeeraakka ashshenna.
+SHin intteyyo, ta sunttaassi yayyiyaageetuyyo a qefiyaa giddon pattiyaabai de7iyo xillotettaa awai mokkana. Inttekka qashuwaappe yedettida anqqara galuwaadan buraaqana.
+Taani oottiyo gallassi, nagaranchchati intte tohuwaappe garssa baggaara bidintta mala gidana; inttekka eta yedhdhana. Taani Ubbaappe Wolqqaama GODAI hagaa odais.
+“Israa7eela asai ubbai oottanaadan, Siinaa Deriyaa bollan taani ta ashkkaraa Muuse baggaara azazido azazuwaanne higgiyaa hassayite.
+“Be7ite, gitanne bonchchettida GODAA gallassai yaanaappe kasetada, taani inttessi hananabaa yootiya Eelaasa kiittana.
+Kiittin i yiidi, taani yaada biittaa qanggettan shocennaadan, aawatu wozanaa naatukko, naatu wozanaakka aawatukko zaarana” yaagees.
 Hagee Daawita zarenne Abrahaama zare gidida Yesuus Kiristtoosa yeletaa yootiya maxaafaa.
 Abrahaami Yisaaqa yeliis; Yisaaqi Yaaqooba yeliis; Yaaqoobi Yihudaanne a ishantta yeliis.
 Yihudai Ti7imaaro giyo maccaaseeppe Paareesanne Zaraaha yeliis; Paareesi Hexiroona yeliis; Hexirooni Raama yeliis.
@@ -27691,7 +27691,7 @@ Hagaa kashi giya asi bainnaashin, intte woppu gaanaunne dirbbennan agganau besse
 Aissi giikko, hageeti Beeta Maqidasiyaa miishshaa wuuqqibeennaageeta nu Xoossatakka cayibeennaageeta ehiideta.
 Hegaa gishshau, Dimexiroosinne aara de7iya oosanchchati asa mootanau koyikko, pirdda keettai dooya de7ees; qassi deriyaa haariyaageetikka de7oosona; eti bantta giddon mootettona.
 SHin intte hara yoho koyikko, higgiyaa yaa7an yohuwaa qachchana.
-Aissi giikko, hachchi hanidabaa shabbiretta giidi, Roome biittaa asati nuna mootana; ha shiiquwaukka gaasoi bainna gishshau, nuuni gaaso odanau danddayokko”
+Aissi giikko, hachchi hanidabaa shabbiretta giidi, Roome biittaa asati nuna mootana; ha shiiquwaukka gaasoi bainna gishshau, nuuni gaaso odanau danddayokko” yaagidi yaa7aa denttiis.
 Wocamai irxxidoogaappe guyyiyan, PHauloosi kaalliyaageeta ehiissidi zoriis; eta, “Saro de7ite” giidi, Maqidooniyaa baanau kiyiis.
 He biittaara aadhdhiiddi, qaalaa yootidi, asaa daro minttettidoogaappe guyyiyan, Giriike biittaa yiis.
 I hegan heezzu agina uttidi, markkabiyan Sooriyaa baanau qoppishin, Aihudati bana woranau koyiyoogaa be7idi, Maqidooniyaara guyye simmanau ba qofaa qachchiis.

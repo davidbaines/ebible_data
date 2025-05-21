@@ -926,6 +926,7 @@ Voorts zeide Laban tot Jakob: Zie, deze steenhoop, en zie, de opgerichte steen d
 deze steenhoop zij getuige, en de opgerichte steen zij getuige: voorzeker, ik zal deze steenhoop niet voorbijtrekken naar u toe, en gij zult deze hoop en deze opgerichte steen niet voorbijtrekken naar mij toe, met kwade bedoeling.
 De God van Abraham en de God van Nachor, de God van hun vader, mogen richten tussen ons. Toen zwoer Jakob bij de Vreze van zijn vader Isaak.
 En Jakob bracht een slachtoffer op die berg en nodigde zijn verwanten tot een maaltijd. En zij hielden de maaltijd en overnachtten op de berg.
+De volgende morgen vroeg kuste Laban zijn zonen en dochters en zegende hen, en Laban keerde terug naar zijn woonplaats.
 Ook Jakob ging zijns weegs, en engelen Gods ontmoetten hem.
 Toen hij hen zag, zeide Jakob: Dit is een leger Gods. Daarom noemde hij die plaats Machanaïm.
 En Jakob zond boden voor zich uit tot zijn broeder Esau, naar het land Seïr, het gebied van Edom.
@@ -958,7 +959,6 @@ Daarop vroeg Jakob: Zeg mij toch uw naam. Maar hij antwoordde: Waarom vraagt gij
 En Jakob noemde de plaats Pniël, want (zeide hij) ik heb God gezien van aangezicht tot aangezicht en mijn leven is behouden gebleven.
 En de zon ging over hem op, toen hij door Penuël getrokken was; en hij ging mank aan zijn heup.
 Daarom eten de Israëlieten tot op heden de heupspier niet, die op het heupgewricht ligt, omdat Hij Jakob op het heupgewricht, aan de heupspier, geslagen had.
-
 Jakob nu sloeg zijn ogen op en daar zag hij Esau aankomen, en met hem vierhonderd man. Toen verdeelde hij de kinderen onder Lea en Rachel en de beide slavinnen.
 Hij plaatste de slavinnen en haar kinderen vooraan, Lea en haar kinderen daarachter, en Rachel en Jozef achteraan.
 En zelf ging hij voor hen uit en boog zich zevenmaal ter aarde, totdat hij bij zijn broeder gekomen was.
@@ -1709,10 +1709,6 @@ Maar de Egyptische geleerden deden door hun toverkunsten hetzelfde, zodat het ha
 Farao wendde zich af, ging naar huis en nam ook dit niet ter harte.
 Alle Egyptenaren echter groeven in de omgeving van de Nijl naar water om te drinken, want Nijlwater konden zij niet drinken.
 Zo verliepen zeven volle dagen, nadat de Here de Nijl geslagen had.
-
-
-
-
 Daarna zeide de Here tot Mozes: Ga tot Farao en zeg tot hem: zó zegt de Here: laat mijn volk gaan, om Mij te dienen;
 indien gij weigert het te laten gaan, zal Ik uw gehele gebied met kikvorsen teisteren.
 De Nijl zal wemelen van kikvorsen, zij zullen komen opzetten en in uw huis en slaapkamer binnendringen, ja, op uw bed, en in de huizen van uw dienaren en onder uw volk, ja, in uw bakovens en baktroggen.
@@ -1741,6 +1737,10 @@ Toen ontbood Farao Mozes en Aäron en zeide: Gaat, offert aan uw God in dit land
 Maar Mozes zeide: Het is onmogelijk zo te doen, wij zouden aan de Here, onze God, offeren, wat de gruwel der Egyptenaren is. Wanneer wij datgene, wat de gruwel der Egyptenaren is, voor hun ogen zouden offeren, zouden zij ons dan niet stenigen?
 Wij willen drie dagreizen ver de woestijn intrekken en de Here, onze God, offers brengen, zoals Hij ons gezegd heeft.
 Toen zeide Farao: Ik zal u laten gaan om aan de Here, uw God, in de woestijn te offeren; slechts moogt gij niet al te ver weggaan. Bidt voor mij.
+Toen zeide Mozes: Zie, ik ga van u heen en zal tot de Here bidden, en de steekvliegen zullen Farao, zijn dienaren en zijn volk, morgen verlaten; alleen, dat Farao niet langer bedrieglijk handele, door het volk niet te laten gaan om de Here een offer te brengen.
+Daarop ging Mozes van Farao heen en bad de Here.
+En de Here deed naar het woord van Mozes: de steekvliegen verlieten Farao, zijn dienaren en zijn volk; niet één bleef er over.
+Toch liet Farao zijn hart ook ditmaal niet vermurwen; hij liet het volk niet gaan.
 En de Here zeide tot Mozes: Ga tot Farao en spreek tot hem: zó zegt de Here, de God der Hebreeën: laat mijn volk gaan om Mij te dienen.
 Want indien gij weigert hen te laten gaan en hen nog weerhoudt,
 dan zal de hand des Heren zijn tegen uw vee, dat in het veld is, tegen de paarden, de ezels, de kamelen, de runderen en het kleinvee, – een zeer zware pest.
@@ -2112,7 +2112,6 @@ Wanneer iemand een put opent, of wanneer iemand een put graaft, zonder die te be
 dan zal de eigenaar van de put vergoeding geven: hij zal er geld voor teruggeven aan de eigenaar ervan, maar het dode dier zal zijn eigendom zijn.
 Wanneer iemands rund het rund van zijn naaste stoot, zodat het sterft, dan zal men het levende rund verkopen en zijn prijs verdelen en ook het dode dier zal men verdelen.
 Of als het bekend was, dat het rund reeds vroeger stotig was, en als zijn eigenaar het desondanks niet bewaakte, dan zal hij volledig rund voor rund vergoeden, doch het dode dier zal zijn eigendom zijn.
-
 Wanneer iemand een rund of een stuk kleinvee steelt en het slacht of verkoopt, dan zal hij vijf stuks rundvee als vergoeding geven voor het rund en vier stuks kleinvee voor het stuk kleinvee.
 Indien een dief bij een inbraak betrapt en zo getroffen wordt, dat hij sterft, dan rust daarop geen bloedschuld;
 indien de zon was opgegaan, rust daarop wel bloedschuld. Hij zal volledig vergoeding geven; indien hij niets heeft, zal hij verkocht worden om wat hij gestolen heeft.
@@ -2143,6 +2142,7 @@ want dat is zijn enige bedekking, dat is de bekleding voor zijn huid – waarin 
 De goden zult gij niet vervloeken en een vorst onder uw volk zult gij niet verwensen.
 Gij zult niet talmen, van uw graan- en van uw wijnoogst te geven. De eerstgeborene van uw zonen zult gij Mij geven.
 Evenzo zult gij doen met uw runderen en met uw kleinvee: zeven dagen zullen zij bij de moeder blijven, op de achtste dag zult gij ze Mij geven.
+Gij zult Mij heilige mensen zijn; vlees van dieren, die in het veld verscheurd zijn, zult gij niet eten, gij zult het voor de honden werpen.
 Gij zult geen vals gerucht verbreiden; gij moogt de schuldige niet helpen als misdadig getuige.
 Gij zult de meerderheid in het kwade niet volgen, noch in een rechtsgeding getuigenis afleggen met de meerderheid mee, om het recht te buigen.
 Ook zult gij een onaanzienlijke niet voortrekken in zijn rechtsgeding.
@@ -2848,13 +2848,6 @@ En het heilige waartegen hij gezondigd heeft, zal hij vergoeden en daaraan een v
 Indien iemand zondigt en doet één van de dingen die de Here verboden heeft, zonder dat hij het weet, dan is hij toch schuldig en draagt zijn ongerechtigheid.
 Hij zal een gave ram van het kleinvee, in waarde geschat, ten schuldoffer tot de priester brengen, en de priester zal verzoening over hem doen voor wat hij zonder opzet gedaan heeft, zonder dat hij het wist, en het zal hem vergeven worden.
 Het is een schuldoffer; hij heeft de Here zijn schuld volkomen geboet.
-
-
-
-
-
-
-
 De Here sprak tot Mozes:
 Wanneer iemand zonde doet en ontrouw wordt jegens de Here, en tegenover zijn volksgenoot ontkent, dat hij iets in bewaring heeft, of dat hem iets is ter hand gesteld, of dat hij iets weggeroofd heeft;
 of hij heeft zijn volksgenoot iets afgeperst, of hij heeft iets dat verloren was, gevonden en hij ontkent het, en doet een valse eed ten opzichte van enige zaak die een mens doen kan, zodat hij zich daaraan bezondigt,
@@ -2878,6 +2871,13 @@ Dit is de offergave, die Aäron en zijn zonen de Here zullen brengen op de dag, 
 Het zal op een bakplaat in olie bereid worden, gij zult het doorgeroerd brengen, als een spijsoffer, aan brokken zult gij het offeren, tot een liefelijke reuk voor de Here.
 En de priester, die uit zijn zonen in zijn plaats de gezalfde zal zijn, zal dit doen; het is een altoosdurende inzetting, het zal geheel voor de Here verbrand worden.
 Elk spijsoffer van een priester zal geheel verbrand worden, het zal niet worden gegeten.
+De Here sprak tot Mozes:
+Spreek tot Aäron en zijn zonen: Dit is de wet op het zondoffer: ter plaatse waar het brandoffer geslacht wordt, zal ook het zondoffer geslacht worden voor het aangezicht des Heren, het is allerheiligst.
+De priester die het als zondoffer offert, zal het eten; op een heilige plaats zal het gegeten worden, in de voorhof van de tent der samenkomst.
+Al wat met het vlees daarvan in aanraking komt, zal heilig zijn, en als iets van het bloed ervan op een kledingstuk spat, zult gij hetgeen waarop het spatte, op een heilige plaats wassen.
+En het aarden vat waarin het gekookt is, zal stukgeslagen worden, en indien het in een koperen vat gekookt is, dan zal dit geschuurd en met water gespoeld worden.
+Allen die van het mannelijk geslacht zijn onder de priesters, zullen het eten, het is allerheiligst.
+Maar geen zondoffer, van welks bloed in de tent der samenkomst gebracht werd om in het heiligdom verzoening te doen, zal gegeten worden; met vuur zal het verbrand worden.
 Dit is de wet op het schuldoffer: het is allerheiligst.
 Ter plaatse waar men het brandoffer slacht, zal men het schuldoffer slachten; en het bloed daarvan zal men rondom op het altaar sprengen.
 Al het vet daarvan zal men offeren, de vetstaart en het vet dat de ingewanden bedekt.
@@ -4228,6 +4228,21 @@ en de aarde opende haar mond en verzwolg hen met hun huisgezinnen en met alle me
 Zo daalden zij, met al de hunnen, levend in het dodenrijk; en de aarde overdekte hen, zodat zij uit het midden der gemeente omkwamen.
 En alle Israëlieten die om hen heen stonden, vluchtten weg op hun geroep, want zij dachten: De aarde moest ook ons eens verzwelgen!
 Toen ging er een vuur uit van de Here en verteerde de tweehonderd vijftig mannen, die het reukwerk geofferd hadden.
+De Here nu sprak tot Mozes:
+Zeg tot Eleazar, de zoon van de priester Aäron, dat hij de vuurpannen uit de brand wegneme, en strooi het vuur ver weg, omdat zij heilig zijn,
+te weten de vuurpannen dergenen die ten koste van hun leven gezondigd hebben, en maakt deze tot dunne platen, tot een overtrek voor het altaar, want zij hebben ze voor het aangezicht des Heren gebracht, zodat deze geheiligd zijn; zo zullen zij de Israëlieten tot een teken zijn.
+Toen nam de priester Eleazar de koperen vuurpannen, welke zij die verbrand waren, hadden gebracht en men plette ze tot een overtrek voor het altaar,
+een herinnering voor de Israëlieten, opdat geen onbevoegde, die niet behoort tot de nakomelingen van Aäron, nadere om reukwerk te branden voor het aangezicht des Heren, en het hem niet verga als Korach en zijn aanhang, zoals de Here tot hem gesproken had door de dienst van Mozes.
+De volgende dag echter morde de gehele vergadering der Israëlieten tegen Mozes en Aäron, zeggende: Gij hebt het volk des Heren gedood.
+Toen nu de vergadering tegen Mozes en Aäron te hoop liep, en zij zich naar de tent der samenkomst wendden, zie, de wolk bedekte haar en de heerlijkheid des Heren verscheen.
+Toen kwamen Mozes en Aäron tot vóór de tent der samenkomst.
+De Here dan sprak tot Mozes:
+Trekt u terug uit deze vergadering, opdat Ik haar in één ogenblik vertere. Toen wierpen zij zich neder op hun aangezicht.
+En Mozes zeide tot Aäron: Neem een vuurpan, doe er vuur in van het altaar, leg er reukwerk op, en ga haastig tot de vergadering en doe verzoening over hen, want de toorn is van de Here uitgegaan, de plaag is begonnen.
+Aäron nam (een vuurpan), zoals Mozes gesproken had, en snelde tot midden onder de gemeente, en zie, de plaag was onder het volk begonnen; toen legde hij er reukwerk op en deed verzoening over het volk.
+Toen hij tussen de doden en de levenden stond, hield de plaag op.
+En zij, die gestorven waren door de plaag, waren veertienduizend zevenhonderd, behalve degenen die gestorven waren terzake van Korach.
+Toen Aäron tot Mozes terugkeerde aan de ingang van de tent der samenkomst, had de plaag opgehouden.
 De Here sprak tot Mozes:
 Spreek tot de Israëlieten en neem van hen voor elke stam één staf van al hun vorsten, naar hun stammen twaalf staven; ieders naam zult gij op zijn staf schrijven;
 maar de naam van Aäron zult gij op de staf van Levi schrijven, want één staf dient voor het hoofd van hun stam.
@@ -4241,21 +4256,6 @@ En de Here zeide tot Mozes: Breng de staf van Aäron terug vóór de getuigenis,
 En Mozes deed het: zoals de Here hem geboden had, deed hij.
 De Israëlieten immers hadden tot Mozes gezegd: Zie wij geven de geest, wij komen om, wij komen allen om.
 Al wie ook maar nadert tot de tabernakel des Heren, zal sterven. Moeten wij dan tot de laatste man de geest geven?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 De Here nu zeide tot Aäron: Gij en uw zonen en uw familie met u zult de ongerechtigheid, tegen het heiligdom begaan, dragen; en gij en uw zonen zult de ongerechtigheid, in uw priesterambt begaan, dragen.
 Doe ook uw broederen, de stam Levi, de stam van uw vader, met u naderen, opdat zij zich bij u aansluiten en u, zowel als uw zonen dienen, vóór de tent der getuigenis;
 opdat zij hun taak vervullen jegens u, zowel als hun taak met betrekking tot de gehele tent; tot het gerei van het heiligdom en tot het altaar echter, zullen zij niet naderen, opdat zij niet sterven, niet alleen zij, maar ook gij;
@@ -4647,6 +4647,7 @@ Dan zult gij een brandoffer brengen, een vuuroffer, een liefelijke reuk voor de 
 het bijbehorend spijsoffer en de bijbehorende plengoffers bij de stier, bij de ram en bij de schapen naar hun aantal, volgens het voorschrift;
 en één bok als zondoffer, ongeacht het dagelijks brandoffer en het bijbehorend spijsoffer en het bijbehorend plengoffer.
 Dit zult gij voor de Here op uw feesten bereiden als uw brandoffers, uw spijsoffers, uw plengoffers en uw vredeoffers, behalve uw gelofteoffers en uw vrijwillige offers.
+En Mozes sprak tot de Israëlieten naar alles wat de Here Mozes geboden had.
 En Mozes sprak tot de stamhoofden der Israëlieten: Dit is het woord, dat de Here geboden heeft.
 Wanneer een man de Here een gelofte doet of een eed zweert, waardoor hij een verplichting op zich neemt, dan zal hij zijn woord niet schenden; geheel zoals hij het uitgesproken heeft, zal hij doen.
 Maar wanneer een vrouw de Here een gelofte gedaan en een verplichting op zich genomen heeft in haars vaders huis in haar jeugd,
@@ -4663,7 +4664,6 @@ Elke gelofte en elke verplichting onder ede om zichzelf te verootmoedigen, zal h
 Zwijgt echter haar man van dag tot dag geheel tegen haar, dan bekrachtigt hij al haar geloften of al de verplichtingen die op haar rusten; hij bekrachtigt ze, omdat hij tegen haar zwijgt, wanneer hij het hoort.
 Maar maakt hij ze nadrukkelijk ongeldig, nadat hij ze gehoord heeft, dan zal hij haar ongerechtigheid dragen.
 Dit zijn de inzettingen, die de Here Mozes geboden heeft over de verhouding van een man tot zijn vrouw, en van een vader tot zijn dochter in haar jeugd, in het huis van haar vader.
-
 De Here sprak tot Mozes:
 Neem voor de Israëlieten wraak op de Midjanieten; daarna zult gij tot uw voorgeslacht vergaderd worden.
 Toen sprak Mozes tot het volk: Laat een aantal mannen van u zich ten strijde toerusten, dat zij zich tegen Midjan keren om de wraak des Heren aan Midjan te voltrekken.
@@ -5271,6 +5271,7 @@ Luister aandachtig naar al deze geboden, die ik u geef; opdat het u en uw kinder
 Wanneer de Here, uw God, de volken, naar wier gebied gij trekt om hen te verdrijven, uitgeroeid heeft, en gij hun gebied in bezit genomen hebt en in hun land woont,
 neem u er dan voor in acht, dat gij u niet laat verleiden na hun verdelging hun voorbeeld te volgen, en dat gij hun goden niet zoekt, zeggende: hoe dienden deze volken hun goden? zo wil ik het ook doen.
 Niet alzo zult gij de Here, uw God, dienen; want al wat de Here een gruwel is, wat Hij haat, doen zij voor hun goden; zelfs hun zonen en hun dochters verbranden zij voor hun goden met vuur.
+Al wat ik u gebied, zult gij naarstig onderhouden; gij zult daaraan niet toedoen, noch daarvan afdoen.
 Wanneer onder u een profeet optreedt of iemand, die dromen heeft, en hij u een teken of een wonder aankondigt,
 en het teken of het wonder komt, waarover hij u gesproken heeft met de woorden: laten wij andere goden achterna lopen, die gij niet gekend hebt, en laten wij hen dienen –
 dan zult gij naar de woorden van die profeet of van die dromer niet luisteren; want de Here, uw God, stelt u op de proef om te weten, of gij de Here, uw God, liefhebt met uw ganse hart en met uw ganse ziel.
@@ -5289,7 +5290,6 @@ dan zult gij de inwoners van die stad zeker slaan met de scherpte des zwaards, d
 De gehele buit zult gij midden op het plein bijeenbrengen en gij zult de stad met de gehele buit met vuur verbranden als een volledig brandoffer voor de Here, uw God: zij zal altoos een puinhoop blijven en niet herbouwd worden;
 ook zal niets van het gebannene aan uw hand kleven; opdat de Here zijn brandende toorn late varen, u barmhartigheid betone, Zich over u erbarme en u talrijk make, zoals Hij uw vaderen gezworen heeft;
 want dan luistert gij naar de stem van de Here, uw God, om al zijn geboden te onderhouden, die ik u heden opleg – door te doen wat recht is in de ogen van de Here, uw God.
-
 Gij zijt kinderen van de Here, uw God; gij zult uzelf om een dode geen insnijdingen toebrengen, noch het haar boven uw voorhoofd wegscheren;
 want gij zijt een volk, dat de Here, uw God, heilig is, en u heeft de Here uitverkoren om Hem een eigen volk te zijn uit al de volken, die op de aardbodem wonen.
 Gij zult niets eten, dat een gruwel is.
@@ -5499,6 +5499,7 @@ het meisje echter zult gij niets doen, aan het meisje kleeft geen zonde, waarop 
 Want hij heeft haar in het veld ontmoet; het ondertrouwde meisje heeft om hulp geroepen, maar er was niemand, die haar te hulp kwam.
 Wanneer een man een meisje ontmoet, dat nog maagd is en niet ondertrouwd, haar aangrijpt en gemeenschap met haar heeft, en zij worden betrapt –
 dan zal de man, die bij haar gelegen heeft, aan de vader van het meisje vijftig zilverlingen geven, en zij zal hem tot vrouw zijn, omdat hij haar onteerd heeft; hij zal haar niet mogen wegzenden, zolang hij leeft.
+Een man zal de vrouw van zijn vader niet nemen noch het dek van zijn vader opslaan.
 Hij, die door kneuzing ontmand is of wie het mannelijk lid is afgesneden, zal niet in de gemeente des Heren komen.
 Een bastaard zal niet in de gemeente des Heren komen; zelfs zijn tiende geslacht zal niet in de gemeente des Heren komen.
 Een Ammoniet of Moabiet zal niet in de gemeente des Heren komen; zelfs hun tiende geslacht zal nimmer in de gemeente des Heren komen,
@@ -5524,7 +5525,6 @@ Maar, wanneer gij u onthoudt van het doen van een gelofte, bezondigt gij u niet.
 Wat over uw lippen gegaan is, moet gij stipt volbrengen; gij hebt immers de Here, uw God, volkomen vrijwillig een gelofte gedaan, die gij hebt uitgesproken met eigen mond.
 Wanneer gij in de wijngaard van uw naaste komt, dan moogt gij om u te verzadigen druiven eten, zoveel gij wilt, maar gij moogt ze niet ergens in meenemen.
 Wanneer gij in het staande koren van uw naaste komt, moogt gij aren plukken met uw hand, maar de sikkel moogt gij in het staande koren van uw naaste niet slaan.
-
 Wanneer iemand een vrouw genomen en gehuwd heeft, dan zal, – als hij haar geen genegenheid toedraagt, omdat hij iets onbehoorlijks aan haar gevonden heeft, en hij een scheidbrief geschreven en haar die overhandigd heeft, waarna hij haar uit zijn huis heeft weggezonden;
 en als zij dan uit zijn huis vertrokken, haars weegs gegaan en de vrouw van een ander geworden is;
 en als dan de laatste man een afkeer van haar krijgt, een scheidbrief schrijft, haar die overhandigt en haar uit zijn huis wegzendt; of als de laatste man, die haar tot vrouw genomen heeft, gestorven is –
@@ -5679,7 +5679,6 @@ Gij zult onder die volken geen rust vinden noch een rustplaats voor uw voetzool;
 Zonder ophouden zal uw leven in gevaar verkeren; des nachts en des daags zult gij opschrikken en van uw leven niet zeker zijn.
 Des morgens zult gij zeggen: Was het maar avond; en des avonds: Was het maar morgen – vanwege de vrees, die uw hart vervult, en vanwege het schouwspel, dat uw ogen zien.
 De Here zal u op schepen naar Egypte terugbrengen langs de weg, waarvan Ik u gezegd had: Gij zult die nooit weerzien; gij zult daar aan uw vijanden als slaven en slavinnen te koop aangeboden worden, maar er zal geen koper zijn.
-
 Dit zijn de woorden van het verbond dat de Here Mozes geboden heeft met de Israëlieten te sluiten in het land Moab, naast het verbond dat Hij met hen bij Horeb gesloten had.
 Mozes dan riep geheel Israël tot zich en zeide tot hen: Gij hebt alles gezien wat de Here in het land Egypte voor uw ogen Farao, al zijn dienaren en zijn gehele land heeft aangedaan:
 de grote beproevingen, die gij met eigen ogen gezien hebt, die grote tekenen en wonderen.
@@ -5708,6 +5707,7 @@ En men zal antwoorden: Omdat zij verlaten hebben het verbond van de Here, de God
 en omdat zij andere goden zijn gaan dienen en zich daarvoor hebben neergebogen, goden, die zij niet gekend hebben en die Hij hun niet toebedeeld had –
 dáárom is de toorn des Heren tegen dit land ontbrand om daarover heel de vervloeking te brengen, die in dit boek opgetekend staat:
 de Here heeft hen in toorn en grimmigheid en grote verbolgenheid uit hun land gerukt en hen weggeslingerd naar een ander land, zoals dit thans het geval is.
+De verborgen dingen zijn voor de Here, onze God, maar de geopenbaarde zijn voor ons en onze kinderen voor altijd, opdat wij al de woorden dezer wet volbrengen.
 Wanneer dan al deze dingen over u komen, de zegen en de vloek, die ik u voorgehouden heb, en gij dit ter harte neemt te midden van al de volken, naar wier gebied de Here, uw God, u verdreven heeft,
 en wanneer gij u dan tot de Here, uw God, bekeert en naar zijn stem luistert overeenkomstig alles wat ik u heden gebied, gij en uw kinderen, met geheel uw hart en met geheel uw ziel –
 dan zal de Here, uw God, in uw lot een keer brengen en Zich over u erbarmen; Hij zal u weer bijeenbrengen uit al de volken, naar wier gebied de Here, uw God, u verstrooid heeft.
@@ -7771,6 +7771,7 @@ Daarop riep Jonatan de jongen na: Vlug, maak haast, blijf niet staan! Toen raapt
 De jongen wist van niets; slechts Jonatan en David wisten, waarom het ging.
 Daarna gaf Jonatan zijn wapens aan de jongen die hem vergezelde, en beval hem: Ga heen, breng ze naar de stad.
 De jongen ging naar huis. Toen kwam David aan de zuidzijde te voorschijn en wierp zich op zijn aangezicht ter aarde en boog zich driemaal neer. Zij kusten elkander en weenden met elkander. Ten slotte vermande David zich.
+
 Daarna zeide Jonatan tot David: Ga in vrede; daar wij immers beiden in de naam des Heren elkander gezworen hebben: de Here zal tussen mij en u staan en tussen mijn en uw nakomelingen voor altijd.
 David kwam te Nob bij de priester Achimelek. Toen ging Achimelek David bevende tegemoet en vroeg hem: Waarom zijt gij alleen en is er niemand bij u?
 David antwoordde de priester Achimelek: De koning heeft mij iets opgedragen en tot mij gezegd: niemand mag ook maar iets weten van de zaak waarvoor ik u uitzend en die ik u heb opgedragen. De manschappen heb ik ergens heengezonden.
@@ -7787,7 +7788,6 @@ David sloeg acht op deze woorden en werd zeer bevreesd voor Akis, de koning van 
 Daarom stelde hij zich in hun tegenwoordigheid aan als een waanzinnige en gedroeg zich bij hen als een razende; hij bekrabbelde de deurvleugels van de poort en liet het speeksel in zijn baard lopen.
 Toen zeide Akis tot zijn dienaren: Zie, gij merkt toch, dat de man krankzinnig is?
 Waarom brengt gij hem bij mij? Heb ik gebrek aan krankzinnigen, dat gij mij deze gebracht hebt om bij mij uit te razen? Moet zo iemand in mijn huis komen?
-
 David ging vandaar weg en ontkwam naar de spelonk van Adullam. Toen zijn broeders en zijn gehele familie dit hoorden, kwamen zij daar bij hem.
 Ook voegde zich bij hem ieder die in moeilijkheden verkeerde, ieder die een schuldeiser had, ieder die verbitterd was, en hij werd hun aanvoerder. Zij bleven bij hem, ongeveer vierhonderd man.
 Vandaar ging David naar Mispe in Moab en zeide tot de koning van Moab: Laat mijn vader en mijn moeder toch bij u mogen komen, totdat ik weet, wat God met mij voor heeft.
@@ -7839,6 +7839,7 @@ Toen Saul met zijn mannen David ging zoeken, meldde men dit aan hem, en hij trok
 Saul ging langs de ene en David met zijn mannen langs de andere zijde van de berg. David trachtte in allerijl aan Saul te ontkomen; en reeds stond Saul met zijn mannen op het punt David en diens mannen te omsingelen en te grijpen,
 toen er een bode tot Saul kwam met de tijding: Trek haastig weg, want de Filistijnen zijn het land binnengevallen.
 Daarop keerde Saul terug van de achtervolging van David en trok de Filistijnen tegemoet. Daarom noemt men die plaats: Rots der Ontkoming.
+
 David trok vandaar en hield verblijf in de bergvestingen van Engedi.
 Toen Saul teruggekeerd was van de vervolging der Filistijnen, deelde men hem mee: Zie, David is in de woestijn van Engedi.
 Daarop nam Saul drieduizend uitgelezen mannen uit geheel Israël, en ging heen om David en zijn mannen te zoeken bij de Steenbokrotsen.
@@ -7860,8 +7861,7 @@ Hij zeide tot David: Gij zijt rechtvaardiger dan ik, want gij hebt mij goed geda
 gij hebt heden getoond, hoezeer gij mij goed hebt gedaan: hoewel de Here mij in uw macht had overgeleverd, hebt gij mij niet gedood.
 Wanneer iemand zijn vijand aantreft, zal hij hem dan ongehinderd laten gaan? De Here moge u belonen voor wat gij mij heden gedaan hebt.
 Nu dan, zie, ik weet, dat gij zeker koning zult worden en dat het koningschap over Israël in uw hand bestendig zal zijn.
-Zweer mij dan bij de Here, dat gij mijn nakomelingen niet zult uitroeien noch mijn naam uit mijn familie zult uitdelgen.
-En David zwoer dit aan Saul. Toen ging Saul naar zijn huis, maar David en zijn mannen togen naar de bergvesting.
+Zweer mij dan bij de Here, dat gij mijn nakomelingen niet zult uitroeien noch mijn naam uit mijn familie zult uitdelgen. En David zwoer dit aan Saul. Toen ging Saul naar zijn huis, maar David en zijn mannen togen naar de bergvesting.
 Samuël stierf. Toen kwam geheel Israël bijeen, bedreef rouw over hem en begroef hem in zijn huis te Rama. En David ging op weg en trok naar de woestijn Paran.
 Nu woonde er in Maon een man, die te Karmel zijn bedrijf had. Die man was zeer rijk: hij bezat drieduizend schapen en duizend geiten. Hij was te Karmel bij het scheren van zijn schapen.
 De man heette Nabal en zijn vrouw Abigaïl. De vrouw had een goed verstand en was schoon van gestalte, maar de man was hard en ruw in zijn optreden. Hij was een Kalebiet.
@@ -8511,6 +8511,7 @@ Toen vroeg de koning: Is het wel met de jongeling, met Absalom? Achimaäs antwoo
 Daarop zeide de koning: Treed terzijde, ga hier staan. Hij trad terzijde en bleef daar staan.
 En zie, toen kwam de Ethiopiër. De Ethiopiër zeide: Mijn heer de koning ontvangt een goede tijding, want de Here heeft u heden recht verschaft tegenover allen die tegen u waren opgestaan.
 Maar de koning vroeg de Ethiopiër: Is het wel met de jongeling, met Absalom? En de Ethiopiër antwoordde: Mogen de vijanden van mijn heer de koning en allen die tegen u zijn opgestaan om kwaad te doen, worden als die jongeling.
+Toen ontroerde de koning; hij ging naar het bovenvertrek van de poort en weende. En terwijl hij heen en weer liep, sprak hij: Mijn zoon Absalom, mijn zoon, mijn zoon Absalom! Och, dat ik in uw plaats gestorven ware, Absalom, mijn zoon, mijn zoon!
 En aan Joab werd meegedeeld: Zie, de koning weent en treurt over Absalom.
 Op die dag verkeerde de overwinning voor al het volk in rouw, daar het op die dag hoorde zeggen: De koning heeft smart om zijn zoon.
 Daarom kwam het volk op die dag steelsgewijze de stad binnen, zoals krijgsvolk doet, dat zich schaamt als het gevlucht is uit de strijd.
@@ -8554,7 +8555,6 @@ Daarna trok de koning voort naar Gilgal, en Kimham trok met hem mee. Al het volk
 En zie, alle mannen van Israël kwamen tot de koning en zeiden tot hem: Waarom hebben onze broeders, de mannen van Juda, u ontvoerd en de koning en zijn huis, benevens al de mannen van David met hem, over de Jordaan gebracht?
 Toen antwoordden alle mannen van Juda de mannen van Israël: Omdat de koning aan ons verwant is. Waarom wordt gij dan toornig hierover? Hebben wij soms op kosten van de koning gegeten? Hebben wij soms enig voordeel genoten?
 Maar de mannen van Israël antwoordden de mannen van Juda: Wij hebben tienmaal meer recht op de koning, ja op David, dan gij. Waarom hebt gij ons veracht? Stond het niet allereerst aan ons onze koning te doen terugkeren? Maar de woorden van de mannen van Juda hadden meer kracht dan die van de mannen van Israël.
-
 Nu was daar bij geval een nietswaardig man, Seba geheten, de zoon van Bikri, een Benjaminiet. Deze blies op de hoorn en zeide: Wij hebben geen deel aan David, geen erfbezit met de zoon van Isaï; ieder naar zijn tenten, Israël!
 Toen trokken alle mannen van Israël van David weg, Seba, de zoon van Bikri, achterna; maar de mannen van Juda bleven hun koning trouw volgen van de Jordaan af tot Jeruzalem.
 Toen David in zijn paleis te Jeruzalem was gekomen, nam de koning de tien vrouwen, de bijvrouwen die hij achtergelaten had om toezicht te houden op het paleis, en stelde ze onder bewaking. Hij voorzag in haar onderhoud, maar kwam niet tot haar. Zij bleven als in weduwschap afgezonderd tot de dag van haar dood toe.
@@ -8865,6 +8865,20 @@ Josafat, de zoon van Paruach, in Issakar;
 Simi, de zoon van Ela, in Benjamin;
 Geber, de zoon van Uri, in het land Gilead, het land van Sichon, de koning der Amorieten, en van Og, de koning van Basan, en wel als enige landvoogd in dit land.
 Juda en Israël waren talrijk als het zand aan de zee in menigte; zij aten en dronken en waren blijde.
+En Salomo was heerser over al de koninkrijken van de Rivier af tot het land der Filistijnen, tot de grens van Egypte; zij brachten geschenken en dienden Salomo, zijn leven lang.
+De spijze nu van Salomo voor één dag bedroeg: dertig kor fijn meel en zestig kor meel,
+tien gemeste runderen en twintig weiderunderen en honderd schapen, behalve herten, gazellen, damherten en gemeste ganzen,
+want hij heerste over alles aan deze zijde van de Rivier, van Tifsach tot Gaza, over alle koningen aan deze zijde van de Rivier, en hij had vrede rondom aan alle zijden,
+zodat Juda en Israël gerust woonden, ieder onder zijn wijnstok en onder zijn vijgeboom, van Dan tot Berseba, gedurende het gehele leven van Salomo.
+Voorts had Salomo veertigduizend kribben voor de paarden van zijn wagenpark, en twaalfduizend ruiters.
+En die landvoogden voorzagen koning Salomo en allen die aan de tafel van koning Salomo kwamen, van spijze, ieder in zijn maand; zij lieten niets ontbreken.
+En de gerst en het stro voor de trekpaarden en renpaarden brachten zij naar de plaats, waar het wezen moest, ieder volgens het hem gegeven voorschrift.
+En God gaf Salomo wijsheid en zeer veel verstand en een begrip, zo wijd als het zand aan de oever der zee,
+zodat de wijsheid van Salomo groter was dan die van allen uit het Oosten, en dan al de wijsheid van Egypte.
+Ja, hij was wijzer dan alle mensen, dan de Ezrachiet Etan en Heman en Kalkol en Darda, de zonen van Machol, zodat hij naam had onder al de volken rondom.
+Hij sprak immers drieduizend spreuken, en liederen van hem waren er duizend vijf.
+Hij sprak over de bomen, van de ceder op de Libanon af tot de hysop toe, die aan de muur uitschiet; hij sprak ook over het vee, het gevogelte, het kruipend gedierte en de vissen.
+En uit alle volken kwamen er om de wijsheid van Salomo te horen, van al de koningen der aarde, die van zijn wijsheid gehoord hadden.
 Chiram nu, de koning van Tyrus, zond zijn dienaren naar Salomo, omdat hij gehoord had, dat men hem tot koning gezalfd had in de plaats van zijn vader, want Chiram was altijd met David zeer bevriend geweest.
 En Salomo liet aan Chiram zeggen:
 Gij weet, dat mijn vader David niet in staat was voor de naam van de Here, zijn God, een huis te bouwen wegens de oorlog, die zij van alle kanten tegen hem voerden, totdat de Here hen onder zijn voetzolen gelegd had.
@@ -8883,20 +8897,6 @@ Voorts had Salomo zeventigduizend lastdragers en tachtigduizend steenhouwers in 
 behalve Salomo’s hoofdopzichters over de arbeid, drieduizend driehonderd, die aangesteld waren over het volk dat de arbeid verrichtte.
 En de koning gebood, dat men grote, kostbare stenen zou uitbreken om het huis op gehouwen stenen te grondvesten.
 De bouwlieden van Salomo en van Chiram en de Giblieten behieuwen de boomstammen en de stenen, en maakten ze pasklaar voor de bouw van het huis.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 In het vierhonderd tachtigste jaar na de uittocht der Israëlieten uit het land Egypte, in het vierde jaar van Salomo’s regering over Israël, in de maand Ziw, dat is de tweede maand, bouwde hij het huis voor de Here.
 Het huis dat koning Salomo voor de Here bouwde, was zestig el lang, twintig el breed en dertig el hoog.
 De voorhal aan de voorzijde van de hoofdzaal van het huis was twintig el lang over de breedte van het huis en tien el diep, vóór aan het huis.
@@ -9523,6 +9523,7 @@ Het overige van de geschiedenis van Achab en alles wat hij gedaan heeft, het ivo
 En Achab ging bij zijn vaderen te ruste en zijn zoon Achazja werd koning in zijn plaats.
 Josafat nu, de zoon van Asa, werd koning over Juda in het vierde jaar van Achab, de koning van Israël.
 Josafat was vijfendertig jaar oud, toen hij koning werd en hij regeerde vijfentwintig jaar te Jeruzalem. Zijn moeder heette Azuba; zij was de dochter van Silchi.
+
 Hij bewandelde geheel en al de weg van zijn vader Asa; hij week daarvan niet af en deed wat recht was in de ogen des Heren.
 Alleen verdwenen de hoogten niet; nog steeds slachtte en offerde het volk op de hoogten.
 En Josafat hield vrede met de koning van Israël.
@@ -9533,8 +9534,7 @@ Josafat bouwde Tarsisschepen om in Ofir goud te gaan halen. Maar men ging niet, 
 Toen zeide Achazja, de zoon van Achab, tot Josafat: Laten mijn knechten met uw knechten op de schepen gaan. Maar Josafat wilde niet.
 En Josafat ging bij zijn vaderen te ruste en werd begraven bij zijn vaderen in de stad van zijn vader David; zijn zoon Joram werd koning in zijn plaats.
 Achazja, de zoon van Achab, werd koning over Israël te Samaria in het zeventiende jaar van Josafat, de koning van Juda, en hij regeerde twee jaar over Israël.
-En hij deed wat kwaad is in de ogen des Heren, en wandelde in de weg van zijn vader en in de weg van zijn moeder en in de weg van Jerobeam, de zoon van Nebat, die Israël deed zondigen.
-Hij diende de Baäl en boog zich voor hem neer, en krenkte de Here, de God van Israël, geheel zoals zijn vader gedaan had.
+En hij deed wat kwaad is in de ogen des Heren, en wandelde in de weg van zijn vader en in de weg van zijn moeder en in de weg van Jerobeam, de zoon van Nebat, die Israël deed zondigen. Hij diende de Baäl en boog zich voor hem neer, en krenkte de Here, de God van Israël, geheel zoals zijn vader gedaan had.
 Moab viel na Achabs dood van Israël af.
 Achazja viel door het traliewerk van zijn bovenvertrek te Samaria, en hij werd ziek. Toen zond hij boden uit en beval hun: Gaat Baäl-Zebub, de god van Ekron, raadplegen, of ik van deze ziekte zal herstellen.
 Maar de Engel des Heren sprak tot de Tisbiet Elia: Sta op, ga de boden van de koning van Samaria tegemoet en zeg tot hen: Is er dan geen God in Israël, dat gij Baäl-Zebub, de god van Ekron, gaat raadplegen?
@@ -9851,6 +9851,7 @@ Toen sloot Jojada het verbond tussen de Here en de koning en het volk, dat zij e
 Het gehele volk des lands ging naar de tempel van Baäl en zij haalden die omver, zijn altaren en zijn beelden verbrijzelden zij volkomen en doodden Mattan, de priester van Baäl, vóór de altaren. En de priester stelde wachtposten aan voor het huis des Heren.
 Daarop nam hij met zich de oversten over honderd, de lijfwacht, de garde en het gehele volk des lands; zij leidden de koning uit het huis des Heren en kwamen door de poort der garde in het koninklijk paleis, en hij nam plaats op de koningstroon.
 Het gehele volk des lands verheugde zich en de stad bleef rustig, nadat zij Atalja met het zwaard ter dood gebracht hadden in het koninklijk paleis.
+Joas was zeven jaar oud, toen hij koning werd.
 In het zevende jaar van Jehu werd Joas koning en hij regeerde veertig jaar te Jeruzalem. Zijn moeder heette Sibja; zij was uit Berseba.
 Joas deed wat recht is in de ogen des Heren, al de dagen, dat de priester Jojada hem onderwees.
 Alleen verdwenen de hoogten niet; nog steeds slachtte en offerde het volk op de hoogten.
@@ -9872,7 +9873,6 @@ nam Joas, de koning van Juda, al de heilige gaven die Josafat, Joram en Achazja,
 Het overige van de geschiedenis van Joas en alles wat hij gedaan heeft, is dat niet beschreven in het boek van de kronieken der koningen van Juda?
 Zijn dienaren maakten zich op en smeedden een samenzwering; zij sloegen Joas neer in Bet-Millo, dat op de helling naar Silla ligt.
 Jozabad namelijk, de zoon van Simat, en Jozabad, de zoon van Somer, zijn dienaren, sloegen hem neer, zodat hij stierf. En men begroef hem bij zijn vaderen in de stad Davids; zijn zoon Amasja werd koning in zijn plaats.
-
 In het drieëntwintigste jaar van Joas, de zoon van Achazja, de koning van Juda, werd Joachaz, de zoon van Jehu, koning over Israël te Samaria; hij regeerde zeventien jaar.
 Hij deed wat kwaad is in de ogen des Heren en volgde de zonden na, die Jerobeam, de zoon van Nebat, Israël had doen bedrijven; daarvan week hij niet af.
 Daarom ontbrandde de toorn des Heren tegen Israël, en Hij gaf hen in de macht van Hazaël, de koning van Aram, en in de macht van Benhadad, de zoon van Hazaël, al die tijd.
@@ -10456,21 +10456,6 @@ De zonen van de halve stam Manasse woonden in dat land; talrijk waren zij van Ba
 En dit waren hun familiehoofden: Efer, Jisi, Eliël, Azriël, Jirmeja, Hodawja en Jachdiël, dappere helden, mannen van naam, hoofden van hun families.
 Maar toen zij ontrouw werden jegens de God hunner vaderen en de goden van de volken des lands, die God vóór hen had verdelgd, overspelig naliepen,
 wekte de God van Israël de geest op van Pul, de koning van Assur, namelijk de geest van Tillegatpilneser, de koning van Assur, en deze voerde hen weg: de Rubenieten, de Gadieten en de helft van de stam Manasse. En hij bracht hen naar Chalach, Chabor, Hara en de rivier van Gozan, waar zij zijn tot op de huidige dag.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 De zonen van Levi waren: Gerson, Kehat en Merari;
 de zonen van Kehat: Amram, Jishar, Chebron en Uzziël;
 de kinderen van Amram: Aäron, Mozes en Mirjam; en de zonen van Aäron: Nadab en Abihu, Eleazar en Itamar.
@@ -10537,6 +10522,21 @@ Aan de geslachten der zonen van Merari (gaf men) bij loting: uit de stam Ruben, 
 Dus gaven de Israëlieten aan de Levieten de steden met haar weidegronden:
 zij gaven uit de stam van de Judeeërs, uit de stam van de Simeonieten en uit de stam van de Benjaminieten bij loting deze steden, die zij met name noemden.
 En aan de overige geslachten der zonen van Kehat – de steden van hun gebied behoorden tot de stam Efraïm –
+gaf men de vrijstad Sichem met haar weidegronden, in het gebergte van Efraïm, voorts Gezer met zijn weidegronden,
+Jokmeam met zijn weidegronden, Bet-Choron met zijn weidegronden,
+Ajjalon met zijn weidegronden, en Gat-Rimmon met zijn weidegronden.
+En uit de halve stam Manasse: Aner met zijn weidegronden, en Bileam met zijn weidegronden. (Deze steden) waren voor de overige geslachten der zonen van Kehat.
+Aan de zonen van Gersom (gaf men) uit het geslacht van de halve stam Manasse: Golan in Basan met zijn weidegronden en Astarot met zijn weidegronden;
+uit de stam Issakar: Kedes met zijn weidegronden, Daberat met zijn weidegronden,
+Ramot met zijn weidegronden en Anem met zijn weidegronden;
+uit de stam Aser: Masal met zijn weidegronden, Abdon met zijn weidegronden,
+Chukok met zijn weidegronden en Rechob met zijn weidegronden;
+en uit de stam Naftali: Kedes in Galila met zijn weidegronden, Chammon met zijn weidegronden en Kirjataïm met zijn weidegronden.
+Aan de overige zonen van Merari gaf men uit de stam Zebulon: Rimmono met zijn weidegronden en Tabor met zijn weidegronden;
+en aan de overzijde van de Jordaan bij Jericho, ten oosten van de Jordaan, uit de stam Ruben: Beser in de woestijn met zijn weidegronden, Jahas met zijn weidegronden,
+Kedemot met zijn weidegronden en Mefaät met zijn weidegronden;
+en uit de stam Gad: Ramot in Gilead met zijn weidegronden, Machanaïm met zijn weidegronden,
+Chesbon met zijn weidegronden en Jazer met zijn weidegronden.
 De zonen van Issakar waren: Tola en Pua, Jasib en Simron, vier.
 En de zonen van Tola: Uzzi, Refaja, Jeriël, Jachmai, Jibsam en Semuël, familiehoofden van Tola, dappere helden krachtens hun afkomst; hun aantal bedroeg in de dagen van David tweeëntwintigduizend zeshonderd.
 De zonen van Uzzi waren: Jizrachja, en de zonen van Jizrachja: Michaël, Obadja, Joël, Jissia; in het geheel vijf hoofden.
@@ -10725,6 +10725,7 @@ Eliël, Obed en Jaäsiël van Mesobaja.
 De volgenden zijn het, die tot David kwamen te Siklag, toen hij nog uit de nabijheid van Saul, de zoon van Kis, verbannen was. Ook zij behoorden tot de helden, de helpers in de strijd,
 met bogen uitgerust, bekwaam om zowel rechter- als linkerhand te gebruiken bij het slingeren van stenen en het schieten met pijl en boog. Uit de stamgenoten van Saul, uit Benjamin, waren het:
 de aanvoerder Achiëzer en Joas, de zonen van de Gibeatiet Semaä; Jeziël en Pelet, de zonen van Azmawet; Beraka en de Antotiet Jehu;
+
 de Gibeoniet Jismaja, één van de dertig helden, die bevel voerde over de dertig; Jirmeja, Jachaziël, Jochanan en de Gederatiet Jozabad;
 Eluzai, Jerimot, Bealja, Semarja en de Charufiet Sefatja;
 Elkana, Jissia, Azarel, Joëzer en Josobam, de Korachieten;
@@ -10762,7 +10763,6 @@ En van de overzijde van de Jordaan, uit de Rubenieten, de Gadieten en de halve s
 Deze allen, strijders in gelid geschaard, kwamen met een volkomen toegewijd hart naar Hebron, om David koning te maken over geheel Israël; ook al de overige Israëlieten waren één van zin om David koning te maken.
 Zij bleven daar bij David drie dagen, etende en drinkende, want hun broeders hadden alles voor hen bereid;
 ja ook de omwonenden, zelfs tot Issakar, Zebulon en Naftali toe, brachten spijs aan op ezels, kamelen, muildieren en runderen: meelspijs, vijgenkoeken en rozijnenkoeken, wijn en olie, runderen en kleinvee in grote hoeveelheid, want er was vreugde in Israël.
-
 Nadat David met de oversten over duizend en over honderd, met alle aanzienlijken, had beraadslaagd,
 zeide hij tot de gehele gemeente van Israël: Indien het u goeddunkt en het naar de wil van de Here, onze God, is, laten wij dan naar alle kanten boden uitzenden tot onze overige broeders in alle landstreken van Israël, en ook tot de priesters en de Levieten in de steden, waarbij hun weidegronden liggen, dat zij tot ons samenkomen;
 en laten wij de ark van onze God naar ons overbrengen, want wij hebben in de dagen van Saul ons om haar niet bekommerd.
@@ -11214,7 +11214,6 @@ Salomo nu bracht wagens en ruiters bijeen, zodat hij veertienhonderd wagens en t
 Ook maakte de koning het zilver en het goud in Jeruzalem overvloedig als stenen, en de ceders als moerbeivijgen, die in menigte in de Laagte groeien.
 De levering van de paarden, die voor Salomo bestemd waren, geschiedde uit Misraïm en uit Kewe; de handelaars van de koning haalden ze tegen marktprijs uit Kewe.
 Een wagen uit Misraïm stelden zij echter bij levering op zeshonderd, en een paard op honderd vijftig eenheden zilver; evenzo voerde men ze door hun bemiddeling uit naar alle koningen der Hethieten en naar de koningen van Aram.
-
 Salomo beval een tempel te bouwen voor de naam des Heren en een koninklijk paleis voor zichzelf.
 En Salomo wees een getal aan van zeventigduizend man lastdragers, tachtigduizend steenhouwers in het gebergte en drieduizend en zeshonderd opzichters over hen.
 Toen zond Salomo aan Churam, de koning van Tyrus, de boodschap: (Handel met mij), zoals gij met mijn vader David gehandeld hebt door hem ceders te zenden, om voor zich een huis te bouwen, waarin hij kon wonen.
@@ -11232,6 +11231,7 @@ zoon van een vrouw uit de dochters van Dan, wiens vader een Tyriër was; hij hee
 Laat dan mijn heer de tarwe en de gerst, de olie en de wijn, die hij heeft toegezegd, aan zijn knechten zenden.
 Dan zullen wij bomen vellen van de Libanon, zoveel als gij nodig hebt, en ze u in vlotten over zee naar Jafo brengen; en gij kunt ze naar Jeruzalem vervoeren.
 Toen telde Salomo al de mannelijke vreemdelingen, die in het land van Israël waren, na de telling die zijn vader David had gehouden, en er bleken er honderddrieënvijftigduizend zeshonderd te zijn.
+En hij maakte zeventigduizend van hen tot lastdragers en tachtigduizend tot steenhouwers in het gebergte en drieduizend zeshonderd tot opzichters, om het volk aan het werk te zetten.
 Toen begon Salomo met de bouw van de tempel te Jeruzalem op de berg Moria, waar de Here aan zijn vader David verschenen was; op de plaats die David daarvoor had bestemd, op de dorsvloer van de Jebusiet Ornan.
 Hij begon met de bouw in de tweede maand, op de tweede dag, in het vierde jaar van zijn regering.
 Dit is het grondplan van Salomo voor de bouw van het huis Gods: de lengte in ellen naar de oude maat was zestig el en de breedte twintig el.
@@ -11478,7 +11478,6 @@ Abia achtervolgde Jerobeam en nam sommige steden van hem in: Betel met zijn onde
 Jerobeam had in de dagen van Abia geen kracht meer over; de Here sloeg hem, zodat hij stierf.
 Maar Abia was machtig. Hij nam zich veertien vrouwen en verwekte tweeëntwintig zonen en zestien dochters.
 Het overige van de geschiedenis van Abia, en zijn handel en wandel zijn beschreven in de Uitlegging van de profeet Iddo.
-
 Abia ging bij zijn vaderen te ruste en men begroef hem in de stad Davids. Zijn zoon Asa werd koning in zijn plaats; in diens dagen had het land tien jaren rust.
 Asa deed wat goed en recht was in de ogen van de Here, zijn God.
 Hij verwijderde de uitheemse altaren en de offerhoogten, verbrijzelde de gewijde stenen, hieuw de gewijde palen om
@@ -11493,6 +11492,7 @@ Toen riep Asa tot de Here, zijn God, en zeide: Here, er is niemand buiten U, om 
 En de Here deed de Kusieten de nederlaag lijden tegen Asa en Juda, zodat de Kusieten vluchtten.
 Asa en zijn krijgsvolk vervolgden hen tot Gerar, en van de Kusieten vielen er zovelen, dat niemand van hen in leven bleef, want zij werden verpletterd voor het aangezicht van de Here en van zijn leger. Men behaalde een zeer grote buit.
 Daarop overweldigden zij al de steden rondom Gerar, want de schrik des Heren lag erop; zij plunderden al de steden, omdat daarin veel buit was.
+Ook de tenten van de veehoeders overweldigden zij en zij voerden kleinvee in menigte en kamelen weg. Daarna keerden zij naar Jeruzalem terug.
 De Geest Gods kwam over Azarja, de zoon van Oded;
 hij ging Asa tegemoet en zeide tot hem: Hoort naar mij, Asa en geheel Juda en Benjamin! De Here is met u, zolang gij met Hem zijt; indien gij Hem zoekt, zal Hij Zich door u laten vinden; maar indien gij Hem verlaat, zal Hij u verlaten.
 Lange tijd was Israël zonder de ware God, zonder priester die onderricht gaf, en zonder wet;
@@ -12362,12 +12362,6 @@ Verderop was bezig Sadok, de zoon van Immer, tegenover zijn huis. Verderop weer 
 Verderop herstelden Chananja, de zoon van Selemja, en Chanun, de zesde zoon van Salaf, een volgend stuk. Verderop was bezig Mesullam, de zoon van Berekja, tegenover zijn kamer.
 Verderop was bezig Malkia, de goudsmid, tot aan het huis der tempelhorigen en der handelaren, tegenover de Wachtpoort en tot de bovenzaal aan de hoek.
 En tussen de bovenzaal aan de hoek en de Schaapspoort waren de goudsmeden en de handelaars met het herstellingswerk bezig.
-
-
-
-
-
-
 Maar toen Sanballat gehoord had, dat wij de muur aan het herbouwen waren, ontstak hij in woede en ergerde zich zeer; hij bespotte de Joden,
 en zeide in tegenwoordigheid van zijn broeders en van het leger van Samaria: Wat doen die machteloze Joden? Zal men hen laten begaan? Zullen zij offeren? Zullen zij vandaag gereed komen? Zullen zij de stenen uit de puinhopen, verbrand als ze zijn, weer tot leven wekken?
 De Ammoniet Tobia nu stond naast hem en zeide: Al bouwen zij ook, als er maar een vos tegen hun stenen muur opspringt, doet hij hem afbrokkelen. –
@@ -12385,6 +12379,12 @@ Ik zag toe, en stond op en zeide tot de edelen, de leiders en het overige volk: 
 Toen nu onze vijanden gehoord hadden, dat wij op de hoogte gekomen waren en dat God hun plan verijdeld had, konden wij allen terugkeren naar de muur, ieder tot zijn werk.
 En sinds die dag deed de ene helft van mijn knechten het werk en de andere helft droeg de speren, de schilden, de bogen en de pantsers, terwijl de oversten achter het gehele huis Juda stonden,
 dat aan de muur bouwde. De lastdragers verrichtten hun arbeid zo, dat zij met de ene hand het werk deden en met de andere hand de werpspies vasthielden;
+de bouwers hadden ieder zijn zwaard aan de heup gegord, terwijl zij aan het bouwen waren. De hoornblazer stond naast mij.
+En ik zeide tot de edelen, de leiders en het overige volk: Het werk is groot en uitgebreid en wij zijn langs de muur verspreid, ver van elkander.
+Op de plaats, vanwaar gij het hoorngeschal hoort, moet gij u bij ons verzamelen. Onze God zal voor ons strijden.
+Wij waren dan bezig met het werk, terwijl de helft der mannen de speren hield, van het aanbreken van de dageraad tot aan het opkomen der sterren.
+Ook gaf ik in diezelfde tijd aan het volk het bevel: Ieder moet met zijn knecht binnen Jeruzalem overnachten, zodat zij des nachts voor ons de wacht kunnen houden en overdag aan het werk kunnen zijn.
+En ik, mijn broeders, mijn knechten en de mannen van de wacht die mij volgden, wij kwamen nooit uit de kleren. Ieder hield zijn werpspies in zijn rechterhand.
 Er ontstond nu een groot geroep van het volk met hun vrouwen tegen hun Joodse volksgenoten.
 Er waren er, die zeiden: Onze zonen en onze dochters zijn talrijk, en wij willen koren hebben om te eten en te leven.
 Ook waren er, die zeiden: Onze velden, onze wijngaarden en onze huizen hebben wij moeten verpanden om in de honger koren te hebben.
@@ -12490,11 +12490,11 @@ Dezen zochten naar het schriftelijk bewijs, dat zij ingeschreven waren in het re
 en de stadhouder deed aangaande hen de uitspraak, dat zij van het allerheiligste niet mochten eten, totdat een priester zou optreden met Urim en Tummim.
 De gehele gemeente tezamen was tweeënveertigduizend driehonderd zestig,
 afgezien van hun slaven en slavinnen, van welke er zevenduizend driehonderd zevenendertig waren; zangers en zangeressen hadden zij tweehonderd vijfenveertig.
-Kamelen: vierhonderd vijfendertig; ezels: zesduizend zevenhonderd en twintig.
-Een deel van de familiehoofden heeft bijgedragen tot het werk. De stadhouder heeft bijgedragen tot de schat: aan goud duizend drachmen, vijftig sprengbekkens, vijfhonderd dertig priesteronderklederen.
+Kamelen: vierhonderd vijfendertig; ezels: zesduizend zevenhonderd en twintig. Een deel van de familiehoofden heeft bijgedragen tot het werk. De stadhouder heeft bijgedragen tot de schat: aan goud duizend drachmen, vijftig sprengbekkens, vijfhonderd dertig priesteronderklederen.
 Enige van de familiehoofden droegen bij tot de schat, benodigd voor het werk: aan goud twintigduizend drachmen; aan zilver tweeduizend tweehonderd minen.
 Wat het overige volk bijdroeg was: aan goud twintigduizend drachmen, aan zilver tweeduizend minen en zevenenzestig priesteronderklederen.
 De priesters nu en de Levieten, de poortwachters, de zangers, alsook sommigen van het volk, en de tempelhorigen en alle andere Israëlieten gingen wonen in hun steden.
+
 Toen nu de zevende maand aanbrak en de Israëlieten in hun steden waren,
 kwam het gehele volk als één man bijeen op het plein voor de Waterpoort. En men verzocht de schriftgeleerde Ezra het boek der wet van Mozes, die de Here aan Israël gegeven had, te halen.
 Toen bracht de priester Ezra de wet vóór de gemeente, zowel mannen als vrouwen en ieder die het kon begrijpen, op de eerste dag van de zevende maand.
@@ -12550,6 +12550,7 @@ Onze koningen, onze oversten, onze priesters en onze vaderen hebben uw wet niet 
 Zij hebben, trots hun koninkrijk en trots de grote weldaden die Gij hun gegeven hadt, en trots het ruime en vette land dat Gij hun ter beschikking gesteld hadt, U niet gediend noch zich bekeerd van hun boze daden.
 Zie, wij zijn heden slaven, en het land dat Gij aan onze vaderen gegeven hadt om de vrucht en het goede daarvan te genieten – zie, wij zijn daarin slaven;
 het geeft zijn rijke opbrengst aan de koningen die Gij over ons gesteld hebt wegens onze zonden, en zij heersen over ons lichaam en over ons vee naar hun welgevallen; daarom zijn wij in grote benauwdheid.
+Op grond van dit alles sluiten wij een vast verbond en stellen het op schrift, en onze oversten, onze Levieten, onze priesters zetten hun zegel eronder.
 Hun zegel zetten eronder: de stadhouder Nehemia, de zoon van Chakalja, en Sidkia,
 Seraja, Azarja, Jirmeja,
 Paschur, Amarja, Malkia,
@@ -12589,7 +12590,6 @@ eveneens de eerstgeborenen van onze zonen en van ons vee, zoals in de wet is voo
 De eerstelingen van ons gerstemeel – de ons opgelegde heffingen – en van alle boomvruchten, most en olie zullen wij tot de priesters, naar de vertrekken van het huis onzes Gods, brengen, en de tienden van onze akker tot de Levieten, en zij, de Levieten, zullen de tienden heffen in al onze landbouwsteden.
 Een priester, een zoon van Aäron, zal de Levieten vergezellen, wanneer de Levieten de tienden heffen, en de Levieten zullen een tiende van de tienden brengen naar het huis van onze God, naar de vertrekken van het voorraadhuis.
 Want naar die vertrekken moeten de Israëlieten en de Levieten de heffing van koren, most en olie brengen; daar bevindt zich het heilige gerei en zijn de dienstdoende priesters, de poortwachters en de zangers. Het huis van onze God willen wij niet aan zijn lot overlaten.
-
 De oversten van het volk gingen te Jeruzalem wonen, maar het overige volk wierp het lot, om een op de tien aan te wijzen in Jeruzalem, de heilige stad, te gaan wonen, en negen tienden in de andere steden.
 Het volk nu prees al de mannen, die vrijwillig in Jeruzalem gingen wonen.
 Dit zijn de hoofden van het gewest, die zich in Jeruzalem vestigden; – in de steden van Juda woonden, ieder op zijn bezit, in hun steden: Israël, de priesters, de Levieten, de tempelhorigen en de nakomelingen van Salomo’s knechten –.
@@ -13890,18 +13890,10 @@ Kunt gij een bieze door zijn neus halen,met een haak zijn kaak doorboren?
 Zal hij veel smeekbeden tot u richten,vriendelijke woorden tot u spreken?
 Zal hij een overeenkomst met u sluiten,zult gij hem voor altoos tot knecht nemen?
 Kunt gij met hem als met een vogeltje spelenen hem vastbinden voor uw meisjes?
-Zullen de gezellen hem als koopwaar verhandelen,hem verdelen onder kooplieden?
-Kunt gij zijn huid met spiesen vol steken,zijn kop met een visharpoen?
-Leg eens uw hand op hem,denk aan de strijd – gij moet het maar niet weer doen.
-Zie, de hoop hem te vermeesteren komt bedrogen uit;reeds bij zijn aanblik wordt men neergeveld.
-
-
-
-
-Niemand is zo vermetel, dat hij hem zou durven tergen;wie is het dan, die voor Mij kan standhouden?
-Wie zou Mij tegemoet treden, die Ik ongedeerd zou laten?Wat onder de ganse hemel is, dat behoort Mij toe.
-Ik wil niet zwijgen over zijn leden,noch over zijn geweldige kracht en kunstige lichaamsbouw.
-Wie heeft de zoom van zijn kleed opgelicht?Wie dringt door zijn dubbel pantser heen?
+Zullen de gezellen hem als koopwaar verhandelen,hem verdelen onder kooplieden? Niemand is zo vermetel, dat hij hem zou durven tergen;wie is het dan, die voor Mij kan standhouden?
+Kunt gij zijn huid met spiesen vol steken,zijn kop met een visharpoen? Wie zou Mij tegemoet treden, die Ik ongedeerd zou laten?Wat onder de ganse hemel is, dat behoort Mij toe.
+Leg eens uw hand op hem,denk aan de strijd – gij moet het maar niet weer doen. Ik wil niet zwijgen over zijn leden,noch over zijn geweldige kracht en kunstige lichaamsbouw.
+Zie, de hoop hem te vermeesteren komt bedrogen uit;reeds bij zijn aanblik wordt men neergeveld. Wie heeft de zoom van zijn kleed opgelicht?Wie dringt door zijn dubbel pantser heen?
 Wie heeft de deuren van zijn muil geopend?Rondom zijn tanden is verschrikking.
 Zijn rug bestaat uit beschermende schilden,aaneengesloten als een nauwpassend zegel.
 Zo dicht raakt het ene het andere,dat de wind er niet tussen kan komen;
@@ -13923,6 +13915,14 @@ Hij doet de diepte koken als een pot,maakt de zee aan een zalfketel gelijk.
 Achter hem is een lichtend spoor,zodat men de waterdiepte voor zilverhaar zou houden.
 Zijns gelijke is er op aarde niet,een schepsel zonder vrees.
 Op al wat hoog is, ziet hij neer,hij is koning over alle trotse dieren.
+
+
+
+
+
+
+
+
 
 Toen antwoordde Job de Here:
 Ik weet, dat Gij alles vermoogt,en dat geen uwer plannen wordt verijdeld.
@@ -13959,6 +13959,7 @@ Gij zult hen verpletteren met een ijzeren knots,hen stukslaan als pottenbakkersw
 Nu dan, gij koningen, weest verstandig,laat u gezeggen, gij richters der aarde.
 Dient de Here met vrezeen verheugt u met beving.
 Kust de zoon, opdat hij niet toorneen gij onderweg niet te gronde gaat,want zeer licht ontbrandt zijn toorn.Welzalig allen die bij Hem schuilen!
+
 Een psalm van David, toen hij vluchtte voor zijn zoon Absalom.
 O Here, hoe talrijk zijn mijn tegenstanders;velen staan tegen mij op;
 velen zeggen van mij:Hij vindt geen hulp bij God. sela
@@ -13966,8 +13967,8 @@ Maar Gij, Here, zijt een schild dat mij dekt,mijn eer, en die mijn hoofd opheft.
 Als ik luide roep tot de Here,antwoordt Hij mij van zijn heilige berg. sela
 Ik legde mij neder en sliep;ik ontwaakte, want de Here schraagt mij.
 Ik vrees niet voor tienduizenden van volk,die zich rondom tegen mij stellen.
-Sta op, Here, verlos mij, mijn God!Ja, Gij hebt al mijn vijanden op de kaak geslagen,en de tanden der goddelozen verbrijzeld.
-De verlossing is van de Here,uw zegen zij over uw volk. sela
+Sta op, Here, verlos mij, mijn God!Ja, Gij hebt al mijn vijanden op de kaak geslagen,en de tanden der goddelozen verbrijzeld. De verlossing is van de Here,uw zegen zij over uw volk. sela
+
 Voor de koorleider. Bij snarenspel. Een psalm van David.
 Als ik roep, antwoord mij,o God mijner gerechtigheid,die mij ruimte maakt in benauwdheid;wees mij genadig en hoor mijn gebed.
 Gij mannen, hoelang is mijn eer tot versmading,hoelang hebt gij ijdelheid lief, jaagt gij de leugen na? sela
@@ -13975,8 +13976,8 @@ Weet toch, dat de Here Zich een gunstgenoot heeft afgezonderd;de Here hoort, als
 Weest toornig, maar zondigt niet;spreekt in uw hart op uw leger, en zwijgt. sela
 Brengt offers naar de eisen vertrouwt op de Here.
 Velen zeggen: Wie zal ons het goede doen zien?verhef over ons het licht uws aanschijns, o Here!
-Gij hebt meer vreugde in mijn hart gegevendan toen hun koren en most overvloedig waren.
-In vrede kan ik mij te ruste begeven en aanstonds inslapen,want Gij alleen, o Here, doet mij veilig wonen.
+Gij hebt meer vreugde in mijn hart gegevendan toen hun koren en most overvloedig waren. In vrede kan ik mij te ruste begeven en aanstonds inslapen,want Gij alleen, o Here, doet mij veilig wonen.
+
 Voor de koorleider. Bij fluitspel. Een psalm van David.
 Neem mijn redenen ter ore, o Here,let op mijn verzuchting.
 Sla acht op mijn hulpgeroep, o mijn Koning en mijn God,want tot U richt ik mijn gebed.
@@ -13988,8 +13989,8 @@ Maar ik zal, dank zij uw grote goedertierenheid,uw huis binnengaan,mij nederbuig
 Here, leid mij door uw gerechtigheidom mijner belagers wil;effen uw weg voor mijn aangezicht.
 Want in hun mond is niets betrouwbaar,hun binnenste is enkel verderf,hun keel is een open graf,zij maken hun tong glad.
 Doe hen boeten, o God,laat hen vallen door hun eigen overleggingen,verstoot hen om hun vele overtredingen;want zij zijn wederspannig tegen U.
-Maar verheugen zullen zich allen die bij U schuilen,altoos zullen zij jubelen, daar Gij hen beschermt,en in U zullen juichen wie uw naam liefhebben.
-Want Gij zegent de rechtvaardige, o Here,Gij omgeeft hem met welbehagen als met een schild.
+Maar verheugen zullen zich allen die bij U schuilen,altoos zullen zij jubelen, daar Gij hen beschermt,en in U zullen juichen wie uw naam liefhebben. Want Gij zegent de rechtvaardige, o Here,Gij omgeeft hem met welbehagen als met een schild.
+
 Voor de koorleider. Bij snarenspel. Op de wijze van: De achtste. Een psalm van David.
 O Here, straf mij niet in uw toorn,en kastijd mij niet in uw grimmigheid.
 Wees mij genadig, Here, want ik kwijn weg;genees mij, Here, want mijn gebeente is verschrikt.
@@ -13999,8 +14000,8 @@ Want in de dood is Uwer geen gedachtenis;wie zou U loven in het dodenrijk?
 Ik ben afgemat van mijn zuchten;elke nacht doorweek ik mijn sponde,doe ik mijn bed van tranen vloeien.
 Mijn oog is dof geworden van verdriet,verzwakt door allen die mij benauwen.
 Wijkt van mij, al gij bedrijvers van ongerechtigheid,want de Here heeft mijn wenen gehoord;
-de Here heeft mijn smeking gehoord,de Here neemt mijn bede aan.
-Al mijn vijanden zullen beschaamd staan,ten zeerste verschrikt,zij zullen in een oogwenk beschaamd afdeinzen.
+de Here heeft mijn smeking gehoord,de Here neemt mijn bede aan. Al mijn vijanden zullen beschaamd staan,ten zeerste verschrikt,zij zullen in een oogwenk beschaamd afdeinzen.
+
 Een klaaglied van David, dat hij de Here gezongen heeft om de woorden van de Benjaminiet Kus.
 Here, mijn God, bij U schuil ik,verlos mij van al mijn vervolgers en red mij,
 opdat hij niet als een leeuw mij verscheure,wegslepe, zonder dat iemand redt.
@@ -14017,8 +14018,8 @@ Bekeert iemand zich niet, dan wet Hij zijn zwaard,spant zijn boog en legt aan,
 Hij richt op hem zijn dodelijke wapenen,maakt zijn pijlen tot brandende schichten.
 Zie, wie met ongerechtigheid bevrucht werd,is zwanger van onheil en baart leugen.
 Hij delft een kuil en graaft die uit,maar valt zelf in de groeve die hij maakte.
-Het onheil dat hij stichtte, keert weder op zijn hoofd,en zijn geweld komt neder op zijn schedel.
-Ik zal de Here loven naar zijn gerechtigheid,en de naam des Heren, des Allerhoogsten, psalmzingen.
+Het onheil dat hij stichtte, keert weder op zijn hoofd,en zijn geweld komt neder op zijn schedel. Ik zal de Here loven naar zijn gerechtigheid,en de naam des Heren, des Allerhoogsten, psalmzingen.
+
 Voor de koorleider. Op de Gittit. Een psalm van David.
 O Here, onze Here,hoe heerlijk is uw naam op de ganse aarde,Gij, die uw majesteit toont aan de hemel.
 Uit de mond van kinderen en zuigelingenhebt Gij sterkte gegrondvest, uw tegenstanders ten spijt,om vijand en wraakgierige te doen verstommen.
@@ -14027,8 +14028,8 @@ wat is de mens, dat Gij zijner gedenkt,en het mensenkind, dat Gij naar hem omzie
 Toch hebt Gij hem bijna goddelijk gemaakt,en hem met heerlijkheid en luister gekroond.
 Gij doet hem heersen over de werken uwer handen,alles hebt Gij onder zijn voeten gelegd:
 schapen en runderen altegaderen ook de dieren des velds,
-de vogelen des hemels en de vissen der zee,hetgeen de paden der zeeën doorkruist.
-O Here, onze Here,hoe heerlijk is uw naam op de ganse aarde.
+de vogelen des hemels en de vissen der zee,hetgeen de paden der zeeën doorkruist. O Here, onze Here,hoe heerlijk is uw naam op de ganse aarde.
+
 Voor de koorleider. Op de wijze van: De dood van de zoon. Een psalm van David.
 Ik zal U loven, Here, met mijn ganse hart,ik wil al uw wonderen verhalen;
 in U wil ik mij verheugen en juichen,uw naam psalmzingen, o Allerhoogste,
@@ -14048,8 +14049,7 @@ De volken zijn verzonken in de kuil die zij dolven;in het net dat zij verborgen,
 De Here deed Zich kennen, Hij handhaafde het recht;in het werk van zijn handen is de goddeloze verstrikt. higgajon, sela
 De goddelozen keren om naar het dodenrijk,al de volken die God vergeten.
 Want niet voorgoed blijft de arme vergeten,niet voor immer gaat de hoop der ootmoedigen teloor.
-Sta op, Here, laat de sterveling niet zegepralen,laat de volken voor uw aanschijn gericht worden.
-Jaag hun schrik aan, Here,zodat de volken erkennen, dat zij stervelingen zijn. sela
+Sta op, Here, laat de sterveling niet zegepralen,laat de volken voor uw aanschijn gericht worden. Jaag hun schrik aan, Here,zodat de volken erkennen, dat zij stervelingen zijn. sela
 Waarom, Here, staat Gij van verre,verbergt Gij U in tijden van nood?
 Over de trots van de goddeloze is de ellendige ontstoken –laat hen verstrikt worden in de boze plannendie zij bedacht hebben.
 De goddeloze immers roemt naar hartelust,de woekeraar spreekt zegenwensen, hij versmaadt de Here.
@@ -14075,6 +14075,7 @@ De Here woont in zijn heilig paleis,de Here heeft in de hemel zijn troon;zijn og
 De Here toetst de rechtvaardige en de goddeloze;en wie geweld bemint, die haat Hij.
 Hij regent op de goddelozen vurige kolen en zwavel,schroeiende wind is het deel van hun beker.
 Want de Here is rechtvaardigen Hij heeft gerechtigheid lief;de oprechten zullen zijn aangezicht aanschouwen.
+
 Voor de koorleider. Op de wijze van: De achtste. Een psalm van David.
 Help toch, Here, want er zijn geen vromen meer;ja, de getrouwen zijn schaars onder de mensenkinderen.
 Zij spreken valsheid tegen elkander,zij spreken dubbelhartig, met gladde lippen.
@@ -14082,14 +14083,13 @@ De Here verdelge alle gladde lippenen elke grootsprekende tong;
 hen die zeggen: Met onze tong zijn wij sterk;onze lippen zijn met ons – wie is heer over ons?
 Om de onderdrukking der ellendigen, het zuchten der armen,maak Ik Mij thans op, zegt de Here;Ik stel in veiligheid wie daarnaar smacht.
 De woorden des Heren zijn zuivere woorden,gedegen zilver, in een smeltoven in de aardezevenvoudig gelouterd.
-Gij, Here, zult ze gestand doen,ons altoos beschermen tegen dit geslacht;
-de goddelozen draven rond,terwijl snoodheid bij de mensenkinderen het hoofd opsteekt.
+Gij, Here, zult ze gestand doen,ons altoos beschermen tegen dit geslacht; de goddelozen draven rond,terwijl snoodheid bij de mensenkinderen het hoofd opsteekt.
+
 Voor de koorleider. Een psalm van David.
 Hoelang, Here? Zult Gij mij voortdurend vergeten?Hoelang zult Gij uw aangezicht voor mij verbergen?
 Hoelang zal ik plannen koesteren in mijn ziel,kommer hebben in mijn hart, dag aan dag?Hoelang zal mijn vijand zich boven mij verheffen?
 Aanschouw toch, antwoord mij, Here, mijn God!Verlicht mijn ogen, opdat ik niet inslape ten dode;
-opdat mijn vijand niet zegge: Ik heb hem overmocht;opdat mijn tegenstanders niet juichen, wanneer ik wankel.
-Ik echter vertrouw op uw goedertierenheid,over uw verlossing juicht mijn hart.Ik wil de Here zingen, omdat Hij mij heeft welgedaan.
+opdat mijn vijand niet zegge: Ik heb hem overmocht;opdat mijn tegenstanders niet juichen, wanneer ik wankel. Ik echter vertrouw op uw goedertierenheid,over uw verlossing juicht mijn hart.Ik wil de Here zingen, omdat Hij mij heeft welgedaan.
 Voor de koorleider. Van David.De dwaas zegt in zijn hart:Er is geen God.Zij bedrijven gruwelijke en afschuwelijke misdaden,niemand is er, die goed doet.
 De Here ziet neder uit de hemelop de mensenkinderen,om te zien, of er één verstandig is,één, die God zoekt.
 Allen zijn zij afgeweken, tezamen ontaard;er is niemand die goed doet, zelfs niet één.
@@ -14128,6 +14128,7 @@ Hij gelijkt op een leeuw die begeert te verscheuren,en op een jonge leeuw, in ee
 Sta op, Here, treed hem tegemoet, doe hem bukken,red met uw zwaard mijn leven van de goddeloze,
 met uw hand, Here, van de mannen,van de wereldse mannen, wier deel in dit leven is,en vul hun binnenste met wat Gij voor hen hebt weggelegd,zodat hun zonen er nog zat van zijn,die wat hun rest, aan hun kinderen nalaten.
 Maar ik zal in gerechtigheid uw aangezicht aanschouwen,en bij het ontwaken mij verzadigen met uw beeld.
+
 Voor de koorleider. Van de knecht des Heren, van David, die tot de Here de woorden van dit lied sprak, ten dage dat de Here hem verlost had uit de greep van al zijn vijanden en uit de hand van Saul.
 Hij zeide:Ik heb U hartelijk lief, Here, mijn sterkte,
 o Here, mijn steenrots, mijn vesting en mijn bevrijder,mijn God, mijn Rots, bij wie ik schuil,mijn schild, hoorn mijns heils, mijn burcht.
@@ -14177,8 +14178,8 @@ Vreemden verloren hun krachten verlieten bevend hun burchten.
 De Here leeft. Geprezen zij mijn Rots,en verhoogd zij de God mijns heils,
 de God, die mij wraak heeft verleend,die volken onder mij gebracht heeft,
 die mij van mijn vijanden heeft gered.Ja, Gij hebt mij verhoogd boven hen die tegen mij opstonden,Gij hebt mij gered van de geweldenaar.
-Daarom loof ik U, o Here, onder de volkenen wil ik uw naam psalmzingen.
-Hij schenkt zijn koning grote uitreddingen,en betoont trouw aan zijn gezalfde,aan David en zijn nageslacht voor altijd.
+Daarom loof ik U, o Here, onder de volkenen wil ik uw naam psalmzingen. Hij schenkt zijn koning grote uitreddingen,en betoont trouw aan zijn gezalfde,aan David en zijn nageslacht voor altijd.
+
 Voor de koorleider. Een psalm van David.
 De hemelen vertellen Gods eer,en het uitspansel verkondigt het werk zijner handen;
 de dag doet sprake toestromen aan de dag,en de nacht predikt kennis aan de nacht.
@@ -14192,8 +14193,8 @@ De vreze des Heren is rein,voor immer bestendig;de verordeningen des Heren zijn 
 Kostelijker zijn zij dan goud,ja, dan veel fijn goud;en zoeter dan honig,ja, dan honigzeem uit de raat.
 Ook laat uw knecht zich daardoor ernstig vermanen;in het houden ervan ligt rijke beloning.
 Afdwalingen – wie bemerkt ze?Spreek van de verborgene mij vrij.
-Behoed ook uw knecht voor overmoed,laat die over mij niet heersen;dan ben ik onberispelijken vrij van grove overtreding.
-Mogen de woorden van mijn monden de overleggingen van mijn hartU welgevallig zijn,o Here, mijn rots en mijn verlosser.
+Behoed ook uw knecht voor overmoed,laat die over mij niet heersen;dan ben ik onberispelijken vrij van grove overtreding. Mogen de woorden van mijn monden de overleggingen van mijn hartU welgevallig zijn,o Here, mijn rots en mijn verlosser.
+
 Voor de koorleider. Een psalm van David.
 De Here antwoorde u ten dage der benauwdheid,de naam van Jakobs God make u onaantastbaar;
 Hij zende u hulp uit het heiligdomen ondersteune u uit Sion.
@@ -14202,8 +14203,8 @@ Hij geve u naar uw hart,en doe al uw plannen in vervulling gaan.
 Wij willen juichen over uw overwinning,en in de naam van onze God de vaandels opsteken;de Here vervulle al uw begeerten.
 Nu weet ik, dat de Here zijn gezalfde de overwinning geeft,Hij antwoordt hem uit zijn heilige hemelmet de machtige heilsdaden zijner rechterhand.
 Dezen beroemen zich op wagens en genen op paarden,maar wij roemen in de naam van de Here, onze God.
-Zij zinken neder en vallen,maar wij richten ons op en houden stand.
-O Here, schenk de koning de overwinning,Hij antwoorde ons ten dage dat wij roepen.
+Zij zinken neder en vallen,maar wij richten ons op en houden stand. O Here, schenk de koning de overwinning,Hij antwoorde ons ten dage dat wij roepen.
+
 Voor de koorleider. Een psalm van David.
 Here, over uw macht verheugt zich de koning,hoezeer juicht hij over uw heil.
 Zijn hartewens hebt Gij hem geschonken,de begeerte van zijn lippen hebt Gij niet geweigerd. sela
@@ -14216,8 +14217,8 @@ Uw hand zal al uw vijanden vinden,uw rechterhand zal uw haters vinden.
 Gij zult hen maken als een vurige oventen tijde dat Gij verschijnt, o Here.In zijn toorn zal Hij hen verslinden,en het vuur zal hen verteren;
 hun kroost zult Gij van de aarde verdelgenen hun nageslacht uit de mensenkinderen.
 Als zij onheil over u willen brengen,boze plannen beramen, vermogen zij niets.
-Ja, Gij zult hen de rug doen keren,met de pees van uw boog legt Gij aan op hun gelaat.
-Verhef U, o Here, in uw kracht,wij willen uw sterkte met psalmen bezingen.
+Ja, Gij zult hen de rug doen keren,met de pees van uw boog legt Gij aan op hun gelaat. Verhef U, o Here, in uw kracht,wij willen uw sterkte met psalmen bezingen.
+
 Voor de koorleider. Op de wijze van: De hinde van de dageraad. Een psalm van David.
 Mijn God, mijn God, waarom hebt Gij mij verlaten,verre zijnde van mijn verlossing,bij de woorden van mijn jammerklacht?
 Mijn God, ik roep des daags, en Gij antwoordt niet,en des nachts, en ik kom niet tot stilte.
@@ -14248,8 +14249,7 @@ De ootmoedigen zullen eten en verzadigd worden,wie de Here zoeken, zullen Hem lo
 Alle einden der aarde zullen het gedenkenen zich tot de Here bekeren;alle geslachten der volkenzullen zich nederbuigen voor uw aangezicht.
 Want het koninkrijk is des Heren,Hij is heerser over de volken.
 Alle welgedanen der aarde eten en aanbidden;voor Hem knielen allen die in het stof nederdalen,en wie zijn ziel niet in leven kan houden.
-Het nakroost zal Hem dienen,er zal van de Here verteld worden aan het komende geslacht;
-zij zullen zijn gerechtigheid verkondigenaan het volk dat geboren zal worden,omdat Hij het gedaan heeft.
+Het nakroost zal Hem dienen,er zal van de Here verteld worden aan het komende geslacht; zij zullen zijn gerechtigheid verkondigenaan het volk dat geboren zal worden,omdat Hij het gedaan heeft.
 Een psalm van David.De Here is mijn herder, mij ontbreekt niets;
 Hij doet mij nederliggen in grazige weiden;Hij voert mij aan rustige wateren;
 Hij verkwikt mijn ziel.Hij leidt mij in de rechte sporenom zijns naams wil.
@@ -14334,6 +14334,7 @@ de stem des Heren doet de woestijn beven;de Here doet de woestijn van Kades beve
 de stem des Heren doet de hinden jongen werpenen zij ontschorst de wouden.Maar in zijn paleis zegt ieder: Ere!
 De Here troonde boven de zondvloed,ja, de Here troont als koning in eeuwigheid.
 De Here zal zijn volk sterkte verlenen,de Here zal zijn volk zegenen met vrede.
+
 Een psalm. Een lied voor de tempelwijding. Van David.
 Ik zal U verhogen, Here, want Gij hebt mij opgetrokken,en mijn vijanden geen vreugde over mij gegeven.
 Here, mijn God, tot U riep ik om hulp,en Gij hebt mij genezen.
@@ -14345,8 +14346,8 @@ Here, door uw welbehagen hadt Gij mijn berg bevestigd –Gij verborgt uw aangezi
 Tot U, Here, riep ik,en tot de Here smeekte ik om genade:
 Wat voor gewin ligt er in mijn bloed,in mijn nederdalen in de groeve?Kan het stof U loven,kan dat uw trouw vermelden?
 Hoor, Here, en wees mij genadig, Here, wees mij een helper.
-Mijn rouwklacht hebt Gij veranderd in een reidans,mijn rouwkleed hebt Gij losgemaakt, met vreugde mij omgord,
-opdat mijn ziel U zou psalmzingen, en nimmer verstommen. Here, mijn God, voor altoos zal ik U loven.
+Mijn rouwklacht hebt Gij veranderd in een reidans,mijn rouwkleed hebt Gij losgemaakt, met vreugde mij omgord, opdat mijn ziel U zou psalmzingen, en nimmer verstommen. Here, mijn God, voor altoos zal ik U loven.
+
 Voor de koorleider. Een psalm van David.
 Bij U, Here, schuil ik,laat mij nimmer beschaamd worden.Doe mij ontkomen door uw gerechtigheid,
 neig uw oor tot mij, red mij haastig.Wees mij tot een beschuttende rots,tot een sterke vesting om mij te redden;
@@ -14370,8 +14371,7 @@ Hoe groot is het goeddat Gij hebt weggelegd voor wie U vrezen,dat Gij bereid heb
 Gij verbergt hen in het verborgene van uw aanschijnvoor de samenscholing der mensen;Gij bergt hen in een hutvoor het getwist der tongen.
 Geprezen zij de Here,want Hij heeft mij wonderbare goedertierenheid betoondin de gloed der benauwdheid.
 Terwijl ik in mijn angst dacht:ik ben verbannen uit uw oog –hebt Gij voorwaar mijn luide smekingen gehoord,toen ik tot U riep om hulp.
-Hebt de Here lief, al zijn gunstgenoten;de Here bewaart de getrouwen,maar ruimschoots vergeldt Hij de trotsen.
-Weest sterk en uw hart zij onversaagd,gij allen, die op de Here hoopt.
+Hebt de Here lief, al zijn gunstgenoten;de Here bewaart de getrouwen,maar ruimschoots vergeldt Hij de trotsen. Weest sterk en uw hart zij onversaagd,gij allen, die op de Here hoopt.
 Van David. Een leerdicht.Welzalig hij, wiens overtreding vergeven,wiens zonde bedekt is;
 welzalig de mens,wie de Here de ongerechtigheid niet toerekent,en in wiens geest geen bedrog is.
 Want zolang ik zweeg, kwijnde mijn gebeente wegonder mijn gejammer de ganse dag;
@@ -14405,6 +14405,7 @@ om hun ziel van de dood te redden,en hen in het leven te houden in hongersnood.
 Onze ziel verwacht de Here,Hij is onze hulp en ons schild.
 Ja, in Hem verheugt zich ons hart,ja, op zijn heilige naam vertrouwen wij.
 Uw goedertierenheid, Here, zij over ons,gelijk wij op U hopen.
+
 Van David, toen hij zich bij Abimelek als een waanzinnige gedroeg, zodat deze hem wegjoeg, en hij heenging.
 Ik wil de Here te allen tijde prijzen,bestendig zij zijn lof in mijn mond.
 In de Here beroeme zich mijn ziel;laten de ootmoedigen het horen en zich verheugen.
@@ -14426,8 +14427,7 @@ Roepen zij, dan hoort de Here,en Hij redt hen uit al hun benauwdheden.
 De Here is nabij de gebrokenen van harten Hij verlost de verslagenen van geest.
 Talrijk zijn de rampen van de rechtvaardige,maar uit die alle redt hem de Here;
 Hij behoedt al zijn beenderen,niet één daarvan wordt gebroken.
-Het onheil doodt de goddeloze,en wie de rechtvaardige haten, zullen ervoor boeten.
-De Here verlost de ziel van zijn knechten,allen die bij Hem schuilen, zullen niet boeten.
+Het onheil doodt de goddeloze,en wie de rechtvaardige haten, zullen ervoor boeten. De Here verlost de ziel van zijn knechten,allen die bij Hem schuilen, zullen niet boeten.
 Van David.Twist, Here, tegen wie met mij twisten,bestrijd wie mij bestrijden.
 Grijp schild en rondas,sta op, mij ter hulpe,
 zwaai speer en strijdbijl tegen mijn vervolgers,zeg tot mijn ziel: Ik ben uw verlossing.
@@ -14456,6 +14456,7 @@ dat zij in hun hart niet zeggen: Ha! onze wens!dat zij niet zeggen: Wij hebben h
 Laten tezamen beschaamd en schaamrood worden,wie zich verheugen over mijn rampspoed,laten met schande en smaad bekleed worden,wie tegen mij pralen.
 Laten jubelen en zich verheugen,wie mijn rechtvaardiging begeren;dat zij bestendig zeggen: De Here is groot,die welgevallen heeft aan het heil van zijn knecht.
 En mijn tong zal van uw gerechtigheid gewagen,van uw lof de ganse dag.
+
 Voor de koorleider. Van David, de knecht des Heren.
 De zonde spreekt tot de goddeloze diep in zijn hart;– geen vrees voor God staat hem voor ogen –
 want zij vleit hem in zijn eigen ogen,totdat men zijn ongerechtigheid ontdekt en haat.
@@ -14467,8 +14468,7 @@ Hoe kostelijk is uw goedertierenheid, o God;daarom schuilen de mensenkinderenin 
 zij laven zich aan het vette van uw huis,Gij drenkt hen met de stroom van uw liefelijkheden.
 Want bij U is de bron des levens,in uw licht zien wij het licht.
 Bestendig uw goedertierenheid voor wie U kennen,en uw gerechtigheid voor de oprechten van hart.
-Laat de trotse voet over mij niet komen,noch de hand der goddelozen mij doen vlieden.
-Daar zijn de bedrijvers van ongerechtigheid gevallen;zij zijn neergestoten en kunnen niet opstaan.
+Laat de trotse voet over mij niet komen,noch de hand der goddelozen mij doen vlieden. Daar zijn de bedrijvers van ongerechtigheid gevallen;zij zijn neergestoten en kunnen niet opstaan.
 Van David.Wees niet afgunstig op de bedrijvers van ongerechtigheid,benijd niet wie onrecht plegen;
 want zij verdorren snel als het gras,en verwelken als het groene kruid.
 Vertrouw op de Here en doe het goede,woon in het land en betracht getrouwheid;
@@ -14509,6 +14509,7 @@ Sla de vrome gade en zie op de oprechte,want de man des vredes heeft nakroost;
 maar de overtreders worden tezamen verdelgd,het nakroost van de goddelozen wordt uitgeroeid.
 Doch het heil der rechtvaardigen is van de Here,hun schutse ten tijde der benauwdheid;
 de Here helpt hen en doet hen ontkomen,Hij doet hen ontkomen aan de goddelozen en verlost hen,want zij schuilen bij Hem.
+
 Een psalm van David. Bij het gedenkoffer.
 Here, straf mij niet in uw toorn,en kastijd mij niet in uw grimmigheid;
 want uw pijlen zijn op mij nedergekomen,uw hand is op mij neergedaald.
@@ -14530,8 +14531,8 @@ Ja, ik dreig te struikelen,en mijn smart staat mij bestendig voor ogen;
 want ik belijd mijn ongerechtigheid,ik ben bekommerd vanwege mijn zonde.
 Mijn vijanden echter leven, zij zijn machtig,talrijk zijn zij, die mij trouweloos haten,
 zij, die mij kwaad voor goed vergeldenen mij wederstaan, omdat ik het goede najaag.
-Here, verlaat mij niet,mijn God, wees niet verre van mij!
-Haast U, mij ter hulpe,Here, mijn heil.
+Here, verlaat mij niet,mijn God, wees niet verre van mij! Haast U, mij ter hulpe,Here, mijn heil.
+
 Voor de koorleider. Voor Jedutun. Een psalm van David.
 Ik had gedacht: ik wil mijn wegen bewaren,opdat ik niet zondige met mijn tong;ik wil mijn mond met een muilband bedwingen,zolang de goddeloze voor mij staat.
 Ik was verstomd, sprakeloos,ik zweeg, verstoken van het goede;maar mijn smart werd heviger,
@@ -14544,8 +14545,8 @@ Red mij van al mijn overtredingen,stel mij niet tot een smaad voor de dwaas.
 Ik ben verstomd, ik doe mijn mond niet open,want Gij zelf hebt het gedaan.
 Neem uw plaag van mij weg,ik bezwijk onder de bestrijding van uw hand.
 Kastijdt Gij iemandmet straffen om zijn ongerechtigheid,dan doet Gij zijn schoonheid teloorgaan als door een mot;immers is ieder mens een ademtocht. sela
-Hoor mijn gebed, Here, en neem mijn hulpgeroep ter ore,zwijg niet bij mijn geween,want ik ben een vreemdeling bij U,een bijwoner gelijk al mijn vaderen.
-Wend uw blik van mij af, opdat ik mij wederom verblijde,eer dat ik heenga en niet meer ben.
+Hoor mijn gebed, Here, en neem mijn hulpgeroep ter ore,zwijg niet bij mijn geween,want ik ben een vreemdeling bij U,een bijwoner gelijk al mijn vaderen. Wend uw blik van mij af, opdat ik mij wederom verblijde,eer dat ik heenga en niet meer ben.
+
 Voor de koorleider. Van David. Een psalm.
 Vurig verwachtte ik de Here;toen neigde Hij Zich tot mij en hoorde mijn hulpgeroep,
 Hij trok mij op uit de kuil van het verderf,uit het slijk van de modderpoel;Hij stelde mijn voeten op een rots,mijn schreden maakte Hij vast,
@@ -14562,8 +14563,8 @@ Want rampen omgeven mij, zonder getal;mijn ongerechtigheden hebben mij achterhaa
 Het behage U, Here, mij te redden; Here, haast U mij ter hulpe.
 Laten tezamen beschaamd en schaamrood worden,wie mij het leven zoeken te benemen;terugdeinzen en te schande worden,wie mijn onheil begeren.
 Laten verstommen van schaamte,wie over mij roepen: Ha, ha!
-Laten in U jubelen en zich verheugenallen die U zoeken;laten wie uw heil liefhebben,bestendig zeggen: De Here is groot!
-Al ben ik ellendig en arm,de Here gedenkt mijner.Gij zijt mijn hulp en mijn bevrijder;o, mijn God, vertoef niet.
+Laten in U jubelen en zich verheugenallen die U zoeken;laten wie uw heil liefhebben,bestendig zeggen: De Here is groot! Al ben ik ellendig en arm,de Here gedenkt mijner.Gij zijt mijn hulp en mijn bevrijder;o, mijn God, vertoef niet.
+
 Voor de koorleider. Een psalm van David.
 Welzalig hij die acht slaat op de geringe;ten dage des onheils zal de Here hem uitkomst geven;
 de Here zal hem behoeden en hem in het leven behouden;hij zal geprezen worden op aarde;aan de lust van zijn vijanden geeft Gij hem niet prijs.
@@ -14576,8 +14577,8 @@ Een dodelijke kwaal is op hem uitgestort,nu hij neerligt, staat hij niet meer op
 Zelfs mijn vriend, op wie ik vertrouwde,die mijn brood at, heeft zijn hiel tegen mij opgeheven.
 Maar Gij, Here, wees mij genadig en richt mij op,dan wil ik het hun vergelden.
 Hieraan weet ik, dat Gij welgevallen aan mij hebt,wanneer mijn vijand niet over mij juicht.
-Mij echter, om mijn onschuld steunt Gij mij,Gij stelt mij voor uw aangezicht, voor altoos.
-Geloofd zij de Here, de God van Israël,van eeuwigheid en tot in eeuwigheid.Amen, ja amen.
+Mij echter, om mijn onschuld steunt Gij mij,Gij stelt mij voor uw aangezicht, voor altoos. Geloofd zij de Here, de God van Israël,van eeuwigheid en tot in eeuwigheid.Amen, ja amen.
+
 Voor de koorleider. Een leerdicht van de Korachieten.
 Gelijk een hinde die naar waterbeken smacht,zo smacht mijn ziel naar U, o God.
 Mijn ziel dorst naar God,naar de levende God;wanneer zal ik komenen voor Gods aangezicht verschijnen?
@@ -14588,13 +14589,13 @@ Mijn ziel buigt zich neder in mij,daarom gedenk ik Uweruit het land van de Jorda
 Watervloed roept tot watervloedbij het gebruis uwer stromen;al uw baren en golvenslaan over mij heen.
 Des daags zal de Here zijn goedertierenheid gebieden,en des nachts zal zijn lied bij mij zijn,een gebed tot de God mijns levens.
 Ik wil tot God, mijn rots, zeggen:Waarom vergeet Gij mij?Waarom ga ik in het zwartvanwege des vijands onderdrukking?
-Met een doodsteek in mijn beenderenhonen mij mijn tegenstanders,doordat zij de ganse dag tot mij zeggen:Waar is uw God?
-Wat buigt gij u neder, o mijn ziel,en wat zijt gij onrustig in mij?Hoop op God, want ik zal Hem nog loven,mijn Verlosser en mijn God!
+Met een doodsteek in mijn beenderenhonen mij mijn tegenstanders,doordat zij de ganse dag tot mij zeggen:Waar is uw God? Wat buigt gij u neder, o mijn ziel,en wat zijt gij onrustig in mij?Hoop op God, want ik zal Hem nog loven,mijn Verlosser en mijn God!
 Doe mij recht, o God, en voer mijn rechtsgedingtegen een volk zonder godsvrucht;doe mij ontkomen aan de man van bedrog en onrecht.
 Want Gij zijt de God mijner toevlucht;waarom verstoot Gij mij?Waarom ga ik in het zwartvanwege des vijands onderdrukking?
 Zend uw licht en uw waarheid;mogen die mij geleiden,mij brengen naar uw heilige bergen naar uw woningen,
 zodat ik kan gaan tot Gods altaar,tot de God mijner jubelende vreugde,en U love met de citer,o God, mijn God!
 Wat buigt gij u neder, o mijn ziel,en wat zijt gij onrustig in mij?Hoop op God, want ik zal Hem nog loven,mijn Verlosser en mijn God!
+
 Voor de koorleider. Van de Korachieten. Een leerdicht.
 O God, met eigen oren hebben wij het gehoord,onze vaderen verhaalden het ons:het werk dat Gij gewrocht hebt in hun dagen,in de dagen van ouds.
 Met uw hand hebt Gij volken verdreven, en hèn geplant,natiën geteisterd, en hèn uitgebreid.
@@ -14620,8 +14621,8 @@ zou God dat niet uitvorsen?Hij toch kent de geheimen des harten.
 Waarlijk, om Uwentwil worden wij de ganse dag gedood,wij worden gerekend als slachtschapen.
 Waak op! Waarom slaapt Gij, Here?Ontwaak! Verstoot niet voor eeuwig!
 Waarom verbergt Gij uw aangezicht,vergeet Gij onze ellende en verdrukking?
-Want onze ziel is in het stof gebogen,ons lijf kleeft aan de grond.
-Sta op, ons ter hulpe,verlos ons om uwer goedertierenheid wil.
+Want onze ziel is in het stof gebogen,ons lijf kleeft aan de grond. Sta op, ons ter hulpe,verlos ons om uwer goedertierenheid wil.
+
 Voor de koorleider. Op de wijze van: De leliën. Van de Korachieten. Een leerdicht; een lied der liefde.
 Mijn hart trilt van blijde woorden,ik draag mijn gedicht een koning voor,mijn tong is de stift van een vaardig schrijver.
 Gij zijt schoner dan de mensenkinderen,liefelijkheid is over uw lippen uitgegoten;daarom heeft God u voor altoos gezegend.
@@ -14638,8 +14639,8 @@ Dan zoeken, o dochter van Tyrus,de rijksten des volks met geschenken uw gunst.
 Louter pracht is de koningsdochter daarbinnen,van goudbrokaat is haar kleed;
 in kleurig geborduurde gewaden wordt zij tot de koning geleid,jonkvrouwen in haar gevolg, haar vriendinnen,worden tot u gebracht;
 onder vreugde en jubel worden zij binnengeleid,zij komen in des konings paleis.
-Op de plaats uwer vaderen zullen uw zonen staan,gij zult hen tot vorsten stellen over het ganse land.
-Ik wil uw naam vermelden in alle geslachten;daarom zullen volken u loven voor altoos en immer.
+Op de plaats uwer vaderen zullen uw zonen staan,gij zult hen tot vorsten stellen over het ganse land. Ik wil uw naam vermelden in alle geslachten;daarom zullen volken u loven voor altoos en immer.
+
 Voor de koorleider. Van de Korachieten. Op de wijze van: De jonkvrouwen. Een lied.
 God is ons een toevlucht en sterkte,ten zeerste bevonden een hulp in benauwdheden.
 Daarom zullen wij niet vrezen, al verplaatste zich de aarde,al wankelden de bergen in het hart van de zee.
@@ -14650,8 +14651,8 @@ Volkeren woedden, koninkrijken wankelden,Hij verhief zijn stem, de aarde versmol
 De Here der heerscharen is met ons,een burcht is ons de God van Jakob. sela
 Komt, aanschouwt de werken des Heren,die verwoesting op aarde aanricht,
 die oorlogen doet ophouden tot het einde der aarde,de boog verbreekt, de lans stukslaat,de strijdwagens met vuur verbrandt.
-Laat af en weet, dat Ik God ben;Ik ben verheven onder de volken, verheven op de aarde.
-De Here der heerscharen is met ons,een burcht is ons de God van Jakob. sela
+Laat af en weet, dat Ik God ben;Ik ben verheven onder de volken, verheven op de aarde. De Here der heerscharen is met ons,een burcht is ons de God van Jakob. sela
+
 Voor de koorleider. Van de Korachieten. Een psalm.
 Alle gij volken, klapt in de handen,juicht Gode toe met jubelgeroep.
 Want de Here, de Allerhoogste, is geducht,een groot Koning over de ganse aarde.
@@ -14660,8 +14661,8 @@ Hij kiest ons erfdeel voor ons uit,de trots van Jakob, die Hij liefheeft. sela
 God is opgevaren onder gejuich,de Here onder bazuingeschal.
 Psalmzingt Gode, psalmzingt,psalmzingt onze Koning, psalmzingt!
 Want God is de Koning der ganse aarde,psalmzingt met een kunstig lied.
-God regeert over de volken,God is gezeten op zijn heilige troon.
-De edelen der volken zijn bijeenvergaderd,als volk van Abrahams God.Want Godes zijn de schilden der aarde;Hij is hoog verheven.
+God regeert over de volken,God is gezeten op zijn heilige troon. De edelen der volken zijn bijeenvergaderd,als volk van Abrahams God.Want Godes zijn de schilden der aarde;Hij is hoog verheven.
+
 Een lied. Een psalm van de Korachieten.
 Groot is de Here en hoog te lovenin de stad van onze God zijn heilige berg.
 Schoon door zijn verhevenheid,een vreugde voor de ganse aardeis de berg Sion, ver in het noorden,de stad van de grote Koning.
@@ -14675,8 +14676,8 @@ Wij gedenken, o God, uw goedertierenheidin het midden van uw tempel.
 Gelijk uw naam, o God, zo is uw loftot aan de einden der aarde;uw rechterhand is vol van gerechtigheid.
 Laat de berg Sion zich verheugen;laten de dochters van Juda juichenom uw gerichten.
 Gaat rondom Sion en trekt eromheen,telt haar torens,
-richt uw aandacht op haar voormuur,doorwandelt haar paleizen,opdat gij het aan het volgende geslacht kunt vertellen:
-Waarlijk, zo is God, onze God, voor eeuwig en altoos;tot de dood toe zal Hij ons leiden.
+richt uw aandacht op haar voormuur,doorwandelt haar paleizen,opdat gij het aan het volgende geslacht kunt vertellen: Waarlijk, zo is God, onze God, voor eeuwig en altoos;tot de dood toe zal Hij ons leiden.
+
 Voor de koorleider. Van de Korachieten. Een psalm.
 Hoort dit, alle gij volken,neemt ter ore, alle bewoners der wereld,
 zowel geringen als aanzienlijken,rijken en armen tezamen.
@@ -14696,8 +14697,7 @@ Maar God zal mijn leven verlossenuit de macht van het dodenrijk,want Hij zal mij
 Vrees niet, als iemand rijk wordt,als de heerlijkheid van zijn huis toeneemt,
 want in zijn sterven neemt hij niets van dat alles mede,zijn heerlijkheid daalt hem niet achterna.
 Al prijst hij zich in zijn leven gelukkig,al looft men u, omdat gij u te goed doet,
-toch zult gij tot het geslacht van uw vaderen komen,die nimmermeer het licht zullen zien.
-De mens, die met al zijn praal geen inzicht heeft,is gelijk aan de beesten, die vergaan.
+toch zult gij tot het geslacht van uw vaderen komen,die nimmermeer het licht zullen zien. De mens, die met al zijn praal geen inzicht heeft,is gelijk aan de beesten, die vergaan.
 Een psalm van Asaf.De God der goden, de Here, spreekt en roept de aardevanwaar de zon opgaat tot waar zij ondergaat.
 Uit Sion, de volkomen schoonheid,verschijnt God in lichtglans.
 Onze God komt en zal niet zwijgen,vuur verteert vóór zijn aangezicht,rondom Hem stormt het geweldig.
@@ -14721,6 +14721,8 @@ gij zit en spreekt tegen uw broeder,gij werpt smaad op de zoon van uw moeder.
 Dit hebt gij gedaan en Ik heb gezwegen;gij beeldt u in, dat Ik geheel en al ben als gij.Ik wil u berispen en het u onder het oog brengen.
 Verstaat dit toch, gij, die God vergeet,opdat Ik niet verscheure, zonder dat iemand redt.
 Wie lof offert, eert Mij,en baant de weg, dat Ik hem Gods heil doe zien.
+
+
 Voor de koorleider. Een psalm van David,
 toen de profeet Natan bij hem gekomen was, nadat hij tot Batseba was gekomen.
 Wees mij genadig, o God, naar uw goedertierenheid,delg mijn overtredingen uit naar uw grote barmhartigheid;
@@ -14738,10 +14740,10 @@ hergeef mij de blijdschap over uw heil,en laat een gewillige geest mij schragen.
 Dan zal ik overtreders uw wegen leren,opdat zondaars zich tot U bekeren.
 Red mij van bloedschuld, o God, God mijns heils,laat mijn tong over uw gerechtigheid jubelen;
 Here, open mijn lippen,opdat mijn mond uw lof verkondige.
-Want Gij hebt geen behagen in slachtoffers,dat ik die brengen zou;aan brandoffers hebt Gij geen welgevallen.
-De offeranden Gods zijn een verbroken geest;een verbroken en verbrijzeld hartveracht Gij niet, o God.
-Doe wèl aan Sion naar uw welbehagen,bouw de muren van Jeruzalem.
-Dan zult Gij behagen hebben in offers naar de eis,brandoffers in hun geheel gebracht;dan zal men stieren op uw altaar offeren.
+Want Gij hebt geen behagen in slachtoffers,dat ik die brengen zou;aan brandoffers hebt Gij geen welgevallen. Doe wèl aan Sion naar uw welbehagen,bouw de muren van Jeruzalem.
+De offeranden Gods zijn een verbroken geest;een verbroken en verbrijzeld hartveracht Gij niet, o God. Dan zult Gij behagen hebben in offers naar de eis,brandoffers in hun geheel gebracht;dan zal men stieren op uw altaar offeren.
+
+
 Voor de koorleider. Een leerdicht van David,
 toen de Edomiet Doëg aan Saul mededeling was komen doen en tot hem gezegd had: David is in het huis van Achimelek gekomen.
 Wat beroemt gij u op het kwade, gij geweldige?Gods goedertierenheid duurt toch de ganse dag.
@@ -14749,26 +14751,25 @@ Gij zint op verderf,uw tong is als een scherpgeslepen scheermes,gij, die bedrog 
 Gij hebt het kwade lief boven het goede,leugen boven waarheid spreken. sela
 Gij houdt van allerlei verderfelijke taal,van een bedrieglijke tong.
 Maar God zal u voor eeuwig verbreken,Hij zal u wegrukken en uit de tent sleuren,u ontwortelen uit het land der levenden. sela
-Dan zullen de rechtvaardigen het zien en vrezen,en over hem lachen:
-Ziedaar de man die God niet tot zijn veste stelde,maar die op zijn grote rijkdom vertrouwde,zich sterk waande door wat zijn onheil werd.
-Maar ik ben als een groenende olijfboomin het huis van God;ik vertrouw op Gods goedertierenheid,altoos en immer.
-Voor altoos zal ik U loven,omdat Gij het gedaan hebt;ik zal uw naam verwachten – want die is goed –in tegenwoordigheid van uw gunstgenoten.
+Dan zullen de rechtvaardigen het zien en vrezen,en over hem lachen: Maar ik ben als een groenende olijfboomin het huis van God;ik vertrouw op Gods goedertierenheid,altoos en immer.
+Ziedaar de man die God niet tot zijn veste stelde,maar die op zijn grote rijkdom vertrouwde,zich sterk waande door wat zijn onheil werd. Voor altoos zal ik U loven,omdat Gij het gedaan hebt;ik zal uw naam verwachten – want die is goed –in tegenwoordigheid van uw gunstgenoten.
+
 Voor de koorleider. Op: Machalat. Een leerdicht van David.
 De dwaas zegt in zijn hart:Er is geen God.Zij bedrijven gruwelijk en afschuwelijk onrecht;niemand is er, die goed doet.
 God ziet neder uit de hemelop de mensenkinderen,om te zien, of er één verstandig is,één, die God zoekt.
 Allen zijn afgeweken, tezamen ontaard,er is niemand die goed doet, zelfs niet één.
 Hebben zij dan geen kennis, die bedrijvers van ongerechtigheid,die mijn volk opeten, als aten zij brood?God roepen zij niet aan.
-Daar verschrikken zij,terwijl er geen verschrikking is;want God verstrooit het gebeente van uw belager,gij doet hen beschaamd staan,want God heeft hen verworpen.
-Och, dat uit Sion Israëls redding daagde!Als God een keer brengt in het lot van zijn volk,dan zal Jakob juichen, Israël zich verheugen.
+Daar verschrikken zij,terwijl er geen verschrikking is;want God verstrooit het gebeente van uw belager,gij doet hen beschaamd staan,want God heeft hen verworpen. Och, dat uit Sion Israëls redding daagde!Als God een keer brengt in het lot van zijn volk,dan zal Jakob juichen, Israël zich verheugen.
+
+
 Voor de koorleider. Bij snarenspel. Een leerdicht van David,
 toen de Zifieten aan Saul waren komen zeggen: Verbergt David zich niet bij ons?
 O God, verlos mij door uw naam,verschaf mij recht door uw kracht.
 O God, hoor mijn gebed,neem ter ore de redenen van mijn mond.
 Want vreemden staan tegen mij op,geweldenaars staan mij naar het leven;zij houden God niet voor ogen. sela
-Zie, God is mij een helper,de Here is het, die mij schraagt.
-Hij zal het kwaad vergelden aan wie mij benauwen,verdelg hen in uw trouw.
-Ik zal U vrijwillig offers brengen,ik zal uw naam loven, Here, want hij is goed;
-omdat Hij mij gered heeft uit alle benauwdheid,zodat mijn oog met vreugde op mijn vijanden zag.
+Zie, God is mij een helper,de Here is het, die mij schraagt. Ik zal U vrijwillig offers brengen,ik zal uw naam loven, Here, want hij is goed;
+Hij zal het kwaad vergelden aan wie mij benauwen,verdelg hen in uw trouw. omdat Hij mij gered heeft uit alle benauwdheid,zodat mijn oog met vreugde op mijn vijanden zag.
+
 Voor de koorleider. Bij snarenspel. Een leerdicht van David.
 Neem, o God, mijn gebed ter ore,verberg U niet voor mijn smeking.
 Sla acht op mij en antwoord mij;in mijn onrust zwerf ik kreunend rond,
@@ -14791,8 +14792,8 @@ Hij verlost mijn ziel in vrede van de strijd tegen mij,want met velen zijn zij t
 God hoort en Hij zal hen vernederen– Hij, die van oudsher troont – selahen, die onbekeerlijk zijn en God niet vrezen.
 Hij strekt zijn handen uit tegen hen met wie hij vrede had,hij schendt zijn verbond;
 zijn mond is gladder dan boter,maar strijd is in zijn hart;zijn woorden zijn zachter dan olie,maar het zijn ontblote klingen.
-Werp uw bekommernis op de Here,Hij zal voor u zorgen;Hij zal nimmermeer toelaten, dat de rechtvaardige wankelt.
-Maar Gij, o God, zult hèn doen neerdalenin de kuil van het verderf;de mannen van bloed en bedrogzullen hun dagen niet ter helfte volbrengen.Ik echter vertrouw op U.
+Werp uw bekommernis op de Here,Hij zal voor u zorgen;Hij zal nimmermeer toelaten, dat de rechtvaardige wankelt. Maar Gij, o God, zult hèn doen neerdalenin de kuil van het verderf;de mannen van bloed en bedrogzullen hun dagen niet ter helfte volbrengen.Ik echter vertrouw op U.
+
 Voor de koorleider. Op de wijze van: De duif op verre terebinten.Van David. Een kleinood, toen de Filistijnen te Gat hem gegrepen hadden.
 Wees mij genadig, o God, want de mensen vertrappen mij,de ganse dag benauwen mij de bestrijders;
 wie mij benauwen, vertrappen mij de ganse dag,ja velen zijn het, die mij uit de hoogte bestrijden.
@@ -14805,8 +14806,8 @@ Mijn omzwerving hebt Gij te boek gesteld,doe mijn tranen in uw kruik;zijn zij ni
 Dan zullen mijn vijanden terugwijken ten dage dat ik roep;dit weet ik: dat God met mij is.
 Op God, wiens woord ik prijs,op de Here, wiens woord ik prijs,
 op God vertrouw ik, ik vrees niet;wat zou een mens mij aandoen?
-Op mij, o God, rusten geloften, U toegezegd,lofoffers zal ik U betalen,
-want Gij hebt mijn leven gered van de dood;immers ook mijn voet van aanstoot,zodat ik voor Gods aangezicht mag wandelenin het licht des levens.
+Op mij, o God, rusten geloften, U toegezegd,lofoffers zal ik U betalen, want Gij hebt mijn leven gered van de dood;immers ook mijn voet van aanstoot,zodat ik voor Gods aangezicht mag wandelenin het licht des levens.
+
 Voor de koorleider. Op de wijze van: Verderf niet.Van David. Een kleinood, toen hij voor Saul in de spelonk vluchtte.
 Wees mij genadig, o God, wees mij genadig,want bij U schuilt mijn ziel;ja, in de schaduw van uw vleugelen zal ik schuilen,totdat het onheil voorbij is.
 Ik roep tot God, de Allerhoogste,tot God, die het voor mij voleindigt.
@@ -14817,8 +14818,8 @@ Zij spanden een net voor mijn schreden,zij bogen mijn ziel terneer,zij groeven e
 Mijn hart is gerust, o God, mijn hart is gerust;ik wil zingen, ja psalmzingen.
 Waak op, mijn ziel, waak op, harp en citer;ik wil het morgenrood wekken.
 Ik zal U loven, o Here, onder de volken,ik zal U psalmzingen onder de natiën;
-want hemelhoog is uw goedertierenheid,tot aan de wolken reikt uw trouw.
-Verhef U boven de hemelen, o God;uw heerlijkheid zij over de ganse aarde.
+want hemelhoog is uw goedertierenheid,tot aan de wolken reikt uw trouw. Verhef U boven de hemelen, o God;uw heerlijkheid zij over de ganse aarde.
+
 Voor de koorleider. Op de wijze van: Verderf niet. Van David.Een kleinood.
 Spreekt gij, goden, inderdaad recht?Richt gij de mensenkinderen rechtmatig?
 Veeleer bedrijft gij euveldaden in het hart,op aarde weegt gij het geweld uwer handen af.
@@ -14829,8 +14830,8 @@ O, God, verbrijzel hun tanden in hun mond,sla de hoektanden der jonge leeuwen ui
 laten zij vergaan als water dat wegvloeit;legt hij zijn pijlen aan, dan mogen zij als afgestompt zijn;
 laten zij vergaan als een slak die voortkruipend wegsmelt,als de misdracht van een vrouw, die de zon niet heeft gezien;
 voordat uw potten de dorens bemerken,zowel groen als verschroeid, stormt Hij hen weg.
-De rechtvaardige zal zich verheugen,wanneer hij de wraak aanschouwt;hij zal zijn voeten wassen in het bloed van de goddeloze.
-En de mensen zullen zeggen:Toch is er loon voor de rechtvaardige,toch is er een God, die recht doet op aarde.
+De rechtvaardige zal zich verheugen,wanneer hij de wraak aanschouwt;hij zal zijn voeten wassen in het bloed van de goddeloze. En de mensen zullen zeggen:Toch is er loon voor de rechtvaardige,toch is er een God, die recht doet op aarde.
+
 Voor de koorleider. Op de wijze van: Verderf niet. Van David.Een kleinood, toen Saul zijn huis had laten bewaken om hem te doden.
 Red mij van mijn vijanden, o mijn God;beveilig mij voor hen die tegen mij opstaan;
 red mij van de bedrijvers van ongerechtigheid,en verlos mij van de mannen des bloeds.
@@ -14847,8 +14848,9 @@ Zonde van hun mond is het woord van hun lippen;laten zij daarom in hun hoogmoed 
 Vernietig hen in grimmigheid, vernietig hen,zodat zij niet meer zijn;opdat zij gewaarworden, dat God heerst in Jakob,tot aan de einden der aarde. sela
 Des avonds toch komen zij terug,zij huilen als honden en lopen de stad rond.
 Zij zwerven om te eten;als zij niet verzadigd zijn, dan grommen zij.
-Ik echter bezing uw sterkte,des morgens jubel ik over uw goedertierenheid;want Gij waart mij een burcht,een toevlucht ten dage toen ik benauwd was.
-Mijn sterkte, U wil ik psalmzingen;want God is mijn burcht,mijn goedertieren God.
+Ik echter bezing uw sterkte,des morgens jubel ik over uw goedertierenheid;want Gij waart mij een burcht,een toevlucht ten dage toen ik benauwd was. Mijn sterkte, U wil ik psalmzingen;want God is mijn burcht,mijn goedertieren God.
+
+
 Voor de koorleider. Op de wijze van: De lelie der getuigenis.
 Een kleinood van David, tot lering; toen hij de Arameeërs van Mesopotamië en de Arameeërs van Soba had bestreden, en Joab op de terugtocht de Edomieten in het Zoutdal had verslagen, twaalfduizend man.
 O God, Gij hebt ons verstoten, Gij hebt ons verbroken,Gij zijt verbolgen geweest; herstel ons!
@@ -14859,10 +14861,9 @@ opdat uw geliefden ten strijde toegerust zijn.Geef overwinning door uw rechterha
 God heeft gesproken in zijn heiligdom.Ik wil juichen, ik wil Sichem verdelen,het dal van Sukkot uitmeten.
 Mij behoort Gilead en mij behoort Manasse,Efraïm is de schutse van mijn hoofd,Juda is mijn heersersstaf;
 Moab is mijn wasbekken,op Edom werp ik mijn schoen,over Filistea juich ik.
-Wie zal mij naar de versterkte veste brengen,wie zal mij naar Edom geleiden?
-Zijt Gij het niet, o God, die ons verstoten hadt;zult Gij, o God, niet uittrekken met onze heerscharen?
-Bied ons hulp tegen de tegenstander,want mensenhulp is ijdel.
-Met God zullen wij kloeke daden doen,want Hij zelf zal onze tegenstanders vertreden.
+Wie zal mij naar de versterkte veste brengen,wie zal mij naar Edom geleiden? Bied ons hulp tegen de tegenstander,want mensenhulp is ijdel.
+Zijt Gij het niet, o God, die ons verstoten hadt;zult Gij, o God, niet uittrekken met onze heerscharen? Met God zullen wij kloeke daden doen,want Hij zelf zal onze tegenstanders vertreden.
+
 Voor de koorleider. Bij snarenspel. Van David.
 Hoor toch, o God, mijn smeking,sla acht op mijn gebed.
 Van het einde des lands roep ik tot U, omdat mijn hart bezwijkt;leid mij op een rots die mij te hoog zou zijn.
@@ -14870,8 +14871,8 @@ Want Gij zijt mij een schuilplaats geweest,een sterke toren tegen de vijand.
 Laat mij in uw tent voor altoos vertoeven,laat mij schuilen, geborgen onder uw vleugelen. sela
 Want Gij, o God, hebt gehoord naar mijn geloften,Gij hebt het erfdeel gegeven van hen die uw naam vrezen.
 Voeg dagen toe aan de dagen van de koning,mogen zijn jaren duren als van geslacht tot geslacht;
-moge hij voor altoos tronen voor Gods aangezicht,beschik goedertierenheid en trouw, dat zij hem behoeden.
-Dan wil ik uw naam voor immer psalmzingen,terwijl ik dag aan dag mijn geloften betaal.
+moge hij voor altoos tronen voor Gods aangezicht,beschik goedertierenheid en trouw, dat zij hem behoeden. Dan wil ik uw naam voor immer psalmzingen,terwijl ik dag aan dag mijn geloften betaal.
+
 Voor de koorleider. Naar de wijze van Jedutun. Een psalm van David.
 Waarlijk, mijn ziel keert zich stil tot God,van Hem is mijn heil;
 waarlijk, Hij is mijn rots en mijn heil,mijn burcht, ik zal niet te zeer wankelen.
@@ -14883,8 +14884,8 @@ Op God rust mijn heil en mijn eer,mijn sterke rots, mijn schuilplaats is in God.
 Vertrouwt op Hem te allen tijde, o volk,stort uw hart uit voor zijn aangezicht;God is ons een schuilplaats. sela
 Waarlijk, een ademtocht zijn de geringen,een leugen de aanzienlijken;in de weegschaal gaan zij omhoog,tezamen lichter dan een ademtocht.
 Vertrouwt niet op verdrukking,stelt geen ijdele hoop op roof;als het vermogen aanwast,zet er het hart niet op.
-God heeft eenmaal gesproken,ik heb dit tweemaal gehoord:de sterkte is Godes.
-Ook de goedertierenheid, o Here, is uwe,want Gij zult ieder vergelden naar zijn werk.
+God heeft eenmaal gesproken,ik heb dit tweemaal gehoord:de sterkte is Godes. Ook de goedertierenheid, o Here, is uwe,want Gij zult ieder vergelden naar zijn werk.
+
 Een psalm van David, toen hij in de woestijn van Juda was.
 O God, Gij zijt mijn God, U zoek ik,mijn ziel dorst naar U,mijn vlees smacht naar U,in een dor en dorstig land, zonder water.
 Zo heb ik U in het heiligdom aanschouwd,ziende uw sterkte en uw heerlijkheid.
@@ -14895,8 +14896,8 @@ wanneer ik Uwer gedenk op mijn legerstede,in nachtwaken over U peins.
 Want Gij zijt mij een hulp geweest,in de schaduw van uw vleugelen jubel ik.
 Mijn ziel is aan U verkleefd,uw rechterhand houdt mij vast.
 Maar wie mijn leven zoeken te verderven,zullen komen in de diepten der aarde.
-Men zal hen overleveren aan de macht van het zwaard,zij zullen een prooi der vossen worden.
-Maar de koning zal zich in God verheugen;ieder die bij Hem zweert, zal zich beroemen,omdat de mond der leugensprekers wordt gestopt.
+Men zal hen overleveren aan de macht van het zwaard,zij zullen een prooi der vossen worden. Maar de koning zal zich in God verheugen;ieder die bij Hem zweert, zal zich beroemen,omdat de mond der leugensprekers wordt gestopt.
+
 Voor de koorleider. Een psalm van David.
 Hoor, o God, mijn stem in mijn klagen,behoed mijn leven voor de verschrikking van de vijand;
 verberg mij voor de raadslag van de boosdoeners,voor het woelen van de bedrijvers van ongerechtigheid,
@@ -14906,8 +14907,8 @@ Zij verstouten zich tot een boos stuk,zij spreken ervan strikken te verbergen;zi
 Zij zinnen op euveldaden:„Wij zijn gereed, het plan is goed bedacht”.Ja, ieders binnenste en hart is ondoorgrondelijk.
 Maar plotseling treft God hen met een pijl;daar zijn nu hun wonden.
 Hun tong doet hen over zichzelf struikelen;al wie naar hen ziet, schudt het hoofd.
-Dan vrezen alle mensen en verkondigen Gods daad,en slaan acht op zijn werk.
-De rechtvaardige zal zich in de Here verheugenen bij Hem schuilen,alle oprechten van hart zullen zich beroemen.
+Dan vrezen alle mensen en verkondigen Gods daad,en slaan acht op zijn werk. De rechtvaardige zal zich in de Here verheugenen bij Hem schuilen,alle oprechten van hart zullen zich beroemen.
+
 Voor de koorleider. Een psalm van David. Een lied.
 U komt stilheid toe, een lofzang, o God in Sion;U worde gelofte betaald.
 Hoorder van het gebed,tot U komt al wat leeft.
@@ -14920,8 +14921,7 @@ Daarom vrezen zij die de einden bewonen,voor uw tekenen;waar de morgen gloort en
 Gij bezoekt het land en verleent het overvloed,Gij maakt het zeer rijk.De beek Gods is vol water,Gij bereidt hun koren. Ja, zo bereidt Gij alles.
 Gij drenkt zijn voren, Gij doorvochtigt zijn kluiten,door regenstromen maakt Gij het week; Gij zegent zijn gewas.
 Gij kroont het jaar van uw goedheid,uw sporen druipen van vet;
-de dreven der steppe druipen,de heuvelen omgorden zich met gejuich;
-de landouwen zijn bekleed met kudden,de dalen tooien zich met koren:zij jubelen elkander toe, ook zingen zij.
+de dreven der steppe druipen,de heuvelen omgorden zich met gejuich; de landouwen zijn bekleed met kudden,de dalen tooien zich met koren:zij jubelen elkander toe, ook zingen zij.
 Voor de koorleider. Een psalm. Een lied.Juicht Gode, gij ganse aarde,
 psalmzingt de heerlijkheid van zijn naam;maakt zijn lof heerlijk.
 Zegt tot God: Hoe geducht zijn uw werken;vanwege uw machtige grootheidbrengen uw vijanden U veinzend hulde.
@@ -14942,14 +14942,15 @@ Nauwelijks had ik met mijn mond tot Hem geroepen,of er was een lofzang onder mij
 Had ik onrecht beoogd in mijn hart,dan zou de Here niet hebben gehoord.
 Voorwaar, God heeft gehoord,Hij heeft gelet op mijn luid gebed.
 Geprezen zij God, die mijn gebed niet afwees,noch mij zijn goedertierenheid onthield.
+
 Voor de koorleider. Bij snarenspel. Een psalm. Een lied.
 God zij ons genadig en zegene ons,Hij doe zijn aanschijn bij ons lichten; sela
 opdat men op aarde uw weg kenne,onder alle volken uw heil.
 Dat de volken U loven, o God;dat de volken altegader U loven.
 Dat de natiën zich verheugen en jubelen,omdat Gij de volken in rechtmatigheid richt,en de natiën op de aarde leidt. sela
 Dat de volken U loven, o God,dat de volken altegader U loven.
-De aarde gaf haar gewas,God, onze God, zegent ons;
-God zegent ons,opdat alle einden der aarde Hem vrezen.
+De aarde gaf haar gewas,God, onze God, zegent ons; God zegent ons,opdat alle einden der aarde Hem vrezen.
+
 Voor de koorleider. Van David. Een psalm. Een lied.
 God staat op, zijn vijanden worden verstrooid,zijn haters vluchten voor zijn aangezicht.
 Gelijk rook verdreven wordt, verdrijft Gij hen;gelijk was smelt voor het vuur,zo vergaan de goddelozen voor Gods aangezicht.
@@ -14984,8 +14985,8 @@ Bedreig het gedierte in het riet,de stierenbende met de kalveren der volken,Gij,
 Aanzienlijken naderen uit Egypte,Ethiopië strekt haastig de handen uit tot God.
 Gij koninkrijken der aarde, zingt Gode,psalmzingt de Here; sela
 Hem, die door de aloude hemel der hemelen rijdt.Hoor, Hij laat zijn machtige stem weerklinken!
-Geeft Gode sterkte;zijn majesteit is over Israël,zijn sterkte in de wolken.
-Geducht zijt Gij, o God, uit uw heiligdom;Hij, Israëls God, verleent sterkteen volheid van kracht aan zijn volk.Geprezen zij God!
+Geeft Gode sterkte;zijn majesteit is over Israël,zijn sterkte in de wolken. Geducht zijt Gij, o God, uit uw heiligdom;Hij, Israëls God, verleent sterkteen volheid van kracht aan zijn volk.Geprezen zij God!
+
 Voor de koorleider. Op de wijze van: De leliën. Van David.
 Verlos mij, o God, want het wateris gekomen tot aan de lippen;
 ik ben verzonken in bodemloos slijk,waar ik niet kan staan;ik ben gekomen in diepe wateren,een vloed overstroomt mij.
@@ -15021,14 +15022,13 @@ dat zal de Here meer behagen dan een rund,dan een stier met horens en hoeven.
 De ootmoedigen zullen het zien, zij zullen zich verheugen;gij, die God zoekt, uw hart leve op.
 Want de Here hoort naar de armen,en zijn gevangenen veracht Hij niet.
 Dat hemel en aarde Hem loven,de zeeën en al wat daarin wemelt.
-Want God zal Sion verlossenen de steden van Juda bouwen,opdat zij daar wonen en het bezitten;
-het kroost van zijn knechten zal het beërven,en wie zijn naam liefhebben, zullen daarin wonen.
+Want God zal Sion verlossenen de steden van Juda bouwen,opdat zij daar wonen en het bezitten; het kroost van zijn knechten zal het beërven,en wie zijn naam liefhebben, zullen daarin wonen.
+
 Voor de koorleider. Van David. Bij het gedenkoffer.
 O God, haast U om mij te redden,o Here, mij ter hulpe!
 Laten beschaamd en schaamrood worden,wie mij naar het leven staan;terugdeinzen en te schande worden,wie mijn onheil begeren;
 laten zich omkeren van schaamte,wie roepen: Ha, ha!
-Laten in U jubelen en zich verheugenallen die U zoeken;laten wie uw heil liefhebben,bestendig zeggen: God is groot!
-Ik ben wel ellendig en arm –o God, haast U tot mij!Gij zijt mijn hulp en mijn bevrijder;o Here, vertoef niet!
+Laten in U jubelen en zich verheugenallen die U zoeken;laten wie uw heil liefhebben,bestendig zeggen: God is groot! Ik ben wel ellendig en arm –o God, haast U tot mij!Gij zijt mijn hulp en mijn bevrijder;o Here, vertoef niet!
 Bij U, o Here, schuil ik;laat mij nimmer beschaamd worden.
 Red mij en bevrijd mij door uw gerechtigheid;neig uw oor tot mij en verlos mij.
 Wees mij tot een rots ter woning,waarheen ik bestendig kan gaan,die Gij beschikt hebt tot mijn redding,want mijn rots en mijn vesting zijt Gij.
@@ -15124,6 +15124,7 @@ Aanschouw het verbond,want de duistere plaatsen des lands zijn vol holen van gew
 Laat de onderdrukte niet beschaamd terugkeren,laat de ellendige en de arme uw naam prijzen.
 Sta toch op, o God! Voer toch uw rechtsgeding.Gedenk de smaaddie de dwazen U de ganse dag aandoen.
 Vergeet het geschreeuw van uw tegenstanders niet,het getier van wie tegen U opstaan,dat bestendig omhoog stijgt.
+
 Voor de koorleider. Op de wijze van: Verderf niet. Een psalm van Asaf. Een lied.
 Wij loven U, o God, wij loven,want nabij is uw naam, men vertelt uw wonderen.
 Wanneer Ik het tijdstip gekozen heb,dan zal Ik rechtmatig richten;
@@ -15133,8 +15134,8 @@ heft uw hoorn niet op naar den hogeen spreekt niet met trotse hals.
 Want het verhogen komt niet van oost of van west,noch uit de woestijn –
 maar God is rechter,Hij vernedert deze en verhoogt gene.
 Want in des Heren hand is een bekeren de wijn bruist daarin, overvloedig gemengd;Hij schenkt daaruit tot de droesem toe,alle goddelozen op aarde moeten hem slorpende drinken.
-Maar mij aangaande, ik zal dit voor altoos vermelden,ik wil de God van Jakob psalmzingen,
-en alle hoornen der goddelozen zal ik afhouwen;de hoornen des rechtvaardigen zullen verhoogd worden.
+Maar mij aangaande, ik zal dit voor altoos vermelden,ik wil de God van Jakob psalmzingen, en alle hoornen der goddelozen zal ik afhouwen;de hoornen des rechtvaardigen zullen verhoogd worden.
+
 Voor de koorleider. Bij snarenspel. Een psalm van Asaf. Een lied.
 God is bekend in Juda,zijn naam is groot in Israël;
 in Salem was immers zijn tent,en op Sion zijn woning;
@@ -15146,8 +15147,8 @@ Gij, geducht zijt Gij; wie kan bestaanvoor uw aangezicht, wanneer uw toorn ontbr
 Uit de hemel deedt Gij het oordeel horen,de aarde vreesde en werd stil,
 toen God opstond ten gerichteom al de ootmoedigen op aarde te verlossen. sela
 Waarlijk, de grimmige mensen moeten U loven,Gij beteugelt de rest der grimmigen.
-Doet geloften en betaalt ze de Here, uw God;allen rondom Hem moeten gaven brengen aan de Geduchte,
-die de toorn der vorsten verslaat,die voor de koningen der aarde geducht is.
+Doet geloften en betaalt ze de Here, uw God;allen rondom Hem moeten gaven brengen aan de Geduchte, die de toorn der vorsten verslaat,die voor de koningen der aarde geducht is.
+
 Voor de koorleider. Op Jedutun. Een psalm van Asaf.
 Mijn stem is tot God, en ik roep;mijn stem is tot God, opdat Hij zijn oor tot mij neige.
 Ten dage mijner benauwdheid zoek ik de Here,des nachts is mijn hand uitgestrekt en zij wordt niet moede,mijn ziel weigert zich te laten troosten.
@@ -15167,8 +15168,7 @@ Gij hebt uw volk met machtige arm verlost,de zonen van Jakob en Jozef. sela
 De wateren zagen U, o God,de wateren zagen U, zij sidderden,zelfs de diepten beefden.
 De wolken goten water uit,het zwerk deed de donder horen,ook vlogen uw pijlen rond.
 Het gedreun van uw donder rolde voort,de bliksemen verlichtten de wereld,de aarde sidderde en beefde.
-Uw weg was in de zee,uw pad in grote wateren,zodat uw voetsporen niet werden gekend.
-Gij leiddet uw volk als een kuddedoor de hand van Mozes en Aäron.
+Uw weg was in de zee,uw pad in grote wateren,zodat uw voetsporen niet werden gekend. Gij leiddet uw volk als een kuddedoor de hand van Mozes en Aäron.
 Een leerdicht van Asaf.Wend het oor, mijn volk, tot mijn leer,neigt uw oor tot de woorden van mijn mond;
 ik wil mijn mond tot een spreuk opendoen,ik wil aloude verborgenheden verkondigen.
 Hetgeen wij gehoord hebben en weten,en onze vaderen ons hebben verteld,
@@ -15254,6 +15254,7 @@ Waarom zouden de heidenen zeggen:Waar is hun God?Laat voor onze ogen onder de he
 Het zuchten der gevangenen kome voor uw aangezicht,doe de ten dode gedoemdenoverblijven naar de grootheid van uw arm.
 Vergeld onze naburen in hun boezem zevenvoudigde smaad waarmee zij U bejegenen, o Here.
 Dan zullen wij, uw volk, en de schapen die Gij weidt,U voor altoos loven,van geslacht tot geslacht uw roem verkondigen.
+
 Voor de koorleider. Op de wijze van: De leliën. Een getuigenis van Asaf. Een psalm.
 Herder Israëls, neem ter ore!Gij, die Jozef leidt als schapen,Gij, die op de cherubs troont, verschijn in lichtglans.
 Wek uw sterkte opvóór Efraïm, Benjamin en Manasse;en kom tot onze verlossing.
@@ -15272,8 +15273,8 @@ O God der heerscharen, keer toch weder,aanschouw uit de hemel en zie,en sla acht
 de stek die uw rechterhand heeft geplant,op de zoon die Gij U hebt grootgebracht.
 Als afval is hij met vuur verbrand;door uw dreigende aanblik gaan zij te gronde.
 Uw bescherming zij over de man van uw rechterhand,over het mensenkind dat Gij U hebt grootgebracht.
-Dan zullen wij niet van U wijken;maak ons levend, dan zullen wij uw naam aanroepen.
-Here, God der heerscharen, herstel ons,doe uw aanschijn lichten, opdat wij verlost worden.
+Dan zullen wij niet van U wijken;maak ons levend, dan zullen wij uw naam aanroepen. Here, God der heerscharen, herstel ons,doe uw aanschijn lichten, opdat wij verlost worden.
+
 Voor de koorleider. Op de Gittit. Van Asaf.
 Jubelt Gode, onze sterkte,juicht ter ere van Jakobs God.
 Heft een zang aan, laat de tamboerijn horen,de liefelijke citer met de harp.
@@ -15289,8 +15290,7 @@ Maar mijn volk luisterde niet naar mijn stem,Israël was onwillig tegen Mij.
 Daarom liet Ik hen gaan in de verstoktheid huns harten,zodat zij in hun eigen raadslagen wandelden.
 Och, dat mijn volk naar Mij luisterde,dat Israël in mijn wegen wandelde!
 Welhaast zou Ik hun vijanden vernederen,en mijn hand tegen hun tegenstanders keren.
-Zij die de Here haten, zouden Hem veinzend hulde brengen,en hun straftijd zou voor altoos duren.
-Hij zou hen gespijzigd hebben met het vette der tarwe,ja, Ik zou u verzadigd hebben met honig uit de rots.
+Zij die de Here haten, zouden Hem veinzend hulde brengen,en hun straftijd zou voor altoos duren. Hij zou hen gespijzigd hebben met het vette der tarwe,ja, Ik zou u verzadigd hebben met honig uit de rots.
 Een psalm van Asaf.God staat in de vergadering der goden,Hij houdt gericht te midden der goden.
 Hoelang zult gij onrechtvaardig richten,en de goddelozen gunst bewijzen? sela
 Richt de geringe en de wees,doet recht de ellendige en de behoeftige,
@@ -15299,6 +15299,7 @@ Zij weten niets en begrijpen niets,in duisternis wandelen zij rond;alle grondves
 Wel heb Ik gezegd: Gij zijt goden,ja, allen zonen des Allerhoogsten;
 nochtans zult gij sterven als mensen,als een der vorsten zult gij vallen.
 Sta op, o God, richt de aarde,want Gij bezit alle volken.
+
 Een lied. Een psalm van Asaf.
 O God, houd U niet stil,zwijg niet en blijf niet werkeloos, o God.
 Want zie, uw vijanden tieren,uw haters steken het hoofd op;
@@ -15316,8 +15317,8 @@ Mijn God, maak hen als een werveldistel,als kaf voor de wind.
 Gelijk een vuur dat het woud verbrandt,gelijk een vlam die de bergen in laaiende gloed zet,
 vervolg hen zó met uw storm,verschrik hen met uw wervelwind;
 overdek hun aangezicht met schande,opdat zij uw naam zoeken, o Here.
-Laten zij voor immer beschaamd en verschrikt worden,schaamrood worden en te gronde gaan,
-opdat zij weten, dat alleen uw naam is: Here,de allerhoogste over de ganse aarde.
+Laten zij voor immer beschaamd en verschrikt worden,schaamrood worden en te gronde gaan, opdat zij weten, dat alleen uw naam is: Here,de allerhoogste over de ganse aarde.
+
 Voor de koorleider. Op de Gittit. Van de Korachieten. Een psalm.
 Hoe liefelijk zijn uw woningen, o Here der heerscharen!
 Mijn ziel verlangt, ja smacht naar de voorhoven des Heren;mijn hart en mijn vlees jubelen tot de levende God.
@@ -15329,8 +15330,8 @@ Zij gaan voort van kracht tot krachten verschijnen voor God in Sion.
 Here, God der heerscharen, hoor mijn gebed,neem het ter ore, o God van Jakob! sela
 O God, ons schild, zieen aanschouw het aangezicht van uw gezalfde.
 Want één dag in uw voorhoven is beter dan duizend (elders);ik wil liever staan aan de drempel van het huis mijns Godsdan verblijven in de tenten der goddeloosheid.
-Want de Here God is een zon en schild,de Here geeft genade en ere;het goede onthoudt Hij niet aan hendie onberispelijk wandelen.
-Here der heerscharen,welzalig de mens die op U vertrouwt.
+Want de Here God is een zon en schild,de Here geeft genade en ere;het goede onthoudt Hij niet aan hendie onberispelijk wandelen. Here der heerscharen,welzalig de mens die op U vertrouwt.
+
 Voor de koorleider. Van de Korachieten. Een psalm.
 Gij zijt uw land goedgunstig geweest, o Here,in het lot van Jakob hebt Gij een keer gebracht;
 Gij hebt de ongerechtigheid van uw volk vergeven,al hun zonden bedekt. sela
@@ -15343,8 +15344,7 @@ Ik wil horen wat God, de Here, spreekt;want Hij zal van vrede sprekentot zijn vo
 Waarlijk, zijn heil is nabij hen die Hem vrezen,zodat heerlijkheid in ons land woont.
 Goedertierenheid en trouw ontmoeten elkander,gerechtigheid en vrede kussen elkaar,
 trouw spruit voort uit de aarde,en gerechtigheid ziet neder van de hemel.
-Ook zal de Here het goede geven,en ons land zal zijn gewas voortbrengen;
-gerechtigheid zal voor Hem uitgaanen zijn schreden richten op de weg.
+Ook zal de Here het goede geven,en ons land zal zijn gewas voortbrengen; gerechtigheid zal voor Hem uitgaanen zijn schreden richten op de weg.
 Een gebed van David.Neig uw oor, o Here, antwoord mij,want ik ben ellendig en arm;
 behoed mijn ziel, want ik ben godvrezend;Gij, mijn God, verlos uw knecht die op U vertrouwt.
 Wees mij genadig, o Here,want tot U roep ik de ganse dag.
@@ -15369,6 +15369,7 @@ Rahab en Babel vermeld Ik als degenen die Mij kennen;zie, Filistea en Tyrus met 
 Ja, van Sion wordt gezegd:Ieder van hen is in haar geboren,Hij, de Allerhoogste, bevestigt haar.
 De Here telt bij het opschrijven der volken:deze is daar geboren. sela
 En zij zingen bij reidans:Al mijn bronnen zijn in u!
+
 Een lied. Een psalm van de Korachieten. Voor de koorleider. Op: Machalat leannot. Een leerdicht van Heman, de Ezrachiet.
 Here, God van mijn heil, des daags roep ik,des nachts ben ik vóór uw ogen.
 Laat mijn gebed voor uw aangezicht komen,neig uw oor tot mijn geroep;
@@ -15386,8 +15387,8 @@ Maar ik roep tot U, o Here,des morgens komt mijn gebed vóór U.
 Waarom, o Here, verstoot Gij mij,verbergt Gij uw aangezicht voor mij?
 Ik ben ellendig en wegstervend van mijn jeugd aan,ik draag uw verschrikkingen, ik ben radeloos;
 uw brandende toorn gaat over mij heen,uw verschrikkingen vernietigen mij;
-de ganse dag omringen zij mij als water,zij omsingelen mij tezamen.
-Vriend en metgezel hebt Gij van mij verwijderd;mijn bekenden zijn een en al duisternis.
+de ganse dag omringen zij mij als water,zij omsingelen mij tezamen. Vriend en metgezel hebt Gij van mij verwijderd;mijn bekenden zijn een en al duisternis.
+
 Een leerdicht van Etan, de Ezrachiet.
 Van de gunstbewijzen des Heren wil ik altoos zingen,van geslacht tot geslacht zal ik uw trouwmet mijn mond verkondigen.
 Want ik zeide: Voor eeuwig wordt de goedertierenheid gebouwd;in de hemel bevestigt Gij uw trouw.
@@ -15439,8 +15440,7 @@ Gedenk, wat mijn levensduur is,tot welke nietigheid Gij alle mensenkinderen hebt
 Welke mens leeft er, die de dood niet zien zal,die zijn ziel zal redden uit de macht van het dodenrijk? sela
 Waar zijn, o Here, uw vroegere gunstbewijzen,die Gij in uw trouw aan David hebt gezworen?
 Gedenk, Here, de smaad, uw knechten aangedaan;hoe ik in mijn boezem (de hoon) van alle grote volken draag,
-waarmee uw vijanden smaden, o Here,waarmee zij smaden de voetsporen van uw gezalfde!
-Geloofd zij de Here voor eeuwig.Amen, ja amen.
+waarmee uw vijanden smaden, o Here,waarmee zij smaden de voetsporen van uw gezalfde! Geloofd zij de Here voor eeuwig.Amen, ja amen.
 Een gebed van Mozes, de man Gods.Here, Gij zijt ons een toevlucht geweestvan geslacht tot geslacht;
 eer de bergen geboren waren,en Gij aarde en wereld hadt voortgebracht,ja, van eeuwigheid tot eeuwigheid zijt Gij God.
 Gij doet de sterveling wederkeren tot stof,en zegt: Keert weder, gij mensenkinderen.
@@ -15474,6 +15474,7 @@ Op leeuw en adder zult gij treden,jonge leeuw en slang zult gij vertrappen.
 Omdat hij Mij zeer bemint, zal Ik hem bevrijden;Ik zal hem beschutten, omdat hij mijn naam kent.
 Roept hij Mij aan, Ik zal hem antwoorden;Ik zal in de benauwdheid bij hem zijn,Ik zal hem uitredden en tot ere brengen.
 Met lengte van dagen zal Ik hem verzadigen,en Ik zal hem mijn heil doen zien.
+
 Een psalm. Een lied voor de sabbatdag.
 Het is goed de Here te loven,uw naam psalmen te zingen, o Allerhoogste,
 in de morgenstond uw goedertierenheid te verkondigen,en uw trouw in de nachten,
@@ -15488,8 +15489,7 @@ Want Gij hebt mijn hoorn verhoogd als van een woudos,ik ben met verse olie overg
 mijn oog vermeit zich in hen die mij beloeren;mijn oren horen van de boosdoeners die tegen mij opstaan.
 De rechtvaardige zal groeien als een palmboom,opschieten als een ceder van de Libanon;
 geplant in het huis des Herengroeien zij in de voorhoven van onze God;
-zij zullen in de ouderdom nog vrucht dragen,fris en groen zullen zij zijn;
-om te verkondigen, dat de Here waarachtig is,mijn rots, in wie geen onrecht is.
+zij zullen in de ouderdom nog vrucht dragen,fris en groen zullen zij zijn; om te verkondigen, dat de Here waarachtig is,mijn rots, in wie geen onrecht is.
 De Here is Koning.Met majesteit heeft Hij Zich bekleed;de Here heeft Zich bekleed,Hij heeft Zich met kracht omgord.Vast staat nu de wereld, zij wankelt niet.
 Uw troon staat vast van oudsher,van eeuwigheid zijt Gij.
 Stromen verheffen, o Here,stromen verheffen hun stem,stromen verheffen hun bruisen;
@@ -15585,6 +15585,7 @@ Wie zijn naaste heimelijk lastert,die zal ik verdelgen;wie hoog van ogen en trot
 Mijn ogen zijn op de getrouwen in den landeom bij mij te wonen;wie onberispelijk wandelt,die zal mij dienen.
 In mijn huis zal geen bedrieger wonen;de leugenspreker zal niet bestaan voor mijn ogen.
 Elke morgen zal ik verdelgenalle goddelozen des lands,en uit de stad des Heren uitroeienalle bedrijvers van ongerechtigheid.
+
 Een gebed van een ellendige, wanneer hij bezwijkt en voor de Here zijn klacht uitstort.
 Here, hoor mijn gebed,laat mijn hulpgeroep tot U komen;
 verberg uw aangezicht niet voor mijten dage dat het mij bang te moede is;neig uw oor tot mij;ten dage dat ik roep, antwoord mij haastelijk.
@@ -15612,8 +15613,7 @@ Hij heeft op de weg mijn kracht gebroken,mijn dagen verkort.
 Ik zeg: Mijn God, neem mij niet weg op de helft mijner dagen,Gij, wiens jaren duren door alle geslachten heen.
 Gij hebt voormaals de aarde gegrondvest,en de hemel is het werk uwer handen;
 die zullen vergaan, maar Gij houdt stand,zij alle zullen verslijten als een kleed,Gij verwisselt ze als een gewaad, en zij verdwijnen;
-maar Gij blijft dezelfde,aan uw jaren komt geen einde.
-De kinderen uwer knechten zullen veilig wonen,hun nageslacht zal voor uw aangezicht blijven bestaan.
+maar Gij blijft dezelfde,aan uw jaren komt geen einde. De kinderen uwer knechten zullen veilig wonen,hun nageslacht zal voor uw aangezicht blijven bestaan.
 Van David.Loof de Here, mijn ziel,en al wat in mij is, zijn heilige naam;
 loof de Here, mijn ziel,en vergeet niet een van zijn weldaden;
 die al uw ongerechtigheden vergeeft,die al uw krankheden geneest,
@@ -15807,6 +15807,7 @@ Over de edelen giet Hij schande uit,Hij doet hen ronddolen in ongebaande wildern
 Maar de arme beschermt Hij tegen verdrukkingen maakt geslachten talrijk als een kudde.
 De oprechten zien het en verheugen zich,alle onrecht sluit de mond.
 Wie is wijs? Hij lette op deze dingen,laat men acht slaan op de gunstbewijzen des Heren.
+
 Een lied. Een psalm van David.
 Mijn hart is gerust, o God,ik wil zingen, psalmzingen, ja van harte.
 Waak op, harp en citer,ik wil het morgenrood wekken.
@@ -15819,8 +15820,7 @@ Mij behoort Gilead, mij behoort Manasse,Efraïm is de schutse van mijn hoofd,Jud
 Moab is mijn wasbekken,op Edom werp ik mijn schoen,over Filistea zal ik juichen.
 Wie zal mij naar de versterkte veste brengen,wie zal mij naar Edom geleiden?
 Zijt Gij het niet, o God, die ons verstoten hadt,zult Gij, o God, niet uittrekken met onze heerscharen?
-Bied ons hulp tegen de tegenstander,want mensenhulp is ijdel.
-Met God zullen wij kloeke daden doen,want Hij zelf zal onze tegenstanders vertreden.
+Bied ons hulp tegen de tegenstander,want mensenhulp is ijdel. Met God zullen wij kloeke daden doen,want Hij zelf zal onze tegenstanders vertreden.
 Voor de koorleider. Van David. Een psalm.O God, die ik loof, zwijg niet,
 want een goddeloze en bedrieglijke mondhebben zij tegen mij opengedaan;zij spreken tegen mij met een leugentong,
 met woorden van haat omringen zij mijen zij bestrijden mij zonder oorzaak;
@@ -16329,6 +16329,7 @@ Zou ik niet haten, Here, wie U haten,niet verafschuwen wie tegen U opstaan?
 Ik haat hen met een volkomen haat,tot vijanden zijn zij mij.
 Doorgrond mij, o God, en ken mijn hart,toets mij en ken mijn gedachten;
 zie, of bij mij een heilloze weg is,en leid mij op de eeuwige weg.
+
 Voor de koorleider. Een psalm van David.
 Red mij, o Here, van de boze mensen,bewaar mij voor de mannen van het geweld,
 die boze dingen in hun hart beramen,de ganse dag strijd verwekken;
@@ -16341,8 +16342,7 @@ O Here, willig de begeerten van de goddeloze niet in,laat zijn aanslag niet gelu
 Het venijn van wie mij omringen,het onheil van hun lippen moge hen overdekken,
 gloeiende kolen mogen op hen neerdalen.Hij doe hen vallen in het vuur, in kuilen,zodat zij niet weder opstaan.
 De kwaadspreker moge niet bestaan in het land,het onheil vange ijlings de man van het geweld.
-Ik weet, dat de Here het geding van de ellendige berecht,de pleitzaak der armen.
-Waarlijk, de rechtvaardigen zullen uw naam loven,de oprechten zullen voor uw aangezicht wonen.
+Ik weet, dat de Here het geding van de ellendige berecht,de pleitzaak der armen. Waarlijk, de rechtvaardigen zullen uw naam loven,de oprechten zullen voor uw aangezicht wonen.
 Een psalm van David.O Here, ik roep U aan, haast U tot mij;neem mijn stem ter ore, als ik tot U roep.
 Laat mijn gebed als reukoffer voor uw aangezicht staan,het opheffen van mijn handen als avondoffer.
 Here, stel een wacht voor mijn mond,waak over de deuren van mijn lippen;
@@ -16353,14 +16353,14 @@ Zoals men de aarde doorploegt en openscheurt,zo liggen onze beenderen verstrooid
 Want op U, Here Here, zijn mijn ogen,bij U schuil ik; giet mijn leven niet uit.
 Behoed mij voor de strik die zij mij spanden,voor de vallen der bedrijvers van ongerechtigheid.
 Laten de goddelozen in hun kuilen vallen,altegader, terwijl ik ontkom.
+
 Een leerdicht van David, toen hij in de spelonk was. Een gebed.
 Met luider stem roep ik tot de Here,met luider stem smeek ik de Here;
 ik stort mijn klacht voor zijn aangezicht uit,ik maak Hem mijn benauwdheid bekend.
 Wanneer mijn geest in mij versmacht,kent Gij mijn pad.Op de weg die ik ga,verbergen zij mij een strik;
 schouw ik naar rechts en zie ik uit –niemand ziet naar mij om;is mij de toevlucht ontvallen –niemand vraagt naar mij.
 Tot U roep ik, Here;ik zeg: Gij zijt mijn schuilplaats,mijn deel in het land der levenden.
-Sla acht op mijn smeken,want ik ben zeer verzwakt;red mij van mijn vervolgers,want zij zijn sterker dan ik.
-Voer mij uit de kerker,opdat ik uw naam love;de rechtvaardigen zullen mij omringen,wanneer Gij mij weldoet.
+Sla acht op mijn smeken,want ik ben zeer verzwakt;red mij van mijn vervolgers,want zij zijn sterker dan ik. Voer mij uit de kerker,opdat ik uw naam love;de rechtvaardigen zullen mij omringen,wanneer Gij mij weldoet.
 Een psalm van David.O Here, hoor mijn gebed,neem mijn smekingen ter ore;antwoord mij naar uw trouw,naar uw gerechtigheid;
 ga niet in het gericht met uw knecht,want niemand die leeft, is voor U rechtvaardig.
 Want de vijand vervolgt mijn ziel,hij vertreedt mijn leven ter aarde,hij doet mij wonen in duisternis,aan hen gelijk, die voorlang gestorven zijn.
@@ -17465,8 +17465,7 @@ Beter is een arme, maar wijze jongeling dan een oude, maar dwaze koning, die er 
 Want de eerste komt uit de gevangenis om koning te worden, hoewel hij onder het koningschap van de ander als een arme geboren was.
 Ik zag alle levenden onder de zon meelopen met de jongeling, de opvolger, die in de plaats van de ander zou treden,
 er was geen einde aan al het volk, aan allen, aan wier spits hij stond. Maar de lateren vonden in hem geen vreugde. Dus is ook dit ijdelheid en najagen van wind.
-Behoed uw voet, als gij naar Gods huis gaat; immers, naderen om te horen is beter dan het offeren der dwazen, want die weten niet, dat zij kwaad doen.
-Wees niet overijld met uw mond, en uw hart haaste zich niet om een woord voor Gods aangezicht uit te spreken; want God is in de hemel en gij zijt op de aarde, laten daarom uw woorden weinige zijn.
+Behoed uw voet, als gij naar Gods huis gaat; immers, naderen om te horen is beter dan het offeren der dwazen, want die weten niet, dat zij kwaad doen. Wees niet overijld met uw mond, en uw hart haaste zich niet om een woord voor Gods aangezicht uit te spreken; want God is in de hemel en gij zijt op de aarde, laten daarom uw woorden weinige zijn.
 Want gelijk de droom komt door veel bezigheid, zo dwaas gepraat door veel woorden.
 Als gij God een gelofte gedaan hebt, talm er dan niet mee die in te lossen, want Hij heeft geen welgevallen aan de dwazen; wat gij beloofd hebt, moet gij inlossen.
 Het is beter, dat gij niet belooft dan dat gij belooft en niet inlost.
@@ -17485,6 +17484,7 @@ Zelfs nuttigt hij zijn spijze gedurende al zijn levensdagen in duisternis, en hi
 Zie, wat ik als goed heb opgemerkt, is dit: dat het voortreffelijk is te eten en te drinken en het goede te genieten bij al het zwoegen, waarmee iemand zich aftobt onder de zon gedurende de weinige dagen van zijn leven, die God hem schenkt, want dit is zijn deel.
 Ook ieder mens, aan wie God rijkdom en schatten geeft, en die Hij in staat stelt daarvan te eten en zijn deel te krijgen en zich bij zijn zwoegen te verheugen – dat is een gave Gods.
 Want hij denkt niet dikwijls aan de kortheid zijns levens, omdat God hem zich laat vermeien in de blijdschap zijns harten.
+
 Er is een kwaad dat ik waargenomen heb onder de zon, en dat zwaar drukt op de mens:
 een man, aan wie God rijkdom en schatten en vermogen geeft, zodat hem niets ontbreekt, dat hij begeert, maar God stelt hem niet in staat daarvan te genieten, doch een vreemde verteert het. Dit is ijdelheid en een bitter lijden.
 Indien iemand honderd kinderen verwekte en vele jaren leefde en even aanzienlijk was als hoogbejaard, maar hij niet verzadigd werd van het goede en ook geen begrafenis had – ik zeg: een misgeboorte is er beter aan toe dan hij,
@@ -17694,6 +17694,7 @@ Maar enig is zij, mijn duif, mijn volmaakte,een enige was zij voor haar moeder,e
 Wie is zij, die opgaat als de dageraad,schoon als de blanke maan,stralend als de gloeiende zon,geducht als krijgsscharen?
 Naar de notenhof daalde ik afom te zien naar de bloesems van het dal,om te zien of de wijnstok botte,de granaatappelbomen bloeiden.
 – Ik kende mijzelve niet;gij hebt mij op vorstelijke wagens geplaatst.
+Wend u, wend u, gij Sulammitische,wend u, wend u, dat wij u bezien!„Wat wilt gij naar de Sulammitische zienals naar de reidans van Machanaïm?”
 Hoe schoon zijn uw schreden in de sandalen,vorstendochter!De welvingen van uw heupen zijn als sieraden,werk van meesterhanden.
 Uw navel is een welgerond bekken,waaraan geen gemengde wijn ontbreke;uw schoot is een tarwehoop,omzoomd met leliën.
 Uw beide borsten zijn als tweelingjongenvan gazellen.
@@ -17707,7 +17708,6 @@ Van mijn geliefde ben ik,en naar mij gaat zijn begeerte uit.
 Kom, mijn geliefde, laten wij uitgaan naar het veld,laten wij vernachten tussen de hennabloemen.
 Laten wij vroeg naar de wijngaarden gaanen zien of de wijnstok uitbot,of de bloesems zijn opengesprongen,de granaten bloeien.Daar zal ik u mijn liefde geven.
 De liefdesappelen geven hun geur,en bij onze deuren groeien allerlei kostelijke vruchten,jonge en oude:ik heb ze voor u, mijn geliefde, bewaard.
-
 Och, waart gij als mijn broeder,aan de borst van mijn moeder gezoogd!Vond ik u dan buiten, ik kuste uen niemand zou mij daarom laken.
 Ik zou u leiden, ik zou u brengennaar het huis van mijn moeder, die mij opvoedt;van geurige wijn zou ik u te drinken geven,van de jonge wijn mijner granaatappelen.
 Zijn linkerarm is onder mijn hoofden zijn rechterarm omvangt mij.
@@ -17897,8 +17897,7 @@ En wanneer men tot u zegt: Vraagt de geesten van doden en de waarzeggende geeste
 Tot de wet en tot de getuigenis! Voor wie niet spreekt naar dit woord, is er geen dageraad.
 Dan trekt men rond, gedrukt en hongerig, en wanneer men hongert, zal men in woede uitbarsten, en zijn koning en zijn God vervloeken, en men zal de blik omhoog richten
 en men zal naar de aarde schouwen, en zie, benauwdheid en duisternis, beangstigende donkerheid, en in duisternis is men verstoten.
-Doch er zal geen donkerheid wezen voor het land dat in benauwdheid was. Zoals Hij in het verleden smaad bracht over het land van Zebulon en over het land van Naftali, zo brengt Hij in de toekomst eer over de weg der zee, de overzijde van de Jordaan, de landstreek der heidenen.
-Het volk dat in donkerheid wandelt, ziet een groot licht; over hen die wonen in een land van diepe duisternis, straalt een licht.
+Doch er zal geen donkerheid wezen voor het land dat in benauwdheid was. Zoals Hij in het verleden smaad bracht over het land van Zebulon en over het land van Naftali, zo brengt Hij in de toekomst eer over de weg der zee, de overzijde van de Jordaan, de landstreek der heidenen. Het volk dat in donkerheid wandelt, ziet een groot licht; over hen die wonen in een land van diepe duisternis, straalt een licht.
 Gij hebt het volk vermenigvuldigd, zijn vreugde groot gemaakt; het verheugt zich voor uw aangezicht als met de vreugde bij de oogst, zoals men juicht bij het verdelen van de buit.
 Want het juk dat het drukte, en de stang op zijn schouder, de roede van zijn drijver, hebt Gij verbroken als op Midjansdag.
 Want elke schoen die dreunend stampt, en elke mantel, in bloed gewenteld, zal verbrand worden, een prooi van het vuur.
@@ -17918,6 +17917,7 @@ Want goddeloosheid brandt als een vuur, dat dorens en distels verteert en de dic
 Door de verbolgenheid van de Here der heerscharen wordt het land in brand gezet, zodat het volk tot een prooi van het vuur wordt; de ene mens spaart de ander niet,
 men bijt naar rechts en toch hongert men, en men verslindt naar links en toch wordt men niet verzadigd, ieder verslindt het vlees van zijn eigen arm:
 Manasse Efraïm en Efraïm Manasse, en samen keren zij zich tegen Juda. Ondanks dit alles keert zijn toorn zich niet af en blijft zijn hand uitgestrekt.
+
 Wee hun die heilloze verordeningen uitvaardigen, en de schrijvers die lasten voorschrijven,
 om de geringen van het recht weg te dringen en aan de ellendigen mijns volks het recht te ontroven, zodat de weduwen hun buit worden en zij de wezen uitplunderen.
 Wat zult gij dan doen op de dag der bezoeking en bij de verwoesting die uit de verte komt? Tot wie zult gij vluchten om hulp en waar zult gij uw heerlijkheid laten?
@@ -18953,8 +18953,7 @@ Gij immers zijt onze Vader; want Abraham weet van ons niet en Israël kent ons n
 Waarom liet Gij ons afdwalen, Here, van uw wegen, verharddet Gij ons hart, zodat wij U niet vreesden? Keer weder ter wille van uw knechten, de stammen van uw erfdeel.
 Voor een korte tijd is uw heilig volk in het bezit daarvan geweest; onze tegenstanders hebben uw heiligdom vertrapt;
 wij zijn geworden als degenen over wie Gij van ouds niet hebt geheerst, over wie uw naam niet is uitgeroepen.
-Och, dat Gij de hemel scheurdet, dat Gij nederdaaldet, dat voor uw aangezicht de bergen wankelden,
-zoals vuur rijshout in vlam zet, zoals vuur water doet overkoken – om uw tegenstanders uw naam te doen kennen, zodat de volken voor uw aangezicht sidderen,
+Och, dat Gij de hemel scheurdet, dat Gij nederdaaldet, dat voor uw aangezicht de bergen wankelden, zoals vuur rijshout in vlam zet, zoals vuur water doet overkoken – om uw tegenstanders uw naam te doen kennen, zodat de volken voor uw aangezicht sidderen,
 daar Gij geduchte daden verricht, die wij niet verwachtten; dat Gij nederdaaldet, zodat de bergen voor uw aangezicht wankelden!
 Ja, van oudsher heeft men het niet gehoord noch vernomen, geen oog heeft gezien een God buiten U, die optreedt ten behoeve van wie op Hem wacht.
 Gij komt hem tegemoet, die met vreugde gerechtigheid doet, hun die op uw wegen aan U denken.Zie, Gij zijt toornig geweest, omdat wij zondigden; in die toestand verkeerden wij lange tijd, en zouden wij dan verlost worden?
@@ -18964,6 +18963,7 @@ Maar nu, Here, Gij zijt onze Vader; wij zijn het leem, Gij zijt onze Formeerder 
 O Here, wees niet bovenmate toornig en gedenk niet altoos de ongerechtigheid. Zie, aanschouw toch: wij allen zijn uw volk.
 Uw heilige steden zijn een woestijn geworden, Sion is een woestijn geworden, Jeruzalem een wildernis.
 Ons heilig en luisterrijk huis, waar onze vaderen U loofden, werd een prooi der vlammen en al wat ons dierbaar was, een puinhoop.
+Zult Gij U hierbij inhouden, o Here? Zult Gij zwijgen en ons bovenmate verdrukken?
 Te raadplegen was Ik voor hen die naar Mij niet vroegen, te vinden voor hen die Mij niet zochten; Ik zeide tot een volk dat mijn naam niet aanriep: Hier ben Ik, hier ben Ik.
 De ganse dag breidde Ik mijn armen uit naar een opstandig volk, dat volgens eigen overleggingen wandelde op een weg, die niet goed is;
 een volk, dat Mij bestendig openlijk krenkt door te offeren in de hoven en offers te ontsteken op de tichelstenen;
@@ -19242,7 +19242,6 @@ Hoor! hulpgeroep van de dochter mijns volks uit het land, wijd en zijd: Is de He
 Voorbij is de oogst, ten einde de zomer, en wij zijn niet verlost!
 Om de breuk van de dochter mijns volks ben ik gebroken, ik ga in rouw, ontzetting heeft mij aangegrepen.
 Is er geen balsem in Gilead, of is daar geen heelmeester? Want waarom is de wond van de dochter mijns volks niet geheeld?
-
 Ach, dat mijn hoofd water ware en mijn oog een bron van tranen, dat ik dag en nacht kon bewenen de verslagenen van de dochter mijns volks!
 Ach, dat ik in de woestijn een nachtverblijf voor reizigers wist, dat ik mijn volk kon verlaten en van hen weggaan; want allen zijn zij echtbrekers, een troep trouwelozen;
 zij spannen hun tong als hun leugenboog en niet naar billijkheid oefenen zij de macht in het land, want van het ene kwaad gaan zij over op het andere, en Mij willen zij niet kennen, luidt het woord des Heren.
@@ -19268,6 +19267,7 @@ De dood is geklommen in onze vensters,hij is gekomen in onze paleizen,om uit te 
 Zo zegt de Here: De wijze roeme niet op zijn wijsheid, en de sterke roeme niet op zijn kracht, de rijke roeme niet op zijn rijkdom,
 maar wie roemen wil, roeme hierin, dat hij verstand heeft en Mij kent, dat Ik de Here ben, die goedertierenheid, recht en gerechtigheid op aarde doe; want daarin heb Ik behagen, luidt het woord des Heren.
 Zie, de dagen komen, luidt het woord des Heren, dat Ik bezoeking zal doen over alle besnedenen die toch de voorhuid hebben;
+over Egypte en Juda, Edom en de Ammonieten, Moab en allen, die zich het haar rondom wegscheren, die in de woestijn wonen; want alle volkeren zijn onbesneden, maar het gehele huis van Israël bestaat uit onbesnedenen van hart.
 Hoort het woord, dat de Here tot u spreekt, huis van Israël!
 Zó zegt de Here: Gewent u niet aan de weg der volken en schrikt niet voor de tekenen aan de hemel, omdat de volken daarvoor schrikken.
 Want de handelwijze der volken, die is nietigheid: want als een stuk hout heeft men het uit het woud gehakt, – arbeid van werkmanshanden met de bijl –
@@ -21007,6 +21007,11 @@ En gij zult weten, dat Ik de Here ben, als Ik u in het land van Israël brengen 
 Daar zult gij terugdenken aan alle handel en wandel, waarmee gij u verontreinigd hebt, en van uzelf walgen om al de slechte daden die gij bedreven hebt.
 En gij zult weten, dat Ik de Here ben, wanneer Ik ter wille van mijn naam niet met u doen zal naar uw verkeerde wandel en naar uw verdorven handel, huis Israëls, luidt het woord van de Here Here.
 Het woord des Heren kwam tot mij:
+Mensenkind, keer uw gelaat naar het zuiden, laat uw woorden stromen tegen de Zuiderstreek, profeteer tegen het woudgebied, het Zuiderland,
+en zeg tot het woud van het Zuiderland: Hoor het woord des Heren: zo zegt de Here Here: zie, Ik steek een vuur in u aan, dat elke groene boom en elke dorre boom in u zal verteren. De laaiende vlam zal niet uitdoven, maar van het zuiden tot het noorden zullen alle aangezichten erdoor verzengd worden.
+En al wat leeft zal zien, dat Ik, de Here, ze ontstoken heb; zij zal niet uitdoven.
+Toen zeide ik: Ach, Here Here, men zegt van mij: spreekt hij niet enkel in raadselspreuken?
+Het woord des Heren kwam tot mij:
 Mensenkind, keer uw gelaat naar Jeruzalem, laat uw woorden stromen tegen de heiligdommen, profeteer tegen het land Israëls,
 en zeg tot het land Israëls: Alzo zegt de Here: zie, Ik zàl u! Ik zal mijn zwaard uit de schede trekken en onder u uitroeien zowel de rechtvaardige als de goddeloze.
 Omdat Ik zowel de rechtvaardige als de goddeloze onder u zal uitroeien, daarom zal mijn zwaard de schede verlaten tegen al wat leeft, van zuid tot noord.
@@ -21038,11 +21043,6 @@ terwijl men voor u bedrieglijke dingen schouwt en u leugen waarzegt – om u te 
 Steek het zwaard weer in de schede. In de plaats waar gij geschapen zijt, in uw land van herkomst zal Ik u richten.
 Ik zal mijn gramschap over u uitstorten; met het vuur van mijn verbolgenheid zal Ik tegen u blazen en u overgeven in de macht van redeloze mensen die verderf smeden.
 Voedsel zult gij zijn voor het vuur; midden in het land zal uw bloed stromen, en aan u zal niet meer gedacht worden, want Ik, de Here, heb het gesproken.
-
-
-
-
-
 Het woord des Heren kwam tot mij:
 Gij mensenkind, wilt gij richten, wilt gij richten de bloedstad? Houd haar dan al haar gruwelen voor.
 Zeg: Zo zegt de Here Here: o stad, die in haar midden bloed vergiet, zodat haar tijd komt, en die zich afgoden maakt om zich te verontreinigen;
@@ -21904,9 +21904,6 @@ En de stadhouders, de oversten, de landvoogden en de raadsheren des konings kwam
 Nebukadnessar hief aan en zeide: Geloofd zij de God van Sadrak, Mesak en Abednego! Hij heeft zijn engel gezonden en zijn dienaren bevrijd, die zich op Hem hebben verlaten, het bevel des konings hebben overtreden, en hun lichamen prijsgegeven, omdat zij geen enkele god willen vereren of aanbidden dan alleen hun God.
 Daarom wordt door mij een gebod uitgevaardigd, dat ieder, tot welk volk, tot welke natie of taal hij ook behore, die enig oneerbiedig woord spreekt tegen de God van Sadrak, Mesak en Abednego, in stukken gehouwen en dat zijn huis tot een puinhoop gemaakt zal worden, omdat er geen andere god is, die zó verlossen kan.
 Toen bewees de koning Sadrak, Mesak en Abednego bijzondere gunst, in het gewest Babel.
-
-
-
 Koning Nebukadnessar aan alle volken, natiën en talen, die op de gehele aarde wonen: uw vrede zij groot!
 Het heeft mij behaagd de tekenen en wonderen die de allerhoogste God aan mij gedaan heeft te verkondigen;
 hoe groot zijn zijn tekenen en hoe machtig zijn wonderen! Zijn koningschap is een eeuwig koningschap, en zijn heerschappij van geslacht tot geslacht!
@@ -21941,6 +21938,9 @@ Nog was dat woord in des konings mond, toen er een stem nederklonk uit de hemel:
 men verstoot u uit de gemeenschap der mensen en uw verblijf is bij het gedierte des velds; gras zal men u te eten geven als aan de runderen; en zeven tijden zullen over u voorbijgaan, totdat gij erkent, dat de Allerhoogste macht heeft over het koningschap der mensen en dat geeft aan wie Hij wil.
 Op hetzelfde ogenblik ging dat woord aan Nebukadnessar in vervulling, en hij werd uit de gemeenschap der mensen verstoten en at gras als de runderen, en door de dauw des hemels werd zijn lichaam bevochtigd, totdat zijn haar lang werd als (de veren) der arenden en zijn nagels als die der vogels.
 Maar na verloop van de gestelde tijd sloeg ik, Nebukadnessar, mijn ogen op naar de hemel, en mijn verstand keerde in mij terug. Toen prees ik de Allerhoogste en roemde en verheerlijkte ik de eeuwig Levende, omdat zijn heerschappij een eeuwige heerschappij is en zijn koningschap van geslacht tot geslacht.
+Ja, alle bewoners der aarde worden als niets geacht; Hij doet naar zijn wil met het heer des hemels en de bewoners der aarde: en niemand is er, die zijn hand kan weerhouden of tot Hem kan zeggen: wat doet Gij?
+Terzelfder tijd, dat mijn verstand in mij terugkeerde, keerden ook, tot roem van mijn koningschap, mijn majesteit en mijn luister tot mij terug; mijn raadsheren en machthebbers zochten mij weer op, ik werd in mijn koningschap hersteld, ja, grotere heerlijkheid dan vroeger werd mij geschonken.
+Nu roem, verhef en verheerlijk ik, Nebukadnessar, de Koning des hemels, wiens werken alle waarheid en wiens paden recht zijn, en die hen die in hoogmoed wandelen, vermag te vernederen.
 Koning Belsassar richtte een grote maaltijd aan voor zijn machthebbers, duizend in getal; en in tegenwoordigheid van die duizend was hij aan het wijndrinken.
 Belsassar beval bij het genot van de wijn, dat men het gouden en zilveren gerei zou brengen, dat zijn vader Nebukadnessar uit de tempel te Jeruzalem had weggevoerd, opdat de koning en zijn machthebbers, zijn gemalinnen en zijn bijvrouwen daaruit zouden drinken.
 Daarop bracht men het gouden gerei dat uit de tempel, het huis Gods te Jeruzalem, was weggevoerd, en de koning en zijn machthebbers, zijn gemalinnen en zijn bijvrouwen, dronken daaruit;
@@ -21971,6 +21971,7 @@ Tekel: gij zijt in de weegschaal gewogen en te licht bevonden;
 Peres: uw koninkrijk is gebroken en aan de Meden en Perzen gegeven.
 Toen bekleedde men Daniël, op bevel van Belsassar, met purper en hing hem een gouden keten om de hals, en men riep over hem uit, dat hij de derde heerser in het koninkrijk zou zijn.
 In dezelfde nacht werd Belsassar, de koning der Chaldeeën, gedood.
+
 Darius, de Meder, ontving het koningschap, toen hij tweeënzestig jaar oud was.
 Het behaagde Darius over het koninkrijk honderd en twintig stadhouders aan te stellen, die over het gehele koninkrijk verdeeld zouden zijn;
 en over hen drie rijksbestuurders, van welke Daniël er een was; aan hen moesten die stadhouders rekenschap geven, opdat de koning geen schade zou lijden.
@@ -21998,8 +21999,7 @@ Toen werd de koning ten zeerste verheugd en hij gaf bevel, dat men Daniël uit d
 En de koning gaf bevel, en men haalde die mannen die de aanklacht tegen Daniël ingebracht hadden en wierp hen in de leeuwenkuil, hen, hun kinderen en hun vrouwen, en zij hadden de bodem van de kuil nog niet bereikt, of de leeuwen maakten zich van hen meester; zelfs al hun beenderen vermorzelden zij.
 Daarna schreef koning Darius aan alle volken, natiën en talen, die de ganse aarde bewonen: Uw vrede zij groot!
 Door mij wordt bevel gegeven, dat men in het gehele machtsgebied van mijn koninkrijk voor de God van Daniël zal vrezen en beven; want Hij is de levende God, die blijft in eeuwigheid; zijn koningschap is onverderfelijk en zijn heerschappij duurt tot het einde;
-Hij bevrijdt en redt, en doet tekenen en wonderen in hemel en op aarde, Hij, die Daniël uit de macht der leeuwen heeft bevrijd.
-En deze Daniël stond in hoog aanzien onder het koningschap van Darius en onder het koningschap van Kores, de Pers.
+Hij bevrijdt en redt, en doet tekenen en wonderen in hemel en op aarde, Hij, die Daniël uit de macht der leeuwen heeft bevrijd. En deze Daniël stond in hoog aanzien onder het koningschap van Darius en onder het koningschap van Kores, de Pers.
 In het eerste jaar van Belsassar, de koning van Babel, zag Daniël een droom en gezichten die hem op zijn legerstede voor ogen kwamen. Toen schreef hij de droom op.
 Begin van het bericht. Daniël hief aan en zeide: Ik had in de nacht een gezicht en zie, de vier winden des hemels brachten de grote zee in beroering,
 en vier grote dieren stegen uit de zee op, het ene verschillend van het andere.
@@ -22170,6 +22170,8 @@ Zij werd wederom zwanger en baarde een dochter; Hij zeide tot hem: Noem haar Lo-
 Doch over het huis van Juda zal Ik mij ontfermen, en hen verlossen als de Here, hun God. Maar Ik zal hen niet verlossen door boog of zwaard of oorlogstuig, door paarden of door ruiters.
 Nadat zij Lo-Ruchama gespeend had, werd zij zwanger en baarde een zoon.
 Toen zeide Hij: Noem hem Lo-Ammi, want gij zijt mijn volk niet en Ik zal de uwe niet zijn.
+Eens echter zullen de kinderen Israëls talrijk wezen als het zand der zee, dat niet te meten of te tellen is. En ter plaatse waar tot hen gezegd wordt: Gij zijt mijn volk niet – zullen zij genoemd worden kinderen van de levende God.
+Dan zullen de kinderen van Juda en de kinderen van Israël zich bijeenscharen, één hoofd over zich stellen, en optrekken uit het land; want groot zal de dag van Jizreël zijn.
 Klaagt uw moeder aan, klaagt haar aan, want zij is mijn vrouw niet, en Ik ben haar man niet. Laat zij haar ontucht van haar gelaat verwijderen en haar overspel van haar boezem,
 anders zal Ik haar naakt uitkleden en haar laten staan als ten dage toen zij geboren werd, haar maken als een woestijn, haar doen worden als een dor land, en haar doen sterven van dorst;
 en over haar kinderen zal Ik Mij niet ontfermen, omdat zij uit ontucht geboren zijn.
@@ -22192,8 +22194,6 @@ Ik zal u Mij tot bruid werven door trouw; en gij zult de Here kennen.
 Het zal te dien dage geschieden, dat Ik verhoren zal, luidt het woord des Heren: Ik zal de hemel verhoren, en die zal de aarde verhoren,
 en de aarde zal het koren, de most en de olie verhoren, en die zullen Jizreël verhoren.
 Dan zal Ik haar voor Mij zaaien in het land, en Mij ontfermen over Lo-Ruchama, en tot Lo-Ammi zeggen: Gij zijt mijn volk. En hij zal zeggen: Mijn God!
-
-
 
 De Here zeide tot mij: Ga weder heen, bemin een vrouw, die zich door een ander laat beminnen en overspelig is, gelijk de Here de Israëlieten bemint, die zich tot andere goden wenden en minnaars zijn van druivenkoeken.
 Toen kocht ik haar voor vijftien zilverstukken en anderhalve homer gerst.
@@ -22318,6 +22318,7 @@ Hoe zou Ik u prijsgeven, Efraïm, u overleveren, Israël? Hoe zou Ik u prijsgeve
 Ik zal mijn brandende toorn niet ten uitvoer brengen. Ik zal Efraïm niet verder verderven. Want Ik ben God en geen mens, heilig in uw midden, en Ik zal niet komen in toorngloed.
 Zij zullen achter de Here aan gaan, als een leeuw zal Hij brullen. Wanneer Hij brult, dan zullen zonen uit het westen bevend komen.
 Zij zullen bevend komen als een vogel uit Egypte, als een duif uit het land Assur, en Ik zal hen doen wonen in hun huizen, luidt het woord des Heren.
+
 Met leugen heeft Efraïm Mij omringd, met bedrog het huis Israëls – terwijl Juda zich voortdurend bandeloos gedraagt tegenover God en tegenover de Hoogheilige, die getrouw is.
 Efraïm weidt wind, en jaagt de gehele dag de oostenwind na, het vermeerdert leugen en verwoesting. Zij sluiten een verbond met Assur, en er wordt olie naar Egypte gebracht.
 De Here heeft een rechtsgeding met Juda; Hij gaat Jakob straffen voor zijn wandel, naar zijn daden zal Hij hem vergelden.
@@ -22331,8 +22332,7 @@ Maar Ik ben de Here, uw God, van het land Egypte af. Ik zal u weer doen wonen in
 En Ik zal tot de profeten spreken en Ik zal veel gezichten geven, en door de dienst van profeten zal Ik in gelijkenissen spreken.
 Was Gilead boosheid, zij zijn tot louter niets geworden; heeft men in Gilgal stieren geofferd, ook hun altaren zullen als steenhopen worden in de voren van het veld.
 Jakob vluchtte naar het veld van Aram, en Israël diende om een vrouw en om een vrouw was hij veehoeder.
-Door een profeet heeft de Here Israël uit Egypte gevoerd, en door een profeet werd het gehoed.
-Bitter krenkend heeft Efraïm gehandeld, maar zijn Here zal zijn bloedschuld op hem doen neerkomen, en hem zijn smaad vergelden.
+Door een profeet heeft de Here Israël uit Egypte gevoerd, en door een profeet werd het gehoed. Bitter krenkend heeft Efraïm gehandeld, maar zijn Here zal zijn bloedschuld op hem doen neerkomen, en hem zijn smaad vergelden.
 Zodra Efraïm sprak, was er schrik, hij was verheven in Israël; maar hij maakte zich schuldig door de Baäl, en stierf weg.
 Ook nu gaan zij voort met zondigen en maken zich gegoten beelden van hun zilver, afgodsbeelden, naar eigen inzicht, alles het werk van metaalbewerkers. Men zegt van hen: De mensen die offeren, kussen kalveren.
 Daarom zullen zij worden als een morgenwolk, als dauw die in de vroegte vergaat, als kaf dat van de dorsvloer wegstuift, en als rook uit het venster.
@@ -22348,6 +22348,7 @@ Welbewaard is Efraïms ongerechtigheid, weggeborgen zijn zonde.
 Barensweeën gaan hem vooraf: maar het is een onverstandig kind; wanneer de tijd daar is, komt het niet ter wereld.
 Zou Ik hen uit de macht van het dodenrijk bevrijden, van de dood loskopen? Dood, waar zijn uw pestziekten, dodenrijk, waar is uw verderf? Mijn oog kent geen medelijden.
 Ook wanneer hij tussen broeders zou opbloeien, zou toch de oostenwind, de wind des Heren, opstekend uit de woestijn, komen, zodat zijn bron zou opdrogen en zijn wel droog zou worden; die zal de voorraad van alle kostbaarheden plunderen.
+
 Samaria moet boeten, omdat het weerspannig is geweest tegen zijn God. Door het zwaard zullen zij vallen, hun kleine kinderen zullen worden verpletterd, hun zwangere vrouwen zullen worden opengereten.
 Bekeer u, Israël, tot de Here, uw God, want door uw ongerechtigheid zijt gij gestruikeld.
 Komt met woorden van schuldbelijdenis, bekeert u tot de Here, zegt tot Hem: Vergeef de ongerechtigheid geheel en al, en wees genadig; wij bieden als offerstieren de belijdenis onzer lippen.
@@ -22356,8 +22357,7 @@ Ik zal hun afkerigheid genezen, Ik zal hen vrijwillig liefhebben, want mijn toor
 Ik zal zijn als de dauw voor Israël, hij zal bloeien als een lelie, en zijn wortelen uitstrekken als de Libanon.
 Zijn loten zullen uitlopen; zijn pracht zal zijn als die van een olijfboom en zijn geur als die van de Libanon.
 Zij die in zijn schaduw wonen, zullen weer koren verbouwen. Ja, zij zullen bloeien als een wijnstok, beroemd als de wijn van de Libanon.
-Efraïm, wat heb Ik nog met de afgoden te doen? – Ik verhoor hem en zie hem aan. – Ik ben als een altijdgroene cypres, aan Mij is uw vrucht te danken.
-Wie wijs is, geve op deze dingen acht; wie verstandig is, erkenne ze. Want de wegen des Heren zijn recht: rechtvaardigen wandelen daarop, maar overtreders struikelen er.
+Efraïm, wat heb Ik nog met de afgoden te doen? – Ik verhoor hem en zie hem aan. – Ik ben als een altijdgroene cypres, aan Mij is uw vrucht te danken. Wie wijs is, geve op deze dingen acht; wie verstandig is, erkenne ze. Want de wegen des Heren zijn recht: rechtvaardigen wandelen daarop, maar overtreders struikelen er.
 Het woord des Heren, dat kwam tot Joël, de zoon van Petuël.
 Hoort dit, gij oudsten, en neemt ter ore, alle inwoners des lands. Is zo iets geschied in uw dagen of in de dagen van uw vaderen?
 Vertelt daarvan aan uw kinderen; laten uw kinderen het aan hun kinderen vertellen en hun kinderen weer aan het volgende geslacht.
@@ -22405,32 +22405,32 @@ De dorsvloeren zullen vol koren zijn en de perskuipen van most en olie overstrom
 Ik zal u vergoeden de jaren, toen de sprinkhaan (alles) opvrat, de verslinder en de kaalvreter en de knager, mijn groot leger dat Ik op u afzond.
 Gij zult volop en tot verzadiging eten, en gij zult loven de naam van de Here, uw God, die wonderbaar met u gehandeld heeft; mijn volk zal nimmermeer te schande worden.
 Dan zult gij weten, dat Ik in het midden van Israël ben, en dat Ik, de Here, uw God ben, en niemand anders; mijn volk zal nimmermeer te schande worden.
+Daarna zal het geschieden, dat Ik mijn Geest zal uitstorten op al wat leeft, en uw zonen en uw dochters zullen profeteren; uw ouden zullen dromen dromen; uw jongelingen zullen gezichten zien.
+Ook op de dienstknechten en op de dienstmaagden zal Ik in die dagen mijn Geest uitstorten.
+Ik zal wonderen geven in de hemel en op de aarde, bloed en vuur en rookzuilen.
+De zon zal veranderd worden in duisternis en de maan in bloed, voordat de grote en geduchte dag des Heren komt.
+En het zal geschieden, dat ieder die de naam des Heren aanroept, behouden zal worden, want op de berg Sion en te Jeruzalem zal ontkoming zijn, zoals de Here gezegd heeft; en tot de ontkomenen zullen zij behoren, die de Here zal roepen.
 Want zie, in die dagen en te dien tijde, wanneer Ik een keer zal brengen in het lot van Juda en van Jeruzalem,
 zal Ik alle volken verzamelen en afvoeren naar het dal van Josafat, en Ik zal aldaar met hen in het gericht treden ter oorzake van mijn volk en van mijn erfdeel Israël, dat zij onder de volken verstrooid hebben, terwijl zij mijn land verdeelden,
 en over mijn volk het lot wierpen, en een jongen gaven voor een hoer en een meisje verkochten voor wijn, opdat zij konden drinken.
 En voorts, wat wilt gij van Mij, gij Tyrus en Sidon en alle landstreken van Filistea? Wilt gij Mij vergelding bewijzen? Maar indien gij het Mij vergelden wilt, snel, ijlings zal Ik de vergelding op uw eigen hoofd doen nederdalen.
 Want gij hebt mijn zilver en mijn goud weggenomen, mijn kostbare schatten naar uw tempels gebracht,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+en de kinderen van Juda en van Jeruzalem hebt gij verkocht aan de Ioniërs, om hen ver van hun gebied weg te voeren.
+Zie, Ik zal hen doen opstaan uit de plaats waarheen gij hen verkocht hebt, en Ik zal de vergelding op uw eigen hoofd doen nederdalen:
+Ik zal uw zonen en uw dochters verkopen in de hand der kinderen van Juda, en dezen zullen hen verkopen aan de Sabeeërs, naar een ver verwijderd volk, want de Here heeft het gesproken.
+Roept dit uit onder de volken: Heiligt de oorlog, doet de helden opstaan; dat alle krijgslieden aantreden, oprukken!
+Smeedt uw ploegscharen tot zwaarden en uw snoeimessen tot speren; de zwakke zegge: Ik ben een held.
+Maakt u op en komt, alle volken van rondom, en verzamelt u. Doe, o Here, uw helden daarheen afdalen.
+Laat de volken opstaan en oprukken naar het dal van Josafat, want daar zal Ik zitten om alle volken van rondom te richten.
+Slaat de sikkel erin, want de oogst is rijp. Komt, treedt, want de perskuip is vol; de wijnbakken stromen over. Want hun boosheid is groot.
+Menigten, menigten in het dal der beslissing, want nabij is de dag des Heren in het dal der beslissing.
+De zon en de maan worden zwart en de sterren trekken haar glans in.
+En de Here brult uit Sion en verheft zijn stem uit Jeruzalem, zodat hemel en aarde beven. Maar de Here is een schuilplaats voor zijn volk en een veste voor de kinderen Israëls.
+En gij zult weten, dat Ik, de Here, uw God ben, die woon op Sion, mijn heilige berg, en Jeruzalem zal een heiligdom zijn, en vreemdelingen zullen er niet meer doortrekken.
+Te dien dage zal het geschieden, dat de bergen van jonge wijn zullen druipen en de heuvelen van melk zullen vloeien en alle beken van Juda van water zullen stromen; een bron zal ontspringen uit het huis des Heren en zal het dal van Sittim drenken.
+Egypte zal tot een woestenij worden, en Edom tot een woeste wildernis, vanwege het geweld de kinderen van Juda aangedaan, in wier land zij onschuldig bloed hebben vergoten.
+Maar Juda zal blijven tot in eeuwigheid, en Jeruzalem van geslacht tot geslacht.
+En Ik zal hun bloed onschuldig verklaren, dat Ik niet onschuldig verklaard had. En de Here zal blijven wonen op Sion.
 De woorden, die Amos, een van de schapenfokkers uit Tekoa, geschouwd heeft over Israël in de dagen van Uzzia, koning van Juda, en in de dagen van Jerobeam, zoon van Joas, koning van Israël, twee jaar vóór de aardbeving.
 Hij zeide: De Here brult uit Sion en uit Jeruzalem verheft Hij zijn stem, zodat de weiden der herders treuren en de top van de Karmel verdort.
 Zo zegt de Here: Om drie overtredingen van Damascus, ja om vier, zal Ik het niet herroepen. Omdat zij Gilead met ijzeren dorssleden gedorst hebben,
@@ -22614,6 +22614,7 @@ Maar de mannen roeiden om (het schip) weer aan land te brengen, doch zij waren d
 Toen riepen zij tot de Here en zeiden: Ach, Here, laat ons toch niet vergaan om het leven van deze man en leg geen onschuldig bloed op ons, want Gij, Here, hebt gedaan gelijk U behaagde.
 Daarna namen zij Jona op en wierpen hem in de zee, en de zee hield op met woeden.
 En de mannen vreesden de Here met grote vrees, en zij slachtten de Here een offer en deden geloften.
+En de Here beschikte een grote vis om Jona in te slokken; en Jona was in het ingewand van de vis drie dagen en drie nachten.
 En Jona bad tot de Here, zijn God, uit het ingewand van de vis.
 Hij zeide: Ik riep uit mijn nood tot de Here en Hij antwoordde mij; uit de schoot van het dodenrijk schreeuwde ik, Gij hoordet mijn stem.
 Gij hadt mij geworpen in de diepte, in het hart der zee, en een waterstroom omving mij; al uw brandingen en uw golven gingen over mij heen.
@@ -22624,7 +22625,6 @@ Toen mijn ziel in mij versmachtte, gedacht ik de Here, en mijn gebed kwam tot U 
 Zij die nietige afgoden dienen, geven Hem prijs, die hun goedertieren is.
 Maar ik, met lofzegging wil ik aan U offeren; wat ik beloofd heb, wil ik betalen; de redding is des Heren.
 En de Here sprak tot de vis en deze spuwde Jona uit op het droge.
-
 Het woord des Heren kwam ten tweeden male tot Jona:
 Maak u op, ga naar Nineve, de grote stad, en breng haar de prediking, die Ik tot u spreken zal.
 Toen maakte Jona zich op en ging naar Nineve, overeenkomstig het woord des Heren. Nineve nu was een geweldig grote stad, van drie dagreizen.
@@ -22700,8 +22700,7 @@ Krimp ineen en schreeuw het uit, dochter Sions, als een barende; want thans zult
 Wel zijn nu vele volkeren tegen u vergaderd, die zeggen: Zij worde ontwijd, en mogen onze ogen zich aan Sion verlustigen!
 Maar zij kennen de gedachten des Heren niet en verstaan zijn raadslag niet, dat Hij hen verzamelt als schoven op de dorsvloer.
 Sta op en dors, gij dochter Sions; want Ik zal uw hoorn van ijzer maken en uw hoeven van koper, en gij zult vele volkeren verbrijzelen en gij zult hun onrechtmatig gewin door de ban aan de Here wijden, en hun vermogen aan de Here der ganse aarde.
-Nu moogt gij u in benden scharen, gij bendegenoten. Een belegeringswal heeft men tegen ons opgeworpen. Met de roede zal men de richter Israëls op het kinnebakken slaan.
-En gij, Betlehem Efrata, al zijt gij klein onder de geslachten van Juda, uit u zal Mij voortkomen die een heerser zal zijn over Israël en wiens oorsprong is van ouds, van de dagen der eeuwigheid.
+Nu moogt gij u in benden scharen, gij bendegenoten. Een belegeringswal heeft men tegen ons opgeworpen. Met de roede zal men de richter Israëls op het kinnebakken slaan. En gij, Betlehem Efrata, al zijt gij klein onder de geslachten van Juda, uit u zal Mij voortkomen die een heerser zal zijn over Israël en wiens oorsprong is van ouds, van de dagen der eeuwigheid.
 Daarom zal Hij hen prijsgeven tot de tijd, dat zij die baren zal, gebaard heeft. Dan zal het overblijfsel zijner broederen terugkeren met de Israëlieten.
 Dan zal Hij staan en hen weiden in de kracht des Heren, in de majesteit van de naam des Heren, zijns Gods; en zij zullen rustig wonen, want nu zal Hij groot zijn tot aan de einden der aarde,
 en Hij zal vrede zijn. Wanneer Assur in ons land komt, en wanneer hij onze paleizen betreedt, dan zullen wij tegen hem zeven herders stellen en acht vorsten uit de mensen,
@@ -22715,6 +22714,7 @@ Ook zal Ik de toverijen uit uw hand uitroeien, en gij zult geen waarzeggers meer
 Ik zal uw gesneden beelden en uw gewijde stenen uit uw midden uitroeien, en gij zult u niet meer nederbuigen voor het werk uwer handen.
 Ook zal Ik uw gewijde palen uit uw midden uitrukken en uw steden verwoesten.
 En Ik zal in toorn en gramschap wraak oefenen over de volkeren die geen gehoor gegeven hebben.
+
 Hoort toch wat de Here zegt: Sta op, treed als aanklager op ten aanhoren van de bergen, en laat de heuvelen uw stem vernemen.
 Hoort, gij bergen, de aanklacht des Heren, ook gij, onwrikbare grondvesten der aarde. Want de Here heeft een aanklacht tegen zijn volk, en met Israël wil Hij een rechtsgeding aangaan.
 Mijn volk, wat heb Ik u aangedaan en waarmede heb Ik u vermoeid? Getuig tegen Mij!
@@ -22765,6 +22765,7 @@ Uit u is voortgekomen een die kwaad bedacht tegen de Here, een die snode plannen
 Zo zegt de Here: Al zijn zij ook in volle kracht en nog zo talrijk, toch zullen zij zó afgemaaid worden, dat zij vergaan; al heb Ik u vernederd, Ik zal u niet meer vernederen,
 maar nu zal Ik zijn juk van u afnemen en verbreken, en uw banden zal Ik verscheuren.
 Tegen u echter gebiedt de Here: Uw naam zal niet meer voortgeplant worden; uit het huis uwer goden zal Ik uitroeien de gesneden en de gegoten beelden. Uw graf zal Ik bereiden, want gij zijt te licht bevonden.
+Zie, op de bergen de voeten van de vreugdebode die heil verkondigt. Vier, o Juda, uw feesten, betaal uw geloften! Want voortaan zal de snoodaard niet meer door u heentrekken, hij is geheel en al uitgeroeid.
 De verstrooier trekt tegen u op; bewaak de vesting, zie uit langs de weg, maak de lendenen vast, versterk u met alle macht!
 Want de Here herstelt de heerlijkheid van Jakob, gelijk de heerlijkheid van Israël; want plunderaars hebben hen geplunderd en hun ranken vernield.
 Het schild zijner helden is rood van kleur, de dapperen zijn in scharlaken gekleed; in de vuurglans van het staal staan de wagens op de dag van zijn toerusting, en de lansen worden gezwaaid.
@@ -22778,7 +22779,6 @@ Woestheid, woestenij, verwoesting! en verslagen harten en knikkende knieën; kra
 Waar is nu het leger der leeuwen, de plaats waar de jonge leeuwen gevoed werden, waar de leeuw rondliep en de leeuwin, de leeuwewelp, door niemand opgeschrikt?
 Waar is de leeuw die roofde voor zijn welpen en worgde voor zijn leeuwinnen, die zijn holen vulde met roof en zijn legers met het verscheurde?
 Zie, Ik zál u! luidt het woord van de Here der heerscharen, Ik doe uw wagens in rook opgaan; uw jonge leeuwen zal het zwaard verteren, en uw roof zal Ik van de aarde verdelgen; en de stem van uw gezanten zal niet meer gehoord worden.
-
 Wee de bloedstad, louter leugen, vol van verscheuring, zonder ophouden rovend!
 Hoor, zweepgeklap! hoor, wielengeratel! en jagende paarden en opspringende wagens,
 steigerende rossen en vlammende zwaarden en bliksemende lansen, en tal van verslagenen, een menigte doden, en eindeloos veel lijken; men struikelt over hun lijken –
@@ -22962,6 +22962,10 @@ Vervolgens zeide tot mij de engel die met mij sprak: Predik: zo zegt de Here der
 maar Ik ben zeer toornig op de overmoedige volken, die, terwijl Ik maar een weinig vertoornd was, meehielpen ten kwade.
 Daarom, zo zegt de Here: Ik keer in erbarming tot Jeruzalem weder; mijn huis zal daarin gebouwd worden, luidt het woord van de Here der heerscharen, en het meetsnoer zal over Jeruzalem gespannen worden.
 Predik verder: Zo zegt de Here der heerscharen: Wederom zullen mijn steden overvloeien van het goede; nóg zal de Here Sion troosten, Jeruzalem nóg verkiezen.
+En ik sloeg mijn ogen op en ik zag toe, en zie, vier horens.
+Toen vroeg ik de engel die met mij sprak: Wat betekent dit? Hij zeide daarop tot mij: Dit zijn de horens die Juda, Israël en Jeruzalem verstrooid hebben.
+Vervolgens deed de Here mij vier smeden zien.
+Toen vroeg ik: Wat komen dezen doen? En hij zeide: Dat waren dus de horens die Juda zo verstrooid hebben, dat niemand zijn hoofd kon opheffen; maar zij zijn gekomen om hen te verschrikken, om neer te slaan de horens van de volken, die hun horen hebben verheven tegen het land Juda, om het te verstrooien.
 En ik sloeg mijn ogen op en ik zag toe, en zie, een man met een meetsnoer in de hand.
 Toen vroeg ik: Waar gaat gij heen? En hij antwoordde mij: Ik ga Jeruzalem opmeten en zien hoe groot zijn breedte en lengte zal zijn.
 En zie, toen de engel die met mij sprak, naar voren trad, ging een andere engel hem tegemoet, tot wie hij zeide:
@@ -22975,10 +22979,6 @@ Jubel en verheug u, gij dochter van Sion! want zie, Ik kom in uw midden wonen, l
 en vele volken zullen te dien dage gemeenschap zoeken met de Here en zij zullen Mij tot een volk zijn, en Ik zal in uw midden wonen. Dan zult gij weten, dat de Here der heerscharen mij tot u gezonden heeft.
 En de Here zal Juda op de heilige bodem als zijn erfdeel in bezit nemen en Hij zal Jeruzalem nog verkiezen.
 Zwijg, al wat leeft, voor het aangezicht des Heren, want Hij maakt Zich op uit zijn heilige woning.
-
-
-
-
 Vervolgens deed Hij mij de hogepriester Jozua zien, staande vóór de Engel des Heren, terwijl de satan aan zijn rechterhand stond om hem aan te klagen.
 De Here echter zeide tot de satan: De Here bestraffe u, satan, ja de Here, die Jeruzalem verkiest, bestraffe u; is deze niet een brandhout uit het vuur gerukt?
 Jozua nu was met vuile klederen bekleed, terwijl hij voor de Engel stond.
@@ -23205,12 +23205,12 @@ En nu, wij prijzen de overmoedigen gelukkig; niet alleen worden zij gebouwd, ter
 Dan spreken zij die de Here vrezen, onder elkander, ieder tot zijn naaste: De Here bemerkte het toch en hoorde het en er werd een gedenkboek voor zijn aangezicht geschreven, ten goede van hen die de Here vrezen en zijn naam in ere houden.
 Zij zullen Mij ten eigendom zijn, zegt de Here der heerscharen, op de dag die Ik bereiden zal. En Ik zal hen sparen, zoals iemand zijn zoon spaart, die hem dient.
 Dan zult gij tot inkeer komen en het onderscheid zien tussen de rechtvaardige en de goddeloze; tussen wie God dient, en wie Hem niet dient.
-
-
-
-
-
-
+Want zie, de dag komt, brandend als een oven! Dan zullen alle overmoedigen en allen die goddeloosheid bedrijven, zijn als stoppels, en de dag die komt, zal hen in brand steken – zegt de Here der heerscharen – welke hun wortel noch tak zal overlaten.
+Maar voor u, die mijn naam vreest, zal de zon der gerechtigheid opgaan, en er zal genezing zijn onder haar vleugelen; gij zult uitgaan en springen als kalveren uit de stal.
+Gij zult de goddelozen vertreden, want tot stof zullen zij zijn onder uw voetzolen op de dag die Ik bereiden zal, zegt de Here der heerscharen.
+Gedenkt de wet van Mozes, mijn knecht, die Ik hem op Horeb geboden heb voor gans Israël, inzettingen en verordeningen.
+Zie, Ik zend u de profeet Elia, voordat de grote en geduchte dag des Heren komt.
+Hij zal het hart der vaderen terugvoeren tot de kinderen en het hart der kinderen tot hun vaderen, opdat Ik niet kome en het land treffe met de ban.
 Geslachtsregister van Jezus Christus, de zoon van David, de zoon van Abraham.
 Abraham verwekte Isaak, Isaak verwekte Jakob, Jakob verwekte Juda en zijn broeders,
 Juda verwekte Peres en Zerach bij Tamar, Peres verwekte Chesron, Chesron verwekte Aram,

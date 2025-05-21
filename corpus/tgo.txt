@@ -926,6 +926,7 @@ Leiban tembe i dage weva Jeikob iŋa, “Wo u thuwe, varɨvarɨ wabwima iyake na
 Iya varɨvarɨke wabwike na iya i ndeghathɨke thiye ghandaraghaghayawo. Mane ya valaŋaniya wabwike na varɨke i ndeghathɨke na ya ghaona e len valɨvaŋgana na ya vakowanaŋge, na ghen tembe mane u valaŋaniyava wabwike na varɨke iya i ndeghathɨke na u mena e lo valɨvaŋgake na u vakowanaŋgo.
 Orumburumbunda lenji loiŋgi tembene thɨ ghethe thoŋgo ra renuwaŋakiki na ra vikikighathɨgha iya dageraweke iyake ghautuutuke wolaghɨye: thiye Eibraham le Loi na Neiho le loi.” Kaero Jeikob i tholo weya Loi iya ramae Aisake i mararuke e idae.
 I vakatha vowo gheko e ouko vwatae amba i kula vathaŋgiya le bodabodako na thɨ ghana ghanɨŋgako iyako weinji. Ghanɨŋgako e ghereiye mbowo thɨ ghenava gheko.
+Mbaŋambaŋa vena Leiban i thuweiru i vandamoŋgiya orumburumbuyeko na oyawarumbuyeŋgima na i mwaewo weŋgi. Amba i wareri na i njogha e ghambae.
 Mbaŋa Jeikob i loŋgaloŋga e kamwathɨ mborowae, Loi le nyao thovuthovuye vavana thɨ lavolevole.
 Mbaŋa i thuweŋgi kaero iŋa, “Iyake Loi le ragagaithɨ lenji kiyamu.” Iya kaiwae Jeikob i rena ghembako idae Mahanaim.
 Jeikob i variyeŋgiya ghevarivariye thɨ raka viva e ghamwae na vethɨ thuwe ghaghae Iso. Iye va ina Seir e vanautuma Idom e tɨne.
@@ -958,7 +959,6 @@ Jeikob i dagewe iŋa, “Mbaŋake u unogiyama idanɨna e ghino.” Ko iyemaeŋge
 Iya kaiwae Jeikob i rena valɨvaŋgako iyako idae Peniyel iŋa, “Kaiwae ma thuwe Loi na namoghawame weiŋgu ko iyemaeŋge mbe e yawayawaliŋgu.”
 Varae i yovoro Jeikob i iteta Peniyel, na i loŋga vaŋgeŋge kaiwae loloma menda i vovuya le mwa.
 Iyake kaiwae, noroke Isirel orumburumbuye maa thɨ ghana thetheghan mamandiye i vɨghatha le mwako, kaiwae va e mamandiyeko iyako iyava loloko va i ŋge Jeikob kowe.
-
 E lenji loŋga e tɨne Jeikob i tagathɨna marae na i thuwe e ghamwanjiko, Iso, amba i menamenako weiyaŋgiya ghɨmoghɨmoru hoseriyevarɨ. Kaero i wabwiŋgiya le ŋgaŋga: Leya wabwira, Reitiyel wabwira na le rakakaiwo wanakau theunyiwoma wabwira.
 Jeikob i vaghetheŋgiya wabwiko ŋgoreiyake: le rakakaiwo wanakauma na lenji ŋgaŋga thɨ raka viva, e ghereinji Leya na le ŋgaŋga, na muyai moli Reitiyel na nariye Josep.
 Jeikob ghamberegha i viva moli vara e ghamwanji na wo vevuthakai weya Iso. Mbaŋa kaero i loŋga thaiya Iso, i ronja e gheghe vuvuye i kururu na ghamwae i nja e thelauko vwatae mbaŋapirɨ mbaŋa i loŋgaloŋga thaiya ghaghae Iso.
@@ -22614,6 +22614,7 @@ Iyemaeŋge waŋgako gharakakaiwo thɨ wodo na thɨ munjeva thɨ goru vanatɨna �
 Iya kaiwae thɨ goyawaru weya Jona le Loi thɨŋa, “Aee Giya Loi, wo naŋgo e ghen thava ne u lithɨ e ghime e mare kaiwae ne wo vakowana loloke iya ma ghawonjoweke yawaliye. Ghen mbe ghanɨmbereghana vara iya len renuwaŋa vakathake thiyake thɨ yomara.”
 Thɨ wovaira Jona e nɨmanɨmanji na thɨ wokiyathuutu e njighɨko tɨne. E mbaŋako iyako tad i ghagha.
 Iyako i vathaŋgiya waŋgako gharakakaiwo thɨ mararu laghɨye moli weya Giya Loi iya kaiwae thɨ vakatha vowo na i vorowe na thɨ vakatha ŋgoreiye lenji dagerawe.
+Ko iyemaeŋge Jona kaiwae, Giya Loi i vivatharawa borogi laghɨye regha na i wovoŋgwa Jona. Jona va ina e borogiko ŋgamoiye ghararaghɨye thegheto na gougou gheneto.
 Maya borogiko e ŋgamoiye tɨne, Jona i naŋgo weya Giya Loi le Loi.
 Iŋa: “Mbaŋa inaŋgu vuyowo laghɨye e tɨne, na ya una Giya Loi idan, kaero u thalavuŋgo. Bode moli ramaremare e ghambanji, ya una idan thalavu kaiwae, na u loŋwa ghalɨŋaŋgu.
 U duutuŋgo e ŋambuwoko tɨne bode moli, njighɨ i vaghɨliyaŋgo, len bagodu laghɨlaghɨye thɨ bebe e vwataŋgu.
@@ -22624,7 +22625,6 @@ Mbaŋa ya ghamɨno yawaliŋgu kaero ne iko, amba ya renuwaŋakikiŋge na ya naŋ
 Thavala thɨ goru weya vatavatadɨŋgi na ma e ghanji thovuye, kaero thɨ roiteteŋge na gharen ma i nja weŋgi.
 Ko iyemaeŋge ne ya wothu taraweŋge; ne ya vakatha vowo na i voro e ghen na ya vakatha ŋgoreiya va lo dagerawe e ghen. Vamoru i mena weya Giya Loi!”
 Amba Giya Loi i vakatha borogima na i thegharaŋgiya Jona e njighɨko ghadidiye.
-
 Amba Giya Loi mbaŋaiwoniyeva i dage weva Jona,
 iŋa, “U wa Ninive, iya ghembako laghɨye iyako na vo utuŋa totoke iya ya utuveŋgeke.”
 Jona i ghambugha Giya Loi le renuwaŋa na i wa Ninive, iya ghembako laghɨye iyako. I wo mbaŋa thegheto amba lolo regha i loŋga e tɨne na ve wo valɨghadidiye.
@@ -23205,8 +23205,8 @@ Iya kaiwae kaero va ya vakatha gharɨgharɨ lemoya thɨ ndeghereiye wanaŋga, na
 
 
 
-
-
+Iyake budakai nyao lenji randeviva iŋa, tene mbaŋa regha i mena na ne ya vaghetheŋgi gharɨgharɨ na ya giya vuyowo weŋgi. Mbaŋako iyako ne i yomara ŋgoreiye ndɨghe dayaghawae laghɨye moli. E mbaŋako iyako gharɨgharɨ tawosirari na tharɨ gharavakathaŋgi ne thɨnda ŋgoreiye winjiwinji i nda. Na ma tembe i nda vareva bigi regha mun.
+Ko ghemi thavala woyavwatata ina e ghemi, loloko iya ne i vamoruŋgako ne i mena e ghemi ŋgoreiye mbaŋambaŋa varaeniye i mbɨle, na i vakathaŋga na hu rumwaru, ne i vamoruŋga na i njimbukikiŋga ŋgoreiye maa i njimbukikigiya le ŋgamaŋgama e vinevineiyeko raberabe. Mbaŋa ne i mena, ne hu warari laghɨye moli, ŋgoreiye burumwaka le ŋgaŋga totogha thɨ raŋgi e ghanji gana tɨne na thɨ wa e nana thovuye, thɨ pitopito weiye lenji warari laghɨye.
 
 
 
@@ -27691,7 +27691,7 @@ Ma lolo regha ne i tholoŋaŋgiya bigibigike thiyake, iya kaiwae yaŋa huya roku
 Kaero mohu vaŋgumenaŋgiya gharɨgharɨke thiyake, ko iyemaeŋge ma thɨ wokavɨ bigi regha e ŋgolo bobomako tɨne na ma thɨ utuvatharɨ la loiko kaiwae.
 Thoŋgo Dimitriyas na le valɨrakakaiwo nuwanjiya thɨ wonjowe lolo regha, ghamba kot mbe inawe na kot gharaghatha mbe inanjiwe. Valɨkaiwae thɨ wo renuwaŋako iyako na vethɨ wogiya weŋgi.
 Ko thoŋgo lemi renuwaŋa vavanava mbe inawe na nuwamiya hu woraŋgiya, tembene ra varumwaru e la mevathavatha tɨne ŋgoreiya la mbaro le woraŋgiya.
-Kaero ya mararu mbaŋake vakathaniye kaiwae. Ne thɨ wonjoweinda na thɨ munjeva mara gaithɨ. Thoŋgo thɨŋa ŋgoreiyako weinda ma valɨkaiwanda ne ra varumwaru kaiwae vwatubweke ma e rɨgherɨghe.”
+Kaero ya mararu mbaŋake vakathaniye kaiwae. Ne thɨ wonjoweinda na thɨ munjeva mara gaithɨ. Thoŋgo thɨŋa ŋgoreiyako weinda ma valɨkaiwanda ne ra varumwaru kaiwae vwatubweke ma e rɨgherɨghe.” I utuvao iyako i dage weŋgi na thɨ rakawa.
 Mbaŋa vama gaithɨ laghɨye e ghembako tɨne iko, Pol i kula vathavathaŋgiya raloŋweloŋweghathɨ, i giya vavurɨgheghe weŋgi na i ghaoloŋaŋgi, amba i iteteŋgi na i wa Masedoniya.
 I vaghɨliya e valɨvaŋgako iyako tɨne na i giya vavurɨgheghe i ghanagha weŋgiya gharɨgharɨ, ko amba ve vutha Grik ele valɨvaŋga,
 na manjala umboto i yaku gheko. I munje ma i kuki na i wa Siriya, ko iyemaeŋge i loŋwevaidiya Jiu thɨ vona ghae na thɨ munjeva ne thɨ unɨghɨ. I vɨva le renuwaŋa na tembe i ghatharava Masedoniya.

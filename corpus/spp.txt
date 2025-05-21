@@ -926,6 +926,7 @@ Maa jwo sahaŋki: «Ŋke kafaaɲaŋke wíi, na kafaage mii à yyéeŋɛ mà pyi 
 yire yi pyi wuu shɛ̀rɛfoo, mii ɲyɛ a yaa mii u tòro yire kafaayi taan ná funmpege e si ŋkàre mu yyére mɛ, mu mú sí ɲyɛ a yaa mu u tòro yi taan si mpa mii fye e ná funmpege e mɛ.
 *Ibirayima u Kileŋi ná Nakwɔri u kileŋi, pire pi pyi wuu yukyaabii.» Ka Yakuba si ŋkâa Kile na, uru ŋgemu yyahafyagare e u tuŋi Ishaka na ɲaare ke.
 Lire kàntugo, ka Yakuba si yatɔɔge kà pyi sáraga kuru kafaaɲaŋke cyage e. Maa pi yyer'a pa, ka pi i lyî siɲcyan maa shwɔ̀n wani.
+
 Kuru canŋke nùmpanŋa ɲyɛ̀sɔɔge na, Laban à yîri maa pishɛɛre kan u pucɛrɛbii ná u ɲampyir'á, maa jwó le pi á. Puru ɲwɔhɔ na, maa núr'a kàre u pyɛngɛ.
 Ɲyɛ ka *Yakuba si ntòro ná ɲaani i. Mà u yaha u u ŋkɛ̀ɛge u à círi ná *Kile mɛ̀lɛkɛɛbii pìl'e.
 Tèni i u à pi ɲya ke, ka u u jwo: «Kile tatɛ̀ɛnge kà ku ɲyɛ ŋke!» Lire kurugo, pi à kuru cyage mɛge le Tatɛɛnyi Shuunni.
@@ -957,8 +958,7 @@ Ka u u jwo: «Di mu mɛge ɲyɛ yɛ?» Ka u u jwo: «Yakuba.»
 Ka nàŋi si jwo: «Mu mɛge saha sì n-pyi Yakuba mɛ, ku sí n-pyi *Izirayɛli, ɲaha na yɛ mu à zhì le ná Kile e, mà bâra lire na, mu à sí ta sùpyire na.»
 Ka Yakuba si u pyi: «Mii na mu ɲáare, maa ma mɛge jwo na á.» Ka nàŋi si jwo: «Ɲaha na mu na mii mɛge yíbili yɛ?» U à yire jwo ke, maa jwó le Yakuba á.
 Ka Yakuba si kuru cyage mɛge le Peniyɛli, maa jwo: «Mii yábiliŋi ɲyiigil'à Kile ɲya, lire na li wuuni mú i, mii à kwôro ɲyii na.»
-Tèni i Yakuba à yîri Peniyɛli i, mà baŋi *kwɔ̀n ke, lir'à canŋa ɲyiini ta li i fwore. Dìshige ɲjàŋi mpyi a u pyi u u sêgere taɲaarege e.
-Mà lwɔ́ kuru canŋke na, fo mà pa nɔ niɲjaa na, Izirayɛli shiinbii ɲyɛ na yatɔɔgɔ dìshige kapaanre tasogoge kyaare kyàa mɛ, ɲaha na yɛ kuru cyage kapaanre tasogoge e Kile à Yakuba bwɔ̀n.
+Tèni i Yakuba à yîri Peniyɛli i, mà baŋi *kwɔ̀n ke, lir'à canŋa ɲyiini ta li i fwore. Dìshige ɲjàŋi mpyi a u pyi u u sêgere taɲaarege e. Mà lwɔ́ kuru canŋke na, fo mà pa nɔ niɲjaa na, Izirayɛli shiinbii ɲyɛ na yatɔɔgɔ dìshige kapaanre tasogoge kyaare kyàa mɛ, ɲaha na yɛ kuru cyage kapaanre tasogoge e Kile à Yakuba bwɔ̀n.
 Ɲyɛ tèni i *Yakuba à pa ɲùŋke yîrig'a wíi mà Ezawu ɲya u u u bêni ná nàmbaa ŋkwuu sicyɛɛre ke, ka u u u pyìibii táa Leya ná Arasɛli, ná báarapyicyeebii shuunniŋi shwɔhɔl'e.
 Maa báarapyicyeebii yaha yyaha yyére ná pi pyìibil'e, maa Leya ná u pyìibii taha pire na. Maa nta a Arasɛli ná Yusufu yaha pi puni kàntugo.
 Ka u yabiliŋi si ntòro pi yyaha na, maa niŋkure sín sín fo tooyi baashuunni, mà jwo u ɲaar'a nɔ u yyahafooŋi Ezawu na ke.
@@ -27691,7 +27691,7 @@ Sùpya sì n‑jà yire kyáala mɛ. Lire e ke yii yii funɲyi ɲíŋɛ, yii àh
 Yii à mpii nàmpii cû mà pa naha, mà li ta pi ɲyɛ a yafyin yû yasunŋke bage e mɛ, pi mú ɲyɛ a jwumpimɛ jwo mà yyaha tíi ná wuu yasunŋke e mɛ.
 Demɛtirusi ná u báarapyiɲɛɛbii la ká mpyi si sùpyaŋi wà cɛ̂ɛgɛ kani là na, pi a sì yukyaala bage e yukyaabii yyére ná lire kani i.
 Kampyi pabɛrɛ sí na wá yii á, wuu mpìnniŋi canŋke, wuu sí puru cwɔɔnrɔ.
-Lire baare e nde li nde wuu à pyi amɛ niɲjaa ke, wuu sí n‑jà ɲcɛ̀ɛgɛ ta l'e, ɲaha na yɛ pi aha wuu yíbe, wuu sì n‑jà ɲùŋɔ ta sùpyire kabinnini na mɛ.»
+Lire baare e nde li nde wuu à pyi amɛ niɲjaa ke, wuu sí n‑jà ɲcɛ̀ɛgɛ ta l'e, ɲaha na yɛ pi aha wuu yíbe, wuu sì n‑jà ɲùŋɔ ta sùpyire kabinnini na mɛ.» U à puru jwo a kwɔ̀ ke, maa sùpyire cye yaha.
 Ɲyɛ màhaŋ'à pa fyâha ke, ka Poli si cyelempyiibii yyer'a bínni maa pi yɛrɛ, lire kàntugo maa kuni cya pi á maa ŋkàre Masedoni kùluni i.
 U à yɛrɛyɛ niɲyahaya kan lire kùluni dánafeebil'á maa nta a jyiil'a kàre Girɛsi kùluni i.
 U à yiɲyɛ taanre pyi wani. Tèni i u à uye bégele si jyè bakwɔɔge e raa ŋkɛ̀ɛge Siri kìni i ke, ka u u lógo na Yahutuubii pìi na wá a vùnŋɔ pwɔ u mɛɛ na. Ɲyɛ lir'à pyi ke, ka u u li lwɔ́ uye funŋ'i si núru ntòro Masedoni i s'a wá.

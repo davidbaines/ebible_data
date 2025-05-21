@@ -9851,6 +9851,7 @@ Nge hatie huri nau wiri bimbire ngere teri vagabitu lolo Israel. Ngere qaure rah
 
 
 
+
 Lolo higao gaibitu hi noi Jehu, Joas mo voragi na ratahigi, siu ngeie u leogoro na Jerusalem higao ngavulu gaivesi. Retahine henana i Sibia; ngeie tau lo vanue renge hi Bereseba.
 Joas u vei na gineu rau garea lolo matai HUQE lolo higao ngerehi doluegi Jehoiada u haharae.
 A ute gogona ngerehi ramo tataro taie, hateve rau lei vohogi nire; a sinobu ngerehi ramo hure bonboni me ramo bule na gineu buhoru taie mosigei.
@@ -9872,7 +9873,6 @@ Nge i Joas ratahigi tau Juda u lei doluegi na gineu ngerehi rau tabutebu retamar
 Huri na gineu ngere lavasigi rau veiana lolo taro noi Joas, me a gineu doluegi hi u vei, hateve rau uliana lolo bugu huri valu hurire ratahigi tau Juda?
 Nona tangaloi ramo qalo me ramo ue vagamatea rorongogi nie tahinge Bet Malo, lo turegi mo hivo lo Sila.
 A tangaloi tabanagi ngerehi rau wehie. i Josabat netui Simeat me i Jehosabat netui Soma. Ngeie u mate rau tulegi nie mei retamana lolo vanue renge noi Devet. Me i Amasia netune mo lai na tanona mwere na ratahigi.
-
 
 
 
@@ -13990,6 +13990,7 @@ Go lai tabe tabegi na maresu mwera vaiteu mo mero mo vai asisigi nigo huri mo me
 
 
 
+
 Huqe lolo nomu lolobute go mese veve vohogi eu sige lolo nom meroana go mese haharau.
 Huqe go haharagi na gareana lawe au huri neu nam wiriwiri, Huqe go vaga vagamwasoi eu huri a hui gu ram rurururu.
 Me neu gaheau, nam romasi liu. ?Nge nigo Huqe goin bului eu tagaha?
@@ -14249,13 +14250,13 @@ Nongu tavalui vuro doluegi rain matagu lawuagi, me rain maemae rain toa dori sis
 
 
 
-
 A Huqe nge a nongu leo goro garea, neu nain he mahogi tea.
 Mo vai eu nam eno lolo ute lombu, me mo tomuegi eu lo mwararai wai matamata.
 Mo vurugegi na nongu mwasoana, me mo tomuegi eu sulo turegi vovohoiana huri na henana.
 Hate huri nain dige turu na dodo, a waluwelui asiana nain matagu tea gena gineu esi, huri nigo mei eu; a nom ruqi mena gaitigo ngere a gai turegu.
 Gom rarai na hinaga lo nagoi nongu tavului vuro, gom lai gogogi eu me a nongu laha mo horo mwalinglingi.
 A hogo liu, a nom gareana me nom vaigarea vin huri eu vataha na rani nongu mwasoana me neu nain toga lolo valei Huqe vagituei.
+
 
 
 
@@ -14721,6 +14722,7 @@ Huri ve a lologu na huri ehi lawego, siu neu na mese toga maunegi. Nongu Huqe Ma
 
 
 
+
 Huqe Mauri go hagavi eu na huri na nomu vaigarea lawua huri na nongu doridori esi. Lo nomu hahagavi gon lai vohogi na nongu asiana.
 Gon solo vohogi na nongu asiana doluegi, me go vagahagi eu dena na bugungu doluegi.
 Ba huri nau ilo na nongu doridori esi mei eu, siu a bugungu mo eno mei eu vataha na tarogi.
@@ -14740,8 +14742,6 @@ Huri nigo gom rahagi na bulengu kankarue nam hogohogo lawego, siu nigo goin hevu
 A hogohogo, O Huqe Mauri, a tanumwegi u mevurivuri me a dimwangona mo hahagavi. O Huqe Mauri, go mese tudori denie.
 Go vai na gineu garea lawe na Saeon; mwerehi gom taranie. Go hagovi na qetuqetu goro na Jerusalem.
 Siu a hogohogo rau vovohoi, a hure bonboni bulugi dodoluegi vin veigo goin hevuhevu, me a bulugi boegi doluegi rain hureana lo nom vonda gogona.
-
-
 
 
 
@@ -17897,7 +17897,6 @@ Tavohe ngere rain veve lawe gimiu gon hui dena tangaloi uviuvi, me ngere hi ram 
 Gon hui Huqe huri na huhuiana mena nona leogarea mo waregi sere huri na veveraga. Tareve hine tea vin he toretore tea vena huri na leo ngaha, hate nora leleoi robongi.
 Rongo masi mena mwaruruhie vin vano turu na vanue; ngere rain mweruruhi garagara me ngere rain lolobute, me ram danda su eulu rain arahi na nora ratahigi mena nora huqe.
 Siu ngere rain leo suvohi na ureure, me ngere rain lehi na dodo mena romasi rain matagu lawagi me rain tulire ta lolo dodo maeto.
-
 Nge vin hate na dodo lawera hi rau romasi. Lo taro tomue Huqe u vei hivogi na vanue Sebulun mena Navtali, nge lo taro mo vumai mo sigei ngeie vin tabera mwere na vanue Kalili ngere hate duvi Israel. Taie hi lo hala mo vano lo tahi lo ute ngehi Jodan.
 Tangaloi ngere hi ramo dige lolo dodogi, ngere rain lehi na leleo lawoa ngehi mo mwaso lo vanue hi u dodoga garagara, a leleo vin varavara su lure.
 Nigo goin vagaqaloi na tangaloi lolo vanuara, lawea goin ragasi na havuhevu ngehinge ve ngere rain hevuhevu lumiu mwere na havuhevui taroi hinaga matue, mwere ve ramo gaganigi me ram wahegi nora gineu rau qaragi nire lolo vuro.
@@ -17905,6 +17904,7 @@ Ba huri mwere hi tavohe lolo rani ngehi ngere Midian rahe qaragi na gineu tea, n
 Ba huri, a butu nora tangaloi vuro doluegi mena luqe qaravu rau lulugi lolo dai me u tatarise mena avi me vin voragi gai vagaoi avi.
 Ba huri a maresu mwera vin vora lawe ginde, vin beteana lawe ginde me a lawoagoro vin eno lo siqana, me a henana vin waregiana: Gaiture garea liu, Huqe managi, me a Tama vagituei, Netui tawmata.
 Me a nona lawoagoro vin lawoa mena nona tamwata vin eno hate duvigi. Lo herei ratahigi Devet me lo tanona mo mamalu goro mena vovohoiana tasiserigi hi mo vano vin dadari hate duvigi. A garohuri nona Huqe Managi vin veiana mwere hi.
+
 
 
 
@@ -22614,6 +22614,7 @@ Me ngere ram hue mo hage varea lo vanue, nge maraga hatie rai vei telai ba a tah
 Me ngere ram ware lawe Huqe ram veve vena, “Huqe go mese siregi gamai gam mate lo tanoi tangaloi lehe, nigo goin mese vai na daine mo vuragi na bugumei. Nge Huqe go vei hava gineu hi gu tarani.”
 Me ngere ram wali Jona sueulu ram tulie tahivo ta lolo tahi me a tahi mo taqao.
 Ngere ram matagu, ramo matagu liu garagara siu ngere ram lai bulara kankarue, ram hogohogo lawe na Huqe me ram vai na nora waratau sao huri ve rai tabana nona.
+Siserigi hi i Huqe mo vai na ige lawua mo dono Jona, siu i Jona u toga lolo taqangi ige a bongi gaitolu.
 Lolo ige i Jona mo tataro lawe na Huqe nona Huqe Mauri.
 Me mo veve vena, “Neu nau ware mena nongu romasi lawua lawe na Huqe, me nge mo duvi na dilogu laweau tavohe nam toga lolo tanoi mateana. Neu nau ware huri na buluiana, me nge mo duvi na nongu ngarana.
 Me i nigo gu tuli eu ta lolo tahi bue, talolo buloi tehi, me a wai halehale mo dalieu doluegi siu a nomu navo ram tawogawoga ram gagaliu eu.
@@ -22624,7 +22625,6 @@ Nogu mwasoana mo wiriwiri namo lado haqego Huqe, me a nongu tataro mo avu lawego
 Ngere hi ramo ladohogo lure tagaro vurogi rau tudori dena vaigarea noi Huqe.
 Nge i neu nain bugogogi na ahi vevegarea lawego, neu nain hure boniboni lawego. Mwere nau waratau, ve nain veie vin garea. Huqe, nge u vagamwasoi eu.”
 Me i Huqe mo hora na ige, mo luegi Jona talo ute mamaha.
-
 Siu a leo noi Huqe mo vumai lawe Jona vaga tuegi, mo veve vena,
 “Go maraga go vano lo vanue renge lawoa Niniva. Siu goin toregi na nongu leo ngehinge neu nain vevea lawego.”
 Me i Jona mo maraga mo vano Niniva mwerehi i Huqe u horae. Niniva a vanue renge lawoa nge mo lai na rani gaitolu dam dige ginie.

@@ -926,6 +926,7 @@ Ai te. Ndame turŋaŋgit ndame ne kilke mbolŋge te-tiwat minig te.
 Agaŋ ta kaŋgerka sile wamdus ulendiwik ta maŋ idusamŋgik. Ye ne ŋayo silinam tuku ndame te liwe nda. Ne mata ye ŋayo siliyam tuku ndame te nda liwa.
 Abraham le Nahor tuku Mbara sile pilesikuwa ŋgina. Taŋakina le Yakob nu mam nuŋe Isak tuku Mbara nyu mbolŋge mbiyel nuŋe ndoŋ pasa katmba saŋgri pilena.
 Taŋamba Yakob ndek kumba ka agaŋmor inum tumba balemba tabe ta mbolŋge atraukina. Atraukina sulumba nuŋe kuasmbi wikina le nane promba isukusnaig. Isukuse deŋpurmba nane tabe ta mbolŋge kinynaig.
+Mafena le Laban nu wa kat nuŋe nuŋe kulim ar ta mumuniŋgina sulumba nane kusreka luka nuŋe tumbraŋ kina.
 Kile Yakob nu tiŋga ndin dubimba kina le Kuate tuku eŋel afu promba nu te-silikinaig le
 nu kaŋgerka sakina: Ma te Kuate nuŋe kuasmbi minig tuku ma ŋgina sulumba ma ta nyunu Mahanaim ŋgina.
 Taŋakina sulumba Yakob nu taŋgo afu wam paguka saniŋgina: Tane kumba ka yiŋe aba Esau te-silika teŋenmba sawap: Ye Yakob. Ye ne tuku piro taŋgo. Ye sikile ŋga Laban tugumŋge rawe taŋgo taŋaŋ minen ma ma kile ndo makau doŋki sipsip meme piro taŋgo piro pino suŋgomba kilmba luka prowet. Ye taŋgo afu kukulniŋgen le nane ne kila pasa tinwaig le ne ye mbolŋge maŋau mayenu ka. Tane ka taŋamba nu sawap ŋgina. Nu wam paguniŋge deŋpurmba nu nane kukulniŋgina le amboŋga Esau sota Edom kilke mbol kinaig.
@@ -958,7 +959,6 @@ Kile Yakob nu taŋgo ta kusnana: Ata. Ne tuku nyu ima ŋgina le taŋgo ta nu san
 Taŋana le Yakob nu sakina: i Ye Kuate tuku tumail pasi kaŋgerit ta ye kume ndakit ŋgina. Ta tuku nu ma ta nyunu Peniel ŋgina.
 Maratukuk nu Peniel ma ta kusremba nu grisemka gitmba kumba minna le ki prona.
 Taŋgo ta nu Yakob tuku manunsu katna le supikina. Ta tuku kile nane Israel mbal agaŋmor manunsunu nda nyade tuku.
-
 Kile Esau nu nuŋe piro taŋgo 400 ta ndoŋ ilmba minna le Yakob nu nane kaŋgerka nuŋe kiŋo kat nuŋe kilmba walna sulumba afu Lea tumba afu Rahel tumba afu nuŋe piro pino ar ta nikina.
 Taŋamba nu piro pino ar ta nakile kiŋo kat nakile ndoŋ tumailamŋge kile-tidiŋgina le tiŋginaig. Tiŋginaig le kile Yakob nu Lea kiŋo kat nuŋe ndoŋ piro pino ar ta ŋgumnemŋge kile-tidiŋgina le tiŋginaig. Nane ŋgumnemŋge maŋ Rahel nale Yosef ndoŋ kile-tidiŋgina le tiŋginaig.
 Taŋamba Yakob nu nane kusreka kina ka aba nuŋe tuku tumailamŋge truk kam 7-na le
@@ -7771,6 +7771,7 @@ Yonatan nu maŋ lato kiŋo ta wika sana: Ne ake taŋge tiŋ mine ndaka. Pitik ka
 Kiŋo ta nu Yonatan maŋau kina ta tuku tugu katese ndana. Yonatan le David nakile ndo kila.
 Kile Yonatanŋge kiŋo ta tui paŋgarnu fatnu kame ta turmba kile-tumba kukulna le kilmba luka tumbraŋ kina.
 Kiŋo ta luka tumbraŋ kina le David nu ndame maŋgur ŋgumnemŋge kuirka minna ta tiŋga kilim ka promba Yonatan tugum taŋge dagol tidroŋga lokam keŋna. Taŋamba nu tiŋga Yonatan mumumba nale muŋgu mumuka malmbikinaik. David nu wamdus tatruka suŋgomba malmbikina le
+
 Yonatan ndek nu sana: Sile Suŋgo tuku nyu mbolŋge pasa saŋgri pilekeŋ ta Suŋgo nu sile ndoŋ sikile ndare kame ta ndoŋ minmba minamŋgat tukunu ne ŋgamuŋgal mukuk wamdus bulok ŋak kaye ŋgina le David nu tiŋga kina le Yonatan nu luka nuŋe tumbraŋ kina.
 Kile David nu kua ka pris Ahimelek sota Nob tumbraŋ kina ka ta prona le nu David kaŋgermba kuru-kuruka nu tugum kumba kusnana: Ne ndaŋam naŋe mata te prote e ŋgina le
 David nu lafumba sana: Gabat suŋgo Saulŋge ye piro sat le te prowit. Nu teŋenmba ye sayat. Ye ne piro tinmba kukulni le andeŋge ise ndakuwa ŋga sayat. Yiŋe kuasmbi nane ye te-silikam kande nane ma inumŋge ye te-silikuwaig ŋga saniŋgen.
@@ -7787,7 +7788,6 @@ David nu pasa ta ismba gabat suŋgo Akis tuku kuru kuru mayemba
 nane tuku am mbolŋge nu ŋginŋgan taŋgoŋge wam kekekina sulumba nu ndo ŋginŋgan mayewanu sukmba kumba ka tumbraŋ koranu fonde malaŋga mbolŋge ma kuyir-kuyarna sulumba subal promba miŋge zizin mbolŋge kutuka ndekina.
 Taŋana le gabat suŋgo Akis ndek nuŋe piro taŋgo kame saniŋge lika sakina: Ŋgan palmbinu te ndaŋam saka tumba ye tugum te prowaig?
 Tane idusde sine tuku tumbraŋ te ŋginŋgan taŋgo kugatok e ŋga maŋ ŋgan palmbinu te tumba te ta prowaig? Taŋgo te ye tuku wande mbolŋge nda palpe le minwa ŋga saniŋgina.
-
 Kile David nu Gat kusremba kua ka kina ka Adulam sikar burok kumba taŋge minna. Minna le nuŋe aba kat nuŋe, nuŋe kuasmbi ŋakmba nu taŋge minna ta isnaig sulumba nane kinaig ka taŋge nu te-silikinaig.
 Taŋanaig le taŋgo afu nane piti ŋak ŋak afu ndametiŋ kugatok afu ndagari ŋak ta nane kua ka David te-silika nu ndoŋ taŋge minnaig sulumba nu naŋgine gabat minwa ŋga madinaig. Nane kuasmbi taŋge kua ka nu ndoŋ minnaig ta ulendimba 400.
 Taŋamba minnaig ka mara ande David ndek tiŋga Mispe tumbraŋ Moab kilke mbol kina sulumba Moabnu gabat suŋgo ta sana: Ye yiŋe ina mam kilmba pro ne tugum teŋge kusreki le minwaik le Kuateŋge ye mbol ndaŋndaŋamŋgat ta kila pili sulumba maŋ luka pro kilamŋgit ŋga sana.
@@ -7839,6 +7839,7 @@ Saul nu nuŋe kame kuasmbi kilmba David sota nane minnaig ma tambi kinaig le nan
 Saul tuku kuasmbi pro tabe dabil inum inum kinaig le David nuŋe kuasmbi kilmba tabe dabil inum inum Saul ram kua kinaig. Taŋanaig le Saul nuŋe taŋgo kuasmbi ndoŋ nane buk David tuku kuasmbi kile-fag kinaig le
 kile Saul tuku piro taŋgo ande tumbraŋŋge pasa tumba promba Saul sana: Filistia mbal pro sine ndoŋ kame bude tukunu ne braiŋ luka yale ŋga sana le
 Saul nu David yokermba minna ta kusremba nuŋe kame kuasmbi kilmba luka Filistia mbal ndoŋ kame buwam kina. (Ta tuku kile nane magot ta nyun ta Kame peukina tuku Sikar ŋgade).
+Taŋana le David nu ma tugu ta kusremba kua ka kina ka Eŋgedi ma taknu sikar burok sinam taŋge kuirka minna.
 Saul nu Filistia mbal yokerka kina ka kusreka maŋ luka prona le nane afu pro nu sanaig: David nu kile ka Eŋgedi ma baknu sikar burok sinam ambeŋge minit ŋginaig le
 Saul ndek Israel taŋgo saŋgriknu 3,000 pilemba kilmba David biye tiwam tuku ma ande nyunu Meme ŋguikok tuku Sikar ta kinaig ka
 sikar burok suŋgo ande tugum pronaig. Burok ta tugumŋge sipsip tuku fonde mata minnaig. David nu nuŋe taŋgo kame ta kilmba nane sikar burok ta sinamŋge kuirka minnaig. Kile Saul ndek sumbikam saka sikar burok ta sinam kina le
@@ -7861,7 +7862,6 @@ Taŋgo ande nu nuŋe ŋgueu taŋgo te-silikuwa ta nu nu ake mapewa le kine nda t
 Ye buk katesewet. Ne sine Israel mbal ŋakmba tuku gabat suŋgo minmba minamŋgat.
 Ta tuku ne Suŋgo tuku nyu mbolŋge pasa saŋgri pilewa sulumba ye tuku gageu tumu pile ndaka ŋga David sana.
 Taŋaka sana le David ndek pasa ta woka saŋgri pilena. Taŋana le Saul ndek luka nuŋe tumbraŋ kina le David nuŋe taŋgo kuasmbi kilmba naŋgine minnaig mbi sikar burok ta kinaig.
-
 Taŋamba minnaig ma ma Samuel nu kumna le nane Israel mbal ŋakmba pro maŋgurka nu malmbinaig. Malmbiwe deŋpurmba nu tuku mindesiŋ tumba ka Rama tumbraŋŋge nuŋe wandembi taŋge ŋgukinaig. Ŋgukinaig le David nu tiŋga kuirka minna magot ta kusremba Paran ma baknu ta kina ka taŋge minna.
 Maonnu taŋgo ande nyunu Nabal nu nuŋe agaŋmor kame ta tumbraŋ suŋgo Karmelŋge kulatka minanu. Taŋgo ta nu maror taŋgo. Nu sipsip 3,000 meme 1,000 ŋak minna. Piyo nuŋe ta nyunu Abigail. Nu pino ŋgarosu mayenu raŋgun mayenu. Taŋgo nuŋe ta nu mugru sambek nu gubra te-fagna tuku. Nu Kaleb tuku ndare. Taŋgo ta tuku piro mbal nane Karmelŋge sipsip ŋguenu kugerka minnaig le nu ka nane kulatka taŋge minna le
 <range>
@@ -8511,6 +8511,7 @@ Taŋakina le gabat suŋgo ndek Ahimas kusnana: Ye tuku kiŋo Absalom maye minit 
 gabat suŋgo ndek nu sana: Ne ka o siŋge tiŋga ŋgina le Ahimas dirka ka kasom siŋge tiŋgina.
 Taŋana le Etiopianu taŋgo ta pinderka pro gabat suŋgo sana: Yiŋe gabat suŋgo, ye pasa mayenu ne sanam prowet. Kuasmbi ne te-sinam bafuwaig ta Suŋgoŋge kilmba ne tuku wai mbolŋge patikat ŋgina.
 Taŋaka sana le gabat suŋgo ndek nu kusnana: Ye tuku kiŋo Absalom maye minit e ŋgina le piro taŋgo ta ndek lafumba sana: O gabat suŋgo, wam kiŋo naŋe mbol prowat ta naŋe ŋgueu mbal ne te-sinam sakade nane ŋakmba mbol taŋamba ndo prowa ŋga iduset ŋgina le
+gabat suŋgo nu pasa ta ismba ŋgamuŋgal tatrukina le nu tiŋga fonde poŋga wande ta sinam kumba ka taŋge malmbika minna sulumba malmbi kueŋka sakina: O yiŋe kiŋo Absalom. Kiŋo nyek o. Kiŋo nyek o. O Absalom, yeŋge kumi ta maye. O yiŋe kiŋo. Kiŋo nyek o ŋgina.
 Gabat suŋgo David nu Absalom tuku ninanka malmbika minna ta nane afu ka Yoab sanaig le
 kame kuasmbi ŋakmba gabat suŋgo David kiŋo nuŋe Absalom tuku malmbika minna pasa ta ismba nane wamdus piti suŋgo tumba kame mbolŋge ŋgueu mbal kile-ibeŋkinaig gare gare ta kugatok
 siŋsiŋndo kame mbolŋge kua ka kiko ŋak prowanu sukmba tumbraŋ sinam kinaig.
@@ -8554,7 +8555,6 @@ Gabat suŋgo nu kule pakarka sim kina le Yuda taŋgo pino ŋakmba Israel taŋgo 
 Kile Israel mbal ŋakmba pro gabat suŋgo David sanaig: O gabat suŋgo, ndaŋam tuku siŋgine tira kame Yuda mbal nane sine Israel mbal yabusiŋmba ne naŋe gageu naŋe kuasmbi ta ŋakmba kile-temkam tuku Yordan kule mbol kinaig ŋginaig kande
 Yuda taŋgo ŋakmba pasa lafumba sakinaig: Gabat suŋgo nu siŋgine tugu ndindo ndo. Ta tuku sine maŋau ta kig. Ndaŋam tuku tane sine tuku gubratiŋgig? Gabat suŋgo nu sine agaŋ inum siŋge ndakat ŋginaig le
 Israel mbal nane pasa lafumba sakinaig: Sine Israel mbal tugu 10 ŋak. Tane Yuda mbal tugu ndindo ndo. David nu tane tuku tugu ŋgaig ta son ta nu sine ŋakmba tuku gabat minwa. Ta tuku tane ndaŋam tuku sine ake agaŋ taŋaŋ talasiŋgig? Gabat suŋgo tumba luka te prowam tuku wamdus ta sineŋge tugu pilgeŋ ŋginaig. Taŋakinaig kande nane Yuda mbal pasambi kualeyauka Israel mbal kile-ibeŋkinaig.
-
 Taŋgo ŋayonu ande Bikri kiŋo nuŋe Seba nu nane ndoŋ Gilgal tumbraŋ taŋge minna. Taŋgo ta nu Benyamin tuku kuasmbi. Nane kualeyauka minnaig le Seba ndek tabil fitka wi kueŋka sakina: Tane David kusrewap. Sine Yesi kiŋo nuŋe David tuku kuasmbi kuga. Tane Israel taŋgo ŋakmba tiŋga taŋgine tumbraŋ tumbraŋ kine likap ŋgina le
 Israel taŋgo ŋakmba pasa ta ismba tiŋga David kusremba Seba dubimba kinaig. Taŋamba kinaig le nane Yuda kuasmbi ndo David kumnemŋge minnaig sulumba Yordan kule kusremba nu dubimba ka Yerusalem pronaig.
 Nane Yerusalem pronaig sulumba David ndek nuŋe wande sinam kumba ka pino kame 10 gabat suŋgo tuku wande kulatkam tuku kusrekina ta kilmba wande ande serniŋmba taŋgo afu madiniŋgina le nane kulatka minnaig. Taŋamba nu pino kame ta nyamagaŋ agaŋ ndende niŋmba maŋ nane ndoŋ kinye ndakina. Nane ake pino kuembol taŋaŋ wande ta mbolŋge minmba ma ma saibo patika kume likinaig.
@@ -8718,6 +8718,8 @@ Taŋaka sana le Arauna ndek David sana: O gabat suŋgo, kilke te ne ake ta sulum
 nu nuŋe agaŋ ndende ta ŋakmba kilmba David kile-tumba sana: Naŋe Mbara Suŋgo nu ne tuku atrau tuwa ŋgina.
 Taŋakina le David ndek lafumba sana: Kuga. Ye agaŋ ndende ta ŋakmba ndametiŋmbi piyawamŋgit. Ye agaŋ inum ake yainumba yiŋe Mbara Suŋgo atrauke nda ŋga sana. Taŋaka sana sulumba nu kilke makau kilna ta ulendimba silwa ndametiŋ soŋ 5-mbi piyana.
 Taŋamba nu ndame kilmba turŋaŋga pa laŋlaŋ wakeimba makau afu bale farmba pasokina le ugnaig. Taŋamba maŋ Suŋgo ndoŋ wamdus ulendikam tuku makau afu ta kilmba pasokina le ugnaig le Suŋgoŋge guaze suŋgo Israel ŋgamukŋge minna ta pitaimba tukulna le kugana.
+
+
 
 
 
@@ -22596,8 +22598,6 @@ Taŋamba nane tukul dubimba makau pailnu kilmba ne tuku atrauka agaŋmor ta bale
 
 
 
-
-
 Mara ande Suŋgo nu Amitai kiŋo nuŋe Yona wam pagumba sana:
 Ne tiŋga Nineve tumbraŋ suŋgo ta kaye sulumba riroŋ pasa niŋga. Ye nane tuku wam ŋaigonu suŋgomba ke likade ta ye kaŋgerket ŋgina.
 Taŋakina le Yona nu Suŋgo ram kua ka Spen kilke mbol kambim bafuna sulumba kile nu tiŋga Yafo tumbraŋ fudiŋ ta mbol kina ka taŋge waŋ ande Spen kambim bafuna ta te-silikina sulumba Suŋgo ram kua ka waŋ ta piyamba poŋga kinaig.
@@ -22614,6 +22614,7 @@ Taŋakina le nane waŋ kulat taŋgo waŋ tumba makembi kambim bafumba nane saŋg
 Suŋgo wika sanaig: O Suŋgo, sine taŋgo te tumba yu mbol bukŋgube le nu kumwa le ne sine pasa mbolŋge patika le ma ŋayo mbolŋge ŋgisi ndakube. O Suŋgo, ne naŋe nzali ndo dubimba wam te kate ŋginaig.
 Taŋakinaig sulumba nane Yona tumba yu mbol bukŋginaig le yu ndek mukuna.
 Yu mukuna le taŋgo kame ta Suŋgo tuku kuru kuru suŋgo tumba agaŋmor ande balemba Suŋgo atraukinaig sulumba nu tuku pasa saŋgri pilenaig.
+Yona tumba yu mbol bukŋginaig le Suŋgo nu kualegaŋ suŋgo ande sana le nu promba Yona tumba ŋinkina. Ŋinkina le Yona nu mara keŋmba furir keŋmba kualegaŋ fuŋgul sinam taŋge minna.
 Yona nu kualegaŋ fuŋgul sinamŋge minmba nuŋe Mbara Suŋgo gare pasa tumba sakina:
 O Suŋgo, ye piti suŋgo kurawit sulumba ne wikit le ne ye turyat. Ma ŋayonu kumanu mbal tuku ma mbolŋge minit sulumba ye ne tuku wi kueŋkit le ne isat.
 Neŋge ye bukŋgat le ye yu buto sinam nzi kat. Yuŋge ye soŋgat le yu mbalo sugo sugo ye mbolŋge ŋgurkaig le
@@ -22624,7 +22625,6 @@ O Suŋgo, ye kumam tuku kamusit sulumba ye ne idusnumba yabaŋnit le ne samba mb
 Nane afu yabri mbara dubikade ta nane ne kusrenade ta
 ye munembi ne tuku nyu te-duŋga ne atraukamŋgit. Ye ne ndoŋ tumamba pasa saŋgri pilewen ta maŋ kamŋgit. O Suŋgo, neŋge ndo sine kile-luka kilit le sine abo ŋak mineg ŋga sana.
 Kile Suŋgo nu maŋ kualegaŋ ta sana le kumba ka piyalŋge Yona ŋgilikina le mayok kina.
-
 Suŋgo nu maŋ lato Yona wam pagumba sana:
 Ne tiŋga Nineve tumbraŋ suŋgo ta kaye sulumba pasa ye ne sanet te kuklimba saka ŋgina.
 Taŋakina le Yona nu tiŋga Suŋgo tuku miŋge dubimba Nineve kina. Nineve nu tumbraŋ suŋgo pasa ŋak. Taŋgo ande tumbraŋ ta dubimba make inum kumam kambim ŋga ta nu mara keŋnu mbolŋge ta prowanu.
@@ -27691,7 +27691,7 @@ Ande nu pasa ta pitaiwam kumuŋ kuga. Ta tuku taŋgine gubra te-ibeŋmba wam and
 Tane taŋgo armba kilmba prowaig te nale siŋgine mbariŋam tuku wandekŋge agaŋ ande kuayarmba ko siŋgine mbara Artemis tuku ŋgumnem pasa sa ndakade.
 Sine pasa pilewanu wande ŋak. Pasa pilewanu taŋgo mata minig. Demetrius nuŋe piro mbal ndoŋ afu tuku gubra ŋak ndeta nane kilmba pasa mbolŋge patikuwaig.
 Tane pasa gabat afu minig ndeta ta mata maŋgurkam ait mbolŋge kile-tidiŋgap.
-Kile sine pasa zigna suŋgo mayok kinit te gabat sugo ismba kusnasiŋguwaig ta ame pasa alonu saniŋgamŋgig. Maŋgur suŋgo te pasa alo kugatok ŋgina.
+Kile sine pasa zigna suŋgo mayok kinit te gabat sugo ismba kusnasiŋguwaig ta ame pasa alonu saniŋgamŋgig. Maŋgur suŋgo te pasa alo kugatok ŋgina. Taŋaka pitaika kapeniŋgina le nane sili-silinaig.
 Nane gubra ŋgumbeyu ta maninka sili-silinaig le Paulus nu Yesus dubinaig mbal kile-maŋgurka pasa afumbi saŋgri pileniŋgina sulumba nane kusreka Masedonia ma tugu mbol kina.
 Nu ma ta mbol lika kumba Yesus dubinaig mbal saŋgri pileniŋmba ka ka Grik kilke mbol prona.
 Pro taŋge nu tambun keŋmba minna. Tambun keŋmba kuganaig le nu waŋ poŋga maŋ luka Siria ma mbol kambim sakina ta Zu mbal afu nu balewam saka ndin tukulnaig le nu wamdus mbilmba Masedonia kumam kambim sakina.

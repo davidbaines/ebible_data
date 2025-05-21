@@ -926,6 +926,7 @@ Labaaniva minti tivakero viva vo uvavata tiharo, Tetanta maa orira arate maa ori
 Tetanta uva tiva taatau taunara tauru kaarorave ti, maa orira arataunaravata vo orinavuvata ruvaaqumake vatauro. Te maihai kia maa orira aatarake ai oru qoraiqama amitarerave. Arevata vihaira kia maa orira ai aatara kera ani ti qoraiqama timitenarave.
 Kairaro Eparahaamika Nehoka Variqavano titantaqaa raqiki vairaqe tetanta kia nai qoraiqama amite nai qoraiqama amite irerave, tiro. Labaaniva minti tuvaro Iekopiva nai kauqu aiqiqaa aqukero tiharo, Ti qova Aisaakiva qete vai Variqara autuqaa te are uva tiva taanara iriqi virerave turo, tiro.
 Minti tivakero viva aiqina vataini vaiharo nai ˻sipisipi˼ vo arukero Kotira ofaa iha quara amitero, nai navunaaka naarama kero vika hampata kara nama kero mini vaitora.
+Vika mini vaite vira qararaa Labaaniva himpiro nai naintinavuvata nai raavuratantavata moqakero nai kauqu tuaherakero vika koqema nimitero, vika mini kero anirantero nai maaqaini vurama.
 Labaaniva nai maaqaini anirantero vuvaro Iekopiva aaraini viharo tavomanta Kotiva nitito enselika vira vita kareka ani vauvaro
 Iekopiva vika tavero tiharo, Ike, maini Kotira seri naavu maaqa kaqate varianainive, tivakero vi vatara autu nteharo, Mahanaiminive, tura.
 Iekopiva nai kaiqa vaiinti vonavu naane nititomanta vinavuka vira vakaava Isova Seiru vataini vaunaini vura. Vi vatava Idomu vata avutaini vaura.
@@ -958,7 +959,6 @@ Minti tuvaro Iekopiva virara tiharo, Are nena autu ntaane, tuvaro viva aqao tiro
 vuvaro Iekopiva tiharo, Te Kotira viri tave vauraro ti vehakuma timitaimanta kia te qutu viraiti qaqi vaunarara ti, te maa vatara autu nteha Penierive – Kotira Virive turo, tiro.
 Minti tivakero Iekopiva Penieri mini kero aaraini vi vauvaro kuari uruntovaro vira auka/auika ntuva kora kaara aiha vuvaro rentuqaa rentuqaamaqiro vura.
 Iekopira auka/auika ntuva korara ti, maa entara Isareri vatanaaka mati neha auka/auika tataaqa vai matira kia naara.
-
 Iekopiva aaraini oru viharo vutu tavovaro Isova 400 vaiinti hampata ani vauvaro Iekopiva nai vainti rairakero hininavu Riaara amiro, hininavu Reseriravata vira kaiqa nahentitantavata nimura.
 Viva avuni nai kaiqa nahentitantavata vitanta vaintivata vatero, vika naantiara Riaaravata vira vaintinavuvata vatero, vika naantiara vitini Reseriravata vira vainti Iohepiravata vatora.
 Mintima kero Iekopiva naane avuni oruntero tori kauru araviro nai viri vataini kero himpiro, qaiqaa ori vaiqiro tori kauru araviro nai viri vataini kero himpiro, 7 tataa mintiaqiro viro, oru nai vakaara vita kora.
@@ -1709,10 +1709,6 @@ Eroniva mintima komanta Isipi vure/quaha vaiintinavu vikavata nai hepi kaiqa aut
 Viva kia vi haikarara noraiqaakero iriraitiro, qaqira kero nai avuhainaa naavuqi oru vaura.
 Nairi Namari kaqake neva kia vaura kaara Isipi vika namari kaqake nareka Nairi Namari auvahianta ora quvike namari kaqe vaura.
 Noravano Kotiva Nairi Namari ruqutu kovaro 7 entanavu aitarora.
-
-
-
-
 Viraqaahairo Noravano Kotiva qaiqaa Mosirara tiharo, Are Pero vaiintivano vainanaini qaiqaa oruntera ti uva maantima kera vira tiva amiane: Noravano Kotiva ariara mintima tivo: Are ti vaiinti nahenti qaqi kairamanta vika oru vaiha ti hutu tuahera kaate.
 Are kia vika kuvantu kairera, te airi eqavoka qovarama kaari vika Isipini vaiha ni Isipi vatanaaka qoraiqama nimitevarave.
 Nairi Namariqi eqavokavano airitahaa mpiqa viro, viraqihairo ai avuhainaa naavuqive, are vaite varianaraqive, are vaite variana taintaraqaave, mini mini vuanarove. Eqavokavano ai koqe avu aato ami varia vaiintika naavuqive, ai navunaaka naavuqive, kara unta ne varia hantaraqive, kara untareka tuqantaavi varia tanuraqive ekaa mini mini vuanarove.
@@ -1741,6 +1737,10 @@ Mintuvaro Pero vaiintivano Mosika Eronika naarama kero vitantara tiharo, Netanta
 Minti tuvaro Mosiva aqao tiro, Kia tenavu maini vaiha Nora Kotira ofaa iha quara amitararave. Hauri tenavu mintiari vira kaara Isipi vika tinavuara qorahaama autuavo tivake ori utuvare, tinavu ruqutuqi viha tinavu haru kevorave.
 Tenavu Kotiva tintemake, Isipi maini ke taaramo entara aahara vatavau vivi, mini orunte tentanavu Variqa Nora Kotira ofaa iha quara amitarerave, tiro.
 Minti tuvaro Pero vaiintivano tiharo, Hove, te ni qaqi kaari ne nenta Variqa Nora Kotirara iriha oru aahara vataini vaiha, nenta Variqa ofaa iha quara amitaate. Ne kia niaraini viraiti, aumanto oru vaihama ofaa iha quaraate. Ho tiriaravata irihama nenta Variqa Nora Kotira aarama timitaivaro ˻vauvaari taiqa vuarire˼, tiro.
+Minti tuvaro Mosiva nai tiva amiro tiharo, Te ai maini ke, vate vira te Nora Kotira aaraariraro viva tiraro vauvaarivano niqaahairo taiqa vuarire. Hurama vauvaari vika arive, ai koqe avu aato ami varia vaiintikave, ai navunaakave, vika niqaahai vivarave. Oho, are kiama qaiqaa titanta una tiva timitehara, Isareri vatanaaka ravaaqavu kaira vika kia Nora Kotira ofaa iha quara amitareka vuate, tiro.
+Minti tivakero Mosiva Pero vaiinti mini kero, Nora Kotira aarovaro
+viva Mosiva tuntema kero vira uva irura. Vauvaari vika Pero vaiintive, vira koqe avu aato ami vau vaiintikave, vira navunaakave, mini ke vuvaro, kia qaiqaa vauvaari voqavanovata vaura.
+Mintuvaro Pero vaiintivano nai avu aato kempukaiqama kero, kia Isareri qaqi komanta vura.
 Ho qaiqaa Noravano Kotiva Mosirara tiharo, Are Pero vaiintivano vainaini oruntera mintima tiane: Noravano Kotiva Hiparu vatanaaka Variqavano ariara mintima tivo: Are ti vaiinti nahenti qaqi kairamanta vika oru vaiha ti hutu tuahera kaate.
 Are kia vika kaira vivera,
 te nora aiha viraara vara kaari ai ohive, donkive, kamerive, purumakauve, sipisipive, memeraave, ekaa qutu vivarave.
@@ -4228,6 +4228,21 @@ Vatavano mintima kero qantuara vuvaro Dataanika Abiraamuka náitanta vainti nahe
 Vika qaqi vauka vaiha mintimake nái u haikara hampata qutu vuaka varianaini vuvaro vatavano vika aqu ravaaqavu komanta vaiinti nahenti kia qaiqaavata vika tavora.
 Vika vataqi otiqeteha voqamake keke ti vaumanta ekaa Isareri vika aaqanto vauka tiha, Oho, kantama vuate. Hauri vatavano tinavuvata ravaaqavu kaantorave, tivake kantama vura.
 Vika kantama vuvaro Noravano Kotiva naaruvaihairo iha vara kovaro tuvuntero 250 vaiintinavu koqe munta ura iha quare vauka tatoqa taiqa kora.
+Ihavano vika tatoqa kovaro Noravano Kotiva Mosirara tiharo,
+Are Eronira maaqu Eleasaava ti kaiqa vara timite vai vaiintirara tiraro viva oru ihavano tatoqa kai vaiintinavuka ia tanura, ekaa vi tanura varakero ori vaiqiro tanuqi vai iha aurira aqu aquma kaarire. Vi tanunavuka kia qumina tanu vairaiti, ti Nora Kotika kaiqara iriha kaamataa tanukama variarave.
+Vi tanunavura vare koqe munta i murara autireka ti ofaa tainta tataaqa oru varia tanuva vairave. Tanunavu varake hamaqohai ruqutu kakanairimake vuru ti ofaa taintaqaa aqu taatau taate. Nái qora kaiqa varaara kaara qutu vua vaiintika tanunavuqohai mintimanta Isareri vika ti tainta vira taveha, vikavata kia vohaa qaramake vinavuka qora kaiqa varentemake varaate, tiro.
+Kotiva Mosirara minti tuvaro Mosiva Kotira kaiqa vara amite vau vaiintira Eleasaara tiva amuvaro Eleasaava vi tanunavura varero vuru komanta vi tanura ruqutu kakanairima kovaro Eleasaava viraqohairo ofaa taintaqaa aqu taatau tora.
+Tainta viraqaa aqu taatautora taveha Isareri vika tiha, Hauri qumina vaiintivano kia Eronira ankuqihainaava koqe munta i murara iha quarareva Nora Kotira ofaa tainta tataaqa vuantorave. Qumina vaiintivano mintirera, Noravano Kotiva Koraaravata vira avataqi ni vaukavata qoraiqama nimitaintema kero, vi vaiintiravata qoraiqama amitaanarove, tura. Isareri mintiate tiro, Noravano Kotiva Mosira tiva amuvaro Eleasaava ekaa haika Noravano tuntema kero autu kora.
+Vira qararaa ekaa vaiinti nahenti Mosika Eronikara nuntu nauntu tiha vitantara mintima ti: Netanta mintihama Kotira vaiinti nahenti hini kiaka arukaavo, ti.
+Vika minti tivake ruvaaqumavi vaiha Mosika Eronika nitiha tuqantaavi tavovaro Kotira Seri Naavu vaunaini vate virave tiro vaakama quromuravano Kotira Seri Naavu naavuma kovaro Noravano Kotiva viraqi vau ovava, voqama kero takuqi vau ovava qovarama viro ite vaura.
+Ite vaumanta Mosika Eronika oru naavu vira qentiana himpite vauvaro
+Noravano Mosira tiva amiro tiharo,
+Netanta vinuate. Netanta vi vaiintika ke niaranto ori vaiqi vaiqe te vika vehi autu taiqa kaare, tiro. Minti tumanta vitanta vi uvara iri vataini hiqintivi náitanta viri vataini vate vaura.
+Mosiva Eronirara tiharo, Mpo, nena iha quare variana tanuravata, koqe munta iaina haikaravata varera, oru ofaa taintaqaahaira iha auri varakera tanu viraqi vatera, kantera vaiinti nahenti vainaini oruntera, vikara irihara Kotira iha quara amitairaro viva vika qora kaiqa vare uvara nunka nimitaarire. Nora Kotira voqama kero vikara arara itaivaro viva qora rovara vara kaivaro vika qoraiqama nimite vaivo, tiro.
+Mosiva minti tuvaro Eroniva Mosiva tunte iro, viraqi iha quarato tanura varero kantero vi vaiinti nahentika ruvaaqumavi vaunaini vika nivutaini oruntero tavovaro qora rovaravano vikaqaa vaaka qovarama vura. Mintuvaro Kotiva vika qora kaiqa vare uvara nunka nimitaarire tiro, Eroniva koqe munta u haikara iha auriqaa aqu aquma kovaro muravano oru vura.
+Mosiva tuntemakero Eroniva vaiinti nahenti vaaka qutu vukavata qaqi vaukavata nivutana himpi vauvaro vi rovarava taiqa vura.
+Tota Koraara hampata airi vaiinti nahenti qutu vuvaro viraqaahairo vi rovarava Isareri vikaqi qovaramaviro 14,700 vaiinti nahenti aru kora.
+Ho Eroniva vaiinti nahenti nivutaini vauvaro vi rovarava taiqa vuvaro viva orurantero Mosiva Kotira Seri Naavu qentiana vaunaini anura.
 Noravano Kotiva Mosirara tiharo,
 Are Isareri tiva nimiramanta vika kauru 12navu ai amiate. Vohaa anku vohaa anku qiata vaiintiqihaira kauru vohaiqa vohaiqa varera, vika nutu kauru viraqaa qara ntuva tera, Rivaira ankuqiraa kauruqaa Eronira autu qara ntuva taane.
 <range>
@@ -4241,21 +4256,6 @@ Ani varovaro Noravano Kotiva Mosirara tiharo, Eronira autu vaina kaurura qaiqaa 
 Noravano Kotiva minti tuvaro Mosiva viva tunte ura.
 Isareri Mosirara tiha, Oho, tenavu ekaa qutuma virarave. Tenavu ekaa taiqa vuariraukama vauro.
 Vaiinti vovano Kotira Seri Naavu tataaqa oru virera, Kotiva vira aruma kaanarove. Mpo, Kotiva tinavu ekaae arukaanarove? ti vaura.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7771,6 +7771,7 @@ Ionataaniva qaiqaa vi vaintirura aarero tiharo, Kantera vuane. Kia qumina viraqa
 Vi vaintiruva Ionataaniva tu uvara okara kia kankoma kero iriraitiro vaumanta, Ionataanika Devitika náitantaqai vira okara irura.
 Ho Ionataaniva huruvata vevavata vaintiru amiro tiharo, Varera vatukaini vuane, tiro.
 Tuvaro vainti viva vuvaro Devitiva ori hini mantaraini kukeqavi vauraqihairo Ionataaniva vaunaini anintero vira avuqaa taaramo tataa tori kauru araviro nai viri vataini kero, viraqaahairo himpiro Ionataanira utu varero nai kukuqe nai kukuqe ihatanta iqi rate vaura. Devitiva Ionataanirara iqi ratova Ionataaniva virara iqi ratoravata uri aatara kora.
+
 Ho Ionataaniva Devitirara tiharo, Ho ai muntukavano qihaaqirara vuane. Noravano Kotiva vaiharo tavaimanta tetanta vira autuqaa tiha, Tetanta ekaa enta kia navutaiqiraiti koqemake variari, tetanta kuvuarama taarirauka vikavata mintima variqi vivarave, tunarave, tiro. Ionataaniva minti tivakero anirantero vatukaini vuvaro Devitiva vo vataini vura.
 Devitiva Sorura aatu qetakero Nopi vatukaini Kotira kaiqa vara amite vau vaiintira Ahimerekira tavareva oruntovaro viva Devitira tavero aiqu kauqu ntiri ntiri i vauvaro vira irero tiharo, Oho, nantivarae are nenaraa aniaro? Nantimantae kia vaiinti vonavu ai hampata aniavo? tiro.
 Ahimerekiva minti tuvaro Devitiva tiharo, Te avuhainaa vaiinti kaiqara irihama maini anuro. Avuhainaa vaiinti viva ti tititero tiharo, Kia vo vaiintivata tiva nimiraitira, evaara vi kaiqara varaane tivera, kia te virara ai tiva amirerave. Tenta iqoka vaiinti vikara vona ruvaaqumavi vaiha ti veka variate tunarave.
@@ -7787,7 +7788,6 @@ Vika minti tuvaro Devitiva vi uvara iriro tiharo, Oho, ˻te vira navunaaka airi 
 Devitiva qeteharo avuhainaa vaiinti avuqaavata vira kaiqa vaiinti nivuqaavata vaiharo vuera vaiinti voqaantema kero vi ani vaura. Viva minti vaumanta avuhainaa vaiintivano nai kaiqa vaiinti hampata Devitira ravaaqavu karare tuvaro viva vuera vaiinti voqaantema kero, vaantaavura qentiqaa kakahiakara i vaiharo qaqi kovaro auvaantuvano vira noqihairo nteharo okauvau tuvi vaura.
 Devitiva mintima kero unaqaraiqi vauvaro Akisiva vira tavero nai kaiqa vaiintiara tiharo, Tavaate. Maava vueraiqama vivo. Nantihae ne vira vita vare te unanaini aniavo?
 Vueraiqama vuaka airitahaa maa vataraqaa variamanta ne nantihae vuera vaiinti vovata ti naavuqi vite aniavo? tiro. King Akisiva minti tiva kero Devitira qaqi kovaro vura.
-
 Devitiva ruqemakero Geti vatuka mini kero Adulaamu vatuka aumanto aiqina vaunaini ori onavuqi oru vaura. Viva mini vaumanta vira vakaukavarave, vira navunaa vonavuve Devitiva mini vaivo tu uvara iri, vikavata vira hampata mini otu vaura.
 Vaiinti vokuka vo maara vo maaraqi vaukave, airi dinauqi vaukave, vo haika kaara kia koqemake vaukave, vika vika 400vano Devitiva vaunaini oru vuvaro viva vika qiata vaiintiqama viro vaura.
 Ho Devitiva mini varikero, viraqaahairo viva nai noka qoka ntita varero Misipaa vatuka Moapi vataini vura. Devitiva oruntero Moapi avuhainaa vaiintiara tiharo, Are qaqi kaira ti noka qoka ai hampata maini variqi vi vaiqe te vaiha tavaariraro Kotiva ti nana haikae autu timitaarire, tiro.
@@ -7839,6 +7839,7 @@ Devitiva mini vau uvara Soruva iriro, nai iqoka vaiinti ntita varero vira rantar
 Mini vauvaro Soruva nai iqoka vaiinti hampata vi aiqinara hini mantaraini Devitirara rante vauvaro Devitiva Sorura aatu qetakero aiqina hini mantaraini nai iqoka vaiinti hampata kantama vura. Ho Soruva nai iqoka vaiinti hampata oru aumakaa Devitira nai iqoka vaiinti hampata ravaaqavu karare tuvaro
 vo vaiintivano anintero Sorura tiva amiro tiharo, Oho, Pirisia vika ai navunaaka hampata raqirekama aniavo. Are kantera anirantera vuane, tiro.
 Viva minti tuvaro Soruva vi uvara iriro kia qaiqaa Devitira avataqiro viraitiro, anirantero Pirisia hampata raqireva vura. Soruva qaqirakero vi aiqinaraqaahairo vurara ti, maa entara vi aiqinara autu nteha, Sela-Ha-Maklekotive – Qaqirakero-Vu-Orirave, ti variara.
+Ho Devitiva mini vaura kero oru Eni-Gedi vataini vaiintivano koqemake kukeqavi vaunaini vura.
 Soruva Pirisia ntata vuru kero orurantero ani vaumanta vokuka Sorura tiva ami tiha, Devitiva Eni-Gedi Aahara Vatave tianainima vaivo, tura.
 Vika minti tuvaro Soruva Isareri iqoka vaiintiqihairo kempuka vaiinti 3,000navu kaama tero ntita varero Devitira nai vaiintivara hampata rantareva Qaakau-Memera-Onkaiqive tura aumanto vura.
 Soruva oruntovaro ori onavu vovano aiqina vira vevaqi aara aumanto vauvaro sipisipi ohaavata mini vaura. Ho Soruva raha tareva onavuqi oriqetero, viva Devitiva nai vaiinti hampata onavu tauvaqaini kukeqavi vaura kia tavora.
@@ -7861,7 +7862,6 @@ Te irunarave. Vo vaiintivano nai navutaara qoraiqama amitareva iharo, viva kiama
 Ho te vate kankomake iri tavaurara are naantiara Isareri avuhainaa vaiintiqama vira, vikaqaa koqema kera raqikiqira vi vairamanta vika koqemake variqi vivarave.
 Are Nora Kotira autuqaa mintima iane: Naantiara avuhainaa vaiintivano vaihara kiama ti anku vaiinti nahenti ntaihama kaane. Hauri are vika arukairaro ti hutuvanovata vika nutuvanovata ekaara taiqa vuantorave, tiro.
 Soruva minti tuvaro Devitiva Nora Kotira autuqaa te mintima ianarave tuvaro Soruva anirantero nai maaqaini vuvaro Devitiva nai iqoka vaiinti hampata anirantero nái kukeqavi vau aiqinaraqi vura.
-
 Samueriva qutu vumanta ekaa Isareri vika ani ruvaaqumavi vaiha virara iqi rata amitora. Vika virara iqi rata amite, nai maaqa Ramaini vira quntama tora. Ho vo entanavu aitarovaro Devitiva nai iqoka vaiintinavu ntita varero Paraani Aahara Vataini oru vaura.
 Maoni vatukaihainaa vaiinti vo Nabaarirave – Kia-Avu-Aato-Vataarave tu vaiintiva vaura. Viva Kalepira vohaa ankuvano vauvaro vira vatavano Kaameli nora vatuka aumanto vaura. Nabaariva airi airaira vato vaiintiva vaiharo sipisipi 3,000 vatero, memeraa 1,000 vatora. Vira naata Avikeriva koqe avu aato vataava vauvaro vira viri vaatavanovata koqe iro vaura. Mintima vauvarovata, vira vaati Nabaariva voqama kero vaiinti niti vau vaiintiva vaiharo nai airaira kampaiqama kero tuate vauva vaura.
 <range>
@@ -8511,6 +8511,7 @@ Ahimaasiva minti tuvaro avuhainaava vira irero tiharo, Mpo, qaraaka vaiinti Apas
 Viva minti tuvaro avuhainaava tiharo, Ho are vitiraqaa oru himpite vairaqeve, tuvaro Ahimaasiva oru mini himpite vaura.
 Mintuvaro Sudani vataihainaa vaiinti vivavata uruntero tiharo, Avuhainaao, te koqe vakaaka ai tiva amirera ururo. Vika ai hampata raqiha ai qaqini vara kareka auti variaka kauquqihairo, Noravano Kotiva ai ruaruama amitaivo, tiro.
 Viva minti tuvaro avuhainaava vira irero tiharo, Qaraaka vaiinti Apasalomuva, viva hoe vaivo? tuvaro vi vaiintiva nai tiva amiro tiharo, Oho, avuhainaao, qaraaka vaiinti viva qoraiqama vintemake, ekaa ai navutaakave, ai qaqini vara kareka auti variakave, ekaa vika qoraiqama vivera, te hove tiataarave, tiro.
+Minti tuvaro avuhainaava vi uvara iruvaro vira muntukavano voqama kero qoraiquvaro viva vaantaavura qenti qiataqaa rumu voqi oriqete vaiharo iqi rate vaura. Viva mini viharo tiharo, Mpo, ti maaqu Apasalomuo. Ti maaquo, ti maaquo, Apasalomuo. Mpo, te ai vatuka vare qutu vuarirara are qaqi variataarave. Mpo, Apasalomuo, ti maaquo, ti maaquo, tivaqiro rumuqi vura.
 Vokuka vuru Ioaapira tiva ami tiha, Devitiva Apasalomurara mpo ike tiharo virara iqi rate vaivo, tura.
 Vi entara ekaa Devitira iqoka vaiinti vika iqoka aatarakora virara quahaataara vaumanta vika iruvaro Devitiva nai maaquara iqi rate vaura kaara vika muntukavano qoraiqumanta vaura.
 Iqokaqihai qetake vua vaiintika voqaantemake, vika kia voravata ntiraiti, evaara vatukaini vura.
@@ -8554,7 +8555,6 @@ viva namari taqa varero Giligaali vatukaini vuvaro Kimihaamuva Devitira hampata 
 Devitiva Giligaalini vaumanta ekaa Isareri vaiinti vika avuhainaa vaiintivano vaunaini orunte virara tiha, Nora vaiintio, nana kaarae tinavu qata vakaa Iutaa vika náiqai evaara aivata, ai vaiinti nahentivata, ai iqoka vaiintivata, ntite aniamanta ne Iotani Namari taqa vare aniavo? ti.
 Isareri vika minti tumanta ekaa Iutaa vika nái tiva nimi tiha, Avuhainaa vaiinti viva tinavu ankuqiraava vaimantara ti, tenavu minturo. Ho nana kaarae ni araravano tinavuara itaivo? Tenavu kiama avuhainaara kara nama karaiti, kia viva i haikara voqavata naarumake vararaiti, tenavu vira qaqi quminama vite anuro, ti.
 Minti tumanta Isareri vika Iutaa vikara aqao ti, Avuhainaa vaiinti viva kia ni Iutaaqaaqai raqikiraitiro, tinavu Isareriqaavata raqiki vaivama vaivo. Ne Iutaa vohaa ankuqai variamanta tenavu Isareri 10 ankunavu vaunarave. Tenavu Isareri airi anku vauraukara ti, tenavu naane avuhainaara vite aniataarave. Nantihae ne Iutaa karu ntuvake kia tinavu haararaiti, neqai vira vite aniavo? Avuni tenavu Isareri naane tiha, Kaiqenavu oru avuhainaa vaiinti vite aniare, turamanta ne naane oru vira vite aniavo, tumantavata, Iutaa vika voqavata kempuka uva tiha Isareri vika uva aatara kora.
-
 Ho vi entara voqamakero antua aantua ti vau vaiintiva Sebaava Giligaalini vaura. Viva Bikirira maaqu Benaminira ankuqiraava vaura. Viva aanumaara/noma vuaqakero naveraitiharo, Kia tenavu Devitira vevaaraini vairerave. Tenavu kia Devitira ankuvauve vauro. Kia tenavu Iesira maaqu Devitira avataqi virerave. Ne Isareri vaiintivara, aniqe tentanavu maaqaini anirante vuare, tiro.
 Minti tumanta Isareri vika Devitira qaqira mini ke Sebaara hampata vura. Mintumanta Iutaa vikaqai Devitira vevaaraini vaiha vira avata vare Iotanihai Ieruharemini orunte vura.
 Ho Devitiva nai avuhainaara naavuqi oruntero nai naata naantiaraaka 10 navu nai naavuqaa raqikiate tiro konavuka ntita varero vuru vo naavuqi komanta vokuka vinavukaqaa raqiki vaura. Devitiva ne vikaqaa koqemake raqikiate tivakero viva kia qaiqaavata vika hampata vaitomanta, vika tentoqa nahenti variantemake, variqi vivi, vuru qutu vura.
@@ -8865,6 +8865,20 @@ Jehosafaativa – viva Paruaara maaquvano Isakaara anku vika vau vataraqaa raqik
 Simeiva – viva Elaara maaquvano Benaminira anku vika vau vataraqaa raqiki vaura.
 Gebeva – viva Urira maaquvano Gileaati vata hini mantaraini raqiki vaura. Haaru King Sihoniva Amo vatanaakaqaa raqikuvavata, King Okuva Basaani vatukaqaa raqikuvavata, vi vataraqaa raqiki vaura. Gebeva vivaqai ekaa vi vataraqaa raqiki vaura.
 Iutaa vaiinti nahentivata Isareri vaiinti nahentivata vika airitahaa nuqavano nampisini vaintemake vaura. ˻King Soromonuva vau entara˼ vika koqemake vaiha karavata namarivata neha quaheha vaura.
+Soromonuva raqiki vau vatava Iufaretisi Namari kuari urinaihairo viviro, Pirisia vataini kuari avu aquvinaini oruntora. Viraqaahairo vi vatava sautihairo viviro, Isipi auvahini oru taiqora. Soromonuva qaqi vau entara ekaa vi vataihainaaka vira vevaaraini vaiha vira takisi ami vaura.
+Vohaa enta vohaa enta Soromonuva kara varova vaireva, maantimama vairo: Porihi/Vorusi uta vira maaravano 6,000 kilo. Koqemake aututaa porihira/vorusira 3,000 kilo.
+Purumakau 10navu. Vi purumakauka uiti auruve, baali auruve ne vauvaro vika vaatavano koqemaviro vaura. Purumakau 20navu. Vika koqe ukau neha koqe vaata vatauka vaura. Sipisipi 100navu. Diaave, gaselive, vo aantauve, kokoraarave. Mintima kero vohaa enta vohaa enta Soromonuva kara vare vaura.
+Soromonuva ekaa Isareri aumanto vau vataraqaa raqikiqiro viviro, Iufaretisi Namari vainaini kuari urinaini oruntora. Viva raqiku vatava vaireva, Tipisa vatuka Iufaretisi Namari vaunaihairo viviro, Gaasa vatuka Nora Namari auvahini kuari avu aquvinaini muntu kora. Ekaa avuhainaaka mini vauka vika Soromonura vevaaraini vaumanta vira hini hini mantaraini vau vatanaaka vika kia vira navutaiqiraiti, maateraiqiha vaura.
+Soromonuva avuhainaa vaiintivano vau entara ekaa Iutaave, Isarerive, vika nái uaini naaho ututoraqive, fiki katari ututora okarainive koqemake oquvi vauvaro kia qora haikavano vikaqaa qovaramaviro qoraiqama nimite vaura.
+Soromonuva ohi airitahaa vatora. Iqoka kaari rarau vare vuaina ohira 4,000navu vaumanta vika vo naavu vo naavuqi nai kavaqaara nai kavaqaaraqi vatomanta vaura. Soromonuva iqoka raqi ohira 12,000navu vatora.
+Soromonuva vaiinti 12navu noraiqama komanta vika vi vatara vi vataraqaa raqiki vaiha, vika vohaiqa vohaiqavano, vohaa tora vohaa torara, kara varake vaumanta Soromonuvavata vira hampata kara ne vaukavata vi karara ho neha kia karara aavoqura.
+Nora vaiinti 12 vinavuka avuhainaa vaiinti vira ohiara iriha, nai kaamato toraraqaa baali auruvata, vira kaqivata, vara vuru iqoka kaari rarauri vau ohikavata, vo ohivata, nimumanta ne vaura.
+Kotiva koqe avu aato Soromonura amuvaro viva vi haikara vi haikara okara kankoma kero iri tave vauva vauvaro vira avu aatovano nai uri aatara kero vaura.
+Kuari avu urinaihainaaka vo kukavata, Isipihainaaka vo kukavata, koqe avu aato iri vauka vaiha vo okara vo okarara iri tave vau vaiintika vauvarovata, Soromonura avu aatovano ekaa vika avu aatovata uri aatarakero vaura.
+Soromonura avu aatovano ekaa vata maataqaa vau vaiintika avu aatovata uri aatara kora. Esraara ankuqihainaa vaiinti Etaamuva koqe avu aato vataava vaumanta, Maholura maaqunavu, Hemanivave, Kalakoluvave, Dadaavave, vinavukavata koqe avu aato vataaka vauvarovata, Soromonura avu aatovano vika avu aatovata uri aatara kora. Mintumanta ekaa Isareri aumanto vau vatanaaka, vika Soromonuva nai koqe avu aato vataavama vaivo tu uvara irura.
+Soromonuva uva maara koqera 3,000navu qara ntuvatora. Viva ihi 1,005navuvata qara ntuvatora.
+Nana nana kuvu kanaave katarive qampiqe vaira, Lebanonini vai sidaa katarirave, hohaa vau qampiqe vai maurara hisopive tura, viva vi haikara vi haikara okarara kankoma kero iriharo, vaiinti nahenti tiva nimumanta iri vaura. Qaqi variqi vi haikara, aantauvahive, uvirive, memaruve, havukave, viva vi haikara vi haikara okarara kankoma kero iriro, vaiinti nahenti tiva nimumanta iri vaura.
+Ekaa vo vata vo vataihainaaka vika King Soromonuva koqe avu aato vataava vaivo tu uvara iri, vika vaiinti nititomanta hihai hihai vira koqe avu aato irireka ani vaura.
 Haaru Devitiva qaqi vau entara King Hiraamuva Taiaa vatukaqaa raqikuva Devitira tonti koqeva vaurara tiro, Soromonuva nai qora Devitira vatuka varo uvara Hiraamuva iriro, vaiinti vokuka nititomanta vika Soromonura quahama amitareka ˻Ieruharemini˼ vura.
 Vika oruntovaro Soromonuva Hiraamuraini uva varakero mintima tiro:
 Are irianarave. Ti qova Devitiva avuhainaa vaiintivano vaiharo viva kaiqe te Nora Kotira naavu kaqa amitaariraro vira autuvano noraiqama vuarire tumantavata, navutaaka qaiqaa qaiqaa ani vira hampata raqi vaura kaara viva kia naavu kaqa amitorave. Viva tiharo, Kairaro Noravano Kotiva navutaaka naatara timitairaqe vira naantiara te vira naavu kaqa amitaare, turave.
@@ -8883,20 +8897,6 @@ Vika ori teqaate tiro, Soromonuva 80,000 vaiinti ntita vatomanta vika aiqinaini 
 Vi kaiqaraqaa raqikiate tiro, viva qiata vaiinti 3,300navu kaama tora.
 Soromonuva tuntemake, kaiqa vaiinti vika oru koqe ori vaunaini vaiha, ori nora haunti teqake vatomanta, vokuka ori vira vareha vuru Ieruharemini Kotira Naavu vi oriraqaa kaqa amitaate ti, vika vi orira vare vuru vataqaa vuqitora.
 Soromonuka Hiraamuka kaiqa vaiinti naavu kaqo kaiqara tavokavata, Bibilosihainaa vaiintivata, ekaa vika ori teqake avuqavuqamake vateha, katarivata kutuke humuquke qeramake vate vaura.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Soromonuva Isareri vatanaakaqaa raqikiqiro viharo 4 ihi varakero, vi ihira 2 toraqaa, Sivive tu toraraqaa Soromonuva Nora Kotira naavu kaqa amitareva vi kaiqara hoqarama tora. Vi entara Isareri vatanaaka Isipi ke anu entaraqaahairo 480 ihi aitarora.
 Soromonuva maantima vau naavura Nora Kotira kaqa amitora: Vi naavura hini hini vukaitantavano vaireva, 27 mita vauvaro, tauriniatanta vaireva, 9 mita vaura. Vi naavura virini tura aratova vaireva 13½ mita vaura.
 Nora naavu vira qentiana vika rumu vo tomaqa kovaro vi rumura tauriniava vaireva, nora naavu voqaantema kero, 9 mita vaura. Vira vukaitantavano vaireva, 4½ mita vaura.
@@ -9523,6 +9523,7 @@ Ho King Ahaapiva ekaa vo kaiqa vo kaiqa varo uvarave, viva avuhainaara naavu kaq
 Ahaapiva qutu vuvaro vira maaqu Ahasiava vira vatuka varero avuhainaa vaiintiqama vura.
 Ahaapiva 4 ihiara Isareriqaa raqiki vau entara, Asaara maaqu Jehosafaativa avuhainaa vaiintiqama viro Iutaaqaa raqiki vaura.
 Jehosafaativa 35 ihi varakova avuhainaa vaiintiqama viro Ieruharemini vaiharo 25 ihiara Iutaaqaa raqiki vaura. Vira nova Asubaava Silihira raavuravano vaura.
+
 Jehosafaativa nai qova Asaava untemakero, Nora Kotira avuqaa koqe okara auti vaura. Viva mintiharovata, viva kiama vo aiqina vo aiqinaqaa ofaa tainta ravantiaqa komanta, vaiinti nahenti mini mini vaiha ofaa autiha, koqe unta iaina haikara iha quare vaura.
 Jehosafaativa kia Isareri hampata iqoka raqiraitiro vaumanta Isarerivata Iutaavata vi entara maateraiqiha vaura.
 Ho King Jehosafaativa ekaa vo kaiqa vo kaiqa varo uvarave, viva iqoka raqi vau uvarave, ekaa vi uvara vi uvara vuku vo, Iutaa Avuhainaaka Uva Okarave tu vukuraqi qara ntuvatora.
@@ -9534,7 +9535,6 @@ Ho Jehosafaativa qutu vumanta vira vaata vare nai kaivaqara Devitira Vatukave tu
 Jehosafaativa 17 ihiara Iutaaqaa raqiki vau entara, Ahaapira maaqu Ahasiava avuhainaa vaiintiqama viro Isareriqaa taara ihiara raqiki vaura.
 Ahasiava Nora Kotira avuqaa qora okaraqai auti vaura. Vira noka qoka qora okara auti vauntema kero, vivavata qora okara auti vaura. Haaru Nebaatira maaqu Jeroboamuva qora okara autiharo Isarerivata kuntama virivi komanta autuntema kero, Ahasiavavata qora okara auti vaura.
 Viva una variqa Baalirara ti variqave tivakeharo vira quahama amiteharo vira kaiqa vara amitora kaara, Nora Kotira arara itora. Haaru vira qora Ahaapirara arara itontema kero, vira maaquaravata arara itora.
-
 Isareri King Ahaapiva qutu vumanta viraqaahai Moapi vika kia Isareri King ˻Ahaapira maaqu Ahasiara˼ vevaaraini vaireka, auti vaura. (3:4-27)
 Vi entara King Ahasiava Sameria vatukaini nai avuhainaara naavu veraraqaa rumu voqi vaiharo ˻uintuaqaa muntuviro vauvaro˼ katari taurini taurini uintuaqaa arutova kinta vuvaro viva vataini hiqintiro nai vaata qoraiqama kero. Vira vaatavano qoraiqama vuvaro viva tiharo, Mpo, ti tivaata koqemae vuanarove, kiae koqema vuanarove? tivakeharo vaiinti vonavu ˻Pirisia vata˼ Ekaroni vatukaini una variqa Baali-Sebupira oru ireha tavaate tiro, vinavuka nititama komanta vura.
 Vinavuka aaraini vuvaro Noravano Kotiva atito enseliva Tisibehainaa paropeti vaiinti Elaitaarara tiharo, Are oru King Ahasiava nititai vaiintika aaraini ani variakara mintima tiane: Ne nantihae Ekaroni vatukaihainaa variqa Baali-Sebupira irareka mini vi variavo? Isarerini kia Variqavano vaivo tivakehae ne ˻Pirisia vataini˼ vi variavo?
@@ -9851,6 +9851,7 @@ King Joaasiravata, vaiinti nahentivata, vika Nora Kotira vaiinti nahenti variate
 Mintumanta ekaa vaiinti nahenti mini ruvaaqumavuka una variqa Baalira naavu vaunaini orunte vi naavura ravantiaqa aqukora. Baalira ofaa taintanavu ravantiaqa aquke, una variqa maraqura/varaha vi haikara vi haikaravata rakavu raakavumake, Baalira kaiqa vara amite vau vaiintira Mataanira ofaa tainta tataaqa vira aru kora. Vika mintuvaro Jehoiadaava iqoka vaiinti vokuka Nora Kotira Naavuqaa maimaraara raqikiate tiro, vika kaama tora.
 Ho Jehoiadaava iqoka vaiintiqaa raqikukavata, avuhainaa vaiintiqaa raqikukavata, avuhainaara naavuqaa raqikukavata, ntita varero vika hampata Nora Kotira Naavuqihairo avuhainaara vita varero nai avuhainaara naavuqi vuru kora. Vika vira vite vumanta vaiinti nahenti vira avataqi vuvaro Joaasiva Maimaraara Qentive tu qentiraqaa oriqetero viva oru avuhainaaka taintaqaa oquviro vaura.
 Avuhainaara naavu vaunaini Ataliaara arukorara ti, ekaa vaiinti nahenti ˻Iutaini vauka˼ quahe vaumanta Ieruharemiqi vaukavata koqemake qaqi manamana vaura.
+Ho Joaasiva 7 ihi varakova avuhainaava vaiharo Iutaaqaa raqiki vaura.
 Jehuva 7 ihiara Isareriqaa raqiki vau entara, Joaasiva Iutaa avuhainaa vaiintiqama viro 40 ihiara Ieruharemiqi vaiharo ˻Iutaaqaa˼ raqiki vaura. Vira nova Sibiaava Beseba vatukaihainaava vaura.
 Kotira kaiqa vara amite vauva Jehoiadaava uva maara vira tiva ami vauvaro Joaasiva Nora Kotira avuqaa koqe okara auti vaura.
 Mintiharovata, viva kiama vo aiqina vo aiqinaqaa ofaa tainta ravantiaqa komanta vaiinti nahenti qaqiqai mini mini vaiha ofaa iha quarake, koqe unta iaina haikara iha quare vaura.
@@ -9872,7 +9873,6 @@ Hasaeliva raqireva auti vauvaro King Joaasiva viva iqoka qaqira kero vuarire˼ t
 Ho King Joaasiva ekaa vo kaiqa vo kaiqa varo uvara vuku vo, Iutaa Avuhainaaka Uva Okarave tu vukuraqi qara ntuvatora.
 Vo enta Joaasira kaiqa vaiinti vonavu vira aruke uvara tiva taatau kovaro Joaasiva Silaini vi vau aararaqaa Beti-Milonini oru vaumanta vikaqihai vaiinti taaraqantavano Joaasira arukora.
 Simeatira maaqu Josabaativavata, Somera maaqu Jehosabativavata, Joaasira arukora. Ho Joaasiva qutu vumanta vira vaata vare vuru nai kaivaqara Devitira vatukave tunaini quntama tora. Joaasira maaqu Amasiava nai qora vatuka varero avuhainaa vaiintiqama viro ˻Iutaaqaa˼ raqiki vaura.
-
 Ahasiara maaqu Joaasiva 23 ihiara Iutaaqaa raqiki vau entara, Jehura maaqu Jehoahaasiva Isareri avuhainaa vaiintiqama viro 17 ihiara Sameria vatukaqi vaiharo Isareriqaa raqiki vaura.
 King Jeroboamuva qora okara autuntema kero, Jehoahaasivavata Nora Kotira avuqaa qora okara auti vaura. Haaru Nebaatira maaqu Jeroboamuva qora okara autiharo ˻una variqanavu maraqura/varaha quahama nimiteharo˼ Isarerivata kunta virivi komanta vikavata qora okara autura. Jehoahaasiva qora okara kia qaqira karaitiro, qaqiqai autuqiro vi vaura.
 Mintura kaara Nora Kotira Isareriara arara itovaro viva Siria King Hasaeliravata, vira maaqu Beni-Hadaatiravata, qaqi komanta vitanta airi tataa Isareri hampata raquqi viha vika naatara kora.
@@ -12362,12 +12362,6 @@ Imera maaqu Sadokiva vo vaiintinavu hampata vira vuruvi nai naavu tataaqa vau va
 Selemiaara maaqu Hanaaniaka, Salapira maaqu nampa 6 Hanunika, vitanta tota vaantaavura vona autu kotanta, vitanta vo vaiintinavu hampata vira vuruvi vau vaantaavurara qaiqaa autu kora. Berekiaara maaqu Mesulaamiva vo vaiinti hampata vira vuruvi nai naavu tataaqa vau vaantaavurara qaiqaa autu kora.
 Malakiaava kori ori varakeharo vo haika vo haika autuke vauva, viva vo vaiintinavu hampata vira vuruvi vau vaantaavurara qaiqaa autuqiro viviro, naavu vo vauraqaa vuru taiqa kora. Naavu viraqi Kotira Naavuqi kaiqa vare vau vaiintikavata, koqaa kaiqa vare vau vaiintikavata, vi ani vau naavuva vaura. Vi naavuva Maimaraara-Qenti tataaqa vauvaro vaantaavura kaantaraini rumu vovano vira tataaqa vaura.
 Vaiinti vonavu, kori oriqohai vo haika vo haika autuke vau vaiintikavata, koqaa kaiqa vare vau vaiintikavata, vika vaantaavura kaantaraqihai qaiqaa autuqi vivi, ekaanaini vau vaantaavurara Sipisipi-Qenti vaura hoqarama tonaini vuru taiqa kora.
-
-
-
-
-
-
 Iutaa vatanaaka Ieruharemi vaantaa vura qaiqaa auti vauvaro Sanbalaativa vi uvara iruvaro vira arara itovaro viva tinavu Iutaara naaraihama timitaare tiro,
 oru nai kenauka nivuqaave, Sameria iqoka vaiintinavu nivuqaave, vaiharo tiharo, Ike, Iutaa vika vehi vaiinti nahenti variaka nana kaiqa vararekae auti variavo? Vika mintie tiavo: Tenavu homa Ieruharemi vaantaavura qaiqaa autu kararave. Tenavu Kotira ofaa iha quara amitaariraro viva tinavu kahaqiraqe tenavu vohaa enta kaiqa vareha vaantaavura vira qaiqaa autu taiqa kararave, tivakehae variavo? Haaru vaantaavura ravantiaqa keha iha quara kovaro vankoraiqaavi orivaqai maa entara vairave. Vika vi oriraqohai vaantaavura vira qaiqaa autu karerave tivakehae vi kaiqara vare variavo? tiro.
 Sanbalaativa minti tuvaro vira tataaqa himpi vauva Amonihainaava Tobiaavavata tiharo, Vika kiama ho kempuka vaantaavura autukevarave. Qaakau vairi vovano vaantaavura viraqaa vaari ntairera, viva ekaarama rapatutuma vuanarove, tiro.
@@ -12385,6 +12379,12 @@ Te tavauramanta vaiinti nahenti airi avu aato iri vaumanta te himpi, nora vaiint
 Ho tinavu navutaaka iruvaro vika tinavu arireka evaara tivato uvava qovarama vuvaro Kotiva vi aarara kuvaikomanta vika qaqirake vaumanta, tenavu ekaa anirante qaiqaa vaantaavura autuqi vi vaunara.
 Ho vi entaraqaahai navutaa vika naatu tenavu maantimake kaiqa vare vaunara: Tinavuqihai vokuka kaiqa vare vaumanta vokuka qaqi vaiha aini sioti nonkuteha huruve vevave, vaantaarave, kainkeve, vi haikara vi haikara tote, nái kenaukaqaa maimaraara raqikiha vaura. Minti vaumanta Iutaa vika qiata vaiintinavu ani vika tauvaqaini vaiha vika kahaqama nimite vaura. Vaiinti vokuka vaantaavura vira auti vai haikara aqu vare vauka, vika hini kauquqohai vi haikara aqu vareha, hini kauquqohai auvihehavaa totaqi vi vaura.
 <range>
+Vokuka vaantaavura ori vuqike vate vauka, vika iqoka paipe nái taaqeni ntuvateha kaiqa vare vaura. Vaiinti vovano navutaaka anirara veve tiharo aanumaara/noma vuaqe vauva, viva ti aaqanto vaiharo ti avataqiro vi vaura.
+Nora vaiintinavuve, autu vataukave, qaqi vaiinti nahentive, te vikara mintima ti: Vaantaavura viva vukai vaimanta tenavu niara kanta niara kanta vaihama vi kaiqara vare vauro.
+Ne aanumaara/noma uva iri, vaakama te iainanaini ani ruvaaquma vuate. Kotiva tinavu Variqavano tinavuara iriharo vivama iqoka raqu timitaanarove, ti.
+Te minti turamanta tinavuqihai hininavu vaantaavura viraqaa kaiqa vare vaumanta hininavu vaantaara tote vaiha maimaraara raqiki vaura. Vo enta vo enta vika aatitareva uraqaahai kaiqa hoqaramate varaqi vivi, entaqi uhai opu makauvano itoraqaa taiqake vaura.
+Vi entara te ekaa vikara mintima ti: Ne nenta kaiqa vaiintinavu hampata kia nenta maaqaini entaqi vaitareka viraiti, Ieruharemi maaqiqaima variate. Ne ekaa maaqi vaiha entaqi maimaraara raqikiha, aatitairaqaa kaiqa varaqi vuate, ti.
+Minti tivake tenavu ekaa vaitarera iha kia tentanavu utavaaqa qaqini varake vaitaaina utavaaqara nonkiraiti, tenavu qaqi kaiqa utavaaqa vira hampata vaiteha, iqoka raqirera qeramateha vaunarave. Ti kena vaiintinavuve, ti kaiqa vaiintinavuve, tiqaa maimaraara raqiki vaukave, tenavu ekaa tentanavu auvihehavaa vaqa ntuvateha vaunara.
 Ho vo entanavu aitaromanta Iutaa vaiinti nahenti vonavu nai kena Iutaa vaiinti nahenti hampata nuntu nauntu ti vaura.
 Vika hinikuka tiha, Tinavu vainti airitahaa variavaro tinavu karavano kiama airi vaivo. Tinavu kara kia vairera, tenavu qutuma virarave, ti.
 Vinavuka minti tumanta vokuka tiha, Tenavu tentanavu navunaakaqihai monu vahuqa vare, kara koqaa unarave. Tenavu vi monura kia ho vika nái nimiarera, vika tinavu naahove vatave naavuve varevarave, ti.
@@ -12491,10 +12491,10 @@ Vika minti tuvaro kamaanira avuhainaava vivavata tiharo, Kotira iha quara amite 
 Ho ekaa Isareri rumpa vare vuru konaihai orurante anuka vaireka, 42,360 vaiinti nahenti vaura.
 Vika mintima vaumanta vika kaiqa vaiinti nahenti 7,337 vaumanta vika ihi tiva nimite vauka 245 vaura.
 Vika ohi 736 vauvaro kameri 435 vauvaro vika donki 6,720 vauvaro vika mulivata 245 vaura.
-<range>
 Kotira Naavu qaiqaa kaqerara iriha airi vaiinti nahenti maantimake monuve, vo haika vo haikave, ruvaaquma kora: Kamaanira vaiinti avuhainaava: kori ori vira maaravano 8 kilo kori oriqohai aututo tanura 50navu Kotira kaiqa vara amite vau vaiintika utavaaqa 530navu. Vo anku vo anku vika nora vaiintinavu: kori ori vira maaravano 168 kilo silvaa ori vira maaravano 1,250 kilo. Qaqi vaiinti nahenti: kori ori vira maaravano 168 kilo silvaa ori vira maaravano 140 kilo Kotira kaiqa vara amite vau vaiintika utavaaqa 67navu. Mintimake Kotira Naavuara iriha vi haikara vi haikara ruvaaqumake vatora.
 <range>
 <range>
+Ho Kotira kaiqa vara amite vaukave, Rivaira ankuqihainaukave, Kotira Naavu qentiqaa raqiki vaukave, Kotira Naavuqi qaqi kaiqa vare vaukave, ihi tiva nimite vaukave, Isareri hini vaiinti nahentive, vika vika nai vatuka nai vatukaini orurante ani vaura.
 Ho ekaa Isareri nai vatuka nai vatukaini ani vauvaro 7 tora anintomanta 1 entaqaa ekaa vaiinti nahenti Ieruharemini oru Namari-Qenti tataaqa nora vatuka vaunaini ruvaaqumavi vaura. Vika mini vaiha Kotira kaiqa vara amite vau vaiintira vo Esraarara tiha, Kotiva Mosira tiva amu uvara are vi vukura varera vi uvara kaara ntuva timitaane, tura.
 Vika minti tuvaro Kotira kaiqa vara amito vaiintiva Esraava Kotiva uva tivatova viraqi vau vukura varakero vaiinti nahentivata, vika vaintivara uva ho irukavata, vaunaini vura.
 Viva Namari-Qenti tataaqa nora vatuka vaunaini vaiharo, vaaka toqaqi hoqaramatero vi vuk uraqihairo kaara ntuvaqiro vuvaro kuarivano qiataqaa uruntora. Esraava Kotiva Mosiraqaa tivato uvara kaara ntuvaqiro vi vaumanta vaiinti nahentivata, vika vaintivara uva ho irukavata, ekaa vika nái aato Esraara amiha vi uvara iri vaura.
@@ -12550,6 +12550,7 @@ Tinavu kaivaqaukavarave, tinavu avuhainaa vaiintinavuve, tinavu nora vaiintinavu
 Haaru are tinavu Isareri avuhainaa vaiinti, vika koqema nimitaaramanta vika ai vaiinti nahentiqaa raqiki variavara are nena vaiinti nahenti koqe vata nimiaramanta vika vi vatara nahainaini variqi vuarave. Vika mini vaihavata, vika ai qoririmake kia ai kaiqa vara amitaraiti, vika kia qora okara qaqira kaarave.
 Are tinavu kaivaqaukavara koqe kara utuke qantuke naate tira, maa vatara vika nimianarave. Ho tavaane. Vate tenavu vi vataraqaa vaiha vo vatanaaka paanaa kaiqaqai vara nimite vaunarave.
 Tenavu ai uva raqake qora kaiqa varaunara kaara are vo vatanaaka qaqi kaaramanta vika avuhainaa vaiintinavu tinavuqaa raqiki vaiha, tinavu vataqaa vai karara vare variarave. Vika tinavuqaa raqikiha tinavu sipisipive, purumakauve, vo quara vo quaraqaave, raqikiha vika nái antuqaqaa varaataa imanta vare variarave. Oho, tenavu anomake qoraiqamavi nora maaraqi vauro, tura.
+Vika Kotira aaramake tiha, Tenavu vaaka tuna uvarara iriha, vate tenavu Isareri vohaa uva vateha tentanavu kauqu aiqiqaa aqukeha Kotirara quqaa tirerave: Tenavu maa entaraqaahai Kotiva uva tivataira avataqi virerave, turo. Tenavu kia vi uvara qumina noqihai tiraiti, tenavu vi uvara qara ntuvake qara viraqaa tentanavu nora vaiinti nutuvata, Rivaira anku nutuvata, Kotira kaiqa vara amite varia vaiintika nutuvata, vataare. Vi uvava kempukaiqama vuarire ti, tentanavu ringiqohai qara viraqaa taatau kaare, tura.
 Minti tivake maa vaiintinavuka nái nutu vi uvaraqaa qara ntuvatora: Hakariaara maaqu Kamaanira avuhainaa vaiinti Nehemiava. Kotira kaiqa vara amite vau vaiintinavuka: Sedekaiava.
 Seraiaava, Asariaava, Jeremaiaava,
 Pasuriva, Amariaava, Malakiaava,
@@ -12589,7 +12590,6 @@ Tenavu Isareri Kotiva Mosiraqaa tivatai uvara iriha, tentanavu qorainti vainti, 
 Vo ihi vo ihi tenavu avuni hoqare uiti teqake rukokakima taainara vuru Kotira Naavuqi Kotira kaiqa vara amite vaika nimitaare. Avuni hoqare aqu itaaina katari tavaravata, hoqare avuni orivi vahavera varateravata, hoqare avuni tatite uainiravata, tenavu vira vira vuru Kotira Naavuqi Kotira kaiqa vara amite vaika nimitaare. Rivaira ankuqiraa vaiintinavu vo vatuka vo vatukaini niha, tinavu hini naaho varareka ivaqe, tenavu tentanavu naaho kaqurutantaqihai vohaiqa rairake vika nimiare. (Kaarantura 18:21)
 Rivaira anku vika vi naahora varareka imanta Eronira ankuqihai Kotira kaiqa vara amite vaika, vikavata Rivaira anku vika hampata oru vi naahora varaate. Ho Rivaira anku vika vi naaho maatara vare, vikavata qaiqaa vi naahora kauqurutantaqihai rairake vohaiqa vuru Kotira Naavuqi kara vate rumuraqi vataate. (Kaarantura 18:26)
 Isareri vaiinti nahenti vikavata, Rivaira anku vikavata, nái uitive, orivi vahaverave, uainive, nimireka iha, vika vuru Kotira Naavuqi kara vate vai rumunavuraqi vataate. Viraqi Kotira kaiqa vara amite varia tanura vonavu vairave. Mini Kotira kaiqa vara amite variakavata, Kotira Naavuqaa maimaraara raqiki variakavata, Kotirara ihi tiva amite variakavata, vaite varianainive. Tenavu Kotira Naavu qaqirake tentanavu kaiqaqai varaarorave ti, tenavu Kotira Naavuqaa mintima keha raqikiqi virerave, tura. ˻Vi entara ekaa Isareri ruvaaqumavi vaiha vi uvara qara ntura.˼
-
 Vi entara Isareri vika nora vaiinti navu Ieruharemini oru vaumanta Isareri airitahaa kia Ieruharemini vairaiti, vika Ieruharemi aaqaini vo vatuka vo vatukaini vaura. Ho Isareri vokikavata katu vare Ieruharemini oru variate ti, vika satu arukeha naavu 9navuqi vauka aatarakeha vohaa naavuqi vauka kaamateha, vikara nenavu katu vare Ieruharemini oru variate, tivakeha satu aruqi vumanta vo naavu vo naavuqi vauka nái navunaaka mini keha, katu vare Ieruharemini Kotira vatukaqi oru vura.
 Mintumanta vo naavu vo naavuqi vauka vikavata tiha, Tenavuvata katu vare vuataa iraqe Ieruharemini virerave, tumanta Isareri vikaravata quaha keha koqeve tura.
 Hini Isareri Ieruharemiqi vaumanta hini Isareri nái vatuka, vo vatuka vo vatukaini vaura. Qaqi vaiinti nahentive, Kotira kaiqa vara amite vauka vonavuve, Rivaira ankuve, Kotira Naavuqi kaiqa vare vaukave, Soromonura kaiqa vaiinti vika naintinavuve, vika vo vatuka vo vatukaini vaiha nai vata nai vataqaa vaura. Iutaa vataini Ieruharemini nora vaiintinavu vauka, vika nutu maantimama vairo:
@@ -13959,6 +13959,7 @@ Are aini kaavu tuateharama vika naatara kenarave. Aaqatai vataqohai aututaa tave
 Ne avuhainaaka, qora avu aato qaqirake, koqe avu aato iriha variate. Ne vataini varia vaiinti nahentikaqaa raqiki variaka, ne rauriha variate.
 Hauri Kotira vaaka arara itairaro ni vehi autu taiqa kaantorave ti, ne Nora Kotira aatu qeteha vira kaiqa vara amitaqi vuate. Aiqu kauqu ntiri ntiri i vairamanta ne vira vevaaraini variaterama, turo. Kotiva tinavu antua timitaarire ti, viva inaini oru vi variaka, vika quaheha variqi vivara.
 <range>
+
 Mpo Noravauvo, ti navutaaka airitahaa variamantama vauro. Airi vaiinti ti navutaiqiha qoraiqama timitareka auti variavo.
 Vika airitahaa tiriara tiha, Kotiva kia vira kahaqianarove, ti variarave.
 Vika minti ti variamantavata, te ariara tiha, Noravano Kotiva kainke voqaara ti koqema kero antua timite vaivama vaivo, turo. Arema ti kahaqiaramanta te tenta navutaaka naatarake vaunarave. Ti kempukavano taiqa vimanta vaurara arema ti qaiqaa kempuka timiaramanta ho vauro.
@@ -14049,7 +14050,6 @@ Ekaa qora kaiqa vare variakave, Kotira tauvaqa utu amite variakave, vika qutu vu
 Kotiva kiama vehi vaiinti nahentiara ekaa enta tauru kaanaro. Viva vika kahaqiaina entava quqaama qovaraiqianaro. Nora maaraqi variaka, vika kia qumina Kotira veka vaivara. Viva vika uva irima nimitaanaro.
 Mpo Noravauvo, himpuane. Kia qaqi kaira maa vataraqaa variaka ai uva raqake nái kaiqaqai varaqi vuate. Are vo vatanaa vo vatanaaka una variqa autu tuahere variaka ntita varera vuru nena avuqaa kera vikaqaa uva vataane.
 Are vika aatu itara haika nimiramanta vika voqamake qeteha tiha, Quqaama tenavu qumina vaiintiqaima vauro, tiate.
-
 Mpo Noravauvo, nantiharae are kia ani tinavu kahaqiraitira, niaraini variaro? Tenavu nora maaraqi vauna entara are nantiharae kukeqavira variaro?
 Qora kaiqa vare variaka vika vehi vaiinti nahentiara qumina vaiinti nahentive tivakeha vika qoraiqama nimite variara. Oho, are qaqi kairamanta vika vokiaka qoraiqama nimitareka tivate uvava vika nái qoraiqama nimitaarire.
 Qora kaiqa vare vai vaiintiva, viva nai qora kaiqa varaainarara iriharo nai mahuta ti vairave. Airaira voqavata varataa i vaiintiva, viva Nora Kotirara are vaaquqama vuane tivakeharo vira qoririma amite vairave.
@@ -14075,6 +14075,7 @@ Kamaanira kempukavanovata taiqa viramanta ˻qora kaiqa vare variaka vika nái va
 Noravano Kotiva vaiharo koqe vaiinti nahentivata, qora vaiinti nahentivata tuantikero tave vaira. Vokiaka ruqutiha qoraiqama nimite variakara, viva kia vikara antuqa arivaro vairo.
 Viva naaruvaihairo iha auru qaqi ite vainara qora kaiqa vare variakaqaa rauru kaanaro. Nái qora kaiqa varera kaara viva kempuka uvai vara kairaro utiharo vika tatoqa aqukaanaro.
 Noravano Kotiva avuqavu kaiqa vare vaivara tiro, viva avuqavu kaiqa vare variakara antuqa arivaro vairo. Avuqavu kaiqa vare variaka, vika homa Kotiva vainaini oru vaiha koqemake variqi vivara.
+
 Mpo Noravauvo, ti kahaqiane. Koqe vaiinti vovanovata kia maini qaqi vaivo. Ekaa maa vaiinti nahentikaqihairo kia vovanovata ariara noraiqaakero iri vaivo.
 Ekaa vika nai una tiva amite nai una tiva amite i variara. Vika nái noqihai uqerara uva tivakeha una uvaqai ti variara.
 Noravauvo, are vika no tinta kairamanta kia qaiqaavata uqerara uva tiate. Nái mahuta ti varia vaiintika no tinta kaira evaara variate.
@@ -14088,8 +14089,7 @@ Mpo Noravauvo, tairentae are qaiqaa ti iri timitenarave? Are ekaa entae tiriara 
 Ti muntukavano qoraiqimanta te vo enta vo enta nora maara varaqi vi vaunara. Mpo, are taireve vi maarara taiqa timitenarave? Tairentae are ti kahaqiramanta ti navutaaka kia qaiqaavata ti haatara kaate?
 Noravauvo, are ti Variqavano variaro. Vo tivakera, ti tavera ti qaiqaa kempukaiqama timitaane. Hauri are ti qaqi kairaqe te qutu vuarora.
 Hauri ti navutaaka tiriara tiha, Tenavu vira aatarama kauro, tivakeha oqovivi autiha vora ntuva timitevora.
-Ai muntukavano tiriara vainara te virara noraiqaake iriqi virera. Quqaama are ti ruaruama timitenarara tiro, ti muntukaqihairo koqe i vairaqe variqi virera.
-Noravauvo, are ti koqema timitaanarara ti, te ai ihi tiva amitaqi virerave, turo.
+Ai muntukavano tiriara vainara te virara noraiqaake iriqi virera. Quqaama are ti ruaruama timitenarara tiro, ti muntukaqihairo koqe i vairaqe variqi virera. Noravauvo, are ti koqema timitaanarara ti, te ai ihi tiva amitaqi virerave, turo.
 Kia avu aato vataaka tiha, Kia Variqavanovata vaivo, ti variara. Vika qoraiqamavi vaiha, qora kaiqaqai vare variara. Vikaqihairo kia voqavanovata koqema kero avuqavu ni vaira.
 Noravano Kotiva naaruvaihairo maini viavi tavaivaro maa vataraqaa variakaqihairo kia voqavanovata vira okara kankoma kero tavaiva vaira. Vikaqihairo kia voqavanovata vira okarara irireva vira rante vaira.
 Kia voqavanovata mintimanta ekaa vataini variaka Kotira aaraqaahai tuqantaavi hampi aaraqaa vi variara. Ekaa vataini variaka qoraiqamavi variavaro, kia vikaqihairo voqavanovata Kotira kaiqa koqema kero vare vaira. Kia voqavanovata mintirave. (Romeni 3:10-12)
@@ -14128,6 +14128,7 @@ Raioninavu aantau aru kareka autuantemake, vika ti haru kareka auti variara. Nor
 Mpo Noravauvo, ani ti navutaaka hampata iqoka raquqira vihara vika naatara kaane. Nena iqoka paipeqohaira qora kaiqa vare variaka kauquqihaira ti ruaruama timitaane.
 Noravauvo, vataihainaa haikaraqai noraiqaake iri variakaqaahaira ti ruaruama timitaane. Vika nái qora kaiqa varaara kaara are nái qoraiqama nimitehara vika vaintivaravata naintivaravata qoraiqama nimitaane.
 Te avuqavuqamake ni vauraukara ti, te naantiara quqaama ai viri tavarara. Te vaitaainaraqihai himpi, are ti vataakera vainarara iriariraro, ti muntukaqihairo koqe iraqe vairara.
+
 Noravauvo, ti muntukavano ariara voqama kero vaimanta vauro. Are ti kempukaiqama timitaaravama variaro.
 Nora orivano ti antua timitaintema kero, Noravano Kotiva ti antua timite vaivo. Kempuka vaantaavura voqaarama viva ti ututumate vaimanta te ho vauro. Viva navutaaka kauquqihairo ti ruaruama timite vaivama vaivo. Nora orivano ti antua timitaintema kero, ti Variqavano ti antua timite vaimantara ti, te vira vataake variari ti navutaaka kia ho ti qoraiqama timitevarave. Kainkevano vaiinti antua amitaintema kero, viva tiqaa koqema kero raqiki vaimanta vaunarave. Vira kempukavano navutaaka kauquqihairo ti ruaruama timite vairave. Kempuka vaantaavura avutaqi variaka ho variantemake, te viva inaini vaiha koqemake vauro.
 Te Nora Kotira aarauraro viva navutaaka kauquqihairo ti qaqini vara kaimantara ti, tenavu vira autu voqavata tuahera kaarivama vaivo.
@@ -14249,7 +14250,6 @@ Noravano Kotiva viva avuhainaava vaiharo ekaa vo vatanaa vo vatanaakaqaa raqiki 
 Noravano Kotiva mintima vairara ti, naantiara ekaa vataini vaika, airi airaira vateha koqe kara ne vaikave, ekaa vaiinti nahenti qutuvi taiqavi konkomaiqama vikave, naantiara ekaa vika vika Kotira avuqaa kankakaamavi vaiha vira autu tuahera kevarave.
 Naantiara qovaraiqika, vika Kotiva nora kaiqa varainarara tiva nimiqi vimanta ekaa vika vika vaiha Nora Kotira kaiqa vara amitaqi vivara.
 Kia maa entara vatataamanta qovaraiqika naantiara vika qovarama vimanta, maantimake vika tiva nimivara: Noravano avuqavu kaiqaqai vare vaiva, viva naivano vaiinti nahenti ruaruama nimite vaivama vaivo, tivarave.
-
 Sipisipi qova koqeva nai sipisipiqaa raqikintema kero, Noravano Kotiva tiqaa raqiki vaimanta kia te vo haikaravata aavoqunara.
 Viva ti qaqi kaimanta te koqe ukau kanta auraara vaunara. Viva ti tivita varero vuru koqe namarivano qihaaqama kero tuvi vainaini kaimanta te ho vaunara. (Qoqaiqama Kora 7:17)
 Viva ti qaraaka kempuka timimanta te koqemake variqi vi vaunara. Viva nai autu koqerara iriharo avuqavu vai aarara, vo aara vo aara ti humiqaimanta te taveha ho ni vaunara.
@@ -14334,6 +14334,7 @@ Viva uva tivaro aahara vataini vai vatava, ekaa qakaa qakaa i vaira. Viva Kadesi
 Noravano Kotiva uva tivaro vira uvavano nantaqi nora katari, vo katari vo katari rare raarerama kaimanta ekaa katari mare ratutu vuara. Minti vaimanta Kotira Naavuqi ruvaaqumavi variaka naverai tiha, Kotira mpeqa okaravano takuqi vaivo, tiara.
 Noravano Kotiva nai avuhainaa taintaqaa oquviro vaiharo nora namariqaa raqiki vairave. Noravano Kotiva Avuhainaava ekaa enta ekaa enta raqikiqiro vuanarove.
 Noravano Kotiva nai vaiinti nahenti kempukaiqama nimite vairave. Noravano Kotiva nai vaiinti nahenti koqema nimite vaivaro vika muntukaqihairo paru i vaimanta variarave.
+
 Noravauvo, are ti ruaruama timitaaramanta ti navutaaka kia vora ntiha vira aru kauro tiaverama, te ai autu tuahere vauro.
 Noravauvo, are ti Variqavanoma variaro. Te ariara mpo, ti kahaqiane turara are ti uva irira, ti kahaqiararo ti tivaata rukukuqaimanta te ho vaunara.
 Noravauvo, te qutuvi ruhiqauri vaurara are ti kahaqama timitaaramanta te qaqi vauro. Te qutu vuaka varianaini virera urara, are ti kahaqama timitaaramanta kia qutu vuro.
@@ -14371,7 +14372,6 @@ Ne Nora Kotira autu tuahera kaate. Vira muntukavano tiriara voqavata vairara ti,
 Noravauvo, vi entara te qeteha tiha, Mpo, are nena aaqantohaira ti qaqirae kaaro? tivake vaurara are ti uva irira ti kahaqama timitaanarave.
 Ne Kotira vaiinti nahentivauvo, ne Nora Kotirara muntuka vateha variate. Vaiinti nahenti virara noraiqaake iriqi vi variakara, viva vikaqaa koqema kero raqikiqiro vi vaira. Nái nutu tuahere variaka, viva nái qora kaiqa kaara qoraiqama nimite vaira.
 Ne Nora Kotirara noraiqaake iriha viva tinavu ho kahaqiariravave ti variaka, ne kia qetaraiti, kempukaiqaake vira aaraqaa variqi vuate.
-
 Qora kaiqa vare vai uvara nunka amitaarira vaiintiva quaheharo varianaro. Kotiva nai uva raqakai vaiintirara ai uva tauruma amitauro tirava quahaanaro.
 Kia vo uvavata kukeqa taraitiro, ekaa vi uvara qoqaa tiva qovarama kaaina vaiintira, Noravano Kotiva virara ariqaa kiama uva vaivo tira vaiintiva quaheharo varianaro.
 Te tenta qora kaiqa varaunara kia tiva qovarama kauna entara, vi entara te ke ke tivaqi vi vauraro ti tivaatavano kia kempuka vaimanta vaunara.
@@ -14405,6 +14405,7 @@ Viva vika ruaruama nimite vaimanta kia qutuara. Kara kia vai entara viva vikaqaa
 Noravano Kotiva tinavu kahaqiarirava vaimantara ti, tenavu viraraqai noraiqaake iriqi viha vira veka vaunara. Navutaaka tinavu qoraiqama timitevorave tiro, Noravano Kotiva tinavu antua timiteharo tinavu kainke voqaara vaira.
 Tenavu vira autuvano takuqi vairara noraiqaake iriqi vihara ti, tentanavu muntukaqihai quaheha variqi virera.
 Noravauvo, kairaqe tenavu ariara viva tinavu kahaqiariravama vaivo, tiarirara are tinavu aaqurihama timitaqira vuane.
+
 Te Nora Kotirara koqemave tivaqi virera. Ekaa enta te tenta noqihai vira autu tuaheraqi virera.
 Noravano Kotiva ti koqema timitairara irihama, te vira autu tuaheraqi virera. Te minti tivaqi vuari nora maaraqi vaika ti uva iri, vikavata quaheha vaivarave.
 Varaiqenavu vohaaraqi vaiha Noravano Kotiva vo kaiqa vo kaiqa vare vairara iriha, vaiinti nahenti tiva nimiare.
@@ -14427,7 +14428,6 @@ Avuqavu ni varia vaiinti nahentika variavaro vo maara vo maaravano vikaqi qovara
 Noravano Kotiva vikaqaa koqema kero raqikiqiro vi vaivarora tiro, kia vika vuhaari voqavanovata kinta vuanaro.
 Qora entavano qovaraiqama viro, qora kaiqa vare variaka arukaanaro. Avuqavu ni varia vaiinti nahentika navutaiqi variaka, Noravano Kotiva vikaqaa nora uvama vataanaro.
 Noravano Kotiva nai kaiqa vare variaka, ruaruama nimitaira vika koqemake variqi vivara. Kotiva inaini orunte virara tinavu kahaqiane tiaka, viva vika kahaqama nimitaanaro.
-
 Noravauvo, ti navutaiqi variaka are náivata navutaiqiane. Ti hampata iqoka raqi variaka are náivata ntaihaane.
 Himpira nena iqoka utavaaqa nonkutera, kainkevata varera ani ti kahaqiane.
 Nena vaantaaravata, iqoka rorivata, rauqi varera, ti harireka avataqi aniaka ntaihaane. Are tiriara, Te ai ruaruama amitarerave tiane.
@@ -14456,6 +14456,7 @@ Are kia qaqi kairamanta vika tiriara, Viva ekaarama taiqa vivo. Tenavu Kotiva vi
 Te nora maaraqi vauramanta virara iriha quahe variaka, are vika kaurira haika nimiraro vika avu aato hampiqama viramanta vi anima vuate. Tiriara qumina vaiintive tivakeha nái nutu tuahere variaka, are vika kaurira haika nimiramanta vika nutuvano vataini tuvi vuarire.
 Vo vaiinti nahenti tiriara tiha, Viva avuqavu vaiintivano vaivo. Viva ko aatara kairaqe koqemave tirerave, ti variaka, are vika qaqi kairamanta vika quaheha naverai tiha, Noravano Kotiva uritara kero nai noravanoma vaivo. Viva nai kaiqa vaiinti ˻Devitiva˼ koqemakero variainarara quaheharo vaivo, tivara.
 Vika minti tiqe tevata are avuqavu ni vaina okarara vaiinti nahenti tiva nimiqi viha aatitainaraqaavata entaqivata ai autu tuaheraqi virera.
+
 Qora kaiqavano uva tivaro qora kaiqa vare vai vaiintiva nai muntukaqihairo vira uva iriharo kia Kotira aatu qetaraitiro, vi kaiqara varaqiro vi vairo.
 Vi vaiintiva nariara noraiqaakero iriharora tiro, viva nai qora kaiqa vare vairara tiharo, Kotiva kia ho vira rantakero tiqaa uva vataanarove, tivaro
 vira uvavano qora uva, una uva vaivaro viva haaru koqe avu aato irikeharo kaiqa varai okarara qaqirakero, kia koqe kaiqa voqavata vararaitiro vaira.
@@ -14468,7 +14469,6 @@ Namarivano aruvuqihairo nte vaintemakero, qaqi variqi vi varia okarava ariqihair
 Ai koqe okara iri tavaaka, are vikara nena muntuka qaqiqai vataqira vuane. Avuqavu ni variaka, are vika koqema nimitaqira viramanta vika ho variate.
 Mpo, nái autuara noraiqaake iri variaka, are kia vika qaqi kairamanta vika ti haruate. Hauri qora kaiqa vare variaka ti harireka ti avataqi anivora.
 Ho tavaate. Qora kaiqa vare variaka ekaara vataini hiqintivi variavo. Vika kia ho qaiqaavata himpivarave.
-
 Qora kaiqa vare variaka koqemake vairara, kia virara noraiqaakera iriane. Qora kaiqa vare variaka vataa haikara, tavera, hauri are tevata mintimake vi haikara vataataarave tirora.
 Ukauvano aaharaiqama vinantemake, vika inaaraiqa varike taiqa vivara. Mauravano tamunta vinantemake, vika qutu vivara.
 Are Kotirara noraiqaakera iriqira vihara koqe kaiqaqai varaqira vuane. Are mintiaqira virera, are nena vataqaa vairaro kia vo haikavano ai qoraiqama amitairara are koqemakera variqira vinara.
@@ -14509,6 +14509,7 @@ Kia viraqaa vo uvavata vaivaro avuqavu ni vai vaiintira aitutuma kera tavaane. V
 Kotira uva raqake variaka Noravano Kotiva vika nái vaintivara hampata vehi autu kairamanta taiqa vivara.
 Noravano Kotiva avuqavu ni variaka ruaruama nimite vaivama vairo. Vika maaraqi vaivaro Noravano Kotiva vika antua nimite vairamanta vika ho vaivara.
 Vika Kotirara tinavu antua timitaane tiavarora tiro, viva vika kahaqiharo qora kaiqa vare variaka kauquqihairo ruaruama nimite vairo.
+
 Mpo Noravauvo, ai arara itairara, kia ti titihara haruane.
 Mpo, ai veva vo veva vo vevavano ti harimantama vauro. Are nena kauquqohaira ti ruqutu kaaramanta te hiqintivi vauro.
 Ai arara itaira kaara te antura ntiha vauro. Te ai uva raqa kaunara kaara ekaa ti vaatavano hiha vimantama vauro.
@@ -14589,12 +14590,12 @@ Mpo Noravauvo, are ti Variqavano variaramanta te ariqi vaiha qaqi variqi vi vaur
 Kotiva ti kempukaiqama timite vaiva vaimanta te virara mintima ti: Mpo, nantivarae ti qaqira kaaro? Nantivarae navutaaka qaqi kaaramanta vika ti qoraiqama timite variavaro, ti muntuka qoraiqimanta vauro?
 Mpo, navutaaka enena ti naaraihama timiteha tiha, Ai Variqavano taini vaiharoe kia ai kahaqivo? ti variavaro vika uvavano kaavuqohai ti vuhaari tairi kaantema kero, ti qoraiqama timite vaivo.
 Mpo, vate nora maaravano tiqi vaivaro ti muntuka qoraiqimantama vauro. Ho te mintiaqi vuarorave. Kaiqe te Kotirara noraiqaake iriha, virara viva ti kahaqiariravama vaivo tivaqi viha qaiqaavata vira autu tuaheraqi vuare. Vivama ti Variqavano ti ruaruama timitaariravama vaivo.
-
 Kotio, kia ai uva iriaka tiqaa uva vatareka auti variavara are ti uva iriharama tiriara kia viraqaa uva vaivo tiane. Qora kaiqa vareha una uva ti varia vaiintika kauquqihaira are ti ruaruama timitaane.
 Are ti Variqavano ti antua timite variarava vaihara, nantivarae ti qaqira kera iaro? Nantivarae are ti navutaaka qaqi kaaramanta vika ti qoraiqama timite variamanta te nora maaraqi vauro?
 Mpo Noravauvo, te virera iaina aarara ataama timitehara, nena quqaa uva tiva timi vairaqe te are variananaini Saioni Aiqina, takuqi vai aiqinaraqaa oru vuare.
 Are mintiraqe te ai Naavuqi oru ai ofaa tainta tataaqa vaiha, ai quahama amiteha tenta kitaa ruqutuqi viha ai autu tuahera kaare. Kotio, are ti Variqavano vaihara are ti quahama timite variaravama variaro.
 Mpo, vate nora maaravano tiqi vaimanta vauraro ti voqama kero muntuka qoraiqimantama vauro. Mpo, te mintimake variqi vuarora. Kaiqe te Kotirara viva ti kahaqiariravama vaivo tivaqi vuare. Te mintiaqi viha qaiqaavata vira autu tuaheraqi virerave. Vivama ti Variqavano ti ruaruama timitaariravama vaivo.
+
 Kotio, are haaru nora kaiqa, vo kaiqa vo kaiqa tinavu kaivaqaukavara vara nimitaanara vika tinavu tiva timiamanta tentanavu aato vika nimiha vi uvara irunara.
 Vi entara are nena kempukaqohaira vo vatanaa vo vatanaaka maa vataraqaahaira aru ntata kera, vi vatara tinavu kaivaqaukavara nimianara. Vi entara are vi vatanaa vi vatanaaka voqama kera qoraiqama nimiteharavata, tinavu kaivaqaukavara kia mintiraitira, vika koqema nimitaaramanta tinavu kaivaqaukavara koqemake variqi vuara.
 Kia tinavu kaivaqaukavara iqoka raquraqaahaive, nái kempukaqohaive, vi vatanaa vi vatanaaka naatarake vi vatara varaaravauve. Are nena kempukaqohaira vi vatanaa vi vatanaaka naatara kaaramantara ti, tinavu kaivaqaukavara vi vatara varaarave. Ai muntukavano tinavu kaivaqaukavarara vaivarara tira, are vika hampata variqira vihara, nena kauquqohaira vika navutaaka naatara nimitaanara.
@@ -14697,7 +14698,6 @@ Vi vaiintiva qutu viro nai iaina haikaraqihairo kia vo haikavata varero vuanarov
 Vi vaiintiva qaqi vai entara te koqemake vauro ti vaimanta vaiinti nahenti viva i haikara taveha virara koqe vaiintive ti variarave.
 Ho vi vaiintiva qutu viro nai kaivaqaukavara qutuvi varianaini otu vaiharo, viva vika aanantero kia qaiqaavata kuarivano itaainara tavaanaro.
 Tenavu qutu vuaina entara tenavu nora autu vataarirava kia ho tinavu kahaqianaro. Ekaa aantauvahi qutintemake tenavuvata qutirarave.
-
 Ekaa kempuka vatai Variqava, Noravano Kotiva uva tiro. Ekaa naato vatanaaka kuari avu urinaihainaakave, kuari avu ruhunku vinaihainaakave, vika vika naare vairave.
 Saioni vatuka voqaraa vatukavano vaivaro viraqaahairo Kotiva ataama nimite vairo.
 Mpo, ti Variqavano tuvi vaivo. Viva kia evaara tuviraitiro, viva tuvi vaivaro voqama kero tatoqake vai ihava vira avuni otu vi vaivaro, aaronaa noravano vira ututuma tero vairo.
@@ -14721,6 +14721,8 @@ Ne nenta qata vakaaqaa una uva oqikeha ti variarave. Ne nenta nora vira maaquara
 Ne vi kaiqara vi kaiqara qora kaiqa varaamanta te Kotika kia uvavata tiraiti, evaara vauramanta viraqaahai ne tiha, Kotiva vaireva, viva tinavu voqaavama vaivo, ti variarave. Ho vate te ni nivuqaa qoqaa vaiha niqaa uva vatarerave.
 Ne ti Kotika tauvaqa utu timite variaka, ne iri vaiqe te tiare. Ne kia ti uva irivera, raionivano aantau rapepaama kaintemake, te ni qoraiqama nimitaariraro kia vovanovata ni ho ruaruama nimitaanarove.
 Tiriara koqeve tivaqi vi varia vaiinti nahentika, vikama ti hutu noraiqama timite variavo. Ti uva koqemake iri varia vaiinti nahentika, te vikama ruaruama nimiteha ntitararave turo.
+
+
 Mpo Kotio, nena vaiinti nahentiara muntuka vatena okarara iriharama, tiriara ike mpo tiva timitaane. Nena vaiinti nahentiara aaqurihama nimitena okarara iriharama, te ai uva raqa kaunara nunka timitaane.
 Mpo, are ti hiqama timitairaro are tiqaa vataana uvava taiqa vuarire. Are ti hiqama timitairaro te qora kaiqa autuna uvava kia variarire.
 Te tenta qora kaiqa autunarara kankomake irunarave. Te vira kia ho tauru kauraro viva ti tivuqaa qoqaa vaimantama vauro.
@@ -14752,13 +14754,13 @@ Huviqorave. Maa vaiintiva kia Kotirara noraiqaakero iriraitiro, nai airi airaira
 Kia te ai aanantamake vauro. Orivi katarivano Kotira Naavuqi koqema kero qampiqaintemake, te koqemake variqi virera. Kotira muntukavano tiriara enena vaira, te virara ekaa enta noraiqaake iriqi virera.
 Kotio, are ti kahaqama timitaanarara irihama te ariara koqeve tivaqi virerave. Ai vaiinti nahenti ruvaaqumavi vainaini vaiha te are ti koqema timitenarara vika tiva nimiha ai autu tuahera karerave, turo.
 
-
 Kia avu aato vataaka tiha, Kia Variqavano vaivo, ti variara. Vika qora vaiinti vaiha qora kaiqaqai vare variara. Vikaqihairo kia vovanovata koqema kero avuqavu ni vaira.
 Kotiva naaruvaihairo viavi maini taveharo tiharo, Maa vataraqaa variakaqihairo koqe avu aato vataava vovano ti okara kankoma kero tavareva autie vaivo, kiae auti vaivo? tivakero tavaivaro kia vikaqihairo voqavanovata vaira.
 Kia voqavanovata vaimanta ekaa vataini variaka Kotira aara qaqirake hampi aaraqaaqai vi variara. Ekaa vataini variaka qoraiqamavi variavaro kia vikaqihairo voqavanovata Kotira kaiqa koqema kero vare vaira. Kia voqavanovata mintirave. (Romeni 3:10-12)
 Kotiva tiharo, Qora kaiqa vare variaka, vika avu aato kiae vaivo? Kara nama taiqa kaintemake, vika ti vaiinti nahenti taiqake variarave. Vika kia tiriara iriraiti, kia ti haare variarave, tira.
 Ho vate kia qetaraiti qora kaiqa vare variaka, vika naantiara voqamake aiqu kauqu ntiri ntiri i vairamanta qeteha vaivarave. Kotira vaiinti nahenti hampata iqoka raqi variaka, viva vika arukero vika vuhaantaari raumpirima kaanarove. Kotiva vika qoririma kairara ti, Isareri vika naatara kevarave.
 Mpo Kotiva Saioni vatukaihairo vaiinti vo atitairaro viva tinavu Isareri ruaruama timitairera, te virara koqevema tirara. Naantiara Kotiva nai vaiinti nahenti qaiqaa koqema nimitairaro vi entara vika kaiqavano ho vaira vika koqemake variqi vivara. Vi entara Isareri vika voqamake quaheha vaivara.
+
 
 Mpo Kotio, nena nora autuara iriharama ti ruaruama timitaane. Nena kempukaqohaira ti kahaqiramanta vaiinti nahenti te avuqavu nuainarara anomake tavaate.
 Mpo Kotio, te ai aaraarirara are ti uva iriane. Nena aato ti timihara te tiaina uvara iriane.
@@ -14767,7 +14769,6 @@ Ho tavaate. Kotiva ti kahaqi vaivama vaivo. Noravano Kotiva vivama tiqaa raqiki 
 Mpo Kotio, are qaqi kairaro ti qoraiqama timitareka auti vaiva, viva vika nái qoraiqama nimitaarire, turo. Are tiriara noraiqaakera iriqira vihara vika vehi autu taiqa kaane.
 Noravauvo, are mintiraqe te quaheha ofaa vo ai iha quara amitaare. Ai okaravano vaireva, koqe okaravano vaimantara ti, te ariara koqeve tivaqi virerave.
 Nora maara, vo maara vo maaravano tiqi vaimanta vaurara are ti ruaruama timitaaravera te tenta avuqohai tavaurara are ti navutaaka naatara kaanarave, turo.
-
 
 Kotio, te ai aaraarirara kia nena aato tintataraitira, te ariara ike mpo tiaina uvara iriane.
 Mpo, are ti uva irira, tinta tiva timiane. Vo maara vo maaravano tiqi vaiva ti qoraiqama timite vaivaro ti avu aatovano hampiqi vaimanta vauro.
@@ -14849,6 +14850,7 @@ Vairinavu vo haika aruke nareka vi aniha kia ranta karaiti, qaqi rau rau tiantem
 Vika minti variamanta te ai nora kempukara iriha ihi tivaqi virera. Te toqaqi ai muntukavano tiriara vairara iriha ihi tivaqi virera. Are ti ori onavu koqeva varianarara ti, nora maaravano tiqaa qovaraiqiraqe te are inanaini oru vuarirara ti antua timitaane.
 Are ti kempukaiqama timite variarava varianarara ti, te ai ihi tiva amiteha ai autu tuaheraqi virera. Are ti antua timite variara Variqava variararo ai muntukavano tiriara voqavata vaivarama variaro.
 
+
 Mpo Kotio, ai arara ite vaivara are tinavu qoririma kehara tinavu kempuka rauha kaaramanta tenavu kia navutaaka naatara kauro. Mpo, are qaiqaa tinavu kahaqiraqe tenavu qaiqaa kempukaiqamake variare.
 Vaturavano noraiqaakero utiharo vata qaki qaki ivaro qantuara vintema kera, are tinavu Isareri qoraiqama timitaaro. Mpo, tinavu koqema timitairaqe kia ntiri ntiri iraiti, qaiqaa ho variare.
 Mpo, are tinavu nena vaiinti nahentiqaa nora maara vataaramanta vauro. Uainivano vaiinti vueraiqaa kaivaro vira aiqu poparetara intema kera, are tinavu ruqutu kaararo tinavu aiqu kauqu poparetara imantama vauro.
@@ -14861,7 +14863,6 @@ Mpo Kotio, tavave ti tivita varairaqe te vaantaavuravano ututumatai vatukaraqi o
 Ho are mintiataarave. Vate maa entara are kia mintiraitira, tinavu tauvaqa utu timitera, kia tinavu iqoka vaiinti hampata vuaro.
 Qaqi vaiintivano kahaqiarirava kia ho vairara tira, are tinavu kahaqiraqe tenavu homa navutaaka naatara kararave, turo.
 Kotiva tinavu kahaqirera, tenavu homa navutaaka naatara kaariraro viva vikaqaa aiqu ntavaqiro vuanarove.
-
 
 Kotio, te ariara mpo ike ti kahaqiane ti vauna uvara iriane.
 Ti maaqa niaraini vaivaro ti muntukavano qoraiqimanta te nantie irarave tivakeha ai aare vauro. Are ti tivita varera verara nora oriqaa vuru kairamanta navutaaka kia ti haruate.
@@ -14921,7 +14922,6 @@ Are aaqu koqemake varake variararo aaquvano vata korataara putama kaivaro vatava
 Are mintima kehara vata vira koqemake variaramanta vaiinti nahenti vata viraqaahai airi kara qantuke vare variara. Are vi ani variana vataraqaahairo koqe karavano qampiqe vaira.
 Qumina vataini koqe ukau qampiqe vaimanta purumakauve sipisipive mini mpiqavi variara. Aiqinaini koqe naaho vo naaho vo naahovano vaimanta vaiinti nahenti quaheha variara.
 Ukau vainaini airi sipisipive, memeraave vi aniha ukau ne variamanta uqitaini uiti ututaavaro koqema kero qampiqeharo vi vatara mpiqe vaimanta vaiinti nahenti quaheha ihi tivaqi vi variara.
-
 Qaqi kairamanta ekaa vataini variaka quaheha naverai tiha Kotira autu tuaheraqi vuate.
 Ne vira nora autuara irihama ihi tivaqi vuate. Vira autuvano nora autuma vaivo tivaqi vuate.
 Ne Kotirara tiha, Are nora kaiqa vo kaiqa vo kaiqa vare varianara taveha, tenavu kauqu runkinkiri iha vauro. Ai kempukavano uri aatarakero vaimantara ti, ai navutaaka ai aatu qeteha ai avuqaa vevu vevu iha variavo.
@@ -14942,6 +14942,7 @@ Te Nora Kotira tenta noqihai aarauraro ˻viva ti uva irirara ti,˼ te tenta maaq
 Vi entara tenta qora kaiqa varaunarara kia nora haikave turaitirio, Noravano Kotiva kiama ti uva iritirio.
 Ho Kotiva te vira aarauna uvara iriro, ti kahaqama timitaira.
 Ho kaiqenavu Kotira autu tuaheraqi vuare. Viva te vira aarauna uvara kia qoririma karaitiro, ti uva iriharo vira muntukavano tiriara vaira kia qaqira kairarama turo.
+
 Mpo Kotio, tinavu aaqurihama timitehara koqema timitaane. Are koqe viri vatehara tinavu quahama timitaane.
 Are tinavu Isareri mintimakera koqema timitairamanta, ekaa naato vatanaaka ai koqe okara kankomake tave, are vaiinti nahenti ruaruama nimite vaina okararavata kankomake tavaate.
 Kotio, are qaqi kairamanta vo vatanaa vo vatanaaka ai autuqai tuaheraqi vuate. Are qaqi kairamanta ekaa naato vatanaaka ai autuqai tuaheraqi vuate.
@@ -15028,7 +15029,6 @@ Ti haru kareka auti variaka, are vika hampata iqoka raquqira vihara vika naatara
 Vika ti naaraihama timiteha huviqorave ti variaka, are vika qoraiqama nimitaira vika kaurira qaqirake vuate.
 Noravauvo, ai rante variaka are qaqi kairamanta vika ai aaqanto oru vaiha muntuka paru i vaira quaheha variate. Ariara viva ti kahaqiharo ruaruama timite vaivama vaivo ti variaka, are vika qaqi kairamanta vika ariara tiha, Kotiva nai Noravanoma vaivo, tivaqi vuate.
 Noravauvo, quqaama te vehi vaiinti vaiha kia te tenta ho kahaqiarirava vaimantama vauro. Mpo Kotio, vaakama tuvu ti kahaqiane. Areqaima ti kahaqihara ruaruama timite variaravama variaro. Noravauvo, kia varikera tuvuanerama turo.
-
 Noravauvo, vokiaka ti qoraiqama timitevorave ti, te are iananaini anuro. Mpo, kia ti navutaaka qaqi kairamanta vika kaurira haika ti timiate.
 Are avuqavuqama kera kaiqa vare variaravara tira, ti ruaruama timitaane. Mpo, nena aato ti timira ti uva irihara, vaaka ti ruaruama timitaane.
 Vaiintivano ori onavuqi kukeqareva oru vaintema kera, are ti qaqi kairaqe te are variananaini oru vaiha ho variare. Arema ti ori onavu koqeva variaro. Arema ti kempuka vaantaavura variaro. Are mintima variaravara tira, are ti kahaqina uvara tiraqe te ho variare.
@@ -15124,6 +15124,7 @@ Vaiinti nahenti ntaiheha qoraiqama nimite variaka mantaaqainaini voqi voqi kukeq
 Hauri qora kaiqa vare variaka vaiinti nahenti qoraiqama nimiteha nora maara vikaqaa vataqi vivora. Are vi vaiinti nahentika ike mpo tiva nimitehara, vika kahaqira kia kaurira haika varaate. Are vehi vaiinti nahentive, ekaa haikara aavoqiakave, kahaqira vika vika ai autu tuahera kaate.
 Mpo Kotio, kia avu aato vataaka vo enta vo enta ariara mometa ti varia uvara iriharama, himpira nena auta ntina uvara tiramanta ai navutaaka kia ai ko ho aatara kaate.
 Ai navutaaka naverai tiha ariara qora uva ti variarave, vika vo enta vo enta qora uva noraiqaake ti variarave, kia vi uvara vi uvara tauru kaane.
+
 O Kotio, ai autu nora autu vaimanta tenavu ariara koqeve tivakema qaiqaavata koqeve turo. Are nora kaiqa, vo kaiqa vo kaiqa tinavu vara timitaanarara irihama, tenavu vaiinti nahenti vi uvara viti viri tiva nimi vauro, turo.
 Ho Kotiva mintima tiro: Te kaama taura entava qovaraiqiraqe vi entaraqaa ko tihama avuqavuqama keha vaiinti nahenti uva irirerave.
 Vi entara vatavano qaki qaki i vairamanta ekaa vaiinti nahenti aiqu kauquvano ntiri ntiri i vairaqe te maa vatara tuqa kempukaiqamake tuataariraro qaqi varianarove.
@@ -15168,7 +15169,6 @@ Tonavuqihairo nora aaqu ntivaro naaruvavano qaiqaa qaiqaavata uva tivaqiro vivar
 Iqoka kaari aiquvano noraiqama kero harara harara tintema kera, are qaqi kaararo naaruvavano voqama kero auvante vaivaro aaquakaavano utiharo ekaa vata maata ataama kaivaro vatavano qaki qaki i vaira.
 Are ni variana aarava nora namariqi vaivaro kia vaiinti vovanovata are aiqu ntavataanara tavaira.
 Sipisipi qova nai sipisipi aara numiqaintema kera, are nena vaiinti nahenti ntita varera vi aarara vika numiqaanara. Are Mosika Eronika noraiqama kaaramanta vitanta qiata vaiinti vaiha, ai vaiinti nahenti ntita vare vi aararaqaa vuara.
-
 Ti vaiinti nahentivauvo, te uva maara ni tiva nimiari iriate. Ne nenta aato ti timiqe te uva ni tiva nimiare.
 Te uva ni tiva nimirera iha, vi uvara tuqantaake tiva nimirera. Haaru enta variaka kia kankomake iria uvara, te vi uvara okara ni tiva nimirera.
 Vi uvara tinavu kaivaqaukavara tinavu tiva timiamanta irunara, vi uvara okara ni tiva nimirera.
@@ -15254,6 +15254,7 @@ Hauri vo vatanaa vo vatanaaka tinavuara, Ni Variqavano tainie vaivo? tivora. Vik
 Mpo, iqoka raqiha Isareri ravaaqavu vare vuru rumpataaka ke ke ti varia uvara irihara vika kahaqiane. Navutaaka vikaqaa uva vateha vika arukareka ia vaiintikara irihara, nena kempukaqohaira vika ruaruama nimitaane.
 Mpo Noravauvo, ekaa vi vatanaaka ai qoraiqama amiteha ai naaraihama amitaarara irihara, kia vohaa tataa vika qoraiqama nimitaraitira, airi tataa vika qoraiqama nimitaane.
 Are mintiraqe tenavu ai vaiinti nahenti ai sipisipi vaurauka, ekaa enta ariara koqeve tiha ai autu tuaheraqi vuare. Are mintiramanta ai vaiinti nahenti naantiara qovaraiqika, vikavata ai autu tuaheraqi viha, are tinavu nora kaiqa vara timitenarara tiva nimiqi vuate.
+
 Mpo Kotio, nena aato tinavu timihara tinavu uva iriane. Tenavu ai sipisipinavu vaurara are tinavu Isareri sipisipi qova vaihara tinavu Iohepira vaintivara koqe aara humiqe variaravama variaro. Are nena avuhainaa taintaqaa oquvi vaihara enseli aroka vataukaqaa raqiki varianarave.
 Are nena mpeqa okaravano takuqi vaira qoqaiqama kehara, tinavu Efaraimura ankuve, Benaminira ankuve, Manasera ankuve, ataama timitehara nena kempukaqohaira tuvu navutaaka kauquqihaira tinavu qaqini vara kaane.
 Mpo Kotio, are tinavu kahaqama timitairaqe tenavu haaru koqemake vaunantemake, vatevata qaiqaa mintimake variare. Are tinavu aaqurihama timitehara tinavu ruaruama timitaane.
@@ -15290,7 +15291,6 @@ Mpo, ne Isareri ti uva koqemake iriha, ti aaraqaa vuatirio,
 te vaakama tenta kauquqohai ni navutaaka naatarakeha, vika vehi autu taiqa kauraitirio.
 Oho, te Noravano Kotika vauro. Naantiara ti navutaiqi variaka ti tivuqaa vaivaro vika naatu ite vaira aiqu kauqu ntiri ntiri i vairamanta vaivarave. Te vika ruqutuqi vuarirava kia taiqa viraitiro, ekaa enta qaqi variqiro vuanarove.
 Te vika mintimake qoraiqama nimitehavata, ni Isareri koqe karaqai nimiqi viha, nantaqi bivano kurutai hanira, ni nimiari neha ho vaivarave, tiro. Kotiva tinavu Isareriara minti tura.
-
 Kotiva naaruvaini vaiharo vaiinti noranavu naarama kaimanta vika vira avuqaa ruvaaqumavi variavaro Kotiva vikaqaa uva vatero tiharo,
 Nanti nanti entae nenavu ko iriha kia koqemake uva avuqavu iraiti, qora kaiqa vare variaka uva iriha vikaqai kahaqi variavo?
 Nenavu kia mintiraiti, vehi vaiinti nahentive, iqa/viqa vaintive, qaqi vika kahaqiataarave. Kia airaira vataa vaiinti nahentive, nora maaravano vikaqi vaimanta variakave, nenavu vika uva iriha koqemake vika uva avuqavu iate.
@@ -15299,6 +15299,7 @@ Oho, ne kia vo okaravata kankomake iriraiti variavaro, ni avu aatovanovata kia v
 Tota te ni tiva nimi tiha, Ne variqanavuma variavo. Te nai virini kantaaqaini vaura Variqauka vauramanta ne ti maaqunavu variavo, tunarave. (Ioni 10:34)
 Te minti turauka, vate te vo uvavata ni tiva nimiari iriate. Qaqi vaiinti qutintemake, nevata qutivarave. Ekaa avuhainauka qutintemake, nevata variqi vi, vuru qutu vivarave, turo. Kotiva minti tura.
 Mpo Kotio, himpira maa vataraqaa variaka uva avuqavu iane. Ekaa naato vatanaaka vaireka, vika are iaraukama variavo.
+
 Mpo Kotio, kia qaqi variane. Kia evaara vairaitira, uva tiane.
 Ho tavaane. Ai navutaaka iqoka raqireka auti vaiha nora uva ti variavo. Vika ai navutaiqiha ai tauvaqa utu amite variavo.
 Vika evaara ruvaaqumavi vaiha, tinavu ai vaiinti nahenti haru kerara nai tiva ami nai tiva ami i variavo. Vika tinavu ai muntukavano vai vaiinti nahentika qoraiqama timiterara nai tiva ami nai tiva ami i variavo.
@@ -15344,7 +15345,6 @@ Vi entara vaiinti nahenti Kotirara kempukaiqaake iriqi viha, vika nariara nariar
 Vi entara vataini vaika Kotirara kempukaiqamake iriqi vivaro vira avuqavu okaravano naaruvaihairo vaiinti nahenti ataama nimitaanaro.
 Quqaama, Noravano Kotiva tinavu koqema timitairaqe tenavu airi kara qantuke varaainara.
 Noravano vaiinti nahenti avuqavu ni aarara qerama nimitaira vika vi aararaqaa qihaaqamake vivara.
-
 Noravauvo, te vehi vaiinti vaiha tenta kahaqiarirava kia vaimantara tira, are ti uva irira tinta tiva timiane.
 Te ariara kempukaiqaake iri vaunarara tira, are tiqaa raqiki vairaqe te kia qutu vuare. Ti Variqavauvo, te ai kaiqa vaiintivano ariara noraiqaake iri vaunarara tira, are ti ruaruama timitaane.
 Mpo, te aatitairaqaavata, entaqivata, ai aaramaqi vi vaunarara tira, are ti uva irira ti aaqurihama timitaane.
@@ -15369,6 +15369,7 @@ Isipive, Babironive, Pirisiave, Taiaave, Itiopiave, mini mini ti hutu tuahereka 
 Naantiara airi vaiinti nahenti Saioniara vi vatukava tinavu nova vaivo tivarave. Kotiva ariara mintima tivo. Nai virini kantaaqaini vai Variqava, viva naima naantiara vi vatukara koqema amiteharo kempukaiqama kaanaro.
 Viva vo vatanaa vo vatanaaka nutu qara ntuva teharo mintima tianaro: Maa vaiinti nahentika quqaa Saionihainaaka variavo,
 tiramanta vika ihi tivaqi viha mintima tivara: Kotiva tinavu koqema timite vai haikava, vo haika vo haikavano Saioni vatukaqihairo qovaraiqi vaivo, tivarave, turo.
+
 Noravauvo, are ti Variqavano ti ruaruama timite variarava variaro. Te aatitairaqaavata entaqivata ai aareha ike mpo tivaqi vi vaunara.
 Nora maaravano tiqi vaimanta te qutuarirava aumanto vaimantama vauro. Are ti uva irira ti kahaqiane.
 <range>
@@ -15440,7 +15441,6 @@ Mpo Noravauvo, ai muntukavano tinavuara vaiva taiqae vivo? Are nena kauqu aiqiqa
 Mpo Noravauvo, vo vatanaa vo vatanaaka ti ai kaiqa vaiintiara tauvaqa vauraa uva ti variara kaara ti muntukavano qoraiqimantama vauro. Are kia vika qora uva ti variara tauru karaitira, qaqi iritehara variane.
 Noravauvo, te are kaama taana vaiintikama vauro. Ai navutaaka te taini tainie vi ani vauramanta vika ti avataqi viha, tiriara tauvaqa vauraa uva tivaqi viha, ti naaraihama timite variavo.
 Ho kaiqenavu ekaa enta Nora Kotira autu tuaheraqi vuare. Quqaave, qaiqaavata quqaavema turo.
-
 Noravauvo, tinavu noka qokave, naaqu taatokave, tinavu kaivaqaukavarave, vika vika ariara tinavu antua timite vaivama vaivo ti variarave.
 Haaru kia aiqinavano qovaraiqi entarave, kia maa vatara autukera vataana entarave, nai haaru, are Variqavano qaqi variqira vi variaravave. Are kia taiqa viraitira, ekaa enta qaqi variqira vinarave.
 Are vaiinti nahentiara tihara, Ne qaqi variqi vi vuru qutu vuate, tiaramanta, vika variqi vi vuru qutu vi, qaiqaa vataiqama vi variarave.
@@ -15474,6 +15474,7 @@ Are raioniqaave, uqahiqaave/quaihaqaave, nena aiqu ntava tairamanta vika kia ho 
 Noravano Kotiva mintima tiro: Tiriara muntuka vate vaiinti nahentika, te vika ruaruama nimitaainarave. Ti hutuara noraiqaake iriqi vi vai vaiinti nahentika, te vika antua nimitaqi virerave.
 Mintimake vai vaiinti nahentika ti haareha tinavu kahaqiane tiqe te vika uva iriha vika kahaqirerave. Nora maaravano vikaqi vairaqe te vika hampata vaiha vika kahaqiha nora autuvata vika nimirerave.
 Te vi vaiinti nahentika kahaqama nimitaari vika koqemake vaiha maa vataraqaa vukaiqamake variqi vivarave. Te vika ˻Sataanira kauquqihai qaqini˼ kuvantu karerave, tiro. ˻Noravano Kotiva nariara muntuka vai vaiinti nahentikara vi uvara turave.˼
+
 Noravauvo, are virini kantaaqaini variara Variqavama variaro. Koqemama te ariara koqeve tivakeha ihi tivaqi viha ai autu tuahera kaare.
 Koqemama te kitaave vo musikive ruqutiha, ai muntukavano tiriara vairara toqaqi vaiinti nahenti tiva nimiqi vi, entaqi are tiriara noraiqaakera iriqira vi varianararavata vaiinti nahenti tiva nimiqi vuare.
 <range>
@@ -15489,7 +15490,6 @@ Deti katarivano koqema kero qampiqaintemake, avuqavu ni variaka koqemake variqi 
 Nora Kotira Naavu vainaini ututaa katarira voqaara, vika koqemake variqi vivara.
 Koqe katarivano airi ihiara variqiro viharo qaqiqai koqe tava ire vaintemake, vika koqe kaiqa varaqi vivi, konta naampaiqamavi, qaraaka vaiinti nahenti voqaara vaivara.
 Vika mintima tivara: Noravano Kotiva vaiinti nahenti avuqavuqama nimite vaivave. Viva ti antua timite vaiva vaivaro kia qora okara voqavanovata viraqi vairave, tivara.
-
 Noravano Kotiva Avuhainaava vaiharo ekaa haikaqaa raqiki vaivaro vira nora autuvanovata vira kempuka okaravanovata nai vira avuhainaa utavaaqa voqaara vairave. Viva maa vatara tuqa kempukaiqama kero aratairara tiro, kia ho vovano vira qaki qaki iariravama vaivo.
 Ike, Noravauvo, are nai haaru kia vo haikavanovata vai entara are raqikiqira ani varianarave. Are kia vo entavata kia vairaitira, are ekaa enta variqira ani variaravama variaro.
 Noravauvo, nora namarivano voqama kero auva nteharo vukuqiro aniharo paama tivakero vata ruquti vairave.
@@ -15585,6 +15585,7 @@ Te tavaari vokiaka evaara evaara nái kena vaiintiara tauvaqa vauraa uva tivera,
 Te Kotirara noraiqaake iri variaka quahama nimitaari vika homa ti hampata avuhainaara naavuqi vaivara. Kia vikaqaa uva vaimanta avuqavuqamake ni vaika, vikaqaima ti kaiqa vara timitevara.
 Una uva ti variaka kiama ti avuhainaara naavuqi ho vaivara. Unaqaraiqama keha koqe kaiqa vare variaka kiama ho ti aaqanto himpi vaivara.
 Te vo enta vo enta qora kaiqa vare variaka aru ntata kaari vika kia ho Nora Kotira vatukaqive, maa vataraqaave, vaivara.
+
 Mpo Noravauvo, te ai aaraaina uvara iriane. Mpo, are qaqi kairaro te ai aareha ti kahaqiane tiaina uvava are inanaini oru vuarire.
 Mpo, te nora maaraqi variaina entara are kia ti tivuqaa kukeqavi vairaitira, nena aato ti timihara te ai aaraaina uvara irira vaaka vo tiane.
 Iha muravano oru viharo vaaka ruqema vintema kero, te vataini variqi vuarirava vaakama taiqa vuanaro. Iha ite vaintema kero, ti vaatavanovata voqamakero iha ite vaimantama vauro.
@@ -15613,7 +15614,6 @@ Haaruqama kera are maa vatara tuqa autukera arataanarave. Are nena kauquqohaira 
 Vatavanovata naaruvavanovata variqi vi vuru taiqa vivaravata, are ekaa entama qaqi variqira vinarave. Utavaaqavano nihiqama viro qunahi vinantemake, vitanta taiqa vivara. Qaraaka utavaaqa nonkireva iharo, haaruara qaqini vara kaintema kera, are vitanta taiqa kenara.
 Vitanta taiqa vivaravata, are kia taiqa viraitira, haaru varianantema kera, ekaa enta qaqi variqira vinarave.
 Are mintiaqira viramanta tinavu vaintivara, vikavata ai aaqanto koqemake variqi vivara, are vika kuvuarama tekavata antua nimitaqira viramanta vikavata koqemake variqi vivarave.
-
 Mpo, kaiqe te Nora Kotira autu tuahera kaare. Kaiqe ekaa tenta avu aato muntukaqihaive, tivaata maraquraqohaive, Nora Kotira autuvano takuqi vaira tuahera kaare.
 Noravano Kotiva qaiqaa qaiqaavata ti koqema timite vairara kia tauru karaiti, te ekaa virara iriqi viha vira autu tuaheraqi virerave.
 Viva te qora kaiqa varauna uvara ekaa nunka timitero, ekaa ti aihaviraaravata koqema timite vaira.
@@ -15807,6 +15807,7 @@ Noravano Kotiva vika navutaaka nora autu vataakara kia noraiqaakero iriraitiro, 
 Vehi vaiinti nahenti vo haika vo haikara aavoqiha qoraiqamavi variaka, Noravano vika ruaruama nimiteharo koqema nimitaira. Viva vika vaintivaravata airiqama kaimanta vika airi sipisipi voqaara variara.
 Noravano Kotiva mintima kero vehi vaiinti nahenti kahaqi vaimanta avuqavu ni variaka vira kaiqa taveha, quahe variamanta, qora okara auti variaka kia uvavata tiraiti, evaara variara.
 Ho koqe avu aato vataaka ne koqemake te qara ntuva tauna uvara aatoqi iriteha, Nora Kotira muntukavano tinavuara vairara noraiqaake iriqi vuate.
+
 O Kotio, te ariqaa muntuvi vauraro ti muntukaqihairo paru i vaimanta te ihi tivaqi viha ai autu tuahera karerave.
 Ho ti maraquravauvo, himpuane. Ti kitaa kulelevauvo, himpuate. Himpiqenavu ihi tivaqi viha kuari vauraqama kaariraro uru ntaarire.
 Noravauvo, te vo vatanaa vo vatanaaka nivutaini vaiha ai autu tuaheraqi virerave. Te vo vaiinti nahenti vainaini oru vaiha ariara ihi tivaqi virerave.
@@ -15820,7 +15821,6 @@ Mpo Kotio, tavave ti tivita varairaqe te vaantaavuravano ututuma tai vatukaraqi 
 Ho are mintiataarave. Vate maa entara are kia mintiraitira, tinavu tauvaqa utu timitera, kia tinavu iqoka vaiinti hampata vuaro.
 Vaiintivano tinavu kahaqiarirava kia ho vairara tira, arema tinavu kahaqiraqe tenavu navutaaka ho naatara kararave, turo.
 Kotiva tinavu mantaraini vairera, tenavu homa navutaaka naatara kaariraro viva vikaqaa aiqu ntava taanaro.
-
 Mpo Kotio, te ai autu tuahere vauraukama vauro. Virara iriharama are kia evaara vairaitira, te ai aare vauna uvara irihara ti kahaqiane, turo.
 ˻Are kiae iriaro?˼ Qora okara auti variaka tiriara tauvaqa vauraa uva ti variavo. Vika una uva tiqaa ntuvakeha ti variavo.
 Vika ti qoraiqama timitareka ti ututuma teha qora uva, vo uva vo uva ti variavo. Oho, qumina uva kaara vika minti ti variavo.
@@ -16329,6 +16329,7 @@ Noravauvo, ariara kia antuqa ari vaiintika ti kia vikara hantuqa harivo. Ai navu
 Quqaa tarurama turo. Ti muntukavano kia vi vaiintikara vaivo. Te vi vaiintikara ti navutaakama variavo ti vaunara.
 Kotio, uqautama kera tuanti taantima kera ti avu aato muntukaqi vainara tavaane. Te nana nana haikara avu aato utuainara avatama kera tavaane.
 Ti avu aatoqi qora uva vovano variantorave tira, viraqi rantakera tavaane. Are koqe aaraqaa ti tivita kera vatairaqe te ekaa enta qaqi variqi vuare.
+
 Noravauvo, are qora vaiintinavu kauquqihaira ti ruaruama timitaane. Are ti antua timitairamanta voqamake nái kena vaiinti ruquti varia vaiintika kia ti ruqutuate.
 Qora kaiqa varevaqai vika avu aatoqi vaimanta, ekaa enta vika vaiinti nahenti avutana vaiha tiroriha raqira haika vara qovaramake variara.
 Memaru avai vaihaiva vaiinti qoraiqama kaintema kero, vika qora uvavano vaiinti nahenti qoraiqama nimite vaira. Vika nái noqihai ti varia uvava uqahi/quaiha uhi voqaara vaira.
@@ -16342,7 +16343,6 @@ Are iha auru tuta kairaro vikaqaa hiqinti hiqinti iharo tatoqa taiqa kaarire. Ar
 Vo vaiinti autuvano vataini tuvi vuarire ti, una uva ti variaka, are kia vika qaqi kaira maa vataraqaa koqemake variqi vuate. Oho, qaqi kairaro qora haikavano qovarama viro, voqamake nái kena vaiinti ruquti variaka vehi autu taiqa kaarire.
 Noravauvo, te kankomake iri tavaunara. Are vehi vaiinti nahenti auta ntuva nimitehara vika kahaqi variaravama variaro. Vo haika vo haikara aavoqiaka qoraiqama nimitevorave tira, are vika kahaqama nimite variaravama variaro.
 Avuqavu ni variaka ai autu tuahereha vika ai aaqanto ekaa entama variqi vivaravema turo.
-
 Mpo Noravauvo, te ai aare vauro. Vaaka ti kahaqiane. Mpo, are te ai aare vauna uvara iriane.
 Mpo, koqe unta i murava are iananaini oru vintemakero, te ai aaraaina uvava are iananaini oru vuarire. Entaqi ai ofaa iha quara amitaavara are quahaanantema kera, te tenta kauqu tuaherakeha ai aaraaina uvarara quahaane.
 Noravauvo, ti noqaa raqiki timitairaqe te kia qora uva tiare.
@@ -16353,6 +16353,7 @@ Vaiintivano iha kantakaara teqa taaqama kero aqu aquma kaintemake, vi vaiintika 
 Noravauvo, are ekaa haikaqaa raqiki variaravama variaro. Te ariaraqai noraiqaake iri vaunara. Te ariara viva ti antua timite vaivama vaivo, tunara. Mpo, are kia ti qaqi kairaqe qutuare.
 Are ti antua timitairaqe te qora vaiinti kukeqake vaara vuiteraqaa kia aru vuare.
 Are qaqi kairamanta qora vaiinti vika nái vaara vuiteraqaa aru viqe, te qaqi vitare vuare.
+
 Te ike mpo tihama Nora Kotira aare vauro. Viva ti aaqurihama timitaarire ti, te vira aare vauro.
 Ekaa maaravano tiqi qovaraiqirave, te avu aato uti vaunarave, te ekaa vi uvara vira tiva ami vauro.
 Noravauvo, ti muntukaqihairo maara ntaivaro ti kempukavanovata kia vaimanta te ta aararaqaae virarave tuna entara, are vi aarara kankoma kera irira tavaanara. Oho, vi vaiintika tiriara aru vuarire ti, te ni vauna aararaqaa vaara vo kukeqake vui taavo.
@@ -16360,7 +16361,6 @@ Te hini hini tuqantaavi tavauraro vaiinti vovano ti kahaqiarirava kia vaivo. Tir
 Mintiverama Noravauvo, te ariara ike mpo tiha, Te are variananaini ruqemake oru kukeqavi vairerave. Te maa vataraqaa qaqi variqi vuaina entara te ariaraqaima ti Noravano vaivo, tivaqi virera.
 Mpo, te tenta kahaqiarirava kia ho vaimanta te nora maaraqi vaunarara tira, are te ai aare vauna uvara iriane. Ti haru kareka ti avataqi ani variaka kempukavano voqavata vairara tira, are vika kauquqihaira ti ruaruama timitaanerama turo.
 Mpo, nora maaravano ti rumpa tairaqihaira are ti kuvantu timitairaqe te qaqini aitare variare. Are mintiramanta ai vaiinti nahenti are ti koqema timitenarara iriha, vika te iainanaini ani ruvaaqumavi vaiqe te vika nivutana vaiha ai autu tuahera kaare.
-
 Mpo Noravauvo, te ai aare vauna uvara iriane. Ai okaravano avuqavu okara vaivara are nena vaiinti nahentiara noraiqaakera iri variaravara tira, te ariara ike mpo ti vauna uvara irihara ti aaqurihama timitaane.
 Maa vataraqaa qaqi variqi vi variakaqihairo kia ho vovano ai ko aatara kaariravama vaivo. Mpo, te virara irihama ariara kia ti nena kaiqa vaintiqaa uva vataanerama turo.
 Oho, navutaaka ti avata vare aniha ti ruqutu kaamanta, te vataini konkoma kanta hiqintivi qoraiqamavi vauro. Haaru qutu vuaka konkira arinaini variantemake, vika konkira ariraqi ti muntu kaamantama vauro.
@@ -19242,7 +19242,6 @@ Ho iriate. Ti navunaaka niara vataini vaiha keke tivaqi viha tiha, Oho, Noravano
 Minti tumanta vaiinti nahenti tiha, Kara qantua entava aitaraivaro koqe kuarivano itai entavavata taiqa vivaro, Noravano kiaqai tinavu ruaruama timitairave, tura.
 Oho, ti navunaaka qoraiqama vuara kaara ti muntuka voqamakero qoraiqimanta vauro. Te vi aniha iqi rataqi vi vauraro aatu itai haikava ti ravaaqavu kaimantama vauro.
 Mpo, Gileaati vataini kiae koqe marasini vo vaivo? Kiae mini koqe doktaa vovano vaivo? Numuaravano ti navunaakaqi qaqi ite vaira nantiharoe ˻Kotiva˼ kia marasini viraqaa aqu nimitairaro tavanta vuarire? ti.
-
 Mpo, ti qiatavano varuva namari voqaara vairaro, ti tivuvano aruvu namari voqaara variataarave. Mintimake vairaqe te entaqivata aatitairaqaavata tenta navunaaka arukaakara iqi rata nimitaqi virerave.
 Mpo, aahara vataini ti haraara naavu vo vairaqevauve, te tenta navunaaka maini ke mini oru variataarave. Vika ekaa naata vaati varaa okarara raqakaaka variavo. Vika ekaa kia Kotirara noraiqaake iriraiti, qora aaraqaaqai vi variavo.
 Noravano Kotiva tiharo, Vaiintivano airi veva aqukaintemake, ti vaiinti nahenti noqihairo una uva, vo uva vo uva qovaraiqi vairave. Una uvavanoqai maa vataraqaa raqiki vaimanta vika qora kaiqa vareha, qaiqaa qaiqaavata qora kaiqa vare variarave. Vika kia tiriara tinavu Variqave ti variarave.
@@ -19268,6 +19267,7 @@ Vairi raha vona vona vaintema kerove, uiti naahoqi teqake rumpake vataava vona v
 Noravano Kotiva tiharo, Hauri koqe avu aato vataava nai mahuta tiharo, Te koqe avu aato vataukave tiantorave. Hauri kempuka vaiintivano nai mahuta tiharo, Te kempuka vaiintima vauro tiantorave. Hauri airi monu vataava nai mahuta tiharo, Te airi monu vatauka vauro tiantorave.
 Vovano maa okarara avateharo nai mahuta tiarirava homa varianaro: Viva kankoma kero ti Nora Kotika iri tavero, ti vevaaraini variariravave. Viva kankoma kero irimanta te vaiinti nahenti koqema nimite vaunarave, te vika aaqurihama nimite vaunarave, te tenta avuqavu okara avataqi viha, vaiinti nahenti avuqavuqama nimite vauraukama vauro. Vovano ti aanantero mintiaqiro virera, te vi vaiintirara quaheha vairarave, tiro.
 Noravano Kotiva tiharo, Vo enta anintairaqe te vi entaraqaa vo vatanaa vo vatanaaka qorainti nái vaata toqakekave, kia vaata toqakekave, ntaihama karerave. Ekaa vika vika te tivatauna uvara kia iri variarave.
+Isipive, Iutaave, Idomuve, Amonive, Moapive, aahara vataini variaka nái qiata kauhi qiquqamake toqakaakave, ekaa vika qorainti kia nái vaata toqakaaka variamanta, Isareri qorainti vika nái vaata toqakaaka vaihavata, vika ekaa nái muntukaqihai kia qora kaiqa toqake qaqini varakaaka variarave. Noravano Kotiva vi uvara tura.
 Ne Isareri vaiinti nahentio, aato ti timiqe te Noravano Kotiva tivatai uvara ni tiva nimiare.
 Viva tiharo, Hauri vo vatanaa vo vatanaaka qora okara avataqi vi variara nevata avataqi vivorave. Vika naaruvaini aahuva haika qovaraiqira taveha, voqamake qeteha variarave. Hauri nevata vi haikara taveha qetevorave.
 Vika una variqa avate varia okarava kia vika kahaqiraitiro, qumina okaraqai vairave. Vika nantaqihai katari teqake vare aniavaro vovano siseri varakero viraqohairo katari viraqaa una variqa viri vaata nkauru kero autukero vatairave.
@@ -21904,9 +21904,6 @@ Mintumanta avuhainaa vaiinti maaqunavuve, kamaanira kaiqa vaiinti avuni vaukave,
 Mintuvaro Nebukanesaava tiharo, Kaiqenavu Sataraakira Misaakira Abetnegora vinavuka Variqa autu tuahera kaare. Vinavuka kempukaiqamake nái Variqara iriqi vuavaroma vinavuka Variqavano nai enseli vo atitaivaroma viva tuvuntero vinavuka ruaruama nimitaivo. Vinavuka te vatauna uvara kia avataraiti tiha, Kia tenavu kankakaavi una variqa autu tuaherakaraiti, tenavu tentanavu Variqa autuqai tuaherakarerave, tivakeha kia nái qaqi variqi virara noraiqaake iriraiti, ne homa tinavu harukevarave tiarave, tiro.
 Nebukanesaava minti tivakero tiharo, Ho te qaraaka uva vo vataari iriate. Ekaa naato vatanaakaqihai nai taukae vo vatanaakae, vo uva tiakae, vika Sataraakira, Misaakira, Abetnegora, vinavuka Variqara qora uva tivera, te tiari vika ravaaqavuke teqa taaqamake, vika naavu maaqavata rukuraakuramake vataate. Vi uvara qaraaka uvama tivatauro. Vinavuka Variqa mpeqavano vaiharo vinavuka ruaruama nimitaintema kero, kia vo variqavano ho mintianarove, tiro.
 Minti tivakero avuhainaa vaiinti viva Sataraakira Misaakira Abetnegora vinavuka noraiqama komanta vinavuka uri aatarake nora autu vare, Babironi provinsiqi vaiha kamaanira kaiqa varaqi vi vaura.
-
-
-
 Ekaa vo vatanaa vo vatanaakave, ekaa vo uva vo uva ti variakave, vika vika iriate tiro, King Nebukanesaava maa uvara varakero mintima tiro: Te ni uva mantauro.
 Nai virini kantaaqaini vai Variqava nora kaiqa, vo kaiqa vo kaiqa ti humiqaimanta tavaunara, te vi uvara ni tiva nimiari iriate.
 Ike, Kotiva vo kaiqa vo kaiqa tinavu humiqe vaimanta tenavu vi kaiqara nora kaiqa tavehama kauqu runkinkiri i vauro. Vira kaiqavano vaireva, nora kaiqa mpeqa kaiqama vaivo. Viva ekaa enta ekaa enta raqikiqiro vuanarove. Viva maa entara varia vaiinti nahentikaqaa raqikiqiro viviro, viraqaahairo viva ekaa naantiara naantiaraini qovaraiqi vaiinti nahentikaqaavata raqikiqiro vuanarove.
@@ -21941,6 +21938,9 @@ Viva vi uvara kia taiqa karaitiro, qaqi ti vauvaro naaruvaihairo uva vovano mint
 Vaiinti nahenti vikaqihai ai qaqini ruhaaqi kaivara are qaakau aantauvahi hampata vaihara purumakauvano ukau naintema kera arevata ukau namaqira viraro 7 ihinavu aitaraarire. Mintiraro ai avu aatovano kenko tirara are mintima tinarave: Quqaama nai virini kantaaqaini vai Variqava, vivama ekaa vaiintivano raqiki variaraqaa raqiki vaivama vaivo. Viva nai nimiataa i vaiintika vi kaiqara nimi vairave, tiro.
 Uvavano naaruvaihairo minti tuntemakero, vaaka mintura. Vi entaraqaa Nebukanesaava ˻vueraiqaa vumanta˼ vika vaiinti nahentiqihai vira ruhaaqi qaqini kovaro viva purumakauvano ukau naintema kero, ukau namaqiro vi vaura. Viva ukauqi vauvaro toqa varavuvano vira vaata putaiqama ke vauvaro vira kauhivano memora kauhi voqaara qampiqovaro vira kakahivano uviri kakahi voqaara vukai vaura.
 ˻Nebukanesaava nai uva tivaqiro viharo tiharo˼, Te vueraiqamavi variqi vuraro 7 ihinavu aitaraimanta viraqaahai te naaruva virini tave vauraro ti avu aatovano qaiqaa koqema vimanta vaunarave. Te nai virini kantaaqaini vai Variqara autuqai tuahera keha tiha, Vivaqaima ekaa enta qaqi variqiro vi vaivave. Vivaqaima ekaa enta raqikiqiro vuanarove. Vaiinti nahenti qovaramavi variqi vi vuru taiqa vivaro viva raqikiarira okarava kia taiqa viraitiro, qaqi variqiro vuanarove.
+Viva tenavu vataini vaura vaiinti nahentika taveharo vika qumina haika voqaarama variavo ti vairave. Ekaa naaruvaini variakave, ekaa vataini variakave, vika vira vevaaraini variavaro viva vikaqaa raqikiharo nai varaataa i kaiqara vare vairave. Viva vo kaiqa varareva iraro kia vovano vira kauqu ho antuakaanarove. Kia vovano virara nantiharae mintiaro tiraro qaqira kaanarove, turo. Te Nebukanesaaka minti tivake Kotira autu tuahera kaunarave.
+Ti avu aatovano qaiqaa koqema vi entara vohaa vi entara ˻Kotiva˼ qaiqaa ti nora autuvata ti kempukavata timimanta te qaiqaa noraiqamavi avuhainauka vaiha raqikiqi vi vaunarave. Vohaa vi entaraqaa ti koqe avu aato timi varia vaiintikavata, nora vaiinti vonavuvata, ti rantake qaiqaa ti noraiqama kaamanta, te maa vataraqaa qaiqaa raqiki vaunarave. Ti kempukavano tota vaira viravata qaiqaa uri aatarakero vairave.
+Vate te Nebukanesaaka naaruvaini Avuhainaava vaira, vira autuma tuaherake vauro. Vira mpeqa okaravano uritarakero vairave, Viva ekaa kaiqa avuqavuqama kero naitarama kero vare vairave. Nái autuqai tuaherake vaika, viva vika nutu homa vatainiqama kaanarove, tiro. ˻Nebukanesaava minti tura.˼
 ˻Nebukanesaava qutu vuvaro vira maaqu Belisasaava vira vatuka varora.˼ Vo enta entaqi King Belisasaava nai nora vaiinti 1,000navu naarama kero vika hampata nora kara namakero uainivata ne vaura.
 Vika uaini ne vauvaro Belisasaava nai kaiqa vaiinti vonavu nititero tiharo, Haaru ti qova, Nebukanesaava, Ieruharemini Kotira Naavuqihairo vare anu kaapura, silvaaqohai aututaarave, koriqohai aututaarave, ekaa vi kaapura oru vara viri timiqe tevata tenta nora vaiintinavuvata tenta naatanavu vatamake viraqi uaini qihiakeha naare, tiro.
 Belisasaava minti tumanta vika oru vi kaa p ura koriqohaive, silvaaqohaive, aututo kaa p ura vare viri nimumanta avuhainaava vivavata, ekaa vo kukavata vi kaapura varake viraqi uaini qihiakeha ne vaura.
@@ -21971,6 +21971,7 @@ Hirike: Kotiva sikeriqaa ai hirikero tavaivaro ai maaravano kia ho vairave.
 Rairake: Kotiva are raqiki variana vatara hini rairakero Midia vatanaaka nimiro, hini Pesia vatanaaka nimirave, tiro.
 Qara ntuvato uvara vira okara Danieriva vutukero King Belisasaara tiva amuvaro viva vaaka nai kaiqa vaiinti tumanta vika naare tavuna vo varake Danierira nonku amite, vira auntaqi kori senivata ruvu amitovaro Belisasaava vira noraiqama kovaro viva nampa 3 avuhainaa vaiintivano vaura.
 Vi entara entaqi vokuka King Belisasaara arukovaro
+viraqaahairo Midia vatanaa vovano Dariusiva 62 ihi vara kova, vira vatuka varero, vi vataraqaa raqikiqiro vi vaura.
 Dariusiva tiharo, Kaiqe te 120 vaiinti vonavu noraiqama kaari vika ti kahaqiha te raqikiaina vatara, vo vata vo vataqaa raqikiate, tiro.
 Minti tivakero viraqaahairo viva qaiqaa tiharo, Kaiqe te vaiinti taaramonavu kaama taari vinavuka 120 vikaqaa raqiki vaimanta vika kia muara vararaiti, avuqavuqama keha ti kaiqa vara timitaate, tivakero viva Danieriravata vaiinti votantavata kaama tora.
 Ho Dariusiva tavovaro taaramo vinavukaqihairo Danierira kaiqavano uri aatarakero vauvaro, 120 vika kaiqavata uri aatarakero vaura. Minti varora tiro, avuhainaa vaiinti viva tiharo, Kaiqe Danierira qaiqaavata noraiqama kaariraro viva nora vaiinti vikaqaata raqikiarire, tiro.
@@ -22597,7 +22598,6 @@ Ho vi entaraqaahairo Danieriva Dariusiva raqiki vau entaravata, Pesia vatanaa va
 
 
 
-
 Amitaira maaqu Ionaava vauvaro vo enta Noravano Kotiva vira tiva amiro
 tiharo, Are himpira nora vatuka Niniveni oruntera vi vatanaaka qora kaiqa vare varia uvara vika qoqaa tiva nimiane. Te tavauraro vika qora kaiqa vare varia okarava uritarakero vaivo, tiro.
 Noravano Kotiva minti tuvaro Ionaava, Te kia mini virerave. Te qaqirake vonaini virerave tivakero, vo vatuka Tasisini vireva auti vaura. Viva Jopaini otuntero Tasisini vuaina sipira rantakero, sipi vira koqaa aqukero viraqi vaarintero tiharo, Te Nora Kotira qaqirake Tasisini oru vairerave, tura.
@@ -22614,6 +22614,7 @@ Ionaava minti tumanta vika kia vira namariqi aqu kaataa umanta vika tiha, Kaiqe 
 viraqaahai vika Nora Kotira aareha tiha, Oho, Noravauvo, tenavu aima aare vauro. Tenavu maa vaiintira nora namariqi aqu kaarirara are kiama tinavuqaa uva vatehara tinavu haru kaane. Are tianantema keroma, aaronaa maava qovaraiqivo, ti.
 Vika minti tivake Ionaara utu vare vara vaavi nora namariqi kovaro vaakama nora namarivano qaki qaki i vauva taiqa viro tirema kero vaura.
 Mintumanta sipiqi kaiqa varoka voqamake qete vaiha vika vo ofaa Nora Kotira amiteha, nái kauqu aiqiqaa aqukeha tiha, Mpo, tenavu ai kaiqaqai varaqi virerave, tura.
+Ho Ionaara namariqi aqu kovaro Noravano Kotiva nora havuka vara kovaro vi havukava Ionaara nampiqama kovaro Ionaava taaramo enta entaqivata aatitoraqaavata vira avutaqi vaura.
 Ionaava havuka auhaqi vaiharo nai Variqa Nora Kotira aarero
 tiharo, Noravauvo, te anomake qoraiqamavi vaurauka ai aaraurara are ti uva irira iaro. Qutu vuaka varianaini te vaiha ai aareha ariara mpo ti kahaqiane turara are ti uva irira ti kahaqira iaro.
 Are nora namariqi ti aqu kaaramanta te varuvaqi kupeqavi vauraro nora namarivano ti naavuma kero tiqaa kumpetaqi uriro takui vaiharo vi ani vairave.
@@ -22624,7 +22625,6 @@ Noravauvo, te tiha, Mpo, te qutu vuarirava aumantoma vaivo, tivake viraqaahai te
 Ike, una variqa autu tuaherake variaka kia are aaqurihama nimitaana okarara iriarave.
 Te kia vika voqaantemake vairaiti, te ihi tivakeha ariara koqeve tivaqi viha, vo ofaa vare ai iha quara amitarerave. Te kauqu aiqiqaa aqukeha mintirerave tuna uvara quqaa mintirerave. Noravauvo, areqaima tinavu ruaruama timiterava variaro, tiro.
 Ionaava minti tivakero Nora Kotira aarovaro Noravano Kotiva tuvaro nora havukavano vuru aahara vataini Ionaara vihi kora.
-
 Noravano Kotiva qaiqaa Ionaara tiva amiro
 tiharo, Are nora vatuka Niniveni oru vaihara te ai tiva amuna uvara vi vatanaaka tiva nimiane,
 tuvaro Ionaava Noravano Kotiva tunte iro Niniveni vura. Ninive nai nora vatukavano vauvaro vaiintivano vi vatukara ututuma kero taaramo entara vi anima kaarirava vaura.
@@ -27691,7 +27691,7 @@ Kia ho vovano vi uvarara una uvave tianarove. Virara irihama ne qaqi evaara vaih
 Vi vaiintitanta kiama tinavu variqa naavuqihai vo haika muara varakaavo. Vitanta kiama tinavu variqa nahentiara qora uvavata tiva amitaavo. Vitanta kiama qora kaiqa vara kaamanta ne vitanta maini vite aniavo.
 Demitariusivavata, vira kaiqa vaiintinavuvata, vo vaiintiqaa uva vatareka auti vaivera, ko ti vai entaraqaa homa vika vi vaiintiraqaa uva vatevarave. Ko ti varia kaiqaraqaa raqiki variaka variavo.
 Niqi vo uvavano vairera, homa ne ekaa nora vaiinti ruvaaqumavi vairaqaa vi uvara avuqavuqamake tiate.
-Ne qumina uva kaara raqireka auti variavo. Naantiara vi uvara okarara kamaaniva tinavu irairaqe tenavu kia ho vo uva tirarave. Hauri naantiara kamaaniva tinavuara tiharo, Ne qumina vi entara raquarave, tivakero tinavuqaa uva vataantorave, tiro.
+Ne qumina uva kaara raqireka auti variavo. Naantiara vi uvara okarara kamaaniva tinavu irairaqe tenavu kia ho vo uva tirarave. Hauri naantiara kamaaniva tinavuara tiharo, Ne qumina vi entara raquarave, tivakero tinavuqaa uva vataantorave, tiro. Kusikusivano minti tivakero mini ruvaaqumavi vauka nititama komanta vinurama.
 Ho nora antua uva tuva taiqa vuvaro Poruva Ihura vaintinavu naaromanta viva unaini anuvaro viva uva tiva nimiharo vika muntuka paruma nimitero, ho kauqu nimiro vika mini kero Masedonia vataini vura.
 Viva Masedoniaini vatuka vatuka niharo Ihura vaintinavu mini vauka vo uva vo uva tiva nimiro vika muntuka kempukaiqama nimitero viraqaahairo viva vevara Kariki vataini otu viro.
 Viva taaramo torara Karikini varikero, viraqaahairo viva Siriaini sipiqi virare tiro irumanta Iutaa vaintinavu vira arireka auti vauvarora tiro, Poruva qaqira mini kero qaiqaa tuvurantero verara Masedoniaini vura.

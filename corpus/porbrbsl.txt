@@ -926,6 +926,7 @@ Laban disse a Jacob: “Veja este monte, e veja o pilar, que eu coloquei entre m
 Que este monte seja uma testemunha, e o pilar seja uma testemunha, que eu não passarei este monte para vocês, e que vocês não passarão este monte e este pilar para mim, por mal.
 O Deus de Abraão, e o Deus de Nahor, o Deus de seu pai, julguem entre nós”. Então Jacó jurou pelo medo de seu pai, Isaac.
 Jacó ofereceu um sacrifício na montanha, e chamou seus parentes para comer pão. Eles comeram pão, e passaram a noite toda na montanha.
+Early pela manhã, Laban levantou-se, beijou seus filhos e suas filhas, e os abençoou. Laban partiu e voltou para seu lugar.
 Jacob seguiu seu caminho, e os anjos de Deus o conheceram.
 Quando os viu, Jacob disse: “Este é o exército de Deus”. Ele chamou o nome daquele lugar de Mahanaim.
 Jacob enviou mensageiros na sua frente para Esaú, seu irmão, para a terra de Seir, o campo de Edom.
@@ -958,7 +959,6 @@ Jacob perguntou-lhe: “Por favor, diga-me seu nome”. Ele disse: “Por que vo
 Jacob chamou o nome do lugar Peniel; pois ele disse: “Eu vi Deus cara a cara, e minha vida é preservada”.
 O sol nasceu sobre ele ao passar por cima de Peniel, e ele coxeava por causa de sua coxa.
 Portanto, as crianças de Israel não comem até hoje o tendão do quadril, que está sobre o oco da coxa, porque ele tocou o oco da coxa de Jacó no tendão do quadril.
-
 Jacob levantou os olhos e olhou, e eis que Esaú estava chegando, e com ele quatrocentos homens. Ele dividiu as crianças entre Leah, Raquel e os dois criados.
 Ele colocou os servos e seus filhos na frente, Leah e seus filhos depois, e Rachel e Joseph atrás.
 Ele mesmo passou na frente deles, e se curvou ao chão sete vezes, até chegar perto de seu irmão.
@@ -1709,10 +1709,6 @@ Os magos do Egito fizeram a mesma coisa com seus encantamentos. Então o coraç�
 O Faraó virou-se e foi para sua casa, e nem sequer levou isto a sério.
 Todos os egípcios cavaram ao redor do rio para beber água; pois não conseguiam beber a água do rio.
 Sete dias foram cumpridos, após Yahweh ter atingido o rio.
-
-
-
-
 Yahweh falou a Moisés: “Vá até o Faraó e diga-lhe: 'Isto é o que Yahweh diz: 'Deixe meu povo ir, para que me sirvam'.
 If vocês se recusam a deixá-los ir, eis que eu vou atormentar todas as suas fronteiras com sapos”.
 O rio se inundará de rãs, que subirão e entrarão em sua casa, e em seu quarto, e em sua cama, e na casa de seus criados, e em seu povo, e em seus fornos, e em seus cochos de amassar.
@@ -1741,6 +1737,10 @@ O Faraó chamou por Moisés e por Aarão, e disse: “Vai, sacrifício a teu Deu
 Moisés disse: “Não é apropriado fazê-lo; pois sacrificaremos a abominação dos egípcios a Javé nosso Deus”. Eis que, se sacrificarmos a abominação dos egípcios diante de seus olhos, eles não nos apedrejarão?
 Iremos três dias de viagem ao deserto, e sacrificaremos a Javé nosso Deus, como ele nos ordenar”.
 O Faraó disse: “Eu te deixarei ir, para que sacrifiques a Javé teu Deus no deserto, só que não irás muito longe”. Reze por mim”.
+Moses disse: “Eis que estou saindo de você”. Rezarei a Javé para que os enxames de moscas possam partir do Faraó, de seus servos, e de seu povo, amanhã; só não deixe mais o Faraó negociar enganosamente em não deixar o povo ir para o sacrifício a Javé”.
+Moses saiu do Faraó, e rezou a Javé.
+Yahweh fez de acordo com a palavra de Moisés, e ele removeu os enxames de moscas do Faraó, de seus servos e de seu povo. Não restou nenhum.
+Pharaoh endureceu seu coração desta vez também, e ele não deixou o povo ir.
 Então Javé disse a Moisés: “Vá até o Faraó e lhe diga: 'Isto é o que Javé, o Deus dos hebreus, diz: “Deixe meu povo ir, para que me sirvam.
 Pois se você se recusar a deixá-los ir, e segurá-los quietos,
 eis que a mão de Javé está no seu gado que está no campo, nos cavalos, nos burros, nos camelos, nos rebanhos e nos rebanhos com uma pestilência muito grave.
@@ -2112,7 +2112,6 @@ Se o touro chifrar um servo ou uma criada, trinta siclos de prata serão dados a
 o proprietário da fossa deve torná-la boa. Ele dará dinheiro a seu proprietário, e o animal morto será seu.
 “Se o touro de um homem ferir o de outro, para que morra, então eles venderão o touro vivo, e dividirão seu preço; e também dividirão o animal morto.
 Ou se for sabido que o touro tinha o hábito de chifrar no passado, e seu dono não o manteve dentro, ele certamente pagará touro por touro, e o animal morto será seu próprio animal.
-
 “Se um homem rouba um boi ou uma ovelha, e a mata ou vende, pagará cinco bois por um boi, e quatro ovelhas por uma ovelha.
 Se o ladrão for encontrado arrombando e for atingido para que morra, não haverá culpa de derramamento de sangue por ele.
 Se o sol se levantou sobre ele, ele é culpado de derramamento de sangue. Ele deverá fazer a restituição. Se ele não tiver nada, então será vendido por seu roubo.
@@ -2143,6 +2142,7 @@ pois essa é sua única cobertura, é sua roupa para sua pele. Em que ele dormir
 “Você não blasfemará contra Deus, nem amaldiçoará um governante de seu povo.
 “Você não deve demorar a oferecer a partir de sua colheita e da saída de suas prensas. “Você me dará o primogênito de seus filhos”.
 Você fará o mesmo com seu gado e com suas ovelhas”. Estará com sua mãe sete dias, depois no oitavo dia mo darás”.
+“Vocês serão homens santos para mim, portanto não comerão nenhuma carne que seja rasgada por animais no campo. Vocês a jogarão para os cães.
 “Você não deve divulgar um relatório falso. Não junte sua mão aos ímpios para ser uma testemunha maliciosa.
 “Você não deve seguir uma multidão para fazer o mal. Você não testemunhará em tribunal ao lado de uma multidão para perverter a justiça.
 “Não favorecerá um homem pobre em sua causa.
@@ -2848,13 +2848,6 @@ Ele fará a restituição do que fez de errado em relação à coisa santa, e ac
 “Se alguém pecar, fazendo alguma das coisas que Javé ordenou que não fossem feitas, embora não o soubesse, ele ainda é culpado e deve suportar sua iniqüidade.
 Ele trará um carneiro sem defeito do rebanho, de acordo com sua estimativa, para oferta pela culpa, ao sacerdote; e o sacerdote fará expiação por ele a respeito da coisa em que pecou e não sabia, e ele será perdoado.
 É uma oferta de transgressão. Ele é certamente culpado diante de Yahweh”.
-
-
-
-
-
-
-
 Yahweh falou com Moisés, dizendo,
 “Se alguém pecar e cometer uma transgressão contra Yahweh, e lidar falsamente com seu vizinho em uma questão de depósito, ou de barganha, ou de roubo, ou tiver oprimido seu vizinho,
 ou tiver encontrado o que estava perdido, e mentiu sobre isso, e jurando - em qualquer uma dessas coisas - que um homem peca em suas ações -
@@ -2878,6 +2871,13 @@ Yahweh falou a Moisés, dizendo:
 Deve ser feita com óleo em uma chapa. Quando estiver ensopada, você a trará para dentro. Você deve oferecer a oferta de refeição em pedaços assados para um aroma agradável a Yahweh.
 O sacerdote ungido que estará em seu lugar entre seus filhos a oferecerá. Por um estatuto para sempre, ela será totalmente queimada para Iavé.
 Toda oferta de refeição de um padre será totalmente queimada. Não será comido”.
+Yahweh falou a Moisés, dizendo:
+“Fale a Arão e a seus filhos, dizendo: 'Esta é a lei da oferta pelo pecado: no lugar onde o holocausto é morto, a oferta pelo pecado será morta antes de Yahweh. É santíssimo”.
+The o sacerdote que a oferecer pelo pecado a comerá”. Será comida em lugar santo, no tribunal da Tenda da Reunião.
+Whatever tocará sua carne será santa. Quando houver algum de seu sangue aspergido sobre uma roupa, lavar-se-á aquilo sobre o qual foi aspergido em um lugar santo.
+But o vaso de barro no qual foi cozido será quebrado; e se for cozido em um vaso de bronze, será lavado, e enxaguado em água.
+Every o macho entre os sacerdotes comerá dele. É santíssimo.
+No oferta pelo pecado, da qual qualquer do sangue é trazido para a Tenda da Reunião para fazer expiação no Lugar Santo, será comido. Será queimada com fogo.
 “'Esta é a lei da oferta de transgressão: É santíssima.
 No lugar em que matarem a oferta queimada, ele matará a oferta de transgressão; e seu sangue ele aspergirá em torno do altar.
 Ele oferecerá toda sua gordura: a cauda gorda, e a gordura que cobre as entranhas,
@@ -4229,6 +4229,21 @@ Então eles, e tudo o que lhes pertencia, caíram vivos no Sheol. A terra se fec
 Todo Israel que estava ao seu redor fugiu ao seu grito; pois disseram: “Que a terra não nos engula”.
 O fogo saiu de Javé, e devorou os duzentos e cinqüenta homens que ofereceram o incenso.
 Yahweh falou a Moisés, dizendo:
+“Fale a Eleazar, filho de Aarão, o sacerdote, que tire os censores da fogueira, e espalhe o fogo para longe do campo; pois eles são santos,
+even os censores daqueles que pecaram contra suas próprias vidas. Que sejam espancados em pratos para uma cobertura do altar, pois eles os ofereceram diante de Javé. Portanto, eles são santos. Eles serão um sinal para os filhos de Israel”.
+Eleazar o padre levou os censores de bronze que aqueles que foram queimados tinham oferecido; e eles os espancaram para uma cobertura do altar,
+to ser um memorial aos filhos de Israel, para que nenhum estranho que não seja da descendência de Aarão, se aproximasse para queimar incenso diante de Javé, para que ele não fosse como Corá e como sua companhia; como Javé lhe falou por Moisés.
+But no dia seguinte toda a congregação das crianças de Israel reclamou contra Moisés e contra Arão, dizendo: “Vocês mataram o povo de Yahweh!
+When a congregação foi reunida contra Moisés e contra Aaron, eles olharam para a Tenda da Reunião. Eis que a nuvem a cobriu e a glória de Yahweh apareceu.
+Moses e Aarão veio para a frente da Tenda da Reunião.
+Yahweh falou a Moisés, dizendo:
+“Afaste-se do meio desta congregação, para que eu possa consumi-los em um momento”. Eles caíram de cara.
+Moses disse a Aaron: “Pegue seu incensário, ponha fogo no altar, coloque incenso nele, leve-o rapidamente à congregação e faça expiação por eles; pois a ira saiu de Javé! A praga já começou”.
+Aaron fez como Moisés disse, e correu para o meio da assembléia. A peste já havia começado entre o povo. Ele pôs o incenso, e fez expiação pelo povo.
+He ficou entre os mortos e os vivos; e a peste ficou.
+Now os que morreram pela peste eram quatorze mil e setecentos, além dos que morreram por causa da questão de Corá.
+Aaron voltou para Moisés à porta da Tenda da Reunião, e a peste foi detida.
+Yahweh falou a Moisés, dizendo:
 “Fale com os filhos de Israel, e tire deles, um para cada casa dos pais, de todos os seus príncipes de acordo com as casas dos pais, doze varas. Escreva o nome de cada homem em sua vara.
 Você deve escrever o nome de Arão no bastão de Levi. Haverá uma vara para cada cabeça da casa de seus pais.
 Você os colocará na Tenda de Reunião antes do convênio, onde eu me encontrarei com você.
@@ -4241,21 +4256,6 @@ Yahweh disse a Moisés: “Ponha de volta a vara de Aarão antes do pacto, para 
 Moisés o fez. Como Yahweh lhe ordenou, assim o fez.
 Os filhos de Israel falaram a Moisés, dizendo: “Eis que perecemos! Estamos desfeitos! Todos nós estamos desfeitos!
 Everyone que continua se aproximando do tabernáculo de Yahweh, morre! Todos nós pereceremos”?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Yahweh disse a Arão: “Você e seus filhos e a casa de seus pais convosco carregarão a iniqüidade do santuário; e você e seus filhos convosco carregarão a iniqüidade de seu sacerdócio”.
 Traga também seus irmãos, a tribo de Levi, a tribo de seu pai, perto de você, para que se unam a você, e ministrem a você; mas você e seus filhos com você estarão diante da Tenda do Testemunho.
 Eles manterão suas ordens e o dever de toda a Tenda; somente não se aproximarão dos vasos do santuário e do altar, para que não morram, nem eles nem você.
@@ -4647,6 +4647,7 @@ mas oferecerá uma oferta queimada, uma oferta feita pelo fogo, um aroma agradá
 their oferta de refeição e suas ofertas de bebida para o touro, para o carneiro, e para os cordeiros, será de acordo com seu número, após a ordenança,
 e um bode macho para uma oferta pelo pecado, além da oferta queimada contínua, com sua oferta de refeição, e sua oferta de bebida.
 “'Você os oferecerá a Yahweh em suas festas - além de seus votos e suas ofertas de livre vontade - para suas ofertas queimadas, suas ofertas de refeições, suas ofertas de bebidas e suas ofertas de paz'”.
+Moses disse aos filhos de Israel de acordo com tudo o que Yahweh ordenou a Moisés.
 Moisés falou aos chefes das tribos dos filhos de Israel, dizendo: “Esta é a coisa que Javé ordenou”.
 Quando um homem faz um voto a Javé, ou faz um juramento de amarrar sua alma com um vínculo, ele não deve quebrar sua palavra. Ele fará de acordo com tudo o que procede de sua boca.
 “Também, quando uma mulher faz um voto a Javé e se vincula por um compromisso, estando na casa de seu pai, em sua juventude,
@@ -4663,7 +4664,6 @@ Cada voto, e cada juramento vinculativo para afligir a alma, seu marido pode est
 Mas se seu marido não lhe disser nada de dia a dia, então ele estabelece todos os seus votos ou todas as suas promessas que estão sobre ela. Ele os estabeleceu, porque nada lhe disse no dia em que os ouviu.
 Mas se ele os torna nulos depois de ouvi-los, então ele suportará a iniqüidade dela”.
 These são os estatutos que Javé ordenou a Moisés, entre um homem e sua esposa, entre um pai e sua filha, estando em sua juventude, na casa de seu pai.
-
 Yahweh falou a Moisés, dizendo:
 “Vingar as crianças de Israel nos midianitas”. Depois disso, vocês serão reunidos ao seu povo”.
 Moisés falou ao povo, dizendo: “Armem homens dentre vocês para a guerra, para que possam ir contra Midian, para executar a vingança de Yahweh sobre Midian.
@@ -5271,6 +5271,7 @@ Observe e ouça todas estas palavras que eu lhe ordeno, para que possa ir bem co
 Quando Yahweh seu Deus cortar as nações de antes de você onde você entra para desapropriá-las, e você as desapropriar e habitar em suas terras,
 tenha cuidado para não ser ludibriado a segui-las depois de serem destruídas de antes de você, e para não perguntar depois de seus deuses, dizendo: “Como estas nações servem a seus deuses? Eu farei o mesmo”.
 Não o farás a Javé teu Deus; por toda abominação a Javé, que ele odeia, eles fizeram aos seus deuses; pois até queimam seus filhos e suas filhas no fogo aos seus deuses.
+Whatever coisa que eu vos ordeno, que observem para fazer. Não lhe acrescentarás, nem lhe tirarás nada.
 Se um profeta ou um sonhador de sonhos surgir entre vocês, e ele lhes der um sinal ou uma maravilha,
 e o sinal ou a maravilha acontecer, do qual ele falou com vocês, dizendo: “Vamos atrás de outros deuses” (que vocês não conheceram) “e vamos servi-los”,
 vocês não ouvirão as palavras daquele profeta, ou daquele sonhador de sonhos; pois Yahweh seu Deus está testando vocês, para saber se amam Yahweh seu Deus com todo seu coração e com toda sua alma.
@@ -5289,7 +5290,6 @@ certamente atingirão os habitantes daquela cidade com o fio da espada, destruin
 recolherás todo seu saque no meio de sua rua, e queimarás com fogo a cidade, com todo seu saque, a Javé teu Deus. Será uma pilha para sempre. Não será construída novamente.
 Nada da coisa devota se agarrará à sua mão, para que Javé se converta da ferocidade de sua ira e mostre misericórdia, e tenha compaixão de você e multiplique você, como jurou a seus pais,
 quando ouvir a voz de Javé, seu Deus, para guardar todos os seus mandamentos que eu lhe ordeno hoje, para fazer o que é certo aos olhos de Javé, seu Deus.
-
 Vocês são os filhos de Yahweh, seu Deus. Vocês não se cortarão, nem farão calvície entre seus olhos para os mortos.
 Pois vós sois um povo santo para Javé vosso Deus, e Javé vos escolheu para serdes um povo para sua própria posse, acima de todos os povos que estão sobre a face da terra.
 Você não deve comer nenhuma coisa abominável.
@@ -5499,6 +5499,7 @@ mas para a senhora nada fareis. Não há na senhora nenhum pecado digno de morte
 pois ele a encontrou no campo, a senhora prometida em casamento chorou, e não havia ninguém para salvá-la.
 Se um homem encontra uma senhora que é virgem, que não se compromete a se casar, agarra-a e se deita com ela, e eles são encontrados,
 então o homem que se deitou com ela dará ao pai da senhora cinqüenta siclos de prata. Ela será sua esposa, porque ele a humilhou. Ele não poderá afastá-la todos os seus dias.
+A o homem não levará a esposa de seu pai, e não descobrirá a saia de seu pai.
 Aquele que for emasculado por esmagamento ou corte não entrará na assembléia de Yahweh.
 Uma pessoa nascida de uma união proibida não entrará na assembléia de Yahweh; mesmo a décima geração não entrará na assembléia de Yahweh.
 Um amonita ou um moabita não entrará na assembléia de Iavé; mesmo à décima geração ninguém pertencente a eles entrará para sempre na assembléia de Iavé,
@@ -5524,7 +5525,6 @@ Mas se você se abster de fazer um voto, não será pecado em você.
 Você deve observar e fazer o que saiu de seus lábios. O que quer que tenha prometido a Javé seu Deus como uma oferta de livre vontade, o que prometeu com sua boca, você deve fazer.
 Ao entrar na vinha de seu vizinho, você poderá comer a sua fartura de uvas a seu próprio prazer; mas não deve colocar nenhuma em seu recipiente.
 Ao entrar na vinha de seu vizinho, você poderá arrancar as espigas com a mão; mas não deverá usar uma foice no grão de seu vizinho.
-
 Quando um homem toma uma esposa e se casa com ela, então será, se ela não encontrar nenhum favor em seus olhos porque ele encontrou alguma coisa indecorosa nela, que ele lhe escreverá um certificado de divórcio, o colocará na mão dela e a enviará para fora de sua casa.
 Quando ela tiver saído de sua casa, ela poderá ir e ser a esposa de outro homem.
 Se o último marido a odiar, e lhe escrever uma certidão de divórcio, coloca-a na mão dela e a envia para fora de sua casa; ou se o último marido morrer, que a tomou para ser sua esposa;
@@ -5679,7 +5679,6 @@ Entre estas nações não encontrarás facilidade, e não haverá descanso para 
 Sua vida ficará em dúvida diante de você. Você terá medo noite e dia, e não terá nenhuma garantia de sua vida.
 De manhã você dirá: “Gostaria que fosse de noite” e à noite você dirá: “Gostaria que fosse de manhã”, pelo medo de seu coração que você temerá, e pelas visões que seus olhos verão.
 Yahweh o trará novamente ao Egito com navios, pelo qual eu lhe disse que nunca mais o veria novamente. Lá vocês se oferecerão a seus inimigos para escravos e escravas, e ninguém os comprará.
-
 Estas são as palavras do pacto que Javé ordenou a Moisés que fizesse com os filhos de Israel na terra de Moabe, além do pacto que ele fez com eles em Horeb.
 Moses chamou a todo Israel e disse-lhes: Seus olhos viram tudo o que Javé fez na terra do Egito ao Faraó, e a todos os seus servos, e a toda sua terra;
 as grandes provações que seus olhos viram, os sinais, e aquelas grandes maravilhas.
@@ -5708,6 +5707,7 @@ Então os homens dirão: “Porque abandonaram o pacto de Javé, o Deus de seus 
 e foram e serviram a outros deuses e os adoraram, deuses que eles não conheciam e que ele não lhes havia dado.
 Portanto, a raiva de Javé queimou contra esta terra, para trazer sobre ela todas as maldições que estão escritas neste livro.
 Yahweh tirou-os de sua terra com raiva, com ira e com grande indignação, e os empurrou para outra terra, como é hoje”.
+The coisas secretas pertencem a Javé, nosso Deus; mas as coisas que são reveladas pertencem a nós e a nossos filhos para sempre, para que possamos fazer todas as palavras desta lei.
 Acontecerá, quando todas estas coisas vierem sobre você, a bênção e a maldição, que coloquei diante de você, e você as chamará à mente entre todas as nações para onde Yahweh seu Deus o conduziu,
 e retornará a Yahweh seu Deus e obedecerá a sua voz de acordo com tudo o que eu lhe ordeno hoje, você e seus filhos, com todo seu coração e com toda sua alma,
 que então Javé seu Deus os libertará do cativeiro, terá compaixão de vocês, e retornará e os reunirá de todos os povos onde Javé seu Deus os espalhou.
@@ -7771,6 +7771,7 @@ Jonathan chorou depois do garoto: “Vá rápido! Rápido! Não demore!” O men
 Mas o garoto não sabia de nada. Somente Jonathan e David sabiam do assunto.
 Jonathan deu suas armas ao menino e lhe disse: “Vá, leve-as para a cidade”.
 Assim que o menino se foi, David se levantou do sul, caiu de cara no chão e se curvou três vezes. Eles se beijaram e choraram um com o outro, e David foi o que mais chorou.
+
 Jonathan disse a David: “Vá em paz, porque ambos juramos em nome de Javé, dizendo: 'Javé está entre mim e você, e entre minha descendência e sua descendência, para sempre'”. Ele se levantou e partiu; e Jonathan foi para a cidade.
 Então David veio a Nob para Ahimelech, o padre. Ahimelech veio ao encontro de David tremendo, e lhe disse: “Por que você está sozinho, e nenhum homem com você?
 David disse a Ahimelech, o sacerdote: “O rei me ordenou que fizesse algo, e me disse: 'Que ninguém saiba nada sobre os negócios sobre os quais eu te envio, e o que eu te ordenei'. Enviei os jovens para um certo lugar”.
@@ -7787,7 +7788,6 @@ Davi colocou estas palavras em seu coração, e tinha muito medo de Alcançar o 
 Ele mudou seu comportamento diante deles e fingiu estar louco em suas mãos, e rabiscou nas portas do portão, e deixou sua saliva cair sobre sua barba.
 Então Achish disse a seus servos: “Vejam, vocês vêem que o homem é louco”. Por que então você o trouxe até mim?
 Faltam-me loucos, que você tenha trazido este homem para fazer de louco na minha presença? Este companheiro deveria entrar em minha casa?”
-
 David partiu de lá e fugiu para a caverna de Adullam. Quando seus irmãos e toda a casa de seu pai ouviram isso, foram até lá para ele.
 Todos os que estavam em perigo, todos os que estavam em débito e todos os que estavam descontentes se reuniram a ele; e ele se tornou capitão sobre eles. Havia com ele cerca de quatrocentos homens.
 David foi de lá para Mizpeh dos Moab; e disse ao rei dos Moab: “Por favor, deixe meu pai e minha mãe virem até você, até que eu saiba o que Deus fará por mim”.
@@ -7839,6 +7839,7 @@ Saul e seus homens foram em busca dele. Quando David foi avisado, ele desceu à 
 Saul foi deste lado da montanha, e Davi e seus homens daquele lado da montanha; e Davi apressou-se a fugir por medo de Saul, pois Saul e seus homens cercaram Davi e seus homens para levá-los.
 Mas um mensageiro veio a Saul, dizendo: “Apresse-se e venha, pois os filisteus fizeram uma incursão na terra”.
 Então Saul voltou de perseguir Davi, e foi contra os filisteus. Portanto, chamaram aquele lugar de Sela Hammahlekoth.
+David subiu de lá e viveu nos bastiões de En Gedi.
 Quando Saul voltou de seguir os filisteus, foi-lhe dito: “Eis que David está no deserto de En Gedi”.
 Então Saul tirou três mil homens escolhidos de todo Israel, e foi procurar Davi e seus homens nas rochas das cabras selvagens.
 A propósito, ele chegou aos currais de ovelhas, onde havia uma caverna; e Saul entrou para se aliviar. Agora Davi e seus homens estavam hospedados nas partes mais internas da caverna.
@@ -7861,7 +7862,6 @@ Pois se um homem encontra seu inimigo, será que ele o deixará ir embora ileso?
 Agora, eis que eu sei que você certamente será rei e que o reino de Israel será estabelecido em suas mãos.
 Jura-me agora, portanto, por Javé, que não cortarás minha prole após mim, e que não destruirás meu nome fora da casa de meu pai”.
 David jurou a Saul. Saul foi para casa, mas David e seus homens subiram para a fortaleza.
-
 Samuel morreu; e todo Israel se reuniu e chorou por ele, e o enterrou em sua casa em Ramah. Então David levantou-se e desceu para o deserto de Paran.
 Havia um homem em Maon cujos bens estavam no Carmelo; e o homem era muito grande. Ele tinha três mil ovelhas e mil cabras; e estava tosquiando suas ovelhas no Carmelo.
 Agora o nome do homem era Nabal; e o nome de sua esposa Abigail. Esta mulher era inteligente e tinha um rosto bonito; mas o homem era rude e malvado em suas ações. Ele era da casa de Caleb.
@@ -8511,6 +8511,7 @@ O rei disse: “Está tudo bem com o jovem Absalom”? Ahimaaz respondeu: “Qua
 O rei disse: “Venha e fique aqui”. Ele veio e ficou parado.
 Eis que veio o Cushite. O Cushite disse: “Boas notícias para meu senhor, o rei, pois Javé vingou-vos hoje de todos aqueles que se levantaram contra vós”.
 O rei disse ao Cushite: “Está tudo bem com o jovem Absalom”? O Cushite respondeu: “Que os inimigos de meu senhor, o rei, e todos os que se levantam contra vós para fazer-vos mal, sejam como aquele jovem é”.
+The o rei ficou muito emocionado, e subiu para a sala por cima do portão e chorou. Ao ir, ele disse: “Meu filho Absalom! Meu filho, meu filho Absalom! Quem me dera ter morrido ao invés de você, Absalom, meu filho, meu filho”!
 Joab foi informado: “Eis que o rei chora e chora por Absalom”.
 A vitória naquele dia se transformou em luto entre todo o povo, pois o povo ouviu dizer naquele dia: “O rei está de luto por seu filho”.
 As pessoas entraram furtivamente na cidade naquele dia, como pessoas que têm vergonha de roubar quando fogem em batalha.
@@ -8554,7 +8555,6 @@ Então o rei foi até Gilgal, e Chimham foi com ele. Todo o povo de Judá trouxe
 Behold, todos os homens de Israel vieram ao rei, e disseram ao rei: “Por que nossos irmãos os homens de Judá te roubaram, e trouxeram o rei e sua casa, sobre o Jordão, e todos os homens de Davi com ele”?
 Todos os homens de Judá responderam aos homens de Israel: “Porque o rei é um parente próximo de nós”. Por que, então, você está zangado com este assunto? Será que comemos a todo custo do rei? Ou será que ele nos deu algum presente?”
 Os homens de Israel responderam aos homens de Judá, e disseram: “Temos dez partes no rei, e também temos mais reivindicações para Davi do que vocês”. Por que então nos desprezaram, que nosso conselho não deveria ser o primeiro a trazer de volta nosso rei”? As palavras dos homens de Judá foram mais ferozes do que as palavras dos homens de Israel.
-
 Aconteceu que estava ali um malvado, cujo nome era Sheba, filho de Bichri, um benjamita; e ele tocou a trombeta, e disse: “Não temos parte em David, nem herdamos no filho de Jesse. Cada homem para suas tendas, Israel”!
 Assim, todos os homens de Israel passaram a seguir Davi, e seguiram Sabá, filho de Bicri; mas os homens de Judá se uniram ao seu rei, desde o Jordão até Jerusalém.
 David veio a sua casa em Jerusalém; e o rei levou as dez concubinas, que ele havia deixado para manter a casa, e as colocou sob custódia e lhes deu sustento, mas não as acolheu. Então elas ficaram fechadas até o dia de sua morte, vivendo na viuvez.
@@ -8865,6 +8865,20 @@ Jehoshaphat o filho de Paruah, em Issachar;
 Shimei o filho de Ela, em Benjamin;
 Geber o filho de Uri, na terra de Gilead, o país de Sihon rei dos amorreus e de Og rei de Basã; e ele era o único oficial que estava na terra.
 Judah e Israel eram numerosos como a areia que está à beira-mar em multidão, comendo, bebendo e alegrando.
+Solomon governou sobre todos os reinos desde o rio até a terra dos filisteus, e até a fronteira do Egito. Eles trouxeram tributo e serviram a Salomão todos os dias de sua vida. A provisão do
+Solomon para um dia era de trinta coros de farinha fina, sessenta medidas de farinha,
+ten cabeça de gado gordo, vinte cabeças de gado dos pastos e cem ovelhas, além de veados, gazelas, corços e galinhas engordadas.
+For ele tinha domínio sobre todos deste lado do rio, desde Tiphsah até Gaza, sobre todos os reis deste lado do rio; e ele tinha paz em todos os lados ao seu redor.
+Judah e Israel vivia em segurança, cada homem sob sua videira e sob sua figueira, desde Dan até Beersheba, todos os dias de Salomão.
+Solomon tinha quarenta mil baias de cavalos para suas carruagens, e doze mil cavaleiros.
+Those os oficiais forneciam comida para o rei Salomão, e para todos os que vinham à mesa do rei Salomão, cada homem em seu mês. Eles não deixaram faltar nada.
+They também trouxe cevada e palha para os cavalos e corcéis velozes para o lugar onde estavam os oficiais, cada homem de acordo com seu dever.
+God deu a Salomão abundante sabedoria, compreensão e amplitude de espírito como a areia que está à beira-mar. A sabedoria do
+Solomon superou a sabedoria de todas as crianças do oriente e toda a sabedoria do Egito.
+For ele era mais sábio do que todos os homens - mais sábio do que Ethan, o Ezraíta, Heman, Calcol e Darda, os filhos de Mahol; e sua fama estava em todas as nações ao redor.
+He falava três mil provérbios, e suas canções eram de mil e cinco.
+He falava de árvores, desde o cedro que está no Líbano até o hissopo que cresce fora do muro; ele também falava de animais, de pássaros, de coisas rastejantes e de peixes.
+People de todas as nações veio para ouvir a sabedoria de Salomão, enviada por todos os reis da terra que tinham ouvido falar de sua sabedoria.
 Hiram o rei de Tiro enviou seus servos a Salomão, pois tinha ouvido dizer que o haviam ungido rei no lugar de seu pai, e Hiram sempre havia amado Davi.
 Salomão enviou a Hirão, dizendo:
 “Você sabe que David meu pai não pôde construir uma casa com o nome de Yahweh seu Deus por causa das guerras que o rodeavam de todos os lados, até que Yahweh colocou seus inimigos sob as solas de seus pés.
@@ -8883,20 +8897,6 @@ Salomão tinha setenta mil que carregavam fardos, e oitenta mil que eram cortado
 besides Os chefes de Salomão que estavam sobre o trabalho: três mil e trezentos que governavam sobre as pessoas que trabalhavam no trabalho.
 O rei ordenou, e eles cortaram grandes pedras, pedras caras, para assentar a fundação da casa com pedra trabalhada. Os construtores de
 Solomon e os construtores do Hiram e os Gebalitas cortaram-nas e prepararam a madeira e as pedras para construir a casa.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 No quadragésimo oitavo ano após os filhos de Israel terem saído da terra do Egito, no quarto ano do reinado de Salomão sobre Israel, no mês de Ziv, que é o segundo mês, ele começou a construir a casa de Yahweh.
 A casa que o rei Salomão construiu para Iavé tinha um comprimento de sessenta côvados, e sua largura vinte, e sua altura trinta côvados.
 O alpendre em frente ao templo da casa tinha um comprimento de vinte côvados, que era ao longo da largura da casa. Dez côvados era sua largura em frente à casa.
@@ -9523,6 +9523,7 @@ Agora o resto dos atos de Ahab, e tudo o que ele fez, e a casa de marfim que ele
 So Acabe dormiu com seus pais; e Acazias, seu filho, reinou em seu lugar.
 Jehoshaphat, filho de Asa, começou a reinar sobre Judá no quarto ano de Acabe, rei de Israel.
 Jehosafá tinha trinta e cinco anos quando começou a reinar; e reinou vinte e cinco anos em Jerusalém. O nome de sua mãe era Azuba, filha de Shilhi.
+
 Ele andou por todo o caminho de Asa, seu pai. Ele não se desviou dele, fazendo o que estava certo aos olhos de Iavé. Entretanto, os lugares altos não foram tirados. O povo ainda sacrificava e queimava incenso nos lugares altos.
 Jehoshaphat fez a paz com o rei de Israel.
 Now o resto dos atos de Jehoshaphat, e sua força que ele mostrou, e como ele lutou, não estão escritos no livro das crônicas dos reis de Judá?
@@ -9534,7 +9535,6 @@ Jehoshaphat dormiu com seus pais, e foi enterrado com seus pais na cidade de seu
 Ahaziah o filho de Acabe começou a reinar sobre Israel em Samaria no décimo sétimo ano de Jeosafá, rei de Judá, e reinou dois anos sobre Israel.
 Ele fez o que era mau aos olhos de Javé, e caminhou no caminho de seu pai, e no caminho de sua mãe, e no caminho de Jeroboão, filho de Nebate, no qual ele fez Israel pecar.
 Ele serviu a Baal e o adorou, e provocou Javé, o Deus de Israel, à ira de todas as maneiras que seu pai havia feito.
-
 Moab se rebelou contra Israel após a morte de Ahab.
 Ahaziah caiu através da grade de seu quarto superior que estava em Samaria, e estava doente. Então ele enviou mensageiros e disse a eles: “Vá, pergunte a Baal Zebub, o deus de Ecron, se eu vou me recuperar desta doença”.
 Mas o anjo de Javé disse a Elias, o tishbite: “Levanta-te, vai ao encontro dos mensageiros do rei de Samaria e diz-lhes: 'É porque não há Deus em Israel que vocês vão perguntar a Baal Zebub, o deus de Ecrom?
@@ -9851,6 +9851,7 @@ Jehoiada fez um pacto entre Javé e o rei e o povo, de que eles deveriam ser o p
 Todo o povo da terra foi para a casa de Baal, e a quebrou. Eles quebraram seus altares e suas imagens completamente em pedaços, e mataram Mattan, o sacerdote de Baal, antes dos altares. O padre nomeou oficiais sobre a casa de Yahweh.
 Ele tomou os capitães por centenas, e os caritas, e a guarda, e todo o povo da terra; e eles derrubaram o rei da casa de Javé, e vieram pelo caminho do portão da guarda até a casa do rei. Ele se sentou no trono dos reis.
 Então todo o povo da terra se alegrou, e a cidade ficou quieta. Eles tinham matado Ataliah com a espada na casa do rei.
+Jehoash tinha sete anos de idade quando ele começou a reinar.
 Jehoash começou a reinar no sétimo ano de Jehu, e ele reinou quarenta anos em Jerusalém. O nome de sua mãe era Zíbia de Berseba.
 Jehoash fez o que estava certo aos olhos de Iavé todos os seus dias em que Jehoiada, o sacerdote, o instruiu.
 However, os lugares altos não lhe foram tirados. O povo ainda sacrificava e queimava incenso nos lugares altos.
@@ -9872,7 +9873,6 @@ Jehoash rei de Judá tomou todas as coisas sagradas que Jeosafá e Jeorão e Aca
 Now o resto dos atos de Joás, e tudo o que ele fez, não estão escritos no livro das crônicas dos reis de Judá?
 seus servos se levantaram e fizeram uma conspiração, e atingiram Joás na casa de Millo, no caminho que desce até Silla.
 Pois Jozacar, filho de Shimeath, e Jehozabad, filho de Shomer, seus servos, o atingiram e ele morreu; e o enterraram com seus pais na cidade de David; e Amaziah, seu filho, reinou em seu lugar.
-
 No vigésimo terceiro ano de Joás, filho de Acazias, rei de Judá, Jeoacaz, filho de Jeú, começou a reinar sobre Israel em Samaria por dezessete anos.
 Ele fez o que era mau aos olhos de Iavé, e seguiu os pecados de Jeroboão, filho de Nebate, com os quais ele fez Israel pecar. Ele não se afastou dele.
 A raiva de Javé queimou contra Israel, e ele os entregou na mão de Hazael, rei da Síria, e na mão de Benhadad, filho de Hazael, continuamente.
@@ -10456,21 +10456,6 @@ As crianças da meia tribo de Manasseh viviam na terra. Eles aumentaram de Basha
 Estes eram os chefes das casas de seus pais: Epher, Ishi, Eliel, Azriel, Jeremias, Hodaviah e Jahdiel - homens de valor, homens famosos, chefes das casas de seus pais.
 Eles transgrediram o Deus de seus pais e se prostituíram após os deuses dos povos da terra que Deus destruiu antes deles.
 Então o Deus de Israel despertou o espírito de Pul, rei da Assíria, e o espírito de Tilgath Pilneser, rei da Assíria, e levou os rubenitas, os gaditas e a meia tribo de Manassés, e os trouxe para Halah, Habor, Hara e para o rio de Gozan, até os dias de hoje.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Os filhos de Levi: Gershon, Kohath, e Merari.
 Os filhos de Kohath: Amram, Izhar, Hebron, e Uzziel.
 Os filhos de Amram: Aaron, Moisés, e Miriam. Os filhos de Aarão: Nadab, Abihu, Eleazar, e Ithamar.
@@ -10537,6 +10522,21 @@ Aos filhos de Merari foram dados por sorteio, de acordo com suas famílias, da t
 Os filhos de Israel deram aos levitas as cidades com suas terras de pasto.
 They deram por sorteio fora da tribo dos filhos de Judá, e fora da tribo dos filhos de Simeão, e fora da tribo dos filhos de Benjamim, estas cidades que são mencionadas pelo nome.
 Some das famílias dos filhos de Kohath tinham cidades de suas fronteiras fora da tribo de Efraim.
+They deu-lhes as cidades de refúgio, Shechem na região montanhosa de Ephraim com suas terras de pasto e Gezer com suas terras de pasto,
+Jokmeam com suas terras de pasto, Beth Horon com suas terras de pasto,
+Aijalon com suas terras de pasto, Gath Rimmon com suas terras de pasto;
+and da meia tribo de Manasseh, Aner com suas terras de pasto e Bileam com suas terras de pasto, para o resto da família dos filhos de Kohath.
+To foram dados os filhos de Gershom, da família da meia tribo de Manasseh, Golan em Bashan com suas terras de pasto, e Ashtaroth com suas terras de pasto;
+and da tribo de Issachar, Kedesh com suas terras de pasto, Daberath com suas terras de pasto,
+Ramoth com suas terras de pasto, e Anem com suas terras de pasto;
+and da tribo de Asher, Mashal com suas terras de pasto, Abdon com suas terras de pasto,
+Hukok com suas terras de pasto, e Rehob com suas terras de pasto;
+and da tribo de Naftali, Kedesh na Galiléia com suas terras de pasto, Hammon com suas terras de pasto, e Kiriathaim com suas terras de pasto.
+To os demais levitas, os filhos de Merari, foram dados fora da tribo de Zebulun, Rimmono com suas terras de pasto, e Tabor com suas terras de pasto;
+and além do Jordão em Jericó, no lado leste do Jordão, foram dados fora da tribo de Reuben: Bezer no deserto com suas terras de pasto, Jahzah com suas terras de pasto,
+Kedemoth com suas terras de pasto, e Mephaath com suas terras de pasto;
+and fora da tribo de Gad, Ramoth em Gilead com suas terras de pasto, Mahanaim com suas terras de pasto,
+Heshbon com suas terras de pasto, e Jazer com suas terras de pasto.
 Dos filhos de Issachar: Tola, Puah, Jashub, e Shimron, quatro.
 Dos filhos de Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam e Shemuel, chefes das casas de seus pais, de Tola; poderosos homens de valor em suas gerações. O número deles nos dias de Davi era de vinte e dois mil e seiscentos.
 O filho de Uzzi: Izrahiah. Os filhos de Izrahiah: Michael, Obadiah, Joel, e Isshiah, cinco; todos eles homens chefes.
@@ -10725,6 +10725,7 @@ Eliel, Obed, e Jaasiel o Mezobaite.
 Agora são aqueles que vieram a David para Ziklag enquanto ele era um fugitivo de Saul, o filho de Kish. Eles estavam entre os homens poderosos, seus ajudantes na guerra.
 They estavam armados com arcos, e podiam usar tanto a mão direita quanto a esquerda em pedras de funda e em atirar flechas do arco. Eles eram parentes de Saul, da tribo de Benjamin.
 O chefe era Ahiezer, depois Joás, os filhos de Shemaah o Gibeathite; Jeziel e Pelet, os filhos de Azmaveth; Beracah; Jehu o Anatotita;
+
 Ismaías o Gibeonita, um homem poderoso entre os trinta e um líder dos trinta; Jeremias; Jaaziel; Johanan; Jozabad, o Gederatita;
 Eluzai; Jerimoth; Bealia; Shemaria; Shephatiah, o harufita;
 Elkanah, Isshiah, Azarel, Joezer e Jashobeam, os coraítas;
@@ -10762,7 +10763,6 @@ Do outro lado do Jordão, dos rubenitas, dos gaditas e da meia tribo de Manassé
 Todos estes eram homens de guerra que podiam ordenar a batalha, e vieram com um coração perfeito a Hebron para fazer Davi rei sobre todo Israel; e todo o resto de Israel também tinha um só coração para fazer Davi rei.
 Eles estiveram lá com Davi três dias, comendo e bebendo; pois seus irmãos haviam fornecido provisões para eles.
 Além disso, aqueles que estavam perto deles, até Issachar, Zebulun e Naftali, traziam pão sobre burros, camelos, mulas e bois: suprimento de farinha, bolos de figos, cachos de passas, vinho, azeite, gado e ovelhas em abundância; pois havia alegria em Israel.
-
 David consultou os capitães de milhares e de centenas, mesmo com todos os líderes.
 David disse a toda a assembléia de Israel: “Se vos parece bom, e se é de Javé nosso Deus, mandemos notícias por toda parte aos nossos irmãos que ficam em toda a terra de Israel, com quem os sacerdotes e levitas estão em suas cidades que têm terras de pasto, para que se reúnam a nós”.
 Também, vamos trazer a arca de nosso Deus de volta para nós, pois não a buscamos nos dias de Saul”.
@@ -11214,7 +11214,6 @@ Salomão reuniu carruagens e cavaleiros. Ele tinha mil e quatrocentos carros e d
 O rei fez a prata e o ouro para serem tão comuns como as pedras em Jerusalém, e fez os cedros para serem tão comuns como os sicômoros que estão nas terras baixas.
 Os cavalos que Salomão tinha foram trazidos do Egito e de Kue. Os mercadores do rei os compraram de Kue.
 Importaram do Egito e depois exportaram uma carruagem por seiscentas peças de prata e um cavalo por cento e cinqüenta. Eles também as exportaram para os reis hititas e para os reis sírios.
-
 Now Salomão decidiu construir uma casa para o nome de Iavé e uma casa para seu reino.
 Salomão contou com setenta mil homens para carregar fardos, oitenta mil homens que eram cortadores de pedra nas montanhas e três mil e seiscentos para supervisioná-los.
 Solomon enviou a Huram, o rei de Tiro, dizendo: “Como você lidou com David, meu pai, e lhe enviou cedros para construir-lhe uma casa na qual morar, assim lidem comigo”.
@@ -11232,6 +11231,7 @@ o filho de uma mulher das filhas de Dan; e seu pai era um homem de Tiro. Ele é 
 “Agora, portanto, o trigo, a cevada, o azeite e o vinho de que meu senhor falou, que ele envie a seus servos;
 e nós cortaremos a madeira do Líbano, tanto quanto você precisar. Nós a traremos em jangadas por mar até Joppa; depois a levareis até Jerusalém”.
 Solomon contou todos os estrangeiros que estavam na terra de Israel, após o censo com o qual David, seu pai, os contou; e eles encontraram cento e cinqüenta e três mil e seiscentos.
+He fixou setenta mil deles para suportar fardos, oitenta mil que eram cortadores de pedra nas montanhas e três mil e seiscentos supervisores para atribuir ao povo seu trabalho.
 Então Salomão começou a construir a casa de Javé em Jerusalém no Monte Moriah, onde Javé apareceu a Davi, seu pai, que ele preparou no lugar que Davi havia designado, na eira de Ornan, o jebuseu.
 Ele começou a construir no segundo dia do segundo mês, no quarto ano de seu reinado.
 Now estas são as fundações que Salomão lançou para a construção da casa de Deus: o comprimento em cúbitos após a primeira medida era de sessenta cúbitos, e a largura de vinte cúbitos.
@@ -11478,7 +11478,6 @@ Abijah perseguiu Jeroboão e lhe tirou cidades: Bethel com suas aldeias, Jeshana
 Jeroboam não recuperou forças novamente nos dias de Abijah. Yahweh o atingiu, e ele morreu.
 Mas Abijah cresceu poderoso e tomou para si catorze esposas, e se tornou o pai de vinte e dois filhos e dezesseis filhas.
 O resto dos atos de Abijah, seus caminhos e seus ditos estão escritos no comentário do profeta Iddo.
-
 Então Abijah dormiu com seus pais, e eles o enterraram na cidade de David; e Asa, seu filho, reinou em seu lugar. Em seus dias, a terra estava tranqüila há dez anos.
 Asa fez o que era bom e correto aos olhos de Javé seu Deus,
 pois ele tirou os altares estrangeiros e os lugares altos, quebrou os pilares, cortou os postes de Asherah,
@@ -11493,6 +11492,7 @@ Asa gritou a Javé seu Deus, e disse: “Javé, não há ninguém além de você
 Então Yahweh atingiu os etíopes antes de Asa e antes de Judah; e os etíopes fugiram.
 Asa e as pessoas que estavam com ele os perseguiram até Gerar. Tantos etíopes caíram que não puderam se recuperar, pois foram destruídos antes de Yahweh e antes de seu exército. O exército de Judá levou muito espólio.
 Eles atacaram todas as cidades ao redor de Gerar, pois o medo de Yahweh veio sobre eles. Eles saquearam todas as cidades, pois havia muito saque nelas.
+They também atingiram as tendas dos que tinham gado, e levaram ovelhas e camelos em abundância, e depois voltaram para Jerusalém.
 O Espírito de Deus veio sobre Azariah, o filho de Oded.
 Ele saiu ao encontro de Asa, e lhe disse: “Ouça-me, Asa, e todo Judá e Benjamim! Javé está com você enquanto você está com ele; e se você o procurar, ele será encontrado por você; mas se você o abandonar, ele o abandonará.
 Agora por muito tempo Israel esteve sem o verdadeiro Deus, sem um padre educador e sem lei.
@@ -12362,12 +12362,6 @@ Depois deles, Zadok, o filho de Immer, fez reparos do outro lado de sua própria
 Depois dele, Hananiah, filho de Selemias, e Hanun, o sexto filho de Zalaf, repararam outra porção. Depois dele, Meshullam, o filho de Berequias, fez reparos do outro lado de seu quarto.
 Depois dele, Malchijah, um dos ourives da casa dos criados do templo, e dos comerciantes, fez reparos em frente ao portão de Hammiphkad e à subida da esquina.
 Entre a subida da esquina e o portão das ovelhas, os ourives e os mercadores fizeram reparos.
-
-
-
-
-
-
 Mas quando Sanballat ouviu que estávamos construindo o muro, ficou furioso, e ficou muito indignado, e zombou dos judeus.
 Ele falou diante de seus irmãos e do exército de Samaria, e disse: “O que esses judeus fracos estão fazendo? Será que eles se fortificarão? Será que eles vão se sacrificar? Será que vão terminar em um dia? Reanimarão as pedras dos montes de lixo, já que estão queimadas?”
 Now Tobias, o amonita, estava por ele, e disse: “O que eles estão construindo, se uma raposa subisse, ele derrubaria sua parede de pedra”.
@@ -12385,6 +12379,12 @@ Olhei, e me levantei, e disse aos nobres, aos governantes, e ao resto do povo: �
 Quando nossos inimigos souberam que era do nosso conhecimento, e que Deus tinha levado seus conselhos a nada, todos nós voltamos à parede, todos ao seu trabalho.
 Daquele tempo em diante, metade dos meus servos fez o trabalho, e metade deles segurava as lanças, os escudos, os arcos e as capas de correio; e os governantes estavam atrás de toda a casa de Judá.
 Aqueles que construíram o muro, e aqueles que carregaram fardos se carregaram; todos com uma de suas mãos faziam o trabalho, e com a outra segurava sua arma.
+Among os construtores, todos usavam sua espada ao seu lado, e assim construíram. Aquele que tocou a trombeta foi por mim.
+I disse aos nobres, e aos governantes e ao resto do povo: “A obra é grande e amplamente difundida, e estamos separados na parede, longe um do outro.
+Wherever você ouve o som da trombeta, junte-se a nós”. Nosso Deus lutará por nós”.
+So nós fizemos o trabalho. Metade das pessoas seguraram as lanças desde a subida da manhã até o aparecimento das estrelas.
+Likewise ao mesmo tempo eu disse ao povo: “Que todos com seu servo se hospedem em Jerusalém, para que à noite possam ser nossos guardas, e possam trabalhar durante o dia”.
+So nem eu, nem meus irmãos, nem meus servos, nem os homens da guarda que me seguiram tiraram nossas roupas. Todos levaram sua arma para a água.
 Então surgiu um grande grito do povo e de suas esposas contra seus irmãos, os judeus.
 Pois houve quem dissesse: “Nós, nossos filhos e nossas filhas, somos muitos”. Vamos buscar grãos, para que possamos comer e viver”.
 Houve também alguns que disseram: “Estamos hipotecando nossos campos, nossos vinhedos e nossas casas”. Vamos conseguir grãos, por causa da fome”.
@@ -12490,11 +12490,11 @@ Estes procuraram seus registros genealógicos, mas não conseguiram encontrá-lo
 O governador lhes disse para não comerem das coisas mais sagradas até que um sacerdote se levantasse para ministrar com Urim e Thummim.
 Toda a assembléia, em conjunto, foi quarenta e dois mil trezentos e sessenta,
 além de seus servos masculinos e femininos, dos quais havia sete mil trezentos e trinta e sete. Eles tinham duzentos e quarenta e cinco homens e mulheres cantando.
-Their os cavalos eram setecentos e trinta e seis; suas mulas, duzentas e quarenta e cinco;
-seus camelos, quatrocentos e trinta e cinco; seus burros, seis mil setecentos e vinte.
+Their os cavalos eram setecentos e trinta e seis; suas mulas, duzentas e quarenta e cinco; seus camelos, quatrocentos e trinta e cinco; seus burros, seis mil setecentos e vinte.
 Some de entre os chefes de família dos pais deram para o trabalho. O governador doou ao tesouro mil dracmas de ouro, cinqüenta bacias e quinhentos e trinta vestes de padres.
 Alguns dos chefes de família dos pais doaram à tesouraria da obra vinte mil dracmas de ouro e duas mil e duzentas minas de prata.
 O que o resto do povo deu foram vinte mil dracmas de ouro, mais duas mil minas de prata e sessenta e sete vestes sacerdotais.
+So os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servos do templo, e todo Israel viviam em suas cidades. Quando chegou o sétimo mês, as crianças de Israel estavam em suas cidades.
 Todo o povo se reuniu como um só homem no amplo lugar que estava em frente ao portão da água; e falaram com Esdras, o escriba, para trazer o livro da lei de Moisés, que Javé havia ordenado a Israel.
 Esdras, o sacerdote, trouxe a lei perante a assembléia, tanto homens como mulheres, e todos os que puderam ouvir com compreensão, no primeiro dia do sétimo mês.
 Ele leu a partir dela diante do amplo lugar que estava em frente ao portão da água desde cedo até o meio-dia, na presença dos homens e das mulheres, e daqueles que podiam entender. Os ouvidos de todo o povo estavam atentos ao livro da lei.
@@ -12550,6 +12550,7 @@ Também nossos reis, nossos príncipes, nossos padres e nossos pais não guardar
 Pois eles não vos serviram em seu reino, e em vossa grande bondade que lhes destes, e na grande e rica terra que destes diante deles. Eles não se desviaram de suas obras perversas.
 “Eis que hoje somos servos, e quanto à terra que o senhor deu a nossos pais para comer seus frutos e seu bem, eis que somos servos nela.
 Cede muito mais aos reis que o senhor colocou sobre nós por causa de nossos pecados. Eles também têm poder sobre nosso corpo e sobre nosso gado, a seu gosto, e nós estamos em grande angústia.
+Yet por tudo isso, fazemos um pacto seguro, e o escrevemos; e nossos príncipes, nossos levitas, e nossos sacerdotes, o selam”.
 Now foram aqueles que selaram: Neemias o governador, filho de Hacalias, e Zedequias,
 Seraiah, Azarias, Jeremias,
 Pashhur, Amarias, Malchijah,
@@ -12589,7 +12590,6 @@ também o primogênito de nossos filhos e de nosso gado, como está escrito na l
 e que devemos levar as primeiras frutas de nossa massa, nossas ofertas de ondas, os frutos de todos os tipos de árvores, o vinho novo e o óleo, aos sacerdotes, aos quartos da casa de nosso Deus; e os dízimos de nossa terra aos levitas; pois eles, os levitas, levam os dízimos em todas as nossas aldeias agrícolas.
 O sacerdote, o descendente de Aarão, estará com os levitas quando os levitas levarem o dízimo. Os levitas levarão o dízimo dos dízimos para a casa de nosso Deus, para os cômodos, para a casa do tesouro.
 Para os filhos de Israel e os filhos de Levi trarão a oferta ondulante do grão, do vinho novo e do azeite para as salas onde se encontram os vasos do santuário, e os sacerdotes que ministram, com os porteiros e os cantores. Não abandonaremos a casa de nosso Deus.
-
 Os príncipes do povo viviam em Jerusalém. O resto do povo também lançou sortes para trazer um de dez para morar em Jerusalém, a cidade santa, e nove partes nas outras cidades.
 O povo abençoou todos os homens que voluntariamente se ofereceram para morar em Jerusalém.
 Now estes são os chefes da província que viviam em Jerusalém; mas nas cidades de Judá, todos viviam em sua posse em suas cidades - Israel, os sacerdotes, os levitas, os servos do templo e os filhos dos servos de Salomão.
@@ -13890,14 +13890,6 @@ Ele está deitado sob as árvores de lótus, na coberta da palheta, e no pântan
 Os lótus o cobrem com sua sombra. Os salgueiros do riacho o cercam.
 Veja, se um rio transborda, ele não treme. Ele está confiante, embora o Jordão incha até a boca.
 Shall qualquer um o pegue quando ele estiver no turno, ou furar-lhe o nariz com uma armadilha?
-
-
-
-
-
-
-
-
 “Você pode retirar o Leviatã com um anzol de peixe, ou pressionar sua língua com um cordão?
 Você pode colocar uma corda em seu nariz, ou trespassar o maxilar com um gancho?
 Ele fará muitas petições a você, ou ele lhe dirá palavras suaves?
@@ -13924,6 +13916,14 @@ Os flocos de sua carne são unidos. Eles são firmes com ele. Eles não podem se
 Seu coração é tão firme como uma pedra, sim, firme como a pedra de moinho inferior.
 Quando ele se levanta, os poderosos têm medo. Eles se retiram antes de seu espancamento.
 Se alguém o ataca com a espada, ela não pode prevalecer; nem a lança, o dardo, nem o eixo pontiagudo.
+He conta o ferro como palha, e bronze como madeira podre.
+The seta não pode faze-lo fugir. As pedras de fundição são como palha para ele.
+Clubs são contados como restolho. Ele ri da pressa do dardo de arremesso.
+His As partes inferiores são como cacos afiados, deixando um rastro na lama como uma debulhadora.
+He faz o fundo ferver como uma panela. Ele faz o mar como um pote de ungüento.
+He faz brilhar um caminho atrás dele. Poder-se-ia pensar que o fundo tinha cabelos brancos.
+On terra lá não é igual a ele, que é feito sem medo.
+He vê tudo que é alto. Ele é rei sobre todos os filhos do orgulho”.
 Então Job respondeu Yahweh:
 “Eu sei que você pode fazer todas as coisas, e que nenhum propósito seu pode ser contido.
 Você perguntou: 'Quem é este que esconde conselhos sem conhecimento?'. Portanto, eu pronunciei aquilo que não entendia, coisas maravilhosas demais para mim, o que eu não sabia.
@@ -13959,6 +13959,7 @@ Você deve quebrá-los com uma barra de ferro. Você os despedaçará como um va
 Agora, portanto, sejam prudentes, seus reis. Sejam instruídos, vocês juízes da Terra.
 Servir Yahweh com medo, e se regozijam com tremor.
 Preste uma sincera homenagem ao Filho, para que ele não se zangue, e pereça no caminho, por sua ira em breve será acesa. Abençoados sejam todos aqueles que se refugiam nele.
+
 Yahweh, como aumentaram os meus adversários! Muitos são aqueles que se levantam contra mim.
 Muitos são os que dizem de minha alma, “Não há ajuda para ele em Deus”. Selah.
 Mas você, Yahweh, é um escudo ao meu redor, minha glória, e aquele que me levanta a cabeça.
@@ -14049,7 +14050,6 @@ Os ímpios devem voltar para o Sheol, mesmo todas as nações que se esquecem de
 Para os necessitados não deve ser sempre esquecido, nem a esperança dos pobres perece para sempre.
 Arise, Yahweh! Não deixe o homem prevalecer. Deixe que as nações sejam julgadas à sua vista.
 Put eles com medo, Yahweh. Deixe as nações saberem que elas são apenas homens. Selah.
-
 Por que você está longe, Yahweh? Por que você se esconde em tempos de dificuldade?
 Na arrogância, os malvados caçam os fracos. Eles estão presos nos esquemas que elaboram.
 Pois os ímpios se vangloriam dos anseios de seu coração. Ele abençoa os gananciosos e condena Yahweh.
@@ -14075,6 +14075,7 @@ Yahweh está em seu templo sagrado. Yahweh está em seu trono no céu. Seus olho
 Yahweh examina os justos, mas sua alma odeia os ímpios e aquele que ama a violência.
 Sobre o malvado choverá brasas em chamas; fogo, enxofre e vento abrasador será a porção de seu copo.
 Pois Yahweh é justo. Ele ama a retidão. O erguido deve ver seu rosto.
+
 Help, Yahweh; pois o homem piedoso cessa. Pois os fiéis falham entre os filhos dos homens.
 Todos mentem ao seu próximo. Eles falam com lábios lisonjeiros, e com um coração duplo.
 Que Yahweh corte todos os lábios lisonjeiros, e a língua que se vangloria,
@@ -14088,8 +14089,7 @@ How long, Yahweh? Você vai me esquecer para sempre? Por quanto tempo você vai 
 Por quanto tempo devo me aconselhar em minha alma, tendo tristeza em meu coração todos os dias? Por quanto tempo meu inimigo triunfará sobre mim?
 Behold, e responde-me, Yahweh, meu Deus. Dêem luz aos meus olhos, para que eu não durma na morte;
 para que meu inimigo não diga: “Eu prevaleci contra ele”. para que meus adversários não se regozijem quando eu cair.
-Mas eu confio em sua bondade amorosa. Meu coração se regozija com sua salvação.
-Eu vou cantar para Yahweh, porque ele tem sido bom para mim.
+Mas eu confio em sua bondade amorosa. Meu coração se regozija com sua salvação. Eu vou cantar para Yahweh, porque ele tem sido bom para mim.
 O tolo disse em seu coração: “Não há Deus”. Eles são corruptos. Eles fizeram atos abomináveis. Não há ninguém que faça o bem.
 Yahweh olhou do céu para os filhos dos homens, para ver se havia alguém que entendesse, que buscava a Deus.
 Todos eles foram deixados de lado. Juntos, eles se tornaram corruptos. Não há ninguém que faça o bem, não, não há ninguém.
@@ -14128,6 +14128,7 @@ Ele é como um leão ganancioso de suas presas, como se fosse um jovem leão esc
 Levanta-te, Yahweh, confronta-o. Lance-o para baixo. Liberta minha alma dos ímpios por tua espada,
 de homens por sua mão, Yahweh, de homens do mundo, cuja porção está nesta vida. Você enche a barriga de seus queridos. Seus filhos têm muito, e eles armazenam riqueza para seus filhos.
 Quanto a mim, verei seu rosto em retidão. Ficarei satisfeito, quando acordar, em ver sua forma.
+
 Eu te amo, Yahweh, minha força.
 Yahweh é minha rocha, minha fortaleza e meu entregador; meu Deus, minha rocha, em quem me refugio; meu escudo, e o chifre de minha salvação, minha torre alta.
 Eu chamo Javé, que é digno de ser elogiado; e estou salvo de meus inimigos.
@@ -14249,7 +14250,6 @@ Pois o reino é de Yahweh. Ele é o governante sobre as nações.
 All os ricos da terra devem comer e adorar. Todos aqueles que descem ao pó devem se curvar diante dele, mesmo aquele que não consegue manter sua alma viva.
 Posterity deve servi-lo. As gerações futuras serão informadas sobre o Senhor.
 Eles virão e declararão sua retidão a um povo que nascerá, pois ele o fez.
-
 Yahweh é meu pastor; Nada me faltará.
 Ele me faz deitar em pastos verdes. Ele me conduz ao lado de águas paradas.
 Ele restaura minha alma. Ele me guia nos caminhos da retidão por causa de seu nome.
@@ -14334,6 +14334,7 @@ A voz de Yahweh abala o sertão. Yahweh abala o deserto de Kadesh.
 A voz de Yahweh faz o veado parir, e despoja as florestas. Em seu templo tudo diz: “Glória!”
 Yahweh sentou-se entronizado no Dilúvio. Sim, Yahweh senta-se como Rei para sempre.
 Yahweh dará força ao seu povo. Yahweh abençoará seu povo com paz.
+
 I irá exaltar você, Yahweh, pois você me educou, e não fizeram meus inimigos se regozijarem por mim.
 Yahweh meu Deus, eu chorei para você, e você me curou.
 Yahweh, você trouxe minha alma de Sheol à tona. Vocês me mantiveram vivo, que eu não deveria descer para o poço.
@@ -14371,7 +14372,6 @@ Praise be to Yahweh, pois ele me mostrou sua maravilhosa gentileza amorosa em um
 Quanto a mim, eu disse na minha pressa: “Estou cortado de diante de seus olhos”. No entanto, vocês ouviram a voz das minhas petições quando eu chorei para vocês.
 Oh amam Yahweh, todos vocês seus santos! Yahweh preserva os fiéis, e recompensa totalmente aquele que se comporta de forma arrogante.
 Seja forte, e deixe seu coração tomar coragem, todos vocês que esperam em Yahweh.
-
 Abençoado é aquele cuja desobediência é perdoada, cujo pecado está coberto.
 Abençoado é o homem a quem Javé não imputa iniqüidade, em cujo espírito não há engano.
 Quando eu mantive o silêncio, meus ossos desperdiçaram meus gemidos durante todo o dia.
@@ -14405,6 +14405,7 @@ para entregar sua alma da morte, para mantê-los vivos na fome.
 Nossa alma esperou por Yahweh. Ele é nossa ajuda e nosso escudo.
 Pois nosso coração se regozija com ele, porque temos confiado em seu santo nome.
 Deixe que sua bondade amorosa esteja sobre nós, Yahweh, já que temos esperança em você.
+
 Eu abençoarei Javé em todos os momentos. Seus elogios estarão sempre na minha boca.
 Minha alma se vangloriará em Yahweh. Os humildes devem ouvir falar disso e ficar contentes.
 Oh Ampliar Yahweh comigo. Vamos exaltar seu nome juntos.
@@ -14427,7 +14428,6 @@ Many são as aflições dos justos, mas Yahweh o liberta de todos eles.
 Ele protege todos os seus ossos. Nem um deles está quebrado.
 Evil deve matar os ímpios. Os que odeiam os justos serão condenados.
 Yahweh redime a alma de seus servos. Nenhum dos que se refugiam nele será condenado.
-
 Contend, Yahweh, com aqueles que lutam comigo. Lutar contra aqueles que lutam contra mim.
 Pegue o escudo e o buckler, e defender a minha ajuda.
 Brandish a lança e bloquear aqueles que me perseguem. Diga a minha alma: “Eu sou a sua salvação”.
@@ -14456,6 +14456,7 @@ Não os deixe dizer em seu coração: “Aha! É assim que queremos”! Não os 
 Que fiquem decepcionados e confundidos juntos que se regozijam com minha calamidade. Que eles se vistam de vergonha e desonra que se engrandeçam contra mim.
 Que aqueles que favorecem minha causa justa gritem de alegria e se alegrem. Sim, deixe-os dizer continuamente: “Que Yahweh seja ampliado”, que tem prazer na prosperidade de seu servo”!
 Minha língua falará de sua justiça e de seus louvores o dia todo.
+
 Uma revelação está em meu coração sobre a desobediência dos ímpios: Não há medo de Deus diante de seus olhos.
 Pois ele se lisonjeia a si mesmo aos seus próprios olhos, demais para detectar e odiar seu pecado.
 As palavras de sua boca são iniqüidade e engano. Ele deixou de ser sábio e de fazer o bem.
@@ -14468,7 +14469,6 @@ Pois com você está a fonte da vida. Em sua luz, veremos a luz.
 Oh continue sua amorosa gentileza para com aqueles que o conhecem, sua retidão para com os retos de coração.
 Don não deixe o pé do orgulho vir contra mim. Não deixe que a mão dos ímpios me afaste.
 There os trabalhadores da iniqüidade estão caídos. Eles são empurrados para baixo e não devem ser capazes de subir.
-
 Não se preocupe por causa dos malfeitores, nem ter inveja daqueles que trabalham de forma iníqua.
 Pois logo serão cortados como a grama, e murcha como a erva verde.
 Confie em Yahweh e faça o bem. Habitar na terra, e desfrutar de pasto seguro.
@@ -14509,6 +14509,7 @@ Marque o homem perfeito, e veja o direito, pois há um futuro para o homem de pa
 As para os transgressores, eles serão destruídos juntos. O futuro dos ímpios deve ser cortado.
 Mas a salvação dos justos é de Yahweh. Ele é seu refúgio no momento de problemas.
 Yahweh os ajuda e os resgata. Ele os resgata dos ímpios e os salva, porque eles se refugiaram nele.
+
 Yahweh, não me repreenda em sua ira, nem me castigam em seu desgosto quente.
 Pois suas setas me furou, sua mão pressiona com força sobre mim.
 There não é nenhuma solidez em minha carne por causa de sua indignação, nem há nenhuma saúde nos meus ossos por causa do meu pecado.
@@ -14589,12 +14590,12 @@ Yahweh comandará sua amorosa gentileza durante o dia. Na noite, sua canção es
 Vou perguntar a Deus, minha rocha: “Por que você se esqueceu de mim? Por que eu vou de luto por causa da opressão do inimigo”?
 Como com uma espada nos meus ossos, meus adversários me reprovam, enquanto eles me perguntam continuamente: “Onde está seu Deus?”
 Why você está em desespero, minha alma? Por que você está perturbado dentro de mim? Esperança em Deus! Pois eu ainda o louvarei, a ajuda salvadora do meu semblante, e do meu Deus.
-
 Vindicar-me, Deus, e advogar minha causa contra uma nação ímpia. Oh, livrai-me de homens enganadores e perversos.
 Pois você é o Deus da minha força. Por que você me rejeitou? Por que eu vou de luto por causa da opressão do inimigo?
 Oh, envie sua luz e sua verdade. Deixe-os me guiarem. Deixe-os levar-me ao seu santo monte, para suas tendas.
 Então eu irei ao altar de Deus, a Deus, minha alegria imensa. Eu o louvarei na harpa, Deus, meu Deus.
 Por que você está em desespero, minha alma? Por que você está perturbado dentro de mim? Esperança em Deus! Pois eu ainda o louvarei: meu Salvador, meu ajudante, e meu Deus.
+
 We ouvimos com nossos ouvidos, Deus; nossos pais nos disseram que trabalho você fez em seus dias, nos dias de antigamente.
 Você expulsou as nações com sua mão, mas você os plantou. Você afligiu os povos, mas você os espalha no exterior.
 Pois eles não obtiveram a terra em posse com sua própria espada, nem seu próprio braço os salvou; mas sua mão direita, seu braço e a luz de seu rosto, porque você era favorável a eles.
@@ -14697,7 +14698,6 @@ pois quando ele morre ele não leva nada embora. Sua glória não vai descer atr
 Embora enquanto vivia, ele abençoou sua alma... e os homens o elogiam quando você se sai bem por si mesmo.
 ele deve ir para a geração de seus pais. Eles nunca devem ver a luz.
 Um homem que tem riquezas sem entender, é como os animais que perecem.
-
 O Poderoso, Deus, Yahweh, fala, e chama a terra do nascer do sol ao pôr-do-sol.
 Out de Sião, a perfeição da beleza, Deus resplandece.
 Nosso Deus vem, e não se cala. Um incêndio devora diante dele. É muito tempestuoso ao seu redor.
@@ -14721,6 +14721,8 @@ Você se senta e fala contra seu irmão. Você calunia o filho de sua própria m
 Você fez estas coisas, e eu me mantive em silêncio. Você pensou que eu era exatamente como você. Vou repreendê-lo e acusá-lo diante de seus olhos.
 “Agora considere isto, você que se esquece de Deus, para que eu não o desfaça em pedaços, e não haja ninguém para entregar.
 Whoever oferece o sacrifício da ação de graças que me glorifica, e prepara seu caminho para que eu lhe mostre a salvação de Deus”.
+
+
 Tenha piedade de mim, Deus, de acordo com sua amorosa bondade. De acordo com a multidão de suas ternas misericórdias, apague minhas transgressões.
 Wash me completamente da minha iniqüidade. Limpe-me do meu pecado.
 Pois eu conheço minhas transgressões. Meu pecado está constantemente diante de mim.
@@ -14752,13 +14754,13 @@ Os justos também o verão, e temerão, e rir dele, dizendo,
 Mas, quanto a mim, sou como uma oliveira verde na casa de Deus. Confio na bondade amorosa de Deus para todo o sempre.
 Eu lhe darei graças para sempre, porque você o fez. Espero em seu nome, pois é bom, na presença de seus santos.
 
-
 O tolo disse em seu coração: “Não há Deus”. Eles são corruptos, e fizeram uma abominável iniquidade. Não há ninguém que faça o bem.
 Deus olha do céu para os filhos dos homens, para ver se há alguém que tenha entendido, que buscam a Deus.
 Every um deles voltou para trás. Eles se tornaram imundos juntos. Não há ninguém que faça o bem, não, não há ninguém.
 Não ter os trabalhadores da iniqüidade conhecimento, que comem meu povo enquanto comem pão, e não invocam a Deus?
 Ali estavam eles com muito medo, onde não havia medo, pois Deus espalhou os ossos d'Aquele que se encaminha contra você. Você os envergonhou, porque Deus os rejeitou.
 Oh que a salvação de Israel sairia de Sião! Quando Deus traz de volta seu povo do cativeiro, então Jacob se regozijará, e Israel ficará contente.
+
 
 Save me, Deus, pelo seu nome. Vindicar-me em seu poder.
 Hear minha oração, Deus. Ouça as palavras da minha boca.
@@ -14767,7 +14769,6 @@ Behold, Deus é meu ajudante. O Senhor é o que sustenta minha alma.
 Ele retribuirá o mal aos meus inimigos. Destrua-os em sua verdade.
 Com uma oferta de livre vontade, sacrificar-me-ei a vocês. Agradeço o seu nome, Yahweh, pois é bom.
 Pois ele me livrou de todos os problemas. Meu olho tem visto o triunfo sobre meus inimigos.
-
 
 Listen à minha oração, Deus. Não se esconda da minha súplica.
 Attend para mim, e me responda. Estou inquieto em minha queixa, e gemer
@@ -14849,6 +14850,7 @@ Eles devem vagar para cima e para baixo em busca de alimentos, e esperar a noite
 Mas eu vou cantar a sua força. Sim, eu vou cantar em voz alta sua bondade amorosa pela manhã. Pois você tem sido minha torre alta, um refúgio no dia da minha angústia.
 Para você, minha força, eu vou cantar louvores. Pois Deus é minha alta torre, o Deus da minha misericórdia.
 
+
 God, você nos rejeitou. Você nos derrubou. Você tem ficado bravo. Restaure-nos, novamente.
 Você fez a terra tremer. Você o rasgou. Consertar suas fraturas, por causa de seus tremores.
 Você tem mostrado ao seu povo coisas difíceis. Você nos fez beber o vinho que nos faz cambalear.
@@ -14861,7 +14863,6 @@ Quem me trará para a cidade forte? Quem me levou à Edom?
 Haven você, Deus, não nos rejeitou? Você não sai com nossos exércitos, Deus.
 Give nós ajudamos contra o adversário, pois a ajuda do homem é vaidosa.
 Através de Deus, faremos valentemente, pois é ele quem vai pisar em nossos adversários.
-
 
 Hear meu grito, Deus. Ouça minha oração.
 Desde o fim do mundo, chamarei a vocês quando meu coração estiver sobrecarregado. Leve-me até a rocha que é mais alta que eu.
@@ -14921,7 +14922,6 @@ Você molha seus sulcos. Você nivela suas cristas. Você amolece com os chuveir
 Você coroa o ano com sua recompensa. Seus carrinhos transbordam com abundância.
 Os pastos silvestres transbordam. As colinas estão vestidas de alegria.
 The pastagens são cobertas com rebanhos. Os vales também são revestidos com grãos. Eles gritam de alegria! Eles também cantam.
-
 Make um grito de alegria a Deus, a toda a terra!
 Cantem para a glória de seu nome! Oferecer glória e louvor!
 Diga a Deus: “Como são fantásticos seus atos! Através da grandeza de seu poder, seus inimigos se submetem a você.
@@ -14942,6 +14942,7 @@ Eu chorei para ele com minha boca. Ele foi exaltado com a minha língua.
 Se eu estimava o pecado em meu coração, o Senhor não teria escutado.
 Mas com certeza, Deus ouviu. Ele ouviu a voz da minha oração.
 Bendito seja Deus, que não me rejeitou a oração, nem sua amorosa gentileza da minha parte.
+
 May Deus seja misericordioso conosco, abençoa-nos, e fazer com que seu rosto brilhe sobre nós. Selah.
 Para que seu caminho seja conhecido na terra, e sua salvação entre todas as nações,
 let os povos te louvam, Deus. Que todos os povos o elogiem.
@@ -15028,7 +15029,6 @@ Let eles se decepcionam e confundem quem procura minha alma. Que aqueles que des
 Deixe-os ser virados por causa de sua vergonha que dizem: “Aha! Aha!”
 Let todos aqueles que o procuram se regozijam e se alegram em você. Que aqueles que amam sua salvação digam continuamente, “Que Deus seja exaltado!”
 Mas eu sou pobre e carente. Venha até mim rapidamente, Deus. Você é minha ajuda e meu entregador. Yahweh, não demore.
-
 Em você, Yahweh, eu me refugio. Nunca me deixe decepcionar.
 Entregue-me em sua retidão e me salve. Vire seus ouvidos para mim, e me salve.
 Seja para mim uma rocha de refúgio para a qual eu possa sempre ir. Dê o comando para me salvar, pois você é meu rochedo e minha fortaleza.
@@ -15124,6 +15124,7 @@ Honor seu convênio, para assombramentos de violência enchem os lugares escuros
 Não deixe que os oprimidos retornem envergonhados. Deixe os pobres e necessitados elogiarem seu nome.
 Levanta-te, Deus! Suplique-lhe sua própria causa. Lembre-se de como o homem tolo zomba de você o dia todo.
 Não esqueça a voz de seus adversários. O tumulto daqueles que se levantam contra você sobe continuamente.
+
 We agradeça a você, Deus. Damos graças, pois seu nome está próximo. Os homens contam sobre suas obras maravilhosas.
 When Eu escolho a hora marcada, Julgarei sem culpa.
 A terra e todos os seus habitantes tremem. Eu seguro firmemente seus pilares. Selah.
@@ -15168,7 +15169,6 @@ As nuvens derramaram água. Os céus ressoavam com trovões. Suas setas também 
 A voz de seu trovão estava no redemoinho. Os relâmpagos iluminaram o mundo. A terra tremeu e sacudiu.
 Seu caminho foi através do mar, seus caminhos através das grandes águas. Seus passos não eram conhecidos.
 Você liderou seu povo como um rebanho, pela mão de Moisés e Arão.
-
 Ouça meus ensinamentos, meu povo. Vire seus ouvidos para as palavras da minha boca.
 Vou abrir minha boca em uma parábola. Vou proferir ditados sombrios de antigamente,
 que já ouvimos e conhecemos, e nossos pais nos disseram.
@@ -15254,6 +15254,7 @@ Por que as nações deveriam dizer: “Onde está seu Deus”? Que seja conhecid
 Deixe o suspiro do prisioneiro vir antes de você. De acordo com a grandeza de seu poder, preserve aqueles que são condenados à morte.
 Retribuir aos vizinhos sete vezes em seu seio a sua reprovação com a qual o censuraram, Senhor.
 Portanto, nós, seu povo e as ovelhas de seu pasto, lhe dará graças para sempre. Nós o louvaremos para sempre, a todas as gerações.
+
 Hear us, Shepherd of Israel, você que lidera José como um rebanho, você que se senta por cima do querubim, brilha.
 Before Ephraim, Benjamin, e Manasseh, despertem sua força! Venha nos salvar!
 Turn nós novamente, Deus. Porque seu rosto brilha, e seremos salvos.
@@ -15290,7 +15291,6 @@ Oh que meu povo me escutaria, que Israel caminharia em meus caminhos!
 Eu logo subjugaria seus inimigos, e virar minha mão contra seus adversários.
 Os detratores de Yahweh se encolheriam diante dele, e sua punição duraria para sempre.
 Mas ele também os teria alimentado com o melhor do trigo. Vou satisfazê-lo com mel fora da rocha”.
-
 Deus preside a grande assembléia. Ele julga entre os deuses.
 “Quanto tempo você julgará injustamente, e mostrar parcialidade para com os ímpios”? Selah.
 “Defenda os fracos, os pobres e os órfãos de pai. Manter os direitos dos pobres e oprimidos.
@@ -15299,6 +15299,7 @@ Eles não sabem, nem entendem. Eles andam para frente e para trás na escuridão
 Eu disse: “Vocês são deuses”, todos vocês são filhos do Altíssimo.
 No entanto, vocês morrerão como homens, e cair como um dos governantes”.
 Levanta-te, Deus, julga a terra, para você herdar todas as nações.
+
 God, não fique calado. Não fique calado, e não fique quieto, Deus.
 Pois, eis que seus inimigos estão agitados. Aqueles que odeiam você levantaram a cabeça.
 Eles conspiram com astúcia contra seu povo. Eles conspiram contra os seus queridos.
@@ -15344,7 +15345,6 @@ Mercy e a verdade se reúnem. A justiça e a paz se beijaram.
 A verdade brota da terra. A justiça tem olhado do céu para baixo.
 Yes, Yahweh dará o que é bom. Nossas terras renderão seu aumento.
 Righteousness vai antes dele, e prepara o caminho para seus passos.
-
 Ouça, Yahweh, e me responda, pois sou pobre e necessitado.
 Preservar minha alma, pois sou piedoso. Tu, meu Deus, salva teu servo que confia em ti.
 Tenha piedade de mim, Senhor, pois eu ligo para você o dia inteiro.
@@ -15369,6 +15369,7 @@ Vou registrar Rahab e Babilônia entre aqueles que me reconhecem. Eis, Filístia
 Yes, de Sião será dito: “Esta e aquela nasceu nela”. o próprio Altíssimo a estabelecerá.
 Yahweh contará, quando ele escrever os povos, “Este aqui nasceu”. Selah.
 Dizem aqueles que cantam e os que dançam, “Todas as minhas molas estão em você”.
+
 Yahweh, o Deus da minha salvação, Eu chorei dia e noite diante de vocês.
 Let minha oração entra em sua presença. Vire seu ouvido para o meu choro.
 Pois minha alma está cheia de problemas. Minha vida se aproxima do Sheol.
@@ -15440,7 +15441,6 @@ Lord, onde estão suas antigas e amorosas gentilezas, o que você jurou a David 
 Remember, Senhor, a reprovação de seus servos, como carrego no coração os escárnios de todos os povos poderosos,
 com o qual seus inimigos têm zombado, Yahweh, com os quais eles zombaram dos passos de seu ungido.
 Blessed ser Yahweh para sempre mais. Amém, e Amém.
-
 Senhor, você tem sido nossa morada por todas as gerações.
 Antes do nascimento das montanhas, antes de você ter formado a terra e o mundo, mesmo de eterno a eterno, você é Deus.
 Você transforma o homem em destruição, dizendo, “Voltem, seus filhos de homens”.
@@ -15474,6 +15474,7 @@ Você vai pisar no leão e na na naja. Você pisará o jovem leão e a serpente 
 “Porque ele colocou seu amor em mim, portanto, eu o entregarei”. Vou colocá-lo no alto, porque ele conheceu meu nome.
 Ele me chamará, e eu lhe responderei. Eu estarei com ele em apuros. Eu o entregarei, e o honrarei.
 Vou satisfazê-lo com vida longa, e mostrar-lhe minha salvação”.
+
 It é uma coisa boa para se dar graças a Javé, para cantar louvores ao seu nome, Most High,
 para proclamar sua amorosa gentileza pela manhã, e sua fidelidade a cada noite,
 com o alaúde de dez cordas, com a harpa, e com a melodia da lira.
@@ -15489,7 +15490,6 @@ Os justos devem florescer como a palmeira. Ele crescerá como um cedro no Líban
 They são plantadas na casa de Yahweh. Eles florescerão nos tribunais de nosso Deus.
 Eles ainda produzirão frutas na velhice. Eles estarão cheios de seiva e verdes,
 para mostrar que Yahweh é íntegro. Ele é meu rochedo, e não há nele nenhuma injustiça.
-
 Yahweh reina! Ele está revestido de majestade! Yahweh está armado com força. O mundo também está estabelecido. Não pode ser movido.
 Seu trono foi estabelecido há muito tempo. Você é eterno.
 As enchentes se elevaram, Yahweh, as enchentes levantaram sua voz. As enchentes levantam suas ondas.
@@ -15585,6 +15585,7 @@ Eu vou silenciar quem quer que calunie secretamente seu vizinho. Não tolerarei 
 Meus olhos estarão voltados para os fiéis da terra, que eles possam morar comigo. Aquele que caminha de uma forma perfeita, ele vai me servir.
 Aquele que pratica o engano não vai morar dentro de minha casa. Aquele que fala falsidade não será estabelecido diante dos meus olhos.
 De manhã pela manhã, destruirei todos os ímpios da terra, para cortar todos os trabalhadores da iniqüidade da cidade de Yahweh.
+
 Hear minha oração, Yahweh! Deixem meu choro chegar até vocês.
 Don não esconda seu rosto de mim no dia da minha angústia. Vire seu ouvido para mim. Responda-me rapidamente no dia em que eu ligar.
 Para meus dias, consumir fora como fumaça. Meus ossos estão queimados como uma tocha.
@@ -15613,7 +15614,6 @@ De outrora, você lançou os alicerces da terra. Os céus são o trabalho de sua
 Eles perecerão, mas você perdurará. Sim, todos eles vão se desgastar como uma peça de vestuário. Você os mudará como um manto, e eles serão mudados.
 Mas você é o mesmo. Seus anos não terão fim.
 Os filhos de seus criados continuarão. Seus descendentes serão estabelecidos diante de você”.
-
 Louvado seja Yahweh, minha alma! Tudo isso está dentro de mim, louvem seu santo nome!
 Louvado seja Yahweh, minha alma, e não se esqueça de todos os seus benefícios,
 que perdoa todos os seus pecados, que cura todas as suas doenças,
@@ -15807,6 +15807,7 @@ Ele derrama desprezo sobre os príncipes, e os faz vaguear em um desperdício se
 Yet ele tira os necessitados de sua aflição, e aumenta suas famílias como um rebanho.
 Os verticais o verão e ficarão felizes. Todos os ímpios fecharão a boca.
 Quem for sábio prestará atenção a estas coisas. Eles considerarão as bondades amorosas de Yahweh.
+
 Meu coração está firme, Deus. Cantarei e farei música com minha alma.
 Wake para cima, harpa e lira! Vou acordar o amanhecer.
 Eu lhe darei graças, Javé, entre as nações. Cantarei louvores a vocês entre os povos.
@@ -15820,7 +15821,6 @@ Who vai me trazer para a cidade fortificada? Quem me levará à Edom?
 Haven você não nos rejeitou, Deus? Você não sai, Deus, com nossos exércitos.
 Give nós ajudamos contra o inimigo, pois a ajuda do homem é vaidosa.
 Through Deus, nós faremos valentemente, pois é ele quem vai pisar em nossos inimigos.
-
 Deus do meu louvor, não fique calado,
 pois eles abriram a boca dos ímpios e a boca do engano contra mim. Eles me falaram com uma língua mentirosa.
 Eles também me cercaram com palavras de ódio, e lutou contra mim sem uma causa.
@@ -16329,6 +16329,7 @@ Yahweh, eu não odeio aqueles que te odeiam? Não estou contristado com aqueles 
 Eu os odeio com ódio perfeito. Eles se tornaram meus inimigos.
 Procure em mim, Deus, e conheça meu coração. Experimente-me, e conheça meus pensamentos.
 Veja se há algum modo maligno em mim, e me conduzir da maneira eterna.
+
 Deliver me, Yahweh, de homens maus. Preservar-me de homens violentos:
 aqueles que inventam travessuras em seus corações. Eles se reúnem continuamente para a guerra.
 Eles afiaram suas línguas como uma serpente. O veneno da víbora está sob seus lábios. Selah.
@@ -16342,7 +16343,6 @@ Let carvões queimados caem sobre eles. Que sejam atirados ao fogo, em fossos de
 Um orador maligno não será estabelecido na terra. O mal vai caçar o homem violento para derrubá-lo.
 Eu sei que Yahweh manterá a causa dos aflitos, e justiça para os necessitados.
 Certamente, os justos agradecerão seu nome. Os verticalizados habitarão em sua presença.
-
 Yahweh, eu o chamei. Venha até mim rapidamente! Ouça minha voz quando eu ligar para você.
 Let minha oração seja colocada diante de você como incenso; o levantar das mãos como o sacrifício da noite.
 Coloque um relógio, Yahweh, diante da minha boca. Manter a porta dos meus lábios.
@@ -16353,6 +16353,7 @@ Seus juízes são derrubados pelos lados da rocha. Eles ouvirão minhas palavras
 Pois meus olhos estão em você, Yahweh, o Senhor. Eu me refugio em você. Não deixe minha alma desamparada.
 Não me deixem escapar da armadilha que eles me armaram, das armadilhas dos trabalhadores da iniqüidade.
 Let os ímpios caem juntos em suas próprias redes enquanto eu passo por aqui.
+
 Eu choro com minha voz para Yahweh. Com minha voz, peço misericórdia a Javé.
 Eu apresento minha reclamação diante dele. Eu lhe conto meus problemas.
 When meu espírito estava dominado dentro de mim, você conhecia minha rota. No caminho em que eu ando, eles esconderam uma armadilha para mim.
@@ -16360,7 +16361,6 @@ Look à minha direita, e veja; pois não há ninguém que se preocupe comigo. O 
 Eu chorei para você, Yahweh. Eu disse: “Você é meu refúgio”, minha porção na terra dos vivos”.
 Listen ao meu grito, pois estou em necessidade desesperada. Livrem-me de meus perseguidores, pois eles são fortes demais para mim.
 Bring minha alma fora da prisão, que eu possa dar graças ao seu nome. Os justos me cercarão, para você será bom para mim.
-
 Ouça minha oração, Yahweh. Ouça minhas petições. Em sua fidelidade e retidão, alivie-me.
 Não entre em julgamento com seu servo, pois na sua visão, nenhum homem que vive é justo.
 Pois o inimigo persegue minha alma. Ele deu cabo da minha vida. Ele me fez viver em lugares escuros, como aqueles que já morreram há muito tempo.
@@ -17465,7 +17465,6 @@ Se um homem prevalecer contra um que está sozinho, dois lhe resistirão; e uma 
 Pois fora da prisão ele saiu para ser rei; sim, mesmo em seu reino ele nasceu pobre.
 Vi todos os vivos que caminham sob o sol, que estavam com a juventude, o outro, que o sucedeu.
 Não havia fim para todo o povo, mesmo para aqueles sobre os quais ele era - ainda assim aqueles que vêm depois não se alegrarão com ele. Certamente isto também é vaidade e uma perseguição ao vento.
-
 Guard seus passos quando você vai à casa de Deus; pois aproximar-se para ouvir é melhor do que dar o sacrifício de tolos, pois eles não sabem que fazem o mal.
 Don não seja precipitado com sua boca, e não deixe que seu coração se apresse a pronunciar nada diante de Deus; pois Deus está no céu, e você na terra. Portanto, que suas palavras sejam poucas.
 Pois como um sonho vem com uma multidão de cuidados, assim também um discurso tolo com uma multidão de palavras.
@@ -17485,6 +17484,7 @@ Este também é um mal grave, que em todos os pontos como ele veio, assim ele de
 Todos os seus dias ele também come na escuridão, ele está frustrado, e tem doença e ira.
 Behold, o que vi como bom e próprio é para comer e beber, e desfrutar do bem em todo o seu trabalho, no qual trabalha sob o sol, todos os dias de sua vida que Deus lhe deu; pois esta é a sua porção.
 Todo homem também a quem Deus deu riquezas e riquezas, e lhe deu poder para comer delas, e tomar sua porção, e se alegrar em seu trabalho - este é o dom de Deus.
+For ele não deve refletir com freqüência sobre os dias de sua vida, porque Deus o ocupa com a alegria de seu coração.
 Há um mal que vi sob o sol, e que é pesado para os homens:
 um homem a quem Deus dá riquezas, riqueza e honra, de modo que não lhe falta nada para sua alma de tudo o que deseja, mas Deus não lhe dá poder para comer dele, mas um estrangeiro o come. Isto é vaidade, e é uma doença maligna.
 Se um homem tem cem filhos, e vive muitos anos, de modo que os dias de seus anos são muitos, mas sua alma não está cheia de bem, e além disso não tem enterro, eu digo que um nado-morto é melhor do que ele;
@@ -17694,6 +17694,7 @@ Minha pomba, minha pomba perfeita, é única. Ela é a única filha de sua mãe.
 Quem é ela que olha para fora como a manhã, linda como a lua, claro como o sol, e fantástico como um exército com bandeiras?
 Fui até o pomar de castanheiros, para ver as plantas verdes do vale, para ver se a videira brotou, e as romãs estavam em flor.
 Sem perceber, meu desejo me colocou com as carruagens de meu povo real.
+Return, retornar, Shulammite! Volte, volte, para que possamos olhar para você. Por que você deseja olhar para o Shulammite? como no baile de Mahanaim?
 Como são lindos seus pés de sandálias, filha do príncipe! Suas coxas arredondadas são como jóias, o trabalho das mãos de um artesão habilidoso.
 Seu corpo é como uma taça redonda, nenhum vinho misto é necessário. Sua cintura é como um monte de trigo, se instalam com lírios.
 Seus dois peitos são como dois peitos de bunda, que são gêmeos de uma ova.
@@ -17707,7 +17708,6 @@ I sou do meu amado. Seu desejo é para mim.
 Come, meu amado! Vamos sair para o campo. Vamos nos alojar nas aldeias.
 Let's vão cedo para os vinhedos. Vejamos se a videira brotou, sua floração está aberta, e as romãs estão em flor. Aí eu lhe darei meu amor.
 As mandrágoras produzem fragrância. Em nossas portas estão todos os tipos de frutas preciosas, novas e velhas, que eu guardei para você, minha amada.
-
 Oh, que você era como meu irmão, que cuidou dos seios de minha mãe! Se eu te encontrasse lá fora, eu te beijaria; sim, e ninguém me desprezaria.
 Eu o conduziria, trazendo-o para a casa de minha mãe, que me instruiria. Eu gostaria que você bebesse vinho temperado, do suco da minha romã.
 Sua mão esquerda estaria sob minha cabeça. Sua mão direita me abraçaria.
@@ -17897,7 +17897,6 @@ Quando lhe dizem: “Consulte aqueles que têm espíritos familiares e os feitic
 Turn para a lei e para o pacto! Se eles não falam de acordo com esta palavra, certamente não há manhã para eles.
 Eles passarão por ela, muito angustiados e famintos. Acontecerá que quando tiverem fome, eles se preocuparão e amaldiçoarão seu rei e seu Deus. Eles virarão seus rostos para cima,
 então olharão para a terra e verão a angústia, a escuridão e a tristeza da angústia. Eles serão levados à escuridão espessa.
-
 Mas não haverá mais tristeza para ela que estava em angústia. No primeiro tempo, ele desprezou a terra de Zebulom e a terra de Naftali; mas no segundo tempo ele a tornou gloriosa, pelo caminho do mar, além do Jordão, a Galiléia das nações.
 As pessoas que caminharam na escuridão viram uma grande luz. A luz brilhou sobre aqueles que viviam na terra da sombra da morte.
 Você multiplicou a nação. Você aumentou a alegria deles. Eles se alegram diante de você de acordo com a alegria da colheita, assim como os homens se alegram quando dividem o saque.
@@ -17918,6 +17917,7 @@ Portanto, o Senhor não se regozijará com seus jovens, nem terá compaixão de 
 Pois a maldade queima como uma fogueira. Ela devora os sarças e os espinhos; sim, ele se acende na mata da floresta, e eles rolam para cima em uma coluna de fumaça.
 Através da ira de Yahweh dos exércitos, a terra é queimada; e as pessoas são o combustível para o fogo. Ninguém poupa seu irmão.
 Uma pessoa devorará na mão direita, e terá fome; e ele comerá na mão esquerda, e eles não ficarão satisfeitos. Cada um comerá a carne de seu próprio braço:
+Manasseh comendo Efraim e Efraim comendo Manasseh, e juntos estarão contra Judá. Por tudo isso, sua raiva não é desviada, mas sua mão ainda está estendida.
 Ai daqueles que decretam decretos iníquos, e dos escritores que escrevem decretos opressivos
 para privar os necessitados da justiça, e para roubar os pobres entre meu povo de seus direitos, para que as viúvas sejam seu saque, e para que façam dos órfãos de pai sua presa!
 O que você fará no dia da visita, e na desolação que virá de longe? Para quem fugirá em busca de ajuda? Onde você deixará sua riqueza?
@@ -18953,8 +18953,7 @@ Pois você é nosso Pai, embora Abraão não nos conheça, e Israel não nos rec
 O Yahweh, por que você nos faz errar de seus caminhos? e endurecer nosso coração de seu medo? Retornar para o bem de seus criados, as tribos de sua herança.
 Seu povo santo o possuía, mas por pouco tempo. Nossos adversários pisaram em seu santuário.
 We se tornaram como aqueles sobre os quais você nunca governou, como aqueles que não foram chamados pelo seu nome.
-Oh que você rasgaria os céus, que você desceria, que as montanhas podem tremer com sua presença.
-como quando o fogo acende a lenha, e o fogo faz com que a água ferva. Dê a conhecer seu nome a seus adversários, que as nações possam tremer com sua presença!
+Oh que você rasgaria os céus, que você desceria, que as montanhas podem tremer com sua presença. como quando o fogo acende a lenha, e o fogo faz com que a água ferva. Dê a conhecer seu nome a seus adversários, que as nações possam tremer com sua presença!
 Quando você fez coisas incríveis que nós não procuramos, você desceu, e as montanhas tremeram com sua presença.
 Pois de homens velhos não ouviram falar, nem percebido pelo ouvido, nem o olho viu um Deus além de você, que trabalha para aquele que espera por ele.
 Você encontra aquele que se alegra e faz a justiça, aqueles que se lembram de você em seus caminhos. Eis que você estava com raiva, e nós pecamos. Estamos em pecado há muito tempo. Devemos ser salvos?
@@ -18964,6 +18963,7 @@ Mas agora, Yahweh, você é nosso Pai. Nós somos o barro e você nosso oleiro. 
 Don não fique furioso, Yahweh. Não se lembre da iniqüidade para sempre. Olhe e veja, nós lhe imploramos, somos todos seu povo.
 Suas cidades sagradas se tornaram uma região selvagem. Zion se tornou uma região selvagem, Jerusalém, uma desolação.
 Nossa santa e nossa bela casa onde nossos pais o elogiaram é queimado com fogo. Todos os nossos lugares agradáveis são resíduos.
+Will, você se retrai por estas coisas, Yahweh? Você vai ficar calado e nos castigar muito severamente?
 “Sou questionado por aqueles que não me perguntaram. Eu sou encontrado por aqueles que não me procuraram. Eu disse: 'Vejam-me, vejam-me', a uma nação que não foi chamada pelo meu nome.
 Eu estendi minhas mãos o dia todo para um povo rebelde, que caminham de uma maneira que não é boa, depois de seus próprios pensamentos;
 um povo que me provoca na minha cara continuamente, sacrificando nos jardins, e queimando incenso sobre tijolos;
@@ -19242,7 +19242,6 @@ Eis a voz do grito da filha do meu povo de uma terra que está muito distante: �
 “A colheita é passada. O verão terminou, e nós não estamos salvos”.
 Pela dor da filha do meu povo, eu estou ferido. Eu lamento. A consternação tomou conta de mim.
 Não há bálsamo em Gilead? Não há um médico lá? Por que então a saúde da filha do meu povo não está recuperada?
-
 Oh, que minha cabeça eram águas, e meus olhos uma fonte de lágrimas, que eu possa chorar dia e noite para a morte da filha do meu povo!
 Oh que eu tinha no deserto um local de hospedagem para homens de passagem, que eu poderia deixar meu povo e vá embora deles! Pois todos eles são adúlteros, uma assembléia de homens traiçoeiros.
 “Eles dobram a língua, como seu arco, por falsidade. Eles se tornaram fortes na terra, mas não para a verdade; pois eles procedem do mal para o mal, e eles não me conhecem”, diz Yahweh.
@@ -19268,6 +19267,7 @@ Fale: “Yahweh diz, “'Os cadáveres dos homens cairão como esterco em campo 
 Diz Yahweh, “Não deixe que o homem sábio se glorie em sua sabedoria. Não deixe que o poderoso homem se glorie em seu poder. Não deixe que o homem rico se glorie em suas riquezas.
 Mas que seja aquele que se gloria nisso, que ele tem compreensão, e me conhece, que eu sou Yahweh que exerce amorosa bondade, justiça e retidão na terra, pois me deleito com estas coisas”, diz Yahweh.
 “Eis que os dias vêm”, diz Javé, “que castigarei todos aqueles que são circuncidados apenas em sua carne:
+Egypt, Judah, Edom, os filhos de Amon, Moabe e todos os que têm os cantos dos cabelos cortados, que habitam no deserto, pois todas as nações são incircuncisadas, e toda a casa de Israel é incircuncisada no coração”.
 Ouça a palavra que Javé lhe fala, casa de Israel!
 diz Yahweh, “Não aprenda o caminho das nações”, e não fiquem consternados com os sinais do céu; pois as nações estão consternadas com eles.
 Pois os costumes dos povos são vaidade; para se cortar uma árvore fora da floresta, o trabalho das mãos do operário com o machado.
@@ -21006,6 +21006,11 @@ Eu os aceitarei como um aroma agradável quando os tirar dos povos e os recolher
 Saberão que eu sou Iavé quando os levar para a terra de Israel, para o país que jurei dar a seus pais.
 Lá vocês se lembrarão de seus caminhos, e de todos os seus atos nos quais vocês se poluíram. Então, odiar-vos-eis a vós mesmos por todos os vossos males que cometestes.
 Sabereis que eu sou Yahweh, quando eu tiver tratado convosco em meu nome, não de acordo com vossos maus caminhos, nem de acordo com vossos atos corruptos, vossa casa de Israel”, diz o Senhor Yahweh”. A palavra de
+Yahweh veio até mim, dizendo:
+“Filho do homem, ponha seu rosto para o sul, pregue para o sul e profetize contra a floresta do campo no sul”.
+Tell a floresta do sul, 'Ouve a palavra de Javé: O Senhor Javé diz: “Eis que eu acenderei um fogo em ti, e ele devorará toda árvore verde em ti, e toda árvore seca”. A chama ardente não se apagará, e todas as faces do sul para o norte serão queimadas por ela.
+All a carne verá que eu, Yahweh, a acendi. Ela não se apagará””.
+Then Eu disse: “Ah Senhor Yahweh! Dizem de mim: 'Ele não é um orador de parábolas?'”
 A palavra de Javé veio a mim, dizendo:
 “Filho do homem, dirige teu rosto para Jerusalém, prega para os santuários, e profetiza contra a terra de Israel”.
 Diga à terra de Israel, 'Javé diz: “Eis que eu estou contra ti, e tirarei minha espada de sua bainha, e cortarei de ti os justos e os ímpios”.
@@ -21038,11 +21043,6 @@ enquanto eles vêem por você falsas visões, enquanto eles divinizam mentiras p
 Cause para voltar para sua bainha. No local onde você foi criado, na terra de seu nascimento, eu o julgarei.
 Eu lhe expressarei a minha indignação. Eu vou soprar sobre você com o fogo da minha ira. Eu o entregarei na mão de homens brutos, habilidoso para destruir.
 Você será para o combustível para o fogo. Seu sangue estará no meio da terra. Você não será mais lembrado; pois eu, Yahweh, o disse””.
-
-
-
-
-
 Além disso, a palavra de Javé veio até mim, dizendo:
 “Você, filho do homem, você vai julgar? Você julgará a cidade sangrenta? Então faça com que ela conheça todas as suas abominações.
 Você dirá: 'O Senhor Javé diz: “Uma cidade que derrama sangue dentro de si mesma, para que seu tempo chegue, e que faz ídolos contra si mesma para profaná-la!
@@ -21904,9 +21904,6 @@ Os governadores locais, os deputados, os governadores e os conselheiros do rei, 
 Nabucodonosor falou e disse: “Bendito seja o Deus de Sadraque, Mesaque e Abednego, que enviou seu anjo e entregou seus servos que confiaram nele, e mudaram a palavra do rei, e entregaram seus corpos, para que não servissem nem adorassem nenhum deus, exceto seu próprio Deus.
 Portanto, faço um decreto para que todo povo, nação e língua que fale qualquer mal contra o Deus de Sadraque, Mesaque e Abednego seja cortado em pedaços, e suas casas sejam feitas um monturo, porque não há outro deus capaz de entregar assim”.
 Então o rei promoveu Shadrach, Meshach e Abednego na província da Babilônia.
-
-
-
 Nabucodonosor, o rei, ' a todos os povos, nações e línguas, que habitam em toda a terra: ' A paz seja multiplicada para você. '
 Pareceu-me bom mostrar os sinais e as maravilhas que o Deus Altíssimo tem trabalhado para comigo. '
 How grandes são seus sinais! Como são poderosas as suas maravilhas! Seu reino é um reino eterno. Seu domínio é de geração em geração.
@@ -21941,6 +21938,9 @@ While a palavra estava na boca do rei, uma voz veio do céu, dizendo: “Ó rei 
 Serás expulso dos homens, e tua morada será com os animais do campo”. Serás feito para comer erva como os bois”. Sete vezes vos passarão por cima, até que saibais que o Altíssimo reina no reino dos homens, e o dai a quem ele quiser”. '
 This foi realizado na mesma hora em Nebuchadnezzar. Ele foi expulso dos homens e comeu grama como bois; e seu corpo foi molhado com o orvalho do céu até que seus cabelos cresceram como penas de águias, e suas unhas como garras de pássaros. '
 At no final dos dias eu, Nabucodonosor, levantei meus olhos para o céu, e minha compreensão voltou para mim; e abençoei o Altíssimo, e elogiei e honrei aquele que vive para sempre, ' pois seu domínio é um domínio eterno, e seu reino de geração em geração.
+All os habitantes da terra são reputados como nada; e ele faz de acordo com sua vontade no exército do céu, e entre os habitantes da terra; e ninguém pode parar sua mão, ou pergunte-lhe: “O que você está fazendo?”.
+At ao mesmo tempo meu entendimento voltou para mim; e para a glória de meu reino, minha majestade e brilho voltaram para mim. Meus conselheiros e meus senhores me procuraram; e eu estava estabelecido em meu reino, e a excelente grandeza foi acrescentada a mim.
+Now Eu, Nabucodonosor, louvo, exalto e honro o Rei dos Céus; pois todas as suas obras são verdade e seus caminhos são justiça; e aqueles que andam com orgulho, ele é capaz de humilhar. '
 O rei Belsazar fez um grande banquete para mil de seus senhores, e bebeu vinho antes dos mil.
 Belsazar, enquanto provava o vinho, ordenou que os vasos de ouro e prata que Nabucodonosor, seu pai, havia tirado do templo que estava em Jerusalém, fossem trazidos a ele, para que o rei e seus senhores, suas esposas e suas concubinas bebessem deles.
 Depois trouxeram os vasos de ouro que foram retirados do templo da casa de Deus que estava em Jerusalém; e o rei e seus senhores, suas esposas e suas concubinas beberam deles.
@@ -21971,6 +21971,7 @@ TEKEL: você é pesado na balança, e é encontrado em falta.
 PERES: seu reino está dividido, e dado aos medos e persas”.
 Então Belshazzar ordenou, e eles vestiram Daniel de roxo, e colocaram uma corrente de ouro em seu pescoço, e fizeram uma proclamação a seu respeito, que ele deveria ser o terceiro governante no reino.
 Nessa noite Belshazzar, o Rei Caldeu, foi assassinado.
+Darius o Mede recebeu o reino, com cerca de sessenta e dois anos de idade.
 It agradou a Darius por colocar sobre o reino cento e vinte governadores locais, que deveriam estar em todo o reino;
 e sobre eles três presidentes, dos quais Daniel era um, para que esses governadores locais lhes dessem contas, e para que o rei não sofresse nenhuma perda.
 Então este Daniel se distinguiu acima dos presidentes e dos governadores locais, porque havia nele um excelente espírito; e o rei pensou em colocá-lo sobre todo o reino.
@@ -21999,7 +22000,6 @@ Então o rei Dario escreveu a todos os povos, nações e línguas que habitam em
 “Eu faço um decreto que em todo o domínio do meu reino os homens tremem e temem diante do Deus de Daniel. ' “Pois ele é o Deus vivo”, e firme para sempre. Seu reino é o que não será destruído. Seu domínio será mesmo até o fim.
 Ele entrega e resgata. Ele trabalha sinais e maravilhas no céu e na terra, que libertou Daniel do poder dos leões”.
 Portanto, este Daniel prosperou no reinado de Dario e no reinado de Ciro, o persa.
-
 No primeiro ano de Belsazar, rei da Babilônia, Daniel teve um sonho e visões de sua cabeça enquanto estava na cama. Então ele escreveu o sonho e contou a soma dos assuntos.
 Daniel falou e disse: “Eu vi em minha visão à noite, e eis que os quatro ventos do céu irromperam sobre o grande mar.
 Quatro grandes animais surgiram do mar, diferentes uns dos outros.
@@ -22170,6 +22170,8 @@ Ela concebeu novamente, e deu à luz uma filha. Então ele lhe disse: “Chame s
 Mas eu terei piedade da casa de Judá, e os salvarei por Javé seu Deus, e não os salvarei por arco, espada, batalha, cavalos ou cavaleiros”.
 Now quando ela havia desmamado Lo-Ruhamah, ela concebeu, e deu à luz um filho.
 Ele disse: “Chame seu nome Lo-Ammi, pois você não é meu povo, e eu não serei seu”.
+Yet o número dos filhos de Israel será como a areia do mar, que não pode ser medida ou contada; e acontecerá que, no lugar onde lhes foi dito: 'Vocês não são meu povo', eles serão chamados de 'filhos do Deus vivo'.
+The os filhos de Judá e os filhos de Israel serão reunidos, e se nomearão um chefe, e subirão da terra; pois grande será o dia de Jezreel.
 “Diga a seus irmãos: “Meu povo! e a suas irmãs, “Minha amada!”.
 Contend com sua mãe! Contender, pois ela não é minha esposa, nem eu sou seu marido; e deixá-la afastar a prostituição de seu rosto, e seus adultérios de entre seus seios;
 lest Eu a despojo nua, e fazê-la nua como no dia em que ela nasceu, e fazê-la como um sertão selvagem, e a colocaram como uma terra seca, e matá-la com sede.
@@ -22193,8 +22195,6 @@ Eu até desposarei vocês comigo em fidelidade; e você deve conhecer Yahweh.
 Acontecerá naquele dia, que eu vou responder”, diz Yahweh. “Eu responderei aos céus, e eles responderão à terra;
 e a terra responderá ao grão, e ao novo vinho, e ao óleo; e eles responderão a Jezreel.
 Eu a semearei para mim na terra; e eu terei piedade dela que não obteve misericórdia; e direi àqueles que não eram meu povo: “Vocês são meu povo”. e dirão: 'Você é meu Deus'”!
-
-
 Yahweh me disse: “Vá novamente, ame uma mulher amada por outra, e uma adúltera, assim como Yahweh ama as crianças de Israel, embora elas se voltem para outros deuses, e ame bolos de passas”.
 So Comprei-a para mim por quinze moedas de prata e um homer e meio de cevada.
 Eu disse a ela: “Você ficará comigo por muitos dias. Não farás de prostituta e não estarás com nenhum outro homem”. Eu também o serei para você”.
@@ -22318,6 +22318,7 @@ Meu povo está determinado a se virar de mim. Embora eles chamem ao Altíssimo, 
 Não vou executar a ferocidade da minha raiva. Eu não voltarei para destruir Efraim, pois eu sou Deus, e não o homem - o Santo entre vós. Eu não virei com raiva.
 Eles caminharão depois de Yahweh, que rugirá como um leão; pois ele vai rugir, e as crianças virão tremendo do oeste.
 Eles virão tremendo como um pássaro para fora do Egito, e como uma pomba fora da terra da Assíria; e eu os instalarei em suas casas”, diz Yahweh.
+Ephraim me rodeia de falsidade, e a casa de Israel com engano. Judá ainda se afasta de Deus, e é infiel ao Santo.
 Ephraim alimenta-se do vento, e persegue o vento leste. Ele multiplica continuamente as mentiras e a desolação. Eles fazem um pacto com a Assíria, e o petróleo é transportado para o Egito.
 Yahweh também tem uma controvérsia com Judah, e castigará Jacob de acordo com seus modos; de acordo com suas escrituras, ele lhe pagará.
 No útero, ele pegou seu irmão pelo calcanhar, e em sua virilidade ele lutou com Deus.
@@ -22332,7 +22333,6 @@ If Gilead é perverso, certamente eles não valem nada. Em Gilgal eles sacrifica
 Jacob fugiu para o país de Aram. Israel serviu para conseguir uma esposa. Para uma esposa, ele cuidava de rebanhos e rebanhos.
 Por um profeta Yahweh trouxe Israel do Egito, e por um profeta, ele foi preservado.
 Ephraim tem provocado amargamente a raiva. Portanto, seu sangue será deixado sobre ele, e seu Senhor retribuirá seu desprezo.
-
 Quando Ephraim falou, houve tremores. Ele se exaltou em Israel, mas quando ele se tornou culpado através de Baal, ele morreu.
 Agora eles pecam cada vez mais, e se fizeram imagens derretidas de sua prata, mesmo ídolos, de acordo com seu próprio entendimento, todos eles o trabalho dos artesãos. Dizem deles: “Eles oferecem sacrifício humano e beijam os bezerros”.
 Portanto, eles serão como a névoa da manhã, como o orvalho que passa cedo, como o palhiço que é conduzido com o redemoinho para fora da eira, e como a fumaça fora da chaminé.
@@ -22348,6 +22348,7 @@ A culpa de Ephraim é armazenada. Seu pecado é armazenado.
 As tristezas de uma mulher que está de parto virão sobre ele. Ele é um filho insensato, pois quando chega a hora, ele não vem para a abertura do útero.
 Eu os resgatarei do poder do Sheol. Eu os resgatarei da morte! Morte, onde estão suas pragas? Sheol, onde está sua destruição? “A compaixão será escondida dos meus olhos”.
 Embora ele seja frutífero entre seus irmãos, um vento leste virá, o sopro de Yahweh vindo do deserto; e sua mola se tornará seca, e sua fonte estará seca. Ele saqueará o depósito do tesouro.
+Samaria suportará sua culpa, pois ela se rebelou contra seu Deus. Eles cairão pela espada. Seus bebês serão despedaçados em pedaços, e suas mulheres grávidas serão rasgadas”.
 Israel, volte para Yahweh, seu Deus; pois você caiu por causa de seu pecado.
 Leve palavras com você, e volte para Yahweh. Diga-lhe: “Perdoe todos os nossos pecados”, e aceitar o que é bom; por isso, oferecemos touros como juramos de nossos lábios.
 Assyria não pode nos salvar. Não montaremos em cavalos; nem diremos mais nada ao trabalho de nossas mãos: “Nossos deuses”! pois em você o sem pai encontra misericórdia”.
@@ -22357,7 +22358,6 @@ Suas filiais se espalharão, e sua beleza será como a oliveira, e sua fragrânc
 Men habitará à sua sombra. Eles vão reviver como o grão, e florescem como a videira. Sua fragrância será como o vinho do Líbano.
 Ephraim, o que mais tenho que fazer com os ídolos? Eu respondo, e cuidarei dele. Eu sou como um cipreste verde; de mim se encontra sua fruta”.
 Quem é sábio, para que ele possa entender estas coisas? Quem é prudente, para que ele os conheça? Pois os caminhos de Yahweh estão certos, e os justos caminham neles, mas os rebeldes tropeçam neles.
-
 Palavra de Yahweh que veio a Joel, o filho de Pethuel.
 Ouçam isto, vocês anciãos, e escutem, todos vocês habitantes da terra! Isto já aconteceu em seus dias, ou nos dias de seus pais?
 Informe seus filhos sobre isso, e peça a seus filhos que digam a seus filhos, e seus filhos, outra geração.
@@ -22405,32 +22405,32 @@ As eiras estarão cheias de trigo, e as cubas transbordarão com vinho e óleo n
 Vou restaurar para vocês os anos que o gafanhoto em enxame comeu, o grande gafanhoto, o gafanhoto, e a lagarta, meu grande exército, que eu enviei entre vocês.
 Você terá muito que comer e ficar satisfeito, e louvará o nome de Yahweh, seu Deus, que tem lidado maravilhosamente com você; e meu povo nunca mais ficará desapontado.
 Você saberá que eu estou entre Israel, e que eu sou Yahweh, seu Deus, e que não há mais ninguém; e meu povo nunca mais ficará desapontado.
+“Acontecerá depois, que derramarei meu Espírito sobre toda a carne”; e seus filhos e suas filhas profetizarão. Seus velhos sonharão com sonhos. Seus jovens terão visões.
+And também sobre os criados e sobre as serviçais naqueles dias, Eu derramarei meu Espírito.
+I mostrará maravilhas nos céus e na terra: sangue, fogo e pilares de fumaça.
+The o sol será transformado em escuridão, e a lua em sangue, antes que chegue o grande e terrível dia de Yahweh.
+It acontecerá que quem chamar pelo nome de Yahweh será salvo; pois no Monte Zion e em Jerusalém haverá quem escape, como disse Yahweh, e entre os remanescentes, aqueles que Yahweh chama.
 “Pois, eis que naqueles dias, e nesse tempo, quando restauro a fortuna de Judá e Jerusalém,
 Vou reunir todas as nações, e os levará para o vale de Jehoshaphat; e eu executarei o julgamento sobre eles lá para meu povo, e por minha herança, Israel, a quem eles dispersaram entre as nações. Eles dividiram minhas terras,
 e lançaram sorteio para o meu povo, e deram um menino para uma prostituta, e venderam uma garota por vinho, para que eles pudessem beber.
 “Sim, e o que você é para mim, Tyre e Sidon, e todas as regiões da Filístia? Você vai me pagar? E se você me pagar, Devolverei rápida e rapidamente seu reembolso sobre sua própria cabeça.
 Porque você levou minha prata e meu ouro, e levaram meus melhores tesouros para seus templos,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+and venderam os filhos de Judá e os filhos de Jerusalém para os filhos dos gregos, que você pode removê-los longe de suas fronteiras.
+Behold, eu os agitarei para fora do lugar onde os vendeu, e devolverá seu reembolso com sua própria cabeça;
+and Eu venderei seus filhos e suas filhas nas mãos dos filhos de Judá, e eles os venderão aos homens de Sabá, a uma nação distante, pois Yahweh o disse”.
+Proclaim isto entre as nações: “Prepare-se para a guerra! Agitar os homens poderosos. Que todos os guerreiros se aproximem. Deixe-os subir.
+Beat suas partes de arado em espadas, e seus ganchos de poda em lanças. Que os fracos digam: “Eu sou forte”.
+Hurry e venham, todos vocês das nações vizinhas, e se reúnam”. Porque os seus poderosos devem ir até lá, Yahweh.
+“Que as nações se despertem, e subir até o vale de Jehoshaphat; pois ali eu me sentarei para julgar todas as nações vizinhas.
+Put na foice; para a colheita está madura. Venha, pisa, pois o lagar está cheio, as cubas transbordam, pois sua maldade é grande”.
+Multitudes, multidões no vale da decisão! Pois o dia de Yahweh está próximo no vale da decisão.
+The o sol e a lua estão escurecidos, e as estrelas retiram seu brilho.
+Yahweh rugirá de Zion, e trovões de Jerusalém; e os céus e a terra tremerão; mas Yahweh será um refúgio para seu povo, e um refúgio para as crianças de Israel.
+“Portanto, você saberá que eu sou Yahweh, seu Deus, morando em Zion, minha montanha sagrada. Então Jerusalém será santa, e nenhum desconhecido passará mais por ela.
+It acontecerá nesse dia, que as montanhas vão derrubar o vinho doce, as colinas fluirão com leite, todos os riachos de Judá fluirão com as águas; e uma fonte sairá da casa de Yahweh, e regará o vale de Shittim.
+Egypt será uma desolação e Edom será uma região desolada e selvagem, pela violência cometida contra as crianças de Judá, porque eles derramaram sangue inocente em suas terras.
+But Judah será habitada para sempre, e Jerusalém de geração em geração.
+I limparão seu sangue que eu não limpei, para Yahweh mora em Zion”.
 As palavras de Amós, que estava entre os pastores de Tecoa, que ele viu a respeito de Israel nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
 disse ele: “Yahweh bramirá de Zion, e pronunciar sua voz a partir de Jerusalém; e os pastos dos pastores chorarão, e o topo do Carmel murchará”.
 diz Yahweh: “Para três transgressões de Damasco, sim, para quatro”, Eu não vou recusar sua punição, porque eles debulharam Gilead com instrumentos de debulha de ferro;
@@ -22614,6 +22614,7 @@ Mesmo assim, os homens remaram com dificuldade para levá-los de volta à terra;
 Por isso gritaram a Javé, e disseram: “Nós te imploramos, Javé, nós te imploramos, não nos deixes morrer pela vida deste homem, e não nos deites sangue inocente; pois tu, Javé, fizeste o que te agradou”.
 Então eles pegaram Jonas e o jogaram no mar; e o mar cessou sua fúria.
 Então os homens temeram muito a Javé; e ofereceram um sacrifício a Javé e fizeram votos.
+Yahweh preparou um peixe enorme para engolir Jonas, e Jonas estava na barriga do peixe por três dias e três noites.
 Então Jonas rezou a Javé, seu Deus, da barriga do peixe.
 Ele disse, “Eu liguei por causa de minha aflição a Javé. Ele me respondeu. Da barriga do Sheol eu chorei. Você ouviu minha voz.
 Para você me atirou nas profundezas, no coração dos mares. A enchente estava ao meu redor. Todas as suas ondas e seus billows passaram sobre mim.
@@ -22624,7 +22625,6 @@ Desci até o fundo das montanhas. A terra me barrou para sempre; no entanto, voc
 Aqueles que consideram ídolos vaidosos abandonam sua própria misericórdia.
 Mas sacrificarei a vocês com a voz da ação de graças. Pagarei o que prometi. A salvação pertence a Yahweh”.
 Então Yahweh falou com os peixes, e vomitou Jonas em terra firme.
-
 A palavra de Yahweh veio a Jonah pela segunda vez, dizendo,
 “Levanta-te, vai a Nínive, aquela grande cidade, e prega a ela a mensagem que eu te dou”.
 Então Jonas se levantou, e foi para Níniveh, de acordo com a palavra de Javé. Agora Nínive era uma cidade extremamente grande, com três dias de viagem de travessia.
@@ -22700,7 +22700,6 @@ Sinta dor, e dê à luz, filha de Sião, como uma mulher em situação de trabal
 Agora muitas nações se reuniram contra você, dizem eles, “Que ela seja contaminada”, e deixar que nossos olhos se regozijem sobre Zion”.
 Mas eles não conhecem os pensamentos de Yahweh, nem eles entendem seu conselho; pois ele as reuniu como as roldanas para a eira.
 Levanta-te e debulha, filha de Zion, pois eu farei seu ferro de chifre, e eu farei seus cascos de bronze. Você vai bater em pedaços em muitas pessoas. Dedicarei seus ganhos a Yahweh, e sua substância para o Senhor de toda a terra.
-
 Agora você deve se reunir em tropas, filha de tropas. Ele nos cercou. Eles atacarão o juiz de Israel com uma vara na bochecha.
 Mas você, Belém Ephrathah, ser pequeno entre os clãs de Judá, de vocês sairá um para mim que será o governante em Israel; cujas saídas são de outrora, de tempos antigos.
 Portanto, ele os abandonará até o momento em que ela, que está em trabalho de parto, der à luz. Então o resto de seus irmãos voltará para os filhos de Israel.
@@ -22715,6 +22714,7 @@ Cortarei as cidades de sua terra e derrubará todas as suas fortalezas.
 Destruirei a feitiçaria de sua mão. Você não terá adivinhadores.
 I cortará suas imagens gravadas e seus pilares de entre vocês; e você não mais adorará o trabalho de suas mãos.
 Desarraigarei seus bastões de Asherah de entre vocês; e eu destruirei suas cidades.
+I vai executar a vingança com raiva e a ira sobre as nações que não ouviram”.
 Ouça agora o que Yahweh diz: “Levante-se, pleiteie seu caso diante das montanhas”, e deixe as colinas ouvirem o que você tem a dizer.
 Ouça, suas montanhas, a acusação de Yahweh, e as fundações duradouras da terra; pois Yahweh tem um caso contra seu povo, e ele irá contender com Israel.
 Meu povo, o que eu fiz com você? Como eu tenho sobrecarregado você? Responda-me!
@@ -22765,6 +22765,7 @@ Um de vocês que inventa o mal contra Yahweh, que aconselha a maldade, já saiu.
 Yahweh diz: “Embora eles estejam em plena força e também muitos, mesmo assim serão cortados e falecerão. Embora eu os tenha afligido, não os afligirei mais”.
 Agora vou quebrar seu jugo de vocês, e romperei seus laços”.
 Yahweh comandou a seu respeito: “Nenhum descendente levará mais o seu nome”. Fora da casa de seus deuses, eu cortarei a imagem gravada e a imagem derretida. Eu farei sua sepultura, pois você é vil”.
+Behold, sobre as montanhas os pés daquele que traz boas notícias, que publica a paz! Guarde seus banquetes, Judah! Realize seus votos, pois o maligno não passará mais por você. Ele está totalmente isolado.
 Aquele que traça em pedaços se deparou com você. Guarde a fortaleza! Cuidado com o caminho! Fortaleça sua cintura! Fortifique poderosamente!
 Para Yahweh restaura a excelência de Jacó como a excelência de Israel, pois os destruidores os destruíram e arruinaram seus ramos de vinha.
 O escudo de seus poderosos homens se torna vermelho. Os homens corajosos estão em escarlate. As carruagens piscam com aço no dia de sua preparação, e as lanças de pinheiro são brandidas.
@@ -22778,7 +22779,6 @@ She está vazio, vazio e desperdício. O coração derrete, os joelhos batem jun
 Where é a toca dos leões, e o lugar de alimentação dos leõezinhos, onde o leão e a leoa caminharam com os filhotes de leão, e ninguém os fez ter medo?
 O leão rasgou em pedaços suficientes para suas crias, e estrangulou a presa para suas leoas, e encheu suas cavernas com a matança e seus covis com a presa.
 “Eis que estou contra vós”, diz Javé dos Exércitos, “e queimarei seus carros na fumaça, e a espada devorará vossos leões jovens; e cortarei vossas presas da terra, e a voz de vossos mensageiros não mais será ouvida”.
-
 Ai da cidade sangrenta! Está tudo cheio de mentiras e roubos - sem fim para a presa.
 O barulho do chicote, o barulho do chocalhar das rodas, os cavalos empinando, e as carruagens de cerco,
 o cavaleiro carregando, e a espada cintilante, a lança cintilante, e uma multidão de mortos, e um grande monte de cadáveres, e não há fim para os corpos. Eles tropeçam em seus corpos
@@ -22962,6 +22962,10 @@ Então o anjo que falou comigo me disse: “Proclama, dizendo: 'Javé dos Exérc
 Estou muito zangado com as nações que estão à vontade; pois eu estava apenas um pouco descontente, mas elas acrescentaram à calamidade”.
 Portanto Yahweh diz: “Voltei a Jerusalém com misericórdia. Minha casa será construída nela”, diz Javé dos Exércitos, “e uma linha será estendida sobre Jerusalém””.
 “Proclamar mais adiante, dizendo: 'Javé dos Exércitos diz: “Minhas cidades voltarão a transbordar de prosperidade, e Javé voltará a confortar Sião, e voltará a escolher Jerusalém””.
+I ergueu meus olhos e viu, e eis que quatro chifres.
+I perguntou ao anjo que falou comigo: “O que são estes?”. Ele me respondeu: “Estes são os chifres que dispersaram Judá, Israel e Jerusalém”.
+Yahweh me mostrou quatro artesãos.
+Then Eu perguntei: “O que estes vêm fazer?”. Ele disse: “Estes são os chifres que dispersaram Judá, de modo que nenhum homem levantou a cabeça; mas estes vieram para aterrorizá-los, para derrubar os chifres das nações que levantaram seu chifre contra a terra de Judá para espalhá-lo”.
 Levantei os olhos, e vi, e eis que um homem com uma linha de medição na mão.
 Então perguntei: “Para onde você vai?”. Ele me disse: “Para medir Jerusalém, para ver qual é sua largura e qual é seu comprimento”.
 Eis que o anjo que falou comigo saiu, e outro anjo saiu ao seu encontro,
@@ -22975,10 +22979,6 @@ Sing e regozije-se, filha de Sião! Pois eis que eu venho e habitarei dentro de 
 Many nações se unirão a Javé nesse dia, e serão meu povo; e habitarei entre vós, e sabereis que Javé dos Exércitos me enviou a vós.
 Iavé herdará Judá como sua porção na terra santa, e escolherá novamente Jerusalém.
 Silêncio, toda carne, perante Javé; pois ele se despertou de sua santa morada”!
-
-
-
-
 Ele me mostrou Josué, o sumo sacerdote de pé diante do anjo de Yahweh, e Satanás de pé à sua direita para ser seu adversário.
 Javé disse a Satanás: “Javé te repreende, Satanás! Sim, Javé, que escolheu Jerusalém, repreende-o! Isto não é um pau em chamas arrancado do fogo”?
 Agora Josué estava vestido com roupas sujas, e estava de pé diante do anjo.
@@ -23205,12 +23205,12 @@ Agora chamamos os orgulhosos de felizes; sim, aqueles que praticam a maldade sã
 Então aqueles que temiam a Javé falaram uns com os outros; e Javé ouviu e escutou, e um livro de memória foi escrito diante dele para aqueles que temiam a Javé e que honraram seu nome.
 Eles serão meus”, diz Javé dos Exércitos, “minha própria posse no dia em que eu fizer”. Eu os pouparei, como um homem poupa seu próprio filho que o serve”.
 Então você voltará e discernirá entre o justo e o ímpio, entre aquele que serve a Deus e aquele que não o serve.
-
-
-
-
-
-
+“Pois eis que chega o dia, ardendo como uma fornalha, em que todos os orgulhosos e todos os que trabalham a maldade serão restolho. O dia que vem os queimará”, diz Yahweh dos Exércitos, “de modo que não lhes deixará nem raiz nem ramo”.
+But a vós que temeis meu nome, o sol da justiça surgirá com a cura em suas asas”. Vocês sairão e saltarão como bezerros do estábulo.
+You pisará os ímpios; pois eles serão cinzas sob as plantas de seus pés no dia em que eu fizer”, diz Yahweh dos Exércitos.
+“Lembre-se da lei de Moisés, meu servo, que lhe ordenei em Horeb para todo Israel, até mesmo estatutos e ordenanças.
+Behold, eu lhe enviarei Elias, o profeta, antes que chegue o grande e terrível dia de Iavé.
+He virará os corações dos pais para os filhos e os corações dos filhos para seus pais, para que eu não venha e golpeie a terra com uma maldição”.
 O livro da genealogia de Jesus Cristo, o filho de David, o filho de Abraão.
 Abraham tornou-se o pai de Isaac. Isaac se tornou o pai de Jacob. Jacó se tornou o pai de Judá e seus irmãos.
 Judá tornou-se o pai de Perez e Zerah por Tamar. Pérez se tornou o pai de Hezron. Hezron se tornou o pai de Ram.
@@ -27691,7 +27691,7 @@ Seeing então que estas coisas não podem ser negadas, você deve ficar quieto e
 Pois você trouxe estes homens aqui, que não são nem ladrões de templos nem blasfemadores de sua deusa.
 Se, portanto, Demétrio e os artesãos que estão com ele têm um caso contra alguém, os tribunais estão abertos e há procônsules. Deixe-os apresentar queixa uns contra os outros.
 Mas se você procurar algo sobre outros assuntos, isso será resolvido na assembléia regular.
-Pois, de fato, corremos o risco de sermos acusados de motim de hoje, não havendo nenhuma causa. Com relação a isso, não poderíamos dar conta desta comoção”.
+Pois, de fato, corremos o risco de sermos acusados de motim de hoje, não havendo nenhuma causa. Com relação a isso, não poderíamos dar conta desta comoção”. Quando ele falou assim, ele dispensou a assembléia.
 Depois que o alvoroço cessou, Paulo mandou chamar os discípulos, despediu-se deles e partiu para ir à Macedônia.
 Quando ele passou por aquelas partes e os encorajou com muitas palavras, ele veio para a Grécia.
 Quando ele passou três meses lá, e um complô foi feito contra ele pelos judeus quando ele estava prestes a embarcar para a Síria, ele decidiu voltar pela Macedônia.

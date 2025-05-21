@@ -926,6 +926,7 @@ Laban sade vidare till Jakob: ”Se detta röse och se denna stod som jag rest m
 Röset här ska vara ett vittne, och stoden ska vara ett vittne att jag inte ska gå förbi röset mot dig med onda avsikter, och att inte heller du ska gå mot mig förbi röset och stoden.
 Abrahams och Nahors Gud ska vara domare mellan oss, han som var deras fars Gud.” Och Jakob svor eden vid honom som hans far Isak vördade.
 Sedan offrade Jakob slaktoffer på berget och bjöd in sina släktingar till en måltid. De åt och stannade på berget över natten.
+På morgonen steg Laban upp tidigt, och när han hade kysst sina barnbarn och sina döttrar och välsignat dem, gav han sig i väg och återvände hem.
 Och Jakob fortsatte sin färd. Då mötte Guds änglar honom.
 När han såg dem sade han: ”Här är Guds skara.” Och han kallade platsen Mahanajim.
 Jakob skickade budbärare framför sig till sin bror Esau i Seirs land på Edoms mark
@@ -958,7 +959,6 @@ Och Jakob frågade: ”Låt mig få veta ditt namn.” Han svarade: ”Varför f
 Jakob kallade platsen Peniel, för han tänkte: ”Jag har sett Gud ansikte mot ansikte, och ändå har mitt liv skonats.”
 När han hade kommit förbi Penuel såg han solen gå upp. Och han haltade på höften.
 Därför äter Israels barn än i dag inte höftsenan som ligger på höftleden, eftersom han slog Jakob på höftleden, på höftsenan.
-
 Jakob lyfte blicken och fick se Esau komma med fyrahundra man. Då fördelade han sina barn på Lea och Rakel och de båda slavinnorna.
 Han lät slavinnorna med deras barn gå främst, Lea med hennes barn efter dem och Rakel med Josef sist.
 Själv gick han framför dem och bugade sig sju gånger ner till jorden innan han kom fram till sin bror.
@@ -1709,10 +1709,6 @@ Men de egyptiska spåmännen gjorde samma tecken genom sina magiska konster. Och
 Farao gick därifrån hem till sitt palats och brydde sig inte om det heller.
 Och i hela Egypten grävde man efter dricksvatten kring Nilen, eftersom vattnet i floden inte var drickbart.
 Sedan gick det sju dagar efter att Herren hade slagit Nilen.
-
-
-
-
 Därefter sade Herren till Mose: ”Gå till farao och säg till honom: Så säger Herren: Släpp mitt folk, så att de kan hålla gudstjänst åt mig!
 Men om du vägrar att släppa dem, ska jag plåga hela ditt land med grodor.
 Nilen ska vimla av grodor. De ska stiga upp och komma in i ditt hus, in i ditt sovrum och upp i din säng, in i dina tjänares hus och bland ditt folk och i dina bakugnar och baktråg.
@@ -1741,6 +1737,10 @@ Då kallade farao till sig Mose och Aron och sade: ”Gå och offra åt er Gud h
 Men Mose svarade: ”Det skulle inte vara rätt att göra så, för vi offrar sådant åt Herren vår Gud som är avskyvärt för egyptierna. Om vi skulle offra sådant som egyptierna avskyr inför deras ögon skulle de säkert stena oss.
 Vi vill gå tre dagsresor ut i öknen och offra åt Herren vår Gud, så som han befaller oss.”
 Då sade farao: ”Jag släpper er så att ni kan offra åt Herren er Gud i öknen. Gå bara inte för långt bort. Be för mig!”
+Mose svarade: ”Ja, när jag kommer ut från dig ska jag be till Herren, att flugsvärmarna i morgon viker bort från farao, hans tjänare och hans folk. Men farao bör inte bedra oss igen och vägra släppa folket så att de kan offra åt Herren.”
+Mose gick ut från farao och bad till Herren,
+och Herren gjorde som Mose hade begärt. Han tog bort flugsvärmarna från farao, hans tjänare och hans folk, så att inte en enda fluga fanns kvar.
+Men farao förhärdade sitt hjärta den gången också och släppte inte folket.
 Herren sade till Mose: ”Gå till farao och säg till honom: Så säger Herren, hebreernas Gud: Släpp mitt folk, så att de kan hålla gudstjänst åt mig!
 För om du vägrar släppa dem och fortfarande håller dem kvar,
 se, då ska Herrens hand komma med en mycket svår pest över din boskap på marken: hästar, åsnor, kameler, kor och får.
@@ -2112,7 +2112,6 @@ Om någon öppnar en brunn eller gräver en ny brunn och inte täcker över den 
 ska brunnens ägare ge ersättning i pengar till djurets ägare, men den döda kroppen ska vara hans.
 Om någon har en oxe som stångar en annan oxe så att den dör, ska de sälja den levande oxen och dela betalningen för den. Dessutom ska de dela den döda kroppen.
 Men om det var känt att oxen redan tidigare brukade stångas och hans ägare ändå inte tog vara på honom, ska han ersätta oxe med oxe, men den döda kroppen ska vara hans.
-
 Om någon stjäl en oxe eller ett får och slaktar eller säljer djuret, ska han ge fem oxar som ersättning för oxen och fyra får som ersättning för fåret.
 Om tjuven ertappas vid inbrottet och blir slagen till döds, vilar ingen blodskuld på den som försvarar sin egendom.
 Men om solen hade gått upp när det hände, då är det blodskuld. Tjuven ska ge full ersättning. Äger han ingenting ska han säljas, till betalning för vad han stulit.
@@ -2143,6 +2142,7 @@ Manteln är ju det enda täcke han har, och med den skyler han sin kropp. Vad sk
 Gud ska du inte häda, och en ledare för ditt folk ska du inte förbanna.
 Du ska inte dröja att bära fram som gåva av det som fyller din lada och av det som kommer från din vinpress. Den förstfödde av dina söner ska du ge åt mig.
 På samma sätt ska du göra med din nötboskap och småboskap. I sju dagar ska de stanna hos sina mödrar, men på åttonde dagen ska du ge dem åt mig.
+Ni ska vara mina heliga. Köttet av ett djur som blivit ihjälrivet på marken ska ni inte äta utan kasta det åt hundarna.
 Du ska inte sprida ett falskt rykte. Du ska inte stödja den ogudaktige genom att bli ett falskt vittne.
 Du ska inte följa mängden och rätta dig efter den i det onda, så att du vränger rätten när du vittnar i något mål.
 Du ska inte vara partisk för den fattige i hans rättssak.
@@ -2848,13 +2848,6 @@ Han ska ersätta det han har undanhållit av det helgade och lägga till en femt
 Om någon syndar utan att veta det och bryter mot något Herrens bud och gör sådant som inte får göras, drar han på sig skuld och bär på missgärning.
 Han ska som skuldoffer föra fram till prästen en felfri bagge av småboskapen efter det värde du bestämmer. Och när prästen bringar försoning för honom för den synd han har begått av misstag och utan att veta det får han förlåtelse.
 Det är ett skuldoffer, eftersom han har dragit på sig skuld inför Herren.
-
-
-
-
-
-
-
 Herren talade till Mose. Han sade:
 Om någon syndar och handlar trolöst mot Herren genom att ljuga för sin nästa om något som denne anförtrott honom eller överlämnat i hans vård, eller om något som han har tagit med våld, eller ifall han berövat sin nästa något genom utpressning,
 eller om han har hittat något borttappat och ljuger om det och svär falskt i någon sak, vad det än är som en människa kan göra sig skyldig till,
@@ -2878,6 +2871,13 @@ Detta är den offergåva som Aron och hans söner ska offra åt Herren på den d
 Det ska bakas på plåt med olja, och när det är blandat ska du bära fram det. Du ska offra det sönderdelat som när man offrar ett matoffer i stycken, till en ljuvlig doft för Herren.
 Den präst bland Arons söner som blir smord i hans ställe ska göra det. Detta ska vara en evig stadga. Som ett heloffer ska det brännas åt Herren.
 En prästs matoffer ska alltid vara ett heloffer. Det får inte ätas.
+Herren talade till Mose. Han sade:
+Säg till Aron och hans söner: Detta är lagen om syndoffret: På samma plats som brännofferdjuret slaktas ska syndofferdjuret slaktas inför Herrens ansikte. Det är högheligt.
+Den präst som offrar syndoffret ska äta det. På en helig plats ska det ätas, i förgården till uppenbarelsetältet.
+Var och en som rör vid köttet blir helig. Om något av blodet stänks på någons kläder, ska man tvätta av det nerstänkta stället på en helig plats.
+Det lerkärl som offerköttet har kokats i ska slås sönder, men om det har kokats i ett kopparkärl ska det skuras och sköljas med vatten.
+Alla av manligt kön bland prästerna får äta det. Det är högheligt.
+Men sådant syndoffer vars blod bärs in i uppenbarelsetältet för att bringa försoning i helgedomen får inte ätas. Det ska brännas upp i eld.
 Detta är lagen om skuldoffret: Det är högheligt.
 På samma plats som man slaktar brännofferdjuret ska man slakta skuldofferdjuret och man ska stänka blodet runt omkring på altaret.
 Allt fettet ska man offra, svansen och det fett som omsluter inälvorna,
@@ -4229,6 +4229,21 @@ De föll levande ner i dödsriket med allt de ägde, och jorden täckte över de
 Hela Israel som stod runt omkring dem flydde vid deras rop, för de sade: ”Annars slukas vi också av jorden!”
 Och eld gick ut från Herren och förtärde de tvåhundrafemtio männen som hade burit fram rökelse.
 Herren talade till Mose. Han sade:
+”Säg till Eleasar, prästen Arons son, att han ska ta ut fyrfaten ur branden och kasta elden långt bort, för de har blivit heliga.
+Och dessa fyrfat som tillhörde männen som syndade och miste sina liv, dem ska man hamra ut till plåtar och täcka altaret med, för de har varit framburna inför Herrens ansikte och har därför blivit heliga. De ska vara ett tecken för Israels barn.”
+Då tog prästen Eleasar de fyrfat av koppar som de uppbrända hade burit fram, och man hamrade ut dem för att täcka altaret.
+De skulle vara till en påminnelse för Israels barn att ingen främling som inte var av Arons släkt skulle träda fram och tända rökelse inför Herrens ansikte, för att inte bli som Kora och hans grupp – allt i enlighet med vad Herren hade sagt honom genom Mose.
+Men dagen efter klagade hela Israels församling mot Mose och Aron och sade: ”Det är ni som har dödat Herrens folk!”
+Och det hände att när församlingen samlades mot Mose och Aron och de vände sig mot uppenbarelsetältet, se, då täcktes det av molnskyn och Herrens härlighet visade sig.
+Mose och Aron gick fram inför uppenbarelsetältet,
+och Herren sade till Mose:
+”Gå bort ifrån denna församling, så ska jag i ett ögonblick förgöra dem.” Då föll de ner på sina ansikten.
+Och Mose sade till Aron: ”Ta ditt fyrfat och lägg eld från altaret på det och strö på rökelse och bär det genast till församlingen och bringa försoning för dem, eftersom vrede har gått ut från Herrens ansikte. Hemsökelsen har börjat.”
+Aron tog det Mose hade sagt och skyndade mitt in i församlingen. Och se, hemsökelsen hade redan börjat bland folket. Aron lade på rökelse och bringade försoning för folket.
+Han stod mellan de döda och de levande, och hemsökelsen upphörde.
+De som hade dött genom hemsökelsen utgjorde 14 700 förutom de som dog för Koras skull.
+Sedan vände Aron tillbaka till Mose vid uppenbarelsetältets ingång, eftersom hemsökelsen hade upphört.
+Herren talade till Mose. Han sade:
 ”Tala till Israels barn och ta från dem en stav för varje stam. Från alla deras stamhövdingar ska du ta tolv stavar och skriva vars och ens namn på hans stav.
 Arons namn ska du skriva på Levis stav, för huvudmannen för denna stams familjer ska ha en stav.
 Sedan ska du lägga in dem i uppenbarelsetältet framför vittnesbördet där jag möter er.
@@ -4241,21 +4256,6 @@ Och Herren sade till Mose: ”Lägg tillbaka Arons stav framför vittnesbördet.
 Mose gjorde det. Så som Herren hade befallt honom, så gjorde han.
 Israels barn sade till Mose: ”Se, vi dör, vi går under, vi går under allihop!
 Alla som kommer i närheten av Herrens tabernakel kommer att dö. Ska vi dö allihop?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Herren sade till Aron: ”Du och dina söner och din fars hus med dig ska bära den missgärning som hör till helgedomen, och du och dina söner med dig ska bära den missgärning som hör till ert prästämbete.
 Men också dina bröder av Levi stam, din fars stam, ska du låta få tillträde dit tillsammans med dig, och de ska hålla sig till dig och betjäna dig medan du och dina söner med dig gör tjänst vid vittnesbördets tält.
 De ska sköta vad du har att sköta och vad som hör till skötseln av tältet. Men de får inte komma nära de heliga föremålen eller altaret, för att inte både de och ni ska dö.
@@ -4647,6 +4647,7 @@ Som brännoffer, som eldsoffer, ska ni då offra till en ljuvlig doft för Herre
 med det matoffer och dryckesoffer som ska offras tillsammans med dem, med tjuren, baggen och lammen efter deras antal på föreskrivet sätt.
 Dessutom ska ni offra en syndofferbock, utöver det dagliga brännoffret med tillhörande matoffer och dryckesoffer.
 Detta ska ni offra åt Herren vid era högtider förutom era löftesoffer och frivilliga offer, vare sig det är brännoffer, matoffer, dryckesoffer eller gemenskapsoffer.”
+
 Mose sade detta till Israels barn, precis som Herren hade befallt Mose.
 Mose talade till huvudmännen för Israels barns stammar. Han sade: ”Detta är vad Herren har befallt:
 Om en man ger ett löfte åt Herren eller svär en ed med en bestämd förpliktelse, får han inte bryta sitt ord. Han ska i allt göra vad hans mun har talat.
@@ -4662,8 +4663,7 @@ och hennes man hör det men inte säger något till henne om det och inte säger
 Men om hennes man upphäver dem samma dag han hör dem, då ska allt som hennes läppar har talat vara utan gällande kraft, om det än gäller löften eller någon bestämd förpliktelse. Hennes man har upphävt dem, därför ska Herren förlåta henne.
 Varje löfte och varje edlig förpliktelse att fasta kan hennes man stadfästa eller upphäva.
 Men om hennes man inte den dagen eller nästa dag säger något till henne om det, stadfäster han alla hennes löften och alla hennes förpliktelser. Han ger dem gällande kraft genom att inte säga något till henne samma dag han hör dem.
-Men om han upphäver dem en tid efter det att han har hört dem, då kommer han att bära på hennes missgärning.”
-Detta är de stadgar som Herren gav Mose angående en man och hans hustru, och angående en far och hans dotter, medan hon ännu är ung och bor i sin fars hus.
+Men om han upphäver dem en tid efter det att han har hört dem, då kommer han att bära på hennes missgärning.” Detta är de stadgar som Herren gav Mose angående en man och hans hustru, och angående en far och hans dotter, medan hon ännu är ung och bor i sin fars hus.
 Herren talade till Mose. Han sade:
 ”Ta hämnd på midjaniterna för Israels barn. Därefter ska du samlas till ditt folk.”
 Och Mose sade till folket: ”Låt några av era män beväpna sig till strid. De ska rycka ut mot Midjan och utföra Herrens hämnd på Midjan.
@@ -5271,6 +5271,7 @@ Var noga med att lyda alla dessa bud som jag ger dig, så att det till evig tid 
 När Herren din Gud har utrotat de hednafolk som du nu kommer till för att fördriva, och du har drivit bort dem och bor i deras land,
 se då till att du inte lockas till att följa deras seder, sedan de blivit röjda ur vägen för dig. Fråga inte efter deras gudar, så att du säger: ”Hur dyrkade dessa folk sina gudar? Jag vill göra på samma sätt.”
 Så ska inte du göra när du tillber Herren din Gud, eftersom allt som Herren avskyr och hatar har de gjort till sina gudars ära. Till och med sina söner och döttrar bränner de upp i eld åt sina gudar.
+Allt som jag befaller er ska ni vara noga med att följa. Du ska inte lägga något till det och inte ta något därifrån.
 Om en profet eller drömmare träder fram hos dig och han ger dig ett tecken eller under,
 och sedan det tecknet eller undret inträffar och han då säger till dig: ”Låt oss följa andra gudar, gudar som du inte känner, och låt oss tjäna dem”,
 då ska du inte lyssna till den profetens ord eller den drömmaren. Det är Herren er Gud som prövar er, för att se om ni älskar Herren er Gud av hela ert hjärta och hela er själ.
@@ -5289,7 +5290,6 @@ ska du slå den stadens invånare med svärd. Du ska viga den åt förintelse me
 Allt byte du får ska du samla ihop mitt på torget och sedan ska du bränna upp staden i eld tillsammans med allt bytet som ett heloffer åt Herren din Gud. Staden ska bli en grushög för evig tid och aldrig mer byggas upp igen.
 Låt inget av det vigda bli kvar i dina händer. Då ska Herren vända sig från sin glödande vrede och visa dig barmhärtighet och förbarma sig över dig och föröka dig, så som han med ed har lovat dina fäder,
 när du lyssnar till Herren din Guds röst och håller alla hans bud som jag i dag ger dig, och gör det som är rätt i Herren din Guds ögon.
-
 Ni är Herren er Guds barn. Ni ska inte rista märken på er eller göra er skalliga ovanför pannan för de döda,
 för du är ett folk som är helgat åt Herren din Gud, och dig har Herren utvalt till att vara hans egendomsfolk bland alla folk på jorden.
 Du ska inte äta något avskyvärt.
@@ -5499,6 +5499,7 @@ Men mot flickan ska du inte göra något. Hon har inte begått någon synd som f
 Han träffade på henne ute på marken, och den trolovade flickan kan ha ropat men det fanns ingen som kunde rädda henne.
 Om en man träffar en jungfru som inte är trolovad och griper tag i henne och ligger med henne, och de ertappas,
 så ska mannen som låg med flickan ge femtio siklar silver åt flickans far och henne själv ska han ta till sin hustru, därför att han har kränkt henne. Han får inte skilja sig från henne så länge han lever.
+En man får inte ta sin fars hustru och därmed vanära sin fars bädd.
 Ingen som är kastrerad, vare sig genom krossning eller stympning, ska komma in i Herrens församling.
 Ingen som är född i äktenskapsbrott eller blodskam ska komma in i Herrens församling. Inte ens efterkommande i tionde led ska komma in i Herrens församling.
 Ingen ammonit eller moabit ska komma in i Herrens församling, inte ens efterkommande i tionde led ska någonsin komma in i Herrens församling,
@@ -5524,7 +5525,6 @@ Men om du låter bli att avge något löfte, kommer inte synd att vila på dig.
 Vad dina läppar har talat ska du hålla och göra i enlighet med det frivilliga löfte du med din mun har avgett inför Herren din Gud.
 När du kommer in i en vingård som tillhör din nästa får du äta så mycket druvor du vill så att du blir mätt, men du får inte lägga något i ditt kärl.
 När du kommer in på din nästas sädesfält får du plocka ax med din hand, men du får inte röra din nästas säd med en skära.
-
 Om en man gifter sig med en kvinna och är tillsammans med henne och sedan inte vill veta av henne, därför att han har kommit på henne med något oanständigt, och han skriver ett skilsmässobrev åt henne och ger henne det i handen och skickar bort henne från sitt hus,
 och hon lämnar hans hus och går och blir en annans hustru,
 och även denne andre man får motvilja mot henne och skriver skilsmässobrev åt henne och ger henne det i handen och skickar bort henne från sitt hus, eller om den andre mannen som tagit henne till hustru dör,
@@ -5679,7 +5679,6 @@ Bland de folken ska du inte få någon ro eller någon vila för din fot. Herren
 Du ska sväva i största livsfara, du ska darra både natt och dag och inte vara säker för ditt liv.
 På morgonen kommer du att säga: ”Om det ändå vore kväll!”, och på kvällen kommer du att säga: ”Om det ändå vore morgon!” Detta på grund av den fruktan du ska känna i ditt hjärta och den syn dina ögon ska se.
 Och Herren ska föra dig tillbaka till Egypten på skepp, på den väg om vilken jag sade till dig: ”Du ska inte se den mer.” Där ska ni bjuda ut er till salu som slavar och slavinnor åt era fiender. Men ingen ska vilja köpa.
-
 Dessa är orden i det förbund som Herren befallde Mose att sluta med Israels barn i Moabs land, förutom det förbund som han hade slutit med dem vid Horeb.
 Mose kallade samman hela Israel och sade till dem: Ni har sett allt som Herren har gjort inför era ögon i Egyptens land med farao och alla hans tjänare och hela hans land,
 de stora prövningar som du med egna ögon har sett, de stora tecknen och undren.
@@ -5708,6 +5707,7 @@ Och man ska svara: ”Därför att de övergav det förbund som Herren, deras f�
 De gick bort och tjänade andra gudar och tillbad dem, gudar som de inte kände och som han inte hade tilldelat dem.
 Därför upptändes Herrens vrede mot detta land, så att han lät varje förbannelse som är uppskriven i denna bok komma över det.
 Och Herren ryckte upp dem ur deras land med vrede och harm och stor förtörnelse och förkastade dem till ett annat land, så som nu har skett.”
+Det fördolda hör Herren vår Gud till. Men det uppenbarade gäller för oss och våra barn till evig tid, för att vi ska följa alla ord i denna lag.
 När allt detta kommer över dig, välsignelsen och förbannelsen som jag har förelagt dig, ska du ta det till ditt hjärta bland alla de hednafolk dit Herren din Gud har fördrivit dig.
 Du ska då vända om till Herren din Gud och lyda hans röst i allt som jag i dag befaller dig, du och dina barn, av hela ditt hjärta och av hela din själ.
 Då ska Herren din Gud göra slut på din fångenskap och förbarma sig över dig. Herren din Gud ska då åter samla dig från alla folk dit han har skingrat dig.
@@ -7771,6 +7771,7 @@ Och Jonatan ropade efter pojken: ”Fort, skynda dig, stanna inte!” Pojken som
 Men han visste inte vad det var fråga om, bara Jonatan och David visste det.
 Jonatan lämnade sina vapen till pojken som han hade med sig och sade till honom: ”Gå, ta med dem till staden.”
 Men sedan pojken hade gått, kom David fram från södra sidan. Han föll ner till jorden på sitt ansikte och bugade sig tre gånger. De kysste varandra och grät tillsammans, och David grät högt.
+
 Jonatan sade till David: ”Gå i frid. Vi har båda gett vår ed vid Herrens namn när vi sade: Herren ska vara vittne mellan mig och dig, mellan mina efterkommande och dina för all framtid.”
 David kom till prästen Ahimelek i Nob. Men Ahimelek blev förskräckt när han mötte David och frågade honom: ”Varför kommer du ensam, har du ingen med dig?”
 David svarade prästen Ahimelek: ”Kungen har gett mig ett uppdrag och sagt till mig: Ingen får veta något om ärendet jag skickat och beordrat dig till. Mina män har jag visat till det och det stället.
@@ -7787,7 +7788,6 @@ David lade märke till dessa ord och blev mycket rädd för kung Akish i Gat.
 Därför ändrade han sitt beteende inför dem och spelade galen när de ville hålla fast honom. Han gjorde märken på dörrarna i porten och lät saliven rinna ner i skägget.
 Då sade Akish till sina tjänare: ”Ni ser ju att mannen är galen. Varför kommer ni med honom till mig?
 Har jag så ont om galningar att ni måste ta hit den där för att bära sig åt inför mig? Ska en sådan få komma in i mitt hus?”
-
 David begav sig därifrån och flydde bort till Adullams grotta. När hans bröder och hela hans fars hus fick höra det kom de ner dit till honom.
 Alla som var i svårigheter, hade fordringsägare eller var missnöjda samlades hos honom, och han blev deras ledare. Omkring fyrahundra man anslöt sig till honom.
 Därifrån begav sig David till Mispe i Moab. Till kungen i Moab sade han: ”Låt min far och min mor få komma över hit och vara hos er tills jag får veta vad Gud vill göra med mig.”
@@ -7839,6 +7839,7 @@ Saul gick med sina män för att söka efter David. Men David fick reda på det 
 Saul gick på ena sidan av berget och David och hans män på den andra sidan. Men medan David skyndade sig för att komma undan Saul, och Saul och hans män försökte omringa David och hans män för att gripa dem,
 kom en budbärare till Saul och sade: ”Skynda dig och kom, för filisteerna har ryckt in i landet!”
 Då slutade Saul förfölja David och drog bort mot filisteerna. Därför fick stället namnet Sela-Hammachlekot.
+
 David drog upp därifrån och höll till bland En-Gedis bergfästen.
 När Saul kom tillbaka från filisteerna berättade man för honom att David var i En-Gedis öken.
 Då tog Saul tretusen män, utvalda ur hela Israel, och gav sig av för att söka efter David och hans män på Stenbocksklipporna.
@@ -7860,8 +7861,7 @@ och sade till David: ”Du är mer rättfärdig än jag, för du har gjort gott 
 Du har i dag visat din godhet mot mig och inte dödat mig när Herren överlämnade mig i din hand.
 När man möter sin fiende, brukar man då låta honom gå sin väg i frid? Må Herren löna dig med gott för det du gjort mot mig i dag.
 Nu vet jag säkert att du ska bli kung och att Israels kungadöme ska förbli i din hand.
-Men lova mig nu med ed vid Herren att du inte utrotar mina efterkommande och inte utplånar mitt namn ur min fars hus.”
-Då lovade David detta med ed inför Saul. Därefter vände Saul hem. Men David och hans män drog upp till bergsfästet.
+Men lova mig nu med ed vid Herren att du inte utrotar mina efterkommande och inte utplånar mitt namn ur min fars hus.” Då lovade David detta med ed inför Saul. Därefter vände Saul hem. Men David och hans män drog upp till bergsfästet.
 Samuel dog, och hela Israel samlades och höll dödsklagan efter honom. De begravde honom i hans hem i Rama. David bröt upp och drog ner till Parans öken.
 I Maon fanns det en man som hade sin boskapsskötsel i Karmel. Mannen var mycket rik, han ägde tretusen får och ettusen getter, och nu höll han på att klippa sina får i Karmel.
 Mannen hette Nabal, och hans hustru hette Abigail. Hon var klok och vacker, han var hård och ond i det han gjorde. Han var en ättling till Kaleb.
@@ -8511,6 +8511,7 @@ Då frågade kungen: ”Är allt väl med min pojke Absalom?” Ahimaas svarade:
 Kungen sade: ”Gå åt sidan och stå kvar här.” Då gick han åt sidan och väntade.
 Just då kom nubiern, och han sade: ”Min herre och kung, ta emot ett glädjebud! Herren har i dag dömt dig fri från alla som reste sig mot dig.”
 Kungen frågade nubiern: ”Är allt väl med min pojke Absalom?” Nubiern svarade: ”Som det gick med den pojken, så må det gå med min herre kungens fiender och med alla som reser sig mot dig för att skada dig.”
+Då blev kungen djupt upprörd och gick upp i salen över porten och grät. Medan han gick ropade han: ”Min son Absalom! Min son, min son Absalom! Om jag bara fått dö i ditt ställe! Absalom, min son, min son!”
 Man berättade för Joab: ”Se, kungen gråter och sörjer över Absalom.”
 Och segern blev till sorg den dagen för allt folket, när de den dagen hörde hur kungen sörjde över sin son.
 Folket smög sig in i staden den dagen så som folk gör när de skäms över att ha flytt i en strid.
@@ -8554,7 +8555,6 @@ Kungen drog nu till Gilgal och Kimham följde med honom. Hela Juda tillsammans m
 Men då kom alla Israels män till kungen och sade till honom: ”Varför fick våra bröder, Juda män, stjäla dig och föra kungen och hans familj över Jordan tillsammans med Davids män?”
 Alla Juda män svarade Israels män: ”Kungen står oss närmast. Varför blir ni upprörda över det? Har vi levt på kungen eller skaffat oss fördelar genom honom?”
 Men Israels män svarade Juda män: ”Vi har tio gånger större del i kungen, alltså även i David. Varför har ni föraktat oss? Var det inte vi som först talade om att hämta hem vår kung?” Men Juda män använde ännu hårdare ord än Israels män.
-
 Där fanns nu av en händelse en illasinnad man vid namn Sheba, Bikris son, en benjaminit. Han blåste i hornet och sade: ”Vi har ingen del i David, ingen arvslott i Ishais son. Var och en till sitt tält, Israel!”
 Då övergav Israels alla män David och följde Sheba, Bikris son. Men Juda män höll sig till sin kung, från Jordan ända till Jerusalem.
 David kom nu till sitt palats i Jerusalem, och kungen tog de tio bihustrurna som han hade lämnat kvar för att se efter palatset och satte dem i ett särskilt hus under bevakning. Han gav dem underhåll men gick inte in till dem. Där förblev de instängda till sin död och levde som änkor.
@@ -8865,6 +8865,20 @@ Joshafat, Paruas son, i Isaskar,
 Shimei, Elas son, i Benjamin.
 Geber, Uris son, hade Gileads land, det land som hade tillhört Sichon, amoreernas kung, och Og, kungen i Bashan. Det var bara en fogde i det landet.
 Juda och Israel var talrika som sanden vid havet. De åt och drack och var glada.
+Salomo regerade över alla riken från floden till filisteernas land och ända ner till Egyptens gräns. De förde gåvor till Salomo och tjänade honom så länge han levde.
+De livsmedel som Salomo behövde för varje dag var trettio korer fint mjöl och sextio korer vanligt mjöl,
+tio gödda oxar, tjugo valloxar och hundra får förutom hjortar, gaseller, dovhjortar och gödda fåglar.
+Han rådde över hela landet på denna sidan floden, från Tifsa ända till Gaza, över alla kungar på denna sidan floden. Han hade fred på alla sidor runt omkring
+så att Juda och Israel bodde i trygghet, var och en under sin vinstock och sitt fikonträd, från Dan till Beer-Sheba så länge Salomo levde.
+Salomo hade 40 000 stallplatser för sina vagnshästar och 12 000 ridhästar.
+Och fogdarna sörjde var sin månad för kung Salomos behov och för alla som kom till kung Salomos bord. De lät ingenting fattas.
+Säden och halmen för hästarna och travarna förde de i tur och ordning till den plats där han uppehöll sig.
+Gud gav Salomo vishet och mycket stort förstånd och kunskap så rik som sanden på havets strand.
+Salomos vishet var större än alla österlänningars vishet och alla egyptiers vishet.
+Han var visare än alla andra människor, visare än esraiten Etan och Mahols söner Heman, Kalkol och Darda. Hans namn var känt bland alla hednafolk runt omkring.
+Han författade 3 000 ordspråk och 1 005 sånger.
+Han talade om träden, från cedern på Libanon till isopen som växer ur väggen. Han talade om fyrfotadjuren, om fåglarna, om kräldjuren och om fiskarna.
+Från alla folk kom man för att höra Salomos visdom, från jordens alla kungar som hade hört talas om hans vishet.
 När kung Hiram i Tyrus fick höra att Salomo blivit smord till kung efter sin far, sände han sina tjänare till Salomo. Hiram hade alltid varit Davids vän.
 Och Salomo sände bud till Hiram och lät säga:
 ”Du vet själv att min far David inte kunde bygga ett hus åt Herren sin Guds namn på grund av de krig han tvingades utkämpa på alla sidor tills Herren hade lagt hans fiender under hans fötter.
@@ -8883,20 +8897,6 @@ Salomo hade 70 000 man som bar bördor och 80 000 som högg sten i bergen.
 Därtill kom de 3 300 högre arbetsledare som var anställda av Salomo för arbetet och ledde folket som utförde arbetet.
 På kungens befallning bröt man stora och dyrbara stenar för att husets grund skulle kunna läggas med huggen sten.
 Salomos byggnadsarbetare, Hirams byggnadsarbetare och folket från Gebal högg och beredde trävirke och stenar till huset.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 I det fyrahundraåttionde året efter det att Israels barn drog ut ur Egypten, i det fjärde året av Salomos regering över Israel, i månaden Siv som är den andra månaden, började han bygga Herrens hus.
 Huset som kung Salomo byggde åt Herren var sextio alnar långt, tjugo alnar brett och trettio alnar högt.
 Förhuset framför tempelsalen var tjugo alnar långt framför husets kortsida och tio alnar brett där det låg framför huset.
@@ -9523,6 +9523,7 @@ Vad som mer finns att säga om Ahab och allt som han gjorde, om elfenbenshuset s
 Ahab gick till vila hos sina fäder, och hans son Ahasja blev kung efter honom.
 Joshafat, Asas son, blev kung över Juda i Ahabs, Israels kungs, fjärde regeringsår.
 Trettiofem år gammal var Joshafat när han blev kung, och han regerade tjugofem år i Jerusalem. Hans mor hette Asuba och var dotter till Shilhi.
+
 Han vandrade i allt på sin far Asas väg och vek inte av från den. Han gjorde nämligen det som var rätt i Herrens ögon.
 Men offerhöjderna avskaffades inte, utan folket fortsatte att offra och tända offereld på höjderna.
 Och Joshafat höll fred med Israels kung.
@@ -9533,8 +9534,7 @@ Joshafat hade låtit bygga Tarshishskepp som skulle gå till Ofir för att hämt
 Då sade Ahasja, Ahabs son, till Joshafat: ”Låt mitt folk resa med ditt folk på skeppen.” Men Joshafat ville inte.
 Joshafat gick till vila hos sina fäder och blev begravd hos sina fäder i sin fader Davids stad. Hans son Joram blev kung efter honom.
 Ahasja, Ahabs son, blev kung över Israel i Samaria i Juda kung Joshafats sjuttonde regeringsår, och han regerade över Israel i två år.
-Han gjorde det som var ont i Herrens ögon och vandrade på sin fars och sin mors väg och på Nebats son Jerobeams väg, han som fick Israel att synda.
-Och Ahasja tjänade Baal och tillbad honom och väckte Herrens, Israels Guds, vrede precis som hans far hade gjort.
+Han gjorde det som var ont i Herrens ögon och vandrade på sin fars och sin mors väg och på Nebats son Jerobeams väg, han som fick Israel att synda. Och Ahasja tjänade Baal och tillbad honom och väckte Herrens, Israels Guds, vrede precis som hans far hade gjort.
 Efter Ahabs död gjorde Moab uppror mot Israel.
 Ahasja föll ut genom spjälorna på sin övervåning i Samaria och skadade sig så att han blev sjuk. Då skickade han efter sändebud och sade till dem: ”Gå och fråga Baal-Sebub, guden i Ekron, om jag ska bli frisk från denna sjukdom.”
 Men Herrens ängel hade sagt till tishbiten Elia: ”Bryt upp och gå och möt sändebuden från kungen i Samaria och säg till dem: Är det för att det inte finns någon Gud i Israel som ni går och frågar Baal-Sebub, guden i Ekron?
@@ -9851,6 +9851,7 @@ Jojada slöt det förbundet mellan Herren, kungen och folket att de skulle vara 
 Allt folket i landet begav sig till Baals tempel och rev ner det och förstörde dess altaren och bilder helt och hållet, och Mattan, Baals präst, dödade de framför altarna. Därefter ställde prästen ut vakter vid Herrens hus.
 Han tog med sig befälen tillsammans med karierna, livvakterna, och allt folket, och de förde kungen ner från Herrens hus och gick in i kungapalatset genom vakternas port. Och han satte sig på kungatronen.
 Allt folket i landet gladde sig, och staden fick ro. Men Atalja hade de dödat med svärd i kungapalatset.
+Joash var sju år gammal när han blev kung.
 I Jehus sjunde regeringsår blev Joash kung, och han regerade i fyrtio år i Jerusalem. Hans mor hette Sibja och var från Beer-Sheba.
 Joash gjorde det som var rätt i Herrens ögon, så länge prästen Jojada undervisade honom.
 Men offerhöjderna avskaffades inte, utan folket fortsatte att offra och tända offereld på höjderna.
@@ -9872,7 +9873,6 @@ Då tog Juda kung Joash allt som hans fäder Joshafat, Joram och Ahasja, Juda ku
 Vad som mer finns att säga om Joash och allt som han gjorde, det är skrivet i Juda kungars krönika.
 Hans tjänare gjorde uppror och anstiftade en sammansvärjning och dödade Joash i Millobyggnaden som sträcker sig ner mot Silla.
 Det var hans tjänare Josakar, Shimeats son, och Josabad, Shomers son, som slog ihjäl honom. Man begravde honom hos hans fäder i Davids stad. Hans son Amasja blev kung efter honom.
-
 I Juda kung Joashs, Ahasjas sons, tjugotredje regeringsår blev Joahas, Jehus son, kung över Israel i Samaria och regerade i sjutton år.
 Han gjorde det som var ont i Herrens ögon och levde i de synder som Jerobeam, Nebats son, hade förlett Israel med. Från dem avstod han inte.
 Då upptändes Herrens vrede mot Israel, och han gav dem i händerna på kung Hasael av Aram och Ben-Hadad, Hasaels son, under hela denna tid.
@@ -10456,21 +10456,6 @@ Halva Manasse stams barn bodde också där i landet, från Bashan ända till Baa
 Dessa var huvudmän för sina familjer: Efer, Jishi, Eliel, Asriel, Jeremia, Hodavja och Jadiel, tappra stridsmän, berömda män och huvudmän för sina familjer.
 Men de var otrogna mot sina fäders Gud. I sin trolöshet höll de sig till de gudar som dyrkades av folken i landet, de folk som Gud hade utrotat inför dem.
 Då uppväckte Israels Gud den assyriske kungen Puls ande, det vill säga den assyriske kungen Tiglat-Pilesers ande. Han förde folket bort i fångenskap, såväl rubeniterna och gaditerna som ena hälften av Manasse stam. Han förde dem till Hala, Habor, Hara och Gozans ström, där de är än i dag.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Levis söner var Gershon, Kehat och Merari.
 Kehats söner var Amram, Jishar, Hebron och Ussiel.
 Amrams barn var Aron, Mose och Mirjam. Arons söner var Nadab och Abihu, Eleasar och Itamar.
@@ -10537,6 +10522,21 @@ Meraris barn fick efter sina släkter ur Rubens stam, ur Gads stam och ur Sebulo
 Så gav Israels barn åt leviterna dessa städer med betesmarker.
 Genom lottkastning gav de åt dem ur Juda barns stam, ur Simeons barns stam och ur Benjamins barns stam dessa städer, som de gav namn.
 Några bland Kehats barns släkter fick följande städer ur Efraims stam som sitt område:
+Man gav dem fristäderna Shekem med betesmarker i Efraims bergsbygd, Gezer med betesmarker,
+Jokmeam med betesmarker, Bet-Horon med betesmarker,
+dessutom Ajalon med betesmarker och Gat-Rimmon med betesmarker,
+och ur ena hälften av Manasse stam Aner med betesmarker och Bilam med betesmarker. Detta tillföll Kehats övriga barns släkt.
+Gershons barn fick ur den släkt som utgjorde ena hälften av Manasse stam Golan i Bashan med betesmarker och Ashtarot med betesmarker,
+och ur Isaskars stam Kedesh med betesmarker, Dobrat med betesmarker,
+Ramot med betesmarker och Anem med betesmarker,
+och ur Ashers stam Mashal med betesmarker, Abdon med betesmarker,
+Hukok med betesmarker och Rehob med betesmarker,
+och ur Naftali stam Kedesh i Galileen med betesmarker, Hammon med betesmarker och Kirjatajim med betesmarker.
+Meraris övriga barn fick ur Sebulons stam Rimmono med betesmarker och Tabor med betesmarker,
+och på andra sidan Jordan mitt emot Jeriko, öster om Jordan, ur Rubens stam Beser i öknen med betesmarker, Jahas med betesmarker,
+Kedemot med betesmarker och Mefaat med betesmarker,
+och ur Gads stam Ramot i Gilead med betesmarker, Mahanajim med betesmarker,
+Heshbon med betesmarker och Jaser med betesmarker.
 Isaskars söner var Tola och Pua, Jashub och Shimron, tillsammans fyra.
 Tolas söner var Ussi, Refaja, Jeriel, Jamaj, Jibsam och Samuel, huvudmän för sina familjer. De var ättlingar av Tola, tappra stridsmän, uppskrivna efter sin ättföljd. Under Davids tid var deras antal 22 600.
 Ussis son var Jisraja, och Jisrajas söner var Mikael, Obadja och Joel samt Jishia, tillsammans fem, allesammans huvudmän.
@@ -10725,6 +10725,7 @@ slutligen Eliel, Obed och Jaasiel mesobajiten.
 Dessa var de som kom till David i Siklag medan han gömde sig för Saul, Kishs son. De hörde till de hjältar som hjälpte honom under kriget.
 De var beväpnade med båge och skickliga i att slunga stenar och skjuta pilar från bågen både med höger och vänster hand. Av Sauls stamfränder benjaminiterna kom följande:
 Ahieser, den främste, och Joash, gibeatiten Hashemaas söner, Jesuel och Pelet, Asmavets söner, Beraka, anatotiten Jehu,
+
 och gibeoniten Jishmaja, en av de trettio hjältarna och ledare för de trettio, Jeremia, Jahasiel, Johanan, gederatiten Josabad,
 Elusaj, Jerimot, Bealja, Shemarja, harufiten Shefatja,
 koraiterna Elkana, Jishia, Asarel, Joeser och Jashobeam,
@@ -10762,7 +10763,6 @@ och från andra sidan Jordan, av rubeniterna, gaditerna och andra hälften av Ma
 Alla dessa krigsmän kom till Hebron, beredda till strid, fast beslutna att göra David till kung över hela Israel. Hela det övriga Israel var också enigt i att göra David till kung.
 De var där hos David i tre dagar och åt och drack, för deras bröder hade försett dem med livsmedel.
 De som bodde närmast dem, ända upp till Isaskar, Sebulon och Naftali, förde också till dem på åsnor, kameler, mulåsnor och oxar livsmedel i mängd till föda: mjöl, fikonkakor och russinkakor, vin och olja, kor och får. Det rådde glädje i Israel.
-
 David rådgjorde med överbefälen och underbefälen och med alla furstarna.
 Sedan sade David till hela Israels församling: ”Om ni samtycker och om det är från Herren vår Gud, låt oss då sända bud åt alla håll till våra övriga bröder över hela Israels land och dessutom till prästerna och leviterna i deras städer med betesmarker, att de ska samlas hos oss.
 Låt oss flytta vår Guds ark till oss, för under Sauls tid frågade vi inte efter den.”
@@ -11214,7 +11214,6 @@ Och Salomo samlade vagnar och ridhästar så att han hade 1 400 vagnar och 12�
 Kungen styrde så att silver och guld blev lika vanligt i Jerusalem som stenar, och cederträ lika vanligt som mullbärsfikonträ i Låglandet.
 Hästarna som Salomo köpte kom från Egypten och från Kue. Kungens uppköpare hämtade dem från Kue till bestämt pris.
 Varje vagn som de hämtade och förde in från Egypten kostade 600 siklar silver och varje häst 150. Likaså infördes genom deras försorg sådana till hetiternas alla kungar och till kungarna i Aram.
-
 Salomo planerade nu att bygga ett hus åt Herrens namn och ett hus åt sig själv till kunglig bostad.
 Därför avdelade Salomo 70 000 män till bärare och 80 000 till stenhuggare i bergen och 3 600 till arbetsledare över dem.
 Och Salomo sände bud till Huram, kungen i Tyrus, och lät säga: ”Gör mot mig som mot min far David, när du sände honom cederträ för att han skulle bygga sig ett hus att bo i.
@@ -11232,6 +11231,7 @@ Han är son till en av Dans döttrar, och hans far är en tyrisk man. Han är sk
 Min herre kan nu sända till sina tjänare vetet och kornet, oljan och vinet som han har talat om.
 Vi ska då hugga virke på Libanon, så mycket du behöver, och forsla det till dig på en flotte på havet till Jafo. Därifrån kan du själv låta föra det upp till Jerusalem.”
 Salomo räknade alla främlingar i Israels land, liksom hans far David tidigare hade gjort en räkning av dem. Det visade sig då att de var 153 600.
+Av dem utsåg han 70 000 till bärare, 80 000 till stenhuggare i bergen och 3 600 till att ha uppsikt över folket och att hålla dem i arbete.
 Salomo började bygga Herrens hus i Jerusalem på Moria berg, där Herren hade uppenbarat sig för hans far David, på den plats som David hade ställt i ordning, jebusiten Ornans tröskplats.
 Han började bygga på andra dagen i andra månaden i sitt fjärde regeringsår.
 När Salomo byggde Guds hus, lade han grunden så att det blev sextio alnar långt och tjugo alnar brett efter det gamla alnmåttet.
@@ -11478,7 +11478,6 @@ Abia förföljde Jerobeam och erövrade dessa städer från honom: Betel med und
 Sedan förmådde Jerobeam ingenting mer så länge Abia levde. Och Herren slog honom så att han dog.
 Men Abia stärkte sin makt. Han tog sig fjorton hustrur och blev far till tjugotvå söner och sexton döttrar.
 Vad som mer finns att säga om Abia, om hans bedrifter och annat som rör honom, det är skrivet i profeten Iddos utläggning.
-
 Abia gick till vila hos sina fäder, och man begravde honom i Davids stad. Hans son Asa blev kung efter honom. Under hans tid hade landet ro i tio år.
 Asa gjorde det som var gott och rätt i Herren sin Guds ögon.
 Han avlägsnade de främmande altarna och offerhöjderna, slog sönder stoderna och högg ner asherapålarna.
@@ -11493,6 +11492,7 @@ Då ropade Asa till Herren sin Gud: ”Herre, utom dig finns ingen som kan hjäl
 Och Herren lät nubierna bli slagna av Asa och Juda så att de flydde.
 Asa och folket som var med honom förföljde dem ända till Gerar. Av nubierna föll så många att ingen av dem kom undan med livet, för de blev nergjorda av Herren och hans här. Och folket tog ett stort byte.
 Sedan intog de alla städer runt omkring Gerar, eftersom fruktan för Herren hade kommit över dem. Och de plundrade alla städerna, eftersom det fanns mycket att plundra i dem.
+Till och med boskapsskjulen bröt de ner, och de förde bort kameler och småboskap i mängd. De vände sedan tillbaka till Jerusalem.
 Guds Ande kom över Asarja, Odeds son.
 Han gick ut mot Asa och sade till honom: ”Hör mig, du Asa, och ni hela Juda och Benjamin. Herren är med er när ni är med honom, och om ni söker honom låter han sig finnas av er. Men om ni överger honom kommer han att överge er.
 En lång tid levde Israel utan den sanne Guden, utan präster som undervisade dem och utan någon lag.
@@ -12362,12 +12362,6 @@ Efter dem arbetade Sadok, Immers son, mitt emot sitt eget hus. Bredvid honom arb
 Efter honom arbetade Hananja, Shelemjas son, och Hanun, Salafs sjätte son, på en annan sträcka. Och efter dem arbetade Meshullam, Berekjas son, mitt emot sin tempelkammare.
 Efter honom arbetade Malkia, en av guldsmederna, ända fram till tempeltjänarnas och köpmännens hus, mitt emot Mönstringsporten och vidare fram till Övre Hörnsalen.
 Och mellan Övre Hörnsalen och Fårporten arbetade guldsmederna och köpmännen på att sätta muren i stånd.
-
-
-
-
-
-
 När Sanballat hörde att vi höll på att bygga upp muren blev han rasande och mycket arg. Han hånade judarna
 och sade till sina bröder och till Samariens krigsfolk: ”Vad är det de eländiga judarna gör? Ska de få hålla på? Ska de få offra? Ska de en dag få arbetet klart? Kan de ge liv åt de brända stenarna i grushögarna?”
 Ammoniten Tobia som stod bredvid honom sade: ”Låt dem bygga! Om så bara en räv hoppar upp på deras stenmur river han den.”
@@ -12385,6 +12379,12 @@ Sedan jag inspekterat allt steg jag upp och sade till stormännen, föreståndar
 När våra fiender hörde att vi kände till deras plan och att Gud hade omintetgjort den, vände vi alla tillbaka till muren, var och en till sitt arbete.
 Från den dagen var hälften av mina tjänare upptagna med arbetet medan andra hälften stod beväpnad med spjut, sköldar, bågar och pansar. Och hövdingarna stod bakom hela Juda hus.
 De som byggde på muren och de som lastade på och bar bördor gjorde sitt arbete med ena handen och höll vapnet i den andra.
+De som byggde hade var och en sitt svärd bundet vid höften medan de arbetade. Bredvid mig stod en basunblåsare.
+Jag sade till stormännen, föreståndarna och det övriga folket: ”Arbetet är stort och omfattande och vi är utspridda längs muren, långt ifrån varandra.
+Där ni hör basunen ljuda, dit ska ni samlas till oss. Vår Gud ska kämpa för oss!”
+Så fortsatte vi arbetet medan hälften vaktade med sina spjut, från gryningen tills stjärnorna kom fram.
+Vid den tiden sade jag också till folket: ”Var och en ska övernatta inne i Jerusalem med sin tjänare, så att vi kan ha dem till vakt under natten och till arbete under dagen.”
+Varken jag eller mina bröder eller mina tjänare eller vakterna hos mig kom ur kläderna. Var och en bar sitt vapen samt vatten.
 Men männen och deras hustrur började klaga högt över sina judiska bröder.
 Några sade: ”Med våra söner och döttrar är vi många. Vi måste få säd, så att vi kan äta och överleva!”
 Andra sade: ”Vi måste pantsätta våra åkrar, vingårdar och hus för att få säd mot svälten.”
@@ -12490,11 +12490,11 @@ Dessa sökte efter sina släktregister, men de hittades inte. Därför ansågs d
 Ståthållaren sade till dem att de inte skulle äta av det högheliga förrän en präst trädde fram med urim och tummim.
 Hela församlingen utgjorde sammanlagt 42 360,
 förutom deras 7 337 tjänare och tjänarinnor. De hade också 245 sångare och sångerskor.
-De hade 736 hästar, 245 mulåsnor,
-435 kameler och 6 720 åsnor.
+De hade 736 hästar, 245 mulåsnor, 435 kameler och 6 720 åsnor.
 Några bland huvudmännen för familjerna gav gåvor till arbetet. Ståthållaren gav till kassan 1 000 dariker i guld, dessutom 50 skålar och 530 prästdräkter.
 Några av huvudmännen för familjerna gav till arbetskassan 20 000 dariker i guld och 2 200 minor i silver.
 Det övriga folkets gåvor utgjorde 20 000 dariker i guld, 2 000 minor i silver och dessutom 67 prästdräkter.
+Prästerna, leviterna, dörrvakterna, sångarna, en del av folket samt tempeltjänarna, alltså hela Israel, bosatte sig i sina städer.
 När sjunde månaden kom och Israels barn bodde i sina städer, samlades folket som en enda man på torget framför Vattenporten. De bad Esra, den skriftlärde, att hämta Mose lagbok som Herren hade gett Israel.
 Då kom prästen Esra med lagen till församlingen, till män och kvinnor och alla som kunde förstå vad de hörde. Det var den första dagen i sjunde månaden.
 Han läste ur den på den öppna platsen framför Vattenporten, från tidig morgon till middagen inför män och kvinnor och alla som kunde förstå. Och hela folket lyssnade till lagboken.
@@ -12550,6 +12550,7 @@ Våra kungar, våra furstar, våra präster och våra fäder höll inte din lag 
 Trots att de levde i sitt eget rike med allt det goda som du gav dem i det rymliga och bördiga land som du skänkte dem, har de ändå inte tjänat dig eller vänt om från sina onda gärningar.
 I dag är vi slavar i det land som du gav våra fäder att äta dess frukt och dess goda, där är vi slavar.
 Dess rika skörd går till de kungar du satt över oss för våra synders skull. De råder över våra kroppar och vår boskap som de vill, och vi är i stor nöd.”
+På grund av allt detta slöt vi ett fast förbund och satte upp det skriftligt. På skrivelsen, som försågs med sigill, stod våra furstars, våra leviters och våra prästers namn.
 Följande namn stod på skrivelserna som bar sigillen: Ståthållaren Nehemja, Hakaljas son, och Sidkia,
 Seraja, Asarja, Jeremia,
 Pashur, Amarja, Malkia,
@@ -12589,7 +12590,6 @@ Så som det är skrivet i lagen ska vi också föra till Guds hus, till präster
 Och förstlingen av vårt mjöl och våra offergåvor och av allt slags trädfrukt, av vin och olja, ska vi föra till prästerna, in i förrådskamrarna till vår Guds hus, och tionden av vår jord till leviterna, de leviter som tar emot tionden i alla de städer där vi brukar jorden.
 En präst, en av Arons söner, ska vara med leviterna när de tar emot tionden. Och leviterna ska föra tionden av sitt tionde upp till vår Guds hus, in i förrådshusets kamrar.
 Både Israels barn och Levi barn ska föra sin offergåva av säd, vin och olja in i dessa kamrar där helgedomens kärl och de tjänstgörande prästerna och dörrvakterna och sångarna är. Vi ska inte försumma vår Guds hus.
-
 Folkets furstar bodde i Jerusalem. Det övriga folket kastade lott för att på så sätt var tionde man skulle utses att bo i Jerusalem, den heliga staden, medan nio tiondelar skulle bo i de andra städerna.
 Folket välsignade alla som frivilligt bosatte sig i Jerusalem.
 Detta är de huvudmän i provinsen som bodde i Jerusalem. Men i Juda städer bodde var och en i den stad där han hade sin ärvda besittning: vanliga israeliter, präster, leviter och tempeltjänare, likaså ättlingarna till Salomos tjänare.
@@ -13890,18 +13890,10 @@ Kan du sätta en sävlina i hans näsa eller borra en hake genom hans käke?
 Skulle han vädja till dig om nåd gång på gång eller tala till dig med mjuka ord?
 Skulle han sluta fördrag med dig så att du kan ta honom som slav för alltid?
 Kan du leka med honom som med en fågel eller hålla honom i band åt dina flickor?
-Kan fiskarlag köpslå om honom och dela upp honom mellan köpmän?
-Kan du fylla hans hud med harpuner och hans huvud med fiskespjut?
-Bär hand på honom, så minns du den striden och gör inte om det!
-Nej, den som hoppas på seger blir besviken, redan när man ser honom är man slagen.
-
-
-
-
-Ingen är så dumdristig att han retar honom. Vem vågar då sätta sig upp mot mig?
-Vem har gett mig något som jag måste betala igen? Mitt är allt som finns under himlen.
-Jag vill inte tiga om hans lemmar, om hans styrka och sköna gestalt.
-Vem kan rycka av honom hans dräkt? Vem kan ta sig in mellan hans båda käkar?
+Kan fiskarlag köpslå om honom och dela upp honom mellan köpmän? Ingen är så dumdristig att han retar honom. Vem vågar då sätta sig upp mot mig?
+Kan du fylla hans hud med harpuner och hans huvud med fiskespjut? Vem har gett mig något som jag måste betala igen? Mitt är allt som finns under himlen.
+Bär hand på honom, så minns du den striden och gör inte om det! Jag vill inte tiga om hans lemmar, om hans styrka och sköna gestalt.
+Nej, den som hoppas på seger blir besviken, redan när man ser honom är man slagen. Vem kan rycka av honom hans dräkt? Vem kan ta sig in mellan hans båda käkar?
 Vem kan öppna hans ansiktes dörrar? Runt hans tänder bor skräck.
 Stolta sitter sköldarnas rader, sammanfogade och fast förseglade,
 den ena tätt mot den andra, ingen luft tränger in däremellan.
@@ -13923,6 +13915,14 @@ Han får djupet att koka som en gryta, han får havet att skumma som när man ko
 Bakom honom går ett lysande stråk, djupet tycks få silverhår.
 Inget på jorden är hans like, han skapades utan fruktan.
 Han ser på allt som är upphöjt, han är kung över allt som är stolt.
+
+
+
+
+
+
+
+
 
 Job svarade Herren och sade:
 Jag vet att du kan göra allt, inget du beslutar är omöjligt för dig.
@@ -13959,6 +13959,7 @@ Du ska krossa dem med järnspira, slå sönder dem som lerkärl."
 Var nu kloka, ni kungar, ta varning, ni domare på jorden!
 Tjäna Herren med fruktan och gläd er med bävan!
 Ge Sonen hyllningskyss, så att han inte vredgas och ni går under på er väg, för hans vrede kan snabbt blossa upp. Saliga är alla som flyr till honom.
+
 En psalm av David när han flydde för sin son Absalom.
 Herre, hur många är inte mina fiender! Många reser sig mot mig,
 många säger om min själ: "Han får ingen frälsning hos Gud." Sela
@@ -13966,8 +13967,8 @@ Men du, Herre, är en sköld runt omkring mig. Du är min ära, du lyfter mitt h
 Jag ropar högt till Herren, och han svarar mig från sitt heliga berg. Sela
 Jag lade mig ner och somnade, jag vaknade igen, för Herren stöder mig.
 Jag fruktar inte tiotusen man som omringar mig från alla håll.
-Res dig, Herre! Fräls mig, min Gud! Du slår alla mina fiender på kinden, du krossar de gudlösas tänder.
-Frälsningen finns hos Herren. Låt din välsignelse vila över ditt folk! Sela
+Res dig, Herre! Fräls mig, min Gud! Du slår alla mina fiender på kinden, du krossar de gudlösas tänder. Frälsningen finns hos Herren. Låt din välsignelse vila över ditt folk! Sela
+
 För körledaren, till stränginstrument. En psalm av David.
 Svara mig när jag ropar, min rättfärdighets Gud! När jag är trängd ger du mig rum. Förbarma dig över mig och hör min bön!
 Höga herrar, hur länge ska ni kränka min heder? Hur länge ska ni älska tomhet och jaga efter lögn? Sela
@@ -13975,8 +13976,8 @@ Ni ska veta hur underbart Herren tar till sig sin trogne, Herren hör när jag r
 Grips ni av vrede, synda inte! Tänk efter i era hjärtan på er bädd och var stilla. Sela
 Bär fram rätta offer och lita på Herren.
 Många säger: "Vem kan visa oss det goda?" Låt ditt ansiktes ljus lysa över oss, Herre!
-Du har gett mig glädje i hjärtat, mer än när andra får säd och vin i mängd.
-I frid kan jag lägga mig ner och sova, för bara du, Herre, låter mig bo i trygghet.
+Du har gett mig glädje i hjärtat, mer än när andra får säd och vin i mängd. I frid kan jag lägga mig ner och sova, för bara du, Herre, låter mig bo i trygghet.
+
 För körledaren, till flöjt. En psalm av David.
 Hör mina ord, Herre, tänk på mina suckar!
 Lyssna när jag ropar, min kung och min Gud! Till dig går min bön.
@@ -13988,8 +13989,8 @@ Men genom din stora nåd får jag gå in i ditt hus, jag får tillbe i vördnad 
 Herre, led mig i din rättfärdighet för mina förföljares skull, jämna din väg för mig.
 Det finns ingen sanning i deras mun. Deras inre är fördärv, deras strupe är en öppen grav och sin tunga gör de hal.
 Döm dem skyldiga, Gud, låt deras planer bli deras fall! Driv bort dem för deras många brott, eftersom de gör uppror mot dig.
-Men alla som flyr till dig ska få glädjas, de ska jubla i evighet. Du beskyddar dem, de som älskar ditt namn ska få fröjdas i dig,
-för du, Herre, välsignar den rättfärdige. Du täcker honom med nåd som en sköld.
+Men alla som flyr till dig ska få glädjas, de ska jubla i evighet. Du beskyddar dem, de som älskar ditt namn ska få fröjdas i dig, för du, Herre, välsignar den rättfärdige. Du täcker honom med nåd som en sköld.
+
 För körledaren, med stränginstrument till sheminít. En psalm av David.
 Herre, straffa mig inte i din vrede, tukta mig inte i din glöd!
 Förbarma dig över mig, Herre, för jag är kraftlös. Hela mig, Herre, för jag är förskräckt i mitt innersta,
@@ -13999,8 +14000,8 @@ I döden tänker ingen på dig. Vem tackar dig i dödsriket?
 Jag är så trött av mitt suckande. Varje natt fuktar jag min bädd, jag dränker min säng med mina tårar.
 Mina ögon är mörka av sorg, de har åldrats av alla mina fiender.
 Bort från mig, alla förbrytare, för Herren har hört min högljudda gråt.
-Herren har hört mitt rop om nåd, Herren har tagit emot min bön.
-Alla mina fiender ska skämmas och bli skräckslagna, plötsligt ska de vika tillbaka med skam.
+Herren har hört mitt rop om nåd, Herren har tagit emot min bön. Alla mina fiender ska skämmas och bli skräckslagna, plötsligt ska de vika tillbaka med skam.
+
 En klagopsalm av David, som sjöng den till Herren på grund av benjaminiten Kushs ord.
 Herre min Gud, jag flyr till dig. Fräls mig från alla som jagar mig, rädda mig!
 Annars river de min själ som lejon, rycker bort mig utan räddning.
@@ -14017,8 +14018,8 @@ Om någon inte omvänder sig slipar han sitt svärd, han spänner sin båge och 
 han förbereder sina dödliga vapen och gör sina pilar brinnande.
 Se, han är dräktig med ondska, han går havande med olycka och föder lögn.
 Han gräver en grop och gör den djup, men faller själv i graven han grävde.
-Hans ondska slår tillbaka mot hans eget huvud, hans våld drabbar hans egen hjässa.
-Jag vill tacka Herren för hans rättfärdighet och lovsjunga Herren den Högstes namn.
+Hans ondska slår tillbaka mot hans eget huvud, hans våld drabbar hans egen hjässa. Jag vill tacka Herren för hans rättfärdighet och lovsjunga Herren den Högstes namn.
+
 För körledaren, till gittít. En psalm av David.
 Herre, vår Herre, hur härligt är inte ditt namn över hela jorden, du som satt ditt majestät på himlen!
 Av barns och spädbarns mun har du berett en makt för dina fienders skull, för att förgöra fiende och hämnare.
@@ -14027,8 +14028,8 @@ vad är då en människa att du tänker på henne, en människoson att du tar ha
 En liten tid lät du honom vara lägre än Gud, med ära och härlighet krönte du honom.
 Du satte honom att härska över dina händers verk, allt lade du under hans fötter:
 alla får och oxar liksom vildmarkens djur,
-himlens fåglar och havets fiskar, de som vandrar havens vägar.
-Herre, vår Herre, hur härligt är inte ditt namn över hela jorden!
+himlens fåglar och havets fiskar, de som vandrar havens vägar. Herre, vår Herre, hur härligt är inte ditt namn över hela jorden!
+
 För körledaren, till "Sonens död". En psalm av David.
 Jag vill tacka Herren av hela mitt hjärta, jag vill förkunna alla dina under.
 Jag vill glädja mig och jubla i dig, jag vill lovsjunga ditt namn, du den Högste.
@@ -14048,8 +14049,7 @@ Hedningarna sjönk i den grav som de grävde, deras fot fastnade i nätet de lad
 Herren har gjort sig känd, han har skipat rätt. Den gudlöse snärjs av sin egen gärning. Higgajón, Sela
 De gudlösa ska vika tillbaka ner i dödsriket, alla hedningar som glömmer Gud.
 Men den fattige ska inte vara glömd för alltid, de svagas hopp ska inte försvinna för evigt.
-Res dig, Herre! Låt inte människor få makten, låt hedningarna bli dömda inför ditt ansikte.
-Slå dem med skräck, Herre. Låt hedningarna förstå att de bara är människor. Sela
+Res dig, Herre! Låt inte människor få makten, låt hedningarna bli dömda inför ditt ansikte. Slå dem med skräck, Herre. Låt hedningarna förstå att de bara är människor. Sela
 Herre, varför stannar du på avstånd och döljer dig i nödens tider?
 De gudlösas högmod plågar den förtryckte. Låt dem fångas i de onda planer de har smitt,
 för den gudlöse skryter över sina själviska begär, han välsignar den girige och föraktar Herren.
@@ -14075,6 +14075,7 @@ Herren är i sitt heliga tempel, Herrens tron är i himlen. Hans ögon ser, hans
 Herren prövar den rättfärdige, men hans själ hatar den gudlöse och den som älskar våld.
 Han ska låta glödande kol och svavel regna över de gudlösa, en glödhet vind är bägaren de får dricka,
 för Herren är rättfärdig, han älskar rättfärdighet. De ärliga ska se hans ansikte.
+
 För körledaren, till sheminít. En psalm av David.
 Fräls, Herre! De fromma är borta, de trofasta är försvunna bland människors barn.
 De ljuger för varandra, de talar med hala läppar och dubbelt hjärta.
@@ -14082,14 +14083,13 @@ Herre, utrota alla hala läppar och tungan som talar stora ord,
 dem som säger: "Med vår tunga har vi makt, våra läppar är med oss. Vem är herre över oss?"
 "De svaga förtrycks och de fattiga klagar – nu griper jag in", säger Herren, "jag ska ge frälsning åt den som längtar efter det."
 Herrens ord är rena ord, silver luttrat i degel av jord, renat sju gånger.
-Du, Herre, ska bevara dem, du ska för evigt beskydda dem från detta släkte.
-Runt omkring går gudlösa fram, när det usla hålls högt bland människors barn.
+Du, Herre, ska bevara dem, du ska för evigt beskydda dem från detta släkte. Runt omkring går gudlösa fram, när det usla hålls högt bland människors barn.
+
 För körledaren. En psalm av David.
 Hur länge, Herre? Ska du glömma mig för evigt? Hur länge ska du dölja ditt ansikte för mig?
 Hur länge ska jag ha oro i min själ och ångest i mitt hjärta dag efter dag? Hur länge ska min fiende triumfera över mig?
 Se mig, svara mig, Herre min Gud! Ge mina ögon ljus så att jag inte somnar in i döden.
-Låt inte min fiende säga: "Jag besegrade honom!" eller mina ovänner jubla när jag vacklar.
-Men jag litar på din nåd, mitt hjärta jublar över din frälsning. Jag vill sjunga till Herren, för han är god mot mig.
+Låt inte min fiende säga: "Jag besegrade honom!" eller mina ovänner jubla när jag vacklar. Men jag litar på din nåd, mitt hjärta jublar över din frälsning. Jag vill sjunga till Herren, för han är god mot mig.
 För körledaren. Av David. Dåren säger i sitt hjärta: "Det finns ingen Gud." Onda och vidriga är deras gärningar, ingen finns som gör det goda.
 Herren blickar ner från himlen över människors barn för att se om det finns någon som förstår, någon som söker Gud.
 Men alla har avfallit, alla är fördärvade. Ingen finns som gör det goda, inte en enda.
@@ -14128,6 +14128,7 @@ De liknar ett rovlystet lejon, ett ungt lejon som ligger på lur.
 Res dig, Herre! Gå emot honom, slå ner honom! Rädda min själ med ditt svärd från den gudlöse,
 med din hand från människorna, Herre, från denna världens människor som har sin del i detta livet. Du fyller deras buk med dina gåvor, de har söner i mängd och lämnar sitt överflöd till sina barn.
 Men jag ska få se ditt ansikte i rättfärdighet, jag ska mättas av din åsyn när jag vaknar.
+
 För körledaren. Av Herrens tjänare David, som sjöng denna sång till Herren när Herrenhade räddat honom från alla hans fiender och ur Sauls våld.
 Han sade: Hjärtligt kär har jag dig, Herre min styrka,
 Herre mitt bergfäste, min borg och min räddare, min Gud, min klippa och min tillflykt, min sköld och min frälsnings horn, mitt värn!
@@ -14177,8 +14178,8 @@ Främlingarnas mod vissnade bort, bävande lämnade de sina fästen.
 Herren lever! Lovad är min klippa, upphöjd är min frälsnings Gud!
 Gud, du har gett mig hämnd och lagt folken under mig.
 Du har befriat mig från mina fiender, du har upphöjt mig över mina motståndare och räddat mig från våldsmän.
-Därför vill jag tacka dig bland hednafolken, Herre, och lovsjunga ditt namn,
-för du ger stora segrar till din kung och visar nåd mot din smorde, mot David och hans ätt till evig tid.
+Därför vill jag tacka dig bland hednafolken, Herre, och lovsjunga ditt namn, för du ger stora segrar till din kung och visar nåd mot din smorde, mot David och hans ätt till evig tid.
+
 För körledaren. En psalm av David.
 Himlarna vittnar om Guds härlighet, himlavalvet förkunnar hans händers verk.
 Dag berättar för dag, natt ger kunskap till natt,
@@ -14192,8 +14193,8 @@ Herrens vördnad är ren, den består för evigt. Herrens domar är sanna, de ä
 De är mer värda än guld, än mängder av fint guld. De är sötare än honung, än renaste honung.
 Genom dem blir din tjänare varnad. Den som följer dem får stor lön.
 Vem märker hur ofta han felar? Förlåt mig mina hemliga brister.
-Bevara också din tjänare från de fräcka, låt dem inte få makt över mig, så blir jag fullkomlig och fri från svår synd.
-Låt min muns ord och mitt hjärtas tankar behaga dig, Herre, min klippa och återlösare.
+Bevara också din tjänare från de fräcka, låt dem inte få makt över mig, så blir jag fullkomlig och fri från svår synd. Låt min muns ord och mitt hjärtas tankar behaga dig, Herre, min klippa och återlösare.
+
 För körledaren. En psalm av David.
 Må Herren svara dig på nödens dag, må Jakobs Guds namn bevara dig.
 Må han sända dig hjälp från helgedomen och stödja dig från Sion.
@@ -14202,8 +14203,8 @@ Må han ge dig vad ditt hjärta önskar och fullborda alla dina planer.
 Vi ska jubla över din frälsning och lyfta baneret i vår Guds namn. Må Herren uppfylla alla dina böner!
 Nu vet jag att Herren frälser sin smorde. Han svarar honom från sin heliga himmel med sin högra hands frälsande storverk.
 Vissa prisar vagnar och andra hästar, men vi prisar Herren vår Guds namn.
-De sjunker ner och faller, men vi reser oss och står raka.
-Herre, fräls! Må kungen svara oss när vi ropar.
+De sjunker ner och faller, men vi reser oss och står raka. Herre, fräls! Må kungen svara oss när vi ropar.
+
 För körledaren. En psalm av David.
 Herre, kungen gläds över din makt, hur högt jublar han inte över din frälsning!
 Du ger honom vad hans hjärta begär, du nekar honom inte vad hans läppar ber om. Sela
@@ -14216,8 +14217,8 @@ Din hand ska nå alla dina fiender, din högra hand ska nå dem som hatar dig.
 Du ska sätta dem som i en glödande ugn när du visar ditt ansikte. Herren ska sluka dem i sin vrede, eld ska förtära dem.
 Du ska utrota deras livsfrukt från jorden, deras avkomma från människors barn,
 för de ville dra ondska över dig, de smidde listiga planer men förmår ingenting.
-Du ska driva dem tillbaka, du ska sikta med din båge mot deras ansikten.
-Res dig, Herre, i din makt! Vi vill spela och sjunga om din väldiga kraft.
+Du ska driva dem tillbaka, du ska sikta med din båge mot deras ansikten. Res dig, Herre, i din makt! Vi vill spela och sjunga om din väldiga kraft.
+
 För körledaren, till "Morgonrodnadens hind". En psalm av David.
 Min Gud, min Gud, varför har du övergett mig? Jag ropar och klagar, men min frälsning är fjärran.
 Min Gud, jag ropar om dagen men du svarar inte, och om natten men får ingen ro.
@@ -14248,8 +14249,7 @@ De ödmjuka ska äta och bli mätta, de som söker Herren ska lova honom. Era hj
 Alla jordens ändar ska minnas det och omvända sig till Herren, folkens alla släkter ska tillbe inför dig,
 för riket är Herrens och han råder över folken.
 Alla mäktiga på jorden ska äta och tillbe, inför honom ska de böja knä, alla som går ner i stoftet och inte kan hålla sin själ vid liv.
-Ättlingar ska tjäna honom, kommande släkten ska få höra om Herren.
-De ska träda fram och förkunna hans rättfärdighet för det folk som ska födas: att han har gjort det.
+Ättlingar ska tjäna honom, kommande släkten ska få höra om Herren. De ska träda fram och förkunna hans rättfärdighet för det folk som ska födas: att han har gjort det.
 En psalm av David. Herren är min herde, mig ska inget fattas.
 Han låter mig vila på gröna ängar, han för mig till vatten där jag finner ro.
 Han ger liv åt min själ, han leder mig på rätta vägar för sitt namns skull.
@@ -14334,6 +14334,7 @@ Herrens röst får öknen att bäva, Herren får Kadesh öken att bäva.
 Herrens röst får hindar att föda och rycker bort skogarnas kläder. Allt i hans tempel förkunnar hans ära.
 Herren tronade när syndafloden kom, Herren tronar som kung för evigt.
 Herren ger styrka åt sitt folk, Herren välsignar sitt folk med frid.
+
 En psalm, en sång för tempelinvigningen. Av David.
 Jag vill upphöja dig, Herre, för du drog mig upp ur djupet och lät inte mina fiender triumfera över mig.
 Herre min Gud, jag ropade till dig och du helade mig.
@@ -14345,8 +14346,8 @@ Herre, i din nåd gav du styrka åt mitt berg, men du dolde ditt ansikte och jag
 Till dig, Herre, ropade jag, till Herren bad jag om nåd:
 Vad vinner du på mitt blod, på att jag går ner i graven? Kan stoftet tacka dig? Kan det förkunna din trofasthet?
 Hör, Herre, och förbarma dig över mig! Herre, var min hjälpare!
-Du förvandlade min klagan till dans, du lossade min sorgdräkt och klädde mig i glädje.
-Därför ska min ära sjunga till dig utan att tystna. Herre min Gud, jag vill tacka dig för evigt.
+Du förvandlade min klagan till dans, du lossade min sorgdräkt och klädde mig i glädje. Därför ska min ära sjunga till dig utan att tystna. Herre min Gud, jag vill tacka dig för evigt.
+
 För körledaren. En psalm av David.
 Till dig, Herre, tar jag min tillflykt. Låt mig aldrig behöva skämmas, rädda mig i din rättfärdighet.
 Vänd ditt öra till mig, skynda till min räddning! Var min fasta klippa, en borg till min frälsning,
@@ -14370,8 +14371,7 @@ Hur stor är inte din godhet, som du sparar åt dem som vördar dig och visar i 
 Du tar dem i ditt ansiktes beskydd mot människors intriger, du gömmer dem i din hydda undan elaka tungor.
 Lovad är Herren! Han har visat mig sin underbara nåd i en belägrad stad.
 Jag sade i min ångest: "Jag är avskuren från dina ögon!" Men du hörde min bön om nåd när jag ropade till dig.
-Älska Herren, alla ni hans trogna! Herren bevarar de trofasta, men den som handlar i högmod straffar han strängt.
-Var starka och modiga i era hjärtan, alla ni som hoppas på Herren!
+Älska Herren, alla ni hans trogna! Herren bevarar de trofasta, men den som handlar i högmod straffar han strängt. Var starka och modiga i era hjärtan, alla ni som hoppas på Herren!
 En vishetspsalm av David. Salig är den som fått sitt brott förlåtet, sin synd övertäckt!
 Salig är den som Herren inte tillräknar synd och som i sin ande är utan svek.
 Så länge jag teg förtvinade mina ben och jag stönade dagen lång.
@@ -14405,6 +14405,7 @@ för att rädda deras själ från döden och hålla dem vid liv i hungerns tid.
 Vår själ väntar på Herren, han är vår hjälp och vår sköld.
 I honom gläder sig vårt hjärta, vi förtröstar på hans heliga namn.
 Låt din nåd vila över oss, Herre! Vi sätter vårt hopp till dig.
+
 Av David, när han spelade galen inför Abimelek, som drev bort honom så att han kom undan.
 Jag vill alltid prisa Herren, hans lov ska ständigt vara i min mun.
 Min själ ska vara stolt i Herren, de ödmjuka ska höra det och glädjas.
@@ -14426,8 +14427,7 @@ De rättfärdiga ropar och Herren hör, han räddar dem ur all deras nöd.
 Herren är nära dem som har ett förkrossat hjärta och frälser dem som har en bedrövad ande.
 Mycket får den rättfärdige lida, men Herren räddar honom ur allt.
 Han bevarar alla hans ben, inte ett enda av dem ska krossas.
-Ondskan blir den gudlöses död, och de som hatar den rättfärdige ska stå med skuld.
-Men Herren friköper sina tjänares själar, och ingen som flyr till honom ska stå med skuld.
+Ondskan blir den gudlöses död, och de som hatar den rättfärdige ska stå med skuld. Men Herren friköper sina tjänares själar, och ingen som flyr till honom ska stå med skuld.
 Av David. Herre, kämpa mot dem som kämpar mot mig, strid mot dem som strider mot mig!
 Grip sköld och skydd och kom till min hjälp,
 dra fram spjutet och spärra vägen för mina förföljare. Säg till min själ: "Jag är din frälsning!"
@@ -14456,6 +14456,7 @@ låt dem inte få säga i sina hjärtan: "Haha! Precis som vi ville!" Låt dem i
 Låt alla som gläds åt min olycka få skämmas och blygas, låt dem som förhäver sig över mig kläs i skam och vanära.
 Men låt dem som unnar mig min rätt få jubla och glädjas, låt dem alltid få säga: "Herren är stor, han unnar sin tjänare frid!"
 Då ska min tunga förkunna din rättfärdighet, ditt lov dagen lång.
+
 För körledaren. Av Herrens tjänare David.
 I mitt hjärta hör jag vad synden viskar till den gudlöse. Han har ingen gudsfruktan för ögonen,
 han intalar sig att ingen ska upptäcka och hata hans brott.
@@ -14467,8 +14468,7 @@ Hur dyrbar är inte din nåd, o Gud! Människors barn har sin tillflykt i dina v
 De mättas av rika gåvor i ditt hus, av din ljuvlighets ström ger du dem att dricka.
 Hos dig är livets källa, i ditt ljus ser vi ljus.
 Låt din nåd bli kvar över dem som känner dig, din rättfärdighet över dem som har ärliga hjärtan.
-Låt inte de stoltas fot trampa på mig eller de gudlösas hand driva bort mig.
-Där ligger förbrytarna fallna, nerslagna så att de inte kan resa sig.
+Låt inte de stoltas fot trampa på mig eller de gudlösas hand driva bort mig. Där ligger förbrytarna fallna, nerslagna så att de inte kan resa sig.
 Av David. Gräm dig inte över de onda, avundas inte dem som gör orätt.
 Snart torkar de bort som gräs, vissnar som gröna växter.
 Lita på Herren och gör det goda, bo i landet och lev i trofasthet,
@@ -14509,6 +14509,7 @@ Betrakta den oskyldige, se på den ärlige, det finns en framtid för fridens ma
 Men syndarna går alla under, de gudlösas framtid blir avskuren.
 De rättfärdigas frälsning kommer från Herren, han är deras borg i nödens tid.
 Herren hjälper dem och befriar dem, han befriar dem från de gudlösa och frälser dem, för de tar sin tillflykt till honom.
+
 En psalm av David. En bön.
 Herre, straffa mig inte i din vrede, tukta mig inte i din glöd!
 Dina pilar har träffat mig, din hand har drabbat mig.
@@ -14530,8 +14531,8 @@ för jag är nära att falla, jag känner ständigt min smärta.
 Jag bekänner min skuld, jag sörjer över min synd.
 Mina fiender lever och är mäktiga, många hatar mig utan orsak.
 De lönar gott med ont, de är emot mig för att jag strävar efter det goda.
-Överge mig inte, Herre! Min Gud, var inte långt ifrån mig.
-Skynda till min hjälp, Herre, min frälsning!
+Överge mig inte, Herre! Min Gud, var inte långt ifrån mig. Skynda till min hjälp, Herre, min frälsning!
+
 För körledaren, till Jedutun. En psalm av David.
 Jag sade: "Jag ska akta mig för att synda med min tunga, jag ska sätta lås för min mun så länge den gudlöse är framför mig."
 Jag blev stum och tyst, jag höll inne även med det goda, och min plåga blev allt värre.
@@ -14544,8 +14545,8 @@ Rädda mig från alla mina synder, låt mig inte bli hånad av dårar.
 Jag tiger och öppnar inte min mun, för det är du som har gjort det.
 Vänd bort din plåga ifrån mig, jag går under av din hands aga.
 När du tuktar någon för hans skuld, förtär du som mal det han har kärt. Alla människor är bara en vindpust. Sela
-Hör min bön, Herre, lyssna till mitt rop! Var inte tyst inför mina tårar, för jag är en främling hos dig, en gäst som alla mina fäder.
-Vänd bort din blick från mig, så att jag kan le igen innan jag går bort och inte finns här mer.
+Hör min bön, Herre, lyssna till mitt rop! Var inte tyst inför mina tårar, för jag är en främling hos dig, en gäst som alla mina fäder. Vänd bort din blick från mig, så att jag kan le igen innan jag går bort och inte finns här mer.
+
 För körledaren. En psalm av David.
 Jag väntade och väntade på Herren, och han böjde sig till mig och hörde mitt rop.
 Han drog mig upp ur fördärvets grop, upp ur den djupa dyn. Han ställde mina fötter på klippan och gjorde mina steg fasta,
@@ -14562,8 +14563,8 @@ för jag är omgiven av otaliga onda ting. Mina synder har hunnit ifatt mig, jag
 Var nådig, Herre, och rädda mig! Herre, skynda till min hjälp!
 Låt alla som vill ta mitt liv möta skam och vanära, låt dem som önskar mig ont vika tillbaka och skämmas.
 Låt dem häpna av skam, de som säger till mig: "Haha, haha!"
-Låt alla som söker dig få jubla och glädjas i dig, låt dem som älskar din frälsning alltid säga: "Herren är stor!"
-Jag är betryckt och fattig, men Herren tänker på mig. Du är min hjälp och befriare. Min Gud, dröj inte!
+Låt alla som söker dig få jubla och glädjas i dig, låt dem som älskar din frälsning alltid säga: "Herren är stor!" Jag är betryckt och fattig, men Herren tänker på mig. Du är min hjälp och befriare. Min Gud, dröj inte!
+
 För körledaren. En psalm av David.
 Salig är den som bryr sig om den fattige! Herren ska befria honom på olyckans dag.
 Herren ska bevara honom och hålla honom vid liv, han ska skattas lycklig i landet. Du utlämnar honom inte åt hans fienders vilja.
@@ -14576,8 +14577,8 @@ Alla som hatar mig viskar till varandra om mig, de tänker det värsta om mig:
 Även min vän som jag litade på, han som åt mitt bröd, lyfter sin häl mot mig.
 Men du, Herre, förbarma dig över mig och upprätta mig, så ska jag ge dem vad de förtjänar.
 Jag vet att du älskar mig, för min fiende triumferar inte över mig.
-Du stöder mig i min oskuld och låter mig stå inför ditt ansikte för evigt.
-Välsignad är Herren, Israels Gud, från evighet till evighet! Amen, amen.
+Du stöder mig i min oskuld och låter mig stå inför ditt ansikte för evigt. Välsignad är Herren, Israels Gud, från evighet till evighet! Amen, amen.
+
 För körledaren. En vishetspsalm av Koras söner.
 Som hjorten längtar till vattenbäckar, så längtar min själ efter dig, o Gud.
 Min själ törstar efter Gud, efter den levande Guden. När får jag komma och träda fram inför Guds ansikte?
@@ -14588,13 +14589,13 @@ Min själ är bedrövad i mig. Därför tänker jag på dig i Jordans land och p
 Djup ropar till djup i dånet av dina vattenfall. Alla dina svallande böljor sköljer över mig.
 Om dagen sänder Herren sin nåd, och om natten är hans sång hos mig, en bön till mitt livs Gud.
 Jag vill säga till Gud, min klippa: "Varför har du glömt mig? Varför måste jag gå sörjande, trängd av fiender?"
-Det är som att man krossar mina ben när mina fiender hånar mig och ständigt frågar mig: "Var är din Gud?"
-Varför så bedrövad, min själ, varför så orolig i mig? Hoppas på Gud. Jag ska åter få tacka honom, min frälsning och min Gud.
+Det är som att man krossar mina ben när mina fiender hånar mig och ständigt frågar mig: "Var är din Gud?" Varför så bedrövad, min själ, varför så orolig i mig? Hoppas på Gud. Jag ska åter få tacka honom, min frälsning och min Gud.
 Döm mig rättvist, Gud, ta dig an min sak mot ett kärlekslöst folk! Rädda mig från falska och onda människor,
 för du, Gud, är min styrka. Varför har du förkastat mig? Varför måste jag gå sorgsen, trängd av fiender?
 Sänd ditt ljus och din sanning. Låt dem leda mig, låt dem föra mig till ditt heliga berg och dina boningar,
 så att jag får gå in till Guds altare, till Gud som är min glädje och fröjd, och tacka dig på harpa, Gud, min Gud!
 Varför så bedrövad, min själ, varför så orolig i mig? Hoppas på Gud. Jag ska åter få tacka honom, min frälsning och min Gud.
+
 För körledaren. En vishetspsalm av Koras söner.
 Gud, vi har hört med våra öron, våra fäder har berättat för oss om den gärning du gjorde på deras tid, i forna dagar.
 Med din hand fördrev du hednafolken, men våra fäder planterade du. Andra folk förgjorde du, men dem lät du breda ut sig.
@@ -14620,8 +14621,8 @@ skulle då inte Gud ha märkt det, han som känner hjärtats hemligheter?
 Nej, för din skull dödas vi dagen lång, vi räknas som slaktfår.
 Vakna! Varför sover du, Herre? Vakna upp, förkasta oss inte för alltid!
 Varför döljer du ditt ansikte och glömmer vårt lidande och betryck?
-Vår själ är nerböjd i stoftet, vår kropp är nertryckt mot jorden.
-Grip in och hjälp oss! Friköp oss för din nåds skull.
+Vår själ är nerböjd i stoftet, vår kropp är nertryckt mot jorden. Grip in och hjälp oss! Friköp oss för din nåds skull.
+
 För körledaren, till "Liljorna". En vishetspsalm, en kärlekssång av Koras söner.
 Mitt hjärta flödar över av sköna ord, jag säger: Min sång gäller en kung. Min tunga är en snabb skrivares penna.
 Skönast är du bland människors barn, nåd är utgjuten över dina läppar. Därför har Gud välsignat dig för evigt.
@@ -14638,8 +14639,8 @@ Dottern Tyrus kommer med gåvor, de rika bland folket söker din gunst.
 Full av härlighet är kungadottern där inne, av guldbrokad är hennes dräkt.
 I färggranna kläder förs hon till kungen, åtföljd av jungfrur, hennes väninnor som leds in till dig.
 Med glädje och jubel förs de fram, de tågar in i kungens palats.
-I dina fäders ställe ska dina söner komma, du ska sätta dem till furstar över hela jorden.
-Ditt namn vill jag göra känt genom alla släkten. Därför ska folken lova dig i evigheters evighet.
+I dina fäders ställe ska dina söner komma, du ska sätta dem till furstar över hela jorden. Ditt namn vill jag göra känt genom alla släkten. Därför ska folken lova dig i evigheters evighet.
+
 För körledaren. En sång av Koras söner, till alamót.
 Gud är vår tillflykt och styrka, en hjälp i nöden, väl beprövad.
 Därför räds vi inte även om jorden ger vika och bergen störtar i havets djup,
@@ -14650,8 +14651,8 @@ Folken larmar, riken vacklar, han höjer sin röst – då smälter jorden.
 Herren Sebaot är med oss, Jakobs Gud är vår borg. Sela
 Kom och se Herrens verk, häpnadsväckande saker gör han på jorden.
 Han stillar strider över hela jorden, han bryter bågen och bräcker spjutet, bränner upp vagnarna i eld.
-"Bli stilla och besinna att jag är Gud, upphöjd bland folken, upphöjd på jorden."
-Herren Sebaot är med oss, Jakobs Gud är vår borg. Sela
+"Bli stilla och besinna att jag är Gud, upphöjd bland folken, upphöjd på jorden." Herren Sebaot är med oss, Jakobs Gud är vår borg. Sela
+
 För körledaren. En psalm av Koras söner.
 Klappa händer, alla folk, ropa till Gud med jublande röst!
 Herren, den Högste, är fruktad, en stor kung över hela jorden.
@@ -14660,8 +14661,8 @@ Han utväljer åt oss vår arvedel, hans älskade Jakobs stolthet. Sela
 Gud har farit upp under jubel, Herren under basuners ljud.
 Lovsjung Gud, lovsjung! Lovsjung vår kung, lovsjung,
 för Gud är kung över hela jorden. Lovsjung med vishet!
-Gud är kung över folken, Gud sitter på sin heliga tron.
-Folkens främsta samlas som Abrahams Guds folk, för jordens sköldar tillhör Gud. Högt är han upphöjd.
+Gud är kung över folken, Gud sitter på sin heliga tron. Folkens främsta samlas som Abrahams Guds folk, för jordens sköldar tillhör Gud. Högt är han upphöjd.
+
 En sång, en psalm av Koras söner.
 Stor är Herren och högt lovad i vår Guds stad, på sitt heliga berg.
 Skönt höjer det sig, hela jordens fröjd, Sions berg längst upp i norr, den store kungens stad.
@@ -14675,8 +14676,8 @@ Vi tänker, o Gud, på din nåd här i ditt tempel.
 Liksom ditt namn, o Gud, når ditt lov till jordens ändar. Din högra hand är full av rättfärdighet.
 Sions berg gläder sig, Juda döttrar jublar över dina domar.
 Tåga runt Sion, vandra omkring det, räkna dess torn!
-Lägg märke till dess murar, gå igenom dess borgar så att ni kan berätta för kommande släkten
-att sådan är Gud, vår Gud, alltid och för evigt. Han ska leda oss bortom döden.
+Lägg märke till dess murar, gå igenom dess borgar så att ni kan berätta för kommande släkten att sådan är Gud, vår Gud, alltid och för evigt. Han ska leda oss bortom döden.
+
 För körledaren. En psalm av Koras söner.
 Hör detta, alla folk! Lyssna, alla som lever i världen,
 både låg och hög, rik som fattig.
@@ -14696,8 +14697,7 @@ Men Gud ska friköpa min själ från dödsrikets våld, han ska ta emot mig. Sel
 Bli inte imponerad när någon blir rik, när hans hus växer i härlighet,
 för han får inget med sig i döden, hans härlighet följer inte med honom ner.
 Även om han skattar sig lycklig under livet och får beröm när han gör det gott för sig själv,
-så går hans själ till sina fäder, till dem som aldrig mer ser ljuset.
-En människa som i all sin härlighet inte har förstånd, hon liknar djuren som förgås.
+så går hans själ till sina fäder, till dem som aldrig mer ser ljuset. En människa som i all sin härlighet inte har förstånd, hon liknar djuren som förgås.
 En psalm av Asaf. Gud, Herren Gud, har talat. Han kallar på jorden från öster till väster.
 Från Sion, skönhetens krona, visar sig Gud i glans.
 Vår Gud kommer, han tänker inte tiga. Förtärande eld går framför honom, kring honom rasar stormen.
@@ -14721,6 +14721,8 @@ Du sitter och förtalar din bror, du smutskastar din mors son!
 Sådant har du gjort och jag har tigit, då har du trott att jag är som du. Men jag ska straffa dig och låta dina ögon se det.
 Tänk på detta, ni som glömmer Gud, så att jag inte sliter er i stycken utan räddning:
 Den som offrar lovets offer ärar mig, och den som ger akt på vägen ska jag låta se Guds frälsning."
+
+
 För körledaren. En psalm av David,
 när profeten Natan kom till honom efter att han gått in till Bat-Seba.
 Gud, var mig nådig efter din godhet, utplåna mina överträdelser efter din stora barmhärtighet.
@@ -14738,10 +14740,10 @@ Låt mig åter få glädjas över din frälsning och håll mig uppe med en villi
 Jag ska lära överträdarna dina vägar så att syndare omvänder sig till dig.
 Rädda mig från blodskuld, Gud, du min frälsnings Gud, så ska min tunga jubla över din rättfärdighet.
 Herre, öppna mina läppar, så ska min mun förkunna ditt lov.
-Slaktoffer gläder dig inte, annars skulle jag ge dig det, brännoffer vill du inte ha.
-Det offer Gud vill ha är en förkrossad ande. Ett förkrossat och bedrövat hjärta föraktar du inte, Gud.
-Gör gott mot Sion i din nåd, bygg upp Jerusalems murar.
-Då ska du få glädjas åt rätta offer, brännoffer och heloffer. Då ska tjurar offras på ditt altare.
+Slaktoffer gläder dig inte, annars skulle jag ge dig det, brännoffer vill du inte ha. Gör gott mot Sion i din nåd, bygg upp Jerusalems murar.
+Det offer Gud vill ha är en förkrossad ande. Ett förkrossat och bedrövat hjärta föraktar du inte, Gud. Då ska du få glädjas åt rätta offer, brännoffer och heloffer. Då ska tjurar offras på ditt altare.
+
+
 För körledaren. En vishetspsalm av David,
 när edomiten Doeg kom och berättade för Saul att David hade gått in i Ahimeleks hus.
 Varför skryter du med det onda, du mäktige man? Guds nåd består för alltid.
@@ -14749,26 +14751,25 @@ Din tunga tänker ut fördärv, den är som en vässad rakkniv. Du begår svek.
 Du älskar ont mer än gott, lögn mer än att tala sanning. Sela
 Du älskar allt tal som skadar, du falska tunga.
 Därför ska Gud riva ner dig för alltid, gripa dig och rycka dig ur din hydda, utrota dig ur de levandes land. Sela
-De rättfärdiga ska se det och frukta, de ska le åt honom:
-"Där är en man som inte gjorde Gud till sin borg! Han litade till sin stora rikedom, han sökte styrka genom att roffa åt sig."
-Men jag är som ett grönskande olivträd i Guds hus, jag förtröstar på Guds nåd i evigheters evighet.
-Jag ska tacka dig i evighet för det du har gjort. Inför dina trogna ska jag hoppas på ditt namn, för det är gott.
+De rättfärdiga ska se det och frukta, de ska le åt honom: Men jag är som ett grönskande olivträd i Guds hus, jag förtröstar på Guds nåd i evigheters evighet.
+"Där är en man som inte gjorde Gud till sin borg! Han litade till sin stora rikedom, han sökte styrka genom att roffa åt sig." Jag ska tacka dig i evighet för det du har gjort. Inför dina trogna ska jag hoppas på ditt namn, för det är gott.
+
 För körledaren, till mahalát. En vishetspsalm av David.
 Dåren säger i sitt hjärta: "Det finns ingen Gud." Onda och vidriga är deras gärningar, ingen finns som gör det goda.
 Gud blickar ner från himlen över människors barn för att se om det finns någon som förstår, någon som söker Gud.
 Men alla har avfallit, alla är fördärvade. Ingen finns som gör det goda, inte en enda.
 Förstår de ingenting, alla dessa förbrytare som äter mitt folk som bröd och inte åkallar Gud?
-Där grips de av skräck, men det finns inget att frukta, för Gud skingrar deras ben när de belägrar dig. Du får dem att skämmas, för Gud har förkastat dem.
-O att det från Sion kom frälsning för Israel! När Gud gör slut på sitt folks fångenskap, då ska Jakob jubla och Israel glädjas.
+Där grips de av skräck, men det finns inget att frukta, för Gud skingrar deras ben när de belägrar dig. Du får dem att skämmas, för Gud har förkastat dem. O att det från Sion kom frälsning för Israel! När Gud gör slut på sitt folks fångenskap, då ska Jakob jubla och Israel glädjas.
+
+
 För körledaren, till stränginstrument. En vishetspsalm av David,
 när sifiterna kom och sade till Saul: "David håller sig gömd hos oss."
 Gud, fräls mig genom ditt namn, döm mig rättvist genom din makt!
 Gud, hör min bön, lyssna till orden från min mun.
 Främlingar reser sig mot mig, våldsmän vill ta mitt liv. De har inte Gud för ögonen. Sela
-Se, Gud är min hjälpare, Herren stöder min själ.
-Det onda ska slå tillbaka mot mina förföljare. Förgör dem i din trofasthet!
-Villigt ska jag offra till dig, jag ska prisa ditt namn, Herre, för det är gott.
-Ur all nöd räddar han mig. Mitt öga får se mina fienders fall.
+Se, Gud är min hjälpare, Herren stöder min själ. Villigt ska jag offra till dig, jag ska prisa ditt namn, Herre, för det är gott.
+Det onda ska slå tillbaka mot mina förföljare. Förgör dem i din trofasthet! Ur all nöd räddar han mig. Mitt öga får se mina fienders fall.
+
 För körledaren, till stränginstrument. En vishetspsalm av David.
 Lyssna, Gud, till min bön, göm dig inte när jag ber om nåd,
 hör på mig och svara mig! Jag är rastlös av mitt bekymmer och våndas
@@ -14791,8 +14792,8 @@ Han friköper min själ och fredar mig så att de inte kan närma sig, för det 
 Gud ska höra mig och förödmjuka dem, han som från urminnes tid sitter på sin tron. Sela De ändrar sig inte, de fruktar inte Gud.
 Han bär hand på sina vänner, han kränker sitt förbund.
 Hans mun är halare än smör, men han har strid i sitt hjärta. Hans ord är lenare än olja, men de är dragna svärd.
-Kasta din börda på Herren, han ska ta hand om dig. Han låter aldrig den rättfärdige vackla.
-Du, Gud, ska störta dem ner i fördärvets grop. Blodtörstiga och bedragare når inte ens halva sin ålder. Men jag förtröstar på dig.
+Kasta din börda på Herren, han ska ta hand om dig. Han låter aldrig den rättfärdige vackla. Du, Gud, ska störta dem ner i fördärvets grop. Blodtörstiga och bedragare når inte ens halva sin ålder. Men jag förtröstar på dig.
+
 För körledaren, till "Den stumma duvan i fjärran". En sång av David, när filisteerna grep honom i Gat.
 Förbarma dig över mig, Gud, för människor jagar min själ. Ständigt angriper de och tränger mig,
 ständigt jagar mina förföljare mig. Många angriper mig i högmod.
@@ -14805,8 +14806,8 @@ Du håller räkning på min flykts dagar. Samla mina tårar i ditt kärl, för d
 Mina fiender ska vika tillbaka när jag ropar till dig. Detta vet jag, för Gud är med mig.
 På Gud, vars ord jag prisar, på Herren, vars ord jag prisar,
 på Gud litar jag och fruktar inte. Vad kan människor göra mig?
-Jag har gett löften till dig, Gud, och jag ska uppfylla dem med tackoffer.
-Du har räddat min själ från döden och mina fötter från fall, så att jag kan vandra inför Gud i de levandes ljus.
+Jag har gett löften till dig, Gud, och jag ska uppfylla dem med tackoffer. Du har räddat min själ från döden och mina fötter från fall, så att jag kan vandra inför Gud i de levandes ljus.
+
 För körledaren, "Fördärva inte". En sång av David när han hade flytt undan Saul och var i grottan.
 Förbarma dig, Gud, förbarma dig över mig! Till dig flyr min själ, i dina vingars skugga tar jag min tillflykt tills faran är över.
 Jag ropar till Gud, den Högste, till Gud, som fullbordar sitt verk för mig.
@@ -14817,8 +14818,8 @@ De lägger nät för mina fötter, min själ är nerböjd. De gräver en grop f�
 Mitt hjärta är frimodigt, Gud, mitt hjärta är frimodigt. Jag vill sjunga och spela.
 Vakna, min ära, vakna, lyra och harpa! Jag vill väcka morgonrodnaden.
 Jag vill tacka dig bland folken, Herre, lovsjunga dig bland folkslagen,
-för din nåd är stor och når till himlen, din sanning ända till skyarna.
-Visa din höghet över himlen, Gud, och din härlighet över hela jorden!
+för din nåd är stor och når till himlen, din sanning ända till skyarna. Visa din höghet över himlen, Gud, och din härlighet över hela jorden!
+
 För körledaren, "Fördärva inte". En sång av David.
 För ni verkligen rättfärdighetens talan när ni tiger? Dömer ni rätta domar, ni människors barn?
 Nej, i hjärtat gör ni onda planer, era händer banar väg för våld i landet.
@@ -14829,8 +14830,8 @@ Gud, krossa tänderna i deras mun, bryt de unga lejonens käkar, Herre!
 Låt dem försvinna likt vatten som rinner bort. När han spänner bågen, låt pilen vara utan udd.
 Som snigeln smälter bort i slem ska han försvinna, som en kvinnas dödfödda foster som aldrig fick se solen.
 Innan era grytor känner hettan från törnet, vare sig det är färskt eller brinner, ska han svepa bort det med en stormvind.
-Den rättfärdige ska glädja sig när han ser hämnden, han ska tvätta sina fötter i den gudlöses blod,
-och människor ska säga: "Den rättfärdige får sin lön. Det finns en Gud som dömer på jorden."
+Den rättfärdige ska glädja sig när han ser hämnden, han ska tvätta sina fötter i den gudlöses blod, och människor ska säga: "Den rättfärdige får sin lön. Det finns en Gud som dömer på jorden."
+
 För körledaren, "Fördärva inte". En sång av David när Saul sände män för att bevaka huset och döda honom.
 Rädda mig, min Gud, från mina fiender, beskydda mig från mina motståndare!
 Rädda mig från förbrytarna, fräls mig från de blodtörstiga!
@@ -14847,8 +14848,9 @@ Varje ord på deras läppar är en synd i deras mun. Låt dem fångas i sitt hö
 Förgör dem i vrede, förgör dem så att de inte finns mer! Låt dem veta att Gud härskar i Jakob och till jordens yttersta ändar. Sela
 De kommer tillbaka mot kvällen, de morrar som hundar och stryker runt i staden.
 De strövar omkring efter föda, blir de inte mätta så gnyr de.
-Men jag ska sjunga om din makt och jubla var morgon över din nåd, för du är en borg för mig, en tillflykt när jag är i nöd.
-Du min styrka, jag vill lovsjunga dig, för Gud är min borg, min nådige Gud.
+Men jag ska sjunga om din makt och jubla var morgon över din nåd, för du är en borg för mig, en tillflykt när jag är i nöd. Du min styrka, jag vill lovsjunga dig, för Gud är min borg, min nådige Gud.
+
+
 För körledaren, till "Vittnesbördets lilja", en sång till lärdom. Av David,
 när han var i strid med Aram-Naharajim och Aram-Soba och Joab kom tillbaka och slog edomiterna i Saltdalen, tolv tusen man.
 Gud, du har förkastat oss och krossat oss, du har varit vred – upprätta oss igen!
@@ -14859,10 +14861,9 @@ Fräls med din högra hand och svara oss, så att dina älskade blir räddade.
 Gud har talat i sin helgedom: "I triumf ska jag dela upp Shekem och mäta upp Suckots dal.
 Gilead är mitt, Manasse är mitt, Efraim är min hjälm och Juda min spira.
 Moab är mitt tvättfat, på Edom kastar jag min sko. Ropa av fröjd över mig, filisteer!"
-Vem för mig till den befästa staden, vem leder mig till Edom?
-Är det inte du, Gud – du som har förkastat oss och inte drar ut med våra härar, Gud?
-Ge oss hjälp mot fienden, människors hjälp är meningslös.
-Med Gud ska vi göra storverk. Han ska trampa ner våra fiender.
+Vem för mig till den befästa staden, vem leder mig till Edom? Ge oss hjälp mot fienden, människors hjälp är meningslös.
+Är det inte du, Gud – du som har förkastat oss och inte drar ut med våra härar, Gud? Med Gud ska vi göra storverk. Han ska trampa ner våra fiender.
+
 För körledaren, till stränginstrument. Av David.
 Gud, hör mitt rop, lyssna till min bön!
 Från jordens ände ropar jag till dig när mitt hjärta mattas. För mig upp på klippan som är högre än jag,
@@ -14870,8 +14871,8 @@ för du har varit min tillflykt, ett starkt torn mot fienden.
 Låt mig bo i ditt tält för evigt och ha min tillflykt under dina vingar. Sela
 Du, Gud, har hört mina löften, du har gett mig en arvedel bland dem som vördar ditt namn.
 Du förökar kungens dagar, hans år ska vara från släkte till släkte,
-han ska trona för evigt inför Gud. Låt nåd och sanning bevara honom.
-Då ska jag alltid lovsjunga ditt namn och uppfylla mina löften dag efter dag.
+han ska trona för evigt inför Gud. Låt nåd och sanning bevara honom. Då ska jag alltid lovsjunga ditt namn och uppfylla mina löften dag efter dag.
+
 För körledaren, till Jedutun. En psalm av David.
 Bara hos Gud har min själ sin ro, från honom kommer min frälsning.
 Bara han är min klippa och min frälsning, min borg. Jag ska inte vackla.
@@ -14883,8 +14884,8 @@ Hos Gud är min frälsning och min ära, i Gud är min starka klippa, min tillfl
 Lita alltid på honom, du folk, utgjut era hjärtan för honom. Gud är vår tillflykt. Sela
 Människors barn är bara en vindpust, myndiga herrar sviker. I vågskålen är de för lätta, tillsammans väger de mindre än luft.
 Lita inte till våld, hoppas inte på stulet gods. Fäst inte hjärtat vid rikedom, även om den växer.
-Ett har Gud talat, två ting har jag hört: Hos Gud finns makten,
-och hos dig, Herre, finns nåd. Du ska löna var och en efter hans gärningar.
+Ett har Gud talat, två ting har jag hört: Hos Gud finns makten, och hos dig, Herre, finns nåd. Du ska löna var och en efter hans gärningar.
+
 En psalm av David när han var i Juda öken.
 Gud, du är min Gud. Tidigt söker jag dig. Min själ törstar efter dig, min kropp längtar efter dig i ett torrt och törstigt land utan vatten.
 Så söker jag dig i helgedomen för att se din makt och härlighet.
@@ -14895,8 +14896,8 @@ när jag minns dig på min bädd och tänker på dig under nattens timmar.
 Du är min hjälp, i dina vingars skugga jublar jag.
 Min själ håller sig tätt intill dig, din högra hand stöder mig.
 De som vill ta mitt liv ska gå under, de ska hamna i jordens djup.
-De ska överlämnas åt svärdet, de ska bli schakalers byte.
-Men kungen ska glädja sig i Gud. Var och en som svär vid honom ska skatta sig lycklig när lögnarnas mun täpps till.
+De ska överlämnas åt svärdet, de ska bli schakalers byte. Men kungen ska glädja sig i Gud. Var och en som svär vid honom ska skatta sig lycklig när lögnarnas mun täpps till.
+
 För körledaren. En psalm av David.
 Gud, hör min röst när jag klagar, skydda mitt liv från fiendens hot!
 Göm mig från de ondas hemliga planer, från förbrytarnas hetsiga hop.
@@ -14906,8 +14907,8 @@ De uppmuntrar varandra i sitt onda uppsåt, de talar om att lägga snaror, de s�
 De smider onda planer: "Nu har vi en färdig plan!" Människans tankar och hjärta är djupa.
 Då skjuter Gud dem, en plötslig pil och de är sårade.
 Deras egna tungor får dem på fall, alla som ser dem skakar på huvudet.
-Alla människor grips av skräck, de förkunnar vad Gud har gjort och förstår att det är hans verk.
-Den rättfärdige gläder sig i Herren och flyr till honom, och alla som har ärliga hjärtan skattar sig lyckliga.
+Alla människor grips av skräck, de förkunnar vad Gud har gjort och förstår att det är hans verk. Den rättfärdige gläder sig i Herren och flyr till honom, och alla som har ärliga hjärtan skattar sig lyckliga.
+
 För körledaren. En psalm av David, en sång.
 Gud, dig lovar man i stillhet i Sion. Till dig uppfyller man löften.
 Du som hör bön, till dig kommer alla människor.
@@ -14920,8 +14921,7 @@ De som bor vid jordens ändar häpnar för dina tecken, öster och väster fylle
 Du tar hand om jorden och vattnar den, du gör den mycket rik. Guds flod är full av vatten. Du skaffar säd åt människorna när du så bereder jorden.
 Du vattnar dess fåror och jämnar det plöjda, du mjukar upp den med skurar och välsignar dess gröda.
 Du kröner året med ditt goda, dina spår dryper av rikedom.
-Vildmarkens beten dryper, höjderna klär sig i glädje,
-ängarna fylls av hjordar och dalarna täcks med säd. Man ropar av glädje och sjunger.
+Vildmarkens beten dryper, höjderna klär sig i glädje, ängarna fylls av hjordar och dalarna täcks med säd. Man ropar av glädje och sjunger.
 För körledaren. En sång, en psalm. Ropa till Gud, hela jorden!
 Lovsjung hans namns ära, ge honom ära och pris!
 Säg till Gud: Hur förunderliga är inte dina gärningar! Dina fiender kryper för dig, för din stora makt.
@@ -14942,14 +14942,15 @@ Jag ropade till honom med min mun och hade lovsång på min tunga.
 Hade jag haft ondska i mitt hjärta, hade Herren inte hört mig.
 Men Gud har verkligen hört, han har lyssnat till min bön.
 Lovad är Gud, som inte har avvisat min bön eller tagit sin nåd ifrån mig!
+
 För körledaren, med stränginstrument. En psalm, en sång.
 Må Gud vara nådig mot oss och välsigna oss, må han låta sitt ansikte lysa över oss. Sela
 Då ska din väg bli känd på jorden, din frälsning bland alla hednafolk.
 Folken ska tacka dig, Gud, alla folk ska tacka dig.
 Folkslagen ska glädjas och jubla, för du dömer folken rätt och leder folkslagen på jorden. Sela
 Folken ska tacka dig, Gud, alla folk ska tacka dig.
-Jorden ger sin gröda och Gud, vår Gud, välsignar oss.
-Må Gud välsigna oss, och må jordens alla ändar vörda honom.
+Jorden ger sin gröda och Gud, vår Gud, välsignar oss. Må Gud välsigna oss, och må jordens alla ändar vörda honom.
+
 För körledaren. En psalm, en sång av David.
 Gud reser sig, hans fiender skingras, de som hatar honom flyr för hans ansikte.
 Som rök driver bort fördriver du dem, som vax smälter för eld förgås de gudlösa inför Gud.
@@ -14984,8 +14985,8 @@ Straffa odjuret i vassen, tjurarnas hop och folkens kalvar. Ödmjukt ska de hyll
 Sändebud ska komma från Egypten, Nubien ska skynda att sträcka sina händer till Gud.
 Jordens riken, sjung till Gud, lovsjung Herren, Sela
 honom som drar fram över himlen, urtidens himmel. Hör, han höjer sin röst, en mäktig röst!
-Ge Gud makten! Hans majestät är över Israel, hans makt är i skyarna.
-Fruktad är du, Gud, i din helgedom. Israels Gud ger makt och styrka åt sitt folk. Lovad är Gud!
+Ge Gud makten! Hans majestät är över Israel, hans makt är i skyarna. Fruktad är du, Gud, i din helgedom. Israels Gud ger makt och styrka åt sitt folk. Lovad är Gud!
+
 För körledaren, till "Liljorna". Av David.
 Fräls mig, Gud! Vattnet når mig till halsen.
 Jag har sjunkit i djupaste dy utan fotfäste, jag är ute på djupt vatten och strömmen sköljer över mig.
@@ -15021,14 +15022,13 @@ Det ska glädja Herren mer än tjurar och oxar med horn och klövar.
 De ödmjuka ska se det och glädjas. Ni som söker Gud, era hjärtan ska leva,
 för Herren lyssnar till de fattiga och föraktar inte sina fångna.
 Himmel och jord ska prisa honom, haven och allt som rör sig i dem,
-för Gud ska frälsa Sion och bygga upp Juda städer. De ska bo där och ta Sion i besittning.
-Hans tjänares barn ska få det till arv, och de som älskar hans namn ska bo där.
+för Gud ska frälsa Sion och bygga upp Juda städer. De ska bo där och ta Sion i besittning. Hans tjänares barn ska få det till arv, och de som älskar hans namn ska bo där.
+
 För körledaren. Av David, till åminnelse.
 Gud, kom till min räddning! Herre, skynda till min hjälp!
 Låt dem som vill ta mitt liv få skam och vanära, låt dem som önskar mig olycka vika tillbaka och blygas.
 Låt dem vända om i sin skam, de som säger: "Haha!"
-Låt alla som söker dig få jubla och glädjas i dig, låt dem som älskar din frälsning alltid få säga: "Gud är stor!"
-Men jag är svag och fattig. Gud, skynda till mig! Du är min hjälp och min befriare. Herre, dröj inte!
+Låt alla som söker dig få jubla och glädjas i dig, låt dem som älskar din frälsning alltid få säga: "Gud är stor!" Men jag är svag och fattig. Gud, skynda till mig! Du är min hjälp och min befriare. Herre, dröj inte!
 Till dig, Herre, tar jag min tillflykt. Låt mig aldrig behöva skämmas.
 Rädda mig och befria mig i din rättfärdighet, vänd ditt öra till mig och fräls mig.
 Var min klippa där jag kan bo, dit jag alltid kan komma, du som gett befallning om min frälsning. Du är mitt bergfäste och min borg.
@@ -15124,6 +15124,7 @@ Tänk på förbundet, för landets mörka vrår är fulla av våldets nästen.
 Låt inte den kuvade vända skamsen tillbaka, låt den förtryckte och fattige få prisa ditt namn.
 Res dig, Gud, och för din talan! Tänk på hur dåren hånar dig dagen lång.
 Glöm inte dina fienders rop, det skrän som ständigt stiger från dina motståndare.
+
 För körledaren. "Fördärva inte". En psalm, en sång av Asaf.
 Vi tackar dig, Gud, vi tackar dig! Ditt namn är nära, man förkunnar dina under.
 "Vid den tid jag bestämt ska jag fälla en rättvis dom.
@@ -15133,8 +15134,8 @@ Höj inte ert horn så högt, tala inte så trotsigt och fräckt.
 Varken från öster eller väster eller från öknen kommer upphöjelsen.
 Nej, Gud är den som dömer. Den ene böjer han ner, den andre reser han upp.
 I Herrens hand är en bägare med skummande vin, full av blandad dryck. Han häller upp, och jordens alla gudlösa måste dricka den i botten.
-Men jag ska för evigt förkunna och lovsjunga Jakobs Gud.
-Alla gudlösas horn ska jag hugga av, men den rättfärdiges horn ska upphöjas.
+Men jag ska för evigt förkunna och lovsjunga Jakobs Gud. Alla gudlösas horn ska jag hugga av, men den rättfärdiges horn ska upphöjas.
+
 För körledaren, till stränginstrument. En psalm, en sång av Asaf.
 Gud är känd i Juda, hans namn är stort i Israel.
 I Salem står hans hydda, på Sion hans boning.
@@ -15146,8 +15147,8 @@ Du, endast du, är värd att frukta. Vem kan bestå inför dig när du vredgas?
 Från himlen låter du domen höras, jorden förskräcks och blir stilla
 när Gud står upp för att döma, för att frälsa alla ödmjuka på jorden. Sela
 Din vrede mot människor ska bli till din ära, dem som överlevt vreden ska du ikläda dig.
-Ge löften till Herren er Gud och uppfyll dem! Alla runt omkring ska komma med gåvor till den Fruktade.
-Han kuvar furstarnas ande, fruktad av kungarna på jorden.
+Ge löften till Herren er Gud och uppfyll dem! Alla runt omkring ska komma med gåvor till den Fruktade. Han kuvar furstarnas ande, fruktad av kungarna på jorden.
+
 För körledaren, till Jedutun. En psalm av Asaf.
 Jag höjer min röst till Gud och ropar, jag höjer min röst till Gud och han lyssnar till mig.
 På nödens dag söker jag Herren, om natten är min hand utsträckt utan att tröttna. Min själ vägrar låta sig tröstas.
@@ -15167,8 +15168,7 @@ Med din arm har du återlöst ditt folk, Jakobs och Josefs barn. Sela
 Vattnen såg dig, Gud, vattnen såg dig och bävade, själva djupen darrade.
 Från molnen strömmade vatten, skyarna höjde sin röst och dina pilar flög överallt.
 Din åska dundrade i virvelstormen, blixtar lyste upp världen, jorden darrade och bävade.
-Genom havet gick din väg, din stig genom väldiga vatten, och ingen såg dina fotspår.
-Du förde ditt folk som en fårhjord genom Moses och Arons hand.
+Genom havet gick din väg, din stig genom väldiga vatten, och ingen såg dina fotspår. Du förde ditt folk som en fårhjord genom Moses och Arons hand.
 En vishetspsalm av Asaf. Lyssna, mitt folk, till min undervisning, vänd era öron till min muns ord!
 Jag vill öppna min mun för att tala visdomsord, lägga fram gåtor från gången tid.
 Vad vi har hört och lärt känna, vad våra fäder berättat för oss
@@ -15254,6 +15254,7 @@ Varför ska folken få säga: "Var är nu deras Gud?" Låt våra ögon få se hu
 Låt fångarnas klagan komma inför ditt ansikte, låt dödens barn få leva genom din starka arm.
 Låt våra grannar få sjufalt igen för sitt hån mot dig, Herre.
 Då ska vi, ditt folk och fåren i din hjord, tacka dig för evigt och förkunna ditt lov från släkte till släkte.
+
 För körledaren, till "Liljorna". Ett vittnesbörd, en psalm av Asaf.
 Lyssna, du Israels herde! Du som leder Josef som en hjord, du som tronar på keruberna, visa dig i glans!
 Väck upp din makt till att gå framför Efraim och Benjamin och Manasse, och kom till vår frälsning.
@@ -15272,8 +15273,8 @@ Gud Sebaot, kom tillbaka! Blicka ner från himlen och se, ta hand om denna vinst
 Skydda vad din högra hand har planterat, den son du har fostrat åt dig.
 Den är bränd av eld och nerhuggen, de går under inför din stränga blick.
 Håll din hand över mannen vid din högra sida, den människoson du har fostrat åt dig.
-Då ska vi inte vika från dig. Ge oss liv, och vi ska åkalla ditt namn.
-Herre Gud Sebaot, upprätta oss! Låt ditt ansikte lysa så att vi blir frälsta.
+Då ska vi inte vika från dig. Ge oss liv, och vi ska åkalla ditt namn. Herre Gud Sebaot, upprätta oss! Låt ditt ansikte lysa så att vi blir frälsta.
+
 För körledaren, till gittít. Av Asaf.
 Jubla inför Gud, vår styrka, ropa av glädje till Jakobs Gud!
 Stäm upp lovsång, slå på tamburin, på den ljuvliga harpan och lyran.
@@ -15289,8 +15290,7 @@ Men mitt folk ville inte höra min röst, Israel lydde mig inte.
 Då lät jag dem gå i sina hjärtans hårdhet, de fick vandra efter sina egna planer.
 Om mitt folk bara ville höra mig, om Israel ville vandra på mina vägar!
 Då skulle jag snart kuva deras fiender och vända min hand mot deras motståndare.
-De som hatar Herren skulle krypa för honom, och deras öde skulle vara för evigt.
-Han skulle ge dig finaste vete att äta och mätta dig med honung ur klippan."
+De som hatar Herren skulle krypa för honom, och deras öde skulle vara för evigt. Han skulle ge dig finaste vete att äta och mätta dig med honung ur klippan."
 En psalm av Asaf. Gud står i gudaförsamlingen, bland gudarna håller han dom:
 "Hur länge ska ni döma orätt och ta de gudlösas parti? Sela
 Skipa rätt för den svage och faderlöse, ge den förtryckte och fattige rättvisa!
@@ -15299,6 +15299,7 @@ De vet inget och förstår inget, de vandrar i mörker. Jordens alla grundvalar 
 "Jag har sagt att ni är gudar, att ni alla är den Högstes söner.
 Men ni kommer att dö som människor dör och falla som alla furstar faller."
 Grip in, Gud! Håll dom över jorden, för alla folk är din egendom.
+
 En sång, en psalm av Asaf.
 Gud, var inte tyst, var inte stilla och stum, Gud!
 Se, dina fiender larmar och de som hatar dig höjer sina huvuden.
@@ -15316,8 +15317,8 @@ Min Gud, låt dem bli som virvlande löv, som agnar för vinden!
 Som elden slukar skog och lågan sveder berg,
 så ska du jaga dem med din storm och skräckslå dem med ditt oväder.
 Fyll deras ansikten med skam så att de söker ditt namn, Herre.
-De ska skämmas i skräck till evig tid, de ska skämmas och gå under.
-Låt dem veta att du ensam bär namnet Herren, den Högste över hela jorden.
+De ska skämmas i skräck till evig tid, de ska skämmas och gå under. Låt dem veta att du ensam bär namnet Herren, den Högste över hela jorden.
+
 För körledaren, till gittít. En psalm av Koras söner.
 Hur ljuvliga är inte dina boningar, Herre Sebaot!
 Min själ längtar och trängtar till Herrens gårdar, min själ och min kropp jublar mot levande Gud.
@@ -15329,8 +15330,8 @@ De går från kraft till kraft, de träder fram inför Gud på Sion.
 Herre Gud Sebaot, hör min bön, lyssna, du Jakobs Gud! Sela
 Gud, se vår sköld, se på din smordes ansikte!
 En dag i dina gårdar är bättre än tusen andra. Jag vill hellre vakta dörren i min Guds hus än bo i de gudlösas tält,
-för Herren Gud är sol och sköld, Herren ger nåd och ära. Inget gott nekar han dem som vandrar i fullkomlighet.
-Herre Sebaot, salig är den som förtröstar på dig.
+för Herren Gud är sol och sköld, Herren ger nåd och ära. Inget gott nekar han dem som vandrar i fullkomlighet. Herre Sebaot, salig är den som förtröstar på dig.
+
 För körledaren. En psalm av Koras söner.
 Herre, förr var du nådig mot ditt land, du gjorde slut på Jakobs fångenskap.
 Du förlät ditt folks skuld, du övertäckte all deras synd. Sela
@@ -15343,8 +15344,7 @@ Jag vill höra vad Gud, Herren, talar. Han talar frid till sitt folk, till sina 
 Ja, hans frälsning är nära dem som vördar honom, för att härlighet ska bo i vårt land.
 Nåd och sanning ska mötas, rättfärdighet och frid ska kyssas.
 Sanning ska växa upp ur jorden och rättfärdighet blicka ner från himlen.
-Herren ska ge det som är gott, och vårt land ska ge sin gröda.
-Rättfärdighet ska gå före honom och bana väg för hans steg.
+Herren ska ge det som är gott, och vårt land ska ge sin gröda. Rättfärdighet ska gå före honom och bana väg för hans steg.
 En bön av David. Herre, vänd ditt öra till mig och svara mig, för jag är svag och fattig.
 Bevara min själ, för jag är trogen. Du är min Gud, fräls din tjänare som litar på dig.
 Förbarma dig över mig, Herre, för jag ropar till dig dagen lång.
@@ -15369,6 +15369,7 @@ Härliga ting har sagts om dig, Guds stad. Sela
 Om Sion ska det sägas: "Den och den är född där." Och han, den Högste, håller det vid makt.
 När Herren upptecknar folken ska han räkna så: "De är födda där." Sela
 Under sång och dans ska man säga: "Alla mina källor har jag i dig."
+
 En sång, en psalm av Koras söner. För körledaren, till mahalát-leannót. En vishetspsalm av esraiten Heman.
 Herre, min frälsnings Gud, dag och natt ropar jag till dig.
 Låt min bön komma inför ditt ansikte, vänd ditt öra till mitt rop,
@@ -15386,8 +15387,8 @@ Men jag ropar till dig, Herre, om morgonen möter dig min bön.
 Varför, Herre, förkastar du min själ? Varför döljer du ditt ansikte för mig?
 Plågad är jag och döende från min ungdom, jag bär förskräckelser från dig och förtvivlar.
 Din vredes lågor sveper över mig, dina fasor förgör mig.
-Ständigt omsluter de mig som vatten, omringar mig helt och hållet.
-Mina nära och kära har du fjärmat från mig. I mina förtrognas ställe har jag bara mörker.
+Ständigt omsluter de mig som vatten, omringar mig helt och hållet. Mina nära och kära har du fjärmat från mig. I mina förtrognas ställe har jag bara mörker.
+
 En vishetspsalm av esraiten Etan.
 Jag vill sjunga om Herrens nådegärningar för evigt, med min mun förkunna din trofasthet från släkte till släkte.
 Jag säger: För evigt är din nåd befäst, i himlen är din trofasthet grundad.
@@ -15439,8 +15440,7 @@ Tänk på hur kort mitt liv är, hur förgängliga du skapat alla människors ba
 Vem kan leva och slippa se döden, vem kan rädda sin själ från dödsrikets våld? Sela
 Herre, var är dina nådegärningar från förr som du lovade David med ed i din trofasthet?
 Herre, tänk på dina tjänares vanära, vad jag bär inom mig från de många folken,
-hur dina fiender hånar, Herre, hur de hånar din smordes fotspår.
-Välsignad är Herren i evighet! Amen, amen.
+hur dina fiender hånar, Herre, hur de hånar din smordes fotspår. Välsignad är Herren i evighet! Amen, amen.
 En bön av gudsmannen Mose. Herre, du har varit vår tillflykt från släkte till släkte.
 Innan bergen blev till och du skapade jorden och världen, från evighet till evighet är du, Gud.
 Du låter människan vända åter till stoft, du säger: "Vänd om, ni människors barn!"
@@ -15474,6 +15474,7 @@ Du ska gå fram över lejon och huggormar, trampa på unga lejon och drakar.
 "Han älskar mig, därför ska jag befria honom, och jag ska beskydda honom eftersom han känner mitt namn.
 Han ropar till mig och jag svarar honom. Jag är med honom i nöden, jag ska rädda honom och ge honom ära.
 Jag ska mätta honom med långt liv och låta honom se min frälsning."
+
 En psalm, en sång för sabbatsdagen.
 Det är gott att tacka Herren och att lovsjunga ditt namn, du den Högste,
 att på morgonen förkunna din nåd och om natten din trofasthet,
@@ -15488,8 +15489,7 @@ Men mitt horn höjer du som vildoxens, jag är överöst med frisk olja.
 Mina ögon får se mina förföljare falla, mina öron får höra om de onda som reste sig mot mig.
 De rättfärdiga grönskar som palmer, de växer som cedrar på Libanon,
 planterade i Herrens hus, grönskande på vår Guds förgårdar.
-Även vid hög ålder bär de frukt, de frodas och grönskar
-för att förkunna att Herren, min klippa, är rättfärdig. Ingen orätt finns i honom.
+Även vid hög ålder bär de frukt, de frodas och grönskar för att förkunna att Herren, min klippa, är rättfärdig. Ingen orätt finns i honom.
 Herren är kung! Han är klädd i höghet, Herren är klädd och rustad med kraft. Världen står fast, den vacklar inte.
 Din tron står fast sedan urminnes tid, du är av evighet.
 Strömmarna höjer sig, Herre, strömmarna höjer sin röst, strömmarna höjer sitt dån.
@@ -15585,6 +15585,7 @@ Den som baktalar sin nästa ska jag förgöra, stolta ögon och högmodigt hjär
 Mina ögon söker de trofasta i landet, de ska bo hos mig. Den som vandrar på den fullkomliga vägen, han ska tjäna mig.
 Den som begår svek får inte bo i mitt hus, den som talar lögn ska inte bestå inför mina ögon.
 Varje morgon ska jag förgöra alla gudlösa i landet och utrota alla förbrytare ur Herrens stad.
+
 Bön av en plågad som i vanmakt utgjuter sin sorg inför Herren.
 Herre, hör min bön, låt mitt rop komma inför dig!
 Dölj inte ditt ansikte för mig när jag är i nöd. Vänd ditt öra till mig, skynda dig att svara när jag ropar!
@@ -15612,8 +15613,7 @@ Han har försvagat min kraft på vägen, han har förkortat mina dagar.
 Jag sade: Min Gud, ryck inte bort mig mitt i livet! Dina år varar från släkte till släkte.
 För länge sedan lade du jordens grund, himlarna är dina händers verk.
 De ska gå under, men du ska bestå. De ska alla nötas ut som kläder, du ska byta ut dem som en mantel och de försvinner.
-Men du är densamme, och dina år har inget slut.
-Dina tjänares barn ska bo i trygghet och deras ättlingar bestå inför dig.
+Men du är densamme, och dina år har inget slut. Dina tjänares barn ska bo i trygghet och deras ättlingar bestå inför dig.
 Av David. Lova Herren, min själ! Hela mitt inre, prisa hans heliga namn!
 Lova Herren, min själ, och glöm inte allt gott han gör –
 han förlåter dig alla dina synder och botar alla dina sjukdomar,
@@ -15807,6 +15807,7 @@ Han öste förakt över furstarna och lät dem irra i väglös ödemark,
 han upphöjde den fattige ur eländet och förökade familjerna som hjordar.
 De ärliga ser det och gläds, all ondska måste tiga.
 Den som är vis bör ta till sig detta och tänka på Herrens nådegärningar.
+
 En sång, en psalm av David.
 Mitt hjärta är frimodigt, Gud! Jag vill sjunga och spela, så vill min ära.
 Vakna, lyra och harpa! Jag vill väcka morgonrodnaden.
@@ -15819,8 +15820,7 @@ Gilead är mitt, Manasse är mitt, Efraim är min hjälm och Juda min spira.
 Moab är mitt tvättfat, på Edom kastar jag min sko. Över filisteerna ropar jag i triumf."
 Vem för mig till den befästa staden, vem leder mig till Edom?
 Är det inte du, Gud – du som har förkastat oss och inte drar ut med våra härar, Gud?
-Ge oss hjälp mot fienden, människors hjälp är meningslös.
-Med Gud ska vi göra storverk. Han ska trampa ner våra fiender.
+Ge oss hjälp mot fienden, människors hjälp är meningslös. Med Gud ska vi göra storverk. Han ska trampa ner våra fiender.
 För körledaren. En psalm av David. Min lovsångs Gud, var inte tyst,
 för de öppnar sin gudlösa mun, sin falska mun mot mig. De talar mot mig med lögnaktig tunga.
 Med hatiska ord omringar de mig, de strider mot mig utan orsak.
@@ -16329,6 +16329,7 @@ Skulle jag inte hata dem som hatar dig, Herre, och avsky dem som gör uppror mot
 Jag hatar dem med starkaste hat, mina fiender har de blivit.
 Rannsaka mig, Gud, och känn mitt hjärta, pröva mig och känn mina tankar.
 Se om jag är på en olycksväg, och led mig på den eviga vägen.
+
 För körledaren. En psalm av David.
 Rädda mig, Herre, från onda människor, skydda mig från våldsmän
 som gör onda planer i sina hjärtan och vållar strid varje dag.
@@ -16341,8 +16342,7 @@ Herre, uppfyll inte de gudlösas önskningar, låt inte deras planer lyckas så 
 Låt dem som omringar mig själva drabbas av sina läppars ondska.
 Låt glödande kol regna över dem, låt dem kastas i eld, i djup så att de aldrig kommer upp.
 Förtalare ska inte bestå i landet, våldsmän ska jagas av olycka med slag på slag.
-Jag vet att Herren ska ta sig an den förtrycktes sak och skipa rätt åt den fattige.
-De rättfärdiga ska prisa ditt namn, de ärliga ska bo inför ditt ansikte.
+Jag vet att Herren ska ta sig an den förtrycktes sak och skipa rätt åt den fattige. De rättfärdiga ska prisa ditt namn, de ärliga ska bo inför ditt ansikte.
 En psalm av David. Herre, jag ropar till dig, skynda till mig! Lyssna till min röst när jag ropar till dig.
 Låt min bön vara rökelse inför dig, mina lyfta händer ett aftonoffer.
 Herre, sätt en vakt för min mun, bevaka mina läppars dörr.
@@ -16353,14 +16353,14 @@ Som när man plöjer och river upp jorden, så ligger våra ben utspridda vid d�
 Men till dig, Herre min Herre, ser mina ögon, till dig tar jag min tillflykt. Förkasta inte min själ!
 Bevara mig från snarorna de lägger för mig, från förbrytarnas fällor.
 Låt de gudlösa fastna i sina egna nät medan jag går trygg förbi.
+
 En vishetspsalm av David. En bön när han var i grottan.
 Med hög röst ropar jag till Herren, med hög röst ber jag Herren om nåd.
 Jag utgjuter mitt bekymmer för honom, berättar om min nöd för honom.
 När min ande mattas i mig är du den som känner min stig. På vägen där jag går har de lagt snaror för mig.
 Se på min högra sida, där finns ingen som känns vid mig. Jag har ingen tillflykt mer, ingen som frågar efter min själ.
 Jag ropar till dig, Herre, jag säger: Du är min tillflykt, min lott i de levandes land.
-Lyssna till mitt rop, för jag är i stor nöd. Rädda mig från mina förföljare, för de är starkare än jag.
-För min själ ut ur fängelset, så att jag kan prisa ditt namn. De rättfärdiga ska samlas omkring mig när du visar din godhet mot mig.
+Lyssna till mitt rop, för jag är i stor nöd. Rädda mig från mina förföljare, för de är starkare än jag. För min själ ut ur fängelset, så att jag kan prisa ditt namn. De rättfärdiga ska samlas omkring mig när du visar din godhet mot mig.
 En psalm av David. Herre, hör min bön, lyssna till mitt rop om nåd! Svara mig i din trofasthet, i din rättfärdighet.
 Gå inte till doms med din tjänare, för ingen levande är rättfärdig inför dig.
 Fienden jagar min själ, han trampar mitt liv till marken, han lägger mig i mörker likt dem som länge varit döda.
@@ -17465,8 +17465,7 @@ Bättre en ung som är fattig och vis än en kung som är gammal och dåraktig o
 Ja, han kom ut från fångarnas hus för att bli kung, fastän han föddes fattig i sitt rike.
 Jag såg alla som levde och rörde sig under solen tillsammans med den unge som skulle ta den andres plats.
 Det var ingen ände på allt folket, på alla som han gick i spetsen för. Men ändå har de som kommer efter ingen glädje av honom. Också det är förgängligt och ett jagande efter vind.
-Vakta din fot när du går till Guds hus. Att komma för att lyssna är bättre än offret som dårarna ger, för de förstår inte att de gör det som är ont.
-Var inte för snabb med din mun och förhasta dig inte i ditt hjärta med att uttala ett ord inför Gud, för Gud är i himlen och du är på jorden. Låt därför dina ord vara få.
+Vakta din fot när du går till Guds hus. Att komma för att lyssna är bättre än offret som dårarna ger, för de förstår inte att de gör det som är ont. Var inte för snabb med din mun och förhasta dig inte i ditt hjärta med att uttala ett ord inför Gud, för Gud är i himlen och du är på jorden. Låt därför dina ord vara få.
 Drömmar kommer av mycket arbete, dåraktigt tal av många ord.
 När du ger ett löfte till Gud, dröj inte med att uppfylla det, för han har inte behag till dårar. Håll vad du lovar!
 Det är bättre att inte lova något än att lova och inte hålla det.
@@ -17485,6 +17484,7 @@ I alla sina dagar äter han i mörker med mycket oro, sjukdom och besvikelse.
 Detta är vad jag insett: Det är gott och skönt att människan äter och dricker och ser det goda i sin möda när hon strävar under solen de levnadsdagar som Gud ger henne, för det är hennes del.
 Om Gud ger en människa rikedom och skatter och dessutom förmåga att njuta av det och ta ut sin del och finna glädje i sin möda, då är det en Guds gåva.
 För han tänker knappt på sina levnadsdagar, eftersom Gud håller honom upptagen med glädje i hjärtat.
+
 Det finns ett elände som jag sett under solen, och det vilar tungt på människorna:
 Det är när Gud ger rikedom, skatter och ära åt någon så att han inte saknar något av allt han önskar sig, men sedan ger Gud honom inte möjlighet att njuta av det utan låter en främling göra det. Det är förgänglighet och en svår plåga.
 Om en man får hundra barn och lever i många år och hans dagar blir många, men han inte får njuta av det goda och dessutom inte får någon begravning, då säger jag: Ett dödfött foster har det bättre än han.
@@ -17694,6 +17694,7 @@ Vem är hon som blickar fram likt morgonrodnaden – skön som månen, stråland
 Jag gick ner till valnötslunden för att se på grönskan i dalen, för att se om vinstocken skjutit skott och granatäppelträden gått i blom.
 Utan att jag märkte det hade min längtan satt mig vid mitt furstefolks vagnar.
 Vänd om, vänd om, Shulamit, vänd om, vänd om så att vi får se dig!
+
 Vad dina fötter är vackra i sandaler, du furstedotter! Dina höfters rundning är som ett smycke, ett verk av en konstnärs händer.
 Din navel är en rundad skål, må vinet aldrig fattas! Din midja är en vetehög, omgiven av liljor.
 Dina bröst är som två killingar, tvillingar av en gasell.
@@ -17707,7 +17708,6 @@ Jag är min väns, och till mig står hans åtrå.
 Kom, min vän, vi går ut på fälten och övernattar i byarna.
 Vi går tidigt till vingårdarna och ser om vinstocken har fått skott, om knopparna öppnat sig och granatäppelträden gått i blom. Där vill jag ge dig min kärlek.
 Kärleksäpplena sprider sin doft, vid våra dörrar finns alla slags härliga frukter, både nya och gamla. Min vän, jag har sparat dem åt dig.
-
 Tänk om du hade varit som min bror, ammad vid min mors bröst! Då hade jag fått kyssa dig om jag mött dig där ute, och ingen hade föraktat mig.
 Jag hade fått leda dig, föra dig in i min mors hus, du hade undervisat mig. Jag hade gett dig kryddat vin att dricka, saft från mina granatäpplen.
 Hans vänstra arm vilar under mitt huvud, hans högra omfamnar mig.
@@ -17897,7 +17897,6 @@ När de säger till er: "Fråga andebesvärjare och spåmän, dem som viskar och
 Till Guds undervisning, till vittnesbördet! Om de inte talar enligt detta ord finns det ingen gryning för dem.
 De ska dra igenom landet, ansatta och hungrande. Och när de hungrar kommer de att brista ut i raseri och förbanna sin kung och sin Gud. De ska vända blicken uppåt och de ska se ner på jorden,
 men se, där är bara nöd och mörker, natt och ångest. De är utkastade i djupaste mörker.
-
 Men det ska inte vara nattsvart mörker där ångest nu råder. Förr i tiden lät han Sebulons och Naftalis land vara föraktat, men i kommande dagar ska han ge ära åt trakten längs havsvägen, landet på andra sidan Jordan, hednafolkens Galileen.
 Det folk som vandrar i mörkret ska se ett stort ljus, över dem som bor i dödsskuggans land ska ljuset stråla fram.
 Du förökar det folk som du inte gett stor glädje. De ska glädjas inför dig som man gläds under skördetiden, som man jublar när man delar byte.
@@ -17918,6 +17917,7 @@ Därför kan Herren inte glädja sig över deras unga män eller förbarma sig �
 Ja, gudlösheten brinner som en eld, den förtär tistel och törne. Den antänder snårskogen så att den går upp i höga virvlar av rök.
 Landet brinner genom Herren Sebaots vrede, och folket är som ved för elden. Ingen skonar sin broder.
 Man river åt sig till höger men förblir hungrig, man tar för sig till vänster men blir inte mätt. Var och en äter köttet på sin egen arm:
+Manasse äter Efraim och Efraim Manasse, och tillsammans angriper de Juda. Med allt detta upphör inte hans vrede, hans hand är ännu uträckt.
 Ve dem som stiftar orättfärdiga lagar och skriver orätta skrivelser
 för att förvrida rättvisan för de nödställda och beröva de förtryckta i mitt folk deras rätt, för att göra änkor till sitt byte och plundra de faderlösa.
 Vad ska ni göra på räkenskapsdagen när förödelsen kommer fjärran ifrån? Till vem ska ni fly för att få hjälp, och var ska ni göra av era rikedomar?
@@ -18953,8 +18953,7 @@ Du är ju vår Far! Abraham vet inte om oss, Israel känner oss inte. Men du, He
 Varför, o Herre, låter du oss gå vilse från dina vägar, och varför förhärdar du våra hjärtan så att vi inte fruktar dig? Vänd tillbaka, för dina tjänares skull, för din arvedels stammars skull.
 En kort tid ägde ditt heliga folk sitt land. Våra fiender trampade ner din helgedom.
 Vi har blivit som de som du aldrig har varit herre över, som inte har uppkallats efter ditt namn.
-O, att du rev isär himlen och kom ner så att bergen bävade inför dig,
-som när eld antänder ris och elden får vattnet att koka, så att ditt namn blir känt för dina fiender och hednafolken darrar för dig.
+O, att du rev isär himlen och kom ner så att bergen bävade inför dig, som när eld antänder ris och elden får vattnet att koka, så att ditt namn blir känt för dina fiender och hednafolken darrar för dig.
 När du gjorde förunderliga gärningar som vi inte väntade oss, då kom du ner och bergen bävade inför dig.
 Aldrig har någon hört, inget öra har uppfattat, inget öga har sett en annan Gud än dig, som gör sådant för dem som väntar på honom.
 Du kom för att hjälpa dem som gjorde det rätta med fröjd, som tänkte på dig på dina vägar. Men se, du blev vred när vi syndade. Det har vi gjort länge – ska vi någonsin bli frälsta?
@@ -18964,6 +18963,7 @@ Men Herre, du är vår Far. Vi är leran, och du är den som format oss, vi är 
 Var då inte så oerhört vred, Herre, tänk inte för alltid på vår missgärning. Tänk på att vi alla är ditt folk.
 Dina heliga städer är en öken. Sion är en öken, Jerusalem en ödemark.
 Vårt heliga och härliga hus, där våra fäder lovade dig, är eldens byte. Allt som är dyrbart för oss har lämnats åt förödelsen.
+Kan du trots detta hålla dig tillbaka, Herre? Kan du tiga och låta oss lida så mycket?
 Jag lät mig sökas av dem som inte frågade efter mig, jag lät mig finnas av dem som inte sökte mig. Till ett folk som inte åkallade mitt namn sade jag: "Här är jag, här är jag."
 Hela dagen har jag räckt ut mina händer mot ett trotsigt folk, som vandrar den väg som inte är god, som följer sina egna tankar,
 ett folk som ständigt kränker mig rakt i ansiktet. De bär fram offer i trädgårdar och tänder offereld på tegelaltaren,
@@ -19242,7 +19242,6 @@ Hör, dottern mitt folk ropar från fjärran land: ”Finns inte Herren mer i Si
 ”Skördetiden är förbi, sommaren är över, men vi har inte blivit räddade.”
 Jag är förkrossad, för dottern mitt folk har krossats. Jag sörjer, förfäran har gripit mig.
 Finns det ingen balsam i Gilead, finns där ingen läkare? Varför blir dottern mitt folk inte botad?
-
 O, att mitt huvud vore en vattenbrunn och mina ögon en källa av tårar! Då skulle jag gråta dag och natt över de slagna hos dottern mitt folk.
 O, att jag hade en viloplats i öknen, så att jag kunde lämna mitt folk och gå bort från dem, för de är alla äktenskapsbrytare, en samling trolösa.
 De spänner sin tunga som en pilbåge, lögn och inte sanning härskar i landet. De går från illdåd till illdåd, mig vill de inte veta av, säger Herren.
@@ -19268,6 +19267,7 @@ Säg: Så säger Herren: Människornas döda kroppar ligger som gödsel på mark
 Så säger Herren: Den vise ska inte berömma sig av sin vishet, den starke inte av sin styrka och den rike inte av sin rikedom.
 Den som vill berömma sig, han ska berömma sig av att han har insikt och känner mig: Att jag är Herren, som verkar med nåd, rätt och rättfärdighet på jorden, för i det har jag min glädje, säger Herren.
 Se, dagar ska komma, säger Herren, då jag ska straffa alla omskurna som ändå är oomskurna:
+Egypten, Juda, Edom, ammoniterna, Moab och alla ökenbor med kantklippt hår. För hednafolken är alla oomskurna, och hela Israels hus har ett oomskuret hjärta.
 Hör det ord som Herren talar till er, ni av Israels hus.
 Så säger Herren: Ta inte efter hednafolkens sätt, låt er inte skrämmas av tecknen på himlen därför att hednafolken skräms av dem,
 för folkens seder är tomhet. Man hugger ett träd i skogen, och hantverkarens händer formar det med yxan.
@@ -21007,6 +21007,11 @@ Ni ska inse att jag är Herren, när jag låter er komma in i Israels land, det 
 Där ska ni tänka tillbaka på era vägar och på alla de gärningar som ni orenade er med. Ni ska avsky er själva för allt det onda som ni har gjort.
 Ni ska inse att jag är Herren, när jag handlar så med er för mitt namns skull och inte efter era onda vägar och era skamliga gärningar, ni av Israels hus, säger Herren Gud.”
 Herrens ord kom till mig:
+”Män­niskobarn, vänd ditt ansikte söderut och predika mot söder, profetera mot skogslandet söderut.
+Säg till sydlandets skog: Hör Herrens ord: Så säger Herren Gud: Jag ska tända en eld i dig, och den ska förtära alla dina träd, både de friska och de torra. Den flammande lågan ska inte kunna släckas, alla ansikten från söder till norr ska bli brända av den.
+Alla människor ska se att jag, Herren, har tänt den. Den ska inte kunna släckas.”
+Jag sade då: ”O, Herre Gud! De säger om mig: Han talar ju i gåtor.”
+Herrens ord kom till mig:
 ”Människobarn, vänd ditt an­sikte mot Jerusalem och predika mot helgedomarna och profetera mot Israels land.
 Säg till Israels land: Så säger Herren: Se, jag är emot dig och ska dra ut mitt svärd ur skidan och utrota både rättfärdiga och ogudaktiga hos dig.
 Eftersom jag ska utrota både rättfärdiga och ogudaktiga hos dig, ska mitt svärd fara ut ur skidan och vända sig mot allt levande från söder till norr.
@@ -21038,11 +21043,6 @@ De har sett falska profetsyner om dig, de har spått lögner om dig, men du ska 
 Stick svärdet i skidan igen. På den plats där du skapats, i det land du härstammar från ska jag döma dig.
 Jag ska ösa min vrede över dig och blåsa min harms eld mot dig. Jag ska överlämna dig åt vilda människor som är mästare på att fördärva.
 Du ska bli till mat åt elden, ditt blod ska flyta i landet. Ingen ska mer tänka på dig, för jag, Herren, har talat.”
-
-
-
-
-
 Herrens ord kom till mig:
 ”Män­niskobarn, vill du döma, vill du döma blodstaden? Ställ henne då inför alla hennes vidrigheter!
 Säg: Så säger Herren Gud: O stad, du som spiller dina invånares blod så att din stund måste komma, du som gör avgudar åt dig för att orena dig.
@@ -21904,12 +21904,9 @@ Och satraperna, guvernörerna, ståthållarna och kungens rådsherrar samlades d
 Nebukadnessar tog då till orda och sade: ”Lovad är Shadraks, Meshaks och Abed-Negos Gud, som sände sin ängel och räddade sina tjänare. De litade på honom och gick emot kungens befallning och vågade sina liv för att inte tvingas dyrka eller tillbe någon annan gud än sin egen Gud.
 Härmed befaller jag nu att var och en av alla folk och stammar och språk som säger något ovärdigt om Shadraks, Meshaks och Abed-Negos Gud, han ska huggas i stycken och hans hus ska göras till en sophög. För det finns ingen Gud som kan rädda så som han.”
 Därefter lät kungen Shadrak, Meshak och Abed-Nego få stor ära och makt i Babels provins.
-Från kung Nebukadnessar till alla folk och stammar och språk över hela jorden. Jag önskar er fred och framgång.
-Jag finner för gott att härmed tillkännage de tecken och under som den högste Guden har gjort med mig.
-Stora är hans tecken, mäktiga hans under. Hans rike är ett evigt rike, hans välde varar från släkte till släkte.
-Jag, Nebukadnessar, levde i lugn och ro i mitt hus och var lycklig i mitt palats.
-Då fick jag en dröm som skrämde mig. Jag oroades av drömbilder på min bädd och av syner jag såg.
-Därför befallde jag att alla de vise i Babel skulle hämtas till mig för att förklara drömmens tydning för mig.
+Från kung Nebukadnessar till alla folk och stammar och språk över hela jorden. Jag önskar er fred och framgång. Jag, Nebukadnessar, levde i lugn och ro i mitt hus och var lycklig i mitt palats.
+Jag finner för gott att härmed tillkännage de tecken och under som den högste Guden har gjort med mig. Då fick jag en dröm som skrämde mig. Jag oroades av drömbilder på min bädd och av syner jag såg.
+Stora är hans tecken, mäktiga hans under. Hans rike är ett evigt rike, hans välde varar från släkte till släkte. Därför befallde jag att alla de vise i Babel skulle hämtas till mig för att förklara drömmens tydning för mig.
 Spåmännen, besvärjarna, kaldeerna och stjärntydarna kom och jag berättade drömmen för dem, men de kunde inte ge mig tydningen.
 Slutligen kom också Daniel inför mig, han som hade fått namnet Belteshassar efter min guds namn. Heliga gudars ande bor i honom, och jag berättade drömmen för honom:
 ”Belteshassar, du som är den främste bland spåmännen, jag vet att heliga gudars ande bor i dig och att ingen hemlighet är för svår för dig. Säg mig vad jag såg i min dröm och vad det betyder!
@@ -21941,6 +21938,9 @@ Men när den tiden hade gått lyfte jag, Nebukadnessar, min blick till himlen oc
 Alla som bor på jorden räknas för ingenting, han gör vad han vill med himlens här och med dem som bor på jorden. Ingen kan stå emot hans hand eller säga till honom: ”Vad är det du gör?”
 Vid samma tid återfick jag mitt förstånd och jag fick tillbaka min härlighet och glans, till ära för mitt rike. Mina rådsherrar och stormän sökte upp mig, och jag blev på nytt insatt i mitt rike och fick ännu större makt.
 Nu prisar, upphöjer och ärar jag, Nebukadnessar, himlens Kung, för alla hans gärningar är sanning och hans vägar rätta. Och han kan ödmjuka dem som vandrar i högmod.
+
+
+
 Kung Belshassar ordnade en stor festmåltid för sina tusen stormän och drack vin med dem.
 När Belshassar var påverkad av vinet, befallde han att man skulle bära in de kärl av guld och silver som hans far Nebukadnessar hade tagit ur templet i Jerusalem. Kungen och hans stormän, hans hustrur och bihustrur skulle dricka ur dem.
 Då bar man fram guldkärlen som hade tagits ur Guds tempel i Jerusalem, och kungen och hans stormän, hans hustrur och bihustrur drack vin ur dem.
@@ -21971,6 +21971,7 @@ Tekel: Du är vägd på en våg och funnen för lätt.
 Peres: Ditt rike är delat och gett åt meder och perser.”
 Då befallde Belshassar att man skulle klä Daniel i purpur, hänga guldkedjan om hans hals och utropa honom till den tredje i riket.
 Samma natt dödades Belshassar, kaldeernas kung.
+Och medern Darejavesh tog emot riket när han var sextiotvå år.
 Darejavesh fann det lämpligt att sätta hundratjugo satraper över riket, för att de skulle finnas överallt i riket.
 Över dem satte han tre furstar, och en av dem var Daniel. Inför dem skulle satraperna avlägga räkenskap så att kungen inte skulle lida någon förlust.
 Men Daniel utmärkte sig framför de andra furstarna och satraperna, för han hade en ande utan like, och kungen övervägde att sätta honom över hela riket.
@@ -21999,7 +22000,6 @@ Därefter lät kung Darejavesh skriva till alla folk och stammar och språk som 
 Härmed befaller jag att man inom hela mitt rikes område ska bäva och frukta för Daniels Gud. För han är den levande Guden som består för evigt. Hans rike kan inte förgöras, hans välde har inget slut.
 Han befriar och räddar, han gör tecken och under i himlen och på jorden, och han har befriat Daniel ur lejonens våld.”
 Och denne Daniel steg i ära och makt under Darejaveshs regering, det vill säga under persern Koreshs regering.
-
 I den babyloniske kungen Belshassars första regeringsår hade Daniel en dröm och såg en syn medan han låg på sin bädd. Sedan skrev han ner drömmen och återgav huvudinnehållet.
 Daniel sade: Jag såg i en syn om natten hur himlens fyra vindar rörde upp det stora havet.
 Och fyra stora djur steg upp ur havet, det ena inte likt det andra.
@@ -22170,6 +22170,8 @@ Gomer blev åter havande och födde en dotter. Då sade Herren till honom: ”Ge
 Men över Juda hus ska jag förbarma mig, och jag ska frälsa dem genom Herren deras Gud. Men jag ska inte frälsa dem genom båge och svärd eller krig, och inte genom hästar och ryttare.”
 När Gomer hade avvant Lo-Ruhama blev hon åter havande och födde en son.
 Då sade han: ”Ge honom namnet Lo-Ammi, för ni är inte mitt folk och jag tillhör inte er.”
+Men antalet av Israels barn ska bli som havets sand, som inte kan mätas eller räknas. Och det ska ske att på platsen där det sades till dem: ”Ni är inte mitt folk”, ska det sägas till dem: ”Ni är den levande Gudens barn.”
+Juda barn och Israels barn ska förenas och sätta ett enda huvud över sig, och de ska dra upp ur landet. Stor ska Jisreels dag vara.
 Kalla era bröder Ammi och era systrar Ruhama.
 Gå till rätta med er mor, gå till rätta, för hon är inte min hustru och jag är inte hennes man. Hon måste få bort sin otukt från sitt ansikte och sin otrohet mellan sina bröst.
 Annars ska jag klä av henne naken och låta henne stå där sådan hon var den dag då hon föddes. Jag ska göra henne till en öken, låta henne bli som ett torrt land och dö av törst.
@@ -22193,8 +22195,6 @@ Jag ska trolova dig med mig i trohet, och du ska kännaHerren.
 Och det ska ske på den dagen att jag ska svara, säger Herren. Jag ska svara himlen, och den ska svara jorden,
 och jorden ska svara säden, vinet och oljan, och de ska svara Jisreel.
 Jag ska plantera henne åt mig i landet. Jag ska förbarma mig över Lo-Ruhama och säga till Lo-Ammi: ”Du är mitt folk.” Och de ska svara: ”Du är min Gud.”
-
-
 Herren sade till mig: ”Gå och älska din hustru igen, fastän hon älskas av en annan och har begått äktenskapsbrott. Älska henne så som jag, Herren, älskar Israels barn, trots att de vänder sig till andra gudar och älskar druvkakor.”
 Då köpte jag henne åt mig för femton siklar silver och en homer och en letek korn.
 Jag sade till henne: ”Under lång tid ska du vara hos mig. Var inte otrogen och ge dig inte åt någon annan man. Jag ska vara hos dig.”
@@ -22318,6 +22318,7 @@ Hur ska jag kunna överge dig, Efraim? Ska jag lämna dig, Israel? Hur ska jag k
 Jag vill inte utföra min brinnande vrede, jag vill inte ödelägga Efraim igen, för jag är Gud och inte en människa. Jag är helig bland er och vill inte komma med vrede.
 Herren ska de följa, och han ska ryta som ett lejon. Han ska ryta och barnen ska komma med bävan västerifrån.
 De ska komma med bävan som fåglar från Egypten och som duvor från Assurs land, och jag ska låta dem bo i sina hus, säger Herren.
+Efraim har omgett mig med lögn, Israels hus med svek. Juda är ännu trolös mot Gud, mot den Allraheligaste, den Trofaste.
 Efraim jagar efter vind, han följer östanvinden dagen lång, lögn och våld tilltar. De sluter förbund med Assur och olja förs till Egypten.
 Men Herren ska gå till rätta med Juda och straffa Jakob efter hans vägar, ge honom efter hans gärningar.
 I moderlivet grep han sin bror i hälen, i sin mannakraft kämpade han med Gud.
@@ -22332,7 +22333,6 @@ Jag har talat till profeterna, jag har gett dem många syner och talat genom pro
 Jakob flydde till Arams land, Israel tjänade för en kvinna, för en kvinnas skull vaktade han hjorden.
 Genom en profet förde Herren Israel upp ur Egypten, och genom en profet blev folket bevarat.
 Efraim har väckt bitter vrede. Hans Herre ska låta hans blodsdåd drabba honom och låta hans hån slå tillbaka på honom.
-
 När Efraim talade darrade man, han upphöjde sig själv i Israel. Men han drog skuld över sig genom Baal och dog.
 Ändå fortsätter de att synda. De gjuter sig avgudabilder av sitt silver, avgudar efter sitt eget förstånd, alltsammans verk av hantverkare. Folk säger om dem: ”De offrar människor, de kysser kalvar.”
 Därför ska de bli som morgondis, som dagg som tidigt försvinner, som agnar som blåser bort från tröskplatsen och som rök från en skorsten.
@@ -22348,6 +22348,7 @@ Efraims skuld är samlad som i en pung, och hans synd är i förvar.
 Födslovärkar ska drabba honom, men han är en oförståndig son: han kommer inte fram ur moderlivet när tiden är inne.
 Från dödsrikets våld ska jag friköpa dem, från döden ska jag återlösa dem. Du död, var är dina plågor? Du dödsrike, var är din udd? Ånger är fördold för mina ögon.
 Bäst han frodas bland sina bröder ska det komma en östanvind, en Herrens vind som blåser upp från öknen. Då ska hans brunn torka ut och hans källa sina. Vinden ska röva bort alla dyrbarheter ur skattkammaren.
+
 Samaria ska stå med skuld, för hon har varit upprorisk mot sin Gud. Invånarna ska falla för svärd, deras späda barn ska bli krossade, deras havande kvinnor uppristade.
 Vänd om, Israel, till Herren din Gud, för genom din missgärning har du kommit på fall.
 Ta med er ord och vänd om till Herren, säg till honom: ”Förlåt oss all vår skuld och ta nådigt emot oss. Då ska vi ge dig en frukt från våra läppar.
@@ -22356,8 +22357,7 @@ Jag vill hela dem från deras avfall, jag vill älska dem generöst, för min vr
 Jag ska bli som dagg för Israel, han ska blomstra som en lilja och skjuta rötter som Libanon.
 Hans skott ska breda ut sig, han ska bli som olivträdet i skönhet, han ska dofta som Libanon.
 De som bor i hans skugga ska återvända. De ska odla säd igen och grönska som vinstockar. Hans namn ska vara som Libanons vin.
-Efraim, vad har jag mer med avgudar att göra? Jag ska svara honom och ta mig an honom. Jag är som en grönskande cypress, hos mig finner du din frukt.
-Den som är vis förstår detta, den förståndige besinnar det, för Herrens vägar är rätta och där vandrar de rättfärdiga. Men syndarna kommer där på fall.
+Efraim, vad har jag mer med avgudar att göra? Jag ska svara honom och ta mig an honom. Jag är som en grönskande cypress, hos mig finner du din frukt. Den som är vis förstår detta, den förståndige besinnar det, för Herrens vägar är rätta och där vandrar de rättfärdiga. Men syndarna kommer där på fall.
 Herrens ord som kom till Joel, Petuels son.
 Hör detta, ni äldste, lyssna, alla ni som bor i landet. Har något sådant hänt i era dagar eller under era fäders tid?
 Det här ska ni berätta för era barn, era barn ska säga det till sina barn och deras barn till ett kommande släkte.
@@ -22405,32 +22405,32 @@ Så ska tröskplatserna fyllas med säd och pressarna flöda över av vin och ol
 Jag ska gottgöra er för åren som åts upp av gräshopporna och gräsbitarna, av gräsätarna och gräsgnagarna, den stora här som jag sände ut mot er.
 Ni ska äta och bli mätta, och ni ska lova Herren er Guds namn, han som har handlat så underbart med er, och mitt folk ska aldrig mer komma på skam.
 Ni ska förstå att jag är mitt i Israel, att jag är Herren er Gud och ingen annan. Och mitt folk ska aldrig mer komma på skam.
+Och det ska ske därefter att jag utgjuter min Ande över allt kött. Era söner och era döttrar ska profetera, era gamla ska ha drömmar och era unga ska se syner.
+Ja, över tjänare och tjänarinnor ska jag i de dagarna utgjuta min Ande.
+Och jag ska göra tecken på himlen och på jorden, blod, eld och rökpelare.
+Solen ska vändas i mörker och månen i blod innan Herrens dag kommer, den stora och skrämmande.
+Och det ska ske att var och en som åkallar Herrens namn ska bli frälst. På Sions berg och i Jerusalem ska det finnas en räddad skara, så som Herren har sagt, bland de överlevande som Herren kallar.
 För se, i de dagarna och på den tiden, när jag gör slut på Judas och Jerusalems fångenskap,
 ska jag samla alla hednafolk och föra dem ner till Joshafats dal. Där ska jag hålla dom över dem för mitt folks skull, min arvedel Israel som de har skingrat bland hednafolken. De har delat mitt land
 och kastat lott om mitt folk. De betalade en prostituerad med en pojke och sålde en flicka för vin som de drack upp.
 Och du Tyrus och du Sidon, och ni Filisteens alla trakter, vad vill ni mig? Vill ni hämnas på mig för något? Om ni hämnas på mig, ska jag snabbt och med hast vända tillbaka er hämnd över era egna huvuden,
 för ni har tagit mitt silver och mitt guld och fört bort mina dyrbaraste skatter in i era tempel.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Folket i Juda och Jerusalem har ni sålt till grekerna för att skicka dem långt bort från sitt land.
+Se, jag ska väcka upp dem från den ort dit ni sålt dem, och det ni har gjort ska jag låta komma över era egna huvuden.
+Jag ska sälja era söner och döttrar till folket i Juda, och de ska sälja dem till sabeerna, ett folk i fjärran land. Så har Herren talat.
+Ropa ut det bland hednafolken, kalla till helig strid. Väck upp hjältarna, låt alla krigsmän komma och rycka fram.
+Smid era plogbillar till svärd och era vingårdsknivar till spjut. Den svage ska säga: ”Jag är stark.”
+Skynda er att komma, alla hednafolk häromkring, och församla er. Sänd, Herre, dina hjältar dit ner.
+Låt hednafolken resa sig och dra ut till Joshafats dal, för där ska jag sitta till doms över alla hednafolk häromkring.
+Låt lien gå, för skörden är mogen. Kom och trampa, för pressen är full. Presskaren flödar över, för deras ondska är stor.
+Det är skaror på skaror i Domens dal, för Herrens dag är nära i Domens dal.
+Solen och månen förmörkas och stjärnorna mister sitt sken.
+Herren ryter från Sion, han låter sin röst höras från Jerusalem så att himlen och jorden bävar. Men Herren är en tillflykt för sitt folk, ett skydd för Israels barn.
+Och ni ska förstå att jag är Herren er Gud som bor på Sion, mitt heliga berg. Jerusalem ska vara heligt, och främlingar ska inte mer ta vägen genom henne.
+Och det ska ske på den tiden att bergen ska drypa av druvsaft och höjderna flöda av mjölk. Alla bäckar i Juda ska flöda av vatten. En källa ska utgå från Herrens hus och vattna Akaciedalen.
+Egypten ska bli en ödemark och Edom en öde öken, eftersom de brukat våld mot Juda folk och spillt oskyldigt blod i deras land.
+Juda ska vara bebott för alltid och Jerusalem från släkte till släkte.
+Jag ska utplåna deras blodskulder, dem som jag inte redan har utplånat. Herren bor på Sion.
 Ord av Amos, en av herdarna från Tekoa. Detta är vad han såg om Israel när Ussia var kung i Juda och Jerobeam, Joashs son, var kung i Israel, två år före jordbävningen.
 Han sade: Herren ska ryta från Sion, höja sin röst från Jerusalem. Då ska herdarnas betesmarker sörja och Karmels höjd torka bort.
 Så säger Herren: För tre brott av Damaskus, ja fyra, tar jag inte tillbaka mitt beslut, för de tröskade Gilead med tröskslädar av järn:
@@ -22614,6 +22614,7 @@ Männen rodde för att komma tillbaka till land, men de kunde inte, för havet s
 Då ropade de till Herren och sade: ”Herre, låt oss inte gå under för den här mannens skull och låt inte oskyldigt blod komma över oss, för du, Herre, har handlat efter din vilja.”
 Sedan tog de Jona och kastade honom i havet. Då lade sig havets raseri.
 Och männen greps av stor fruktan för Herren, och de offrade slaktoffer åt Herren och gav löften.
+
 Men Herren sände en stor fisk som slukade Jona, och han var i fiskens buk i tre dagar och tre nätter.
 Och Jona bad till Herren sin Gud i fiskens buk.
 Han sade: ”Jag ropade till Herren i min nöd, och han svarade mig. Från dödsrikets buk ropade jag på hjälp, och du hörde min röst.
@@ -22623,8 +22624,7 @@ Vattnet omslöt mig ända till halsen, djupet omgav mig, sjögräs snärjde sig 
 Jag sjönk ner till bergens grund med jordens bommar bakom mig för evigt – men du förde mig levande upp ur graven, Herre min Gud.
 När min själ tynade bort i mig tänkte jag på Herren, och min bön nådde dig i ditt heliga tempel.
 De som håller fast vid tomma avgudar överger den nåd de fått.
-Men jag ska offra till dig med tacksägelse, det jag lovat ska jag uppfylla. Frälsningen finns hos Herren!”
-Och Herren talade till fisken, och den kastade upp Jona på torra land.
+Men jag ska offra till dig med tacksägelse, det jag lovat ska jag uppfylla. Frälsningen finns hos Herren!” Och Herren talade till fisken, och den kastade upp Jona på torra land.
 Herrens ord kom för andra gången till Jona. Han sade:
 ”Bryt upp och bege dig till Nineve, den stora staden, och predika för den det budskap jag ger dig.”
 Då bröt Jona upp och begav sig till Nineve enligt Herrens ord. Men Nineve var en stor stad inför Gud, tre dagsresor lång.
@@ -22700,7 +22700,6 @@ Vrid dig i födslosmärtor likt en födande kvinna, dotter Sion, för nu måste 
 Nu samlas många folk mot dig, och de säger: ”Hon ska bli orenad, och våra ögon ska se med lust på Sion.”
 Men de känner inte Herrens tankar, de förstår inte hans rådslut, att han har samlat dem som kärvar till tröskplatsen.
 Res dig och tröska, dotter Sion, för jag ska ge dig horn av järn och klövar av koppar. Du ska krossa många folk och viga bytet från dem åt Herren, deras skatter åt hela jordens Herre.
-
 Samla nu dina skaror, du skarornas stad. De reser belägringsvallar mot oss, de slår Israels domare med käpp på kinden.
 Men du, Betlehem Efrata som är så liten bland Juda tusenden, från dig ska det åt mig komma en som ska härska över Israel. Hans ursprung är före tiden, från evighetens dagar.
 Därför ska han överge dem fram till den tid då hon som ska föda har fött. Då ska de som är kvar av hans bröder få vända tillbaka till Israels barn.
@@ -22715,6 +22714,7 @@ Jag ska utplåna städerna i ditt land och riva ner alla dina fästningar.
 Jag ska utrota all trolldom hos dig, inga spåmän ska mer finnas bland dig.
 Jag ska utrota dina avgudabilder och dina stoder ur ditt land, och du ska inte mer tillbe dina händers verk.
 Jag ska förstöra dina asherapålar som du har ibland dig och ödelägga dina städer.
+Jag ska i vrede och harm ta hämnd på de hednafolk som inte har lyssnat.
 Hör vad Herren säger: Res dig och gå till rätta inför bergen och låt höjderna höra din röst.
 Hör Herrens anklagelse, ni berg, ni jordens fasta grundvalar, för Herren anklagar sitt folk och går till rätta med Israel.
 Mitt folk, vad har jag gjort mot dig, och hur har jag tröttat ut dig? Svara mig!
@@ -22765,6 +22765,7 @@ Från dig har en man gått ut, en som tänker ut ont mot Herren, en rådgivare i
 Så säger Herren: ”Hur starka och många de än är, ska de ändå mejas ner och försvinna. Jag har plågat dig, men ska inte plåga dig mer.
 Nu ska jag bryta hans ok över dig, jag ska slita av dina band.”
 Men om dig, Nineve, har Herren befallt: ”Inga efterkommande ska bära vidare ditt namn. Ur dina gudars hus ska jag utrota alla bilder, både snidade och gjutna. Jag ska göra i ordning en grav åt dig, för du är ingenting värd.”
+Se, över bergen kommer glädjebudbäraren som förkunnar frid. Fira dina högtider, Juda, uppfyll dina löften, för den onde ska inte mer dra fram genom dig, han är helt tillintetgjord.
 En folkförskingrare drar upp mot dig. Bevaka dina fästen! Spana mot vägen, rusta dig, samla all din kraft.
 Herren ska återställa Jakobs storhet liksom Israels storhet, för plundrare har plundrat dem och fördärvat deras vinstockar.
 Hans hjältars sköldar har färgats röda, kämparna går klädda i scharlakan. Vagnarna gnistrar av stålglans den dag han gör sig redo, det svingas med spjut av cypress.
@@ -22778,7 +22779,6 @@ Tom, tömd, förödd! Modlösa hjärtan, vacklande knän! Darrande höfter över
 Var är nu lejonens kula, platsen där de unga lejonen åt sitt byte, där lejonet och lejonhonan och lejonungen gick omkring utan att någon skrämde dem?
 Lejonet rev i stycken tills ungarna fick nog, dödade för sina lejonhonor och fyllde sina hålor med byte, sina kulor med rivna djur.
 Se, jag är emot dig, säger Herren Sebaot. Jag ska låta dina vagnar gå upp i rök, och dina unga lejon ska förtäras av svärd. Jag ska utplåna ditt rövade gods från jorden, och röster av dina sändebud ska inte mer höras.
-
 Ve dig, du blodstad, full av lögn, fylld av våld, du som aldrig slutar plundra!
 Hör, piskor smäller! Hör, vagnshjul dånar! Hästar jagar fram, vagnar rullar i väg.
 Ryttare stormar fram, svärden ljungar och spjuten blixtrar. Slagna i mängd och högar av lik, det är ingen ände på döda, man stupar över döda kroppar.
@@ -22962,6 +22962,10 @@ Och ängeln som talade med mig sade sedan: ”Ropa ut: Så säger Herren Sebaot:
 Jag är mycket vred på hednafolken som sitter så säkra, för när jag bara var lite vred förvärrade de olyckan.
 Därför säger Herren så: Jag har vänt tillbaka till Jerusalem i barmhärtighet. Mitt hus ska byggas där, säger Herren Sebaot, och mätsnöret ska spännas över Jerusalem.
 Ropa ut än en gång: Så säger Herren Sebaot: Än en gång ska mina städer flöda över av det som är gott. Herren ska än en gång trösta Sion, än en gång ska han utvälja Jerusalem.”
+Och jag lyfte min blick och fick se fyra horn.
+Jag frågade ängeln som talade med mig: ”Vad betyder de?” Han svarade mig: ”Där är hornen som har skingrat Juda, Israel och Jerusalem.”
+Och Herren lät mig se fyra smeder.
+Jag frågade: ”Varför har dessa kommit och vad ska de göra?” Han svarade: ”Där är hornen som skingrade Juda så att ingen kunde lyfta sitt huvud. Men smederna har kommit för att skrämma dem och slå av hornen på de hednafolk som lyfte sitt horn mot Juda land för att skingra dem som bor där.”
 Och jag lyfte min blick och fick se en man med ett mätsnöre i handen.
 Då frågade jag: ”Vart går du?” Han svarade: ”Jag ska mäta Jerusalem för att se hur brett och långt det ska bli.”
 Och se, ängeln som talade med mig kom fram, och en annan ängel kom emot honom.
@@ -22975,10 +22979,6 @@ Jubla och gläd dig, dotter Sion, för se, jag kommer och jag ska bo i dig, säg
 Många hednafolk ska på den dagen ansluta sig till Herren och bli mitt folk, och jag ska bo i dig. Du ska förstå att Herren Sebaot har sänt mig till dig.
 Herren ska ha Juda som sin del i det heliga landet, och än en gång ska han utvälja Jerusalem.
 Var stilla inför Herren, allt kött, för han har trätt fram ur sin heliga boning.
-
-
-
-
 Sedan lät han mig se översteprästen Josua stå inför Herrens ängel, och Satan stod vid hans högra sida för att anklaga honom.
 Men Herren sade till Satan: ”Herren ska straffa dig, Satan. Ja, Herren ska straffa dig, han som har utvalt Jerusalem. Är inte denne en brand ryckt ur elden?”
 Josua var klädd i orena kläder där han stod inför ängeln.
@@ -23205,12 +23205,12 @@ Nu kallar vi de högmodiga lyckliga. De som handlar gudlöst får framgång, de 
 Men då talade de som vördar Herren med varandra, och Herren hörde och lyssnade. En minnesbok skrevs inför honom för dem som vördar Herren och respekterar hans namn.
 De ska vara min dyrbara egendom, säger Herren Sebaot, den dag jag utför mitt verk. Jag ska förbarma mig över dem så som en man förbarmar sig över sin son som tjänar honom.
 Då ska ni åter se skillnaden mellan den rättfärdige och den gudlöse, mellan den som tjänar Gud och den som inte tjänar honom.
-
-
-
-
-
-
+Se, dagen kommer, den brinner som en ugn. Då ska alla högmodiga och alla som gör det onda vara som halm. Dagen som kommer ska bränna upp dem, säger Herren Sebaot, den ska varken lämna rot eller kvist.
+Men för er som vördar mitt namn ska rättfärdighetens sol gå upp med läkedom under sina vingar. Då ska ni komma ut och hoppa likt kalvar som släpps ur sitt bås.
+Ni ska trampa ner de gudlösa, för de ska bli stoft under era fötter den dag jag utför mitt verk, säger Herren Sebaot.
+Kom ihåg min tjänare Moses lag som jag gav honom på Horeb, stadgar och föreskrifter för hela Israel.
+Se, jag ska sända er profeten Elia, innan Herrens dag kommer, den stora och fruktansvärda
+Han ska vända fädernas hjärtan till barnen och barnens hjärtan till deras fäder, så att jag inte kommer och viger landet åt förintelse.
 Detta är berättelsen om Jesus Kristus, Davids son, Abrahams son.
 Abraham blev far till Isak, Isak till Jakob, och Jakob till Juda och hans bröder.
 Juda blev far till Peres och Sera genom Tamar, Peres till Hesron, Hesron till Ram,

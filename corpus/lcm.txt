@@ -926,6 +926,7 @@ Au Laban kala mengen kapa na Iakov asukang ke, “Kana vang kana na kirim iat ke
 kilongpo akanangai ani nau na ago ta pasal liu irilong ane si kam palpal roe, na numai kapa ku kun ago ta pasal liu an ane si kakag ta palpal asi vil arikek pok anirung.
 God ang si ri Abaram ve Naor na tamarilong, ninia kapo arai anirung na ninia vanang ka saupai anirung ta mengen ke kana kapo tutuman vo kapo tav tutuman.” Asukang na Iakov kala palpalatung mete Igenen Mamaila ke IAVE, voiang a tamana ta Aisak kapo mamaila ania,
 na kala sulsuluk kana alilis ane singina eiang e palpal putput na kala songo kana petau asi me matan angan. Emung i kari matan angan kila rodot aongos e iang.
+Si tenei vauk lik Laban kala tapasuk na kala lulus atatung a keve tivuna na kana ngono kavulik na kala ponsong atautauia iria aongos. Au le na kala papelek iria na kala papok ane si kana rina.
 Na taun ang Iakov kalapo kun akikik kak using ani kana paspasalan, na keve angelo si God kimela angruduai ve nia.
 Taun kala arai aniria na kala posong ta, “Pua, nala arai ani kana kuvkuvulan a God!” Le si oring ang vanang na kala atuk a ring ang ta Manaim.
 Taun ang tasina i Iakov ta Esau katapo ago e Seir si palpal Edom. Na Iakov kala asok igenen aino ane singina
@@ -958,7 +959,6 @@ Eiang Iakov kala sokotuk ia ta, “Au, kapo angkoai si ku kin tapai ani kam asan
 Le iang vanang na Iakov kala luklukai ani vuk mengen ke ta, “Using natala tu angtalang ve God ta matag akorong na parik nata lapa mat, io, nala atuk vang kana na ring ke ta Peniel.”
 Au na makarap kalapo sanglak na Iakov kala ultaliung a Peniel na kalapo pakipa ta ngusngus ina
 using a igenen ang katala sigil ia si kana angrodoai i tuan. Io na le si oring suke vanang ri Israel tung si taun ke parik kipa angkoai si angan ani sin ang kapo angrodokotai si tuan i ngusngus iria i ri manmanik.
-
 Au, Iakov kala tun avunga na kala arai ta Esau kame lapo pakasang. Kana 400 na igenen kitapo auai ve nia. Asukang na Iakov kala pagal angpotok kana inatus ane si keve rinaria akorong, Lea, Rakel na ngono ainan asosokai ang.
 Kala atung eno na ngono ainan asosokai ve karilong ta inatus, na using irilong, Lea ve kakana ta kun inatus, au na emung luai, Rakel ve Iosep.
 Au, na ninia akorong a Iakov kata tung ainoai aniria. Na kala pasal asian angruduai ve Esau na kapo soturungai aliu amatan limalengua ane nei roe.
@@ -22614,6 +22614,7 @@ Eiang kipo kalip amadot asi kari me ngangat ngerelo. Sikei rai ang kapo anguan s
 Asukang na kila sokotuk a Iave ta, “Namempo sokotuk ani ku ago ta vil punuk an animem marai la gulang ta kana to na igenen ke! Namem raung ia kana, sikei numai Iave, ku ago ta marala an using kutala asereai ani keve nem aongos ke.”
 Au na ki asalak a Iona na ki asuai ania nei laman. Na rai lava ang kala kamus na luai kala matung.
 Taun kila arai ani luai ke, kila aunai i leng ani Iave singina, na kila vil a mang alilis serei singina na ki atutu vala asi kari angtogon ve nia.
+Sikei Iona parik kata lapa mat nei laman, using Iave kata asok a mangsikei a ien lava na kamela konem ia. Na kanla ago na potol a mangias na potol a vong e vingana i ien lava ang.
 E nei vingana i ien ang Iona kala mengen taun a IAVE kana God,
 “Iave, si kag puka nata songo ua na kula polpol iau. Io, e nei laman miting, si rina i mat, natapo songo papakangai na kula longong iau.
 Kuta asuai anig nei laman miting ane kevkev luai i laman, na aulitai aongos kel kata sang tatag. Kam keve to lava nei laman kitapo saul lakat kulug.
@@ -22624,7 +22625,6 @@ Taun kag to kalapo ngau, sikei napo lomlomon tatam, IAVE, na kag sokotuk kalapo 
 Numai IAVE, kupo buk vil ato ani ri vap, sikei man kipo uli longong si kari keve tangatangai palau, parik kupa anguan ngorem an aniria. Kupo buk vil ato ani ri vap, sikei man kipo uli longong si kari keve tangatangai palau. Sikei nau naka tangam i alatun ane singim. Naka vil kag alilis serei singim. Naka abis a bil ang nata atu vala asi kag abis ania. Kalaro luai using a vilvilato kapo serei le singim, Iave.”
 <range>
 Au, na Iave kala asok a ien ang asi kanan mutakai ani Iona e ngerelo, na ien ang kala vil ia asukang.
-
 Na IAVE kala anguan asok an ani Iona ta,
 “Ku pasal taun a rina lava suke e Nineve na kuanla ngavaka iria ta mengen ang natala alis ua tatana”.
 Au, na asukang Iona kala longong a Iave na kala pasal ane Nineve. Nineve kapo rina tavirimok lava. Kapo luk a potol a taun si arai ani keve bil aongos nei rina.
@@ -27691,7 +27691,7 @@ Na using a keve bil ke kapo tutuman napo buk ani mi ago musik na mi ago ta bil a
 Na kana mita mela serei ta ngono igenen ke sikei parik kilong tapa vil arikek a lu i atailai vo kilong tala mengen arikek ani kara god.
 Au, man Demeterio ve kana petau kipo atogon neikien ani mang anu, kapo togon a vap kipo teng saupai na kapo togon taun na e iang kian arai ani kari keve mamaiten.
 Sikei man kapo atogon a mang bil lak mipo lomlomonai ania kapo ro tara vil akorong aongos ia nei liuan i vap ke.
-Using man a ri ainoinoai ki arai ani angpipisuai kana, ka angkoai si ki saupai anira singina, using kapo kovek i tukulai roron ina na parik tarapa angkoai si mengen i asapang anira singina.”
+Using man a ri ainoinoai ki arai ani angpipisuai kana, ka angkoai si ki saupai anira singina, using kapo kovek i tukulai roron ina na parik tarapa angkoai si mengen i asapang anira singina.” E mung i kana la posong ani mengen ke kala asok suai ani vap aongos ang.
 Au, visvis ang kalapo kamus na Paulo kala songo akuvul na keve vap lomlomon na kala mengen i papakangai aniria kuvul ve posong aro singiria. Au na kala papelek iria ane Makedonia.
 Na si keve palpal ang nei kana paspasal kala pakangai aniria ta mang keve mengen roron, na kanla serei e Elas,
 na kanla ago na potol a ulen. Kalapo usausa asi kana pasal ane Suria sikei ri Iudaia kita lapo buk raung ania na kala papok ane Makedonia.

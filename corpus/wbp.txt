@@ -926,6 +926,7 @@ Nyampu wiri pirli manu pirli panu-kari kujarna-jana yurturlurla yirrarnu, ngula-
 <range>
 Kaatu kujalpa-pala puraja Yipuruyamurlu manu Nayururlu, ngulangkuju kapu-ngali nyanyi kajirli nyiyarlangurla nyarrpa-jarrimi. Kajinpaju ngajulu pinyi, ngulaju kapujurla Kaaturlu kunka-mani. Kala kajilparnangku pungkarla, ngulaju Kaaturlu kajikangkurla kunka-mani-yijala.” Ngula-jangka, Jakupurla wangkaja Lapanaku, “Kaaturla yirdingka, ngulalpa Yijakirli ngajukupalangurlu puraja, wangkami karnangku kularna pirli-paturla yalumpu-paturla jingijingi yani nyuntu-nyangu-kurra ngurrara-kurra nyuntuku pinjaku.”
 Ngula-jangka, Jakupurlurla jiyipi pinjarla purraja warntarri-nyayirni-wangu Kaatuku. Ngula-jana wati-patuku wungu-warnuku wangkaja yungulu yaninjarla ngarni kuyu manu mangarri nyanungu-kurlurlu. Ngulalu ngarninjaku lawa-jarrija, ngurrangka-jarrijalu yalumpurla pirlingka.
+Mungalyurru-karilki, Lapanarlu-jana nyanungu-nyangu jamirdi-nyanu-patu nyunjurnu, manu-palangu yurntal-nyanu-jarra jakuru-pungu, manu-jana wangkaja, “Kaaturlu kapu-nyarra pirrjirdi-maninjarla warrawarra-kanyi.” Ngula-jangka kulpari yanu nyanungu ngurrara nyanungu-nyangu-kurra.
 Kujalpa Jakupu wapanja-yanu warlalja-patu-kurlu manu nyanungu-nyangu-kurlu nyiyarningkijarra-kurlu, marramarra-patulurla nyanunguku rdipija.
 Kuja-jana nyanungu-patu nyangu Jakupurlu, wangkaja-nyanu kuja, “Ngurra nyampuju Kaatu-kurlangu!” Ngula-jangka, ngurra yalumpu yirdi-manu ‘Mayami’.
 Jakupukupurdangka papardi-nyanulpa nyinaja ngurrararla witangka yirdingka Jiirirla kujalpa karrija ngurrararla wiringka yirdingka Yitamarla. Ngula-jana Jakupurlu yilyaja wati-patu nyanungu-nyangu Yijuwu-kurra yimi-kirli.
@@ -958,7 +959,6 @@ Ngula-jangka, Jakupurla wangkaja nyanunguku, “Ngaju karnangku nyuntu payirni j
 Ngula-jangka, Jakupu wangkaja, “Ngajurna nyangu yinngirri Kaatu-kurlangu milpangku ngajulurlu, kala ngajuju wankaru-juku!” Ngula nyanungurlu yalumpu ngurra yirdi-manu Piniyali.
 Kujalpa wanta kankarlu-jarrinja-yanu, Jakupurlu yampija yinya ngurra. Nyanungu-nyangu yardipi wijini pakarninja-warnu yinya-jangka, manulpa jarntinja-yanu. Ngula-jangkanya, jalangurlangu yapangku Yijirali-pinkirli kula kalu ngarni kuyu yilara yardipi-jangka jiyipi-jangka, narnukutu-jangka manu puluku-jangkarlangu.
 <range>
-
 Ngula-jangka, Jakupurlu nyangu Yijuwu nyanungu-nyanungu-kurlu wati-kirli 400-pala-kurlu kujalpalu wurnturu yanurnu. Ngula-jana warlalja wungu-warnu nyanungu-nyangu yira-kari-maninjarla yirrarnu yurturlu-paturla murntu-palarla.
 Yirrarnu-palangu karnta warrkini-jarra kurdukurdu-kurlu kamparru. Liiya manu kurdukurdu nyanungu-nyangu-jana kulkurru yirrarnu. Ngula-jangka-palangu Rajulu manu nyanungu-nyangu kaja-nyanu Jajupu yirrarnu purdangirli.
 Ngula-jangka, Jakupuju rdirri-yungu wapanjaku Yijuwu-kurra-pinangu, manulu nyanungu-parnta-paturlu kurdukurdu-kurlurlu purdangirli-wanarlu puranja-yanu yurturlu-paturlarlu. Kujalpa nyanungu wapanja-yanu nyanungu-nyangu papardi Yijuwu-kurra-pinangu, Jakupurla parntarrinjunu walyangka yinngirri-purdanji wirlki-palaku.
@@ -1709,10 +1709,6 @@ Ngula-jangka, Yijipi-wardingki-paturlu ngangkayi-kirlirlili ngapa maninjarla yal
 Kingiji-palangu Mujujuku manu Yarunukuju jurnta yanu nyanungu-nyangu yuwarli-kirra. Kula-palangu purda-nyangu nyanungu-jarra.
 Yijipi-wardingki-paturlu yapangku kulalu ngapa ngarnu karru Niilirla. Kalalu karru-wana pangurnu ngapakupurdarlu, kala lawa. Ngapakulpalurla warrarda warrurnu.
 Yangka kuja YAAWIYI-rli ngapa yalyu-manu karru Niilirla, yalyuju ngunaja karrungka wirlki-pala parraku.
-
-
-
-
 Ngula-jangka, YAAWIYI-rla wangkaja Mujujuku, “Yaninjarla kujarla wangkaya Yijipi-wardingki kingiki, ‘Kujanya kangku YAAWIYI-ji wangkami nyuntukuju, “Ngaju-nyangu yapangku yungujulurla ngajuku pulka-pinyi jiljangka. Kula-jana warla-pajika!
 Kajinpa-jana warla-pajirni, kapurna-nyarra jangkardu yilyamirra panu-jarlu-nyayirni jarlji-wati Yijipi-wardingki-patukuju.
 Kapu karru Niiliji karri panu-nyayirni-kirli jarlji-kirli. Kapulu yanirni karru-ngurlu, manu kapulu yukami nyuntu-nyangu yuwarli-kirra kuja kanpa nyuntu nyina. Kapulu yani yangka-kurra kuja kanpa jarda nguna, manu kapulu juurl-pinyi warru nyuntu-nyangu pangkarrarla. Yuwayi, kapulu jarlji-watiji warru yani, manu kapulu yuka nyuntu-nyangu yapa-kurlangu yuwarli-paturla manu wiriwiri-kirlangu yuwarli-paturlangurla. Kapulu juurl-pinyi purranja-kurlangu-kurra manu parraja-kurra kuja kalu warrkini-watirli mangarri ngurrju-mani.
@@ -1741,6 +1737,10 @@ Ngula-palangu kingirli yimi yilyaja Mujujuku manu Yarunuku yungu-pala nganta nya
 Mujujurlu yalu-manu nyanunguju, “Lawa! Kajirnalu-jana puluku-wati pinyi, manu kajirnalurla purranjarla yinyi YAAWIYI-ki Kaatuku, kapulu-nganpa Yijipi-wardingki-paturlu nyanyi, manu kapulu-nganpa kulu-jarrimi kajirnalu-jana puluku-wati jurnta pinyi. Kapulu-nganpa wangkami, ‘Yuwa! Nyiya-jangka kankulu-jana pulukuju pinyi? Mukunypa kalu-nganpa nyina. Purami karnalu-jana!’ Ngula-jangka kapulu pirli mani, kapulu-nganpa luwarni tarnnga-kurra pinjakungarntirli!
 Kujarlanya kularnalurla YAAWIYI-kiji warntarriji purrami nyampurlaju. Kujakuju kapurnalu jilja-wana wapami parra marnkurrpaku. Yinyarlanya kapurnalurla kuyuju purrami nyanungukuju. Kujakunya-nganpa YAAWIYI-ji wangkaja.”
 Ngula kingirli yalu-manu Mujujuju, “Yuwayi, nyuntu manu nyuntu-nyangu yapalu yanta jilja-kurra Yijipi yampinjarla. Kulalu wurnturu yanta. Ngarili kutu-mipa yanta yungunkulurla YAAWIYI-ki kuyu purranjarla yinyi Kaatuku. Yaninjakungarntijirla wangkaya yungu-nganpa yimangi jurnta yilyami.”
+Mujujurla wangkaja nyanunguku, “Yuwayi, yampinja-yanilki karnangku. Kapurnarla wangkami YAAWIYI-ki. Jukurra kapu-nyarra yimangirli yampimilki nyuntu manu nyuntu-nyangu warrkini manu yapa-patu. Purda-nyangkaju! Kula-nganpa yulyurlku-yungka yarda! Kula-nganpa warla-pajika jilja-kujaku yungurnalurla purrami kuyu warntarri-nyayirni-wangu YAAWIYI-ki.”
+Ngula-jangka, Mujujurlu yampinja-yanu kingiji, manurla wangkaja YAAWIYI-ki.
+YAAWIYI-rli purda-nyangu Mujuju wangkanja-kurra. Parra-karirla-jana yimangiji jurnta yilyaja kingiki manu nyanungu-nyangu warrkini-patuku manu yapa-patuku. Kulalpa jintarlangu-puka yimangi wankaru nyinaja.
+Kingiji yarda jurru marntarla-jarrija. Kula manngu-nyangu yangka kujarla kamparru yijardu-wangu wangkaja Mujujuku yangka kapu-jana yilya nganta Yijirali-pinki Yijipi-ngirli, lawa. Warla-pajurnu-juku-jana jilja-kujaku.
 YAAWIYI-rla wangkaja Mujujuku, “Yaninjarla wangkayarla Yijipi-wardingki kingiki, ‘Kujanya kangku wangka YAAWIYI-ji yangka Yipuru-patu-kurlangu Kaatuju nyuntukuju, “Ngaju-nyangu yapangku yungujulurla pulka-pinyi ngajuku jiljangka. Kula-jana warla-pajika!” ’”
 Ngula-jangka, Mujujurla yaninjarla wangkaja kingiki, “Marda kapunpa-jana warla-pajirni Yijirali-pinki yapaju. Marda kapunpa-jana nyampurla Yijipirla mardarni.
 Kajinpa-jana mardarni, YAAWIYI-rli kapungku murrumurru-mani nyanungu-nyangu yartarnarri-kirlirli. Kapu-jana murrumurru-mani nyuntu-nyangu puluku-wati, manu kapu-jana murrumurru-mani nantuwu-wati, tangkiyi-wati, kawartawarta-wati manu jiyipi-wati ngurujarraranypa Yijipirla. Kapulu nyurnu-jarrinjarla muku palimi.
@@ -4228,6 +4228,21 @@ Ngula-jangkaju, Yamili-patu manu Kanana-wardingki-patulu kaaku-nyayirnili jitija
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 …YAAWIYI-rla wangkaja Mujujuku,
 “Wangkaya-jana Yijirali-pinkiki kuja kalu 12-pala warlalja-paturla turnu-warnu-paturla nyina. Wangkaya-jana 12-palaku wiriwiriki yungungkulu watiya jukati-patu nyanungurra-nyangu maninjarla yinyi nyuntuku. Yirraka-jana wiriwiri-kirlangu yirdi jukati-paturla 12-palarla.
 Liipi-kirlangu-jangka manta Yarunu-kurlangu jukati. Nyanunguju wiri yaliki turnu-warnuku. Yarunu-kurlangu yirdi yirraka yalirla jukatirla. Manta-jana yalirra 12-pala jukati yalirra-kurlu wiri 12-pala-kurlu yirdi-kirli.
@@ -4241,21 +4256,6 @@ Ngula-jangkaju, YAAWIYI-jirla wangkaja Mujujuku, “Pina yirraka Yarunu-kurlangu
 Junga-juku, Mujujurluju manu Yarunu-kurlangu jukati, manu pina-yirrarnu Maralypi Kalukurla kujarla YAAWIYI wangkaja kamparru-wiyi.
 Ngula-jangkaju, yapajulurla wangkaja Mujujuku, “Waraa! Lawa kapurnalu muku palimi! Nyarrpa-jarrimirnalu? Nyarrpa-jarrimirnalu?
 Kajilpa yapa kutu-jarriyarla Maralypi Kaluku-kurra kuja-ka YAAWIYI nyina, yali yapa kajika palimi. Kapurnalu muku palimi mayi?”…
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -22614,6 +22614,7 @@ Kala lawa, kulalu julyurl-kujurnu. Ngula-jangkaju, pawurtulpalu puta kurruly-yir
 Ngula-jangkaju, warlkirninjarlalkulurla purlaja YAAWIYI-ki, ngulaju kuja “Waraa! Juuna-wajangku jurnta parnkaja nyuntukuju nganimpa-wangu. Nyuntunyanpa-nganpa jangkardurnu yilyajarni warlpa wiri manu ngapa. Kajirnalu wati nyampu-wiyi julyurl-kijirni ngapa-kurra, yampiya-nganpa nganimpaju kumpuly-nyanja-wangurlu!”
 Ngula-warnuju, pawurtu-wardingki-paturluju, jarna-maninjarla julyurl-kujurnulu mangkuru-kurra. Ngula-warnuju, mangkuruju yatarnpirri-jarrija.
 Pawurtu-wardingki-patujulpalurla lani-jarrija-nyayirni YAAWIYI-kiji. Purranjarla yungulurla mangarri yawuru-maninjaku, kajika-jana marda pinyi-jiki. Ngula-jangka, wangkajalurla, “Kapurnangkulu tarnngangku-juku purami.”
+Yangka kujalu julyurl-kujurnu Juuna ngapa-kurra, ngulakujurla jangkardu yilyajarni yawulku wiri-jarlu ngapa-ngawurrpa YAAWIYI-rli. Ngulangkuju muru-pungu wanapi-juku miyalu-kurra. Yangka Juuna, nyinajalpa yawungka kanunju miyalurla-juku parra-patuku marnkurrpaku.
 Ngulalpa Juuna nyinaja miyalurla yawu-kurlangurla, ngulajurla wangkaja YAAWIYI-ki nyanungu-nyanguku Kaatuku:
 “Waraa, YAAWIYI! Ngajulparna kanunju-jarrinja-yanu ngapangka. Ngajurnangku purlajarra yinpaju muurl-mardarni. Yuwayi, junga-jukunpaju muurl-mardarnu! Kapurna paliyarla-jala. Kujarnangku purlajarra, ngulanpaju purda-nyangu.
 Nyuntunpaju julyurl-kujurnu ngapa-kurra kaninjarra-nyayirni kujalpa kunyakunyaju kutulku ngunaja kanunjuju. Ngapajulpa warrukirdikirdi ngunaja ngaju-wana. Ngapangkujulpaju ngardapaly-kujurnu kuja-purda manu kujarni-purda.
@@ -22624,7 +22625,6 @@ Nyurru-jala kapurna paliyarla, purlajalkurnangku nyuntuku. Nguru-nyayirni-wangu-
 Yapangku ngula kalu purami pirlirrpa-kari kurruwalpa, yali yapa kulalpa-jana muurlparlu mardakarla palinja-kujaku. Kaaturlu yungulpa-jana maju-wati yali kurruwalpa-kurlangu-patu yimirirli-jiki mardakarla. Kala lawa! Nyanungurrarlu kalu mamparl-pinyi purda-nyanja-wangurlu.
 Ngajulurlulku karnangku pulka-pinjarla yunparni. Ngaju kapurnangku yunparninja-karrarlu purranjarla yinyi kuyu warntarri nyuntuku. Ngaju karnangku junga wangka, kapurnangku tarnngangku-juku purami nyuntuju. Kularnangku jurinyki-yirrarni. YAAWIYI-jiki jinta-ka nyina yapaku muurlpakuju mardarninjaku!”
 Ngula purda-nyangu Juuna wangkanja-kurra, ngula-jangkarluju YAAWIYI-rli Warlalja Wiringki ngarlungarlu-manu yawuju yungu pina-yurlkuly-yirrarni Juuna walya-kurra. Junga-juku, yawungkuju walya-kurralku kujurnu.
-
 Ngularla yarda wangkaja japaku-karilki YAAWIYI-ji Juunakuju,
 “Yanta yali-kirra Ninupu-kurra kirri wiri-kirra. Punpun-ngarrika-jana, nyampunya yangka kujarnangku kamparru-wiyi wangkaja.”
 Yijardulkurla ngungkurr-nyinaja YAAWIYI-ki Juunaju. Nyanunguju yarnkajarra Ninupu-kurraju wurnturu-nyayirni-kirra. Yaliji kirri ngulaju wiri-jarlu-nyayirni jarla-wanawana. Kajilpa ngana-puka yapa ngampurrpa nyinayarla jingijingi yaninjaku Ninupurlaku, ngulaju kajika wapami karlarra-ngurlu kakarrara-kurra ngulaju marda ngurraku marnkurrpaku.
@@ -27691,7 +27691,7 @@ Kulalpalu nyarrpa wangkayarla kujaju kula junga nyampurraju tarruku-wangu nganta
 Nyiyakunkulu-palangu kangurnu nyampu-jarraju wati-jarra Kayiju manu Yaratakiji? Kula-pala nyiya maju-manu ngalipa-nyanguju yuwarli maralypirlaju Yarrtimu-kurlangurlaju, manu kula-palarla nginji-wangkaja ngalipa-nyangu jukurrpaku Yarrtimuku.
 Kajilpalu-palangu Mitiriyu manu nyanungu-nyangu warrkini-patu nginji-wangkayarla ngampurrpaju, ngulakungarntirlijilpalu-jana kangkarla kuwurtu-kurra ngulangka yungulu kuwurturla wangkami. Ngulangkanya kalu parra-kari parra-kari turnu-jarrinjarla wangkami wiri-patuju kuwurtukungarduyu-patuju.
 Ngaka kuwurtu-jangka, kajinkili jaru-kari mardarni nyampu-jarra-kurlu wati-jarra-kurlu, ngulajulu-nganpa ngakaju nganimpakulku yimi-ngarrirninjintarni, manulu-nganpa warnkiri-manta yangka kajirnalu-nyanu Yipija-wardingki-patu wiriwiri turnu-jarri. Kujanya-ka nguna kuruwarriji ngalipa-nyanguju.
-Kajirlipa-nyanu kujarlu ngaliparlu warrarda wiljiwilji-mani manu yuntarni, kajikalu-ngalpa nyanyirni Ruumu-wardingki-paturlu wiriwirirli yuntarninja-kurra. Ngulangkuju nyanjarla kajikalu-ngalpa kanyi kuwurtu-kurra. Kala kajilpalu-ngalpa kuwurtu-kurra kangkarla, kuja karlipa-nyanu warrarda wiljiwilji-mani, nyarrpalparlipa-nyanu jaarl-karriyarla?
+Kajirlipa-nyanu kujarlu ngaliparlu warrarda wiljiwilji-mani manu yuntarni, kajikalu-ngalpa nyanyirni Ruumu-wardingki-paturlu wiriwirirli yuntarninja-kurra. Ngulangkuju nyanjarla kajikalu-ngalpa kanyi kuwurtu-kurra. Kala kajilpalu-ngalpa kuwurtu-kurra kangkarla, kuja karlipa-nyanu warrarda wiljiwilji-mani, nyarrpalparlipa-nyanu jaarl-karriyarla? Ngula-juku paljulkulu yanta jurrku-wana-kurra.” Junga-juku, ngula-jangkaju paljulkulu yanu ngurra-wana-kurra.
 Yangka-jangka kulu wiri-jangka, kujalu-jana Kirijini-patu ngarrurnu kulungku Yipija-wardingki-paturlu, ngula-jangkaju ngaka-pardu-karilki, Puurlurluju-jana yajarninjarla turnu-manu Kirijini-patuju. Ngulaju-jana jarungku pirrjirdirli lani-wangu-manu manu pirrjirdi-manu, ngulangkuju yungulu marriwarlu purami Jijaji lani-wangurlu. Ngula-jangkaju, Puurluju kuja-jana wangkaja, “Ngaju kapurna pina-yanilki yangka-kurra Majatuniya-kurra.” Junga-juku, jakuru-pungu-jana yalumpurla-juku Puurlurluju, ngula-jangkaju yanulku pina Majatuniya-kurra.
 Kujalpa yaninja-yanu, ngulajulpa kulkurrukulkurru nyinanja-yanu kirri-kari kirri-kari-wana, ngulangkaju-jana yimi-ngarrirninja-yanu jaru-kari jaru-kari Jijaji-kirlangu. Ngulangkujulpa-jana yapa panu jarungkuju lani-wangu-manu manu pirrjirdi-manu marriwa-karda. Ngula-jangkaju, yukajarralku ngurrara-kari-kirralku yirdi-kirraju Kiiriji-kirra.
 Yalirla Kiirijirla nyinaja marnkurrpaku kirntangi-patuku. Ngula-jangkaju, jurnarrpalku-nyanu turnu-manu pina-yaninjakungarntirlilki yungu pina-yaninja-yani ngurrara-kurra yirdi-kirra Jiriya-kurra. Ngula-puruju, jarulkurla nganangku mayi yimi-ngarrurnu Puurlukuju, kujalpalurla nyanunguku jangkardu jaaly-manu Juwu-patu pakarninjaku. Ngula-kujakuju pina-manngu-nyangu yungu pina-yani yangka-wana-yijala Majatuniya-wana wirliya-wana.

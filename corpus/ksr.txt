@@ -926,6 +926,7 @@ Kaeŋ ijoŋ mombo toroqeŋ kokaeŋ jero: “Qegana moba, jamo tuuŋ koi ano too�
 Jamo tuuŋ koi mono daŋgununara kolooŋ rama ubaa ano tooŋ koi ii kaaŋagadeeŋ daŋgununara kolooŋ rama ubaa. Iikanoŋ soomoŋgonaraajoŋ kokaeŋ romoŋgoŋ noroma rama ubao: Niinoŋ meŋ boliŋ gomambaajoŋ moma jamo tuuŋ koi mende uuguŋ goonoŋ kamaŋa. Giinoŋ kaaŋiadeeŋ meŋ boliŋ nomambaajoŋ moma jamo tuuŋ ano tooŋ koi mende uruuguŋ noonoŋ kawa.
 Aabraham, Naahor ano yoroo maŋgaraa beŋgia Anutu iinoŋ mono qaa batunaranoŋ kolooro ii gosiŋ jeŋ tegoŋ norombaa.” Labanoŋ kaeŋ ijoro Jeikobnoŋ qaa ii somoŋgoŋ Anutuwaa qanoŋ jojopaŋ qaanoŋ jeŋ kotiiro. Maŋa Aisaknoŋ Anutu iikawaa waeya meŋ mepeseeŋ laligoro.
 Jeikobnoŋ kaeŋ ama baloŋ baaŋanoŋ oro qeŋ iikanoŋ siimoloŋ ooŋ tinitosauruta horoŋ oŋono lombanoŋ kagi. Kaŋ nene neŋ gomantiiŋanoŋ rii oroŋ baaŋanoŋ kanoŋ egi.
+Egi gomaŋ asariro Labanoŋ umugawodeeŋ waama esauruta ano borawoita buugia kitoŋ neŋ kotuegoŋ oŋoma yeizozogia jero. Ii jeŋ oŋomesaoŋ eleema gomaŋanoŋ keno. Kiaŋ.
 Looyanoŋ keno Jeikobnoŋ kaaŋagadeeŋ kananoŋ keno Anutuwaa gajobauruta tosianoŋ mokolooŋ mugi.
 Mokolooŋ mugi iŋiima kokaeŋ jero: “Ii Anutuwaanoŋ manjaqeqe tuuŋ kolooju.” Kawaa so gomaŋ iikawaa qata Mahanaim (manjaqeqe tuuŋ woi) qaro.
 Jeikobnoŋ kananoŋ kema laligoŋ qele ejauruta tosaaŋa wala wasiŋ oŋono Edom kantrinoŋ baloŋ qata Seir kanoŋ data Iisoo iibombaajoŋ keŋgi.
@@ -958,7 +959,6 @@ Kaeŋ ijoro kokaeŋ jero: “Gii saanoŋ qaga qana momaŋa.” Kaeŋ jeroto, gaj
 Kotuegoŋ muro Jeikobnoŋ kokaeŋ jero: “Nii Anutuwo jaasewaŋ qeŋ aoŋ jaaya tororo iijento, kileŋ niima kobooro jaawo laligojeŋ.” Kaeŋ jeŋ kawaajoŋ baloŋ iikawaa qata Penuel qaro. (Penuel = Anutuwaa jaasewaŋa)
 Weeŋ jaayanoŋ kouro Jeikobnoŋ Penuel gomaŋ ii mesaoŋ uuguŋ kaŋ kupu siita sunotiwaajoŋ ama riiŋ koriŋkoriŋ keno.
 Eja kanoŋ Jeikobwaa kupu sii toroqeqetaa tokotokoyanoŋ qerotiwaajoŋ ama Israel kanatuuru yoŋonoŋ kambaŋ kokaamba kaaŋagadeeŋ oro neŋ kanoŋ kupu sii toroqeqetaa tokotokoya ii togoŋ mende neŋkeju. Kiaŋ.
-
 Jeikobnoŋ jaaya uuŋ waama Iisoonoŋ ejauruta 400 yoŋowo motooŋ kananoŋ kagiti, ii iŋiiro. Kawaajoŋ meraborauruta mendeema oŋoma Lea, Reizel ano weleŋ embawoita yoŋoo borogianoŋ oŋono.
 Kaeŋ ama oŋoma kokaeŋ areŋgoŋ oŋono: Weleŋ embawoita yoronoŋ meraboraurugara uŋuama wala keŋgi. Yoŋoo gemagianoŋ Leanoŋ meraborauruta yoŋowo keŋgi Reizel ano meria Joosef yoronoŋ daandaaŋ keni.
 Sumaŋa kaeŋ areŋgoŋ oŋoma aŋo yoŋoo wosogianoŋ wala kema simiŋ kuma namonoŋ usugoŋ waaro indiŋa 7 kolooro kema dataa jaasewaŋanoŋ keuro.
@@ -22614,6 +22614,7 @@ Kaeŋ meleeno gawoŋ eja yoŋonoŋ kileŋ waŋgo mombo namo goraayanoŋ keubaati
 Amamaaŋ Israel Poŋnanaa qata kokaeŋ qama kooligi: “Oo Poŋ, mono geeŋgaa qaa joga otaaŋ iwoi koi anjaŋ. Kawaajoŋ Poŋ, eja koi komuwaatiwaajoŋ ama mono mende tiwilaaŋ nonomba. Sayaa qaaya ii mono nonoo qanananoŋ mende ana uba. Qaa ii oŋanoŋ.”
 Kaeŋ qama kooliŋ kema Joona meŋ borogi kowenoŋ kemero. Kemero kowewaa usuŋanoŋ iikanoŋadeeŋ kamaaro boŋ qero.
 Boŋ qero eja yoŋonoŋ Anutuwaajoŋ aaruŋ lalaŋaniŋ nanduŋ somata ama Poŋ siimoloŋ ooŋ muŋ qaagia kokaeŋ somoŋgogi: “Anana mono Pombaanoŋ qaa apaŋa teŋ koma laligowoŋa.”
+Joonanoŋ kowenoŋ kemero Poŋnoŋ sara somata moŋ wasiro kema Joona gogoro. Gogoro sara iikawaa uutanoŋ weemboria karooŋ eŋ laligoro. Kiaŋ.
 Joonanoŋ sara uutanoŋ eŋ Poŋ Anutuya qama kooliŋ muŋ
 kokaeŋ ijoro: “Oo Poŋ, nii kokojinjiŋ uutanoŋ qama kooliŋ gombe gii qaana moma leeya meleemba. Nii koomuwaa senjoŋ dusiitanoŋ eŋ komuŋ tagoŋ welema gombe gii geja ama jejewelenwelena mojaŋ.
 Gii monago kowe biiwi jabiriŋanoŋ (jauŋanoŋ) hagoŋ noŋgi kamaaŋ ejeŋ. Geeŋgo riiwagoŋ nona gomaŋ siŋsiŋgoyaa dutanoŋ kamaabe gboulu somatanoŋ esuuŋ nonja. Goo apu kokopa kuuya ii musuluŋgoŋ nonja. Goo kowe siriga ii turuŋ neŋ olaaŋ nonja.
@@ -22624,7 +22625,6 @@ Nii kowe biiwi jauŋaa dusiitanoŋ koi kanoŋ uluŋgoŋ kamaajeŋ. Kowe biiwi ja
 “Ejemba gadokopa beŋ lopioŋ omaya goda qeŋ usugoŋ oŋomakejuti, iyoŋonoŋ kaeŋ ama kaleŋmoriaŋ Toya gii gema guŋkejuto,
 nii mono mepemepesee ooŋsaa qama mamatewoo ama siimoloŋ ooŋ gomambaajoŋ mojeŋ. Nii iwoi amambaa qaa jeŋ somoŋgobeti, iikawaa so mono ama sorogoŋkemaŋa. Oo Poŋ, gii gou koŋkoŋ Tona koloojaŋ. Qaa ii oŋanoŋ.”
 Kaeŋ qama kooliro Poŋnoŋ sara ii jeŋ kotoŋ muro kaŋ kouma Joona lono namo toboganoŋ kamaaro. Kiaŋ.
-
 Namo toboganoŋ kamaaro Pombaanoŋ qaa koi ii mombo Joonawaanoŋ kolooro:
 “Giinoŋ mono waama siti somata Niiniwe kanoŋ kema Buŋa qaa gomaŋati, ii iŋijoŋ uugia kuuwa.”
 Qaa kaaŋa kolooro Joonanoŋ waama Pombaa qaa jeta teŋ koma Niiniwe keno. Niiniwe sitiwaa soya ii kokaeŋ: Gii goraayanoŋa kanaiŋ kema laligona weeŋ karooŋ tegoro teegeŋ endu keubaga.
@@ -27691,7 +27691,7 @@ Ii moŋnoŋ qakoombaatiwaa so qaago. Kawaajoŋ oŋo mono uugia osoŋ meŋ kamaa�
 Eja woi koi jiwowoŋ jigonoŋ uma iwoi moŋ mende luluuma qeŋ meŋ boliri. Beŋ embanana mende mepaegoŋ muri. Oŋo kileŋ ii uruaŋgi koi nanjao.
 “Demitrius ano iwaa komahooro alaurutanoŋ tosia yoŋowo aŋgowowo ama qaa jeŋ aowuyagati eeŋ, kiap mono raju ano qaa jakewaa ajoajorooya ajoajorooya ii qaa mindiŋgowombaajoŋ amakeju. Kawaajoŋ mono saanoŋ iikanoŋ kema qaa jakeyanoŋ ama aoŋ aroŋ qeŋ naŋgi sokombaa.
 Oŋo iwoi moŋ toroqeŋ jewombaajoŋ mobuyagati eeŋ, siti kokawaa toya tosianoŋ saanoŋ kanageso horoŋ oŋoŋgi qenjaaro sombenoŋ ajorooŋ qaa gosiŋ jeŋ tegowoŋa.
-Kete eŋkaloloŋ gujubaju somata koi kania qaato, kileŋ tondu kolooji, ii Room gawman yoŋonoŋ moma kokaeŋ jewubo, ‘Efesus yoŋonoŋ Room mindimindiri gawman qetama manja kareŋ anju.’ Kaeŋ jeŋ qaa jakeyanoŋ nonoombubo. Kawaa uulombota kolooji, ii mojeŋ. Qaa jakeyanoŋ nonooma kareŋ koi kawaa kaniaajoŋ qisiŋ nonombuyagati eeŋ, nono mono kitia meleema aŋgoŋ koma jewombaa so mende mojoŋ.”
+Kete eŋkaloloŋ gujubaju somata koi kania qaato, kileŋ tondu kolooji, ii Room gawman yoŋonoŋ moma kokaeŋ jewubo, ‘Efesus yoŋonoŋ Room mindimindiri gawman qetama manja kareŋ anju.’ Kaeŋ jeŋ qaa jakeyanoŋ nonoombubo. Kawaa uulombota kolooji, ii mojeŋ. Qaa jakeyanoŋ nonooma kareŋ koi kawaa kaniaajoŋ qisiŋ nonombuyagati eeŋ, nono mono kitia meleema aŋgoŋ koma jewombaa so mende mojoŋ.” Efesus siti poŋ qereweŋanoŋ qaa kaeŋ jeŋ ejemba tuuŋ kondeema oŋono zololoŋgoŋ deema keŋgi. Kiaŋ.
 Efesus kanoŋ gujubaju kanoŋ zololoŋgodabororo Poolnoŋ gowokouruta oŋoono kagi uuwaa naŋgonaŋgo qaa qambaŋmambaŋ oŋoma yeizozo jeŋ oŋomesaoŋ Masedonia prowinsnoŋ keno.
 Masedonia kema gomaŋa gomaŋa kotoŋ liligoŋ kanoŋ qambaŋmambaŋ qaa mamaga jeŋ laligoŋ Griik kantrinoŋ karo.
 Griik kaŋ koiŋ karooŋ laligoro. Ii laligoro tegoro waŋgo meŋ kowe kotoŋ Siria kemambaajoŋ moro. Kaaŋa moroto, Juuda jotamemeya yoŋonoŋ kananoŋ qewombaa aŋgonaŋ aŋgi gejianoŋ kemero moro. Ii moma kawaajoŋ Masedonia prowins kotoŋ baloŋ kana gomaŋanoŋ eleemambaa qaaya uutanoŋ somoŋgoro.

@@ -926,6 +926,7 @@ Le hoe t’i Labàne am’Iakòbe, Hehe ty votre tia naho ty ajiba najadoko añi
 Valolombeloñe ty votre tia, naho valolombeloñe ty ajiba toy te tsy handilarako mb’ ama’o mb’eo, vaho tsy ho lika’o ty votre toy ndra ty ajiba toy homb’amako, hañeloke.
 T’i Andrianañahare’ i Avrahame, naho t’i Andrianañahare’ i Nakore, t’i Andrianañaharen-droae’ iareo ty hizaka añivon-tika. Aa le nifanta amy Fañeveñan-drae’e Ietsàke t’Iakòbe,
 le nañenga soroñe ambohitse eo t’Iakòbe naho kinoi’e o longo’eo hikama, le nikama vaho nialeñe amy vohitsey.
+
 Nañaleñaleñe t’i Labàne t’ie nitroatse naho norofa’e o ana’eo naho o anak’ampela’eo vaho nitata’e. Niavotse amy zao t’i Labane nimpoly mb’ama’e añe.
 Nanonjohy i lia’ey t’Iakòbe le nifanalaka ama’e o anjelin’ Añahareo;
 aa ie niisa’ Iakòbe le nanao ty hoe, Toben’Añahare itoy, le natao’e ty hoe Makanaime i toetse zay.
@@ -957,8 +958,7 @@ Aa le nanoa’e ty hoe, Ia ty añara’o? Iakòbe, hoe re.
 Le hoe re, Tsy hatao Iakòbe ka ty tahi­na’o, fa Israele, amy t’ie nifanehak’ aman’ Andrianañahare naho am’ondatio vaho nahatañe.
 Hoe ty nañontanea’ Iakòbe, Ehe, itsarao ty tahina’o. Fa hoe re, Ino ty añontanea’o ty añarako? Le nitata’e eo.
 Aa le natao’ Iakòbe ty hoe Penoele i toetsey, ami’ty hoe, Nifañatre-daharañe aman’ Añahare iraho, fe narova’e ty fiaiko.
-Nanjirike i àndroy t’ie nitsake e Penoele ty amy moja’ey.
-Aa le tsy fikamà’ o nte-Israeleo pake henane ty oza’ i moja mipitek’ am-pikatsohañey, amy te nipaohe’e ty oza’ i fikatsoha’ i moja’ Iakòbey ami’ty lahin-oza’ i tohakeiy.
+Nanjirike i àndroy t’ie nitsake e Penoele ty amy moja’ey. Aa le tsy fikamà’ o nte-Israeleo pake henane ty oza’ i moja mipitek’ am-pikatsohañey, amy te nipaohe’e ty oza’ i fikatsoha’ i moja’ Iakòbey ami’ty lahin-oza’ i tohakeiy.
 Le nampiandrà’ Iakòbe o fihaino’eo naho niisa’e te nimb’ ama’e mb’eo t’i Esa­ve reketse ty lahilahy efa-jato. Aa le zinara’e amy Leae naho amy Rahkele vaho amy mpitoro’e ampela roe rey o ajajao.
 Na­noe’e aolo’e ey o mpitoroñeo rekets’ o ana’eo, le nanonjohy iereo t’i Leae naho o ana’eo vaho amboly ao t’i Rahkele naho Iosefe.
 Niary mb’aolo’ iereo mb’eo re nibokok’ an-tane im-pito am-pañarineañe i zoke’ey
@@ -1709,14 +1709,10 @@ Fe tsinikombe’ o ambiasa’ i Mitsraimeo an-tsahàtse, le nihagàñe ty arofo�
 Te mone nitolike t’i Parò, nimoak’ añ’anjomba’e ao, tsy nihaoñe’ ty arofo’e i raha zay.
 Aa le fonga nihaly vovoñe añ’olo’ i sàkay o nte-Mitsraimeo, fa tsy nimete nòmeñe ty rano’ i sàkay.
 Ie nimodo ty fito andro le nipaoha’ Iehovà i sàkay,
-le ni­tsara amy Mosè t’Iehovà, Akia miheova mb’ amy Parò mb’eo vaho ano ty hoe ama’e, Hoe ty tsinara’ Iehovà: Ampiavoto ondatikoo, hitoroñe ahiko.
-Aa ie mitoky, tsy hampienga, le inao, ho tsitsifeko sahoñe o tane’oo.
-Hifamorohotse amy Nailey o sahoñeo. Hiakatse boak’ao hizilik’ añ’ anjomba’o ao naho an-traño firota’o ao naho am-pandrea’o ao naho añ’ anjomba’ o mpitoro’oo naho amo ondati’oo naho amo fanokona’oo vaho amo finga fitroboan-kobao.
-Hanganik’ ama’o naho am’ondati’oo vaho amo mpitoro’oo o sahoñeo.
-Le hoe t’Iehovà amy Mosè, Saon­tsio t’i Aharone, Ahitio ambone’ o torahañeo naho o talahao vaho o antarao ty fità’o rekets’ i kobai’oy hampiakatse o sahoñeo mb’an-tane Mitsraime mb’eo.
-Aa le natora-kitsi’ i Aharone ambone’ o rano’ i Mitsraimeo ty fità’e vaho nitroatse mb’an-tamboho mb’eo o sahoñeo nanafotse ty tane Mitsraime.
-Fe tsinikombe’ o ambiasao amo sahà’ iareoo, le nañakatse sahoñe an-tane Mitsraime ka.
-Nikanjie’ i Parò t’i Mosè naho i Aharone le nanao ty hoe: Mihalalia am’Iehovà te hakareñe amako naho am’ ondatikoo o sahoñeo vaho hengako homb’eo ondatio hisoroñe am’ Iehovà.
+le ni­tsara amy Mosè t’Iehovà, Akia miheova mb’ amy Parò mb’eo vaho ano ty hoe ama’e, Hoe ty tsinara’ Iehovà: Ampiavoto ondatikoo, hitoroñe ahiko. Le hoe t’Iehovà amy Mosè, Saon­tsio t’i Aharone, Ahitio ambone’ o torahañeo naho o talahao vaho o antarao ty fità’o rekets’ i kobai’oy hampiakatse o sahoñeo mb’an-tane Mitsraime mb’eo.
+Aa ie mitoky, tsy hampienga, le inao, ho tsitsifeko sahoñe o tane’oo. Aa le natora-kitsi’ i Aharone ambone’ o rano’ i Mitsraimeo ty fità’e vaho nitroatse mb’an-tamboho mb’eo o sahoñeo nanafotse ty tane Mitsraime.
+Hifamorohotse amy Nailey o sahoñeo. Hiakatse boak’ao hizilik’ añ’ anjomba’o ao naho an-traño firota’o ao naho am-pandrea’o ao naho añ’ anjomba’ o mpitoro’oo naho amo ondati’oo naho amo fanokona’oo vaho amo finga fitroboan-kobao. Fe tsinikombe’ o ambiasao amo sahà’ iareoo, le nañakatse sahoñe an-tane Mitsraime ka.
+Hanganik’ ama’o naho am’ondati’oo vaho amo mpitoro’oo o sahoñeo. Nikanjie’ i Parò t’i Mosè naho i Aharone le nanao ty hoe: Mihalalia am’Iehovà te hakareñe amako naho am’ ondatikoo o sahoñeo vaho hengako homb’eo ondatio hisoroñe am’ Iehovà.
 Hoe ty Mosè amy Parò, Inao ty engeñe atoloko azo: Ombia ty hihalaliako ho azo naho o mpitoro’oo naho ondati’oo te hasoike ama’ areo vaho añ’ anjomba’ areo o sahoñeo, hampipoke iareo amy sàkay avao?
 Le hoe re, Hamaray. Hoe t’i Mosè, Ie o sinaontsi’oo! Hahafohina’o te tsy amam-pañirinkiriñe aze t’Iehovà Andria­nañahare’ay.
 Ie misitak’azo naho o anjomba’oo naho o mpitoro’oo naho ondati’oo, le hidok’ amy sàkay avao.
@@ -1741,6 +1737,10 @@ Le hoe t’i Mosè, Vata’e mienga azo iraho le hihalaly am’ Iehovà te hasit
 Aa le nienga i Parò t’i Mosè vaho nihalaly am’ Iehovà.
 Le nanoe’ Iehovà i nihalalie’ey: nafaha’e amy Parò naho amo mpitoro’eo naho am’ on­dati’eo o laletse nifamoroho­tseo, leo raike tsy napoke.
 Le mbe nampientere’ i Parò ty arofo’e henane zay, tsy nenga’e hiavotse ondatio.
+
+
+
+
 Le hoe t’Iehovà amy Mosè, Miziliha amy Parò ao le ano ty hoe, Hoe t’Iehovà Andrianañahare’ o nte-Evreo: Ampiengao ondatikoo hitoroñe ahy.
 Aa naho tsy apo’o hañavelo, fa mbe itambozore’o,
 le ingo ho amo hare’oo ty fità’ Iehovà, amo an-kivokeo, amo soavalao, amo borìkeo, amo ramevao, amo lia-raikeo naho amo añombeo ty kolàñe mandrokènkañe.
@@ -2112,8 +2112,7 @@ Naho sokafe’ t’in­daty ty koboñe, he mihaly kadaha fa tsy kapefa’e vaho 
 le ty tompo’ i haliy ro hañavake vaho hañondroke drala ami’ ty tompo’ i harey, fe aze i matey.
 Naho joie’ ty añombe’ ondaty ty aze, le haleta’ iareo i veloñey naho ho zarae’ iereo roe i vili’ey vaho ifanjarañe i matey.
 Fe naho nifohiñe te lili’ i añombey ty mandronje, fe tsy kinala’ i tompo’ey am-pahetse, le havaha’ i tompo’ey añombe i añombey vaho aze i matey.
-Naho mampikametse añombe ndra ose t’in­daty he alèta’e ke lentae’e, le hampañavaheñe añombe lime ty añombe raike naho ose efatse ty ose raike.
-Naho zoeñe te mampipoñake ty mpampikametse ie trinabotraboke vaho navetrake, le tsy havahan-dio.
+Naho mampikametse añombe ndra ose t’in­daty he alèta’e ke lentae’e, le hampañavaheñe añombe lime ty añombe raike naho ose efatse ty ose raike. Naho zoeñe te mampipoñake ty mpampikametse ie trinabotraboke vaho navetrake, le tsy havahan-dio.
 F’ie nanjiriha’ i àndroy le ho valeam-pate ty lio. Tsi-mete tsy avahañe, aa ie poi’e, le haletake hasolo i finao’ey.
 Aa naho tendrek’ am-pità’e ty nikamere’e, ke te añombe, ke borìke, he añondry: le havaha’e roe.
 Ie iandraza’ ondaty ty teteke ndra ty tanem-bahe naho adare’e ama’e o hare’eo vaho iandraza’e ty tonda’ondaty, le tsi-mete tsy avaha’e boak’an-tete’e ami’ty soa an-tete’e ao naho an-tanem-bahe’e ao.
@@ -2143,6 +2142,7 @@ Ko onjirañe o mpizakao, le ko mamàtse ty mpifehe’ ondati’oo.
 Ko mihenekeneke tsy hibanabana ty lengom-boan-kavokaran-tete’o naho ty lengom-pipineha’o. Atoloro ahiko ty tañoloñoloña’o.
 Ano izay ka o añombe’oo naho o añondri’oo: ho fito andro an-drene’e re vaho atoloro ahiko ami’ty andro faha-valo.
 Hondaty miavake amako nahareo; aa le ko kamae’ areo ze nofotse rinimitem-biby an-kivoke ey, fa ahifiho amo amboao.
+
 Ko minday tolom-boetse, ko manò-pitàñe ami’ty tsereheñe hitaroña’o entam-bìlañe.
 Ko orihe’o ty maro hikabo-draha; naho ko mireketse amy màroy handesa’o talily mampiolake ty hato;
 vaho ko osihe’o ami’ty kabò’e ty rarake.
@@ -2848,20 +2848,13 @@ Havaha’e i nijoia’e amy raha niavakeiy, naho ho tovoña’e am-paha-lime’e
 Naho eo ty manao hakeo aman-dra inoñ’ inoñ’ amo nandrarà’ ­Iehovà tsy hanoeñeo, ndra te tsy nifohi’e le voa tahiñe vaho ho vavè’e i hakeo’ey.
 Hendese’e mb’amy mpisoroñey mb’eo ty añondrilahy tsy aman-kandra boak’ amy mpirai-liay naho ty anjoanjoe’o ho engan-kakeo, le hijebañ‘ aze ty amy lilatse tsy ni-satrie’e ndra tsy nifohi’ey, i mpisoroñey vaho ho hahañe ama’e.
 Engan-kakeo izay, ie nandilatse am’ Iehovà.
-Le hoe ty nitsara’ Iehovà amy Mosè:
-Aa naho eo ty mandilatse am’ Iehovà amy te nifañahie’e ty mpiama’e ami’te nahaja, ke nampitsoaheñe, he nikizoeñe; ke nidramoteñe i mpiama’ey,
-hera nirendreke ty nimotso fe mamañahy ty ama’e, naho nandañitse aman-titike, hanaña’e hakeo aman-dra’ inoñ’ inoñe mete hanoe’ ondaty amy rezay,
-le ie nandilatse naho voa-zaka, le havaha’e i nikamere’ey, ndra i nidramote’ey, ndra i nahaja’ey, ndra i nimotso nioni’ey
-ndra inoñ’ ino nifantà’e vìlañe. Le havaha’e mira naho hitompea’e ty faha-lime’e, vaho hatolo’e amy tompo’ey amy andro banabanae’e i engan-dila’ey.
-Hendese’e amy Iehovà ty engan-kakeo’e, ty añondrilahy tsy aman-kandra boak’ am-pirai-lia, naho ty hanjoanjoe’o ho engan-dilatse, mb’amy mpisoroñey.
-Le hañefetse aze añatrefa’ Iehovà i mpisoroñey ty amy tahiñe nanoe’e naha-voa-zaka azey, vaho ho hahañe.
-Hoe ty nitsara’ Iehovà amy Mosè:
-Lilio t’i Aharone naho o ana’eo ami’ty hoe: Zao ty fepè’ o fisoroñañeo: hapok’ amo hatae amy kitreliio i engaeñe harivay hialeñe ampara’ te porea’ ty maraindray vaho hirehetse nainai’e i afo ambone’ i kitreliiy.
-Ie fa niforototoeñe an’ afo amy kitreliiy i soroñey, le haombe’ i mpisoroñey i saro’e leniy, ie fa nisikina’e i kiloti’e mana­roñe i sandri’eiy, le ho rambese’e ty laveno’e vaho hapo’e añ’ ila’ i kitreliy.
-Hafaha’e hey o saro’eo, hisi­kiñe ty ila’e, vaho hendese’e alafe’ i tobey an-toetse malio añe i lavenokey.
-Izay ty hampi­tolom-pirehetse ty afo amy kitreliy, tsy hikipeke. Hanoron-katae ama’e boak’ andro i mpisoroñey, halaha’e ama’e ze hisoroñañe vaho hengae’e an-katoeñe ama’e ty safo’ o engam-pañanintsiñeo.
-Tanan-kirehetse nainai’e amy kitreliy ty afo, vaho tsy hakipeke.
-Zao ty fetse’ o enga-mahakamao: ho banabanae’ o ana’ i Aharoneo añatrefa’ Iehovà aolo’ i kitreliy.
+Le hoe ty nitsara’ Iehovà amy Mosè: Hoe ty nitsara’ Iehovà amy Mosè:
+Aa naho eo ty mandilatse am’ Iehovà amy te nifañahie’e ty mpiama’e ami’te nahaja, ke nampitsoaheñe, he nikizoeñe; ke nidramoteñe i mpiama’ey, Lilio t’i Aharone naho o ana’eo ami’ty hoe: Zao ty fepè’ o fisoroñañeo: hapok’ amo hatae amy kitreliio i engaeñe harivay hialeñe ampara’ te porea’ ty maraindray vaho hirehetse nainai’e i afo ambone’ i kitreliiy.
+hera nirendreke ty nimotso fe mamañahy ty ama’e, naho nandañitse aman-titike, hanaña’e hakeo aman-dra’ inoñ’ inoñe mete hanoe’ ondaty amy rezay, Ie fa niforototoeñe an’ afo amy kitreliiy i soroñey, le haombe’ i mpisoroñey i saro’e leniy, ie fa nisikina’e i kiloti’e mana­roñe i sandri’eiy, le ho rambese’e ty laveno’e vaho hapo’e añ’ ila’ i kitreliy.
+le ie nandilatse naho voa-zaka, le havaha’e i nikamere’ey, ndra i nidramote’ey, ndra i nahaja’ey, ndra i nimotso nioni’ey Hafaha’e hey o saro’eo, hisi­kiñe ty ila’e, vaho hendese’e alafe’ i tobey an-toetse malio añe i lavenokey.
+ndra inoñ’ ino nifantà’e vìlañe. Le havaha’e mira naho hitompea’e ty faha-lime’e, vaho hatolo’e amy tompo’ey amy andro banabanae’e i engan-dila’ey. Izay ty hampi­tolom-pirehetse ty afo amy kitreliy, tsy hikipeke. Hanoron-katae ama’e boak’ andro i mpisoroñey, halaha’e ama’e ze hisoroñañe vaho hengae’e an-katoeñe ama’e ty safo’ o engam-pañanintsiñeo.
+Hendese’e amy Iehovà ty engan-kakeo’e, ty añondrilahy tsy aman-kandra boak’ am-pirai-lia, naho ty hanjoanjoe’o ho engan-dilatse, mb’amy mpisoroñey. Tanan-kirehetse nainai’e amy kitreliy ty afo, vaho tsy hakipeke.
+Le hañefetse aze añatrefa’ Iehovà i mpisoroñey ty amy tahiñe nanoe’e naha-voa-zaka azey, vaho ho hahañe. Zao ty fetse’ o enga-mahakamao: ho banabanae’ o ana’ i Aharoneo añatrefa’ Iehovà aolo’ i kitreliy.
 Handrambesa’e ty mona’ i enga-mahakama mahàtsa-pitañey miharo amy mena’ey naho ze hene embok’ amy enga-mahakamay, le hengae’e an-katoeñe amy kitreliy ho tiahy, ho hàñim-pañanintsiñe am’ Iehovà.
 Ho kamae’ i Aharone naho o ana’eo ty tsi-rì’e; ho kamaeñe tsy aman-dalivay an-toe-miavake ao; an-kiririsan-kibohom-pamantañañe eo ty hikama’ iareo aze.
 Tsy hatoñak’ aman-da­livay re. Fa nandivako am’ iareo boak’ amo nisoroñañ’ amakoo; ie miava-do’e, manahake i engan-kakeoy naho i engan-dilatsey.
@@ -2878,6 +2871,13 @@ Hiavake ze mitsapa ty nofo’e. Naho mipitsik’ an-tsaroñe ty lio’e le ho sa
 Ho foieñe ka ze valàñe-tane nahandroañ’ aze; fa naho valàñe torisìke ty nahandroañ’ aze le ho kotriñeñe vaho kintsa­ñen-drano.
 Songa mete mikama ama’e ze lahilahy amo mpisoroñeo. Miavake izay.
 Fe tsy azo kamaeñe ze soron-kakeo nangalan-dio, nendeseñe amy kibohom-pamantañañey hanoem-pijebañañe amy toe-miavakey, ie tsy mete tsy forototoeñe añ’afo.
+
+
+
+
+
+
+
 Intoy ty fetse o engan-dilatseo, ie miava-do’e;
 amy fandentañe o hisoroñañeoy ty fandentañe ty engan-dilatse; le hadasi’e añariari’ i kitreliy ty lio.
 Ty hengae’e, le ty safo’e iaby: i hofa’e vondrakey naho ze safo’e mañohoñe o ova’eo,
@@ -4228,34 +4228,34 @@ vaho sinoka’ i taney ty vava’e le fonga na­bea’e rekets’ o hasavereña�
 Aa le nigodam-beloñe mb’ an-tsikeokeok’ ao iereo reke-panañañ’ iaby; nikitek’ ambone’e i taney, naho fa nimongoreñe amy valobohokey iereo.
 Le nitriban-day iaby ze ana’ Israele narine eo, naman­tsiñe ty hoe, Ke hatele’ i taney ka zahay!
 Niboak’ am’ Iehovà amy zao ty afo nahaforototo ‘indaty roanjato-tsi-limampolo nañemboke rey.
-Le natoro’ Iehovà amy Mosè ty hoe:
-Misaontsia amy Elazare ana’ i Aharone Mpisoroñe handrambesa’e o sadron’ afo boak’ amy afoio, le hampiparatsahe’e ey i afoy, fa miavake irezay.
-Ampipeho ho endraendra hanaroñe i kitreliy o sadron’ afo’ ondaty rinotsan-kakeo ty fiai’iareoo, fa miavake amy te nengaeñe am’ Iehovà, le ho viloñe amo ana’ Israeleo.
-Aa le rinambe’ i Elazare mpisoroñe o sadron’ afo torisìke nengae’ i niforototoeñe reio, vaho nipepeheñe ho kape’ i kitreliy,
-ho faniahiañe o ana’ Israeleo te tsy hitotoke mb’eo ty ondaty sotra tsy tarira’ i Aharone hañembok’ am’ Iehovà, tsy mone hanahake i Korahke naho o mpiama’eo, amy nitsara’ Iehovà am-pità’ i Mosèy.
-Ie amy loakandroy le fonga niñeoñeoñe amy Mosè naho i Aharone i valobohòn’ ana’ Israeley ami’ty hoe, Fa zinama’ areo ondati’ Iehovào.
-Aa naho nifanontoñe i valobohòkey hiatreatre amy Mosè naho amy Aharone, f’ie nitolike mb’ an-kibohom-pamantañam-b’eo le hehe te nisaroña’ i rahoñey vaho niboake ty enge’ Iehovà.
-Aa le niheo mb’ aolo’ i kibohom-pamantañañey mb’eo t’i Mosè naho i Aharone.
-Le nitsara amy Mosè t’Iehovà nanao ty hoe:
-Isitaho o valobohòkeo hamorototoako aniany. Ie nibabok’ an-daharañe,
-le hoe t’i Mosè amy Aharone, Angalao sadron’ afo le apoho ama’e ty afo boak’ amy kitreliy, le ampipoho emboke naho mihitrifa masìka mb’amy valobohòkey ho fijebañañe iareo amy te niboak’ am’ Iehovà ty fombo vaho fa namototse i angorosiy.
-Aa ie mbe nisaontsy t’i Mosè, le rinambe’ i Aharone izay le nipitsik’ an-day naneñateña i valobohòkey; naho tendreke te niorotse am’ ondatio i angorosiy; Napo’e ama’e ty emboke vaho nijebañe ondatio.
-Aa ie nijohañe añivo’ o mateo naho o veloñeo le nijihetse i angorosiy.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Rai-ale-tsi-efats’ arivo-tsi-fitonjato ty nivetrak’ amy andro zay mandikoatse o nikoromak’ amy Korahkeio.
 Ie nijihetse i angorosiy le nibalike mb’ amy Mosè t’i Aharone mb’an-dalan-kibohom-pamantañañe mb’eo.
-Le hoe ty nitsara’ Iehovà amy Mosè:
-Misaontsia amo ana’ Israeleo naho mangala kobay amo anjomban-droae iabio, ze talèn’ anjomban-droae—kobay folo-ro’amby, ie songa hanokitse ty tahina’e amy kobai’ey.
-Le sokiro an-kobai’ i Levy eo ty tahina’ i Aharone. Sindre kobain-droae raike ami’ty talèn’ anjomban-droae’ey, vaho
-apoho an-kibohom-pamantañañe aolo’ i fañina fifampikaoñan-tikañey.
-Ie amy zao, hitaroke ty kobai’ ondaty ho joboñeko; le hijihetse ty fitoreo’ o ana’ Israeleo amako, i fiñeo­ñeoñe ama’o lomoñandroy.
-Aa le nisaontsy amo ana’ Israeleo t’i Mosè vaho songa nanolotse kobay raike o talèo, ty aman-talèn’ anjomban-droae’e; kobay folo-ro’ amby; le nitraok’ amo kobai’ iareoo ty kobai’ i Aharone
-vaho napo’ i Mosè añatrefa’ Iehovà amy kibohom-pañinay i kobaiñe rey.
-Aa naho nimoak’ amy kibohom-pañinay t’i Mosè te loak’andro, hehe te nitaroke naho namotiboty naho namòñe vaho namoa mahabibo àñoñe ty kobai’ i Aharone añ’anjomba’ i Levy.
-Le naaka’ i Mosè boak’ añatrefa’ Iehovà mb’ amo ana’ Israele iabio i kobay rey; nahaisake iereo vaho sambe nandrambe ty kobai’e.
-Le hoe t’Iehovà amy Mosè, Ampolio aolo’ i fañinay ty kobai’ i Aharone ho viloñe amo manjehatseo, hampigadoñe ty fañinjea’ iareo ahy tsy mone hikenkañe.
-Aa le nanoe’ i Mosè izay; i nandilia’ Iehovà azey ty nanoe’e.
-Le hoe o ana’Israeleo amy Mosè, Mihamomoke zahay, motso, fonga mongotse!
-Ndra iaia mitotoke mb’eo, naho mañarine i kivoho’ Iehovày le havetrake. Kila hibanìtse hao zahay?
+Le natoro’ Iehovà amy Mosè ty hoe: Le hoe ty nitsara’ Iehovà amy Mosè:
+Misaontsia amy Elazare ana’ i Aharone Mpisoroñe handrambesa’e o sadron’ afo boak’ amy afoio, le hampiparatsahe’e ey i afoy, fa miavake irezay. Misaontsia amo ana’ Israeleo naho mangala kobay amo anjomban-droae iabio, ze talèn’ anjomban-droae—kobay folo-ro’amby, ie songa hanokitse ty tahina’e amy kobai’ey.
+Ampipeho ho endraendra hanaroñe i kitreliy o sadron’ afo’ ondaty rinotsan-kakeo ty fiai’iareoo, fa miavake amy te nengaeñe am’ Iehovà, le ho viloñe amo ana’ Israeleo. Le sokiro an-kobai’ i Levy eo ty tahina’ i Aharone. Sindre kobain-droae raike ami’ty talèn’ anjomban-droae’ey, vaho
+Aa le rinambe’ i Elazare mpisoroñe o sadron’ afo torisìke nengae’ i niforototoeñe reio, vaho nipepeheñe ho kape’ i kitreliy, apoho an-kibohom-pamantañañe aolo’ i fañina fifampikaoñan-tikañey.
+ho faniahiañe o ana’ Israeleo te tsy hitotoke mb’eo ty ondaty sotra tsy tarira’ i Aharone hañembok’ am’ Iehovà, tsy mone hanahake i Korahke naho o mpiama’eo, amy nitsara’ Iehovà am-pità’ i Mosèy. Ie amy zao, hitaroke ty kobai’ ondaty ho joboñeko; le hijihetse ty fitoreo’ o ana’ Israeleo amako, i fiñeo­ñeoñe ama’o lomoñandroy.
+Ie amy loakandroy le fonga niñeoñeoñe amy Mosè naho i Aharone i valobohòn’ ana’ Israeley ami’ty hoe, Fa zinama’ areo ondati’ Iehovào. Aa le nisaontsy amo ana’ Israeleo t’i Mosè vaho songa nanolotse kobay raike o talèo, ty aman-talèn’ anjomban-droae’e; kobay folo-ro’ amby; le nitraok’ amo kobai’ iareoo ty kobai’ i Aharone
+Aa naho nifanontoñe i valobohòkey hiatreatre amy Mosè naho amy Aharone, f’ie nitolike mb’ an-kibohom-pamantañam-b’eo le hehe te nisaroña’ i rahoñey vaho niboake ty enge’ Iehovà. vaho napo’ i Mosè añatrefa’ Iehovà amy kibohom-pañinay i kobaiñe rey.
+Aa le niheo mb’ aolo’ i kibohom-pamantañañey mb’eo t’i Mosè naho i Aharone. Aa naho nimoak’ amy kibohom-pañinay t’i Mosè te loak’andro, hehe te nitaroke naho namotiboty naho namòñe vaho namoa mahabibo àñoñe ty kobai’ i Aharone añ’anjomba’ i Levy.
+Le nitsara amy Mosè t’Iehovà nanao ty hoe: Le naaka’ i Mosè boak’ añatrefa’ Iehovà mb’ amo ana’ Israele iabio i kobay rey; nahaisake iereo vaho sambe nandrambe ty kobai’e.
+Isitaho o valobohòkeo hamorototoako aniany. Ie nibabok’ an-daharañe, Le hoe t’Iehovà amy Mosè, Ampolio aolo’ i fañinay ty kobai’ i Aharone ho viloñe amo manjehatseo, hampigadoñe ty fañinjea’ iareo ahy tsy mone hikenkañe.
+le hoe t’i Mosè amy Aharone, Angalao sadron’ afo le apoho ama’e ty afo boak’ amy kitreliy, le ampipoho emboke naho mihitrifa masìka mb’amy valobohòkey ho fijebañañe iareo amy te niboak’ am’ Iehovà ty fombo vaho fa namototse i angorosiy. Aa le nanoe’ i Mosè izay; i nandilia’ Iehovà azey ty nanoe’e.
+Aa ie mbe nisaontsy t’i Mosè, le rinambe’ i Aharone izay le nipitsik’ an-day naneñateña i valobohòkey; naho tendreke te niorotse am’ ondatio i angorosiy; Napo’e ama’e ty emboke vaho nijebañe ondatio. Le hoe o ana’Israeleo amy Mosè, Mihamomoke zahay, motso, fonga mongotse!
+Aa ie nijohañe añivo’ o mateo naho o veloñeo le nijihetse i angorosiy. Ndra iaia mitotoke mb’eo, naho mañarine i kivoho’ Iehovày le havetrake. Kila hibanìtse hao zahay?
 Hoe ty nitsara’ Iehovà amy Aharone: Ihe naho o anadahi’oo miharo amo anjomban-droae’oo ro hivave o hakeo’ i efe-miavakey, le ihe rekets’ o anadahi’oo ro hivave o tahi’ i fisoroñañeio.
 Aa le endeso mb’ etoa ka o rahalahi’oo, i fifokoa’ i Leviy, i fifokoan-droae’oy, hireketse ama’o, hitoroñe azo, ihe naho o ana’oo, añatrefa’ i kibohom-pañinay.
 Hiatrak’ azo iereo vaho hañambeñe i kivoho iabiy, fe tsy harinea’ iareo o fana’ i efe-miavakeio naho i kitreliy tsy mone hivetrake, ie naho inahareo.
@@ -4647,6 +4647,7 @@ Mañengà soroñe, banabana oroañe, hàñin-kanintsiñe am’ Iehovà: ty bania
 naho ty enga-mahakama naho enga-rano amy baniay naho amy añondrilahy rey vaho amy vik’ añondrilahy rey, ty amy ia’ iareo naho i fañè’ey;
 le vik’oselahy raike ho engan-kakeo, tovo’ i soroñe boak’ àndroy naho i enga-mahakama’ey vaho i enga-rano’ey.
 Ie ty hengae’ areo am’ Iehovà amo andro namantañañeo, (mandikoatse ze enga-ava-panta ndra engan-tsatrin’ arofo’ areo) ho fisoroña’ areo naho ho enga-rano’ areo vaho ho engam-pañanintsi’ areoo.
+Aa le nitaroñe’ i Mosè amo ana’ Israeleo, ze hene nafanto’ Iehovà amy Mosèy.
 
 Le nanao ty hoe amo talèm-pifokoa’ o ana’ Israeleoo t’i Mosè: Zao ty nandilia’ Iehovà:
 Naho mifanta am’ Iehovà t’indaty, ndra mitangèñe hifahara’ ty arofo’e ami’ty lahatse, le tsy hivalik’ amy saontsi’ey re, fa hanoe’e ze hene miakatse am-palie’e.
@@ -4662,8 +4663,7 @@ naho nahajanjiñe aze i vali’ey ie tsy nandietse, le hijadoñe iaby o nifantà
 F’ie avali’ ty vali’e amy andro naha­janjiña’ey, le tsy hijadoñe ndra inoñ’ inoñe niakats’ an-tsoñi’e amo ni­fantà’eo ndra amy titike namahora’e trokey; fa navali’ ty vali’e, le hapo’ Iehovà re ty ama’e.
 Ze fanta ndra titike famahoram-batañe, le azo ty vali’e ajadoñe ndra faoheñe.
 Fe naho tsy mañaoñe aze handro am-pohatse i vali’ey, le hene hampijadoñe’e o nifantà’eo, naho ze mamahotse ty tro’e; toe niventese’e, kanao tsy nisaontsie’e amy andro nahajanjiña’e azey.
-Aa naho avali’e t’ie añe i nijanjiña’e azey le hivave i tahi’ey i lahilahiy.
-Ie o fañè linili’ Iehovà añamy Mosèo amy t’indaty naho i vali’ey, naho aman-drae naho ty anak’ ampela’e mbe kede añ’ anjomban-drae’e ao.
+Aa naho avali’e t’ie añe i nijanjiña’e azey le hivave i tahi’ey i lahilahiy. Ie o fañè linili’ Iehovà añamy Mosèo amy t’indaty naho i vali’ey, naho aman-drae naho ty anak’ ampela’e mbe kede añ’ anjomban-drae’e ao.
 Hoe ty nitsara’ Iehovà amy Mosè,
 Ampamaleo fate amo nte-Midianeo o ana’ Israeleo. Ie heneke izay le hatontoñe am’ondati’oo irehe.
 Aa le nisaontsy am’ ondatio t’i Mosè nanao ty hoe: Ampidiaño ty ila’e ama’ areo hialy, vaho iraho haname o nte-Midianeo hamale i Midiane ty am’ Iehovà.
@@ -5271,6 +5271,7 @@ Ambeno naho janjiño o tsara iaby lilieko azoo, soa t’ie hiraorao naho o ana�
 Aa ie aitoa’ Iehovà Andrianaña­hare’o aolo’o o fifeheañe handenà’o ho tavane’oo naho limbeza’o vaho fa mimoneñ’ an-tane’ iareo ao,
 le mitaoa tsy ho tra-pandrike ami’ty fitsi­kombea’o iareo, ie mongoreñe aolo’o eo, le ko añontanea’o o ndrahare’ iareoo ami’ty hoe, Aa vaho akore ty fitoroña’ ondaty retìa o ndrahare’ iareoo? hanoeko ka.
 Ko manao izay am’ Iehovà Andrianañahare’o, amy te ze atao hativàñe am’ Iehovà, o raha vata’e heje’eo le fonga nanoe’ iereo amo ndrahare’ iareoo mbore sinodo’ iareo añ’afo ao amo ndrahare’eo o ana-dahi’eo naho o anak’ampela’eo.
+
 Aa le ambeno naho oriho ze hene andiliako anahareo: ko anovoña’o vaho ko añafaha’o.
 Aa naho miongak’ ama’o ao ty mpitoky ndra ty mpañinofy nofy mitalily viloñe ndra raha tsitantane,
 naho heneke i viloñey ndra i raha tsitantane natalili’ey vaho manao ty hoe re: Antao hañorike ‘ndrahare ila’e (ze tsy nifohi’ areo) naho hitoroñe iareo
@@ -5288,8 +5289,7 @@ Niakatse boak’ ama’ areo ao ze o ana’ i Beliale zao nitaoñe ty mpimone’
 Le hotsohotsò, naho tsikaraho, vaho aodio. Aa naho rekets’ i sisiý te toe nanoeñe ama’o ao i hativañe zay,
 le toe ho zevoñe’o an-dela-pibara o mpimone’ i rovaio, hamongorañe aze an-dela-pibara, naho ze he’e ama’e ao naho o hare iabio.
 Le hatonto’o an-kiririsam-pivory ao o nikopahe’o iabio; le orò añ’afo i rovay naho o fonga kinopakeo, ie iaby, ho am’ Iehovà Andrianañahare’o, ie ho votre kòake kitro katroke; tsy haoreñe ka.
-Asoao tsy hipiteham-pità’o o raha navìke ho rotsaheñeo, soa te hitolik’ amy fifombo’e miforoforoy t’Iehovà, hitretreza’e, naho hiferenaiña’e vaho hamorohota’e manahake i nitsarae’e aman-droae’oy,
-naho toe tsendreñe’o ty fiarañanaña’ Iehovà Andrianañahare’o, hambena’o o lili’e lilieko azo androanio, hanoe’o ty hiti’e am-pihaino’ Iehovà Andrianañahare’o.
+Asoao tsy hipiteham-pità’o o raha navìke ho rotsaheñeo, soa te hitolik’ amy fifombo’e miforoforoy t’Iehovà, hitretreza’e, naho hiferenaiña’e vaho hamorohota’e manahake i nitsarae’e aman-droae’oy, naho toe tsendreñe’o ty fiarañanaña’ Iehovà Andrianañahare’o, hambena’o o lili’e lilieko azo androanio, hanoe’o ty hiti’e am-pihaino’ Iehovà Andrianañahare’o.
 Ie fa ana’ Iehovà Andria­nañahare’ areo, ko mandriadria-tsandriñe ndra mampipeake ty ambonem-pihaino’ areo ty amo vilasio.
 Amy t’ie ondaty-miavake am’ Iehovà Andrianañahare’o, naho jinobo’ Iehovà h’ondaty an-koroji’e ao boak’ amy ze foko ambone’ ty tane toy.
 Ko kamae’ areo ty raha tiva.
@@ -5499,6 +5499,7 @@ Ko anoañ’ inoñ’ inoñe amy somondraray fa tsy anañan-kakeo mañeva fate, 
 amy te nizoe’ indatiy an-kalok’ añe i somondraray; nikaikaike i somondrara nifofoeñey, fe tsy teo ty handrombake.
 Aa naho tendreke somondrara tsy nifofoeñe t’indaty le azi’e naho vahora’e vaho vamba iereo;
 le tsy mahay tsy mañondroke drala volafoty limampolo aman-drae’e indaty namahots’ azey, le ho vali’e i ampelay kanao narè’e; tsy mahazo mañary aze re ampara-pigadoña’ o andro’eo.
+
 Ao tsy ho rambese’ ondaty ty valin-drae’e, hamotera’e ty zon-drae’e.
 Tsy hiheo am-pivori’ Iehovà ty aman-tabiry dinemoke ndra filahiañe nianto.
 Tsy hitraok’ ami’ty fivori’ Iehovà ty anak’ amontoñe; tsy hizilik’ am-pivori’ Iehovà ao re pak’an-tarira’e faha folo.
@@ -5523,8 +5524,7 @@ Azo’o angalañ’ ana’e ty renetane nam­pi­songoe’o, f’ie longo, tsy h
 Ie mifanta am’ Iehovà Andriana­ñahare’o, ko aìke ty hañenefa’o aze amy te tsy mete tsy hipaia’ Iehovà Andrianañahare’o, vaho ho hakeo ama’o.
 F’ie tsy hanan-tahiñe te mifoneñe tsy hifanta.
 Ano am-pahimbañañe ze miakatse am-pivimbi’o; manahake te fanta nisatrie’o am’ Iehovà Andria­nañahare’o, i nampitamam-palie’oy.
-Naho iziliha’o ty tanem-balobo’ ondatio le azo’o kamaeñe o valobo’eo ampara’ te ànjañe, ze satrie’o, f’ie tsy ampijoña’o an-karo’o ao.
-Ie miranga tonda’ ondaty miriñariña mahakama, le azo’o tifoeñe an-taña’o ty loha’e fe tsy añoharam-pitatahañe i mahakaman-drañe’o miriñariñay.
+Naho iziliha’o ty tanem-balobo’ ondatio le azo’o kamaeñe o valobo’eo ampara’ te ànjañe, ze satrie’o, f’ie tsy ampijoña’o an-karo’o ao. Ie miranga tonda’ ondaty miriñariña mahakama, le azo’o tifoeñe an-taña’o ty loha’e fe tsy añoharam-pitatahañe i mahakaman-drañe’o miriñariñay.
 Naho mangala-baly t’indaty, naho engae’e ho tañanjomba’e, ie añe, malaiñe aze ami’ty hila nizoeñe ama’e, le hanokira’e taratasim-pifanarahañe, le ajò’e am-pità’e ao, vaho am-pom­ba’e hiakatse i anjomba’ey mb’eo;
 ie mienga i anjombay, le ondaty hafa ro mifanambaly ama’e,
 aa ie heje’ indaty faharoey naho anokira’e ravem-pifanarahañe, naho ampijoñe’e am-pità’e, vaho ampiavote’e amy anjomba’ey mb’eo (ke te nivilasy indaty faharoe nañenga azey);
@@ -5679,8 +5679,7 @@ Le tsy hierañerañe amy tane rezay irehe, naho tsy hahatrea fitofàñe ao ty le
 Hiradorado am-pimarimarihañe aolo’o eo ty fiai’o le hampirevendreveñe azo ty tariñ’ andro naho ty haleñe le ho po-kazavàñ’ arofo ty ami’ty fiai’o.
 Hanao ty hoe irehe te maraindray: Ee any t’ie nihariva, naho an-kariva, ty hoe, Ehe t’ie nimaraindraiñe! ty amy fihembañañ’ arofo’oy, amy inevenevera’oy, naho ty amo isahem-pihaino’o ho isa’oo.
 Le hampolie’ Iehovà mb’e Mitsraime an-tsambo, amy lalañe nitaro­ñeko azoy te: Tsy handena’o ka! añe irehe ro handeta sandriñe an-drafelahi’o h’on­devo-lahy naho ondevo-ampela, fe tsy eo ty hikalo azo.
-Zao ty tsaram-pañina nampanoe’ Iehovà i Mosè amo ana’ Israeleo an-tane Moabe ao ho tovo’ i fañina nanoe’e am’iereo e Korebey.
-Le kinoi’i Mosè t’Israele iaby vaho nanoe’e ty hoe, Fa niisa’ areo ze hene fitoloña’ Iehovà añatrefam-pihaino’ areo an-tane Mitsraime ao amy Parò naho amo fonga mpitoro’eo vaho amy hene tane’ey.
+Zao ty tsaram-pañina nampanoe’ Iehovà i Mosè amo ana’ Israeleo an-tane Moabe ao ho tovo’ i fañina nanoe’e am’iereo e Korebey. Le kinoi’i Mosè t’Israele iaby vaho nanoe’e ty hoe, Fa niisa’ areo ze hene fitoloña’ Iehovà añatrefam-pihaino’ areo an-tane Mitsraime ao amy Parò naho amo fonga mpitoro’eo vaho amy hene tane’ey.
 O fitsohañe ra’elahy niisam-pihaino’oo, naho o viloñeo vaho o halatsàñeo.
 F’ie mboe tsy tinolo’ Iehovà arofo mahaoniñe, ndra fihaino mahaisake, ndra ravembia mahajanjiñe pake henanekeo.
 Mbore niaoloako efa-polo taoñe am-patrambey ao, le tsy nikoneats’ ama’ areo o saro’ areoo, vaho tsy nihahambo am-pandia’o eo ty hana’o.
@@ -5708,6 +5707,7 @@ naho nimb’ amo ndrahare ila’eo, nitoroñe irezay, ndrahare tsy nifohi’ iar
 Toly ndra nisolebotse amo taneo ty haviñera’ Iehovà hametsaha’e ama’e ze fonga fatse sinokitse ami’ty boke toy.
 Le nombota’ Iehovà an-keloke naho an-kaviñerañe vaho am-pifomboañe an-tane’ iareo ao vaho sinoi’e mb’an-tane hafa añe am-para-henaneo.
 A Iehovà Andrianañaharentika o raha mietakeo le an-tikañe naho amo anan-tikañe nainai’eo o raha naboakeo, soa te hanoentika o hene enta’ ty Hake toio.
+
 Aa naho fa nifetsak’ ama’o i he’e rezay, ty tata naho ty fatse napoko aña­trefa’o, naho ho tiahi’o an-troke ao, amo hene tane nandroaha’ Iehovà An­dria­naña­hare’o azoo,
 naho ie mimpoly mb’ am’ Iehovà An­dria­naña­hare’o, vaho horihe’o i fiarañanaña’ey, o raha iaby lilieko azo androanio, ihe naho o keleia’oo, an-kaampon’ arofo vaho an-kaliforam-pa­ñova,
 le hafote’ Iehovà Andria­naña­hare’o ama’o i fandrohizañey ho fitretrezañe, le hibalike hanontoñe azo amo rofoko iaby nampi­paraitahe’ Iehovà Andrianañahare’oo.
@@ -7771,6 +7771,7 @@ Le hoe ty fipaza’ Ionatane amy ajalahiy: Ma­lisà irehe, masikà, ko mitoboke
 Fe tsy napota’ i ajalahiy; Ionatane naho i Davide avao ty nahafohiñe.
 Natolo’ Ionatane amy ajalahiy o fialia’eo le nanoa’e ty hoe: Akia, endeso an-drova ao retoy.
 Ie añe i ajalahiy, le niongak’ an-toe’e atimo ao t’i Davide, naho nibabok’ an-daha­ra’e an-tane, niondreke intelo; naho nifañoroke iereo vaho nifampirovetse, i Davide ty nandikoatse.
+
 Le hoe t’Ionatane amy Davide: Akia am-panintsiñañe, amy nititihan-tika an-tahina’ Iehovà ty hoe: Ho añivon-tika roe t’Iehovà, naho añivo’ o tirikoo naho o tiri’oo nainai’e.
 Aa le nienga re nañavelo mb’eo vaho nimoak’ an-drova ao t’Ionatane.
 Niheo mb’amy Nobe mb’ amy Akimeleke mpisoroñe mb’eo t’i Davide le nihondrahondra mb’amy Davide mb’eo t’i Akimeleke, nanao ty hoe: Manao akore te ihe jòriñe tsy ama’ondaty?
@@ -7786,8 +7787,7 @@ Niongak’ amy zao t’i Davide, nibioñe mb’eo ami’ty fihembaña’e i Saol
 Le hoe ty asa’ o mpitoro’ i Akiseo ama’e: Tsy i Davide mpanjaka’ i taney hao toke? Tsy ie ty nitakasie’ iereo an-tsinjake, ty hoe: Fa namono ty arivo’e t’i Saole, naho ty aleale’e t’i Davide?
 Nahaja’ i Davide an-tro’e ao i entañe zay, vaho nihembaña’e t’i Akise mpanjaka’ i Gate.
 Aa le no­vae’e añatrefa’ iereo ty vinta’e nanao sare gege am-pità’ iareo, nanoki­tsokitse an-dalam-bey eo naho nampi­orihe’e am-bolon-tsoma’e ty ìve’e.
-Le hoe t’i Akise amo mpitoro’eo, Heheke te seretse t’indaty tiañe; ino ty nandesa’ areo aze amako?
-Mipay ondaty gege hao iraho te nandesa’ areo atoy hihisa ami’ty hagegea’e añatrefako etoa? Himoak’ añ’ anjombako ao hao t’indaty tia?
+Le hoe t’i Akise amo mpitoro’eo, Heheke te seretse t’indaty tiañe; ino ty nandesa’ areo aze amako? Mipay ondaty gege hao iraho te nandesa’ areo atoy hihisa ami’ty hagegea’e añatrefako etoa? Himoak’ añ’ anjombako ao hao t’indaty tia?
 Aa le nienga t’i Davide, nihere­reake mb’an-dakato’ i Ado­lame ao, le ie jinanji’ o longo’eo naho i anjomban-drae’e iabiy le nizotso mb’ama’e mb’eo.
 Ze hene niampoheke, naho o mpisongoo, naho o nafaitse an-trokeo ro nifanontoñe ama’e ao, le nifehè’e; va’e efajato o nirekets’ ama’eo.
 Niakatse boak’ao t’i Davide nimb’e Mitspè e Moabe mb’eo, le nanao ty hoe amy mpanjaka’ i Moabey. Ehe apoho holy mb’ etoa hey ty raeko naho i reneko ho ama’o ampara’ te fantako ty hanoen’ Añahare amako.
@@ -7839,6 +7839,7 @@ Nimb’eo t’i Saole rekets’ o mpiama’eo hitsoek’ aze. Nitalilieñe t’i
 Añ’ ila’ i vohitsey atoy t’i Saole le añ’ ila’e aroa t’i Davide naho o mpiama’eo; nalisa nienga ty fiatrefa’ i Saole t’i Davide, fa hiarikoboñe i Davide naho ondati’eo t’i Saole naho ondati’eo hitsepak’ aze.
 Fe nivotrak’ amy Saole ty mpihitrike, nanao ty hoe: Masikà, mihavia, fa mitavañe ty tanen-tika o nte-Pilistio.
 Aa le nimpoly t’i Saole tsy nañoridañe i Davide fa nionjomb’ amo nte-Pilistio mb’eo; aa le natao Sela-Kamalekote i toetsey.
+
 Nionjoñe boak’ ao t’i Davide vaho nimoneñe an-kijoli’ i En-gedy ao.
 Aa ie nimpoly amy nañorihañe o nte-Pilistioy t’i Saole le natalily aze ty hoe: Inao! am-patrambey En-Gedy añe t’i Davide.
 Rinambe’ i Saole amy zao t’indaty telo arivo jinoboñe amy Israele, hipay i Davide am-batovatoe’ o ose-lìo.
@@ -7860,8 +7861,7 @@ Le hoe re amy Davide: Vantañe te amako irehe; soa ty na­noa’o ahy vaho raty 
 vaho nitalilie’o anindroany ty nanoa’o ahy, te natolo’ Iehovà am-pità’o, le tsy zinevo’o.
 Aa naho tendrek’ am’ ondaty i rafelahi’ey, henga’e hienga hao? Ee t’ie ho tambeza’ Iehovà amy hasoa nanoe’o amako anin­droaniy.
 Aa inao, apotako t’ie ho mpanjaka, vaho hajadoñe am-pità’o ty fifeheañe Israele.
-Mifañinà amako arè, amy Iehovà, te tsy haitoa’o o tiriko manonjohy ahio vaho tsy ho mongore’o añ’anjomban-draeko ty añarako.
-Le nifanta amy Saole t’i Davide vaho nimpoly t’i Saole; fe nionjomb’ amy fipalirañe fatra­tsey t’i Davide naho ondati’eo.
+Mifañinà amako arè, amy Iehovà, te tsy haitoa’o o tiriko manonjohy ahio vaho tsy ho mongore’o añ’anjomban-draeko ty añarako. Le nifanta amy Saole t’i Davide vaho nimpoly t’i Saole; fe nionjomb’ amy fipalirañe fatra­tsey t’i Davide naho ondati’eo.
 Nihomake t’i Samoele; le hene nifanontoñe ama’e t’Isra­ele nandala aze vaho nalenteke an-kiboho’e e Ramà ao. Niongak’ amy zao t’i Davide nizotso mb’am-patrambei’ i Parane mb’eo.
 Teo t’indaty e Moane ao, e Karmele añe ty vara’e; mpañaleale indatiy; telo arivo ty añondri’e naho arivo ty ose’e; ie nañitsike o añondri’eo e Karmele añe henane zay.
 I Nabale ty tahina’ indatiy naho Abigàle ty tahinan-tañan­jomba’e. Nahilala naho soa vintañe i rakembay, fe nigañe indatiy, lo-tsereke iaby ze sata’e; tarira’ i Kalibò.
@@ -8511,6 +8511,7 @@ Le hoe i mpanjakay: Mbe tsy mañahy hao i ajalahy Absalomey? Le hoe ty natoi’ 
 Le hoe i mpanjakay, Misitsira mb’etoa, le mijohaña ey. Aa le niveve re, nijohañe.
 Ingo te niheo mb’eo amy zao i nte-Kosiy; le hoe i nte-Kosiy: Talily ho a i talèko mpanjakay; fa vinale’ Iehovà fate ty azo anindroany amo nitroatse ama’o iabio.
 Le hoe i mpanjakay amy Kosiy: Mbe janga hao i ajalahi’ Absalomey?’ Aa hoe ty natoi’ i Kosy: Ee te hanahake i ajalahiy ze hene rafelahi’ i talèko mpanjakay naho ze miatreatre azo hijoy.
+
 Nininininy amy zao i mpanjakay vaho nañambone mb’ an-traño ambone’ i lalañey mb’eo nirovetse, le nanao ty hoe t’ie nimb’eo: O Absalome anako, tiriko, o Absalome anako! ee te izaho ty nisolom-pihomake ho azo ry Absalome amoriko, anako!
 Sinaontsy am’ Ioabe ty hoe: Inay! mirovetse naho mandala i Absalome ty mpanjaka.
 Aa le nifotetse ho fandalàñe i fandreketañey, kanao jinanji’ ondatio amy andro zay ty hoe, Mirovetse i ana’ey i mpanjakay.
@@ -8553,8 +8554,7 @@ Aa le hoe i mpanjakay: Hindre hitsak’ amako t’i Kimhame, le hanoeko ama’e 
 Nitsake Iordaney ondaty iabio, ni­tsake ka i mpanjakay naho norofa’ i mpanjakay t’i Barzilaý naho nitata aze vaho nimpoly mb’ an-toe’e añe.
 Aa le nigodam-b’e Gilgale i mpanjakay, le nindre ama’e nits­ake mb’eo t’i Kimhame vaho songa nampi­tsake i mpanjakay o nte-Iehodao naho ty vaki’ o ana’ Israeleo.
 Niheo mb’amy mpanjakay o ana’ Israele iabio, nanao ty hoe amy mpanjakay: Manao akore te nampikametse azo o roahalahi’ay nte-Iehodao, naho nampitsahe’ iereo Iordaney i mpanjakay rekets’ o añ’ an­jomba’eo vaho ondati’ i Davide iabio?
-Le hoe ty natoi’ o nte-Iehoda iabio amo ana’ Israeleo: Amy te marine filongoañe ama’ay i mpanjakay; aa le ino ty mahabosek’ anahareo amo raha zao? nikama ami’ty drala’ i mpanjakay hao zahay? Nitambezeñe hao?
-Le hoe ty natoi’ o ana’ Israeleo o nte-Iehodao, Manañe anjara folo amy mpanjakay zahay aa le ambone’ ty anahareo ty zo’ay amy Davide; akore arè ty añinjea’ areo anay, ie tsy niera ama’ay heike hampipoliañe i mpanjakan-tikañey? Mbe nasiake te amy saontsi’ o nte-Israleoy ty enta’ o nte-Iehodao.
+Le hoe ty natoi’ o nte-Iehoda iabio amo ana’ Israeleo: Amy te marine filongoañe ama’ay i mpanjakay; aa le ino ty mahabosek’ anahareo amo raha zao? nikama ami’ty drala’ i mpanjakay hao zahay? Nitambezeñe hao? Le hoe ty natoi’ o ana’ Israeleo o nte-Iehodao, Manañe anjara folo amy mpanjakay zahay aa le ambone’ ty anahareo ty zo’ay amy Davide; akore arè ty añinjea’ areo anay, ie tsy niera ama’ay heike hampipoliañe i mpanjakan-tikañey? Mbe nasiake te amy saontsi’ o nte-Israleoy ty enta’ o nte-Iehodao.
 Aa teo t’indaty nte-Beliale, i Sebà ty añara’e, ana’ i Bikrý nte-Ieminý, ie nampipopo tsifan’ añondry nitsey ty hoe: Tsy aman’ anjara amy Davide tika, vaho tsy aman-dova amy ana’ Iesey. Vonjeo ty kiboho’o ry Israeleo.
 Aa le nisitak’ amy Davide o ana’ Israele iabio vaho nañorike i Sebà, ana’ i Bikrý; fe nipitek’ amy mpanjaka’ey t’Iehoda boak’ am’ Iordaney pake Ierosalaime.
 Ie nitotsak’ añ’ an­jomba’e Ierosalaime ao t’i Davide le rinambe’ i mpanjakay i rakemba folo nisakeza’e rey, i nenga’e ao hañambeñe i anjombay rey naho nagoro­goda’e an-traño niga­ri­tañe naho nifahana’e, f’ie tsy nimoak’ am’ iereo ka. Le songa nigabeñe ao ampara’ te nivetrake, ie niveloñe ho vantotse avao.
@@ -8865,38 +8865,38 @@ Iehosafate, ana’ i Paroà e Isakare;
 i Simeý ana’ i Elà, e Beniamine;
 i Gebere ana’ i Orý, an-tane’ i Gilade, an-tane’ i Sikone mpanjaka’ o nte-Amoreo, naho a i Oge mpanjaka’ i Basane; vaho raike ty mpifehe i tane iabiy.
 Nitozantozañe mira amo faseñe añ’ olon-driakeo t’Iehoda naho Israele ami’ty hamaro’e, nikama, ninoñe vaho nifale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nifehe ze hene fifeheañe boak’ amy Sakay pak’an-tane’ o nte-Pelistio, sikala añ’efe-tane’ i Mitsraime; sindre ninday roro­ñe vaho nitoroñe i Selomò amo fonga andro niveloma’eo.
 Ty anjara’ i Selomò ami’ty andro raike le mona’e telo-polo kore, vaho mahakama enempolo kore;
 añombe vondrake folo naho añombe boak’ am-piandrazañe roa-polo naho añondry zato, rekets’ ayale naho tsebý naho yakmore vaho voroñe vondrake.
 Amy te nifeheze’e iaby i tane boak’ amy Sakay atoiy, boak’ e Tipsà pake Gazà; fonga nifehè’e o mpanjaka an-dafe’ i Sakay atoio; vaho nierañerañe iaby ty nañohok’ aze.
-Aa le niaiñ’ añoleñañe t’Iehoda naho Israele, songa ondaty ambane’ i vahe’ey naho i sakoa’ey, boake Dane pake Beer­sebà, amo hene’ andro’ i Selomòo.
-Nanañe kijan-tsoavala efats’ ale ho a o sarete’eo t’i Selomò naho mpiningi-tsoavala rai-ale-tsi-ro’arivo.
-Namahañe mahakama amy Selomò i mpifeleke rey, ho amy maro nimoak’ am-pandambaña’ i Selomò mpanjakay, songa ondaty ami’ty vola’e, le tsy ama’e ty nengañe mipoke.
-Vaho nandesa’ iareo vare hordea naho ahetse o soavalao vaho o soavala mpipitsikeo sindre mb’ an-toe’e ao, songa ondaty ty amy lili’ey.
-Tinolon’ Añahare hihitse naho hilala ambone, t’i Selomò, naho arofo manga­dagadañe, manahake ze hene’ faseñe añ’ olon-driakey.
-Nandikoatse ty hihi’ o anan-tatiñanañe iabio naho ty hihi’ i Mitsraime iaby ty hihi’ i Selomò.
-Toe nahihitse te amy ze kila ondaty, naho te amy Etane nte-Zerake naho i Hemane naho i Kal’kole naho i Dardà vaho o ana’ i Makoleo; le nifohin-tahinañe amy ze hene fifeheañe mb’eo mb’eo.
-Telo-arivo ty razan-drehake nitaroñe’e, vaho arivo-lime amby o sabo’eo.
-Nita­lilie’e ze hatae iaby, ty mendoraveñe e Lebanone añe naho i seva mitiry an-tsifin-kijoliy; tinaro’e ze biby naho voroñe naho ze raha milali­laly vaho fiañe.
-Nimb’ eo boak’ amy ze kilakila’ ndaty ty hijanjiñe o hihi’ i Selomòo; niboak’ amy ze hene mpanjaka’ ty tane toy ty nahajanjiñe i hihi’ey.
-Nirahe’ i Kirame, mpanjaka’ i Tsore mb’amy Selomò mb’eo o mpitoro’eo, ie nahajanjiñe t’ie norizañe ho mpanjaka handimbe an-drae’e; amy te nainai’e nimpirañetse amy Davide t’i Kirame.
-Aa le nampihitrife’ i Selomò amy Kirame, ty hoe:
-Fohi’o te tsy nahafamboatse anjomba ho a i tahina’ Iehovà Andrianañahare’ey t’i Davide raeko, ty amo hotakotake niariseho azeo ampara’ t’ie napo’ Iehovà ambane’ o lelam-pandia’eo.
-Fe tinolo’ Iehovà Andrianañahareko fitofàñe ty miariary ahy iaby henanekeo, amy t’ie tsy aman-drafelahy ndra raha mizo.
-Ingo, hoe ty volako, Handranjiako anjomba ty tahina’ Iehovà Andrianañahareko, ty amy tsinara’ Iehovà an-draeko Davidey, ty hoe: Ty ana’o hampiambesarako am-piambesa’o ty hamboatse anjom­ba ho ami’ty añarako.
-Aa le lilio ty hamiràñe mendo­raveñe e Lebanone ao, le hindre amo mpi­toro’oo o mpitorokoo vaho hatoloko ama’o ho a o mpi­toro’oo ty tambe toñone’o ho a iareo, ie fohi’o te tsy ama’ay ty mahafira hatae manahake o nte-Tsidoneo.
-Ie jinanji’ i Kirame i saontsi’ i Selo­mòy le vata’e nirebeke vaho nanao ty hoe: Andriañeñe t’Iehovà henane zao, Ie nanolotse i Davide anake mahihitse hifeleke ondaty jabajaba retoañe.
-Aa le nahitri’ i Kirame amy Selomò ty hoe: Fa tsinanoko i nañitrifa’o ahiy le hene hanoeko o satrien’ arofo’oo amo mendoraveñe naho haradrantoo.
-Hazotso’ o mpitorokoo boake Lebanone pak’ an-driak’ añe izay; le hamboareko t’ie hihafo amy riakey handenà’ iereo mb’amy toetse hatoro’o ahio, naho hakatrak’ añe, vaho ho rambese’o; le ihe ty hañeneke i fañiriakoy te hamahana’o mahakama ty akibako.
-Aa le natolo’ i Kirame amy Selo­mò ze fonga mendoraveñe naho hara­dranto ni­paia’e.
-Natolo’ i Selo­mò amy Kirame ka ty vare-bolè ro’ale kore hama­­hana’e o añ’an­­jomba’eo, naho menake finofoke roapolo kore; izay ty natolo’ i Selo­mò amy Kirame taoñ’ an-taoñe.
-Tinolo’ Iehovà hihitse t’i Selomò, ty amy nitsa­rae’e ama’ey le nifampilongo t’i Kirame naho i Se­lomò; vaho nifanao fañina.
-Aa le hene nampi­tsatoha’ i Selomò haba t’Israele, ondaty telo-ale i haba zay
-vaho nampihitrife’e mb’e Lebanone mb’eo, rai-ale boa-bolañe ty nifandimbe, volañe raike e Lebanone añe naho roe volañe añ’ anjomba’e ao; i Adonirame ty nifehe i hàbay.
-Fito-ale ty mpijiny kilanka’ i Selo­mò naho valo-ale ty namira am-bohitse añe;
-mandikoatse izay o mpifehe’ i Selomò nifelek’ o fitoloñañeoo: telo-arivo-tsi-telon-jato ty nifeleke ondatio amo fitoloña’eo.
-Nandily t’i Selo­mò vaho nihaliañe vato jabajaba, vato soa, handranjiañe o mananta’ i anjombaio am-bato pinèke.
-Aa le rinamerame’ o mpandranji’ i Selomòo naho o mpamboa’ i Kirameo naho o nte-Gebaleo irezay, naho nañalankañe o hatae vaho vato nandranjiañe i anjombaio.
+Aa le niaiñ’ añoleñañe t’Iehoda naho Israele, songa ondaty ambane’ i vahe’ey naho i sakoa’ey, boake Dane pake Beer­sebà, amo hene’ andro’ i Selomòo. Ingo, hoe ty volako, Handranjiako anjomba ty tahina’ Iehovà Andrianañahareko, ty amy tsinara’ Iehovà an-draeko Davidey, ty hoe: Ty ana’o hampiambesarako am-piambesa’o ty hamboatse anjom­ba ho ami’ty añarako.
+Nanañe kijan-tsoavala efats’ ale ho a o sarete’eo t’i Selomò naho mpiningi-tsoavala rai-ale-tsi-ro’arivo. Aa le lilio ty hamiràñe mendo­raveñe e Lebanone ao, le hindre amo mpi­toro’oo o mpitorokoo vaho hatoloko ama’o ho a o mpi­toro’oo ty tambe toñone’o ho a iareo, ie fohi’o te tsy ama’ay ty mahafira hatae manahake o nte-Tsidoneo.
+Namahañe mahakama amy Selomò i mpifeleke rey, ho amy maro nimoak’ am-pandambaña’ i Selomò mpanjakay, songa ondaty ami’ty vola’e, le tsy ama’e ty nengañe mipoke. Ie jinanji’ i Kirame i saontsi’ i Selo­mòy le vata’e nirebeke vaho nanao ty hoe: Andriañeñe t’Iehovà henane zao, Ie nanolotse i Davide anake mahihitse hifeleke ondaty jabajaba retoañe.
+Vaho nandesa’ iareo vare hordea naho ahetse o soavalao vaho o soavala mpipitsikeo sindre mb’ an-toe’e ao, songa ondaty ty amy lili’ey. Aa le nahitri’ i Kirame amy Selomò ty hoe: Fa tsinanoko i nañitrifa’o ahiy le hene hanoeko o satrien’ arofo’oo amo mendoraveñe naho haradrantoo.
+Tinolon’ Añahare hihitse naho hilala ambone, t’i Selomò, naho arofo manga­dagadañe, manahake ze hene’ faseñe añ’ olon-driakey. Hazotso’ o mpitorokoo boake Lebanone pak’ an-driak’ añe izay; le hamboareko t’ie hihafo amy riakey handenà’ iereo mb’amy toetse hatoro’o ahio, naho hakatrak’ añe, vaho ho rambese’o; le ihe ty hañeneke i fañiriakoy te hamahana’o mahakama ty akibako.
+Nandikoatse ty hihi’ o anan-tatiñanañe iabio naho ty hihi’ i Mitsraime iaby ty hihi’ i Selomò. Aa le natolo’ i Kirame amy Selo­mò ze fonga mendoraveñe naho hara­dranto ni­paia’e.
+Toe nahihitse te amy ze kila ondaty, naho te amy Etane nte-Zerake naho i Hemane naho i Kal’kole naho i Dardà vaho o ana’ i Makoleo; le nifohin-tahinañe amy ze hene fifeheañe mb’eo mb’eo. Natolo’ i Selo­mò amy Kirame ka ty vare-bolè ro’ale kore hama­­hana’e o añ’an­­jomba’eo, naho menake finofoke roapolo kore; izay ty natolo’ i Selo­mò amy Kirame taoñ’ an-taoñe.
+Telo-arivo ty razan-drehake nitaroñe’e, vaho arivo-lime amby o sabo’eo. Tinolo’ Iehovà hihitse t’i Selomò, ty amy nitsa­rae’e ama’ey le nifampilongo t’i Kirame naho i Se­lomò; vaho nifanao fañina.
+Nita­lilie’e ze hatae iaby, ty mendoraveñe e Lebanone añe naho i seva mitiry an-tsifin-kijoliy; tinaro’e ze biby naho voroñe naho ze raha milali­laly vaho fiañe. Aa le hene nampi­tsatoha’ i Selomò haba t’Israele, ondaty telo-ale i haba zay
+Nimb’ eo boak’ amy ze kilakila’ ndaty ty hijanjiñe o hihi’ i Selomòo; niboak’ amy ze hene mpanjaka’ ty tane toy ty nahajanjiñe i hihi’ey. vaho nampihitrife’e mb’e Lebanone mb’eo, rai-ale boa-bolañe ty nifandimbe, volañe raike e Lebanone añe naho roe volañe añ’ anjomba’e ao; i Adonirame ty nifehe i hàbay.
+Nirahe’ i Kirame, mpanjaka’ i Tsore mb’amy Selomò mb’eo o mpitoro’eo, ie nahajanjiñe t’ie norizañe ho mpanjaka handimbe an-drae’e; amy te nainai’e nimpirañetse amy Davide t’i Kirame. Fito-ale ty mpijiny kilanka’ i Selo­mò naho valo-ale ty namira am-bohitse añe;
+Aa le nampihitrife’ i Selomò amy Kirame, ty hoe: mandikoatse izay o mpifehe’ i Selomò nifelek’ o fitoloñañeoo: telo-arivo-tsi-telon-jato ty nifeleke ondatio amo fitoloña’eo.
+Fohi’o te tsy nahafamboatse anjomba ho a i tahina’ Iehovà Andrianañahare’ey t’i Davide raeko, ty amo hotakotake niariseho azeo ampara’ t’ie napo’ Iehovà ambane’ o lelam-pandia’eo. Nandily t’i Selo­mò vaho nihaliañe vato jabajaba, vato soa, handranjiañe o mananta’ i anjombaio am-bato pinèke.
+Fe tinolo’ Iehovà Andrianañahareko fitofàñe ty miariary ahy iaby henanekeo, amy t’ie tsy aman-drafelahy ndra raha mizo. Aa le rinamerame’ o mpandranji’ i Selomòo naho o mpamboa’ i Kirameo naho o nte-Gebaleo irezay, naho nañalankañe o hatae vaho vato nandranjiañe i anjombaio.
 Aa ie amy taom-paha-efajato-tsi-va­lompolo niavota’ o ana’ Isra­eleo an-tane’ i Mitsraimey, amy taom-paha-efam-pifehea’ i Selo­mò Israeley, amy volantatakey, i volam-paharoey, ty namotorañe ty fañamboara’e i anjomba’ Iehovày.
 Ty anjomba rinanji’ i Selomò am’ Iehovà, ie kiho enem-polo ty andava’e naho kiho roapolo ty am-pohe’e vaho kiho telopolo ty haabo’e.
 Ty lavaranga aolo’ i efe-bei’ i anjombay le roapolo kiho ty andava’e, mira ami’ty am-pohe’ i anjombay; vaho folo kiho ty am-pohe’e aolo’ i anjom­bay eo.
@@ -9523,6 +9523,7 @@ O fitoloña’ i Akabe ila’eo naho o nanoe’e iabio naho i anjomba niranjie�
 Aa le nitrao-piròtse aman-droae’e t’i Akabe; vaho nandimbe aze nifehe t’i Ahkazià ana’e.
 Niorotse nifehe e Iehoda t’Iehosafate ana’ i Asa amy taom-paha-efa’ i Aka­be mpanjaka’ Israeley.
 Ni-telopolo taoñe lime amby t’Iehosafate t’ie namototse nifeleke; le taoñe roapolo-lime amby ty nifehea’e e Ierosalaime ao. I Azobà, ana’ i Silký ty tahinan-drene’e.
+
 Nañavelo ami’ty lia’ i Asà rae’e re, tsy nivìk’ ama’e le ze mahi­ty am-pihaino’ Iehovà avao ty nanoe’e;
 fe tsy nafahañe añe o tambohoo; le mbe nanao soroñe naho nañenga amo tambohoo ondatio.
 Nifampilongo amy mpanjaka’ Israeley t’Iehosafate.
@@ -9534,7 +9535,6 @@ Le hoe t’i Ahkazià ana’ i Akabe am’ Iehosafate: Angao hindre lia amo mpi�
 Le nitrao-piròtse aman-droae’e t’Iehosafate, naho nalentek’ aman-droae’e an-drova’ i Davide, rae’e ao vaho nandimbe aze nifehe t’Iehorame ana’e.
 Niorotse nifehe Israele e Somerone ao t’i Ahkazià amy taom-paha-folo-fito’ ambi’ Iehosafate mpanjaka’ Iehoday, le nifehe Israele roe taoñe,
 fe nanao halò-tserehañe am-pivazohoa’ Iehovà naho nañavelo an-tsa­tan-drae’e naho an-tsatan-drene’e naho an-tsata’ Iarovame ana’ i Nebate, ie nampa­nan-kakeo’ Israele. Nitoroñe i Baale re naho nitalahoa’e vaho nisigihe’e t’Iehovà Andrianañahare’ Israele, fonga nitsikombè’e o nanoen-droae’eo.
-
 Ie nihomake t’i Akabe, le niola am’ Israele t’i Moabe.
 Nitsirikoake boak’ amy tsingarakara’ i efe’e ambone eo e Someroney t’i Ahkazià le nisiloke vaho nampa­ñi­trife’e ty ìrake, ami’ty hoe: Akia. añontaneo amy Baalezebobe, ‘ndra­hare’ i Ekrone, ke hiambeñe iraho amo areteko zao.
 Fe hoe ty tsara’ i anjeli’ Iehovà amy Elià nte-Tisbý: Miongaha, akia mifanalakà amo ìra’ i mpanjaka’ i Someroneio, le ano ty hoe: Aa vaho tsy aman’ Añahare hao t’Israele, t’ie homb’ amy Baalezebobe ‘ndrahare’ i Ekrone hañontane aze?
@@ -9851,6 +9851,7 @@ Le nanao fañina añivo’ Iehovà naho i mpanjakay naho ondatio t’Iehoiadà, 
 Nimb’ añ’ anjomba’ i Baale mb’eo ze hene ondati’ i taney nandrotsake naho nandorodemoke o kitreli’eo naho o sare’eo, vaho zinevo’ iereo t’i Matane mpisoro’ i Baale añatrefa’ o kitrelio. Le nanendre mpifehen’ anjomba’ Iehovà i mpisoroñey.
 Rinambe’e amy zao o mpifehe-zatoo naho o mpifeleke mpañambeñeo naho ondati’ i taney iabio, le nazotso’ iareo boak’ añ’anjomba’ Iehovà i mpanjakay naho niary mb’ an-dalam­beim-pigaritse mb’ añ’ anjomba’ i mpanjakay mb’eo. Le niambesara’e i fiambesam-panjakay.
 Nirebeke iaby ondati’ i taneio naho nitofa i rovay ie fa zinevo’ iereo am-pibara t’i Atalià añ’ anjombam-panjaka ao.
+
 Fito taoñe t’Iehoase te niorotse nifehe.
 Tan-taom-paha-fitom-pifehea’ Ieho ty namotora’ Iehoase nifehe, le nifehe efa-polo taoñe e Ierosalaime ao. I Zibiàe nte Beereseba ty tahinan-drene’e.
 Le nanao ty havantañañe am-pivazohoa’ Iehovà t’Iehoase amo hene andro nañanara’ Iehoiada mpisoroñe azeo.
@@ -9871,8 +9872,7 @@ Tsy nase­se añ’ anjomba’ Iehovà o dralan’ engan-kakeo naho engan-dila­
 Nionjomb’eo amy zao t’i Kazaele mpanjaka’ i Arame, nialy amy Gate, naho tinava’e; vaho natoli’ i Kazele mb’e Ierosalaime ty lahara’e.
 Le rinambe’ Iehoase mpanjaka’ Iehoda o raha miavake iaby nengae’ Iehosafate naho Iehorame naho i Ahkazià, roae’e, mpanjaka’ Iehodao naho o raha nengae’eo vaho ze volamena iaby nizoeñe am-pañajan-drala añ’ anjomba’ Iehovà naho añ’ anjomba’ i mpanjakay, vaho nampihitrife’e mb’ amy Kazaele mpanjaka’ i Ara­me mb’eo; le napo’e t’Ierosalaime.
 Ty fitoloña’ Ioase ila’e, o tolon-draha’e iabio, tsy fa sinokitse am-bokem-pamoliliañe o mpanjaka’ Iehodao hao?
-Niongak’ amy zao o mpitoro’eo; nikinia, vaho zinevo’ iereo t’Iehoase e Bete-milò, amy fizotsoañe mb’e Silà mb’ eoy.
-Iozakare, ana’ i Sime­ate naho Iehozabade ana’ i Somere, mpitoro’e, ty nañoho-doza ama’e, le nihomake vaho nalentek’ aman-droae’e an-drova’ i Davide ao; le nandimbe aze nifehe t’i Amatsià ana’e.
+Niongak’ amy zao o mpitoro’eo; nikinia, vaho zinevo’ iereo t’Iehoase e Bete-milò, amy fizotsoañe mb’e Silà mb’ eoy. Iozakare, ana’ i Sime­ate naho Iehozabade ana’ i Somere, mpitoro’e, ty nañoho-doza ama’e, le nihomake vaho nalentek’ aman-droae’e an-drova’ i Davide ao; le nandimbe aze nifehe t’i Amatsià ana’e.
 Amy taom-paha-roapolo-telo’ ambi’ Iehoase ana’ i Ahkazià, mpanjaka’ Iehoday, ty namotora’ Iehoakaze ana’ Ieho nifeleke Israele e Somerone ao vaho nifeleke folo-taoñe fito’amby,
 nanao haratiañe am-pivazohoa’ Iehovà, nañorike o hakeo’ Iarovame ana’ i Nebate nampanaña’e tahiñe Isra­eleo­—tsy niviha’e.
 Le nisolebotse am’ Israele ty haviñera’ Iehovà, tolin-dra nainai’e nasese’e am-pità’ i Kazaele mpanjaka’ i Arame naho am-pità’ i Benehadade ana’ i Kazaele.
@@ -10456,36 +10456,21 @@ Nimoneñe amy taney o ana’ i vakim-pifokoa’ i Menasèio, le nihamaro boake B
 Le o mpiaolon’ anjomban-droae’ iareoo: i Efere naho Isý naho i Eliele naho i Azriele naho Iiremià naho i Hodavià vaho Iakdiele, fanalolahy, maram-bintañe songa talèn’ anjomban-droae’e,
 f’ie niota aman’ Añaharen-droae’ iareo, nañarapilo mb’ amo ndrahare’ ondati’ i tane’ rinoan’ Añahare aolo’ iareoo.
 Aa le nitroboen’ Añahare’ Israele ty tro’ i Pole mpanjaka’ i Asore naho ty tro’ i Tilgate-Pilnesere mpanjaka’ i Asore, le nendese’ iereo añe o nte-Reobeneo naho o nte-Gadeo vaho i vakim-pifokoa’ o nte-Menasèoy; nenteñe mb’e Kalake naho e Kabore naho e Karà vaho mb’an-tsaka’ i Gozane añe pak’ androany.
-O ana’ i Levio: i Gersone naho i Kehàte vaho i Merarý.
-O ana’ i Kehàteo: i Amrame naho Iitsare naho i Kebrone vaho i Oziele.
-O ana’ i Amrameo: i Aharone naho i Mosè vaho i Miriame. O ana’ i Aharoneo: i Nadabe naho i Abihoo, i Elazare vaho Itamare.
-Nasama’ i Elazare, t’i Pinekase, le nasama’ i Pinekase t’i Abisoa.
-Nasama’ i Abisoa t’i Boký le nasama’ i Boký t’i Ozý.
-Nasama’ i Ozý t’i Zerakià, le nasama’ i Zerakià, t’i Meraiote.
-Nasama’ i Meraiote t’i Amarià, le nasama’ i Amarià t’i Akitobe.
-Nasama’ i Akitobe t’i Tsadoke, le nasama’ i Tsadoke t’i Akimatse.
-Nasama’ i Akimatse t’i Azarià, le nasama’ i Azarià t’Iokanane.
-Nasama’ Iokanàne t’i Azarià (ie ty nitoloñe ho mpisoroñe amy anjomban’ Añahare rinafi’ i Selomò e Ierosalaimey.)
-Nasama’ i Azarià t’i Amarià, le nasama’ i Amarià t’i Akitobe.
-Nasama’ i Akitobe t’i Tsadoke, le nasama’ i Tsadoke t’i Salome. Nasama’ i
-Salome t’i Kilkià, le nasama’ i Kilkià t’i Azarià.
-Nasama’ i Azarià t’i Seraià, le nasama’ i Seraià t’Iehotsadake.
-Nasese an-drohy t’Iehotsadake amy nanesea’ Iehovà am-pità’ i Nebokadne­tsare t’Iehodà naho Ierosalaime.
-O ana’ i Levio: i Gersome, i Kehàte vaho i Merarý.
-Zao ty tahina’ o ana’ i Gersomeo: i Libný naho i Simý.
-O ana’ i Kehàteo: i Amrame, Itshare naho i Kebrone vaho i Oziele.
-O ana’ i Merario: i Maklý naho i Mosý, le zao o hasavereña’ o nte-Levio ty aman-droae’eo.
-I Gersone: ana’e t’i Libný, ana’e t’ Iakate, ana’e t’i Zimà,
-ana’e t’Ioà, ana’e t’Idò, ana’e t’i Zerake, ana’e t’Ieateray.
-O ana’ i Kehàteo: ana’e t’i Aminadabe, ana’e t’i Korake, ana’e t’i Asire,
-ana’e t’i Elkanà, ana’e t’i Ebiasafe, ana’e t’i Asire,
-ana’e t’i Takate, ana’e t’i Oriele, ana’e t’i Ozià, ana’e t’i Saole.
-O ana’ i Elkanao: i Amasay naho i Akimote.
-Ty amy Elkanà: o ana’ i Elkanào: ana’e t’i Zofay, ana’e t’i Nakate,
-ana’e t’i Eliabe, ana’e t’Ierokame, ana’e Elkanà.
-O ana’ i Samoeleo; tañoloñoloña’e t’i Vasný naho i Abià.
-O ana’ i Merario: i Maklý, ana’e t’i Libný, ana’e t’i Shimý, ana’e t’i Ozà.
-I Simý: ana’e t’i Kagià, ana’e t’i Asaià.
+O ana’ i Levio: i Gersone naho i Kehàte vaho i Merarý. O ana’ i Levio: i Gersome, i Kehàte vaho i Merarý.
+O ana’ i Kehàteo: i Amrame naho Iitsare naho i Kebrone vaho i Oziele. Zao ty tahina’ o ana’ i Gersomeo: i Libný naho i Simý.
+O ana’ i Amrameo: i Aharone naho i Mosè vaho i Miriame. O ana’ i Aharoneo: i Nadabe naho i Abihoo, i Elazare vaho Itamare. O ana’ i Kehàteo: i Amrame, Itshare naho i Kebrone vaho i Oziele.
+Nasama’ i Elazare, t’i Pinekase, le nasama’ i Pinekase t’i Abisoa. O ana’ i Merario: i Maklý naho i Mosý, le zao o hasavereña’ o nte-Levio ty aman-droae’eo.
+Nasama’ i Abisoa t’i Boký le nasama’ i Boký t’i Ozý. I Gersone: ana’e t’i Libný, ana’e t’ Iakate, ana’e t’i Zimà,
+Nasama’ i Ozý t’i Zerakià, le nasama’ i Zerakià, t’i Meraiote. ana’e t’Ioà, ana’e t’Idò, ana’e t’i Zerake, ana’e t’Ieateray.
+Nasama’ i Meraiote t’i Amarià, le nasama’ i Amarià t’i Akitobe. O ana’ i Kehàteo: ana’e t’i Aminadabe, ana’e t’i Korake, ana’e t’i Asire,
+Nasama’ i Akitobe t’i Tsadoke, le nasama’ i Tsadoke t’i Akimatse. ana’e t’i Elkanà, ana’e t’i Ebiasafe, ana’e t’i Asire,
+Nasama’ i Akimatse t’i Azarià, le nasama’ i Azarià t’Iokanane. ana’e t’i Takate, ana’e t’i Oriele, ana’e t’i Ozià, ana’e t’i Saole.
+Nasama’ Iokanàne t’i Azarià (ie ty nitoloñe ho mpisoroñe amy anjomban’ Añahare rinafi’ i Selomò e Ierosalaimey.) O ana’ i Elkanao: i Amasay naho i Akimote.
+Nasama’ i Azarià t’i Amarià, le nasama’ i Amarià t’i Akitobe. Ty amy Elkanà: o ana’ i Elkanào: ana’e t’i Zofay, ana’e t’i Nakate,
+Nasama’ i Akitobe t’i Tsadoke, le nasama’ i Tsadoke t’i Salome. Nasama’ i ana’e t’i Eliabe, ana’e t’Ierokame, ana’e Elkanà.
+Salome t’i Kilkià, le nasama’ i Kilkià t’i Azarià. O ana’ i Samoeleo; tañoloñoloña’e t’i Vasný naho i Abià.
+Nasama’ i Azarià t’i Seraià, le nasama’ i Seraià t’Iehotsadake. O ana’ i Merario: i Maklý, ana’e t’i Libný, ana’e t’i Shimý, ana’e t’i Ozà.
+Nasese an-drohy t’Iehotsadake amy nanesea’ Iehovà am-pità’ i Nebokadne­tsare t’Iehodà naho Ierosalaime. I Simý: ana’e t’i Kagià, ana’e t’i Asaià.
 Iretoañe o najado’ i Davide hifeleke ty fisaboañe añ’anjomba’ Iehovào, ie fa napok’ ao i vatay.
 Le nitoroñe an-tsabo añatrefa’ i kivohon-kibohom-pamantañañey iereo, am-para’ ty nandranjia’ i Selomò ty anjomba’ Iehovà e Ierosalaime ao, le songa nandrambe ty toe’e naho ty fitoroña’e amy firirita’ey.
 Irezao o nandrambe o toe’eo naho o tarira’eoo: Amo ana’ i Kehàteo: i Hemane mpisabo, ana’ Ioele, ana’ i Samoele,
@@ -10537,6 +10522,21 @@ Le alafe’ Iordaney e Ierikò, atiñana’ Iordaney, boak’ am-pifokoa’ i Re
 naho i Kedemote, reke-pian­draza’e naho i Mofaate reke-pian­draza’e;
 le boak’ am-pifokoa’ i Gade: i Ramote e Gilade ao reke-piandraza’e naho i Makanaime reke-piandraza’e,
 naho i Kesbone reke-piandraza’e naho Iazere reke-piandraza’e.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Le o ana’ Isakareo: i Tolà naho i Poà, Iasobe vaho i Simrone, efatse.
 Le o ana’ i Tolao: i Ozý naho i Refaia naho Ieriele naho Iakmaý naho Iibsame vaho i Semoele, songa talèn’ anjomban-drae’e o nte-Tolào, fanalolahy maozatse amo tarira’eo; ty ia’ iareo tañ’ andro’ i Davide le ro’ale-tsi-ro’arivo-tsi-enen-jato.
 Le o ana’ i Ozio; Iizrakià; o ana’ Iizrakiào: i Mikaele naho i Obadià naho Ioele, Isià, lime, songa mpiaolo.
@@ -10725,6 +10725,7 @@ i Eliele naho i Ovede vaho Iasiele nte Metsobaià.
 Iretoañe o niheo amy Davide e Ziklage mb’eo ie mbe nisebaneñe ty amy Saole ana’ i Kiseio; mpiamo fanalolahi’e, mpañolotse an-kotakotakeo.
 Nimpitàm-pale le nahafitoloñe am-pitàn-kavana naho havia nahafipiletse vato naho nahafiririñe ana-pale am-pale, ie rahalahi’ i Saole nte Beniamine.
 I Akiezere ty nifehe, le Ioase, ana’ i Semaà nte Gibate; naho Iziele naho i Pelete, ana’ i Azmavete; le i Berakà naho Iehò nte Anatote,
+
 naho Ismaià nte Gibone, fanalolahy amy telopolo rey naho ambone’ i telopoloy; naho Iirmeà naho Iakaziele naho Iokanane naho Iozabade nte Gede­rà.
 Naho i Elozaý naho Ierimote naho i Bealià naho i Semarià naho i Sefatià nte Karofe,
 naho i Elkanà naho Iesià naho i Azarele naho Ioezere naho Iasobeame, nte Korake,
@@ -10762,7 +10763,6 @@ Le o alafe’ Iordaneio, amo nte-Reobeneo naho amo nte-Gadeo naho amo vakim-pifo
 Hene niheo mb’e Kebrone mb’eo an-kazavàn’arofo i lahindefoñe nahafitàm-pilaharañe rezay, hanoe’ iereo mpanjaka’ Israele t’i Davide; manahake izay ze hene nte-Israele ila’e, fonga niharo arofo hanao i Davide mpanjaka.
 Ie nìndre amy Davide ao telo andro nikama naho nigenoke fa nañalankañe ho a iareo o longo’eo.
 Tovo’ izay, o marine iareoo, Isakare naho i Zebolone vaho i Naftalý, ty ninday mahakama am-birike naho rameva naho perède naho añombe, le hena naho ampemba naho debelà naho kirotram-baloboke naho divay naho menake naho añombe vaho añondry tsifotofoto; fa firebehañe ty e Israele ao.
-
 Aa le nisafiry amo mpifelek’ arivo naho zatoo vaho amo mpifehe iabio t’i Davide.
 Le hoe t’i Davide amy valobohò’ Israele iabiy, Aa naho mete ama’ areo naho am’ Iehovà Andrianañaharen-tika, antao hañitrike mb’eo mb’eo hikoike o longontika sisa amo hene tane’ Israeleo, rekets’ o mpisoroñe naho nte-Levý androva naho am-paripari’ iareoo, hifanontoñe,
 hampolian-tika mb’etoa i vatan’ Añaharen-tikañey, ie tsy nipaiaen-tika tañ’ andro’ i Saole.
@@ -11214,8 +11214,7 @@ Nanontoñe sarete naho mpiningi-tsoavala t’i Selo­mò; le nanan-tsarete arivo
 Nampirae’ i mpanjakay amo vatoo ty volamena naho ty volafoty e Ierosalaime ao, le nampirae’e amo sakoañe am-bavataneo o mendoraveñeo ami’ty hamaro’e.
 Le nendese’ i Selomò boake Mitsraime naho boake Keve añe o soavalao; o mpanao bali’ i mpanjakaio ty nivily iereo amo nte-Keveo ami’ty vili’e.
 Tinoha’ iereo e Mitsraime añe an-tsekele volafoty enenjato ty sarete naho zato-tsi-limampolo ty soavala; le amy vily zay ka ty nañondroñañe irezay mb’amo mpanjaka’ o nte-Keteoo naho o mpanjaka’ i Arameo.
-Sinafiri’ i Selomò am’izao te ho ranjia’e anjomba ty tahina’ Iehovà vaho ty akibam-pifeheañe ho am-bata’e.
-Niahe’ i Selomò t’indaty fito-ale hijiny kilankañe naho valo-ale ty hihaly am-bohitse añe vaho telo-arivo-tsi-enenjato ty hisary iareo.
+Sinafiri’ i Selomò am’izao te ho ranjia’e anjomba ty tahina’ Iehovà vaho ty akibam-pifeheañe ho am-bata’e. Niahe’ i Selomò t’indaty fito-ale hijiny kilankañe naho valo-ale ty hihaly am-bohitse añe vaho telo-arivo-tsi-enenjato ty hisary iareo.
 Nañitrik’ amy Korame mpanjaka’ i Tsore t’i Selomò nanao ty hoe: Manahake ty nifañaoña’o amy Davide raeko, amy nañitrifa’o mendoraveñe handranjia’e anjomba himoneña’ey, ehe, ano ho ahy ka;
 oniño te hamboarako anjomba ty tahina’ Iehovà Andrianañahareko, havaheñe ho aze, hañembohako rame mandrifondrifoñe añatrefa’e naho handaharañe o mofo-piatrekeo nainai’e naho hisoroñañe boa-maraiñe naho hariva, amo Sabatao naho amo pea-bolañeo naho amo andro namantaña’ Iehovà Andria­nañaharentika ho fañè nainai’e am’ Israeleo.
 Le ho jabajaba ty anjomba ho ranjieko ho Aze amy te jabahinake te amo fonga ndrahareo t’i Andrianañaharentika.
@@ -11232,6 +11231,7 @@ Le i vare-bolè naho vare-hordea naho menake naho divay nisaontsien-talèkoy, le
 vaho hamira hatae boak’e Lebanone atoy zahay, ty hamaro paia’o; le hendese’ay hihafo mb’andriake mb’e Iopà añe, le Ihe ty hinday aze mb’e Ierosalaime mb’eo.
 Vi­nolili’ i Selomò ze hene renetane an-tane Israeleo, ty amy famoliliañe nanoe’ i Davide iareoy, le nahatendreke rai-hetse-tsi-lime-ale-tsi-telo-arivo-tsi-enenjato.
 Le tinendre’e ho mpijiny ty valo-ale naho mpihali-vato am-bohitse ey ty fito-ale vaho mpisary hanoro asa am’irezay ty telo-arivo-tsi-enen-jato.
+
 Aa le namototse nandranjy i anjomba’ Iehovày e Ierosalaime ao t’i Selomò, an-kaboa’ i Morià, amy niboaha’ Iehovà amy Davide rae’ey; amy nihentseña’ i Davidey, an-tanem-pamofoha’ i Ornane nte-Iebosý eo.
 Ie namototse namboatse amy andro faharoe’ ty volam-paha-roe’ i taom-paha-efam-pifehea’ey.
 Zao o mananta napeta’ i Selomò amy namboareñe i anjomban’ Añahareio: ty andava’e, amy fanjeheañe haehaey, le kiho enempolo vaho kiho roapolo ty am-pohe’e.
@@ -11478,8 +11478,7 @@ Nihoridañe’ i Abiià t’Iarovame, le nandrambesa’e rova: i Betele rekets�
 Tsy nahafitroatse ka t’Iarovame tañ’ andro’ i Abiià; le zinevo’ Iehovà re vaho nihomake.
 Fe nihamaozatse t’i Abiià, le nañenga valy folo efats’ amby vaho nisamak’ ana-dahy roapolo-ro’ amby naho anak’ampela folo-eneñ’amby.
 Le o fitoloña’ i Abiìao naho o sata’eo naho o lañona’eo, tsy fa sinokitse amy fibejaña’ Idò mpitokiy hao?
-Aa le nitrao-piròtse aman-droae’e t’i Abiià naho nalenteke an-drova’ i Davide ao, le nandimbe aze nifehe t’i Asa ana’e; nanintsiñe folo taoñe tañ’andro’e i taney.
-Nanao ze soa naho vantañe am-pihaino’ Iehovà Andrianañahare’e t’i Asa;
+Aa le nitrao-piròtse aman-droae’e t’i Abiià naho nalenteke an-drova’ i Davide ao, le nandimbe aze nifehe t’i Asa ana’e; nanintsiñe folo taoñe tañ’andro’e i taney. Nanao ze soa naho vantañe am-pihaino’ Iehovà Andrianañahare’e t’i Asa;
 amy te finao’e ze kitrely tsie naho o toets’ aboo naho nakoroma’e o vatolahio vaho finira’e o Asereo;
 naho linili’e te hipay Iehovà Andrianañaharen-droae’ iareo t’Iehoda, hañorike Hake naho o fepètseo.
 Nafaha’e amo hene rova’ Iehodao o tambohoo naho o sare’ i àndroio; vaho nianjiñe añ’atrefa’e eo i taney.
@@ -11493,6 +11492,7 @@ Aa le zinama’ Iehovà añatrefa’ i Asa naho aolo’ Iehoda eo o nte-Koseo va
 Aa le nihoridañe’ i Asa naho ondaty ama’eo pake Gerare; le akore ty hamaro’ o nte-Kose nibanibanìtseo kanao leo raike tsy nahatam-beloñe, ie niparatsàke añatrefa’ Iehovà naho aolo’ i valobohò’ey; vaho nendese’ iereo ty fikopaham-bey.
 Linafa’ iereo o tanañe mañohoke i Gerare iabio; fa nampianifa’ Iehovà; naho fonga kinopa’ iareo o rovao vaho tsifotofoto ty vara tam’ iereo ao.
 Linafa’ iareo ka o kibohom-pitan-kareo, le tinava’ iareo ty añondry naho rameva maro vaho nimpoly mb’e Ierosalaime añe.
+
 Nivotrak’ amy Azarià ana’ i Ovede t’i Arofon’ Añahare;
 le niavotse mb’eo hifanalaka amy Asa, le hoe re ama’e: Janjiño iraho ry Asa naho ry Iehoda miharo Beniamine iaby; indreza’ Iehovà kanao ireketa’ areo; itsoeho le ho isa’areo; f’ie aforintse’ areo le ho farie’e ka.
 Hatrela t’ie tsy aman’ Añahare to t’Israele naho tsy amam-pisoroñe mpañoke vaho tsy aman-Kàke;
@@ -12362,18 +12362,12 @@ Le nañorike iareo namboatse tandrife i anjomba’ey t’i Tsadoke ana’ Imere.
 Nanonjohy aze namboatse ty fange tovo’e t’i Kananià ana’ i Selemià naho i Kanone ty ana-dahy fah’ene’ i Tsalafe. Nanonjohy eo t’i Mesola­me, ana’ i Bere­kià namboatse tandrife i akiba’ey.
 Nanonjohy aze t’i Malakià, raik’ amo mpanefe volamenao, namboatse pak’amy fange’ o mpitoroñ’ anjombao naho o mpanao balikeoy, aolo’ i lalam-beim-pisavañe eo pak’ amy efetse ambone’ i kotsokeiy.
 Le namboare’ o mpanefe volamenao naho o mpanao balikeo ty añivo’ i efetse ambone’ i kotsokeiy pak’ amy lalambein’ añondriy.
-Aa naho jinanji’ i Sanbalate t’ie namboatse i kijoliy, le niboseke vaho am-piforoforoañe mandofiry ty nañabiaña’e o nte-Iehodao.
-Nisaontsie’e añatrefa’ o rahalahi’eo naho o lahindefo’ i Someroneo ty hoe: Ino ty amboare’ o nte-Iehodà mavozoo? Hamboatse an-tsatrin-troke hao? Hanao soroñe hao? Ho fonire’ iareo ami’ty andro’e hao? Hampisotrafe’ iereo amo votrim-porompotse niforototoe’ iereoo hao o vatoo?
-Aa hoe t’i Tobià nte Amore mpiama’e: Toe hirotsake i kijolim-batoy te anganiha’ ty fanaloke i amboare’ iareoy.
-Mijanjiña ry Andrianañahare’ay fa sirikaen-jahay, le afotero añ’ ambone’ iareo o inje’ iareoo, le atoloro ho kopaheñe an-tanem-pandrohizañe añe;
-le ko takonañe o hakeo’eo vaho ko faopaoheñe añatrefa’o o tahi’eo, ie mikai-jaka ama’o añatrefa’ o mpamboatseo.
-Aa le namboare’ay i kijoliy vaho nifampikatoke iaby i kijoliy pak’ami’ty antsasa’ ty haabo’e; ie nitoloñeñe an-joton-troke.
-Ie jinanji’ i Sanbalate naho i Tobià naho o nte-Arabeo naho o nte Amoneo naho o nte-Asdodeo te niraorao ty fandrafetañe ty kijoli’ Ierosalaime naho fa ho nikiteke iaby o heba’eo, le niforoforo
-vaho fonga nitrao-pikinia ho mb’eo hialy am’ Iero­salaime hampifandrakaraka ty ao.
-F’ie nihalaly aman’ Añaharentika, vaho nampijadoñe fijilovañe handro an-kaleñe ty am’ iereo.
-Le hoe t’Iehoda: fa nifotsake ty haozara’ o mpijinio naho maro o forompotseo; aa le sarotse’ ama’ay ty mandranjy i kijoliy.
-Le hoe o rafelahi’aio: Tsy hahafohiñe tsy hahaisake ampara’ te añivo ao tika hanjamañe iereo, hanjitse i fitoloñañey.
-Ie amy zao, niheo mb’ama’ay mb’eo o nte-Iehoda nimoneñe marine iereoo, le tinaro’ iareo ama’ay im-polo te ho horidañeñe ndra aia’aia ty itolihañe.
+Aa naho jinanji’ i Sanbalate t’ie namboatse i kijoliy, le niboseke vaho am-piforoforoañe mandofiry ty nañabiaña’e o nte-Iehodao. Ie jinanji’ i Sanbalate naho i Tobià naho o nte-Arabeo naho o nte Amoneo naho o nte-Asdodeo te niraorao ty fandrafetañe ty kijoli’ Ierosalaime naho fa ho nikiteke iaby o heba’eo, le niforoforo
+Nisaontsie’e añatrefa’ o rahalahi’eo naho o lahindefo’ i Someroneo ty hoe: Ino ty amboare’ o nte-Iehodà mavozoo? Hamboatse an-tsatrin-troke hao? Hanao soroñe hao? Ho fonire’ iareo ami’ty andro’e hao? Hampisotrafe’ iereo amo votrim-porompotse niforototoe’ iereoo hao o vatoo? vaho fonga nitrao-pikinia ho mb’eo hialy am’ Iero­salaime hampifandrakaraka ty ao.
+Aa hoe t’i Tobià nte Amore mpiama’e: Toe hirotsake i kijolim-batoy te anganiha’ ty fanaloke i amboare’ iareoy. F’ie nihalaly aman’ Añaharentika, vaho nampijadoñe fijilovañe handro an-kaleñe ty am’ iereo.
+Mijanjiña ry Andrianañahare’ay fa sirikaen-jahay, le afotero añ’ ambone’ iareo o inje’ iareoo, le atoloro ho kopaheñe an-tanem-pandrohizañe añe; Le hoe t’Iehoda: fa nifotsake ty haozara’ o mpijinio naho maro o forompotseo; aa le sarotse’ ama’ay ty mandranjy i kijoliy.
+le ko takonañe o hakeo’eo vaho ko faopaoheñe añatrefa’o o tahi’eo, ie mikai-jaka ama’o añatrefa’ o mpamboatseo. Le hoe o rafelahi’aio: Tsy hahafohiñe tsy hahaisake ampara’ te añivo ao tika hanjamañe iereo, hanjitse i fitoloñañey.
+Aa le namboare’ay i kijoliy vaho nifampikatoke iaby i kijoliy pak’ami’ty antsasa’ ty haabo’e; ie nitoloñeñe an-joton-troke. Ie amy zao, niheo mb’ama’ay mb’eo o nte-Iehoda nimoneñe marine iereoo, le tinaro’ iareo ama’ay im-polo te ho horidañeñe ndra aia’aia ty itolihañe.
 Aa le navotrako ankalo’ o fange’e loho ambane amy kijoliio, toe amo heba’eo, ty ondaty, sindre ty amo hasavereña’eo, reketse ty fibara’e naho lefo’e vaho fale’e.
 Ie nisary iraho le niongake nanao ty hoe amo mpifeheo naho am’ ondaty ila’eo, ty hoe: Ko ihembañañe, tiahio i Talè jabahinake naho maharevendreveñey vaho mialia ho an-drolongo’ areo, o ana-dahi’ areoo naho o anak’ ampela’ areoo, o tañanjomba’ areoo vaho o anjomba’ areoo.
 Aa ie jinanji’ o rafelahintikañeo t’ie napota’ay naho te nikoahen’ Añahare i fikililia’ iareoy, le songa nihereñe mb’an-kijoly mb’eo zahay, sindre mb’ am-pitoloña’e mb’eo.
@@ -12385,6 +12379,12 @@ Aa ndra an-toetse aia aia ty ijanjiña’ areo i fivolan’ antsivay le mihitrif
 Aa le nifanehak’ amy fitoloñañey zahay naho nitàn-defoñe ty vaki’e, sikal’ ami’ty manjirik’ andro ampara’ ty fanjoam-basiañe.
 Le hoe ka iraho henane zay am’ondatio: Ehe te songa hitobe e Ierosalaime atoy reke-mpitoroñe ondatio, hañambenan-tika haleñe vaho hifanehake handro.
 Aa le tsy izaho, ndra o mpitorokoo, ndra o mpiamo mpañambeñe nañorik’ ahio, eka, leo raik’ ama’ay tsy nañafa-tsiky; sindre ninday ty fialia’e mb’an-drano mb’eo.
+
+
+
+
+
+
 Nampipoña-toreo amy zao ondatio naho o tañanjomba’eo ty amo nte-Iehoda roahalahi’ iareoo.
 Teo ty nanao ty hoe: Maro zahay naho o ana-dahi’aio naho o anak’ ampela’aio; ehe apoho hangalake mahakama zahay hihinana’ay ho veloñe.
 Teo ka ty nanao ty hoe: Nampisongoe’ay o tete’aio, o tanembahe’aio vaho o anjomba’aio, hivilia’ay mahakama ty amy hasalikoañey.
@@ -12490,11 +12490,11 @@ Pinay amo sinokitse am-piantoñoñeo iareo fe tsy nahaisake; aa le natao ho male
 Le hoe ty nanoa’ i Tirsatà, t’ie tsy hikama o miava-do’eo ampara’ te eo ty mpisoroñe hiongake reketse Orime naho Tomime.
 Ty fitonto’ i valobohòke zay le efats’ ale-tsi-ro’ arivo-tsi-telonjato-tsi-enempolo,
 mandikoatse o fetrek’ oro’eo naho o anak’ ampata’eo, le fito-arivo-tsi-telonjato-tsi-telopolo-fito’amby; naho am’ iereo ty lahilahy naho rakemba mpi­sabo roanjato-tsi-efapolo-lim’ amby.
-O soavala’ iareoo, fiton-jato-tsi-telopolo-eneñ’ amby; o borìke vosi’eo, roanjato-tsi-efapolo-lime amby.
-O rameva’eo, efajato-tsi-telopolo-lim’ amby naho o borìke’eo, eneñ’ arivo-tsi-fitonjato-tsi-roapolo.
+O soavala’ iareoo, fiton-jato-tsi-telopolo-eneñ’ amby; o borìke vosi’eo, roanjato-tsi-efapolo-lime amby. O rameva’eo, efajato-tsi-telopolo-lim’ amby naho o borìke’eo, eneñ’ arivo-tsi-fitonjato-tsi-roapolo.
 Le amo talèn-droae’eo ty nanolotse amy fitoloñañey: i Tirsatà nanolotse bogady volamena arivo naho koveta limampolo vaho sarom-pisoroñe liman-jato-tsi-telopolo;
 o talèn-droae’eo nanolotse bogady volamena ro’ale naho tsanganolo volafoty ro’arivo-tsi-roanjato amy fañajan-drala’ i fitoloñañeiy;
 le natolo’ ondaty ila’eo ty bogady volamena ro’ale naho tsanganolo ro’arivo vaho sarom-pisoroñe enempolo-fito’ amby.
+Aa le songa nimoneñe an-drova’e ao o mpisoroñeo naho o nte-Levio naho o mpañambeñeo naho o mpisaboo naho ondaty ila’eo naho o mpitoroñ’ anjombao vaho o nte-Israele iabio, sindre tan-drova’e ao te tsatoke i volam-pahafitoy.
 Hene nifanontoñe hoe ondaty raik’ an-tameañe aolo’ i lalam-bein-dranoy ondatio; le nisaontsy amy Ezra mpano­kitse ty handesa’e i boke Hà’ i Mosè linili’ Iehovà Israeley.
 Aa le nendese’ i Ezra mpisoroñe añatrefa’ i fivoriy t’i Hake, amo lahilahio naho rakembao vaho amy ze hene nahajanjiñe am-paharendrehañe, amy androm-baloha’ i volam-pahafitoiy.
 Le namaky amy bokey re, aolo’ i kiririsan-dalambein-dranoy, nifototse maraindray ampara’ te tsipinde-mena, añatrefa’ o lahilahio naho o rakembao naho ze naharendreke; vaho nitsatsike i boke Hàkey o ravembia’ ondaty iabio.
@@ -12550,6 +12550,7 @@ mbore tsy nitana’ o mpanjaka’aio, o roandria’aio, o mpisoro’aio vaho o r
 F’ie tsy nitoroñ’ Azo amy fifehea’ iareoy naho amy hasoa ra’elahy natolo’oy naho i tane bey henehene naho kobokara nitolora’o añatrefa’ iareoo mbore tsy nifotetse amo halò-tsere’eo.
 Oniño te ondevo zahay androany, le ty amy tane natolo’o aman-droae’ay hikamà’ iareo o voka’eo amo hasoa’eo, ingo, ondevo ama’e ao zahay,
 vaho miveve amo mpanjaka nampijadoña’o ama’ay ty amo hakeo’aio i voka’e nibodobodoy; mbore ananaña’e lily o sandri’aio, o añombe’aio, ze satrin’ arofo’e; toe malovilovy zahay.
+
 Aa ty amy tsaraeñe rezay, le nampijadoñe fañina zahay naho vinoli-fitombo’ o roandria’aio naho o nte-Levi’aio vaho o mpisoro’aio.
 Irezao o namoli-fi­tombok’ azeo: i Nekemià Tirsatà, ana’ i Kakalià naho i Tsidekià,
 i Seraià, i Aza­rià, Ieremià;
@@ -12588,8 +12589,7 @@ Le nanoeñe an-kitsapake o mpisoroñeo, o nte-Levio, ondatio, ho ami’ty fanolo
 naho ty faneseantika o loha-voan-tanen-tikañeo vaho ty loha-voa’ ze volon-katae iaby, boa-taom-boa-taoñe, mb’ añ’ anjomba’ Iehovà;
 naho ty tañoloñoloñan’ ana-dahin-tikañe naho o terake valoha’e amo añomben-tikañeoo, ty amy nipaterañe amy Hake ao naho ty valohan-terak’ amo mpirai-trokeo naho o mpirai-liao, haneseañe aze mb’ añ’ anjomban’ Añaharentika, mb’ amo mpisoroñe mitoroñe añ’ anjomban’ Añaharentikañeo
 naho ty haneseañe ty valohan-koba naho o engaeñeo; naho ty voa’ ze hene karazan-katae, ty divay naho menake, mb’ amo mpisoroñeo, mb’amo efets’ efen’ anjomban’ Añaharen-tikañeo vaho mb’amo nte-Levio ty faha-folom-boka’ o tete’aio, amy te mandrambe ty faha-folo amo teten-tika an-drovan-tikañe iabio o nte-Levio.
-Le hitraok’ amo nte-Levio o mpisoroñe ana’ i Aharoneo, ie mandrambe ty faha-folo’ iareo o nte-Levio; le hendese’ o nte-Levio mb’ añ’anjomban’ Añaharen-tikañe mb’ amo efets’ efen-trañom-pañajañeo ty am-pahafolo’ i fahafoloy.
-Aa le hendese’ o ana’ Israeleo naho o nte-Levio i enga ahelahelay, i ampembay, i divaiy naho i menakey, mb’amo efets-efem-pañajan-karao’ i toetse miavakey naho mb’amo mpisoroñe mifanehakeo naho amo mpañambeñeo vaho amo mpisaboo vaho tsy hafo­rintsentika ty anjomban’ Añaharentika.
+Le hitraok’ amo nte-Levio o mpisoroñe ana’ i Aharoneo, ie mandrambe ty faha-folo’ iareo o nte-Levio; le hendese’ o nte-Levio mb’ añ’anjomban’ Añaharen-tikañe mb’ amo efets’ efen-trañom-pañajañeo ty am-pahafolo’ i fahafoloy. Aa le hendese’ o ana’ Israeleo naho o nte-Levio i enga ahelahelay, i ampembay, i divaiy naho i menakey, mb’amo efets-efem-pañajan-karao’ i toetse miavakey naho mb’amo mpisoroñe mifanehakeo naho amo mpañambeñeo vaho amo mpisaboo vaho tsy hafo­rintsentika ty anjomban’ Añaharentika.
 Toe nimoneñe e Ierosalaime ao o mpifehe’ ondatio, le nifanendre an-kitsapake ka ondaty ila’eo, ty haneseañe ty raik’ ami’ty folo ho mpimoneñe e Ierosa­laime an-drova miavak’ ao vaho apok’ amo rova ila’eo ty sive.
 Le nitatàe’ ondaty iabio o lahilahy nanolo-batañe himoneñe e Ierosalaimeo.
 Irezao o mpiaolo’ i borizà nimoneñe e Ierosalaimeoy, fe songa nimoneñe am-panaña’e amo rova’ Iehodao o nte-Israeleo, o mpisoroñeo naho o nte-Levio naho o mpitoroñ’ anjombao vaho o anam-pitoro’ i Selomòo.
@@ -13890,22 +13890,14 @@ Mandre ambane’ sohihy eo re, am-pipaliram-binda an-tane manginakinak’ ao.
 Mañalok’ aze ty talinjo’ o ­sohihio; miarikoboñ’ aze iaby o bararata añ’olon-dranoo.
 Tsy ihondrahondrà’e ty fandipora’ i sakay; mahasibeke re ndra te isorotombaha’ Iordaney mb’am-bava’e.
 Eo hao ty hahatsepak’aze te mañente; eo hao ty hahafangirike i oro’ey hampikavitse aze?
-Mahatarike i Leviatàne am-bintañe v-iheo? hatindri’o ambane an-tàly hao i lela’ey?
-Lefe’o hao ty mampikiviro i oro’ey, ndra ty hangirike i soma’ey am-pengoke?
-Hanao lako halaly ama’o hao re? Ke hivolañe mora ama’o?
-Hifañina ama’o hao, handrambesa’o aze ho fetrek’oro’o kitro katroke?
-Ho hisà’o hao hoe voroñe? ke ho tantalie’o ho amo anak’ ampela’oo.
-Hifampihehetse ama’e hao o mpanao balikeo? Ho zarae’ iareo am’ o mpanao takinakeo hao re?
-Ho tsitsihem-pirango hao i holi’ey? Ndra i loha’ey an-defom-piañe?
-Apaoho ama’e ty fità’o vaho tiahio i ho ali’oy te tsy hindroe’o.
-Hete! Toe tsy vente’e t’ie salalaeñe, tsy ho tafahohoke hao te isahañe?
-I Tsy eo ty lahitsi’ay mahavany hitsobore aze; ia arè ty mahafiatreatre amako?
-Ia ty nanolotse ahy, te havahako? ahiko ze hene ambanen-dikerañe ao.
-Tsy hitsiñeko o kitso’eo, ty haozara’e ra’elahiy, vaho i sandri’e tsaratseakey,
-Ia ty hañolitse o sisin-koli’eo? Ia ty hahafizilik’ añivom-balañorà’e roe ao?
-Ia ty mahafisokake o lalam-bein-tarehe’eo? mampangetraketrake ty fañarikatoha’ o nife’eo.
-Fisengea’e o sisì’e fatratseo, ie mikititse hoe linite;
-Akore ty fifampikiteha’e kanao tsy mahafitsifitse ao ty tioke.
+Mahatarike i Leviatàne am-bintañe v-iheo? hatindri’o ambane an-tàly hao i lela’ey? Hete! Toe tsy vente’e t’ie salalaeñe, tsy ho tafahohoke hao te isahañe?
+Lefe’o hao ty mampikiviro i oro’ey, ndra ty hangirike i soma’ey am-pengoke? I Tsy eo ty lahitsi’ay mahavany hitsobore aze; ia arè ty mahafiatreatre amako?
+Hanao lako halaly ama’o hao re? Ke hivolañe mora ama’o? Ia ty nanolotse ahy, te havahako? ahiko ze hene ambanen-dikerañe ao.
+Hifañina ama’o hao, handrambesa’o aze ho fetrek’oro’o kitro katroke? Tsy hitsiñeko o kitso’eo, ty haozara’e ra’elahiy, vaho i sandri’e tsaratseakey,
+Ho hisà’o hao hoe voroñe? ke ho tantalie’o ho amo anak’ ampela’oo. Ia ty hañolitse o sisin-koli’eo? Ia ty hahafizilik’ añivom-balañorà’e roe ao?
+Hifampihehetse ama’e hao o mpanao balikeo? Ho zarae’ iareo am’ o mpanao takinakeo hao re? Ia ty mahafisokake o lalam-bein-tarehe’eo? mampangetraketrake ty fañarikatoha’ o nife’eo.
+Ho tsitsihem-pirango hao i holi’ey? Ndra i loha’ey an-defom-piañe? Fisengea’e o sisì’e fatratseo, ie mikititse hoe linite;
+Apaoho ama’e ty fità’o vaho tiahio i ho ali’oy te tsy hindroe’o. Akore ty fifampikiteha’e kanao tsy mahafitsifitse ao ty tioke.
 Nifampireketeñe iereo, mifampipiteke, tsy lefe akatrake.
 Mitsopela-kazavàñe o fihatsìhe’eo, manahake ty holi-maso’ i maraindraiñey o maso’eo.
 Failo milebaleba ty miakatse am-bava’e, afo mipelatse ty mipitsike mb’eo.
@@ -13924,6 +13916,14 @@ Ampitroatroahe’e hoe valàñe i lalekey; ampanahafe’e ami’ty fampitranaha�
 Anoe’e lala-miloeloe ty am-boho’e ao anoe’e hoe a maròy foty i lalekey.
 Tsy ambone-tane atoy ty mañirinkiriñe aze, ie nitsenèñe tsy ho aman-tahotse.
 Jilojilove’e iaby ze atao abo; ie ty lohà’ ze hene anam-pirengevohañe.
+
+
+
+
+
+
+
+
 Natoi’ Iobe amy zao t’Iehovà,
 Fantako te kila lefe’o, le tsy azo sebañeñe ze safiri’o.
 Hoe irehe: Ia ze o mañeta-panoroañe tsy aman-kilala zao? Toe nivolañeko ty tsy nirendreko, o raha loho mandikoatse ahy, tsy napotako.
@@ -13959,6 +13959,7 @@ Ho pozahe’o am-bodam-by; Hampijeñajeñahe’e hoe siniharam-panao valàñe-ta
 Aa le mahihira ry mpanjakao; Mimetea oke ry mpizaka’ ty tane toio.
 Toroño am-pañeveñañe t’Iehovà, vaho mirebeha am-pineveneverañe;
 Ondroho i Anakey tsy mone hiviñera’e, vaho hihomak’ an-dalañe ey nahareo; fa mete hisolebatse aniany ty fifombo’e. Hene haha ze mitsolok’ ama’e.
+
 Ry Iehovà, Akore ty fitomboa’ o mpamorefore ahikoo ! Maro ty miongake hiatreatre ahy.
 Lako ty manao ty hoe ty amako : Tsy ama’e ty fandrombahan’ Añahare. Selà
 Fa Ihe, ry Iehovà, ro kalan-defo mañohoñ’ ahy, ty engeko naho ty Mpampiandra ty lohako.
@@ -14049,7 +14050,6 @@ Himpoly mb’an-tsikeokoek’ ao o tsivokatseo, ze kilakila’ ondaty mandikok�
 Fe tsy ho haliño nainai’e o rarakeo vaho tsy ho modo kitro añ’afe’e ty fisalalà’ o mpisotrio.
 Miongaha ry Iehovà, ko anga’o handrekets’ ondatio; Ho zakaeñe am-pivazohoa’o eo o fifeheañeo !
 Apoho am’ iareo ty fangebahebahañe, ry Iehovà ampahafohino o kilakila’ndatio t’ie ondaty avao ! Selà
-
 Akore te Ihe mijohañe añe, ry Iehovà? Ino ty ietaha’o an-tsan-kasotriañe?
 Am-pirengevohañe ty añoridaña’ o raty tserekeo o rarakeo; f’ie tsepahe’ o fikitroha’eo avao.
 Sengè’ i ­tsivokatsey o fañirian-tro’eo, tata’e ty fatitiañe, naho inje’e t’Iehovà.
@@ -14075,6 +14075,7 @@ Añ’anjomba’e miavake ao t’Iehovà, an-dindìñe ao ty iambesara’ Iehov�
 Tsohe’ Iehovà o vantañeo, fe heje’ ty arofo’e ty lo-tsereke, naho i piaroteñey.
 Hampifororoaha’e vaen’afo mirekake o tsivokatseo; afo naho ponde vaho tio-mae ty ho anjaram-pitovi’ iareo.
 Amy te vantañe t’Iehovà; kokoa’e ty havañonañe ho isa’ o mahitio ty lahara’e.
+
 Rombaho, ry Iehovà, fa tsy eo ondaty matarikeo; mimosaoñe amo ana’ ondatio o migahiñeo.
 Hene mifandañitse aman-drañetse ondatio, reke-tsoñy mitsiriry naho troke-miroe-rehake.
 Haitoa’ Iehovà ze hene fivimby mandomboke, naho ty fameleke mitrè fibohabohàñe,
@@ -14088,8 +14089,7 @@ Pak’ ombia, ry Iehovà? Ho haliño’o nainai’e hao iraho? Pak’ombia ty ha
 Sikal’ombia ty hitsakoreako an-troko ao ty haoreako, ie añ’ovako ao lomoñandro? Ampara’ te ombia ty hañonjonañe ty rafelahikoo ambone ahy?
 Vazohò, naho toiño iraho, ry Iehovà Andrianañahareko; hazavao o masokoo; tsy mone hiroroako ty firoron-kavilasy;
 Vaho hanao ty hoe i rafelahikoy: rinebako re; ke hirebeha’ o malaiñ’ ahikoo t’ie mibolatitse.
-Fe fiatoako ty figahiñan’ arofo’o; hirebeha’ ty troko i fandrombaha’oy.
-Ho saboeko t’Iehovà, amy te nampibodobodoe’e.
+Fe fiatoako ty figahiñan’ arofo’o; hirebeha’ ty troko i fandrombaha’oy. Ho saboeko t’Iehovà, amy te nampibodobodoe’e.
 Ho a i Talèn-tsakera; Sabo’ i Davide Hoe ty mineñe an-tro’e ao: Tsy eo ze o Andrianañahare zao. Lo-tsereke irezay, mitoloñe an-kativañe; leo raike tsy manao soa.
 Misary o ana’ ondatio hirik’an-dikerañ’ ao t’Iehovà, hahaoniña’e ke eo ty mahilala mpitsoeke an’ Andrianañahare.
 Sindre mandifike, mitrao-kaleorañe; tsy eo ty manao soa, leo raike.
@@ -14128,6 +14128,7 @@ Manahake ty liona milelalela t’ie handrimitse, hoe liona tora’e mipiapia añ
 Miongaha, ry Iehovà, atreatréo, goreo ambane! Hahao amo lo-tserekeo ty fiaiko, amy fibara’oy,
 am’ondatio—am-pità’o ry Iehovà— am’ ondati’ ty tane toio, fa an-kaveloñe atoy avao ty anjara’e; ie vontsiñe’o amo vara’oo o fisafoa’eo; henek’ anake iereo; vaho ampandova’ iareo an-tiri’ iareo ty nivokara’ iareo.
 Naho izaho, ho treako an-kavañonañe ao ty lahara’o; hifale iraho te tsekake mahatrea ty vinta’o.
+
 Kokoako irehe ry Iehovà, haozarako.
 Ry lamilamiko, kijoly fipalirako, naho mpañaha ahiko; r’Iehovà, ry tseram-bato fitsolohako, fikalan-defoko vaho tsifam-pandrombahañe ahiko, fitilik’ aboko t’i Andrianañahareko.
 Kanjieko t’Iehovà, fa mañeva ho rengèñe; vaho votsotse amo rafelahikoo.
@@ -14249,7 +14250,6 @@ A Iehovà i fifeheañey, Ie ty mpameleke o kilakila ondatio
 Hikama naho hitalaho ze hene miraorao an-tane atoy; fonga hibokok’ añatrefa’e o mizotso mb’an-debokeo; vaho ze tsy mahatam-beloñe.
 Hitoroñ’ Aze ty tiri’e; ho talilieñe amy tariratse manonjohiy i Talè,
 Homb’eo iereo hitalily ty havantaña’e am’ondaty mbe hasamakeo— t’ie nahafonitse.
-
 Mpiarak’ ahy t’Iehovà, tsy hieran-draho;
 Ampandrea’e an-dovoke maindoñe ao, tehafe’e mb’añ’olon-drano mipendreñe mb’eo.
 Vaòe’e ty fiaiko, iaoloa’e mb’an-dalam-bantañe, ty amy tahina’ey.
@@ -14334,6 +14334,7 @@ Ampanginikinihe’ ty fatram-bey ty fiarañanaña’ Iehovà, ampihondrahondrae�
 Mampiterake o dierao ty fiarañanaña’ Iehovà, vaho ampikorendahe’e o alao; le añ’anjomba’e ao, songa miredoñe ty hoe : Engeñe!
 Niambesatse ambone’ i fiepoepoañey t’Iehovà. eka miambesatse ho mpanjaka nainai’e t’Iehovà.
 Ho tolora’ Iehovà faozarañe ondati’eo; ho tolora’ Iehovà fañanintsiñe ondati’eo.
+
 Honjoneko irehe ry Iehovà, ami’ty nañongaha’o ahy, vaho tsy napo’o hitohàke amako o rafelahikoo.
 Ry Iehovà, Andrianañahareko, nitoreovako le jinanga’o;
 Ry Iehovà, naonjo’o boak’ an-tsikeokeok’ ao ty fiaiko; nahatam-beloñe ahy irehe tsy hizotsoako mb’an-koboñe ao.
@@ -14371,7 +14372,6 @@ Andriañeñe t’Iehovà, fa nilosore’e amako ty fiferenaiña’e, an-drova ni
 Aa naho izaho, hoe iraho te niendrake: ho naitoañe aolom-pihaino’o eo. fe jinanji’o ty fivolan-kalaliko, te nikaiheko.
 Kokò t’Iehovà ry noro’e iabio, arova’ Iehovà o migahiñeo, vaho avarigidi’e amo mpievoñevoñeo ty avake.
 Mihaozara naho mihafatrara arofo ry hene mpitamà Iehovà.
-
 Haha ty nilioven-kakeo, ty nitakonan-tahiñe.
 Haha t’indaty tsy anisia’ Iehovà tahiñe, ie po-­pamañahiañe an-tro’e ao.
 Ie nitsiñe iraho, le ninike o taolakoo ty amo fitoreovako lomoñandroo.
@@ -14405,6 +14405,7 @@ ho votsora’e ty fiai’ iareo tsy hihomake, vaho ho velome’e an-tsan-kerè.
 Mandiñe Iehovà o tron-tikañeo; Ie ty mpañimba antika naho ty fikalan-defon-tika.
 Ama’e ty firebehan’ arofon-tika, fiatoan-tika i tahina’e masiñey.
 Ho ama’ay abey ty fiferenaiña’o ry Iehovà, fa mpitamà Azo.
+
 Andriañeko an-tsà an-tsà t’Iehovà, am-bavako ao nainai’e ty fandrengeañ’ aze.
 Mirenge am’ Iehovà ty troko; ie ho janjiñe’ o tretram-poo le hifalea’e.
 Antao hañonjoñe Iehovà, hitrao-pibango i Tahina’ey.
@@ -14427,7 +14428,6 @@ Maro ty mañembetse o vañoñeo, fe avotso’ Iehovà ama’e iaby.
 Ambena’e iaby o taola’eo, leo raike tsy rifotse.
 Havetra’ ty haratiañe ty lo-tsereke, vaho hafàtse ze malaiñe o vantañeo.
 Jebañe’ Iehovà ty fiai’ o mpitoro’eo, leo raik’ amo mitsolok’ ama’eo tsy hafàtse.
-
 Ry Iehovà, atretréo o miatreatre ahio, mialia amo mifandrapak’ amakoo.
 Andrambeso fikalan-defoñe naho fikala-meso, le miongaha hañolotse ahy.
 Apontsoaño ty lefo’o naho i fekon’ aliy; hatreatrè’o o mañoridañ’ahikoo saontsio ami’ty fiaiko ty hoe : Izaho ro fandrombahañe azo.
@@ -14456,6 +14456,7 @@ Ko ado’o hanoe’e ty hoe an-troke: Hiry! ty fañiria’ay! ndra ty hoe : Fa 
 Atraofo salareñe naho meñareñe o mitohàk’ amy haemberakoio; ampisikinen-kameñarañe naho inje o mirengèvok’ amakoo.
 Hipoñak’ an-drebeke naho handia-taroba o mifale ami’ty halio tahikoo; hitolom-panao ty hoe: Onjono t’Iehovà, ry mpifale amy fanintsiña’ i mpitoro’eiy.
 Hitaroñe ty havantaña’o ty lelako, ty enge’o lomoñandro.
+
 Mivolañe an-karatiañe an-tro’e ao ty Tsivokatse. Toe tsy aolo’ o maso’eo ty fañeveñañe aman’ Añahare.
 Mitsiriry ty vata’e o maso’eo, ie maharendreke te mavoeñe o sata’eo.
 Tahiñe naho hakalita­hañe o fivolam-bava’eo; nado’e ty hihitse tsy anoe’e ty hasoa.
@@ -14468,7 +14469,6 @@ Fa ama’o ty rano itsititiahan-kaveloñe; an-kazavà’o ao ro ahaoniña’ay h
 Toloño amo mahafohiñ’Azoo ty fiferenaiña’o; naho amo vañon-trokeo ty havantaña’o.
 Ee te tsy homb’amako ty tombom-pinevonevoke, vaho tsy hanao soik’ ahy ty tañan-do-tsereke.
 Mifitake ey o mpanao ratio, naronje ambane, tsy hitroatse ka.
-
 א Ko embetse amo tsivokatseo, vaho ko tsikirihe’o o mpanao ratio,
 F’ie hiforejeje aniany hoe ahetse, vaho hiheatse hoe rongo-maindoñe.
 ב Miatoa am’ Iehovà, le anò ty soa; imoneño i taney vaho rañeto ty figahiñañe.
@@ -14509,6 +14509,7 @@ Fe nihelañe añe, le heheke, tsy eo; pinaiko fa tsy nahatrea.
 Fe hatrao-­karotsake o mpandilatseo vaho ho tomereñe ty figadoña’ ty lo-tsereke.
 ת Boak’ am’ Iehovà ty fandrombahañe o vañoñeo, Ie ty fitsoloha’ iareo an-tsàm-poheke.
 Imbàe’ Iehovà naho votsore’e; haha’e amo ­tsivokatseo vaho rombahe’e, amy te Ie ty fipalira’ iareo.
+
 Ry Iehovà, ko mitrevok’ahy ami’ty fifombo’o; naho ko andilova’o ami’ty fiforoforoa’o.
 Fa mitsamantake amako o ana-pale’oo, vaho manindry ahy ty fità’o.
 Tararèñe ty fiaiko te hatorifiha’o, naho po-pijanganañe o taolakoo, ty amy tahikoy.
@@ -14589,12 +14590,12 @@ Hafanto’ Iehovà an-kandro ty fiferenaiña’e, le amako an-kaleñe i sabo’e
 Hoe iraho aman’ Añahare lamilamiko: Akore ty nandikofa’o ahiko? Ino ty andalàko ty famorekekèan- drafelahy?
 Hoe ­fañotohotoañe ty an-taolako ao, ty fiteraterà’ o rafelahikoo; ie anoa’e ty hoe lomoñandro, Aia ze o Andrianañahare’o zao?
 Ino ty ilonjera’o, ty troko tia? Ino ty ­fivalitsikotahañe añ’ovako ao? Mitamà an’Andrianañahare; fa mbe handriañe’o i fandrombahan-tareheko naho Andrianañaharekoy.
-
 Meo to, ry Andrianañahare, mañalañalaña ho ahy amy fifeheañe tsy aman-Kàkey; hahao am’ondaty mamañahy naho mengokeo.
 Ihe ro Andrianañaharen-kaozarako; Ino ty nifaria’o ahiko? Ino ty ibokobokoako am-pigoboñañe ao ie forekeken-drafelahy?
 Ahitrifo ty hazavà’o naho ty hatò’o, hiaolo, hanese ahy mb’amy vohi’o miavakey mb’eo, vaho mb’an-kivoho’o mb’eo.
 Le homb’an-­kitrelin’ Añahare mb’eo, mb’aman’Añahare mampinembanembañ’ ahy, vaho ho saboeko ami’ty marovany, t’i Abo-Tia, Andrianañahareko.
 Ino ty ­mahalonjetse azo ty fiaiko tia? inoñe ty angoihoia’o amako ao? Mitamà an’Andriaenañahare; fa mbe handriañeko, i fandrombaham-piatrefako naho Andrianañaharekoy.
+
 Ry Andrianañahare, fa jinanjin-dravembia’ay, fa natalilin-droae’ay o fitoloñañe nanoe’o tañ’ andro’ iereoo, amo andro faha’ matoetoeo.
 Ie am-pità’o ty nandroake o fifeheañeo le najado’o eo ; dinemo’o ondatio, vaho naparatsia’o.
 Tsy ty fibara’ iareo ty nahazoañe i taney; le tsy o fità’ iareoo ty naharombake, fa ty fità’o havana naho ty sira’o, vaho ty hazavan-dahara’o amy t’ie nisohe’o.
@@ -14697,7 +14698,6 @@ F’ie mihomake, tsy eo ty hendese’e. tsy hañorik’ aze higodañe ao ty enge
 Eka! nitata’e ty fiai’e te niveloñe: Nitsiririeñe t’ie niraorao.
 Homb’am-pimoneñan-droae’e ao re; tsy ho isa’e ka ty hazavàñe.
 T’indaty iasiañe, mete tsy maharendreke t’ie, manahake o bibio, hihomake.
-
 Nitsara t’Iehovà Andrianañahare Tsitongerè, nikoike ty tane toy boak’ am-panjiriha’ i àndroy sikal’ am-pitsofora’e añe.
 Hirik’e Tsiône ao, ty hafoniran-kamotsotsoreñe, ty fireandreañan’ Añahare.
 Mb’ etoy i Andrianañaharen-tikañey, ie tsy hianjiñe; mamorototo aolo’e ty afo, iarisehoa’ ty tangololahy.
@@ -14721,6 +14721,8 @@ Mitoboke irehe vaho mifosa rahalahy; dramote’o ty anan-drene’o.
 Ie anoe’o izay, hijomohoñe hao Raho? natao’o ho hambañe ama’o hao, toe endahako, vaho alahako añatrefam-pihaino’o eo o entako ty ama’oo.
 Aa le ereñereo zao, ry mpandikok’ an’Andrianañahareo kera ho rangodrangoteko, ihe tsy amam-pañaha.
 Mañonjoñ’ Ahy ty mañenga sorom-pañandriañañe; vaho hampalangeseko amy mamantañe i fañaveloa’eiy ty fandrombahan’ Añahare.
+
+
 Ry Andrianañahare, matariha amy hafatraram-pikokoa’o, faopaoho o fiolàkoo amo hara’elahim-piferenaiña’oo,
 Kotriño hitoratsike amo tahikoo, liovo amo fandilarakoo.
 Apotako o fiolàkoo: vaho miatrek’ ahy nainai’e o hakeokoo.
@@ -14752,13 +14754,13 @@ Hehe t’indaty tsy nanao an’Andrianañahare ho fipalira’e; fe ty habei’ o
 Aa naho izaho, le hoe sakoa mandrevake añ’anjomban’Añahare ao; iatoako nainai’e donia ty fiferenaiñan’ Añahare,
 Andriañeko nainai’e irehe, amy te Ihe ty nanao izay, vaho ho tamaeko i tahina’oy ie ty soa añatrefa’ o noro’oo.
 
-
 Hoe ty dagola an-tro’e ao: Tsy ao t’i Andrianañahare. Vàlañe iareo, mpanao hakeo mampangorý; leo raike tsy manao soa.
 Jiloven’ Añahare boak’an-dikerañe ao o ana’ ondatio, hivazohoa’e ke ao ty mahilala, mpitsoek’ an’Andrianañahare.
 Songa niamboho, niharo naniva vatañe, tsy eo ty manao soa, leo raike.
 Tsy maharendreke hao o mpitolon-karatiañeo? o mampibotseke ondatiko hoe mitamboavokake mofo, vaho tsy mikanjy an’Andrianañahareo.
 Hehe t’ie mirevendreveñe, ndra te tsy eo ty mahahembañe; fa navarakain’ Añahare ty taola’ o nitobe hiatreatre azoo; nisalare’o, fa naforintsen’Añahare.
 Toe hiboake amy Tsiône ty fandrombahañe Israele! Ie hampolien’ Añahare ondati’e mirohio; Le hirebeke t’Iakobe, vaho hifale t’Israele.
+
 
 Rombaho iraho ry Andrianañahare ty amy tahina’oy, vaho meo-to amo haozara’oo.
 Ry Andrianañahare, janjiño ty halaliko, toloro ravembia o entam-bavakoo.
@@ -14767,7 +14769,6 @@ Inao! Mpañimb’ahy t’i Andrianañahare, Fiatoam-piaiko t’i Talè.
 Hafote’e amo mivoñoñe ahiko ty haratia’ iareo; Rotsaho iereo ami’ty figahiña’o.
 Mañenga ama’o an-tsatrin-tro iraho, andriañeko i tahina’oy ry Iehovà, amy te ie ty soa;
 Fa nafaha’e amako ze hene haemberañe, vaho nisambae’ o masokoo o rafelahikoo.
-
 
 Janjiño o ­filolohakoo ry Andrianañahare; ko mietak’ amo halalikoo.
 Haoño iraho, le toiño; ie tsitoboboly am-pitoreoko, toe miñeoñeoñe avao
@@ -14849,6 +14850,7 @@ Mihelahela avao, mipay haneñe, vaho mitromoroñe naho tsy vontsy.
 Aa naho izaho, ho saboeko ty haozara’o; Eka, hipoñafako te maraiñe ty amy fiferenaiña’oy; amy te Ihe ro tambohoko, fitsolohako añ’andron-kaloviloviako.
 Ry Haozarako, hisaboako am-pandrengeañe: amy te mpikalañ’ ahy t’i Andrianañahare, i Andrianañaharem-piferenaiñ’ ahiy.
 
+
 Ry Andrianañahare nifarie’o, dinemo’o, nifomboa’o; ehe sotraho zahay.
 Nampiezeñezeñe’o ty tane; nabenta’o; melaño o jeba’eo, fa miozoñozoñe.
 Nampahaoniña’o ­fisotriañe ondati’oo; nampitohofa’o divay mampivembèñe.
@@ -14861,7 +14863,6 @@ Ia ty hampihova ahy amy rova fatratsey? Ia ty hiaolo ahy mb’ Edome mb’eo?
 Tsy Ihe hao ry Andrianañahare ty nahafary anay? Tsy hitraofa’o fionjonañe hao, ry Andrianañahare o lahindefo’aio !
 Oloro amy rafelahiy zahay, fa tsy vente’e ty fandrombaha’ ondatio.
 I Andrianañahare ro fahareketa’ay, Ie ty handialia o rafelahi’aio.
-
 
 Janjiño ty koiko, ry Andrianañahare; haoño o halalikoo.
 Boak’ añ’olon-tane añe ty ikoihako Azo, naho opo ty troko; iaolò mb’an-­damilamy abo te amako.
@@ -14921,7 +14922,6 @@ Anoe’o lonte soa o hàto’eo, amàta’o o vavahali’eo: lotrahe’o ami’t
 Sabakae’o ami’ty havokara’o ty taoñe, ampitsopatsopahen-tsolike o oloñolo’oo;
 Mitsiritsioke o fiandrazañe am-patrambeio; vaho misikim-pirebehañe o vohitseo.
 Misaroñe biby fiandrazeñe o hivokeo, miravak’ ampemba o vavataneo; mitreñe an-kaehake le misabo.
-
 Mipoñafa rebek’ aman’ Andrianañahare, ry hene tane toy !
 Isabò ty volonahe’ i Tahina’ey, toloro engeñe mitoabotse.
 Anò ty hoe aman’ Añahare : Ra’elahy o tolon-draha’oo ! Ami’ty hajabahinan-kaozara’o ty hitsolofìña’ o rafelahi’oo aolo’o eo.
@@ -14942,6 +14942,7 @@ Nitoreo am-bavako, le nampionjoneko an-delako.
 Ie mahatrea hakeo an-troko ato, le tsy hijanjiña’ i Talè.
 Fa toe mijanjiñe ahy t’i Andrianañahare haoñe’e i feon-kalalikoy.
 Andriañeñe t’i Andrianañahare, amy te tsy ambohoa’e i filolofakoy, vaho tsy afaha’e amako ty fiferenaiña’e.
+
 Toe hasoan’ Añahare tika naho tahie’e, kinokinohe’e amantika i lahara’ey, Selà
 Ho fohineñe an-tane atoy o lala’oo, amo kilakila ‘ndatio ty fandrombaha’o.
 Ho renge’ ondatio irehe ry Andrianañahare; hene handrenge Azo ondatio.
@@ -15028,7 +15029,6 @@ Ehe ampimeñaro naho vere­vereo o mipay ty fiaiko; hampibalihe’e mb’eo, vah
 Hampipoliañe an-kameñarañe ze manao ty hoe: Hý! Hý!
 Ampirebehañe ze hene mipay Azo, hifale ty ama’o; le hitolom-panao ty hoe o mpitea ty fandrombaha’oo: Onjono t’i Andrianañahare.
 Fe poie’e naho rarake iraho; Malisà mb’amako ry Andrianañahare; Ihe ro mpañolotse naho mpañaha ahy; taentaeno ry Iehovà.
-
 Ihe ry Iehovà, ro itsolohako; ko apo’o ho salareñe,
 Votsoro ami’ty havantaña’o, naho hahao; atokilaño amako ty ravembia’o vaho rombaho.
 Ehe t’ie ho vato fimoneñako, ho fimpoliako; fa nafanto’o ty handrombahañe ahiko; Ihe ro lamilamiko naho rova fiàroko.
@@ -15124,6 +15124,7 @@ Ambeno i fañinay, fa atseke kibohon-kasiahañe o toetse maieñe’ an-taneo !
 Ko hampolie’o an-kasalarañe o demokeo! fa hibango i tahina’oy o misotrio naho o poie’eo.
 Miongaha, ry Andrianañahare, ihalalio o azoo; tiahio ty fiterà’ i dagolay lomoñandro.
 Ko haliño ty feo’ o rafelahi’oo; mitoabotse nainai’e ty fifandragaragà’ o mitroatse ama’oo.
+
 Fa nañandriañe Azo zahay ry Andrianañahare ! fa nañandriañe Azo, fa marine i tahina’oy, fa nitaroñeñe o fitoloña’o fanjakao.
 Ie amotoañako andro; le hizaka ami’ty fahiti’e iraho.
 Mitranake ty tane toy naho ze kila mimoneñe ao, Izaho ty nampijadoñe o faha’eo. Selà
@@ -15168,7 +15169,6 @@ Nampikojojoake orañe o rahoñeo; nigorogodoiñe i likerañey, nimb’etia mb’
 Tam-po’ i tangololahiy ty fivola’ i ampi’oy; nampireandreañe’ i helatsey ty voatse toy! nihondrahondra naho niozoñozoñe ty tane toy.
 Nitoañe’ i lala’oy i riakey, i rano jabajabay ty nilalan-tsile’o; vaho tsy nioniñe o liam-pandia’oo.
 Narahe’o hoe lia-raike ondati’oo, am-pità’ i Mosè naho i Aharone.
-
 Tsendreño o fañòhakoo ry ondatiko, atokilaño mb’am-pivolañam-bavako o ravembia’ areoo.
 Ho sokafeko ty vavako handrazaña’e: ho lañoneko razan-­tsaontsy miheotse boak’an-kaehae’e;
 o jinanjin-tika naho fohin-tikañe vaho natalilin-droae aman-tikañeo.
@@ -15254,6 +15254,7 @@ Aa vaho akore ty atao’ o kilakila ondatio ty hoe : Aia t’i Andrianañahare�
 Ampiatrefañ’ Azo ty fitretretretre’ o mpirohio; ty ami’ty harà’ elahin-kaozara’o; hahao o tinendre havetrakeo.
 Le valeo im-pito añ’araña’ o mañohok’ anaio, o tivetive nafokafoka’e ama’oo ry Talè.
 Soa te hañandriañe Azo nainai’e zahay ondati’o naho añondrim-piandraza’oo, vaho hatalili’ay amy ze hene tariratse kitro añ’afe’e ty enge’o.
+
 Toloro ravembia ry Mpiarak’ Israele, ry Mpiaolo’ Iosefe hoe t’ie lia-raike; ry Mpiambesatse ambone’ o kerobeo, mireandreaña !
 Tsekafo añatrefa’ i Efraime naho i Beniamine naho i Menase ty haozara’o vaho mb’etoa hañimba anay !
 Ry Andrianañahare, Ampolio zahay naho ampireandreaño laharañe, soa te ho tra-drombake zahay.
@@ -15290,7 +15291,6 @@ Aa naho nijanjiñe ahy ondatikoo! naho nañavelo amo lalakoo t’Israele,
 le ho nampitsolofiñeko aniany o malaiñe iareoo; vaho ho natoliko ty tañako hiatreatre o rafelahi’ iareoo!
 Nioniñe te tsy to añatrefa’ Iehovà o malaiñe azeo, fe ho nainai’e eo t’Israele.
 Le hanjotsoa’e ampemba soa iereo, naho hanjañeko an-tantele boak’am-bato ao.
-
 Mijohañe am-pivo­rim-panalolahy t’i Andrianañahare; mizaka añivom-pizaka eo.
 Pak’ombia ty mbe izakà’ areo ami’ty tsy hiti’e, hañonjonañe o tsivokatseo? Selà
 Meo tò o rarakeo naho o bode-raeo; tohaño ty zo’ o poie’eo naho o misotrio.
@@ -15299,6 +15299,7 @@ Tsy mahilala iereo, naho tsy mahafohiñe, mirere­rere añ’ieñe ao avao; fa n
 Nanao ty hoe iraho: Mpizaka nahareo songa anak’ i Andindimoneñey.
 Fe hikoromake hoe ondaty avao, hikorovoke manahake ty raike amo roandriañeo.
 Miongaha, ry Andrianañahare, zakao ty tane toy, fa kila ho lovae’o o fifeheañeo.
+
 Ko mianjiñe ry Andrianañahare ko mimosy vaho ko mañamahama, ry Andrianamboatse!
 Heheke, ­miroharoha o rafelahi’oo, mivoala-doha o malaiñe Azoo.
 Hikililie’ iareo ondati’oo; mivory hikinia o mipalitse ama’oo.
@@ -15344,7 +15345,6 @@ Mifañaoñe ty fiferenaiñañe naho ty hatò; mifañondroke ty havantañañe nah
 Mivoañe hirik’an-tane ao ty hatò, mijilo hirik’an-dikerañe añe o havantañañeo.
 Eka, hanjotso ty soa t’Iehovà, vaho hañomey ty voka’e ty tane’ay toy.
 Hiaolo Aze ty havañonañe, hañajaria’e lalañe ho liam-pandia’e.
-
 Atokilaño ty ravembia’o ry Iehovà, le toiño iraho, fa rarake naho misotry.
 Ambeno ty fiaiko, fa mañorike Hake, Ihe ry Andrianañahareko, rombaho o mpitoro’o mipalitse ama’oo.
 Tretrezo iraho, ry Talè, izaho mitoreo lomoñandro.
@@ -15369,6 +15369,7 @@ Ho talilieko i Rahabe naho i Bavele o mahafohiñe Ahikoo; heheke ty Pilistý, na
 Fe ho volañeñe ty hoe e Tsiône ao : Intoy naho intia ro toly ama’e ao, i Andindimoneñey ty mañoreñ’ aze.
 Hañiake t’Iehovà, ho volilie’e ondatio: Nisamak’ ao toy. Selà
 Aa le hanao ty hoe o misaboo naho o mitsolio, hene ama’o o fandoparakoo.
+
 Ry Iehovà, Andrianañaharem- pandrombahañe ahiko, itoreovako handro an-kaleñe añatrefa’o,
 Ehe te hiatrek’ azo ty halaliko; atokilaño mb’amy fikaihakoy ty ravembia’o;
 Fa losotse ty hasosoram-piaiko, vaho manòto-kibory ty haveloko.
@@ -15440,7 +15441,6 @@ Aia o fiferenaiña’o haehaeo, ry Talè, ze nifantà’o amy Davide ami’ty fi
 Tiahio ry Talè, ty fañivañivañe i mpitoro’oy, ie otroñeko añ’arañako ondaty maroo,
 ie kinizakiza’ o rafelahi’oo, ry Iehovà, ie ninjè’ iareo o lia’ i noriza’oio;
 Andriañeñe nainai’e t’Iehovà. Ie izay, naho Amena.
-
 Ry Talè, Ihe ni-fimoneña’ay amo tarira’ay iabio.
 Ie mboe tsy toly o vohitseo mboe tsy tsinene’o ty tane toy naho ty voatse toy, boak’ an-kaehae hambo’e añe pak’ an-kitro añ’afe’e añe, Ihe ro Andrianañahare.
 Ampolie’o mb’an-debok’ ao ondatio ami’ty hoe: Mimpolia ry ana’ondaty.
@@ -15474,6 +15474,7 @@ Ho lià’o ty liona naho ty fandrefeala; ho hitsakitsahe’o ambanem-pandia’o
 Kanao ifahara’e koko, ho hahako, havotrako an-kaboañe ey amy te fohi’e ty añarako.
 Ho kanjie’e, le ho toiñeko; hindrezako te am-poheke, ho votsorako vaho ho tolorako asiñe.
 Heneñeko halava’ havelon-dre; vaho hampahaoniñeko aze ty fandrombahako.
+
 Soa ty mañandriañe Iehovà, ty misabo vaho mibango o tahina’oo ry Andindimoneñey,
 ty hitalily ty fiferenaiña’o boa’maraiñe; naho ty figahiña’o an-kaleñe,
 ami’ty marovany folo-taly, naho ami’ty mandalina, vaho ami’ty fandrimotam-peon-jejo-bory.
@@ -15489,7 +15490,6 @@ Handrevake hoe satrañe o vantañeo, manahake ty fitiria’ o akao e Libanoneo t
 Tinongy añ’anjomba’ Iehovà ao, hitroñe an’kiririsan’Añahare eo.
 Mbe hiregorego iereo te antetse, ho lifo-dranoke naho hirimboñe,
 hitaroñe te vañoñe t’Iehovà, lamilamiko, tsy ama’e ty tsy to.
-
 Hifehe t’Iehovà, hisikim-bolonahetse, hisaron-kaozarañe t’Iehovà, toe hidiañe, Eka, mioreñe ty voatse toy, tsy hasitse.
 Fa norizañe haehae i fiambesa’oy, boake tsietoimonek’ añe ‘n-Iheo.
 Fa mionjoñe o afo-ranoo, ry Iehovà, nipoña-peo o sorotombaha’eo; mañonjoñe ty fitroña’e i fiepoepoañey.
@@ -15585,6 +15585,7 @@ Ze mifosa ondatio, ie ty harotsako; hejeko ty maso miengeñe naho ty troke miko�
 Amo migahiñe an-tane atoio o masokoo, hiharoa’ iareo fimoneñañe, hitoroñe ahy ty mañavelo an-kahiti’e.
 Tsy hitobok’ an-trañoko ao ty mitolom-pamañahiañe; tsy ho tambatse aolo’ o masokoo ty mpivolam-bande.
 Ho zamaneko boa-maraindray o lo-tserek’ amy taneio; haitoako ami’ty rova’ Iehovà o mpitolon-katsivokarañeo.
+
 ie andeme’e vaho mandoa toreo aman’Añahare. Ry Iehovà, janjiño ty halaliko; le ampomb’ama’o ty toreoko.
 Ko aeta’o amako ty lahara’o añ’andron-kaloviloviañe. atokilaño amako ty ravembia’o; malisà hanoiñe ahy ami’ty andro ikanjiako.
 Mihelañe hoe hatoeñe o androkoo; miforehetse hoe an-toñak’ ao o taolakoo.
@@ -15613,7 +15614,6 @@ Haehae irehe ro nañoreñe ty tane toy, satam-pità’o o likerañeo.
 Ho momoke iereo, fa nainai’e eo irehe; fonga hikoneatse hoe sikiñe hambo’e, ampilimbeze’o hoe sarimbo vaho ho vaoe’o iereo.
 Fe tsy mihotike irehe, tsy mbia higadoñe o tao’oo.
 Le lia’e ho eo o anam-pitoro’oo, le hijadoñe añatrefa’o eo o tiri’eo.
-
 Andriaño t’Iehovà, ry troko; naho ze hene amako; bangò ty tahina’e masiñe !
 Andriaño t’Iehovà ry troko, le ko haliño o hasoa’e iabio.
 I mpañaha ze hene hakeo’oy, ie mpanaha ze atao arete’oy.
@@ -15807,6 +15807,7 @@ ampidoaña’e ìnje o roandriañeo, ampiriorioe’e am-bangý tsy aman-dalañe 
 toe aonjo’e ambone’ o hasotriañeo i rarakey, vaho anoe hoe lia-raike o hasavereña’eo.
 Isa’ o vantañeo izay le mifale, fonga mamìm-bava ka ty hatsivokarañe.
 Ia ty mahihitse, hiharaharà’e? ie ro mahafohiñe ty fiferenaiña’ Iehovà.
+
 Migahiñe ty troko, ry Andrianañahare, hisaboako; handrengeako, eka, boak’ añovako ao.
 Mibarakaoha ry valiha naho jejo-bory! hitsekafako ty manjirik’ andro.
 Hañandriañe Azo iraho ry Iehovà, añivo’ o fifeheañeo; ho rengeko an-tsabo aivo’ ondatio.
@@ -15820,7 +15821,6 @@ Ia ty hinday ahy mb’amy rova fatratsey ao? Ia ty hiaolo ahy mb’ Edome mb’
 Fa naforintse’o hao zahay, ry Andrianañahare? Tsy hitraofe’o fionjoñe hao o lahin-defo’aio, ry Andrianañahare?
 Ehe oloro amo rafelahio, fa tsy vente’e ty fandrombaha’ ondatio.
 Hampanjofak’anay t’i Andrianañahare, ie ty handialia o rafelahi’aio.
-
 Ry Andrianañaharem-pandrengeako, Ko mianjiñe,
 fa nasoka’ iareo amako ty vava raty naho ty vavam-pamañahiañe fa nifosa ahy an-dela mibodiake.
 Niarikoboña’ iareo am-pivolam-palaiñañe; vaho nialy amako tsy am-poto’e.
@@ -16329,6 +16329,7 @@ Tsy hejeko hao o tsy tea azoo, ry Iehovà? Tsy hifangantoreko hao o miatreatre a
 Toe hejeko am-palai-mena; fonga volilieko ho rafelahiko.
 Tsikaraho iraho, ry Andrianañahare, arofoano ty troko; tsoho vaho arendreho o fitsakoreakoo.
 Vazoho, he amako ao ty fiolañe, vaho iaolò mb’an-dalañe nainai’e mb’eo.
+
 Ho a i Talè, Sabo’ i Davide. Avotsoro am’ ondaty lo-tserekeo iraho, ry Iehovà; arovo am’ondaty piaroteñeo;
 o mikilily añ’arofo’e ao naho mikitrok’aly lomoñandroo.
 Nisioñe’ iereo ty famele’ iareo hoe mereñe; an-tsoñi’iareo ty vorem-pandrefeala. Selà
@@ -16342,7 +16343,6 @@ naho hararadrarak’ am’ iereo ty foroha mirekake; vaho havokovoko añ’afo a
 Tsy hitoera’ ty mpikatramo ty tane toy; ho vandroñen-doza ondaty mpiloa-tiñakeo.
 Fantako te mpanozañe o misotrio t’Iehovà, naho ty zo’ o rarakeo.
 Toe mañandriañe ty tahina’o o vantañeo, vaho himoneñe añatrefa’o eo o vañoñeo.
-
 Sabo’ i Davide Ry Iehovà, mikanjy azo iraho, mb’etoa an-taentaeñe; toloro ravembia ty feoko te koiheko.
 Ano rame añatrefa’o eo o halalikoo, hoe soron-kariva ty fizonjo’ o sirakoo.
 Ampijadoño mpañambeñe ty vavako, ry Iehovà, ambeno ty lalambein-tsoñiko.
@@ -16353,6 +16353,7 @@ Hambañe ami’ty fitrabahañe naho fitrobohan-tane, ty fampivarakaihañe am-bav
 Fe mitolik’ ama’o o masokoo, ry Iehovà, Talè; fa ama’o ty fipalirako— ko alonga’o ty fiaiko.
 Arovo iraho amy fandrike nampibitsoheñe ho ahikoy; naho amo fandri-bo’ o mpanao ratio.
 Hivariñe an-karato’ iareo avao o lo-tserekeo, te izaho miary eo.
+
 Fañòha’ i Davide; ty Halali’e tan-dakato ao Mitoreo am-peo am’ Iehovà iraho, hihalaly tretre am’Iehovà ty feoko.
 Adobako añatrefa’e ty toreoko; volañeko añatrefa’e o mahaferenaiñe ahikoo.
 Ie nitoirañe añ’ovako ao ty troko, niarofoana’o ty liako, amy lalan-tsileke fijelanjelañakoy ty nañetaha’ iareo fandrike.
@@ -16360,7 +16361,6 @@ Toliho mb’an-tañan-kavanako le vazohò, te tsy eo ty mañaoñ’ ahy. tsy eo 
 Nitoreo ama’o iraho ry Iehovà, ami’ty hoe : Ihe ro fitsolohako, ty anjarako an-tanen-kaveloñ’ ao.
 Janjiño ty fikaikaihako fa loho mirèke; hahao amo mpanao samporerak’ ahiio, fa fatratse te amako.
 Akaro am-balabey ao ty fiaiko hibangoako ty tahina’o; hiropak’ amako o vañoñeo ami’ty fatariha’o amako.
-
 Sabo’ i Davide Ry Iehovà, janjiño ty filolohako, atokilaño mb’amo halalikoo ty ravembia’o ty amo figahiña’oo naho o havantaña’oo.
 Ko ampanesefe’o an-jaka ty mpitoro’o; fa tsi-mbia tsy ho añatrefa’o ty veloñe.
 Fa nampisòañe ty fiaiko o rafelahio, nigorè’e an-tane ty haveloko; nampitoboheñe añ’ieñe ao, manahake t’ie nilolo ela.
@@ -17465,8 +17465,7 @@ Ndra kitra’e ajalahy rarake mahihitse ta t’ie mpanjaka antetse gege tsy mañ
 Toe niboak’am-balabey ao re ho mpanjaka; ie nirarake te nitoly am-pifehea’e ao.
 Nitreako te niarimboe’ ze hene veloñe ambane’ i àndroy, i ajalahy tsinara valoha’ey, i handimbe azey,
 naho te tsifotofoto ondaty am-boriza’e ao, f’ie tsy ho loho onjone’ o manonjohy azeo. Toe hakafoahañe ka zao vaho fañeañan-tioke.
-Ambeno ty lia’o mb’añ’an­jomban’ añahare mb’eo, harineo hijanjiñe’o, Hàmake izay ta te mañenga ty soro’ o seretseo, ie tsy apota’e te manao raty.
-Ko meke am-palie, naho ko malisa an-tro’o ty hisaontsy ndra inoñe aman’ Añahare: fa an-dindiñe ao t’i Andrianañahare, ihe an-tane atoy, aa le anò tsy ampeampe o enta’oo.
+Ambeno ty lia’o mb’añ’an­jomban’ añahare mb’eo, harineo hijanjiñe’o, Hàmake izay ta te mañenga ty soro’ o seretseo, ie tsy apota’e te manao raty. Ko meke am-palie, naho ko malisa an-tro’o ty hisaontsy ndra inoñe aman’ Añahare: fa an-dindiñe ao t’i Andrianañahare, ihe an-tane atoy, aa le anò tsy ampeampe o enta’oo.
 Mahavy nofy ty fimaneam-pitoloñañe; fe fohiñe ami’ty hamaron-tsaontsi’e ty feo’ i gegey.
 Ihe mifanta aman’ Añahare, ko malaoñe hañavake; fa tsy ifalea’e ty dagola: ondroho i nifantà’oy.
 Hàmake t’ie tsy mifanta, ta te mifanta tsy mañavake.
@@ -17485,6 +17484,7 @@ Mikama añ’ieñe ao amo hene andro’eo, amy t’ie lako haemberañe naho hasi
 Ingo, ty nitreako ho soa naho mañeva aze, t’ie mikama naho mitohoke vaho hifale ami’ty hasoa’ i tolon-draha itoloña’e ambane’ i àndroy amo andro tsy ampeampe iaiña’eo, o natolon’ Añahare azeo: fa izay ty anjara’e.
 Naho ondaty nitoloran’ Añahare vara naho hanaña le nimea’e lily hikama naho handrambe anjara, vaho hirebek’ amy nifanehafa’ey; toe falalàn’ Añahare izay.
 Le tsy beteke haereñere’e o andro iveloma’eo, amy t’ie ampitoloñen’ Añahare an-kafalean-troke.
+
 Eo ty haratiañe nitreako ambane’ i àndroy, toe mandrambañe am’ondatio,
 eo t’indaty nitoloran’ Añahare drala naho vara vaho asiñe, ie tsy po-draha irien-troke, fe tsy nitoloran’ Añahare ty haozarañe hahafikama’e, te mone hane’ ty ambahiny; hakafoahañe izay vaho areten-draty.
 Ndra te misamak’ anake zato indatiy, naho maro taoñe ty iaiña’e, ndra firefire, fe tsy enen-kasoa ty tro’e, naho tsy eo ty handeveñe aze, le hàmake t’ie niboloañe,
@@ -17694,6 +17694,7 @@ fa ihe ry dehoko, ry homozohozo’e, tsy amañ’ohatse, bako tokan-drene’e, m
 Ia o miboake hoe t’ie andro manjirikeo? motsotsore hoe i volan-dorisay, mikotritriake hoe i àndroy, mahalatsa hoe valobohòke mirañoraño an-kobaiñe?
 Nizotso mb’añ’ala-vondron-tsakoa mb’eo raho hisary o fitirim-bao am-bavataneo, hañenteako ke mibotiboty o vaheo, he mamòñe o raketao.
 Niambovo amako te navotra’ ty troko an-tsarete ao, hehe te añ’ilako eo ty roandria.
+
 Mibaliha, mibaliha, ry nte-Solàme; mimpolia, mimpolia, hisamba’ay azo. Inom-bao ty angarefa’ areo i nte-Solamey hoe te itsinjaha’e i Mahanaime?
 Fanjaka o fandia’o mihànao, ry anak’ ampelan-droandria! hoe hange nitoloñem-pitàm-pitsene mahimbañe ty hahomozohozom-pe’o.
 Fitovy bontoly ty foe’o, ie le lia’e tsy po-divay milaro; fitoboron’ ampemba iarikatoham-binda o araña’oo.
@@ -17706,8 +17707,7 @@ Aa hoe iraho: Hanganiheko i voanioy, naho ho rambeseko o voa’eo; fa hanahake t
 Hoe divay fanjaka ty lañilañi’o; malama ty fisorogoda’e ho a i kokoakoy, hoe mitsiritsioke mora am-pivimbim-pirotse.
 A i kokoakoy raho naho amako ty fañiria’e.
 Antao, kokoako, homb’ an-kaloke mb’eo, hialeñe amo kialoo.
-Antao hañaleñaleñe mb’an-tanem-bahe mb’eo handrèndreke ty fibotibotia’ o vaheo, ke te miborake o voñe’eo, hera mamolera o raketao; ao ty hanjotsoako ama’o ty hateako, ry kokoako.
-Mañakatse ty hañi’e o vahenamaloo, hene raha mafiry ty an-tsariran-tikañe eo, ty vao naho ty haehae, songa nahajako ho azo, ry kokoako.
+Antao hañaleñaleñe mb’an-tanem-bahe mb’eo handrèndreke ty fibotibotia’ o vaheo, ke te miborake o voñe’eo, hera mamolera o raketao; ao ty hanjotsoako ama’o ty hateako, ry kokoako. Mañakatse ty hañi’e o vahenamaloo, hene raha mafiry ty an-tsariran-tikañe eo, ty vao naho ty haehae, songa nahajako ho azo, ry kokoako.
 Ho ni-soa naho ni-rahalahiko irehe, i ninono am-patroan-drenekoy! Ie amy zay, naho nitendrek’ ama’o alafe’e ao iraho vaho nañorok’ azo, le tsy ho nifosae’ ondatio.
 Ho nikozozoteko mb’añ’ anjomban- dreneko mb’eo, mb’amy nañoke ahikoy. ho nampinomeko divay mandrove, naho ty ron-draketako.
 Iondana’ ty lohako ty fità’e havia, vaho mañohoñ’ ahy ty fità’e havana.
@@ -17897,8 +17897,7 @@ Ie sigihe’iereo ami’ty hoe: Ipaiao amo jinio naho amo doany miñeoñeoñe na
 Mb’an-Kàke naho i fañinay! Naho tsy milahatse ami’ty tsara toy ty enta’ iareo, le tsy nanjirihan’ andro.
 Hiranga aze iereo, am-poheke naho hasalikoañe, aa ie milingoa, le ho boseke vaho hamatse i mpanjaka’ iareoy naho ty ’ndrahare’ iareo. Aa ke hian­drandra iereo,
 hera hitolike an-tane, le haronje am-paloviloviañe naho am-pigodoñañe, an-kamoromoroñañe naho an-kaferenaiñañe vaho añ’ ieñe ao.
-Ie amy zao, tsy ho an-kamoromoroñañe ao ka i naloviloviy; nimavoe’e ty tane’ i Zebolone naho ty tane’ i Naftale te taolo, fe honjone’e ty enge’e añ’andro añe, le hampilifore’e volonahetse ty an-dala’ i riakey, alafe’ Iordaneiy amy Galilà’ o kilakila’ ndatioy.
-Mahaoniñe failo ra’elahy ondaty midebedebe añ’ieñeo; mireandreañe amo mpimoneñe an-kamoromoroñañeo i hazavàñey.
+Ie amy zao, tsy ho an-kamoromoroñañe ao ka i naloviloviy; nimavoe’e ty tane’ i Zebolone naho ty tane’ i Naftale te taolo, fe honjone’e ty enge’e añ’andro añe, le hampilifore’e volonahetse ty an-dala’ i riakey, alafe’ Iordaneiy amy Galilà’ o kilakila’ ndatioy. Mahaoniñe failo ra’elahy ondaty midebedebe añ’ieñeo; mireandreañe amo mpimoneñe an-kamoromoroñañeo i hazavàñey.
 Fa nampitomboe’o i fifeheañey, fa nonjone’o ty firebeha’ iareo; mandia-taroba ama’o iereo manahake ty hafaleañe an-tsan-kavokarañe, naho ty firoharoha’ o lahindefoñe mizara ty nikopaha’ iareoo.
 Fa pinoza’o i joka fijinia’ey, naho ty boda an-tsoro’e eo, vaho ty kobaim-pamorekeke aze, manahake tañ’andro’ i Midiane.
 Le ze hana nikodokodoy am-pidabadoà’e, ze saroñe navarimbariñ’an-dio, le hatao firehetse, fanodorañ’añ’afo.
@@ -17918,6 +17917,7 @@ Misolebotse hoe afo ty hatsivokarañe; forototoe’e iaby ty fatike naho ty hisa
 Ty amy fombo miforoforo’ Iehovày, hotomomoke i taney; naho hoe famahañan’afo avao ondatio, leo raike tsy mandrombake an-drahalahi’e.
 Apitso’ ty raike ty fità’e havana; abotse’e ty fità’e havia, f’ie tsy eneñe; songa avorembore’ ty nofon-tsira’e ondatio,
 Agedra’ i Menasè t’i Efraime; vaho i Efraime t’i Menasè; itraofa’ iareo fiatreke Iehodà. Ie amy hoe zay iaby mboe tsy mitolike ty haviñera’e, naho mbe mitorakitsy ty fità’e.
+
 Hankàñe amo manampa-pepètse tsivokatseo, naho o mampipatetse famorekekeañeo;
 Ty mampivike o ­misotrio tsy hahazoa’e to, vaho mitavañe ty zo’ o rarake am’ondatikoo, hihaofa’ iareo o vantotseo, hitsatsà’ iareo o bode-raeo!
 Aa le ino ty hanoe’ areo amy androm-pitilihañey, naho amy hekoheko hifetsake boak’añey? fa hipay imba ama’ia nahareo? vaho hapo’ areo aia ty vara’ areo?
@@ -18953,8 +18953,7 @@ Ihe ro Rae’ay; ndra te nofi’ i Avrahame naho amoea’ Israele; Ihe ry Iehov�
 O ry Iehovà, ino ty ampandilara’o anay o lala’oo naho mampigañe ty tro’ay tsy hañeveñe ama’o? Mibaliha amo mpitoro’oo, amo fifokoan-dova’oo.
 Didý tsy ho rinoa’ iareo ondaty navahe’o iabio, fa linialia’ o rafelahi’aio i toe’o miavakey
 Fa ninjare hoe mbe lia’e tsy nifehe’o zahay, amy te tsy nitokaveñe amy Tahina’oy. Ehe te ho riate’o o likerañeo, hizotsoa’o mb’etoa, naho hiezeñezeñe añ’atrefa’o eo o vohitseo,
-Manahake ty famorototoan’ afo o rongoñeo, ty afo mampitroatroake rano. Hampaharofoanañe o malaiñ’Azoo ty tahina’o, hihondrahondra’ o kilakila’ ndatio ami’ty fiatrefa’o,
-Ie nanoa’o raha tsitantane tsy nipaia’ay —Ehe te hizotso irehe, te hiozoñozoñe o haboañeo ami’ty fiatrefa’o!—
+Manahake ty famorototoan’ afo o rongoñeo, ty afo mampitroatroake rano. Hampaharofoanañe o malaiñ’Azoo ty tahina’o, hihondrahondra’ o kilakila’ ndatio ami’ty fiatrefa’o, Ie nanoa’o raha tsitantane tsy nipaia’ay —Ehe te hizotso irehe, te hiozoñozoñe o haboañeo ami’ty fiatrefa’o!—
 ie tsy jinanji’ ondatio taolo, tsy napotan-dravembia tsy nioni-pihaino, t’i Andrianañahare naho tsy Ihe, Ie mitoloñe ho a o mandiñe Azeo.
 Fitilihe’o ty mitolon-kavantañañe an-kaehake, o mahatiahy Azo amo lala’oo —eka, mifombo irehe te mandilatse zahay. Fe ami’ty fiatoa’ay amo lala’o haehaeo ro hahazoa’ay rombake.
 Songa ninjare hoe ondaty tiva zahay, sindre hoe tsirodea maleotse ty havantaña’ay; miheatse manahake ty raveñe, vaho maniotsiotse anay añe hoe i tiokey o hakeo’aio.
@@ -18964,6 +18963,7 @@ Ko loho viñetse ry Iehovà, vaho ko mahatiahy hakeo nainai’e; heheke, vazohò
 Fa nanjare ­ratraratra o rova’o miavakeo, fatrambey ty Tsione, mangoakoake t’Ierosalaime.
 I anjomba’ay miavake naho fanjakay, i nitalahoan-droae’aiy, le fa finorototo’ ty afo; vaho fonga navatambia ho forompotse o raha soa’aio.
 Mbe hifoneña’o hao ry Iehovà ty amy raha rezay? hianjiñe hao irehe hampalovilovy anay an-tìñake.
+
 Tsoehe’ o tsy nañontane Ahio iraho, nitendreke o tsy nipay Ahikoo; Le nataoko ty hoe: Intoy iraho, Intoy iraho; ami’ty fifeheañe tsy tokaveñe ami’ty añarako.
 Fa nañity tañañe lomoñandro raho am’ondaty mañarinjeñeo, o mijelanjelañe an-dalañe tsy mahasoao, mañorike ty fitsakorea’ iareo avao;
 Ondaty mikai-jaka an-daharako nainai’eo, ie manao soroñe an-goloboñe ao, vaho mañemboke ambone birike eo;
@@ -19242,8 +19242,7 @@ Inao ty feon-kaikai’ o anak’ ampela’ ondatikoo boak’ an-tsietoitane añe
 Añe i fitatahañey, modo i asaray, fe tsy voa-rombake tika.
 Mangirifiry ami’ty fangirifiria’ o anak’ ampela’ ondatikoo iraho; miharovetse; fosatse; mamihiñe ahy ty haemberañe.
 Tsy aman-kosotse hao ty Gilade? Po-panaha hao ty ao? Inoñ’ arè ty tsy nahatotòtse ty fijangana’ i anak’ ampela’ondatikoy?
-Ee t’ie ni-rano ty lohako, naho niganaganake o masokoo, hirovetako handro an-kaleñe o nizamaneñe amy anak’ ampela’ ondatikoy.
-Ee te tam-babangoañe añe iraho, an-kialo’ o mpandroakeo, hisitahako ondatikoo, hihankañako lavitse! Fa songa mpañarapilo firimboñam-pamañahy.
+Ee t’ie ni-rano ty lohako, naho niganaganake o masokoo, hirovetako handro an-kaleñe o nizamaneñe amy anak’ ampela’ ondatikoy. Ee te tam-babangoañe añe iraho, an-kialo’ o mpandroakeo, hisitahako ondatikoo, hihankañako lavitse! Fa songa mpañarapilo firimboñam-pamañahy.
 Ampibitsohe’ iereo o famele’eo, ie ty falem-pandañira’iareo; maozatse amy tane’ey iareo, fe tsy ami’ty hatò; boak’an-draty mb’an-katsivokarañe; alik’am’ iereo iraho, hoe t’Iehovà.
 Mifampitaoa ry mpitrao-tanàñeo naho ko miato rahalahy; fa songa kalitake ty mpilongo, vaho sindre mifañosoñe amo mpidramotseo o rañetseo.
 Sambe mifamañahy o mpirai-moneñeo, tsy mivolan-to, nanare’ iereo handañitse o famele’ iareoo; mamoza-batañe ami’ty fikitrohan-draty.
@@ -19268,6 +19267,7 @@ Hoe t’Iehovà: Ee te tsy hirenge ami’ty hihi’e ty mahihitse, naho tsy hise
 F’ie zao ty hirengea’ ty mpirenge: t’ie maharendreke naho mahafohiñ’ ahiko, te Izaho Iehovà, Mpanolots’ arofo naho ty hato, vaho ty havantañañe an-tane atoy; fa irezay ty teako, hoe t’Iehovà.
 Ingo, ho tondroke ty andro, hoe t’Iehovà, te ho fonga liloveko o sinavatse mboe tsy sinavatseo.
 I Mitsraime naho Iehodà, naho i Edome, naho o ana’ i Amoneo naho i Moabe, vaho ze hene mpimoneñe am-patrambey añe mpañitsike ty maròy añ’ilam-panda’e eo; fa songa tsy sinavatse o fifeheañeo, sindre tsy sinavatse añ’arofo ao ty anjomba’ Israele.
+
 Inao ty entañe tsarae’ Iehovà ama’ areo ry anjomba’ Israeleo;
 Hoe t’Iehovà: Ko mizatse ami’ty sata’ o fifeheañeo, vaho ko hakahaka’areo o vilon-dikerañeo; ndra te ampifimpìñe’e o kilakila’ ndatio.
 Toe kafoak’ avao o sata’ondatioo; amy te hatae finira añ’ala ao ty fitoloñam-pitàm-pandranjy am-pekoñe.
@@ -21006,6 +21006,11 @@ Ho noko ty amo raha marifondrifoñeo nahareo, ie fa nakareko am’ ondatio, naho
 Le ho fohi’ areo te izaho Iehovà ie hase­se­ko mb’an-tane’ Israele mb’amy fifeheañe nañonjonako sirañe hanolo­rako aze aman-droae’ areo añey.
 Eo ty hahatiahia’ areo o sata’ areoo naho o fitoloña’ areo iabio, o nandeotse anahareoo; toe hampangorý anahareo ty sandri’ areo ampahaisaha’ areo ty amo haloloañe nanoe’ areoo.
 Le ho fohi’ areo te Izaho Iehovà, ty nañalañalañe ho anahareo ty amy añarakoy, fa tsy ty amo halò-tsere’ areoo naho tsy ty amo fitoloña’ areo maleotseo, ry anjomba’ Israele, hoe t’Iehovà Talè.
+
+
+
+
+
 Niheo amako ty tsara’ Iehovà nanao ty hoe:
 O ana’ ondatio, ampiatrefo miañatimo ty lahara’o le mitaroña mañatimo vaho mitokia amy alay naho amy tane atimoy;
 le ty hoe ty hataro’o amy ala atimoy, Janjiño ty tsara’ Iehovà. Inao ty nafè’ Iehovà Talè: Ingo te hamiañe afo ama’o iraho, hamorototo ze hatae antsetra ama’o ao naho ze hatae maike; tsy hakipeke i lel’afo mibelabelay le ho mae iaby ze tarehe atimo pak’ avaratse añe.
@@ -21033,16 +21038,11 @@ O ‘ndatio, tendreo lalañe roe horihe’ i fibaram-panjaka’ i Baveley; songa
 atorò ty lalañe homba’ i fibaray mb’amy Raba’ o nte-Amoreo mb’eo naho mb’e Iehodà am’ Ierosalaime nifatrareñey mb’eo.
 Fa mijohañe am-pitsileañe eo ty mpanjaka’ i Bavele, misikily, akatrokatro’e o ana-paleo, imanea’e ontane ty saren-draha, biribirie’e ty ate.
 Tsatok’ am-pità’e havana ao ty tamben-kizè’ Ierosa­laime, hampitroara’e famofohan-dalañe, hikaike fanjamanañe, hikoike aly, hampi­rampia’e bodam-pamofohañe an-dalambey eo, naho hamotry fanongàñe vaho han­dranjy rafem-panameañe.
-Toe hatao’ iereo t’ie sikily vìlañe, ty amo nanao fanta jadoñeo; f’ie nampi­tiahieñe o hakeoo, hitsepahañe iareo.
-Aa le hoe t’Iehovà Talè: Kanao nitiahie’areo o hamengoha’areoo, ie afa-domboke o tahi’areoo, naho zoeñe amo sata’areo iaby o hakeo’areoo. Amy te fa nitiahieñe nahareo, le fa rinambe am-pitañe.
-Le ihe ry roandria lo-tsere’ Israele, fa tondroke i andro’oy, an-tsa’ hampigadoñan-kakeo,
-hoe ty nafè’ Iehovà Talè, Endaho i sabakay, afaho i halam-bolamenay; tsy ho tambatse eo henaneo. Aonjoñe i epakey, afotsake i mitiotio­tsey.
-Hafoteko, hafoteko, hafoteko le tsy hanoeñe ka! ampara’ te totsak’ eo ty manan-jo hanolorako Aze.
-Aa ihe, ana’ ondatio, mitokia, le ano ty hoe, Hoe ty nafè’ Iehovà Talè ty amo ana’ i Amoneo, ty amy fañinjea’ iareoy, ty hoe: Ry fibara, ry fibara tsinoake hanjamañe: nikotriñeñe hamongotse, pak’ am-para’e, ty amy fimilomilora’ey.
-Ie taroñen’ aroñarom-bìlan-drehe, anikiliañe vande, hampipetahañe azo am-pititiha’ o lo-tsereke ho vonoeñeo, ie fa tsatoke ty andro’ iareoo, an-tsam-pigadoñan-kaloloañe.
-Ampolio an-traño-meso’e ao re! Amy namoroñañe azoy, an-tane nihirifa’o añe ty hizakako azo.
-Hakofòko ama’o ty hatorifihako, ho tiofeko ama’o ty afom-piforoforoako, naho haseseko am-pità’ ondaty bibi’e, za-panjevoñañe.
-Ho fandrehetañ’ afo irehe, ho añivon-tane ao ty lio’o, tsy ho tiahy ka, fa Izaho Iehovà ty nitsara.
+Toe hatao’ iereo t’ie sikily vìlañe, ty amo nanao fanta jadoñeo; f’ie nampi­tiahieñe o hakeoo, hitsepahañe iareo. Aa ihe, ana’ ondatio, mitokia, le ano ty hoe, Hoe ty nafè’ Iehovà Talè ty amo ana’ i Amoneo, ty amy fañinjea’ iareoy, ty hoe: Ry fibara, ry fibara tsinoake hanjamañe: nikotriñeñe hamongotse, pak’ am-para’e, ty amy fimilomilora’ey.
+Aa le hoe t’Iehovà Talè: Kanao nitiahie’areo o hamengoha’areoo, ie afa-domboke o tahi’areoo, naho zoeñe amo sata’areo iaby o hakeo’areoo. Amy te fa nitiahieñe nahareo, le fa rinambe am-pitañe. Ie taroñen’ aroñarom-bìlan-drehe, anikiliañe vande, hampipetahañe azo am-pititiha’ o lo-tsereke ho vonoeñeo, ie fa tsatoke ty andro’ iareoo, an-tsam-pigadoñan-kaloloañe.
+Le ihe ry roandria lo-tsere’ Israele, fa tondroke i andro’oy, an-tsa’ hampigadoñan-kakeo, Ampolio an-traño-meso’e ao re! Amy namoroñañe azoy, an-tane nihirifa’o añe ty hizakako azo.
+hoe ty nafè’ Iehovà Talè, Endaho i sabakay, afaho i halam-bolamenay; tsy ho tambatse eo henaneo. Aonjoñe i epakey, afotsake i mitiotio­tsey. Hakofòko ama’o ty hatorifihako, ho tiofeko ama’o ty afom-piforoforoako, naho haseseko am-pità’ ondaty bibi’e, za-panjevoñañe.
+Hafoteko, hafoteko, hafoteko le tsy hanoeñe ka! ampara’ te totsak’ eo ty manan-jo hanolorako Aze. Ho fandrehetañ’ afo irehe, ho añivon-tane ao ty lio’o, tsy ho tiahy ka, fa Izaho Iehovà ty nitsara.
 Niheo amako indraike ty tsara’ Iehovà:
 O ana’ ondatio, hizaka v’iheo? ho zakae’o hao i rovan-dioy? Aa le tseizo ama’e o fonga sata-tsivokatseo.
 Ano ty hoe, Hoe ty nafè’ Iehovà Talè: Ty rova tia! Mpampiori-dio ty an-tro’e ao, fa tondroke ty andro’e; i mitsene samposampo hanisý aze, hileora’ey.
@@ -21904,12 +21904,9 @@ Le nihimpoke eo o beio naho o sorotà’eo naho o fiaoloo, o mpizakao, o mpitàm
 Le hoe ty saontsi’ i Nebokadnetsare: Andriañeñe t’i Andrianañahare’ i Sadrake naho i Mesake vaho i Abednegò, ie nañirake i anjeli’ey hañaha o mpitoro’e mpiato ama’eo mbore nifotetse amy saontsim-panjakay, namoe ay tsy hitoroñe ndra hitalaho ami’ty ndrahare ila’e naho tsy t’i Andrianañahare’ iareo avao.
 Aa le mitsey iraho, te ho fonga tseratseraheñe ze mitera­tera an’ Andrianañahare’ i Sadrake naho i Mesake naho i Abednegò, vaho hatao vongan-deotse ty akiba’e, amy te tsy eo ty drahare ila’e mahahaha manahake zao.
 Aa le nonjone’ i mpanjakay am-paritane’ i Bavele t’i Sadrake naho i Mesake vaho i Abednegò.
-I Nebokadnetsare mpanjaka, ho amo kilakila’ ndaty naho fifeheañe vaho fisaontsy mpimoneñe an-tane-bey atoio; Ampitoaboreñe ama’ areo ty fañanintsiñe.
-Tsy mete tsy aboeleko o viloñe naho raha tsitantane nanoen’ Añahare Andindimoneñey amakoo.
-Jabahinake o vilo’eo, naho mitozantozañe o fitoloña’e mahalatsao! Nainai’e i fifehea’ey, vaho boak’an-tsa mb’an-tsa i fifeleha’ey :
-Ie nihendre añ’akibako ao avao, izaho Nebokadnetsare, vaho niraorao añ’ anjombam-panjakako ao,
-le nañinofy ty nampirevendreveñ’ ahy, vaho nitsobore ahy am-pandreako ao o ereñereñe naho aroñaroñe an-dohakoo.
-Aa le liniliko te songa hasese aoloko eo ze mahihi’ i Bavele hampi­boahañe amako ty fandrazaña’ i nofiy.
+I Nebokadnetsare mpanjaka, ho amo kilakila’ ndaty naho fifeheañe vaho fisaontsy mpimoneñe an-tane-bey atoio; Ampitoaboreñe ama’ areo ty fañanintsiñe. Ie nihendre añ’akibako ao avao, izaho Nebokadnetsare, vaho niraorao añ’ anjombam-panjakako ao,
+Tsy mete tsy aboeleko o viloñe naho raha tsitantane nanoen’ Añahare Andindimoneñey amakoo. le nañinofy ty nampirevendreveñ’ ahy, vaho nitsobore ahy am-pandreako ao o ereñereñe naho aroñaroñe an-dohakoo.
+Jabahinake o vilo’eo, naho mitozantozañe o fitoloña’e mahalatsao! Nainai’e i fifehea’ey, vaho boak’an-tsa mb’an-tsa i fifeleha’ey : Aa le liniliko te songa hasese aoloko eo ze mahihi’ i Bavele hampi­boahañe amako ty fandrazaña’ i nofiy.
 Nimoak’ ao o ambiasao naho o mpañandroo naho o nte-Kasdìo naho o mpitokio vaho nataliliko am’ iereo i nofiy; fe tsy natoro’ iareo ahy i fandrazaña’ey.
 Ie an-tsehanga’e añe te niatrek’ ahy t’i Daniele, i natao Beltesatsare ty añara’ey—i tahinan-draharekoy, fa ama’e ao ty Arofon’ Añahare Masiñe; le añatrefa’e eo ty nitaliliako i nofiy.
 Ry Beltesa­tsare, tale’ o mahihi­tseo; fa nirendreko te ama’o ao i Arofon’ Añahare Masiñey, le tsy ao ty raha mietake mikafitse ama’o; atalilio o aroñaro’ i nofy nitreakoy naho ty fandrazañañ’ azeo.
@@ -21941,6 +21938,9 @@ Aa ie nimodo i fets’ àndroy le izaho Nebokadnetsare ty nampiandra maso mb’ 
 le volilieñe ho tsy vente’e ze kila mpimone’ ty tane toy, naho hene anoe’e ze satrie’e amy lahialen-dikerañey naho amo mpimone’ ty tane-bey toio; vaho tsy eo ty hikalañe ty fità’e hanao ama’e ty hoe: Inoñ’ o anoe’oo?
 Ie henane zay, nampoly amako ty hilalako, le nimpoly ami’ty havolonahem-pifeheako ao; nimpoly amako iaby ty engeko naho ty habaranjibaranji’e; nipay ahy o mpifehem-paritanekoo naho o androanavikoo; le nampoly amako ty fifeheako, vaho nampitoaboreñe amako ty engeñe.
 Ie amy zao, mibango naho mañonjoñe vaho mandrenge i Mpanjakan-dikerañey, izaho Nebokadnetsare, amy te hene to o fizakà’eo le hai’e ty mampirèke o mañavelo am-pirengevohañeo.
+
+
+
 Nanao sabadidake jabajaba t’i Belsatsare mpanjaka ho ami’ty arivo’ o roandria’eo vaho ninon-divay añ’atrefa’ i arivoy.
 Naho nitsopek’ i divaiy t’i Belsatsare, le linili’e te hasese ama’e o fanake volamena naho volafoty nendesen-drae’e Nebokadnetsare boak’ amy kivohon’ Añahare e Ierosalaime añeio, hikamà’ o roandria’eo naho o vali’eo vaho o sakeza’eo.
 Aa le na­sese mb’eo o fanake nendeseñe boak’ an-kivohon’ anjomban’ Añahare e Ierosa­laime añeo naho nikama ama’e i mpanjakay naho o roandria’eo naho o vali’eo vaho o sakeza’eo.
@@ -21971,6 +21971,7 @@ Tekèle: Linanja’ am-pandanjan-drehe vaho nizoeñe te tomotse.
 Parase: fa zinara’ i fifeheañey vaho natolotse amo nte-Maday naho nte-Paraseo.
 Aa le namantoke t’i Belsatsare, vaho nisikina’ iareo malò-mavo t’i Daniele, naho niravaheñe silisily volamena ty am-pititia’e eo, vaho nitsey ty ama’e t’ie ro mpifehe faha-telo’ i fifeheañey.
 Amy haleñey te navetrake i Belsatsare mpanjàka’ o nte-Kasdìo.
+
 Nandrambe i fifeheañey ami’ty tao’e faha-enempolo-ro’amby t’i Dariavese.
 Ni-no’ i Dariavese ty hañoriza’e mpifehe zato-tsy-roapolo amy fifehea­ñey hanitsifañe i fanjakàñey,
 le ambone’ iereo ty mpifeleke telo—raik’ am’ iereo t’i Daniele—vaho mitalily am’ iereo i mpifehe rey, soa tsy ho tsoborèñe i mpanjakay.
@@ -21998,8 +21999,7 @@ Nivaranehak’ amy zao i mpanjakay naho linili’e te avotañe amy lakatoy t’i
 Linili’ i mpanjakay te hampiatrefeñe aze o nanisý i Danieleo. Le fonga navokovoko amy lakaton-dionay naho o vali’eo rekets’ o ana’eo. Ie mbe tsy niponak’ an-tane’ i lakatoy iereo le fa niambotraha’ o lionao vaho pinekapekañ’ iaby o taola’eo.
 Nanokitse amo hene ondaty naho fifeheañe vaho fameleke mpimoneñe amy taneio t’i Dariavese Mpanjaka: Ampi­tomboeñe ama’ areo ty fañanintsiñe.
 Izaho ro mitsey aman’ ndra aia’aia amo fonga fifelehañe am-pifeheakoo: asoao te hinevenevetse am-pa­ñeveñañe añatrefan’ Añahare’ i Daniele ondatio, Ie t’i Andrianañahare veloñe nainai’e le tsim-bia ho rebake i fifehea’ey naho i fifeleha’ey nainai’e donia.
-Mpandrombake re, Mpañaha, naho Mpanao viloñe tsitantane vaho mitoloñe raha mahalatsa andikerañe ao naho an-tane atoy. Ie ty nandrombake i Daniele ami’ty haozara’ o lionao.
-Nitahieñe t’i Daniele am-pifeleha’ i Dariavesey naho am-pifehea’ i Korese nte-Parase.
+Mpandrombake re, Mpañaha, naho Mpanao viloñe tsitantane vaho mitoloñe raha mahalatsa andikerañe ao naho an-tane atoy. Ie ty nandrombake i Daniele ami’ty haozara’ o lionao. Nitahieñe t’i Daniele am-pifeleha’ i Dariavesey naho am-pifehea’ i Korese nte-Parase.
 Amy taom-baloha’ i Belsatsare mpanjaka’ i Baveley, nahaoniñe nofy naho aroñaroñe añ’ambone’e, am-pandrea’e ao t’i Daniele; sinoki’e i nofiy vaho mitalily o renen-tsara’eo.
 Hoe t’i Daniele: Nitreako añ’ aroñaron-kaleñe, te inge nitorotositse amy riake jabajabay ty tiok’efa’ i likerañey.
 Le niakatse amy riakey ty biby ra’elahy efatse, tsy nifanahake.
@@ -22170,6 +22170,8 @@ Niareñe indraike re nahatoly anak’ ampela, le hoe re tama’e, Toñono ty hoe
 Fe ho tretrezeko ty anjomba’ Iehodà le ho rombaheko añam’ Iehovà Andrianañahare’ iareoy, fa tsy ho rombaheko am-pale ndra fibara ndra hotakotake ndra soavala ndra mpiningi-tsoavala.
 Aa ie notañe’e t’i Lorokamà, le niareñe indraike nisamak’ anadahy.
 Le hoe re, Toñono ty hoe Loamý fa tsy ondatiko nahareo vaho tsy ho Andrianañahare’ areo iraho.
+
+
 Fe mbe ho mira amo fasen-driakeo ty ia’ o ana’ Israeleo, ze tsy ho mete zeheñe ndra iaheñe; ie amy zay, amy tane nanoañe ama’ areo te Tsy ondatiko nahareoy, ty hafetse am’ iereo te Anan’ Añahare Veloñe.
 Le hifanontoñe o ana’ Iehodào naho o ana’ Israeleo, naho ho tendrè’ iareo ty mpiaolo raike ho a iareo, vaho hitombo an-tane eo: fa jabajaba ty andro’ Iezreèle.
 Anò amo roahalahi’ areoo ty hoe: Amý, naho aman-droahavave’ areo ty hoe; Rohamà
@@ -22191,10 +22193,8 @@ Amy andro zay, hoe t’Iehovà, le ho kanjie’o iraho ami’ty hoe Valiko, vaho
 Fa hasintako am-bava’e ao ty añara’ o Baaleo, vaho tsy ho toñoneñe ka o añara’eo.
 Ie amy andro zay, hanoeko fañina añivo’ iereo naho o bibin-kivokeo naho o voron-dikerañeo, naho o milaly an-tane eoo; le ho pozaheko ty fale naho ty fibara naho ty fihotakotaha’ ty tane toy vaho hampiroteko am-pierañerañañe.
 Le ho fofoeko ho ahy nainai’e; eka ho fofoeko ho ahy an-kavantañañe naho an-katò naho an-kafatra­ram-pikokoañe naho fiferenaiñañe;
-ie fofoeko ho ahy am-pigahiñañe, le ho fohi’o t’Iehovà.
-Ie amy andro zay, hoe t’Iehovà, le hamale iraho, ho toiñeko o likerañeo, vaho ho valè’ iereo i taney;
-le hamale i ampembay naho i divaiy naho i menakey ty tane; vaho ho valè’ iareo t’Iezreèle.
-Le ho tongiseko ho ahy an-tane ao re; naho ho ferenaiñako i tsy niferenaiñañey naho hataoko amo tsy ni-ondatikoo ty hoe : Ondatiko irehe; vaho hanoa’ iareo ty hoe: Andrianañahareko.
+ie fofoeko ho ahy am-pigahiñañe, le ho fohi’o t’Iehovà. le hamale i ampembay naho i divaiy naho i menakey ty tane; vaho ho valè’ iareo t’Iezreèle.
+Ie amy andro zay, hoe t’Iehovà, le hamale iraho, ho toiñeko o likerañeo, vaho ho valè’ iereo i taney; Le ho tongiseko ho ahy an-tane ao re; naho ho ferenaiñako i tsy niferenaiñañey naho hataoko amo tsy ni-ondatikoo ty hoe : Ondatiko irehe; vaho hanoa’ iareo ty hoe: Andrianañahareko.
 Le hoe t’Iehovà amako; Akia irehe: Ikokò ty rakemba ikokoan-tsakeza’e, ie toe karapilo, manahake ty fikokoa’ Iehovà o ana’ Israeleo, ie mitolik’ aman-drahare ila’e vaho mpitea mofom-balòboke.
 Aa le viniliko ho ahiko re ami’ty volafoty folo-lim’amby naho ampemba omere raike naho tampa’e;
 le hoe iraho ama’e, Himoneñe amako andro maro irehe; fa tsy hihisa ankarapiloañe ka, naho tsy hiharo amy t’indaty ila’e; le hoe izay ka izaho ama’o.
@@ -22318,6 +22318,7 @@ Akore ty hampipohako azo, ry Efraime? Akore ty hanolorako azo, ry Israele? Akore
 Tsy hafetsako ty hasiahan-kaviñerako, tsy hibalike mb’amy Efraime handrotsake; amy te Andrianañahare iraho, fa tsy ondaty; t’i Masiñe añivo’ areo ao; tsy ho pok’eo an-kabosehañe iraho.
 Hañavelo am-pañorihañe Iehovà iereo; hitroñe manahake o lionao re; aa ie mitromoroñe, le hititititike boak’ ahandrefañ’añe ty ana’dahy maro.
 Hanahake o voroñeo ty hiborofota’ iareo boake Mitsraime añe, naho hoe deho hirik’ an-tane Asore añe; ie hapoko añ’anjomba’ iareo ao, hoe t’Iehovà.
+
 Mañarikatoke ahy an-dañitse t’i Efraime, naho am-pamañahiañe ty anjomba’ Israele; Fa mbe mifehe aman’Añahare t’Iehoda, naho migahiñe amo raha miavakeo.
 Mandrazan-tioke t’i Efraime, mañeañe tiok’atiñanañe; ampitoabore’e vande naho joy lomoñandro, mbore milahatse amy Asore, mbore mañondrañe menake amy Mitsraime.
 Manan-kabò am’ Iehodà ka t’Iehovà, o sata’eo ro hitiliha’ Iakobe; o fitoloña’eo ro hañondroha’e aze.
@@ -22331,8 +22332,7 @@ Izaho Iehovà Andrianañahare’o boak’ an-tane’ i Mitsraime añe; mbe hampi
 Nisaontsieko o mpitokio, nampitomboeko aroñaroñe, vaho nandrazañe am-pitàm-pitoky.
 Aman-tahiñe hao t’i Gilade? toe hakoahañe, ie nañenga bania e Gilgale ao; eka, votrim-bato am-bavahali’ o hatsakeo o kitreli’eo.
 F’ie nilay mb’an-tete’ i Arame añe t’Iakobe, nitoroñe ho a i tañamjomba’ey, eka nimpiarake ty amy vali’ey.
-Mpitoky ty nañendesa’ Iehovà t’Israele boake Mitsraime ao, vaho mpitoky ty nañarovañ’ aze;
-nikai-jaka añ’afero t’i Efraime; aa le hapoke ama’e ty lio’e; vaho hondrohe’ i Talè’e ama’e ty inje’e.
+Mpitoky ty nañendesa’ Iehovà t’Israele boake Mitsraime ao, vaho mpitoky ty nañarovañ’ aze; nikai-jaka añ’afero t’i Efraime; aa le hapoke ama’e ty lio’e; vaho hondrohe’ i Talè’e ama’e ty inje’e.
 Ie nisaontsy ama-nevenevetse t’i Efraime le nonjoneñe e Israele ao, fe nizoeñe te aman-kakeo ty amy Baale, vaho nihomake.
 Ie henanekeo, mitolom-pandilatse avao, nampitranake saren-draha ami’ty volafoti’ iareoo, ty amo hilala’ iareo, toe samposampon-draha, fitoloña’ ty kante; anoa’iareo ty hoe: Angao horofa’ o mpanao soroñeo i bania rey.
 Aa le hanahake ty zono maraindray iereo, naho i mika am-pangoàñ’andro mihelañey; hambañe an-kàfo’e asiotsion-talìo boak’an-toe-pifofohañe eo, vaho hatoeñe boak’an-toñak’ ao.
@@ -22348,6 +22348,7 @@ Mifamahotse ty tahi’ i Efraime, mihaja ao o hakeo’eo.
 Hivotrak’ama’e ty fitsongoan’ ampela; ie ana-dahy tsy mahilala, tsy ho nihenekenek’ ambavan-koviñe ao.
 Ho jebañeko ami’ty haozara’ i Tsikeokeokey hao? ho vilieko aiñe amy Havilasiy? O Havilasio, aia o angorosi’oo? O Tsikeokeokeo, aia o fandrotsaha’oo? Mietak’ amo masokoo ty tretre.
 Ndra te ie mibodobodo amo vindao, ho avy ty tiok’atiñanañe; hivovo boak’ am-patram-bey ao ty tio’ Iehovà, le ho maike i rano’e manganahanay, ho ritse i loha-rano’e nigoangoañey, ho haofe’e ty an-driha’e ao hañakatse ze hene vara’e sarotse.
+
 Ho vave’ i Somerone o tahi’eo, amy t’ie niody aman’Añahare’e; hampikorovohem-pibara; ho demoheñe an-damilamy o anak’ ajaja’ iareoo, ho boraheñe an-drimitse o rakemba mivesatseo.
 Ry Israele, mimpolia mb’am’ Iehovà Andrianañahare’o; fa nampihotrake azo o hakeo’oo.
 Andeso saontsy, le mibaliha mb’am’Iehovà: ano ty hoe: Fonga afaho o hakeoo, rambeso an-kasoa, vaho hengae’ay ty banian-tsoñi’ay.
@@ -22356,8 +22357,7 @@ Ho jangañeko ty fidisa-voli’ iareo; hikokoako an-tsatrin-tro, fa mitolike ty 
 Hanahake ty zono am’ Israele iraho; ie hidorenake hoe antake mandriake, vaho hirifondrifoñe hoe Libanone.
 Handrevake o ra’eo, naho hanahake ty andramahe ty enge’e, vaho hoe Libanone ty harifondrifo’e.
 Himpoly iaby o mialok’ ama’eo; ho tolorañ’ aiñe manahake i ampembay, le hiraorao hoe vahe, vaho handrifondrifoñe hoe ty hamañiran-divai’ i Libanone.
-Le hanao ty hoe t’i Efraime: Hanoeko inoñe ka o samposampoo? Fa nitsanoñeko naho nijiloveko, Manahake ty kile maindoñe ama’o iraho, amako ty aharendreha’o voa.
-Ee te hahafohiñe o raha zao ty mahihitse, naho haharendreke o mahilalao. Amy te vantañe o lala’ Iehovào, ie orihe’ o vañoñeo, fe itsikapia’ o miolao.
+Le hanao ty hoe t’i Efraime: Hanoeko inoñe ka o samposampoo? Fa nitsanoñeko naho nijiloveko, Manahake ty kile maindoñe ama’o iraho, amako ty aharendreha’o voa. Ee te hahafohiñe o raha zao ty mahihitse, naho haharendreke o mahilalao. Amy te vantañe o lala’ Iehovào, ie orihe’ o vañoñeo, fe itsikapia’ o miolao.
 Ty tsara’ Iehovà niheo am’ Ioèle ana’ i Petoele:
 Janjiño ry androanavio, toloro ravembia ry hene mpimone’ o taneo, he t’ie nizoeñe añ’andro’ areo, ndra tañ’andron-droae’ areo hao?
 Atalilio amo ana’ areoo, le ampitalilio o ana’ areoo amo ana’ iareoo, vaho o ana’ iereoo amo tariratse añeo.
@@ -22405,16 +22405,16 @@ Ho lifotse ampemba o rihao, vaho handopatse divay naho menake o sajoao.
 Havahako ama’ areo o taoñe nabotse’ o valalao, naho o maramboloo, naho o beañeo vaho o voan-taneo, i mpirai-lian-dahin-defoñe niraheko ama’ areoy.
 Ho eneñe mahakama nahareo, toe ho anjañe, naho ho rengè’ areo ty tahina’ Iehovà Andrianañahare’ areo, amy hasoa tsitantane nitoloña’ey; vaho tsy ho salatse ka ondatikoo.
 Le ho fohi’ areo te añivo’ Israele ao iraho, le te Izaho, Iehovà Andrianañahare’ areo ro tsy aman-tovo’e, vaho tsy ho salatse ka ondatikoo.
-Ie heneke zao, hadoako amy ze atao nofotse ty Troko; le hitoky o ana-dahio naho o anak’ampela’ areoo, naho hañinofy o androanavi’ areoo, vaho hahaoniñe aroñaroñe o ajalahi’ areoo;
-Le hailiko amo mpitoroñeo, naho amo anak’ ampatañeo ty Troko amy andro rezay.
-Hampiboahako raha tsitantane an-dindiñe ey, naho an-tane atoy, lio naho afo, vaho hatoeñe mijoala.
-Hafotetse ho ieñe i àndroy, naho ho lio i volañey, aolo ty fitotsaha’ i andro’ Iehovà jabajaba naho mampangebahebakey.
-Ie amy zay, ho rombaheñe ze mikanjy ty tahina’ Iehovà; fa hipolititse an-kaboa’ i Tsione ao naho e Ierosalaime ao ty ila’e amy nafè’ Iehovày, vaho ho kanjie’ Iehovà o sehanga’eo.
-Inao, hampoliko amy andro rezay, naho amy sa zay, ty fandrohiza’ Iehodà naho Ierosalaime,
-naho hatontoko boak’ amy ze hene fifeheañe, naho hampizotsoeko mb’am-bavatane’ Iehosafate mb’eo, vaho eo ty himoahako an-jaka ty am’ ondatikoo naho i lovako Israeley, ie nampiba­ra­tsaheñe amo kilakila’ ondatio añe naho nanjarañe i tanekoy.
-Vinili’ iareo aman-kitsapake ondatikoo, kinalo’ iareo tsimirira ty ajalahy naho navaro’ iareo ty somondrara ho divay hinoma’ iareo.
-Inoñ’amako irehe Tsore naho Tsidone, naho ze hene toe’ i Pilisty? Hañavak’ amako hao? Aa naho Hañavake le hafoteko aniany naho masìka an-doha’ areo i ondro’ areoy,
-amy te tinava’ areo o volafotiko naho volamenakoo, naho nendese’ areo an-kibohon’drahare’ areo mb’eo o fànako sarotseo,
+
+
+
+
+
+Ie heneke zao, hadoako amy ze atao nofotse ty Troko; le hitoky o ana-dahio naho o anak’ampela’ areoo, naho hañinofy o androanavi’ areoo, vaho hahaoniñe aroñaroñe o ajalahi’ areoo; Inao, hampoliko amy andro rezay, naho amy sa zay, ty fandrohiza’ Iehodà naho Ierosalaime,
+Le hailiko amo mpitoroñeo, naho amo anak’ ampatañeo ty Troko amy andro rezay. naho hatontoko boak’ amy ze hene fifeheañe, naho hampizotsoeko mb’am-bavatane’ Iehosafate mb’eo, vaho eo ty himoahako an-jaka ty am’ ondatikoo naho i lovako Israeley, ie nampiba­ra­tsaheñe amo kilakila’ ondatio añe naho nanjarañe i tanekoy.
+Hampiboahako raha tsitantane an-dindiñe ey, naho an-tane atoy, lio naho afo, vaho hatoeñe mijoala. Vinili’ iareo aman-kitsapake ondatikoo, kinalo’ iareo tsimirira ty ajalahy naho navaro’ iareo ty somondrara ho divay hinoma’ iareo.
+Hafotetse ho ieñe i àndroy, naho ho lio i volañey, aolo ty fitotsaha’ i andro’ Iehovà jabajaba naho mampangebahebakey. Inoñ’amako irehe Tsore naho Tsidone, naho ze hene toe’ i Pilisty? Hañavak’ amako hao? Aa naho Hañavake le hafoteko aniany naho masìka an-doha’ areo i ondro’ areoy,
+Ie amy zay, ho rombaheñe ze mikanjy ty tahina’ Iehovà; fa hipolititse an-kaboa’ i Tsione ao naho e Ierosalaime ao ty ila’e amy nafè’ Iehovày, vaho ho kanjie’ Iehovà o sehanga’eo. amy te tinava’ areo o volafotiko naho volamenakoo, naho nendese’ areo an-kibohon’drahare’ areo mb’eo o fànako sarotseo,
 naho naleta’ areo amo nte-Ievanio o ana’ Iehodào naho o ana’ Ierosalaimeo haneseañe iareo lavitse ty tane’ iareo añe.
 Inao fa hampionjoneko boak’ an-tane nandetahañe iareo, vaho havàhako an-doha’ areo o sata’ areoo,
 fa haletako am-pità’ o ana’ Iehodào o ana-dahi’ areoo naho o anak’ ampela’ areoo, vaho haleta’ iereo amo nte-Sevào, ondaty tsietoitane añeo, fa izay ty tsinara’ Iehovà.
@@ -22614,6 +22614,7 @@ Te mone nivèy mafe o lahilahio hihereñe mb’an-tane, fe tsy nimete; nidabadoa
 Aa le nitoreove’ iereo am’ Iehovà ty hoe: Miambane ama’o zahay ry Iehovà, ehe, ko ampikoromahe’o ty ami’ty fiai’ t’indaty toy, vaho ko apo’o ama’ay ty lio-màliñe, amy te Ihe ry Iehovà ro manao ty satrin-arofo’o.
 Rinambe’ iereo amy zao t’Ionà le nahifike an-driak’ ao; vaho nijihetse amy fitroña’ey i riakey.
 Vata’e nañeveñe am’ Iehovà ondatio naho nañenga soroñe am’ Iehovà vaho nifanta.
+
 Ie amy zao fa nihentseñe’ Iehovà ty fiañe jabajaba nampigodrañe Ionà. Tam-pò’ i fiañey telo andro naho telo haleñe t’Ionà.
 Nihalaly am’ Iehovà Andrianañahare’e, an-tro’ i fiañey ao t’Ionà,
 ami’ty hoe, Nitoreo am’ Iehovà amy fisotriakoy, le tinoi’e; nikoiake boak’ an-Tsikeokeok’ ao, vaho jinanji’o ty feoko.
@@ -22623,8 +22624,7 @@ Niarikoboñe ahy o ranoo, pak’an-troko, niariseho amako i lalekey; vinandiband
 Nizotso mb’ am-baha’ o vohitseo; nañarikatok’ahy kitro katroke o tsotsò’ ty tane toio; fe nakare’o boak’ an-kibory ao ty haveloko, ry Iehovà Andrianañahareko.
 Ie nitoirañe an-troko ao ty fiaiko, le nahatiahy Iehovà, vaho niheo mb’ama’o an-kivoho’o miavake ao ty halaliko.
 Tsambolitio’ o mpañaon-kakoaham- bandeo ty fiferenaiñañe ama’e.
-Fe hañenga soroñe ama’o raho am-peom-pañandriañañe; havahako i ni-fantàkoy, fa boak’ am’ Iehovà ty fandrombahañe.
-Aa le nafanto’ Iehovà i fiañey, vaho naloa’e an-tamboho ey t’Ionà.
+Fe hañenga soroñe ama’o raho am-peom-pañandriañañe; havahako i ni-fantàkoy, fa boak’ am’ Iehovà ty fandrombahañe. Aa le nafanto’ Iehovà i fiañey, vaho naloa’e an-tamboho ey t’Ionà.
 Niheo am’ Ionà fañindroe’e ty tsara’ Iehovà, nanao ty hoe:
 Miavota mb’e Ninevè, i rova jabajabay mb’eo, vaho tseizo ama’e ty saontsy hatoroko azo.
 Aa le niongake t’Ionà, nañavelo mb’e Ninevè mb’eo ty amy tsara’ Iehovày. Rova jabajaba ty Ninevè kanao lia telo andro te rangàeñe.
@@ -22700,8 +22700,7 @@ Minioniòra, mañeña, hisamaha’o, ry anak’ ampela’ i Tsione, manahake ty 
 Ie henanekeo maro ty fifeheañe mifanontoñe hialy ama’o, manao ty hoe: Ee t’ie ho tivaeñe, naho hahafi­samba i Tsione o fihainon-tikañeo.
 Fa tsy fohi’ iareo ty ereñere’ Iehovà; naho tsy apota’ iareo ty safiri’e; Ie ro nanontoñe iereo hoe ampemba an-toem-pamofohañe eo.
 Miongaha, mamofoha, ry anak’ ampela’ i Tsione; fa hanoeko viñe ty tsifa’o, naho hanoeko torisìke o hotro’oo; handemodemoke t’indaty maro; vaho hengae’o am’ Iehovà o nivokare’ iareo tsy too; ho amy Talè’ ty tane bey toiy ty vara’ iareo.
-Mifanontona am-pirimboñañe, ry anak’ ampelam-pirimboñañeo fa vinandro’ iareo tika; nilafàe’ iareo an-kobaiñe ty fiambina’ i Mpizaka’ Israeley.
-Fa ihe ry Betlekheme Efràtae, ty loho kede añivo’ o arivo lahi’ Iehodao; boak’ ama’o ty hionjoñe ho ahy, ty ho mpifehe’ Israele, ie haehae añe o fionjona’eo, faha-tsietoimoneñe añe.
+Mifanontona am-pirimboñañe, ry anak’ ampelam-pirimboñañeo fa vinandro’ iareo tika; nilafàe’ iareo an-kobaiñe ty fiambina’ i Mpizaka’ Israeley. Fa ihe ry Betlekheme Efràtae, ty loho kede añivo’ o arivo lahi’ Iehodao; boak’ ama’o ty hionjoñe ho ahy, ty ho mpifehe’ Israele, ie haehae añe o fionjona’eo, faha-tsietoimoneñe añe.
 Aa le hatolo’e añe iereo ampara’ te nahatoly anake i mitsongoy, himpoly amy zao ty sehanga’ o longo’eo mb’amo ana’ Israeleo mb’eo.
 Hiongake re, le hampiandraze’e ami’ty haozara’ Iehovà, ami’ty volonahe’ i Tahina’ Iehovà Andrianañahare’ey; hiaiñ’ añoleñañe iereo, amy t’ie ho ra’elahy pak’añ’olo’ ty tane toy henane zay.
 Ie ty ho fañanintsin-tika, naho maname ty tanen-tika o nte-Asoreo, handialia o anjomban-tikañeo, le hampitroaren-tika ama’e ty mpiarake fito, naho ty mpiaolo valo boak’ am’ondatio.
@@ -22715,6 +22714,7 @@ Haitoako am-pità’o ze atao famorehañe; ihe tsy ho amam-pisikily ka;
 Ho firaeko o hatae sinoki’oo, naho o vato mitroatse añivo’o aoo, soa tsy hitalahoa’o ka o satam-pità’oo.
 Hombotako boak’ añivo’o ao ka o samposampo’oo; vaho ho rotsaheko o rova’oo.
 Le hondrohako amo kilakila’ ondatio ty vale-fate an-kabosehañe, naho am-piforoforoañe amo tsy nañaoñeo.
+
 Janjiño henaneo ty nafè’ Iehovà: Miongaha, aboaho amo vohitseo o enta’oo, ampitsanoño o haboañeo ty fiarañanaña’o.
 Mitsendreña ry vohitseo, ty sisì’ Iehovà, ry manantañe maoza’ ty tane toio, fa manan-kabò am’ondati’eo t’Iehovà, ie toe hifanjomotse am’Israele.
 O ry ondatikoo, ino ty nanoako azo? Akore ty nahamokorako azo? Atalilio.
@@ -22765,6 +22765,7 @@ Boak’ ama’o ty niavia’ i nikitro-draha am’ Iehovày, ie mañeretse hatsi
 Hoe t’Iehovà: ndra t’ie lifo-kaozarañe, naho mitozantozañe, mbe hampikorovoheñe, vaho hihelañe añe; fa ndra te nanilofeko irehe, tsy ho silofeko ka.
 Hapozako ama’o henaneo ty joka’e, vaho ho rafadrafateko o tali-randra’oo.
 Fa nandily ty ama’o t’Iehovà, te tsy ho tongisañe ka ty tahina’o; le haitoako amy akiban-drahare’oy ty sare sokin-katae naho ty sare natranake; f’ie hanoako kibory, amy t’ie tsy manjofake.
+
 Hehek’ an-kaboañe ey o fandia’ i mpinday talily soaio, i mampiboele fifampilongoañey! O ry Iehodà, anò o sabadidake miavakeo, henefo o nifantà’oo; amy te tsy hiranga ama’o ka ty Beliale, fa naitoañe.
 Fa nitroatse añ’atrefan-dahara’o eo ty mpandrotsake, tano i kijoliy, jilovo i lalañey, mitokia an-kaozarañe, avorio o hafatrara’oo.
 Vaòe’ Iehovà ty enge’ Iakobe naho ty volonahe’ Israele; fa nampikoake iareo o mampikoakeo, vaho jinoi’ iareo o singam-bahe’eo.
@@ -22777,8 +22778,7 @@ Manahake o antara haehaeo t’i Ninevè, ie mihelañe añe; mijohaña, mitsangan
 Kopaho o volafotio, haofo o volamenao amy te tsy ho revo ty an-driha ao, fanake tsifotofoto ty ao.
 Kapaike re, mangoakoake naho mavo, mitranake ty arofo, mifampigaiñe o ongotseo, mikoritoke iaby ze fisafoa, mikò mainte iaby o vintañeo.
 Aia i lakaton-dionay, ty famahanañe o liona tora’eo, i fipiapià’ i lionay naho i liona-vavey naho i ana-dionaiy, ie tsy amam-pañembañe?
-Nahaeneñe o ana’eo ty rinimi’ i lionay, nahatseke o vali’eo o vinono’eo, natsafe’e tsindroke o lava’eo, le nofotse riniatse an-dakato’eo.
-Miatreatre azo iraho, hoe t’Iehovà’ i Màroy Haonjoko an-katòeñe o sarete’eo, habotse’ i fibaray o liona tora’oo; le haitoako ami’ty tane toy o tsindro’oo, vaho tsy ho janjiñeñe ka ty fiarañanaña’ o ira’oo.
+Nahaeneñe o ana’eo ty rinimi’ i lionay, nahatseke o vali’eo o vinono’eo, natsafe’e tsindroke o lava’eo, le nofotse riniatse an-dakato’eo. Miatreatre azo iraho, hoe t’Iehovà’ i Màroy Haonjoko an-katòeñe o sarete’eo, habotse’ i fibaray o liona tora’oo; le haitoako ami’ty tane toy o tsindro’oo, vaho tsy ho janjiñeñe ka ty fiarañanaña’ o ira’oo.
 Hankàñe amy rova mpampiori-dioy, lifotse vande naho vara kinopake, le lia’e tsy modo o tsindroheñeo.
 Inay ty karavantsy! Inao ty fikatrakatrà’ o laròn-tsareteo; heheke ty fitsapio­tsapio’ o soavalao, naho o sarete mitrakotrakoo.
 Mañoridañe o mpiningitse soavalao, mimilomilotse i fibaray; mipelapelatse i lefoñey; zinamañe i lahialeñey, tsifotofoto o votrin-doloo, o fañova mifitakeo; ie mitsikapy amo fateo;
@@ -22962,6 +22962,10 @@ Aa le hoe ty natoi’ i anjely nifanaontsy amakoy, taroño ty hoe, Hoe t’Iehov
 Loho nahabosek’ ahy o kilakila’ondaty miaiñañoleñañeo; ie ni-bosebosehako avao, fe nindràe’ iareo i hasilofeñey.
 Aa le hoe ty nafè’ Iehovà, Mimpoly mb’e Ierosalaime am-piferenaiñan-draho; haoreko ao i kivohokoy, hoe t’Iehovà’ i Màroy, vaho ho kozozoteñe am’ Ierosalaime ty taly.
 Taroño indraike, ty hoe: Hoe t’Iehovà’ i Màroy, Hitòbake havokarañe indraike i rovakoy; naho mbe ho tretreze’ Iehovà t’i Tsione, vaho mbe ho joboñe’e t’Ierosalaime.
+
+
+
+
 Nampiandraeko maso le nahatrea te ingo ty tsifa efatse.
 Le hoe iraho amy anjely nifanaontsy amakoy, Inoñ’ o raha zaoo? Le hoe re amako: I tsifa nampiparaitake Iehoda naho Israele vaho Ierosa­laime rey.
 Natoro’ Iehovà ahy ty mpan­dranjy efatse.
@@ -22971,14 +22975,10 @@ Le hoe iraho: Homb’aia v’iheo? Le hoe re amako: Hanjehe Ierosalaime, hahaisa
 Aa le ingo nionjom-beo i anjely nisaontsy amakoy, vaho niakatse mb’eo ka ty anjely raike hifanalaka ama’e,
 le nanoe’e ty hoe: Mihitrifa, saontsio ty hoe amo ajalahio: Himoneñe tsy aman-kijoly t’Ierosalaime ty ami’ty hatsifotofoto’ ondaty naho añombe ama’e.
 Amy te, Izaho, hoe t’Iehovà ty ho kijolin’ afo ama’e hañarikatok’ aze; Izaho ty ho enge’e añivo’e ao.
-Hoke! mirifata boak’ an-tane avaratse añe, hoe t’Iehovà; fa naboeleko añe manahake o tiok’efa’ i likerañeio nahareo, hoe t’Iehovà.
-Hoke! ry Tsione, mibolitiora ry mpimoneñe amy anak’ ampela’ i Baveley;
-fa hoe ty nafè’ Iehovà’ i Màro, nañirak’ ahy hitoha engeñe amo fifeheañe nikopak’ azoo: Toe mipaoke ty saintem-pihainoko ze mitsapa anahareo.
-Ingo te hahelahelako ambone’ iereo ty tañako, le ho fikopaha’ o nitoroñe iareoo; vaho ho fohi’o te Iehovà ro nañirak’ ahy.
-Misaboa naho mirebeha, ry anak’ ampela’ i Tsione; fa ingo ho avy iraho himoneñe añivo’o ao, hoe t’Iehovà.
-Maro o fifeheañe hirekets’ am’ Iehovà amy andro zaio ty ho ondatiko, le himoneñe añivo’o ao iraho; vaho hapota’o te Iehovà’ i maroy ro nañirak’ ahy.
-Ho rambese’ Iehovà t’Iehoda ho anjara’e amy tane miavakey vaho ho joboñe’e indraike t’Ierosalaime.
-Mianjiña, ze kila nofotse, añatrefa’ Iehovà, ie fa nivañoñe naho niavotse i akiba’e miavakey.
+Hoke! mirifata boak’ an-tane avaratse añe, hoe t’Iehovà; fa naboeleko añe manahake o tiok’efa’ i likerañeio nahareo, hoe t’Iehovà. Misaboa naho mirebeha, ry anak’ ampela’ i Tsione; fa ingo ho avy iraho himoneñe añivo’o ao, hoe t’Iehovà.
+Hoke! ry Tsione, mibolitiora ry mpimoneñe amy anak’ ampela’ i Baveley; Maro o fifeheañe hirekets’ am’ Iehovà amy andro zaio ty ho ondatiko, le himoneñe añivo’o ao iraho; vaho hapota’o te Iehovà’ i maroy ro nañirak’ ahy.
+fa hoe ty nafè’ Iehovà’ i Màro, nañirak’ ahy hitoha engeñe amo fifeheañe nikopak’ azoo: Toe mipaoke ty saintem-pihainoko ze mitsapa anahareo. Ho rambese’ Iehovà t’Iehoda ho anjara’e amy tane miavakey vaho ho joboñe’e indraike t’Ierosalaime.
+Ingo te hahelahelako ambone’ iereo ty tañako, le ho fikopaha’ o nitoroñe iareoo; vaho ho fohi’o te Iehovà ro nañirak’ ahy. Mianjiña, ze kila nofotse, añatrefa’ Iehovà, ie fa nivañoñe naho niavotse i akiba’e miavakey.
 Natoro’e ahy amy zao t’Iehosoa mpi­sorom-bey nijohañe aolo’ i anjeli’ Iehovày eo, naho i mpañinjey nija­ga­rodoñe an-ka­vana’e eo hanisý aze.
 Le hoe t’Iehovà amy mpañinjey: Mañendak’ azo t’Iehovà, ty mpañinje tia. Eka, itre­voha’ Iehovà nijoboñe Ierosalaime; tsy ie hao ty foroa nitsikaoheñ’ añ’afo ao?
 Ie amy zao, nisikin-damba maleotse t’Iehosoa, ie nijohañe añatrefa’ i anjeliy eo.
@@ -27691,7 +27691,7 @@ Aa kanao tsy hay liereñe, le kitra’e hianjiñe nahareo tsy hanao ty hajagarig
 amy te nasese’ areo mb’etoa ondaty tsy mpamaok’ anjomba miavake vaho tsy mpanivetive an-drañahare-ampela-tikañey.
 Aa naho te haneseke ondaty t’i Demetrio naho o mpanao satam-pitàñeo, le misokake i zakay, vaho ao o sorotào, angao iereo hifampaneseke.
 Hera t’ie aman-draha hafa tea’ areo ho bentareñe, fe am-pivory to ao ty ilaharañe.
-Toe marivo ho sangieñe tika ty amy hotakotak’ anindroaniy, ie tsy aman-taly hamolilia’ay ty fañotakotahañe toy.
+Toe marivo ho sangieñe tika ty amy hotakotak’ anindroaniy, ie tsy aman-taly hamolilia’ay ty fañotakotahañe toy. Ie niheneke i saontsi’ey, le naba’e añe i màroy.
 Aa naho nijihetse i koràkey, le nampihitrife’ i Paoly mb’ ama’e o mpiòkeo naho nifetrehe’e vaho nionjoñe mb’e Makedonia añe.
 Nirangae’e o taneo, nañosike ondatio an-tsara maro vaho nandoake e Grisia añe,
 Nañialo telo volañe añe re. Aa naho nivoñoñ’ aze o Tehodao ie ho nijon-dakañe mb’e Sirià mb’eo, le sinafiri’e ty hibalik’ am-pirangañe i Makedonia.

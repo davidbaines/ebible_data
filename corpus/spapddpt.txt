@@ -926,6 +926,7 @@ Y Labán dijo a Jacob: Aquí está este montón, y fíjate, la estela que erigí
 Sea testigo este montón y sea testigo la estela de que no pasaré de este montón hacia ti, ni tú pasarás de este montón, ni de esta estela hacia mí para mal.
 ¡El ʼElohim de Abraham, de Nacor y de sus antepasados, juzgue entre nosotros! Pero Jacob juró por el Temor de su padre Isaac.
 Jacob ofreció un sacrificio en la montaña y llamó a sus parientes a comer pan. Ellos comieron pan y pernoctaron en la montaña.
+Temprano por la mañana Labán se levantó, besó a sus hijos y a sus hijas y los bendijo. Luego salió y regresó a su lugar.
 También Jacob prosiguió su camino, y unos ángeles de ʼElohim salieron a su encuentro.
 Cuando los vio, Jacob dijo: Este es el campamento de ʼElohim y llamó aquel lugar Mahanaim.
 Jacob envió mensajeros delante de él a su hermano Esaú, a la tierra de Seír, al campo de Edom,
@@ -958,7 +959,6 @@ Entonces Jacob le dijo: Te ruego que me declares tu Nombre. Y Él respondió: ¿
 Jacob llamó aquel lugar Peni-ʼEl, porque dijo: Vi a ʼElohim cara a cara, y aun así fue librada mi vida.
 Cuando pasó Peni-ʼEl, salió el sol, y cojeaba por causa de su muslo.
 Por eso hasta hoy los hijos de Israel no comen del tendón de la cadera que está sobre la coyuntura del muslo, porque Él tocó la coyuntura del muslo de Jacob en el tendón de la cadera.
-
 Jacob levantó la mirada, y al ver que Esaú se acercaba con sus 400 hombres, repartió sus hijos entre Lea, Raquel y las dos esclavas.
 Colocó adelante a las esclavas con sus hijos, detrás a Lea con los suyos, y últimos a Raquel con José.
 Pero él pasó adelante de ellos y se postró en tierra siete veces, hasta acercarse a su hermano.
@@ -1709,10 +1709,6 @@ Pero los hechiceros de Egipto hicieron lo mismo con sus encantamientos. Tal como
 Faraón regresó a su palacio sin alguna preocupación sobre esto.
 Todos los egipcios excavaron pozos alrededor del Nilo para beber agua, porque no podían beber agua del Nilo.
 Siete días transcurrieron después que Yavé golpeó el Nilo.
-
-
-
-
 Entonces Yavé dijo a Moisés: Entra a Faraón y dile: Yavé dice Deja salir a mi pueblo para que me sirva.
 Si te niegas a dejarlo ir, ciertamente Yo castigaré todo tu territorio con una plaga de ranas.
 El Nilo bullirá de ranas, las cuales subirán y penetrarán en tu palacio, en tu dormitorio y sobre tu propio lecho, así como en las casas de tus esclavos, entre tu pueblo, en tus hornos y en tus artesas de amasar.
@@ -1741,6 +1737,10 @@ Entonces Faraón llamó a Moisés y a Aarón y les dijo: Vayan, ofrezcan sacrifi
 Pero Moisés respondió: No es correcto hacerlo así, porque ofreceríamos sacrificio a Yavé nuestro ʼElohim, lo cual es repugnancia para los egipcios. Si sacrificamos lo que es una repugnancia para los egipcios delante de ellos, ¿no nos apedrearían?
 Tenemos que hacer una jornada de tres días por el desierto y ofreceremos sacrificio a Yavé nuestro ʼElohim, según lo que Él nos manda.
 Faraón respondió: Los dejaré salir para que ofrezcan sacrificio a Yavé su ʼElohim en el desierto, con tal que no vayan más lejos. ¡Supliquen por mí!
+Entonces Moisés dijo: Ciertamente voy a salir de tu presencia y suplicaré a Yavé que la multitud de moscas se aparte mañana de Faraón, de sus esclavos y de su pueblo, con tal que Faraón no siga engañándome al impedir al pueblo que salga a ofrecer sacrificios a Yavé.
+Moisés salió de la presencia de Faraón y suplicó a Yavé.
+Yavé hizo conforme a la palabra de Moisés y apartó las moscas de Faraón, de sus esclavos y de su pueblo. No quedó ni una.
+Sin embargo Faraón endureció su corazón también esta vez, y no dejó salir al pueblo.
 Entonces Yavé dijo a Moisés: Vé a Faraón y dile: Yavé el ʼElohim de los hebreos dice: Deja ir a mi pueblo para que me sirva,
 porque si tú rehúsas dejarlos ir y continúas la retención de ellos,
 ciertamente la mano de Yavé vendrá con una peste muy severa sobre tus ganados que están en el campo, los caballos, los asnos, los camellos, la manada de ganado vacuno y los rebaños.
@@ -2112,7 +2112,6 @@ Cuando alguno destape un pozo o excave una cisterna y no la cubra, y caiga allí
 el dueño de la cisterna indemnizará. Pagará el dinero a su dueño, y lo muerto será suyo.
 Si el buey de alguno hiere el buey de su prójimo y muere, entonces venderán el buey vivo y partirán el dinero, y también partirán el buey muerto.
 Pero si era notorio que el buey era corneador desde antes, y su dueño no lo encerró, pagará buey por buey, y el buey muerto será suyo.
-
 Cuando un hombre robe un buey o un cordero, y lo degüelle o lo venda, por aquel buey pagará cinco bueyes, y por aquel cordero pagará cuatro corderos.
 Si un ladrón es hallado cuando irrumpe en un lugar y es herido de tal modo que muere, a nadie se inculpará por su sangre.
 Pero si ya salió el sol, será delito de sangre. Ciertamente hará restitución. Si nada tiene, entonces será vendido por su robo.
@@ -2143,6 +2142,7 @@ pues la ropa es su único cobertor para su piel. ¿En qué se va a acostar? Y si
 No insultarás a los jueces, ni maldecirás al magistrado de tu pueblo.
 No retardes la ofrenda de tu cosecha y de tu vendimia. Me darás el primogénito de tus hijos.
 Lo mismo harás con el de tu buey y con el de tu oveja. Siete días estará con su madre, y al octavo día me lo darás.
+Me serán hombres santos. No comerán carne despedazada en el campo. La echarán a los perros.
 No admitirás falso rumor, ni concertarás con el perverso para ser testigo falso.
 No seguirás a la mayoría para hacer el mal, ni testificarás en alguna contienda, al inclinarte a la mayoría para pervertir la justicia.
 No favorecerás al pobre en su pleito.
@@ -2848,13 +2848,6 @@ Restituirá además lo que dañó de las cosas consagradas y añadirá un quinto
 Si alguno peca y quebranta cualquiera de los Mandamientos de Yavé con respecto a cosas que no se deben hacer, aunque no se dé cuenta, será responsable y pagará su falta.
 Llevará un carnero del rebaño sin defecto, según tu estimación, como sacrificio por el pecado. El sacerdote hará por él sacrificio que apacigua por la falta que cometió sin darse cuenta, y será perdonado.
 Es un sacrificio por la culpa. Ciertamente es culpable ante Yavé.
-
-
-
-
-
-
-
 Yavé habló a Moisés:
 Si una persona peca y comete delito contra Yavé, porque engaña a su prójimo en cuanto a depósito o prenda confiada en su mano, o por hurto, o porque roba u oprime a su prójimo,
 o por hallar algo perdido y negarlo, por jurar falsamente en cualquiera de estas cosas que hacen los hombres y pecan al hacerlo,
@@ -2878,6 +2871,13 @@ Esta será la ofrenda que Aarón y sus hijos presentarán a Yavé el día de su 
 Será preparada con aceite en sartén y la llevarán frita en pedazos como la ofrenda vegetal horneada. La ofrecerán como olor que apacigua a Yavé.
 El sacerdote que sea ungido de entre sus hijos para sucederlo, la ofrecerá. Este es un estatuto perpetuo de Yavé. Será quemada por completo.
 Toda ofrenda vegetal del sacerdote será quemada por completo. No se comerá.
+Yavé habló a Moisés:
+Habla a Aarón y a sus hijos: Esta es la Ley del sacrificio que apacigua. En el lugar donde se inmola el holocausto, será degollada la ofrenda por el pecado en la Presencia de Yavé. Es cosa santísima.
+El sacerdote que ofrezca la ofrenda por el pecado la comerá. En lugar sagrado la comerá, en el patio del Tabernáculo de Reunión.
+Todo lo que toque su cuerpo quedará consagrado. Si la sangre salpica sobre la vestidura, lavarán lo que fue salpicado en un lugar santo.
+La vasija de barro en la cual sea cocida será quebrada, y si se coce en vasija de cobre, ésta será fregada y enjuagada con agua.
+Todo varón de entre los sacerdotes podrá comer de ella. Es cosa santísima.
+Pero no se comerá ningún sacrificio por el pecado cuya sangre fue llevada al Tabernáculo de Reunión para hacer sacrificio que apacigua en el Santuario. Será quemada en el fuego.
 Esta es la Ley de la ofrenda por la culpa. Es cosa santísima.
 En el lugar donde se degüella el holocausto degollarán la ofrenda por la culpa, y el sacerdote rociará la sangre sobre el altar por todos los lados.
 Luego ofrecerá toda su grasa: la cola gorda, la grasa que cubre los intestinos,
@@ -4229,6 +4229,21 @@ Y ellos, con todo lo que poseían, descendieron vivos al Seol. Los tragó la tie
 Todos los israelitas que estaban alrededor de ellos huyeron cuando oyeron sus gritos, pues decían: ¡No sea que la tierra nos trague a nosotros!
 Salió fuego de Yavé que consumió a los 250 hombres que ofrecían el incienso.
 Entonces Yavé habló a Moisés:
+Dí a Eleazar, hijo del sacerdote Aarón, que recoja los incensarios de entre el incendio, porque están consagrados, y esparza allí las brasas.
+Con los incensarios de los que pecaron contra sus vidas, harán planchas martilladas para recubrir el altar, por cuanto los presentaron ante Yavé y están consagrados. Serán una señal para los hijos de Israel.
+Entonces el sacerdote Eleazar tomó los incensarios de bronce con los cuales se presentaron los que fueron quemados y los laminaron para recubrir el altar,
+como recuerdo para los hijos de Israel con respecto a que ningún extraño, que no sea de la descendencia de Aarón, puede ofrecer incienso a Yavé, para que no sea como Coré y como su séquito, según Yavé habló por medio de Moisés.
+Al día siguiente, sin embargo, toda la congregación de los hijos de Israel murmuró contra Moisés y Aarón: ¡Ustedes son los que causaron la muerte del pueblo de Yavé!
+Aconteció que cuando se juntó la congregación contra Moisés y Aarón, miraron hacia el Tabernáculo de Reunión. Ahí estaba la nube que lo cubrió, y se manifestó la gloria de Yavé.
+Entonces Moisés y Aarón fueron al frente del Tabernáculo de Reunión.
+Yavé habló a Moisés:
+¡Apártense de en medio de esta congregación porque voy a consumirlos en un instante! Entonces cayeron sobre sus rostros,
+y Moisés dijo a Aarón: ¡Toma el incensario, pon en él fuego del altar y ponle incienso encima! ¡Apresúrate, vé hacia la congregación y haz sacrificio que apacigua por ellos, porque la ira salió de la Presencia de Yavé, la mortandad comenzó!
+Entonces, tal como Moisés habló, Aarón tomó el incensario y corrió hacia el medio de la asamblea, y ¡ciertamente la mortandad había comenzado entre el pueblo! Pero él puso el incienso e hizo sacrificio que apacigua a favor del pueblo.
+Se puso entre los muertos y los vivos, y la mortandad fue detenida.
+Sin embargo, los que murieron en aquella mortandad fueron 14.700, además de los que murieron por causa de Coré.
+Aarón volvió a la puerta del Tabernáculo de Reunión donde estaba Moisés, pues la mortandad fue detenida.
+Entonces Yavé habló a Moisés:
 Habla a los hijos de Israel. Toma de ellos una vara por cada casa paterna: 12 varas de todos sus jefes conforme a sus casas paternas. Escribirás el nombre de cada uno en su vara.
 En la vara de Leví escribirás el nombre de Aarón, pues cada jefe de su casa paterna tendrá una vara.
 Luego las pondrás en el Tabernáculo de Reunión, delante del Testimonio, donde Yo me encuentro con ustedes.
@@ -4241,21 +4256,6 @@ Yavé dijo a Moisés: Vuelve a depositar la vara de Aarón delante del Testimoni
 Moisés hizo como Yavé le ordenó. Así lo hizo.
 Entonces los hijos de Israel clamaron a Moisés: ¡Ciertamente perecemos! ¡Estamos perdidos! ¡Todos nosotros estamos perdidos!
 ¡Cualquiera que se acerca al Tabernáculo de Yavé muere! ¿Al fin todos pereceremos?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Entonces Yavé dijo a Aarón: Tú, tus hijos y tu casa paterna llevarán las ofensas contra el Santuario y contra su sacerdocio.
 También haz que se acerquen tus hermanos de la tribu de Leví, la tribu de tu padre, para que se reúnan contigo y te sirvan mientras tú y tus hijos ministran en el Tabernáculo del Testimonio.
 Ellos acatarán tu orden y la obligación de todo el Tabernáculo. Pero no se acercarán a los utensilios sagrados ni al altar para que ellos no mueran ni ustedes.
@@ -4647,6 +4647,7 @@ Ofrecerán en holocausto, en sacrificio quemado de olor que apacigua a Yavé, un
 y su ofrenda vegetal y sus libaciones con el becerro, con el carnero y con los corderos, según el número de ellos, conforme a la ordenanza,
 y un macho cabrío como sacrificio por el pecado, además del holocausto continuo, con su ofrenda vegetal y su libación.
 Estas cosas ofrecerán a Yavé en sus fiestas solemnes, aparte de sus votos y de sus ofrendas voluntarias, con sus holocaustos, sus ofrendas vegetales, sus libaciones y sus ofrendas de paz.
+Y Moisés habló a los hijos de Israel conforme a todo lo que Yavé le ordenó.
 Moisés habló a los jefes de las tribus de los hijos de Israel: Esta es la Palabra que Yavé ordenó:
 Cuando un hombre haga voto a Yavé, o jure para imponerse una promesa, no quebrantará su palabra. Todo lo que salga de su boca lo cumplirá.
 También, si una mujer hace un voto a Yavé, y se impone una obligación en su juventud mientras está en casa de su padre,
@@ -4663,7 +4664,6 @@ Todo voto y todo juramento que la obligue a humillarse a ella misma, su esposo l
 Pero si su esposo calla ante ello de día en día, entonces confirmó todos sus votos y todas las obligaciones que están sobre ella. Las confirma por cuanto calló ante ello el día cuando lo oyó.
 Si los anula después de oírlos, entonces él llevará la iniquidad de ella.
 Estos son los Estatutos que Yavé ordenó a Moisés sobre las relaciones entre el esposo y su esposa, y entre el padre y su hija durante la juventud de ésta en casa de su padre.
-
 Yavé habló a Moisés:
 Toma venganza completa de los hijos de Israel contra los madianitas. Después serás reunido a tu pueblo.
 Entonces Moisés habló al pueblo: Armen a algunos hombres de entre ustedes para la guerra, y vayan contra Madián para ejecutar la venganza de Yavé contra Madián.
@@ -5271,6 +5271,7 @@ Ten cuidado de obedecer todas estas palabras que yo te ordeno para que te vaya b
 Cuando Yavé tu ʼElohim destruya de delante de ti a las naciones a las cuales tú vas para poseerlas, las desposeas y vivas en su tierra,
 cuídate para que no tropieces al ir tras ellas después que sean destruidas delante de ti, de seguirlas, de indagar respecto a sus ʼelohim y digas: De la manera como sirven estas naciones a sus ʼelohim, yo también les serviré.
 No harás así a Yavé tu ʼElohim, porque ellos hicieron sus ʼelohim, toda cosa repugnante que Yavé aborrece, pues aun queman sus hijos y sus hijas en el fuego a sus ʼelohim.
+Tendrán cuidado de hacer todo lo que yo les mando, sin agregarle ni disminuirle.
 Si en medio de ti se levanta un profeta o un soñador, y te da una señal o un prodigio,
 aunque se cumpla tal señal o prodigio que te anunció, y dice: Sigamos otros ʼelohim que no conociste, y sirvámosles,
 no escucharás las palabras de tal profeta o de tal soñador, porque Yavé tu ʼElohim te prueba para saber si amas a Yavé tu ʼElohim con todo tu corazón y con toda tu alma.
@@ -5289,7 +5290,6 @@ de manera imperdonable matarás a los habitantes de esa ciudad a filo de espada.
 Luego juntarás todo su despojo en medio de su plaza y consumirás totalmente con fuego la ciudad con todo su despojo, todo ello como ofrenda quemada a Yavé tu ʼElohim. Será un montón de ruinas para siempre. Jamás será reconstruida.
 Nada de lo repugnante se pegará a tu mano, para que Yavé se vuelva del ardor de su ira, te conceda misericordia, tenga compasión de ti y te multiplique, como juró a tus antepasados,
 porque obedeciste a la voz de Yavé tu ʼElohim al guardar todos sus Mandamientos que yo te ordeno hoy, para que hagas lo recto delante de Yavé tu ʼElohim.
-
 Ustedes son hijos de Yavé su ʼElohim. No sajarán sus cuerpos ni se rasurarán la frente de sus cabezas por causa de un muerto,
 porque eres un pueblo santo para Yavé tu ʼElohim. Yavé te escogió de entre todos los pueblos que hay sobre la superficie de la tierra para que le seas un pueblo especial.
 Nada repugnante comerás.
@@ -5499,6 +5499,7 @@ A la joven nada le harás. La muchacha no tiene pecado digno de muerte, pues es 
 porque en el campo la halló, y la joven comprometida gritó, pero no hubo alguno que la auxiliara.
 Si un hombre halla a una joven virgen que no está comprometida, y al agarrarla se une con ella, y son descubiertos,
 el hombre que se unió con ella dará al padre de la joven 550 gramos de plata, y ella será su esposa, pues él la violó. No podrá repudiarla en todos sus días.
+Ninguno tomará la esposa de su padre. No levantará la falda de su padre.
 No entrará en la congregación de Yavé el que tenga magullados los testículos o amputado su miembro viril.
 Ningún hijo ilegítimo entrará en la congregación de Yavé. No entrarán sus descendientes en la congregación de Yavé hasta la décima generación.
 No entrará amonita ni moabita en la congregación de Yavé, ni aun en la décima generación. Nunca entrarán en la congregación de Yavé,
@@ -5524,7 +5525,6 @@ Pero si te abstienes de hacer un voto, esto no será pecado en ti.
 Sin embargo lo que salga de tus labios, lo guardarás y lo cumplirás. Conforme prometiste a Yavé tu ʼElohim, pagarás la ofrenda voluntaria que prometiste con tu boca.
 Cuando entres en la viña de tu prójimo, podrás comer las uvas que desees hasta saciarte, pero no las pondrás en tu cesta.
 Cuando entres en el trigal de tu prójimo, podrás arrancar espigas con la mano, pero no meterás la hoz en el trigal de tu prójimo.
-
 Cuando alguno tome una mujer, y se case con ella, y suceda que ella no le agrada porque halló en ella alguna cosa reprochable, y él le escribe un certificado de divorcio, se lo entrega en su mano y la echa de su casa;
 cuando ella salga de la casa de él, va y se casa con otro hombre;
 si el segundo esposo la aborrece, le escribe certificado de divorcio, lo coloca en su mano y la despide de su casa, o si muere este último esposo que la tomó como esposa,
@@ -5679,7 +5679,6 @@ Entre aquellas naciones no hallarás reposo ni habrá descanso para la planta de
 Tendrás tu vida como algo que pende delante de ti. Estarás temeroso de noche y de día, y no tendrás seguridad de tu vida.
 Por la mañana dirás: ¡Quién me diera que fuera la noche! Y en la noche dirás: ¡Quién me diera que fuera la mañana! Esto sucederá por el terror con el cual serás atemorizado, y por el espectáculo que verán tus ojos.
 Yavé te hará regresar a Egipto en naves por el camino del cual yo te dije: Nunca más volverás. Allí serán ofrecidos en venta a sus enemigos como esclavos y esclavas, y no habrá quien los compre.
-
 Estas son las Palabras del Pacto que Yavé mandó a Moisés que celebrara con los hijos de Israel en la tierra de Moab, además del Pacto que estableció con ellos en Horeb.
 Moisés convocó a todo Israel y les dijo: Ustedes vieron todo lo que Yavé hizo ante sus ojos en la tierra de Egipto, a Faraón, a todos sus esclavos y a toda su tierra,
 las grandes pruebas que vieron sus ojos, las señales y los grandes prodigios.
@@ -5708,6 +5707,7 @@ Se les responderá: Porque abandonaron el Pacto de Yavé, el ʼElohim de sus ant
 fueron y sirvieron a otros ʼelohim y se inclinaron ante ellos, ʼelohim que no conocieron, los cuales Él no les asignó.
 Por eso la ira de Yavé ardió contra esta tierra para traer sobre ella todas las maldiciones escritas en este rollo,
 y con ira, furor y gran indignación, Yavé los desarraigó de su propia tierra y los echó en otra tierra, como se ve hoy.
+Las cosas secretas pertenecen a Yavé nuestro ʼElohim, pero las reveladas son para nosotros y nuestros hijos para siempre, a fin de que cumplamos todas las palabras de esta Ley.
 Sucederá que cuando lleguen sobre ti todas estas cosas, la bendición y la maldición que acabo de presentar delante de ti, y tú cambies de mente en medio de todas las naciones adonde te esparza Yavé tu ʼElohim,
 regreses a Yavé tu ʼElohim, y obedezcas su voz, conforme a todo lo que yo te mando hoy, tú y tus hijos, con todo tu corazón y con toda tu alma,
 entonces Yavé hará volver tu cautividad y tendrá misericordia de ti. Volverá a recogerte de entre los pueblos adonde Yavé tu ʼElohim te esparció.
@@ -7771,6 +7771,7 @@ Cuando el esclavo llegó al lugar donde estaba la flecha que Jonatán tiró, Jon
 Pero el esclavo nada sabía. Solamente Jonatán y David sabían el asunto.
 Luego Jonatán entregó sus armas al esclavo que estaba con él y le dijo: Vé y llévalas a la ciudad.
 Tan pronto como el esclavo salió, David salió de la parte del sur y se postró tres veces rostro en tierra. Luego se besaron el uno al otro y lloraron juntos, aunque David lloró más.
+
 Jonatán dijo a David: Vete en paz, porque ambos nos juramentamos en el Nombre de Yavé: Yavé esté entre tú y yo, y entre mi descendencia y la tuya para siempre. Y él se levantó y se fue, y Jonatán regresó a la ciudad.
 Entonces David fue a Nob, a Ahimelec el sacerdote. Ahimelec salió tembloroso a recibir a David y le dijo: ¿Por qué estás solo, y nadie está contigo?
 David respondió al sacerdote Ahimelec: El rey me encomendó un asunto y me dijo: Nadie sepa del asunto al cual te envío y que te ordené. Y yo convine reunirme con los jóvenes en cierto lugar.
@@ -7787,7 +7788,6 @@ David guardó esas palabras en su corazón y tuvo gran temor de Aquís, rey de G
 Así que se fingió demente ante ellos, y actuaba como loco en manos de ellos. Garabateaba en las hojas de la puerta y dejaba caer saliva por su barba.
 Y Aquís dijo a sus esclavos: Aquí ven a un hombre que se porta como loco. ¿Por qué me lo traen?
 ¿Me faltan locos para que me traigan a éste a fin de que actúe como loco delante de mí? ¿Debe entrar éste en mi casa?
-
 David salió de allí y se refugió en la cueva de Adulam. Cuando sus hermanos y toda la casa de su padre oyeron esto, fueron a él allá.
 Todo el que estaba afligido, endeudado y descontento se reunió con él. Él fue su jefe. Había con él como 400 hombres.
 De allí David fue a Mizpa de Moab, y dijo al rey de Moab: Te ruego que mi padre y mi madre vivan con ustedes, hasta que sepa qué ʼElohim hará conmigo.
@@ -7839,6 +7839,7 @@ Luego Saúl salió con sus hombres a buscarlo, de lo cual David recibió informe
 Saúl iba por un lado de la montaña, y David con sus hombres por el otro lado. David se daba prisa para escapar de Saúl, pero Saúl y sus hombres encerraron a David y a sus hombres para capturarlos.
 Entonces llegó un mensajero a Saúl, quien dijo: ¡Date prisa y ven, porque los filisteos irrumpieron en el país!
 Así que Saúl regresó de perseguir a David, para ir a enfrentar a los filisteos. Por eso llamaron aquel lugar La Roca de Escape.
+Entonces David subió de allí y permaneció en los refugios de Engadí.
 Sucedió que cuando Saúl volvió de perseguir a los filisteos, le informaron: Mira, David está en la región despoblada de Engadí.
 Saúl tomó 3.000 hombres escogidos de todo Israel y salió a buscar a David y sus hombres por los peñascos de las cabras monteses.
 Así que llegó a los rediles de ovejas en el camino donde había una cueva, y Saúl entró en ella para cubrir sus pies. David y sus hombres estaban sentados en las partes más internas de la cueva.
@@ -7861,7 +7862,6 @@ Porque si un hombre halla a su enemigo, ¿lo deja ir en paz? ¡Yavé te galardon
 Y ahora mira, yo sé que de seguro reinarás, y que el reino de Israel será estable en tu mano.
 Ahora pues, júrame por Yavé que no exterminarás mi descendencia, ni borrarás mi nombre de la casa de mi padre.
 David se lo juró a Saúl. Y Saúl se fue a su casa, y David y sus hombres subieron a los riscos.
-
 Entonces Samuel murió. Todo Israel se reunió para lamentar por él, y lo sepultaron en su casa en Ramá. Y David se levantó y bajó a la región despoblada de Parán.
 Había entonces un hombre en Maón que tenía posesiones en la montaña Carmelo. Aquel hombre era muy pudiente, pues tenía 3.000 ovejas y 1.000 cabras. Esquilaba sus ovejas en la montaña Carmelo.
 Aquel hombre se llamaba Nabal, y su esposa, Abigail. La esposa tenía buen entendimiento y hermoso semblante, pero el hombre era cruel y malo en sus tratos. Él era del linaje de Caleb.
@@ -8511,6 +8511,7 @@ Y el rey dijo: ¿Está bien el joven Absalón? Ahimaas respondió: Vi un gran al
 Entonces el rey dijo: Pasa y colócate allí. Y él pasó y se quedó allí en pie.
 También llegó el etíope y dijo: ¡Reciba mi ʼadón el rey la noticia, pues Yavé te libró hoy de la mano de todos aquellos que se levantaron contra ti!
 Y el rey preguntó al etíope: ¿Está bien el joven Absalón? Y el etíope contestó: ¡Como aquel joven sean los enemigos de mi ʼadón el rey, y todos los que se levantaron contra ti!
+El rey se conmovió profundamente, subió a la sala que estaba sobre la puerta y lloró. Mientras subía decía: ¡Hijo mío, Absalón! ¡Hijo mío, hijo mío, Absalón! ¡Quién me diera que muriera yo en tu lugar, Absalón, hijo mío, hijo mío!
 Informaron a Joab: ¡Mira, el rey llora y endecha a causa de Absalón!
 Aquel día la victoria se convirtió en duelo para todo el pueblo, porque el pueblo oyó decir: ¡Cuán acongojado está el rey por su hijo!
 Aquel día el pueblo entró calladamente en la ciudad, como entra calladamente la tropa avergonzada cuando huye de la batalla.
@@ -8554,7 +8555,6 @@ El rey prosiguió a Gilgal, y Quimham fue con él. Todo el pueblo de Judá y tam
 Ciertamente todos los hombres de Israel fueron al rey y le dijeron: ¿Por qué nuestros hermanos varones de Judá te raptan e hicieron que el rey y a su familia cruzaran el Jordán, y a todos los hombres de David con él?
 Entonces todos los hombres de Judá respondieron a los hombres de Israel: Porque el rey es nuestro pariente cercano. Pero ¿por qué se quejan ustedes por esto? ¿Comimos algo a costa del rey o se nos dieron regalos?
 Al responder los hombres de Israel, dijeron a los hombres de Judá: ¡Tenemos diez partes en el rey y más derecho sobre David que ustedes! ¿Por qué nos despreciaron? ¿No dimos nuestra palabra primero para devolver a nuestro rey? Sin embargo, la palabra de los hombres de Judá prevaleció sobre la de los hombres de Israel.
-
 Pero Seba, hijo de Bicri, de Benjamín, hombre perverso, estaba allí. Éste sopló la corneta y dijo: ¡No tenemos parte en David ni heredad en el hijo de Isaí! ¡Israel: cada uno a su tienda!
 Entonces todos los hombres de Israel dejaron de seguir a David y siguieron a Seba, hijo de Bicri. Pero los hombres de Judá siguieron fielmente a su rey desde el Jordán hasta Jerusalén.
 Cuando David llegó a su palacio en Jerusalén, tomó a las diez concubinas que dejó para cuidar el palacio y las colocó en reclusión. Aunque las sustentó, nunca más se unió a ellas. Ellas quedaron en viudez perpetua hasta cuando murieron.
@@ -8865,6 +8865,20 @@ Josafat, hijo de Parúa, en Isacar;
 Simei, hijo de Ela, en Benjamín;
 y Geber, hijo de Uri, quien era el único gobernador en la tierra de Galaad, tierra que perteneció a Sehón, rey de los amorreos, y a Og, rey de Basán. Geber gobernaba en toda la región.
 Judá e Israel eran tan numerosos en multitud como la arena que está junto al mar. Comían, bebían y se regocijaban.
+Salomón gobernaba sobre todos los reinos, desde el río Éufrates hasta la tierra de los filisteos y el límite con Egipto. Llevaban tributo y sirvieron a Salomón todos los días de su vida.
+Las provisiones diarias de Salomón eran: 6.600 litros de flor de harina, 13.200 litros de harina corriente,
+10 bueyes gordos, 20 bueyes de pasto y 100 ovejas, sin contar los venados, las gacelas, los corzos y las aves gordas.
+Porque él tenía dominio en toda la región al oeste del río Éufrates, desde Tifsa hasta Gaza, sobre todos los reyes del lado oeste del río. Tuvo paz por todos lados alrededor de él.
+Así, Judá e Israel vivieron con seguridad todos los días de Salomón, cada cual debajo de su vid y su higuera, desde Dan hasta Beerseba.
+Salomón tenía en sus establos 40.000 caballos para sus carruajes y 12.000 jinetes.
+Los gobernadores, cada uno en su mes, proveían al rey Salomón y a todo el que llegaba a la mesa del rey, para que no faltara algo.
+Llevaban también cebada y pasto para los caballos y las bestias de carga, al lugar donde él estaba, cada uno según su cuota.
+ʼElohim le dio a Salomón sabiduría, gran entendimiento y amplitud de corazón, como la arena que está en la orilla del mar.
+La sabiduría de Salomón sobrepasó la sabiduría de todos los pueblos del oriente y toda la sabiduría de Egipto.
+Él fue más sabio que todos los hombres: más que Etán ezraíta y Hemán, Calcol y Darda, hijos de Mahol. Su nombre fue conocido en todas las naciones de alrededor.
+Compuso 3.000 proverbios y 5.000 cantares.
+Habló acerca de los árboles, desde el cedro del Líbano hasta el hisopo que crece en el muro. También habló acerca de los cuadrúpedos, las aves, los reptiles y los peces.
+Hombres de todos los pueblos llegaban para escuchar la sabiduría de Salomón. Todos los reyes de la tierra oían acerca de su sabiduría.
 Hiram, rey de Tiro, después que oyó que ungieron rey a Salomón en lugar de su padre, también le envió a sus esclavos, pues Hiram siempre apreció a David.
 Salomón envió a decir a Hiram:
 Tú sabes que por causa de las guerras que lo rodearon, mi padre David no pudo edificar una Casa al Nombre de Yavé su ʼElohim, hasta que Yavé sometió a sus enemigos debajo de sus pies.
@@ -8883,20 +8897,6 @@ Además Salomón tenía 70.000 cargadores y 80.000 canteros en la región monta�
 aparte de los 3.300 jefes que Salomón estableció al frente de la obra, los cuales daban órdenes a la gente que hacía el trabajo.
 El rey mandó que extrajeran piedras grandes y costosas para colocar los cimientos de la Casa con piedras talladas.
 Los constructores de Salomón, de Hiram y de Biblos prepararon la madera y tallaron las piedras para construir la Casa.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 El año 480 después de la salida de los hijos de Israel de la tierra de Egipto, en el cuarto año del reinado de Salomón en Israel, el mes de Ziv, que es el mes segundo, aconteció que él comenzó a edificar la Casa de Yavé.
 La Casa que el rey Salomón edificó a Yavé tenía 27 metros de longitud, nueve metros de anchura y 13,5 metros de altura.
 El patio delante del Lugar Santo de la Casa tenía nueve metros de longitud a todo lo ancho de la Casa, y 4,5 metros de anchura en el frente de la Casa.
@@ -9523,6 +9523,7 @@ Los demás hechos y cosas de Acab, la casa de marfil y todas las ciudades que ed
 Acab descansó con sus antepasados, y su hijo Ocozías reinó en su lugar.
 Josafat, hijo de Asa, comenzó a reinar en Judá en el cuarto año de Acab, rey de Israel.
 Josafat tenía 35 años cuando comenzó a reinar, y reinó 25 años en Jerusalén. El nombre de su madre fue Azuba, hija de Silhi.
+
 Él anduvo en todo el camino de su padre Asa, sin apartarse de él, e hizo lo recto ante Yavé. Pero los lugares altos no fueron quitados, porque aún el pueblo ofrecía sacrificios y quemaba incienso de continuo allí.
 Josafat estableció la paz con el rey de Israel.
 Los demás hechos de Josafat, el poderío que logró y las guerras que peleó, ¿no están escritos en el rollo de las Crónicas de los reyes de Judá?
@@ -9534,7 +9535,6 @@ Josafat descansó con sus antepasados, y fue sepultado con ellos en la ciudad de
 El año 17 de Josafat, rey de Judá, Ocozías, hijo de Acab, comenzó a reinar sobre Israel en Samaria, y reinó dos años.
 Hizo lo malo ante Yavé. Anduvo en el camino de su padre, su madre, y de Jeroboam, hijo de Nabat, quien estimuló a Israel a pecar.
 Sirvió a baal y se postró ante él. Provocó la ira de Yavé, el ʼElohim de Israel, conforme a todas las cosas que hizo su padre.
-
 Después de la muerte de Acab, Moab se rebeló contra Israel.
 Ocozías cayó por la ventana de la sala en el nivel superior de su casa en Samaria. Cuando estaba enfermo envió mensajeros y les dijo: Vayan y consulten a Baal-zebub, ʼelohim de Ecrón, si sanaré de esta enfermedad.
 Entonces el Ángel de Yavé dijo a Elías tisbita: Levántate, sube a encontrar a los mensajeros del rey de Samaria y diles: ¿Porque no hay ʼElohim en Israel, van a consultar a Baal-zebub, el ʼelohim de Ecrón?
@@ -9851,6 +9851,7 @@ Joiada hizo pacto entre Yavé, el rey y el pueblo, según el cual ellos serían 
 Todo el pueblo de la tierra fue al templo de baal y lo destruyeron. Destrozaron completamente sus altares y sus imágenes, y mataron a Matán, sacerdote de baal, ante los altares. Y el sacerdote estableció la vigilancia para la Casa de Yavé.
 Después tomó a los jefes de centuria, los cereteos, los de la escolta y todo el pueblo de la tierra, y bajaron al rey de la Casa de Yavé. Entraron en la casa real por el camino de la entrada de la escolta, y el rey se sentó en el trono de los reyes.
 Todo el pueblo de la tierra se regocijó, y la ciudad reposó, pues mataron a espada a Atalía en la casa real.
+Joás tenía siete años cuando comenzó a reinar.
 Joás comenzó a reinar en el año séptimo de Jehú, y reinó 40 años en Jerusalén. El nombre de su madre fue Sibia, de Beerseba.
 Joás hizo lo recto ante Yavé todos los días en los cuales el sacerdote Joiada lo instruía.
 Pero no se quitaron los lugares altos, porque el pueblo aún sacrificaba y quemaba incienso en los lugares altos.
@@ -9872,7 +9873,6 @@ Pero Joás, rey de Judá, tomó todos los objetos consagrados que ofrecieron sus
 Todos los hechos de Joás, ¿no están escritos en el rollo de las Crónicas de los reyes de Judá?
 Se levantaron sus esclavos y tramaron una conspiración, y mataron a Joás en la casa de Milo, en el camino que baja a Silo,
 pues sus esclavos Josacar, hijo de Simeat, y Jozabad, hijo de Somer, lo hirieron y murió. Lo sepultaron con sus antepasados en la Ciudad de David, y reinó en su lugar su hijo Amasías.
-
 El año 23 de Joás, hijo de Ocozías, rey de Judá, comenzó a reinar Joacaz, hijo de Jehú, sobre Israel en Samaria, y reinó 17 años.
 Hizo lo malo ante Yavé, porque siguió tras los pecados de Jeroboam, hijo de Nabat, con los cuales estimuló a pecar a Israel, y no se apartó de ellos.
 La ira de Yavé se encendió contra Israel, y los entregó en repetidas ocasiones en mano de Hazael, rey de Siria, y en mano de Ben-adad, hijo de Hazael.
@@ -10456,21 +10456,6 @@ Los hijos de la media tribu de Manasés vivieron en la tierra desde Basán hasta
 Estos son los jefes de las casas paternas: Efer, Isi, Eliel, Azriel, Jeremías, Hodavías y Jahdiel, hombres valientes y esforzados, varones de renombre y jefes de las casas paternas.
 Pero se rebelaron contra el ʼElohim de sus padres, y se prostituyeron al seguir a los ʼelohim de los pueblos de la tierra, a los cuales Yavé quitó de delante de ellos.
 Por lo cual el ʼElohim de Israel incitó el espíritu de Pul, rey de los asirios, es decir el espíritu de Tiglat-pileser, rey de los asirios, quien deportó a los rubenitas, gaditas y a la media tribu de Manasés. Los llevó a Halah, Habor, Hara y al río Gozán, hasta hoy.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hijos de Leví: Gersón, Coat y Merari.
 Hijos de Coat: Amram, Izhar, Hebrón y Uziel.
 Hijos de Amram: Aarón, Moisés y Miriam. Hijos de Aarón: Nadab, Abiú, Eleazar e Itamar.
@@ -10537,6 +10522,21 @@ A los hijos de Merari, por sus familias, les dieron 12 ciudades por sorteo de la
 Así los hijos de Israel dieron a los levitas las ciudades con sus campos de alrededor.
 De las tribus de los hijos de Judá, Simeón y Benjamín, dieron por sorteo las ciudades que llamaron por sus nombres.
 De la tribu de Efraín dieron ciudades con sus campos de alrededor a las familias de los hijos de Coat,
+y las siguientes ciudades de refugio con sus campos de alrededor: Siquem en la región montañosa de Efraín, Gezer,
+Jocmeam, Bet-horón,
+Ajalón y Gat-rimón.
+De la media tribu de Manasés dieron ciudades con sus campos de alrededor: Aner y Bileam, para los que quedaron de las familias de los hijos de Coat.
+De la familia de la media tribu de Manasés dieron ciudades con sus campos de alrededor a los hijos de Gersón: Golán en Basán y Astarot.
+De la tribu de Isacar dieron ciudades con sus campos de alrededor: Cedes, Daberat,
+Ramot y Anem.
+De la tribu de Aser dieron ciudades con sus campos de alrededor: Masal, Abdón,
+Hucoc y Rehob.
+De la tribu de Neftalí dieron ciudades con sus campos de alrededor: Cedes, en Galilea, Hamón y Quiriataim.
+A los hijos de Merari que quedaron de la tribu de Zabulón dieron ciudades con sus campos de alrededor: Rimón y Tabor.
+De la tribu de Rubén, dieron ciudades con sus campos de alrededor al otro lado del Jordán, frente a Jericó, al oriente del Jordán: Beser, en la región despoblada, Jaza,
+Cademot y Mefaat.
+Y de la tribu de Gad dieron ciudades con sus campos de alrededor: Ramot de Galaad, Mahanaim,
+Hesbón y Jazer.
 Hijos de Isacar: Tola, Fúa, Jasub y Simrón: cuatro.
 Hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Jibsam y Semuel, jefes de las casas paternas. De Tola fueron contados por sus familias 22.6000 hombres valientes en sus generaciones en el tiempo de David.
 El hijo de Uzi fue Israhías, y los hijos de Israhías: Micael, Obadías, Joel e Isías, un total de cinco jefes.
@@ -10725,6 +10725,7 @@ Eliel, Obed, Haasiel mesobaíta.
 Éstos eran los que fueron a David en Siclag, cuando él estaba aún encerrado por causa de Saúl, hijo de Cis, y eran de los valientes que lo ayudaron en la guerra.
 Estaban armados con arcos. Usaban ambas manos para tirar piedras con honda y flechas con arco. De los hermanos de Saúl, de Benjamín:
 el jefe después Joás, Ahiezer, hijos de Semaa gabaatita, Jeziel y Pelet, hijos de Azmavet, Beraca, Jehú anatotita,
+
 Ismaías gabaonita, valiente entre los 30 y jefe de los 30, Jeremías, Jahaziel, Johanán, Jozabad gederatita,
 Eluzai, Jerimot, Bealías, Semarías, Sefatías harufita,
 Elcana, Isías, Hazi, Azareel, Joezer,
@@ -10762,7 +10763,6 @@ Del otro lado del Jordán, de los rubenitas, gaditas y de la media tribu de Mana
 Todos estos hombres de guerra, listos para la batalla, fueron con corazón sincero a Hebrón para proclamar a David como rey sobre todo Israel. Todos los demás de Israel eran también del mismo sentir para proclamar rey a David.
 Estuvieron allí con David tres días. Comían y bebían porque sus hermanos prepararon para ellos.
 También los vecinos, hasta Isacar, Zabulón y Neftalí, llevaron alimentos en asnos, camellos, mulas y bueyes: provisiones de harina, tortas de higos, uvas pasas, vino y aceite, y bueyes y ovejas en abundancia, porque había alegría en Israel.
-
 Entonces David tomó consejo con los jefes de millares y de centenas, los oficiales de la casa y todos los jefes.
 Y David dijo a toda la congregación de Israel: Si les parece bien y si es la voluntad de Yavé nuestro ʼElohim, enviemos mensajeros a todas partes a llamar a nuestros hermanos que quedaron en todas las tierras de Israel y a los sacerdotes y levitas que están con ellos en sus ciudades y campos de alrededor, para que se reúnan con nosotros.
 Traigamos hasta nosotros el Arca de nuestro ʼElohim, porque no la buscamos en el tiempo de Saúl.
@@ -11214,7 +11214,6 @@ Salomón reunió carruajes de guerra y jinetes. Tuvo 1.400 carruajes de guerra y
 El rey logró que la plata y el oro fueran como las piedras en Jerusalén, y que el cedro fuera tan abundante como los sicómoros de la Sefela.
 Los caballos de Salomón eran de Egipto. Los mercaderes del rey los compraban por manadas.
 Llevaban de Egipto un carruaje por 600 piezas de plata, y un caballo por 150. Por medio de ellos también los adquirían todos los reyes de los hititas y los reyes de Siria.
-
 Salomón se propuso edificar una Casa al Nombre de Yavé y un palacio real para él.
 Salomón designó 70.000 cargadores y 80.000 canteros para labrar piedras en la región montañosa, y 3.600 supervisores.
 Salomón envió a decir a Hiram, rey de Tiro: Haz conmigo como hiciste con mi padre David, al enviarle cedros para que edificara una casa para vivir.
@@ -11232,6 +11231,7 @@ hijo de una mujer de las hijas de Dan, y su padre es de Tiro. Él sabe trabajar 
 En cuanto al trigo, la cebada, el aceite y el vino de los cuales mi ʼadón habló, entréguelos a sus esclavos,
 y nosotros mismos talaremos árboles del Líbano de acuerdo con todas tus necesidades. Te los llevaremos en balsas por mar a Jope, y tú los subirás a Jerusalén.
 Salomón contó todos los extranjeros que estaban en la tierra de Israel, según el censo que hizo su padre David. Se halló que había 153.600.
+Designó a 70.000 de ellos como cargadores, a 80.000 para tallar piedras en la región montañosa y a 3.600 supervisores para vigilar la labor de la gente.
 Salomón comenzó a edificar la Casa de Yavé en Jerusalén, en la montaña Moriah, donde Él se apareció a su padre David en el lugar que David preparó en la era de Ornán jebuseo.
 A los dos días del mes segundo, el año cuarto de su reinado, comenzó a edificar.
 Estas son las medidas prescritas a Salomón para los cimientos de la Casa de ʼElohim: La longitud en codos, según la medida antigua, era de 27 metros, y la anchura, de nueve metros.
@@ -11478,7 +11478,6 @@ Abías persiguió a Jeroboam y le tomó algunas ciudades, a Bet-ʼEl, a Jesana y
 Jeroboam no recuperó su poder en el tiempo de Abías. Yavé lo hirió, y murió.
 Abías se fortaleció. Tomó para él 14 esposas, y engendró 22 hijos y 16 hijas.
 Los demás hechos de Abías, sus procedimientos y dichos, están escritos en el rollo del profeta Iddo.
-
 Abías descansó con sus antepasados y lo sepultaron en la Ciudad de David. Reinó en su lugar su hijo Asa. En su tiempo la tierra estuvo en paz durante diez años.
 Asa hizo lo bueno y lo recto ante Yavé su ʼElohim,
 porque quitó los altares de culto extraño y los lugares altos, quebró las piedras rituales y destruyó los símbolos de Asera.
@@ -11493,6 +11492,7 @@ Asa invocó a Yavé su ʼElohim: ¡Oh Yavé, no hay otro como Tú para ayudar, t
 Yavé derrotó a los etíopes ante Asa y Judá, y los etíopes huyeron.
 Asa y el ejército que lo acompañaba los persiguieron hasta Gerar. Cayeron tantos de los etíopes que no pudieron recuperarse, porque fueron destrozados ante Yavé y su ejército. Les tomaron un botín muy grande.
 Atacaron también todas las ciudades alrededor de Gerar, porque el terror de Yavé estaba sobre ellas. Saquearon todas las ciudades, pues había en ellas un gran botín.
+También atacaron las tiendas de los que tenían ganado. Se llevaron muchas ovejas y camellos y regresaron a Jerusalén.
 Entonces el Espíritu de ʼElohim vino sobre Azarías, hijo de Oded,
 quien salió al encuentro de Asa y le dijo: Escúchenme, Asa y todo Judá y Benjamín: Yavé está con ustedes, si ustedes están con Él. Si lo buscan, será hallado por ustedes, pero si lo abandonan, Él los abandonará.
 Mucho tiempo estuvo Israel sin el ʼElohim verdadero, sin sacerdote que enseñara y sin Ley.
@@ -12362,12 +12362,6 @@ Detrás de ellos Sadoc, hijo de Imer, reparó frente a su casa, y después de é
 En seguida de él, Hananías, hijo de Selemías, reparó otro tramo junto con Hanún, sexto hijo de Salaf. Tras éste Mesulam, hijo de Berequías, reparó frente a su casa.
 Tras él, Malquías, hijo del platero, reparó hasta las casas de los servidores del Templo y los mercaderes, enfrente de la puerta del Juicio y hasta el aposento alto de la esquina.
 Los orífices y los mercaderes repararon entre el aposento alto de la esquina y la puerta de las Ovejas.
-
-
-
-
-
-
 Pero cuando Sanbalat supo que reconstruíamos el muro, se airó muchísimo. Al burlarse de los judíos,
 habló ante sus hermanos y el ejército de Samaria: ¿Qué pretenden estos miserables judíos? ¿La van a restaurar para ellos? ¿Sacrificarán? ¿Acabarán en un día? ¿Harán revivir las piedras de los montones de escombros, aunque ven que están consumidas?
 Tobías amonita, que estaba junto a él, dijo: ¡Hasta una zorra, si sube allí, podría derribar el muro de piedra que construyen!
@@ -12385,6 +12379,12 @@ Después que inspeccioné, me levanté y dije a los jefes, los oficiales y el re
 Sucedió que cuando nuestros enemigos supieron que fuimos advertidos, ʼElohim desbarató sus planes. Y todos nosotros pudimos regresar al muro, cada uno a su trabajo.
 Desde aquel día, aconteció que la mitad de mis hombres trabajaba en la obra y la otra mitad sostenía las lanzas, los escudos, los arcos y las corazas. Los jefes estaban detrás de toda la casa de Judá.
 Los que trabajaban en el muro y los que acarreaban las cargas, con una mano trabajaban en la obra y con la otra empuñaban la lanza.
+En cuanto a los constructores, cada uno llevaba su espada atada a su cintura, y así edificaban. El que soplaba la corneta estaba junto a mí.
+Pues yo dije a los jefes, los oficiales y al resto del pueblo: La obra es mucha y extensa, y nosotros estamos esparcidos por el muro, lejos los unos de los otros.
+Dondequiera que oigan el sonido de la corneta, reúnanse desde allí junto a nosotros. ¡Nuestro ʼElohim peleará por nosotros!
+Así trabajábamos en la obra: la mitad de ellos empuñaban las lanzas, desde la aurora hasta que salían las estrellas.
+También hablé al pueblo en ese tiempo: Cada uno pernocte con su esclavo dentro de Jerusalén, para que nos sirvan de guardia de noche y de día en la obra.
+Ni yo, ni mis compañeros, ni mis hombres, ni la guardia que me seguía, nos quitamos nuestra ropa. Cada uno tenía su lanza a su mano derecha.
 Entonces hubo un gran clamor del pueblo y de sus mujeres contra sus hermanos judíos,
 porque algunos decían: Nosotros, nuestros hijos e hijas somos muchos, y necesitamos grano para comer y vivir.
 Y algunos decían: Empeñamos nuestros campos, viñas y casas para obtener grano durante la hambruna.
@@ -12490,11 +12490,11 @@ Y de los sacerdotes: los hijos de Habaía, los hijos de Cos, los hijos de Barzil
 Y el gobernador les dijo que no comieran de las cosas santas hasta que se levantara sacerdote con Urim y Tumim.
 Toda la congregación reunida era de 42.360,
 aparte de sus esclavos y sus esclavas, que eran 6.336; y entre ellos había 245 cantores y cantoras.
-Sus caballos eran 736, y sus mulas 245.
-Sus camellos eran 435, y sus asnos 6.730.
+Sus caballos eran 736, y sus mulas 245. Sus camellos eran 435, y sus asnos 6.730.
 Algunos jefes de las casas paternas aportaron para la obra. El gobernador dio al tesoro 8 kilogramos de oro, 50 tazones y 530 túnicas sacerdotales.
 Algunos jefes de las casas paternas ofrendaron 160 kilogramos de oro y 1.210 kilogramos de plata para el tesoro de la obra.
 El resto del pueblo dio 160 kilogramos de oro, 1.100 kilogramos de plata y 67 túnicas sacerdotales.
+Los sacerdotes y levitas, los porteros y cantores, algunos del pueblo, los servidores y todo Israel vivieron nuevamente en sus ciudades. Cuando llegó el mes séptimo los hijos de Israel estaban en sus ciudades.
 Todo el pueblo se reunió como un solo hombre en la plaza que estaba frente a la puerta de las Aguas. Le pidieron a Esdras, el escriba, que llevara el Rollo de la Ley de Moisés que Yavé ordenó a Israel.
 El primer día del mes séptimo, el sacerdote Esdras llevó la Ley ante la congregación que constaba de hombres y mujeres que entendían lo que oían.
 Leyó en él delante de la plaza que estaba frente a la puerta de las Aguas, desde el amanecer hasta el mediodía, en presencia de los hombres y mujeres que entendían. Los oídos de todo el pueblo estaban atentos al Rollo de la Ley.
@@ -12550,6 +12550,7 @@ Porque nuestros reyes, gobernantes, sacerdotes y antepasados No practicaron tu L
 Porque ellos no te sirvieron en su reino, En la abundancia que les concediste En la tierra espaciosa y rica que entregaste a ellos, Ni se arrepintieron de sus malas obras.
 Por eso ¡aquí estamos esclavos En la misma tierra que diste a nuestros antepasados Para comer su fruto y su bien! Aquí somos esclavos en ella,
 A causa de nuestros pecados. Su cosecha se multiplica Para los reyes que impusiste sobre nosotros, Quienes se enseñorean sobre nuestros cuerpos y sobre nuestras bestias Conforme a su voluntad, Y estamos en gran aflicción.
+A causa de todo esto nosotros hacemos fiel promesa y la escribimos. Firmada por nuestros jefes, levitas y sacerdotes.
 Los que firmaron fueron: el gobernador Nehemías, hijo de Hacalías, y los sacerdotes Sedequías,
 Seraías, Azarías, Jeremías,
 Pasur, Amarías, Malquías,
@@ -12589,7 +12590,6 @@ también traer al Templo de nuestro ʼElohim los primogénitos de nuestros hijos
 y traer a los sacerdotes la primicia de nuestras masas, ofrendas alzadas, fruto de todo árbol, vino nuevo y aceite a las cámaras del Templo de nuestro ʼElohim, y traer el diezmo de nuestra tierra a los levitas, porque los levitas reciben los diezmos de nuestra labranza en todas las ciudades.
 Un sacerdote descendiente de Aarón estará con los levitas cuando éstos reciban los diezmos, y los levitas llevarán el diezmo de los diezmos al Templo de nuestro ʼElohim, a las cámaras de depósito.
 Porque los hijos de Israel y de Leví llevarán la ofrenda del grano, vino nuevo y aceite a las cámaras donde están los utensilios del Santuario, los sacerdotes que ministran, los porteros y los cantores. Nos comprometimos a no abandonar el Templo de nuestro ʼElohim.
-
 Los jefes del pueblo vivieron en Jerusalén. Para el resto del pueblo se echaron suertes a fin de que uno de cada diez viviera en Jerusalén, la ciudad santa, y los nueve restantes en las demás ciudades.
 El pueblo bendijo a todas las personas que voluntariamente se ofrecieron a vivir en Jerusalén.
 En las distintas ciudades de Judá cada uno vivió en la propiedad de los israelitas, sacerdotes y levitas, servidores y de los descendientes de los esclavos de Salomón.
@@ -13890,14 +13890,6 @@ Se recuesta debajo de las plantas de loto y se oculta entre los juncos del panta
 Lo cubren los lotos con su sombra y lo rodean los sauces del arroyo.
 Ciertamente, cuando el río se desborda, él no se alarma. Aunque el Jordán espumee contra su hocico, queda tranquilo
 ¿Puede alguien vigilarlo y capturarlo al perforar sus fosas nasales con un garfio?
-
-
-
-
-
-
-
-
 ¿Puedes tú sacar con un anzuelo el cocodrilo, atar con una cuerda su lengua?
 ¿Pondrás una soga en su nariz, y perforarás con garfio su quijada?
 ¿Se acercará a ti con palabras sumisas o te hablará con lisonjas?
@@ -13924,6 +13916,14 @@ Los pliegues de su carne son compactos. Están firmes en él y no se mueven.
 Su corazón es duro como la piedra, como la piedra inferior de un molino.
 Cuando se levanta, tiemblan los valientes, y por el quebrantamiento, retroceden.
 La espada no lo alcanza, ni la lanza, ni la lanceta, ni la flecha, ni la lanza arrojadiza.
+Para él el hierro es como pasto, y el bronce, madera carcomida.
+No lo ahuyentan las flechas. Las piedras de la honda le son como rastrojo.
+Los garrotes le son como hojarasca. Se burla del brillo del arma arrojadiza.
+Por debajo tiene conchas puntiagudas, se extiende como un trillo sobre el lodo.
+Hace lo profundo del mar hervir como una olla. Lo convierte como una olla de ungüento.
+Detrás de él brilla una estela de agua como barba encanecida.
+Nada hay semejante a él sobre la tierra. Fue hecho exento de temor.
+Menosprecia todo lo elevado. Es rey de todos los hijos del orgullo.
 Entonces Job respondió a Yavé:
 Reconozco que todo lo puedes, y que ningún propósito tuyo te puede ser estorbado.
 ¿Quién es el que oscurece el consejo sin entendimiento? ¡Yo! Porque hablaba lo que no entendía, cosas demasiado maravillosas para mí que no entendía.
@@ -13959,6 +13959,7 @@ Los quebrantarás con vara de hierro. Los harás añicos como vasija de alfarero
 Ahora pues, oh reyes, actúen con sabiduría. Acepten amonestación, jueces de la tierra:
 Sirvan a Yavé con temor Y regocíjense con temblor.
 Besen los pies al Hijo No sea que se enoje y perezcan en el camino, Pues de repente arde su ira. Inmensamente felices son los que se refugian en Él.
+
 ¡Oh Yavé, cómo se multiplicaron mis opresores! Muchos son los que se levantan contra mí.
 Muchos dicen de mí: No hay salvación en ʼElohim para él. Selah
 Pero Tú, oh Yavé, eres escudo alrededor de mí, Mi gloria, y el que levanta mi cabeza.
@@ -14049,7 +14050,6 @@ Los perversos serán trasladados al Seol, Todas las gentes que se olvidan de ʼE
 Porque el pobre no será olvidado para siempre, Ni perecerá la esperanza de los afligidos para siempre.
 ¡Levántate, oh Yavé, y no prevalezca el mortal! ¡Sean las naciones juzgadas delante de Ti!
 ¡Infúndeles tu terror, oh Yavé, Y conozcan las naciones que no son sino hombres!
-
 ¿Por qué estás lejos, oh Yavé, Y te escondes en tiempos de angustia?
 Por la arrogancia del impío el pobre es consumido. ¡Caigan en las trampas que ellos mismos inventaron!
 Porque el impío se jacta de lo que su alma ansía, Y el avaro maldice y desprecia a Yavé.
@@ -14075,6 +14075,7 @@ Yavé está en su santo Templo. Yavé tiene en los cielos su trono. Sus ojos obs
 Yavé prueba al justo, Pero su alma aborrece al perverso Y al que ama violencia.
 Hará llover carbones encendidos sobre los perversos, Fuego, azufre y viento abrasador. Tal será la porción de la copa de ellos.
 Porque Yavé es justo. Él ama la justicia. Los rectos contemplarán su rostro.
+
 ¡Salva, oh Yavé, porque se acaban los piadosos! Porque desaparecen los fieles entre los hijos de los hombres.
 Hablan vanidades, cada uno a su prójimo. Hablan con labios lisonjeros y doblez de corazón.
 ¡Corte Yavé todos los labios lisonjeros, La boca que habla altanerías!
@@ -14088,8 +14089,7 @@ Por todos lados los impíos deambulan Cuando la vileza es exaltada entre los hij
 ¿Hasta cuándo pensaré profundamente Con tristeza en mi corazón cada día? ¿Hasta cuándo mi enemigo será enaltecido sobre mí?
 ¡Considera, oh Yavé, ʼElohim mío, y respóndeme! Ilumina mis ojos, no sea que duerma el sueño de la muerte,
 No sea que mi enemigo diga: ¡Lo vencí! Mis adversarios gozan cuando soy sacudido.
-Confío en tu misericordia, Y mi corazón se gozará en tu salvación.
-Cantaré a Yavé Porque me llenó de bienes.
+Confío en tu misericordia, Y mi corazón se gozará en tu salvación. Cantaré a Yavé Porque me llenó de bienes.
 El necio dice en su corazón: ¡No existe ʼElohim! Están corrompidos, hicieron obras repugnantes. No hay quien haga el bien.
 Yavé miró desde los cielos sobre los hijos de los hombres Para ver si había algún entendido que buscara a ʼElohim.
 Todos se desviaron. Juntamente se corrompieron. No hay quien haga lo bueno, ni siquiera uno.
@@ -14128,6 +14128,7 @@ Como león ansioso de desgarrar su presa, Como cachorro de león agazapado en su
 ¡Levántate, oh Yavé! ¡Hazle frente! Haz que sea derribado. Con tu espada libra mi alma del inicuo,
 Y con tu mano, oh Yavé, de los hombres del mundo, Cuya porción está en esta vida, Cuyo vientre Tú llenas con tus tesoros. ¡Sean saciados, pues, sus hijos, Y dejen las migajas a sus nietos!
 Yo veré tu rostro en justicia, Estaré satisfecho cuando despierte a tu semejanza.
+
 Dijo: ¡Te amo, oh Yavé, Fortaleza mía!
 ¡Yavé, Roca mía y Castillo mío, y mi Libertador! ʼElohim mío y Fortaleza mía, en Quien me refugio, Mi Escudo y mi Cuerno de salvación, mi alta Torre.
 Invoco a Yavé, Quien es digno de alabanza, Y soy salvo de mis enemigos.
@@ -14249,7 +14250,6 @@ Porque de Yavé es el reino, Y Él gobierna las naciones.
 Comerán y se postrarán Todos los poderosos de la tierra, Los que bajan al polvo se postrarán ante Él, Los que no pueden conservar viva su alma.
 Una futura generación le servirá. Esto se dirá de ʼAdonay hasta la próxima generación.
 Acudirán y declararán su justicia, Anunciarán a pueblo que nacerá que Él hizo esto.
-
 Yavé es mi Pastor. Nada me faltará.
 En lugares de tiernos prados me hace descansar. Junto a aguas de reposo me conduce.
 Restaura mi alma. Me guía por sendas de justicia por amor a su Nombre.
@@ -14334,6 +14334,7 @@ Voz de Yavé que estremece el desierto. Yavé sacude al desierto de Cades.
 Voz de Yavé que estremece los robles y desnuda los bosques. En su Templo todos proclaman su gloria.
 Yavé preside en el diluvio. Yavé se sienta como Rey para siempre.
 Yavé dará fortaleza a su pueblo. Yavé bendecirá a su pueblo con paz.
+
 Te exalto oh Yavé, porque me levantaste, Y no dejaste que mis enemigos se alegraran de mí.
 ¡Oh Yavé, mi ʼElohim! Clamé a Ti, y me sanaste.
 ¡Oh Yavé, sacaste mi vida del Seol, De entre los que bajan a la tumba me mantuviste vivo!
@@ -14371,7 +14372,6 @@ En lo secreto de tu Presencia los ocultas de la conspiración del hombre. En un 
 En mi premura, me dije: ¡Cortado soy de tu Presencia! Pero Tú oíste la voz de mis súplicas Cuando clamé a Ti.
 Amen a Yavé ustedes, todos sus santos. Yavé guarda a los fieles, Pero retribuye con creces al que actúa con soberbia.
 Sean esforzados todos ustedes, los que esperan en Yavé Y tome aliento su corazón.
-
 Inmensamente feliz es aquel A quien es perdonada su transgresión Y cubierto su pecado.
 Inmensamente feliz es el hombre A quien Yavé no atribuye iniquidad, Y en el espíritu del cual no hay engaño.
 Mientras callé, se consumieron mis huesos En mi gemir todo el día.
@@ -14405,6 +14405,7 @@ Para salvar su vida de la muerte Y mantenerlos vivos en tiempo de hambre.
 Nuestras almas esperan a Yavé. Él es nuestra Ayuda y nuestro Escudo.
 Por tanto, en Él se alegra nuestro corazón, Porque confiamos en su santo Nombre.
 Que tu misericordia, oh Yavé, sea sobre nosotros, Según esperamos en Ti.
+
 Bendeciré a Yavé en todo tiempo. Su alabanza estará de continuo en mi boca.
 En Yavé se gloriará mi alma. Lo oirán los mansos y se alegrarán.
 Engrandezcan a Yavé conmigo, Y exaltemos juntos su Nombre.
@@ -14427,7 +14428,6 @@ Muchas son las aflicciones del justo, Pero de todas ellas lo libra Yavé.
 Él guarda todos sus huesos. Ni uno de ellos es quebrado.
 Matará al malo la maldad, Y los que aborrecen al justo serán culpables.
 Yavé redime la vida de sus esclavos. No serán condenados cuantos en Él confían.
-
 ¡Oh Yavé, contiende con los que contienden contra mí! ¡Pelea contra los que combaten contra mí!
 ¡Echa mano al escudo y al broquel, Y levántate en mi ayuda!
 Saca la lanza y cierra el paso a mis perseguidores. Dí a mi alma: ¡Yo soy tu Salvación!
@@ -14456,6 +14456,7 @@ No digan ellos en su corazón: ¡Ajá, aquí está lo que queríamos! No digan: 
 Sean avergonzados y confundidos juntos Los que de mi mal se alegran. Vístanse de vergüenza y deshonor Los que se engrandecen sobre mí.
 Canten de júbilo y alégrense los que favorecen mi justicia, Y digan continuamente: ¡Engrandecido sea Yavé, Quien se complace en la prosperidad de su esclavo!
 Mi lengua hablará de tu justicia y de tu alabanza todo el día.
+
 La transgresión del impío habla a su corazón. No hay temor a ʼElohim delante de sus ojos.
 Se jacta ante sus propios ojos De que su iniquidad no será descubierta ni aborrecida.
 Las palabras de su boca son iniquidad y engaño. Dejó de ser sabio, de hacer el bien.
@@ -14468,7 +14469,6 @@ Porque contigo está el manantial de la vida. En tu luz vemos la luz.
 Extiende tu misericordia a los que te conocen, Y tu justicia a los rectos de corazón.
 No me alcance el pie de la soberbia, Ni me mueva la mano del inicuo.
 Ahí cayeron los que obran iniquidad, Fueron derribados, Y no pueden levantarse.
-
 No te impacientes a causa de los malignos, Ni tengas envidia de los que hacen iniquidad.
 Porque como hierba, serán pronto marchitados, Y como la hierba verde se secarán.
 Confía en Yavé y practica el bien. Así vivirás en la tierra y te apacentarás de la fidelidad.
@@ -14509,6 +14509,7 @@ Considera al hombre recto y mira al justo, Porque hay un final feliz para el hom
 Pero los transgresores serán destruidos por completo. La posteridad de los perversos será cortada.
 La salvación de los justos es de Yavé. Él es su Fortaleza en el tiempo de angustia.
 Yavé los ayuda y los libra. Los liberta de los perversos y los salva, Porque se refugian en Él.
+
 Oh Yavé, no me reprendas con tu indignación, Ni me castigues con tu ardiente ira.
 Porque tus flechas se clavaron en mí, Y tu mano descendió sobre mí.
 Nada íntegro hay en mi cuerpo a causa de tu indignación, Ni hay paz en mis huesos a causa de mi pecado.
@@ -14589,12 +14590,12 @@ De día Yavé enviará su misericordia, Y de noche su canto estará conmigo, Una
 Diré a ʼEL: Roca mía, ¿por qué te olvidaste de mí? ¿Por qué ando enlutado a causa de la opresión del enemigo?
 Como el que quebranta mis huesos, Mis enemigos me afrentan Mientras me dicen cada día: ¿Dónde está tu ʼElohim?
 ¿Por qué te abates, alma mía, y gimes dentro de mí? Espera a ʼElohim, porque aún lo alabaré. ¡Salvación mía y ʼElohim mío!
-
 Júzgame, oh ʼElohim, y defiende mi causa. Líbrame de gente impía, del hombre engañador y perverso.
 Porque Tú eres el ʼElohim de mi fortaleza. ¿Por qué me desechaste? ¿Por qué ando enlutado a causa de la opresión del enemigo?
 Envía tu luz y tu verdad. Éstas me guiarán. Ellas me conducirán a tu Montaña Santa y a tus moradas.
 Entonces iré al altar de ʼElohim, Al ʼEL de mi alegría y regocijo, Y te alabaré con el arpa, oh ʼElohim, mi ʼElohim.
 ¿Por qué te abates, oh alma mía, Y por qué te turbas dentro de mí? Espera a ʼElohim, porque aún lo alabaré. ¡El Ayudador de mi presencia y mi ʼElohim!
+
 Oh ʼElohim, escuchamos con nuestros oídos, Nos contaron nuestros antepasados Las obras que Tú hiciste en sus días, En los tiempos antiguos.
 Con tu mano expulsaste a las naciones Para establecerlos a ellos. Abatiste a los pueblos y los echaste.
 No poseyeron la tierra por su espada, Ni los libró su brazo, Sino tu mano derecha, tu brazo y la luz de tu rostro, Porque te complaciste en ellos.
@@ -14697,7 +14698,6 @@ Porque nada llevará al morir, Ni descenderá su esplendor tras él.
 Aunque se congratule mientras vive, Aunque sea alabado porque prospera,
 Se irá a la generación de sus antepasados Y nunca jamás verá la luz.
 El hombre que vive con honor, Pero no entiende esto, Es como las bestias que perecen.
-
 El poderoso ʼEL, ʼElohim, Yavé habló Y convocó a la tierra desde el oriente hasta el occidente.
 Desde Sion, perfección de hermosura, ʼElohim resplandeció.
 Que venga nuestro ʼElohim, y no en silencio. Un fuego devorador lo precede, Y alrededor de Él ruge una gran tempestad.
@@ -14721,6 +14721,8 @@ Te sientas, hablas contra tu hermano, Y difamas al hijo de tu propia madre.
 Estas cosas hiciste, Y Yo callé. Pensaste que Yo soy como tú. Pero te reprenderé y las expondré delante de tus ojos.
 Entiendan esto, los que se olvidan de ʼEloah, No sea que los quebrante sin que haya quien los libre.
 El que ofrece sacrificio de acción de gracias me honra, Y al que ordena rectamente su camino Le mostraré la salvación de ʼElohim.
+
+
 Ten compasión de mí, oh ʼElohim, Conforme a tu misericordia. Según tu gran clemencia Borra mis transgresiones.
 Lávame completamente de mi iniquidad, Y purifícame de mi pecado.
 Porque yo reconozco mis transgresiones. Mi pecado está siempre delante de mí.
@@ -14752,13 +14754,13 @@ Verán los justos y temerán. Se reirán de él y dirán:
 Pero yo estaré como olivo frondoso en la Casa de ʼElohim, Porque en la misericordia de ʼElohim confío eternamente y para siempre.
 Te daré gracias para siempre por lo que hiciste, Y esperaré en tu Nombre, Porque es bueno en presencia de tus devotos.
 
-
 El necio dijo en su corazón: No hay ʼElohim. Están corrompidos. Cometieron repugnante injusticia. No hay uno que haga lo recto.
 ʼElohim miró desde el cielo a los hijos de hombres Para ver si hay alguno que entiende, Que busca a ʼElohim.
 Cada uno de ellos se apartó. Juntamente se volvieron corruptos. No hay quien hace lo bueno, Ni siquiera uno.
 ¿Los que practican iniquidad no saben Que devoran a mi pueblo como si comieran pan, Y no invocaron a ʼElohim?
 Allí, donde nada había que temer, tuvieron gran terror. Porque ʼElohim dispersó a los que acamparon contra ti, Los avergonzaste, Porque ʼElohim los rechazó.
 ¡Oh, que venga de Sion la salvación de Israel! Cuando ʼElohim restaure de la cautividad a su pueblo, ¡Que se regocije Jacob, y se alegre Israel!
+
 
 Oh ʼElohim, sálvame por tu Nombre, Y defiéndeme con tu poder.
 Oh ʼElohim, escucha mi oración. Escucha las palabras de mi boca.
@@ -14767,7 +14769,6 @@ Ciertamente ʼElohim es el que me ayuda. ʼAdonay es Quien sostiene mi vida.
 Él hace volver el mal contra mis enemigos. Por tu fidelidad, destrúyelos.
 Voluntariamente te ofreceré sacrificio. Oh Yavé, daré gracias a tu Nombre Porque es bueno,
 Porque me libraste de toda angustia Y mis ojos vieron la ruina de mis enemigos.
-
 
 Oh ʼElohim, escucha mi oración, Y no te escondas de mi súplica.
 Está atento y respóndeme. Estoy inquieto y conturbado en mi oración
@@ -14849,6 +14850,7 @@ Vagan buscando alimento Y gruñen si no están satisfechos.
 Pero yo cantaré de tu poder. Alabaré de mañana tu misericordia, Porque fuiste mi Fortaleza y mi Refugio en el día de mi angustia.
 Oh Fortaleza mía, te cantaré salmos. Porque Tú, ʼElohim, eres Fortaleza, Y el ʼElohim que me muestra misericordia.
 
+
 Oh ʼElohim, Tú nos rechasaste. Tú nos desechaste, rompiste nuestras defensas. Te airaste. Vuelve a nosotros.
 Hiciste temblar la tierra, la agrietaste. Repara sus grietas, porque se tambalea.
 Hiciste sufrir a tu pueblo cosas duras. Nos hiciste beber vino de aturdimiento.
@@ -14861,7 +14863,6 @@ Moab, vasija para lavarme. Sobre Edom echaré mi sandalia, Y sobre Filistea lanz
 ¿No eres Tú, oh ʼElohim, Quien nos rechazaste Y no sales con nuestros ejércitos, oh ʼElohim?
 Socórrenos ante el adversario, Porque vana es la liberación del hombre.
 Con ʼElohim haremos proezas. Él pisoteará a nuestros adversarios.
-
 
 Oh ʼElohim, oye mi clamor. Atiende mi súplica.
 Cuando mi corazón desmaya, Clamo a Ti desde el extremo de la tierra: Llévame a la Roca que es más alta que yo.
@@ -14921,7 +14922,6 @@ Inundas sus surcos, Haces descender el agua en sus canales, Ablandas sus terrone
 Coronas el año con generosidad, Y tus sendas destilan sustancia.
 Gotean los pastizales del desierto, Y las colinas se atan con regocijo.
 Los prados se cubren de rebaños, Los valles se cubren de grano. Dan gritos de júbilo y cantan.
-
 Aclame a ʼElohim, toda la tierra.
 Canten la gloria de su Nombre. Hagan gloriosa su alabanza.
 Digan a ʼElohim: ¡Cuán asombrosas son tus obras! Por la grandeza de tu poder Se someterán a Ti tus enemigos.
@@ -14942,6 +14942,7 @@ A Él clamé con mi boca, Y Él fue exaltado con mi lengua.
 Si en mi corazón tuviera yo iniquidad ʼAdonay no me habría escuchado.
 Pero ciertamente ʼElohim me escuchó Y atendió la voz de mi súplica.
 Bendito sea ʼElohim, Quien no desechó mi oración, Ni apartó de mí su misericordia.
+
 ʼElohim tenga compasión de nosotros y nos bendiga, Resplandezca su rostro sobre nosotros, Selah
 Para que tu camino sea conocido en la tierra, Y tu salvación en todas las naciones.
 Que los pueblos te alaben, oh ʼElohim. Que todos los pueblos te alaben.
@@ -15028,7 +15029,6 @@ Sean avergonzados y humillados Los que buscan mi vida, Sean vueltos atrás y con
 Sean vueltos atrás a causa de su vergüenza Los que dicen: ¡Ea, ea!
 Regocíjense y alégrense en Ti todos los que te buscan. Y aquellos que aman tu salvación digan siempre: ¡Engrandecido sea ʼElohim!
 Pero yo estoy afligido y menesteroso. Oh ʼElohim, apresúrate a mí. Tú eres mi Ayudador y mi Libertador. Oh Yavé, no demores.
-
 Oh Yavé, en Ti me refugié. No sea yo avergonzado jamás.
 ¡Líbrame en tu justicia y rescátame! ¡Inclina a mí tu oído y sálvame!
 Sé Roca de habitación para mí A la cual yo acuda continuamente. Tú diste mandamiento para salvarme, Porque Tú eres mi Roca y mi Fortaleza.
@@ -15124,6 +15124,7 @@ Considera el Pacto, Porque los lugares oscuros de la tierra están llenos de hab
 No permitas que el oprimido regrese avergonzado. Ordena que los afligidos y menesterosos alaben tu Nombre.
 ¡Levántate, oh ʼElohim, y defiende tu propia causa! Recuerda cómo el insensato te ofende todo el día.
 No olvides la voz de tus adversarios, El tumulto de los que se levantan contra Ti, Que sube de continuo.
+
 Gracias te damos, oh ʼElohim, te damos gracias, Porque tu Nombre está cerca. Los hombres declaran tus maravillosas obras.
 Cuando Yo selecciono un tiempo determinado, Soy Yo Quien juzga con equidad.
 Cuando se disuelva la tierra y todos los que viven en ella, Yo mismo sostendré sus columnas. Selah
@@ -15168,7 +15169,6 @@ Espesas nubes derramaron agua. Los nubarrones tronaron. También tus flechas cen
 El ruido de tu trueno estaba en el remolino de viento. Los relámpagos iluminaron el mundo. Tembló y se estremeció la tierra.
 Abriste tu camino en el mar Y tus senderos en las aguas caudalosas, Para que tus pisadas no fueran conocidas.
 Como un rebaño guiaste a tu pueblo Por medio de Moisés y Aarón.
-
 Escucha, pueblo mío, mi instrucción. Inclina tus oídos a las palabras de mi boca.
 Abriré mi boca en proverbio. Declararé dichos de antaño de difícil comprensión,
 Los cuales oímos y conocimos. Nos los relataron nuestros antepasados.
@@ -15254,6 +15254,7 @@ Oh ʼElohim de nuestra salvación, ayúdanos, Para la gloria de tu Nombre. Líbr
 Llegue ante Ti el gemido de los cautivos. Conforme a la grandeza de tu poder Preserva a los sentenciados a muerte.
 Devuelve en su regazo a nuestros vecinos siete veces La infamia con la cual te afrentaron, ¡oh ʼAdonay!
 Así nosotros, pueblo tuyo y ovejas de tu prado, Te daremos gracias para siempre. A todas las generaciones contaremos de tu alabanza.
+
 Oh Pastor de Israel, escucha. Tú, que pastoreas a José como un rebaño, Tú, que estás entronizado entre querubines, ¡Resplandece!
 Delante de Efraín, de Benjamín y de Manasés, Despierta tu poder Y ven a salvarnos.
 Restáuranos, oh ʼElohim. Haz resplandecer tu rostro, Y seremos salvos.
@@ -15290,7 +15291,6 @@ Por eso los entregué a la dureza de su corazón, Para que anduvieran según sus
 Prontamente Yo sometería a sus enemigos Y volvería mi mano contra sus adversarios.
 Los que aborrecen a Yavé se le someterían, Pero su castigo duraría para siempre.
 Pero a ti te sustentaría con lo más fino del trigo Y te saciaría con miel de la roca.
-
 ʼElohim toma su posición en la asamblea de los ʼelohim. Juzga en medio de los ʼelohim.
 ¿Hasta cuándo juzgarán injustamente, Y mostrarán parcialidad a los perversos? Selah
 Defiendan al débil y al huérfano. Hagan justicia al afligido y al menesteroso.
@@ -15299,6 +15299,7 @@ No saben ni entienden. Andan en la oscuridad. Son conmovidos todos los cimientos
 Yo dije: Ustedes son ʼelohim. Todos ustedes son hijos del ʼElyón.
 Sin embargo, como hombres morirán. Caerán como cualquiera de los gobernantes.
 Levántate, oh ʼElohim, juzga la tierra, Porque Tú posees todas las naciones.
+
 Oh ʼElohim, no permanezcas en silencio. Oh ʼElohim, no calles, no estés imperturbable.
 Pues mira que rugen tus enemigos, Y los que te aborrecen levantan la cabeza.
 Astutamente consultaron contra tu pueblo. Conspiran contra tus protegidos.
@@ -15344,7 +15345,6 @@ La misericordia y la verdad se encontraron. La justicia y la paz se besaron.
 La verdad brota de la tierra, Y la justicia mira desde el cielo.
 Ciertamente Yavé dará lo bueno, Y nuestra tierra dará su fruto.
 La justicia irá delante de Él, Y sus pisadas serán nuestro camino.
-
 Oh Yavé, inclina tu oído y escúchame. Porque estoy afligido y necesitado.
 Guarda mi alma, porque soy piadoso. Oh ʼElohim mío, salva a tu esclavo que confía en Ti.
 Oh ʼAdonay, ten compasión de mí, Porque a Ti clamo todo el día.
@@ -15369,6 +15369,7 @@ Mencionaré a Rahab y a Babilonia entre los que me conocen. Ahí están Filistea
 De Sion se dirá: Éste y aquél nacieron en ella, Y el mismo ʼElyón la establecerá.
 Yavé contará al registrar a los pueblos: Éste nació allí. Selah
 Entonces tanto los que cantan Como los que tocan flautas dirán: ¡Todas mis fuentes están en ti!
+
 Oh Yavé, ʼElohim de mi salvación, Día y noche clamo delante de Ti.
 Llegue mi oración a tu Presencia. Inclina tu oído a mi clamor.
 Porque mi alma está harta de aflicciones, Y mi vida se acerca al Seol.
@@ -15440,7 +15441,6 @@ Oh ʼAdonay, ¿dónde están sus primeras misericordias Que en tu fidelidad jura
 Acuérdate, oh ʼAdonay, del reproche a tus esclavos, Que llevo en mi seno de muchos pueblos.
 Porque tus enemigos, oh Yavé, deshonraron Con lo cual reprocharon las pisadas de tu ungido.
 ¡Bendito sea Yavé para siempre! Amén y amén.
-
 Oh ʼAdonay, Tú fuiste nuestro Refugio en todas las generaciones.
 Antes que nacieran las montañas, O formaras la tierra y el mundo, Desde la eternidad y hasta la eternidad, Tú eres ʼEL.
 Devuelves el hombre al polvo, Y dices: Conviértanse, hijos de hombres.
@@ -15474,6 +15474,7 @@ Sobre el león y el áspid pisarás. Pisotearás al cachorro de león y al drag�
 Me amó, Por tanto Yo lo libraré. Lo pondré en alto, Porque conoció mi Nombre.
 Me invocará Y Yo le responderé. Estaré con él en la angustia. Lo libraré y lo glorificaré.
 Lo saciaré de larga vida y le mostraré mi salvación.
+
 Bueno es alabar a Yavé Y cantar salmos a tu Nombre, oh ʼElyón.
 Anunciar por la mañana tu misericordia Y tu fidelidad cada noche
 Con el decacordio y el salterio, Con el armonioso tono del arpa.
@@ -15489,7 +15490,6 @@ El justo florecerá como la palmera. Crecerá como un cedro en el Líbano.
 Plantados en la Casa de Yavé, Florecerán en los patios de nuestro ʼElohim.
 Aun en la vejez darán fruto. Estarán llenos de savia y muy verdes
 Para manifestar que Yavé es recto. Mi Roca es. En Él no hay injusticia.
-
 Yavé reina. Está cubierto de majestad. Yavé se cubrió y se ató con poder. El mundo está en verdad firmemente establecido Y no será conmovido.
 Tu trono está establecido desde la antigüedad. Tú eres desde la eternidad.
 Oh Yavé, los torrentes se levantan. Las crecientes alzaron su voz. Los ríos levantan sus olas estruendosas.
@@ -15585,6 +15585,7 @@ Destruiré al que secretamente calumnia a su prójimo. No soportaré al altivo d
 Sobre los fieles de la tierra fijaré mis ojos Para que estén conmigo. El que anda en camino de integridad me servirá.
 No vivirá en mi casa el que practica fraude, El que habla mentira no permanecerá delante de mí.
 Por las mañanas destruiré a todos los perversos de la tierra, Para extirpar de la ciudad de Yavé a todos los malhechores.
+
 Escucha mi oración, oh Yavé, Y llegue mi clamor a Ti.
 No escondas de mí tu rostro en el día de mi angustia. Inclina a mí tu oído. El día cuando te invoco apresúrate a responderme.
 Porque mis días se disuelven como humo, Y mis huesos arden como una chimenea.
@@ -15613,7 +15614,6 @@ Desde la antigüedad fundaste la tierra, Y los cielos son obra de sus manos.
 Ellos perecerán, Pero Tú permaneces. Todos ellos se desgastarán como una ropa, Como una ropa los cambiarás, Y pasarán.
 Pero Tú eres el mismo, Y tus años no tendrán fin.
 Los hijos de tus esclavos vivirán seguros, Y sus descendientes serán establecidos delante de Ti.
-
 Bendice, alma mía, a Yavé, Y bendiga todo mi ser su santo Nombre.
 Bendice, alma mía, a Yavé, Y no olvides ninguno de sus beneficios.
 Él es Quien perdona todas tus iniquidades, Quien sana todas tus dolencias,
@@ -15807,6 +15807,7 @@ Cuando son menguados y abatidos Por medio de opresión, aflicción y tristeza.
 Pero Él pone en alto a los pobres lejos de la aflicción Y hace que sus familias sean como un rebaño.
 Los rectos lo ven y se alegran, Pero toda injusticia cierra su boca.
 ¿Quién es sabio? Observe estas cosas, Y entenderá las misericordias de Yavé.
+
 Mi corazón está firme, oh ʼElohim. Cantaré y entonaré salmos. Esta es mi gloria.
 Despierten, arpa y lira, Yo despertaré el alba.
 Oh Yavé, te daré gracias entre los pueblos. Entre las naciones te cantaré salmos,
@@ -15820,7 +15821,6 @@ Moab es la vasija en la cual me lavo. Sobre Edom lanzaré mi sandalia. Sobre Fil
 ¿Tú, mismo, oh ʼElohim, no nos rechazaste? ¿Y no sales con nuestros ejércitos, oh ʼElohim?
 Socórrenos contra el adversario, Porque vana es la liberación del hombre.
 Por medio de ʼElohim haremos proezas. Él pisoteará a nuestros enemigos.
-
 Oh ʼElohim de mi alabanza, no te calles.
 Porque la boca de los perversos y de los engañadores se abrió contra mí. Hablaron contra mí con lengua mentirosa.
 Con palabras de odio me rodearon, Y sin causa lucharon contra mí.
@@ -16329,6 +16329,7 @@ Oh Yavé, ¿No aborrezco a los que te aborrecen? ¿No repugno a los que se levan
 Con absoluto odio los aborrezco. Son mis enemigos.
 Escudríñame, oh ʼEL, y conoce mi corazón. Pruébame y conoce mis ansiosos pensamientos,
 Ve si hay en mí camino de perversidad Y guíame en el camino eterno.
+
 Rescátame, oh Yavé, de hombres perversos. Guárdame de hombres violentos
 Que maquinan cosas malas en sus corazones. Continuamente promueven guerras,
 Afilan su lengua como serpiente. Veneno de víbora hay debajo de sus labios. Selah
@@ -16342,7 +16343,6 @@ Que caigan sobre ellos carbones encendidos. Que sean echados al fuego En abismos
 Que el difamador no sea establecido en la tierra. Que el mal cace velozmente al varón violento.
 Yo sé que Yavé defiende la causa del afligido, Y la justicia para el pobre.
 Ciertamente los justos darán gracias a tu Nombre, Los rectos vivirán en tu Presencia.
-
 ¡Oh Yavé, a Ti clamo, apresúrate hacia mí! Presta oído a mi voz cuando te invoco.
 Que mi oración sea contada como incienso delante de Ti, El levantamiento de mis manos como la ofrenda de la tarde.
 Pon, oh Yavé, un guardia sobre mi boca. Vigila la puerta de mis labios.
@@ -16353,6 +16353,7 @@ Como cuando uno ara y rompe la tierra, Nuestros huesos fueron esparcidos en la b
 Pero mis ojos están hacia Ti, oh Yavé, ʼAdonay. En Ti me refugio. No me dejes indefenso.
 Guárdame de las trampas que me tendieron Y de las trampas de los que cometen iniquidad.
 Que los perversos caigan en sus propias redes Mientras yo paso con seguridad.
+
 Con mi voz clamo a Yavé. Con mi voz suplico a Yavé.
 Ante Él derramo mi queja. Declaro mi aflicción ante Él.
 Cuando mi espíritu desmayaba dentro de mí, Tú conociste mi sendero. En el camino por donde ando Ellos me escondieron una trampa.
@@ -16360,7 +16361,6 @@ Miro a la derecha y observo Que no hay uno quien me atienda. No hay escape para 
 A Ti clamo, oh Yavé. Digo: Tú eres mi Refugio, Mi porción en la tierra de los que viven.
 Presta oído a mi clamor, Porque estoy muy abatido. Líbrame de mis perseguidores, Porque son demasiado fuertes para mí.
 Saca mi vida de la prisión, Para que dé gracias a tu Nombre. Me rodearán los justos, Porque Tú me tratarás con abundancia.
-
 Oh Yavé, escucha mi oración. Presta oído a mis súplicas. Por tu fidelidad, por tu justicia respóndeme.
 No entres a juicio con tu esclavo, Porque ante tu vista ningún hombre que viva es justo.
 Porque el enemigo persiguió mi vida. Humilló mi vida hasta el suelo. Me obligó a habitar en tenebrosidad, como los muertos.
@@ -17465,7 +17465,6 @@ Mejor es joven pobre y sabio que rey viejo y necio que no recibe instrucción,
 aunque aquel para reinar salga de la cárcel, aunque en su reino nazca pobre.
 Vi a todos los que viven bajo el sol que marchaban con el joven sucesor que lo reemplaza.
 No tenía fin la muchedumbre que lo seguía. Sin embargo, los que vengan después tampoco estarán contentos con él. También esto es vanidad y correr tras el viento.
-
 Cuando vayas al Templo de ʼElohim cuida tu pie. Acércate para escuchar más bien que para ofrecer el sacrificio de los necios, porque no saben que hacen mal.
 No te apresures con tu boca. Ni se apremie tu corazón a expresar palabra ante ʼElohim, Porque ʼElohim está en el cielo y tú en la tierra. Por tanto, sean pocas tus palabras.
 Porque el soñar viene a causa de la mucha ocupación, Y la voz del necio por medio de muchas palabras.
@@ -17485,6 +17484,7 @@ Y éste también es un mal grave: Que como vino se va. ¿Y qué provecho tiene E
 Ya que todos sus días comió en oscuridad, Con gran tristeza, con enfermedad e ira.
 Este es el bien que vi: que es bueno y adecuado que uno coma y beba, y disfrute del bien de todo el trabajo en el cual labora bajo el sol todos los días de su vida que ʼElohim le da, porque ésta es su recompensa.
 Además, todo hombre a quien ʼElohim da riquezas y posesiones, lo capacita para que las disfrute, tome la parte que le corresponde y se regocije en su trabajo. Esto es el don de ʼElohim.
+Porque no se acordará mucho de los días de su vida, pues ʼElohim lo tiene ocupado con la alegría de su corazón.
 Hay otro mal que vi bajo el sol que prevalece entre los hombres:
 El del hombre a quien ʼElohim da riquezas, bienes y honra, de modo que nada le falta de todo lo que desea su alma, pero a quien ʼElohim no capacita para disfrutarlos, sino lo disfrutan los extraños. Esto es vanidad y un mal doloroso.
 Si un hombre engendra 100 hijos y vive muchos años, aunque sean numerosos los días de su vida, si su alma no se sacia de buenas cosas, ni siquiera tiene un entierro apropiado, digo: Mejor que él es un aborto.
@@ -17694,6 +17694,7 @@ Una sola es mi paloma, la perfecta mía, Una sola, predilecta de su madre. Las d
 ¿Quién es la que se asoma como el alba, Hermosa como la luna, Límpida como el sol, Imponente como un escuadrón abanderado?
 Al huerto de los nogales descendí A ver los frutos del valle, A ver si brotaba la vid, Si florecían los granados.
 Antes que lo supiera, Mi alma me puso entre las carrozas de Abinadab.
+¡Vuelve, vuelve, oh sulamita! ¡Vuelve, vuelve y te contemplaremos! ¿Qué quieren ver en la sulamita? Algo como las danzas de Majanaim, ¡Cuán graciosos son tus pasos en sandalias, oh hija del príncipe!
 Los contornos de tus muslos son como joyas, Obra de manos de un hábil orfebre.
 Tu ombligo es como un ánfora, Donde no falta ningún vino generoso. Tu vientre, una gavilla de trigo cercada de lirios.
 Tus dos pechos, como crías mellizas de gacela.
@@ -17707,7 +17708,6 @@ Yo soy de mi amado, Y su deseo es para mí.
 Ven, amado mío, Salgamos al campo, Pernoctemos en las aldeas.
 Madruguemos y vayamos a las viñas, Veamos si brotó la vid, Si ya se abrieron sus flores, Si florecen los granados. Allí te daré mis caricias.
 Las mandrágoras exhalan su fragancia, Y a nuestra puerta hay toda clase de frutos deliciosos, Nuevos y añejos, que guardé para ti, oh amado mío.
-
 ¡Oh, si tú fueras como mi hermano, Que mamó los pechos de mi propia madre! Al hallarte afuera yo te besaría, Y nadie me menospreciaría.
 Te llevaría, te metería en la casa de mi madre. Tú me enseñarías, Y yo te daría a beber vino aromatizado del mosto de mis granadas.
 Su izquierda esté bajo mi cabeza, Y su derecha me abrace.
@@ -17897,7 +17897,6 @@ Si les dicen: Consulten a los que evocan a los muertos y a los adivinos que habl
 ¡A la Ley y al testimonio! Si no dicen conforme a esta Palabra, no les amaneció.
 Pasarán por la tierra fatigados y hambrientos. Sucederá que cuando tengan hambre y alcen la vista, se airarán y maldecirán a su rey y a su ʼElohim.
 Mirarán la tierra. Allí habrá tribulación, oscuridad, angustia y tenebrosidad. Serán sumidos en la tenebrosidad.
-
 Pero no habrá siempre oscuridad para la que estaba en angustia. Como en tiempo pasado ʼEL despreció la tierra de Zabulón y la tierra de Neftalí, así en lo futuro glorificará el camino del mar, al otro lado del Jordán, Galilea de los gentiles.
 El pueblo que andaba en tinieblas verá gran luz. A los que vivían en tierra de sombra de muerte, les resplandecerá la luz.
 Multiplicaste la gente. Aumentaste la alegría. Se alegrarán delante de ti como se alegran en la cosecha, como se gozan cuando reparten despojos.
@@ -17918,6 +17917,7 @@ Por tanto, ʼAdonay no se compadecerá de sus jóvenes, ni tendrá compasión de
 Porque la perversidad arde como fuego. Devorará las zarzas y los espinos. Encenderá la espesura del bosque, y se elevará como remolinos de humo.
 Por la ira de Yavé de las huestes se oscureció la tierra. El pueblo será como combustible para el fuego.
 Cada uno roba lo que está a su mano derecha, pero tiene hambre. Come lo que está a su izquierda, pero no se sacia. Cada uno come la carne de su propio brazo.
+Manasés devora a Efraín, y Efraín a Manasés, y ambos se levantan contra Judá. A pesar de todo esto, no se aplaca su furor. Su mano sigue aún extendida.
 ¡Ay de los que dictan leyes injustas y los que registran decisiones inicuas,
 privan de justicia al débil y niegan el derecho a los pobres de mi pueblo, y tienen a las viudas como presas y despojan a los huérfanos!
 ¿Qué harán el día del castigo? ¿A quién huirán en busca de auxilio en la devastación que vendrá de lejos? ¿Dónde dejarán su riqueza?
@@ -18953,8 +18953,7 @@ Pero Tú eres nuestro Padre. Aunque Abraham nos ignora e Israel no nos reconoce,
 ¿Por qué, oh Yavé, nos dejas desviar de tus caminos y endureces nuestro corazón a tu temor? Regresa por amor a tus esclavos, las tribus de tu heredad.
 Por poco tiempo tu pueblo santo poseyó tu Santuario. Nuestros enemigos lo pisotearon.
 Somos como aquellos sobre quienes Tú nunca señoreaste, sobre los cuales nunca fue invocado tu Nombre.
-¡Oh, si rasgaras los cielos y descendieras, y se estremecieran las montañas ante tu Presencia!
-Como fuego abrasador de fundiciones que hierve el agua, para que des a conocer tu Nombre a tus enemigos y tiemblen las naciones ante tu Presencia.
+¡Oh, si rasgaras los cielos y descendieras, y se estremecieran las montañas ante tu Presencia! Como fuego abrasador de fundiciones que hierve el agua, para que des a conocer tu Nombre a tus enemigos y tiemblen las naciones ante tu Presencia.
 Cuando hiciste cosas asombrosas que no esperábamos, las montañas temblaron ante tu Presencia.
 Jamás oído oyó ni ojo vio a un ʼelohim fuera de Ti, que actúa a favor del que espera en Él.
 Sales a encontrarte con aquel que con gozo practica la justicia, del que tiene presentes tus caminos. Ciertamente, Tú te airaste cuando pecamos. En los pecados estuvimos largo tiempo. ¿Y seremos salvados?
@@ -18964,6 +18963,7 @@ Ahora pues, oh Yavé, Tú eres nuestro Padre. Nosotros somos la arcilla y Tú nu
 No te aíres en exceso, oh Yavé. No te acuerdes para siempre de la iniquidad. Mira, te ruego, todos nosotros somos pueblo tuyo.
 Tus santas ciudades se volvieron un desierto. Sion es un desierto, Jerusalén una desolación.
 La Casa de nuestro Santuario y de nuestro esplendor, en la cual te alabaron nuestros antepasados, fue consumida por el fuego. Todas nuestras cosas preciosas fueron destruidas.
+¡Oh Yavé! ¿Te retraes ante todas estas cosas? ¿Te callas, y nos afliges sin medida?
 Me dejé hallar por los que no preguntaban por Mí. Me dejé buscar por los que no me invocaban. Dije a gente que no invocaba mi Nombre: ¡Aquí estoy! ¡Aquí estoy!
 Todo el día extendí mis manos hacia un pueblo rebelde, que no anda por buen camino. Anda tras sus propios pensamientos.
 Pueblo que en mi propio rostro me provoca a ira continuamente, que sacrifica en huertos y quema incienso sobre ladrillos,
@@ -19242,7 +19242,6 @@ Ciertamente escucho el lamento de la hija de mi pueblo desde una tierra lejana. 
 Pasó la cosecha. Se acabó el verano y nosotros no fuimos salvados.
 Por el quebrantamiento de la hija de mi pueblo estoy quebrantado. Estoy entenebrecido. El espanto me arrebató.
 ¿No hay bálsamo en Galaad? ¿No hay médico allí? ¿Entonces, por qué no hay sanidad para la hija de mi pueblo?
-
 ¡Oh, que mi cabeza fuera agua y mis ojos fuentes de lágrimas para llorar de día y de noche por los asesinados de la hija de mi pueblo!
 ¡Quién me diera una posada de caminantes en el desierto para abandonar a mi pueblo y apartarme de ellos! Porque todos ellos son adúlteros, congregación de traidores.
 Disponen su lengua como arco. Lanzan mentiras y no se fortalecieron para la verdad en la tierra. Porque proceden de mal en mal y no me conocen, dice Yavé.
@@ -19268,6 +19267,7 @@ Dí: Yavé dice: Los cadáveres caerán como abono sobre la superficie del campo
 Yavé dice: No se alabe el sabio en su sabiduría, ni el valiente en su valentía, ni el rico en sus riquezas.
 Sino alábese en esto el que se alabe: En entenderme y conocerme, que Yo soy Yavé, Quien practica misericordia, juicio y justicia en la tierra, porque quiero estas cosas, dice Yavé.
 En verdad, vienen días, dice Yavé, cuando castigaré a todo circuncidado y a todo incircunciso:
+A Egipto, a Judá y a Edom, a los hijos de Amón y a Moab, a todos los que se rapan las sienes y a los habitantes del desierto. Porque todas las naciones son incircuncisas, y toda la Casa de Israel es incircuncisa de corazón.
 Oigan la Palabra que Yavé les dice, oh Casa de Israel.
 Yavé dice: No aprendan el camino de las naciones, ni tengan temor a las señales del cielo, aunque las naciones las teman.
 Porque las costumbres de los pueblos son vanidad. Cortan un árbol del bosque, la mano de un artífice lo labra con azuela,
@@ -21006,6 +21006,11 @@ Cuando los saque de los pueblos y los reúna de los pueblos en los cuales están
 Sabrán que Yo soy Yavé cuando los trate por amor a mi Nombre, no según sus caminos ni según sus perversidades, oh Casa de Israel, dice ʼAdonay Yavé.
 Allí se acordarán de sus caminos, de todas sus obras en las cuales se contaminaron. Se aborrecerán ustedes mismos a causa de todos sus pecados que cometieron.
 Sabrán que Yo soy Yavé cuando los trate por amor a mi Nombre, no según sus malos caminos ni sus obras perversas, oh Casa de Israel, dice ʼAdonay Yavé.
+Entonces la Palabra de Yavé vino a mí:
+Hijo de hombre, pon tu rostro hacia Temán. Habla contra el sur, profetiza contra el bosque del Neguev.
+Dí al bosque del Neguev: Escucha la Palabra de Yavé. ʼAdonay Yavé dice: Ciertamente Yo enciendo un fuego en ti, el cual consumirá todos tus árboles verdes y secos. La llama no se extinguirá. Todas las caras de sur a norte serán quemadas.
+Todo ser viviente comprenderá que Yo, Yavé, la encendí. No será extinguida.
+Entonces dije: ¡Ah, ʼAdonay Yavé! Ellos dicen de mí: ¿Él no habla solo parábolas?
 La Palabra de Yavé vino a mí:
 Hijo de hombre, pon tu rostro hacia Jerusalén y predica contra las cosas sagradas. Profetiza contra la tierra de Israel:
 Yavé dice: Ciertamente Yo estoy contra ti. Sacaré mi espada de su vaina. Cortaré de ti a inocentes y a culpables.
@@ -21038,11 +21043,6 @@ Te profetizan vanidad. Te adivinan mentira para que la apliques al cuello de los
 Te devolveré a tu vaina en el lugar donde fuiste forjada. Te juzgaré en la tierra de tu origen.
 Derramaré mi furor sobre ti, soplaré contra ti con el fuego de mi ira y te entregaré en mano de hombres temerarios, artesanos de destrucción.
 Serás combustible para el fuego. Tu sangre será la humedad de la tierra. No habrá recuerdo de ti, porque Yo, Yavé, hablé.
-
-
-
-
-
 Entonces la Palabra de Yavé vino a mí:
 Y tú, hijo de hombre, ¿quieres juzgar a la ciudad sanguinaria? Denuncia entonces todas sus repugnancias.
 ʼAdonay Yavé dice: ¡Oh ciudad derramadora de sangre dentro de ti, que vas hacia tu fin y que te contaminaste al fabricarte tus ídolos!
@@ -21904,9 +21904,6 @@ Los sátrapas, prefectos, gobernadores y altos oficiales del rey se reunieron al
 Entonces Nabucodonosor exclamó: ¡Bendito sea el ʼElah de Sadrac, Mesac y Abed-nego, que envió su Ángel y libró a sus esclavos que confiaron en Él, y no cumplieron el edicto del rey! ¡Prefirieron entregar sus cuerpos que servir y adorar a otro ʼelah que no era su ʼElah!
 Decreto, pues, que todo pueblo, nación o lengua que pronuncie blasfemia contra el ʼElah de Sadrac, Mesac y Abed-nego, sea descuartizado y su casa convertida en muladar, por cuanto no hay ʼelah como Éste que pueda librar.
 El rey engrandeció a Sadrac, Mesac y Abed-nego en la provincia de Babilonia.
-
-
-
 El rey Nabucodonosor a todos los pueblos, naciones y lenguas que viven en toda la tierra: ¡Que abunde su paz!
 Conviene que yo publique las señales y prodigios que el Altísimo ʼElah hizo conmigo.
 ¡Cuán grandes son sus señales y cuán potentes sus maravillas! ¡Su reino es sempiterno y su señorío de generación en generación!
@@ -21941,6 +21938,9 @@ Aún estaban estas palabras en la boca del rey, cuando una voz vino del cielo: R
 Serás apartado de los hombres, y tu morada será con las bestias del campo. Te apacentarán como a los bueyes. Siete tiempos pasarán sobre ti, hasta que reconozcas que el Altísimo gobierna en el reino de los hombres y lo da a quien le place.
 En la misma hora se cumplió la Palabra sobre Nabucodonosor, y fue apartado de entre los hombres. Comía hierba como los bueyes. Su cuerpo se mojaba con el rocío del cielo hasta que su pelo creció como plumas de águila, y sus uñas como las de las aves.
 Pero al fin del tiempo, yo, Nabucodonosor, alcé mis ojos al cielo, y mi razón me fue devuelta. Entonces bendije al Altísimo. Alabé y glorifiqué al que vive para siempre, cuyo dominio es sempiterno y su reino por todas las edades.
+Todos los habitantes de la tierra son considerados como nada. Él hace lo que quiere en la hueste del cielo y en los habitantes de la tierra. No hay quien detenga su mano y le pregunte: ¿Qué haces?
+En el mismo tiempo me fue devuelta mi razón y la majestad de mi reino. Mi dignidad y mi grandeza volvieron a mí, y mis consejeros y mis nobles comenzaron a buscarme. Fui restablecido en mi soberanía, y me fue añadida una extraordinaria grandeza.
+Ahora yo, Nabucodonosor, alabo, engrandezco y glorifico al Rey del cielo, porque todas sus obras son verdaderas y sus caminos justos. Él puede humillar a los que andan con altivez.
 El rey Belsasar hizo un gran banquete para 1.000 de sus dignatarios y bebía vino en presencia de los 1.000.
 Con el efecto del vino, Belsasar mandó traer los vasos de oro y de plata que Nabucodonosor, su padre, sacó del Templo de Jerusalén para que el rey, sus dignatarios, sus esposas y sus concubinas bebieran en ellos.
 Entonces le llevaron los vasos de oro que sacaron del Santuario del Templo del ʼElah de Jerusalén. Y el rey, sus dignatarios, sus esposas y sus concubinas bebieron en ellos.
@@ -21971,6 +21971,7 @@ Tekel: Fuiste pesado en balanza y fuiste hallado falto.
 Parsin: Tu reino fue roto y dado a los medos y a los persas.
 Entonces Belsasar dio órdenes. Vistieron a Daniel de púrpura y le pusieron un collar de oro en su cuello. Proclamaron con respecto a él que tenía autoridad y era el tercero en el reino.
 Aquella misma noche Belsasar, rey de los caldeos, fue asesinado.
+Darío, el medo, tomó el reino a los 72 años de edad.
 A Darío le pareció bien establecer 120 sátrapas, para gobernar en todo el reino,
 y al frente de ellos tres gobernadores (uno de ellos era Daniel), a quienes estos sátrapas dieran cuenta para que el rey no sufriera pérdida.
 Este Daniel se distinguía por encima de los gobernadores y sátrapas, porque poseía un Espíritu superior. El rey pensaba darle autoridad sobre todo el reino.
@@ -21999,7 +22000,6 @@ El rey Darío escribió a todos los pueblos, naciones y lenguas de la tierra: Pa
 Decreto que en todo el dominio de mi reino todos teman y tiemblen ante el ʼElah de Daniel, porque Él es el ʼElah viviente, y permanece para siempre. Su reino no será destruido y su dominio perdurará para siempre.
 Él salva y libra. Hace señales y maravillas en el cielo y en la tierra. Él libró a Daniel del poder de los leones.
 Este Daniel prosperó en el reinado de Darío y en el reinado de Ciro el persa.
-
 El primer año de Belsasar, rey de Babilonia, Daniel tuvo un sueño y visiones de su cabeza mientras estaba en su cama. Entonces escribió el sueño y relató un resumen de él.
 Daniel habló: Yo miraba en mi visión nocturna y vi que los cuatro puntos cardinales del cielo se desataban sobre el gran mar.
 Cuatro grandes bestias, diferentes la una de la otra, subieron del mar.
@@ -22170,6 +22170,8 @@ Otra vez concibió y dio a luz una hija. Y Yavé le dijo: Llámala Lo-ruhama, po
 Pero tendré compasión de la Casa de Judá y los salvaré por Yavé, su ʼElohim. No los libraré con arco, ni con espada, ni con batalla, ni con caballos, ni con jinetes.
 Después de destetar a Lo-ruhama, concibió y dio a luz un hijo.
 Yavé dijo: Llámalo Lo-ammi, porque ustedes no son mi pueblo ni Yo seré para ustedes su ʼElohim.
+Sin embargo, el número de los hijos de Israel será como la arena del mar, que no se puede medir ni contar. Y en el lugar donde les fue dicho: Ustedes no son mi pueblo, se les dirá: Son hijos del ʼEL que vive.
+Los hijos de Judá y de Israel se unirán y designarán un solo caudillo. Subirán de la tierra, porque grande es el día de Jezreel.
 Llamen a sus hermanos Ammi, y a sus hermanas Ruhama.
 Contiendan con su madre, contiendan, porque ella no es mi esposa ni Yo soy su esposo, para que se quite de su cara sus fornicaciones, y sus adulterios de entre sus pechos.
 No sea que la despoje, la deje totalmente desnuda, la coloque como el día cuando nació, la deje como el desierto, la reduzca a tierra árida, la mate de sed,
@@ -22193,8 +22195,6 @@ Te desposaré conmigo en fidelidad, y tú conocerás a Yavé.
 Aquel día responderé, dice Yavé. Yo responderé a los cielos, y ellos responderán a la tierra.
 Y la tierra responderá al trigo, al vino y al aceite, y ellos responderán a Jezreel.
 Y la sembraré en la tierra para Mí mismo, y me compadeceré de Lo-ruhama, y diré a Lo-ammi: Pueblo mío. Y él responderá: Tú eres mi ʼElohim.
-
-
 Yavé me dijo: Vé otra vez, ama a una mujer amada por su esposo, aunque adúltera, tal como Yavé ama a los hijos de Israel, aunque siguen a ʼelohim extraños y aman las tortas de uvas pasas.
 La compré para mí por 165 piezas de plata y 230 litros de cebada.
 Y le dije: Muchos días estarás conmigo. No te prostituirás ni aceptarás a otro hombre. Lo mismo haré yo contigo.
@@ -22318,6 +22318,7 @@ Mi pueblo está inclinado a apartarse de Mí. Aunque me llaman el Altísimo, nin
 No me volveré para destruir a Efraín, por cuanto Yo soy ʼEL, y no hombre, el Santo en medio de ti, y no vendré con furor.
 Caminarán tras Yavé. Él rugirá como un león. Cuando ruja, sus hijos vendrán temblorosos desde occidente.
 Desde Egipto vendrán temblorosos como pájaros, desde la tierra de Asiria, como palomas, y vivirán en sus casas, dice Yavé.
+Efraín me rodeó de mentiras, la Casa de Israel, de falsedad. Judá aún divaga contra ʼEL, contra el Santo, Quien es Fiel.
 Efraín se apacienta de viento, y persigue al viento del este. Mentiras y destrucción aumentan continuamente. Además hizo un pacto con Asiria, y lleva el aceite de Egipto.
 Yavé tiene pleito con Judá. Castigará a Jacob conforme a sus caminos. Le pagará según sus obras.
 En el vientre tomó por el talón a su hermano, y en su madurez luchó con ʼElohim.
@@ -22332,7 +22333,6 @@ Porque también hablé a los profetas. Multipliqué visiones y por medio de los 
 Huyó Jacob a la tierra de Aram. Israel sirvió para adquirir esposa, y por una esposa cuidó ovejas.
 Por medio de un profeta Yavé sacó a Israel de Egipto, y por medio de un profeta fue preservado.
 Efraín lo provocó a amarga ira. Por tanto, ʼAdonay dejará sobre él la culpa de sangre y hará volver sobre él su oprobio.
-
 Cuando Efraín hablaba, había temor. Era exaltado en Israel, pero pecó por causa de baal y murió.
 Y ahora añadieron a su pecado. Se hacen imágenes fundidas. Con su plata hacen imágenes fundidas, ídolos, según su entendimiento, todos ellos, obra de artesano. Les dicen a los hombres que sacrifican que besen los becerros.
 Por tanto, serán como la niebla de la mañana, como el rocío del amanecer que pronto desaparece, como la concha del trigo soplada de la era por el viento, como el humo de la chimenea.
@@ -22348,6 +22348,7 @@ Atada está la maldad a Efraín. Su pecado está bien guardado.
 Le vendrán dolores de mujer que está de parto. Él es un hijo necio que no llegó a tiempo a la apertura del vientre.
 ¿Los libraré del poder del Seol? ¿Los redimiré de la muerte? ¿Dónde está, oh muerte, tu pestilencia? ¿Dónde, oh sepulcro, tu destrucción? La compasión estará escondida de mis ojos.
 Aunque él fructifique entre sus hermanos, vendrá un viento del este. El viento de Yavé subirá del desierto. Entonces su manantial se secará. Se agotará su fuente. Él despojará el tesoro de todos sus objetos preciosos
+Porque se rebeló contra su ʼElohim. Culpable de castigo es Samaria. Ellos caerán por la espada. Sus bebés serán estrellados, y sus esposas embarazadas desgarradas.
 ¡Oh Israel, regresa a Yavé tu ʼElohim, pues caíste a causa de tu iniquidad!
 Tomen palabras y regresen a Yavé. Díganle: Quita toda iniquidad, acéptanos con benevolencia. Te ofreceremos el fruto de nuestros labios.
 Asiria no nos salvará. No montaremos en caballos, ni diremos nunca más a la obra de nuestras manos: ustedes son nuestro ʼElohim. Porque en ti el huérfano halla misericordia.
@@ -22357,7 +22358,6 @@ Se extenderán sus ramas. Su esplendor será como el del olivo, y exhalará su f
 Regresarán y se sentarán bajo su sombra. Serán revividos como el grano y crecerán como una vid. Su aroma será como la del vino del Líbano.
 Efraín dirá: ¿Qué más tengo yo que hacer con ídolos? Yo responderé y velaré por ti. Soy como un exuberante ciprés. De mí viene tu fruto.
 El que es sabio, que entienda estas cosas. El que sea prudente que las sepa. Porque los caminos de Yavé son rectos, el justo andará en ellos, pero los transgresores tropezarán en ellos.
-
 La Palabra de Yavé que vino a Joel, hijo de Petuel:
 Escuchen esto, oh ancianos, escuchen todos, habitantes de la tierra. ¿Sucedió esto en sus días o en los días de sus antepasados?
 Contarán esto a sus hijos, y los hijos de ellos a sus hijos, y los hijos de éstos a la otra generación:
@@ -22405,32 +22405,32 @@ Las eras se llenarán de trigo, los lagares rebosarán de vino nuevo y aceite.
 Les restituiré los años que devoraron el saltón, el saltamontes, el cigarrón y la langosta, mi gran ejército que envié contra ustedes.
 Comerán en abundancia, se saciarán y alabarán el Nombre de Yavé su ʼElohim, porque hizo prodigios por ustedes. Nunca más mi pueblo será avergonzado.
 Sabrán que Yo estoy en medio de Israel, que Yo soy Yavé su ʼElohim y que no hay algún otro. Mi pueblo nunca más será avergonzado.
+Después de esto derramaré mi Espíritu sobre todo ser humano. Sus hijos y sus hijas profetizarán, sus ancianos tendrán sueños y sus jóvenes tendrán visiones.
+También sobre los esclavos y las esclavas derramaré mi Espíritu en aquellos días.
+Haré prodigios en los cielos y en la tierra, sangre, fuego y columnas de humo.
+El sol se convertirá en tinieblas y la luna en sangre, antes que llegue el día grande y terrible de Yavé.
+Sucederá que todo el que invoque el nombre de Yavé será salvo, porque en la Montaña Sion y en Jerusalén quedará un remanente, según dijo Yavé. Y entre los supervivientes estarán los que Yavé llamó.
 Ciertamente en aquellos días y en aquel tiempo, cuando Yo restaure de la cautividad a Judá y a Jerusalén,
 reuniré a todas las naciones y las conduciré al valle de Josafat. Allí contenderé con ellas a favor de mi pueblo, mi heredad, porque dispersaron a Israel entre las naciones y se repartieron mi tierra.
 Sobre mi pueblo echaron suertes, cambiaron un muchacho por una prostituta y vendieron una niña por vino para poder beber.
 ¿Qué tienen Tiro, Sidón y toda Filistea contra Mí? ¿Quieren vengarse de Mí? Pues si de Mí tratan de vengarse, bien pronto haré que su venganza se vuelva sobre su cabeza,
 porque tomaron mi plata y mi oro, mis cosas preciosas y hermosas, y las metieron en sus templos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Vendieron los hijos de Judá y de Jerusalén a los hijos de los griegos para alejarlos de su territorio.
+Pero Yo los sacaré del lugar donde los vendieron y haré recaer la paga sobre su cabeza.
+Venderé sus hijos e hijas a los hijos de Judá, y ellos los venderán a los sabeos, una nación distante, pues Yavé habló.
+¡Pregónenlo a las naciones! ¡Prepárense para una guerra! ¡Levántense los hombres valientes! Todos los guerreros: ¡Acérquense y suban!
+Con los arados forjen espadas y con sus hoces hagan lanzas. Diga el débil: ¡Soy fuerte!
+¡Apresúrense y vengan, todas las naciones de alrededor, y reúnanse allí! ¡Oh Yavé, que bajen tus valientes!
+¡Despiértense las naciones y acudan al valle de Josafat, porque allí me sentaré para juzgar a todas las naciones de alrededor!
+Metan la hoz, porque la cosecha está madura. Vengan y pisen, porque el lagar está lleno, y rebosan las tinajas, porque su maldad es mucha.
+¡Multitudes y multitudes hay en el valle de la Decisión! ¡Cercano está el día de Yavé en el valle de la Decisión!
+El sol y la luna se oscurecen, y las estrellas no dan su resplandor.
+Yavé ruge desde Sion. Da su voz desde Jerusalén y tiemblan los cielos y la tierra. Pero Yavé es la esperanza de su pueblo, la fortaleza de los hijos de Israel.
+Entonces conocerán que Yo soy Yavé su ʼElohim, quien mora en Sion, mi Montaña Santa. Jerusalén será santa, y los extraños no pasarán más por ella.
+En aquel día sucederá que las montañas destilarán vino dulce, las colinas manarán leche, las cañadas de Judá desbordarán de agua, y de la Casa de Yavé brotará un manantial que regará el valle de Sitim.
+Egipto será convertido en desolación, y Edom en un desierto asolado por la violencia hecha a los hijos de Judá, porque derramaron sangre inocente en su tierra.
+Pero Judá será ocupada para siempre, y Jerusalén, por todas las generaciones.
+Limpiaré la sangre de los que no limpié. Y Yavé morará en Sion.
 Palabras de Amós, uno de los pastores de Tecoa. Visión que tuvo sobre Israel en los días de Uzías, rey de Judá, y en los días de Jeroboam, hijo de Joás, rey de Israel, dos años antes del terremoto.
 Dijo: ¡Yavé ruge desde Sion, y alza su voz desde Jerusalén! Los pastizales de los pastores hacen duelo, y la cumbre de la montaña Carmelo se seca.
 Yavé dice: Por tres transgresiones de Damasco, y por la cuarta, no revocaré su castigo: Porque trillaron a Galaad con trillos de hierro.
@@ -22614,6 +22614,7 @@ Sin embargo, los hombres remaron duro para regresar a tierra, pero no pudieron p
 Entonces clamaron a Yavé: ¡Oh Yavé, te rogamos que nosotros no perezcamos por la vida de este hombre, ni nos culpes de sangre inocente! ¡Porque tú, oh Yavé, hiciste lo que te agradó!
 Levantaron a Jonás y lo lanzaron al mar. Y el mar detuvo su furia.
 Aquellos hombres temieron a Yavé con gran temor, ofrecieron sacrificio a Yavé e hicieron votos.
+Yavé preparó un gran pez que tragara a Jonás. Y Jonás estuvo en el estómago del pez tres días y tres noches.
 Entonces Jonás oró a Yavé su ʼElohim desde el estómago del pez,
 y dijo: En mi angustia invoqué a Yavé, y Él me respondió. Desde el estómago del Seol pedí socorro, y Tú escuchaste mi voz.
 Me lanzaste a lo profundo en medio de los mares, y me rodeó la corriente. Todas tus ondas y tus olas pasaron sobre mí.
@@ -22624,7 +22625,6 @@ Cuando mi alma desfallecía en mí, me acordé de Yavé, y mi oración llegó ha
 Los que siguen vanos ídolos olvidan tu misericordia.
 Pero yo te ofreceré sacrificio de alabanza. Cumpliré lo que prometí. ¡La salvación es de Yavé!
 Entonces Yavé dio orden al pez, y éste vomitó a Jonás en tierra seca.
-
 La Palabra de Yavé vino por segunda vez a Jonás:
 Levántate y vé a Nínive, la gran ciudad, y proclama en ella el mensaje que Yo te daré.
 Entonces Jonás se levantó y fue a Nínive, conforme a la Palabra de Yavé. Nínive era una ciudad muy grande de tres días de camino.
@@ -22700,7 +22700,6 @@ Sufre dolor y gime, oh hija de Sion, como mujer que da a luz, porque ahora saldr
 Pero ahora muchas naciones se reúnen contra ti y dicen: Sea profanada, y vean nuestros ojos a Sion.
 Pero no conocen los pensamientos de Yavé, ni comprenden sus designios, por los cuales los reúne como gavillas en la era.
 ¡Levántate y trilla, oh hija de Sion! Porque haré tu cuerno como el hierro y tus cascos como el bronce, para que destroces a muchos pueblos, y consagres sus despojos a Yavé y sus riquezas al ʼAdonay de toda la tierra.
-
 ¡Reúnete ahora en tropas, oh hija de guerreros! Fuimos sitiados. Con vara herirán en la mejilla al Juez de Israel.
 Pero tú, Belén Efrata, pequeña para estar entre las familias de Judá, de ti me saldrá el que será Gobernante en Israel, cuyos procedimientos son desde el principio, desde los días de la eternidad.
 Pero los abandonará hasta el tiempo cuando dé a luz la que va a dar a luz, y vuelva el resto de sus hermanos a reunirse con los hijos de Israel.
@@ -22715,6 +22714,7 @@ También destruiré las ciudades de tu tierra y derribaré todas tus fortalezas.
 Cortaré de tu mano las hechicerías y no tendrás más adivinos.
 Haré destruir tus imágenes talladas y tus piedras rituales en medio de ti. Nunca más te inclinarás ante la obra de tus manos.
 Arrancaré tus Aseras de en medio de ti, y destruiré tus ciudades.
+Ejecutaré venganza con ira y furor contra las naciones que no obedecieron.
 Les ruego que escuchen lo que dice Yavé: ¡Levántate, llama a juicio a las montañas, y que las colinas oigan tu voz!
 Oh montañas y fuertes cimientos de la tierra, escuchen el pleito de Yavé, porque Yavé tiene pleito con su pueblo. Contenderá con Israel:
 ¿Qué te hice, pueblo mío? ¿O en qué te agobié? ¡Testifica contra Mí!
@@ -22765,6 +22765,7 @@ Un consejero perverso salió de ti quien maquinó mal contra Yavé.
 Yavé dice: Aunque tengan mucha fuerza y sean muchos, serán cortados y pasarán. Aunque te afligí, ya no te afligiré,
 porque ahora quebraré su yugo de sobre ti y romperé tus correas.
 Pero con respecto a ti Yavé ordenó que no quede memoria de tu nombre. Destruiré esculturas e imágenes fundidas de la casa de tus ʼelohim, y la convertiré en tu sepultura, porque eres vil.
+¡Miren sobre las montañas los pies del que trae buenas noticias, del que anuncia la paz! ¡Celebra tus solemnidades, oh Judá, y cumple tus votos porque nunca más pasará por ti el perverso! Fue destruido por completo.
 ¡El destructor subió contra ti! Guarda la fortaleza, vigila el camino, fortalece tu retaguardia, reúne toda tu fuerza.
 Porque Yavé restaurará el resplandor de Jacob, y el resplandor de Israel, aunque devastadores la devastaron y destruyeron las ramas de su vid.
 Los escudos de sus valientes están enrojecidos, sus guerreros están vestidos de púrpura y sus carruajes son acero fulgurante. El día de su formación hacen temblar los cipreses.
@@ -22778,7 +22779,6 @@ Aunque Nínive fue como un estanque de aguas a través de sus días, ahora está
 ¿Dónde está la guarida de los leones y el sitio donde se recogían el león, la leona y los leoncillos, y no había quién los espantara?
 El león hacía presas suficientes para sus cachorros y descuartizaba para sus leonas. Su cueva se llenaba de víctimas, su guarida de rapiña.
 ¡Ciertamente Yo estoy contra ti! Palabra de Yavé de las huestes. Encenderé y reduciré a humo tus carruajes, y la espada devorará a tus leoncillos. Raeré de la tierra tus presas. Nunca más se escuchará la voz de tus mensajeros.
-
 ¡Ay de la ciudad sanguinaria completamente llena de mentiras y pillaje! Su presa no se va nunca.
 Chasquido de látigo, ruido estruendoso de ruedas, galope de caballos y traqueo de carruajes.
 Los jinetes atacan, espadas relumbran, lanzas relampaguean, multitud de muertos, una masa de cadáveres. Tropiezan con los muertos
@@ -22962,6 +22962,10 @@ Entonces me dijo el ángel que hablaba conmigo: Proclama: Yavé de las huestes d
 Pero estoy muy airado contra las naciones confiadas, porque mientras estuve airado solo un poco, ellos promovieron el desastre.
 Por tanto Yavé dice: Me volví a Jerusalén con compasión. En ella será edificada mi Casa, dice Yavé de las huestes, y el cordel de medir será tendido sobre Jerusalén.
 Proclama además: Yavé de las huestes dice: Otra vez rebosarán de prosperidad mis ciudades. Yavé volverá a consolar a Sion, y otra vez escoge a Jerusalén.
+Después alcé mis ojos, miré, y ahí estaban cuatro cuernos.
+Y dije al ángel que hablaba conmigo: ¿Qué hacen éstos? Y me respondió: Éstos son los cuernos que dispersaron a Judá, Israel y Jerusalén.
+Yavé me mostró cuatro artesanos.
+Y yo pregunté: ¿Qué vienen a hacer éstos? Me respondió: Aquéllos eran los cuernos que dispersaron a Judá, de tal manera que nadie levantaba su cabeza. Pero éstos vinieron para hacerlos temblar y derribar los cuernos de las naciones que alzaron su cuerno contra la tierra de Judá para dispersarla.
 Después levanté mis ojos y miré, y ahí estaba un varón con un cordel de medir en su mano.
 Y le pregunté: ¿A dónde vas? Y me respondió: A medir Jerusalén, para ver cuál es su anchura y su longitud.
 Cuando salía el ángel que hablaba conmigo, otro ángel le salió al encuentro,
@@ -22975,10 +22979,6 @@ Por tanto, miren: Yo levanto mi mano contra ellos, y serán despojo para los que
 Aquel día se unirán a Yavé muchas naciones y serán mi pueblo. Viviré en medio de ti, y conocerán que Yavé de las huestes me envió a ti.
 Yavé poseerá a Judá como su heredad en la tierra santa, y escogerá a Jerusalén.
 ¡Calle todo mortal ante Yavé, porque Él despertó en su santa morada!
-
-
-
-
 Después me mostró al sumo sacerdote Josué puesto delante del Ángel de Yavé. Satán estaba a su mano derecha para acusarlo.
 Yavé dijo a Satán: ¡Yavé te reprenda, Satán! Yavé, Quien escogió a Jerusalén, te reprenda. ¿No es éste un tizón arrebatado del fuego?
 Josué estaba vestido con ropas impuras y estaba en pie ante el Ángel.
@@ -23205,12 +23205,12 @@ Así que ahora nosotros llamamos bendecidos a los altivos, y decimos que los hac
 Entonces los que temían a Yavé hablaron el uno al otro, y Yavé prestó atención y escuchó. Y fue escrito un rollo de memoria delante de Él, a favor de los que temen a Yavé y honran su Nombre.
 En el día que Yo preparo, dice Yavé de las huestes, serán para Mí un especial tesoro. Los perdonaré como un hombre perdona a su hijo que le sirve.
 Entonces se convertirán. Distinguirán entre el justo y el perverso, y entre el que sirve a ʼElohim y el que no le sirve.
-
-
-
-
-
-
+Porque ciertamente viene el día ardiente como un horno, cuando todos los altivos y todos los perversos serán estopa. Aquel día que viene los quemará, y no quedará de ellos raíz ni rama, dice Yavé de las huestes.
+Pero para ustedes, los que temen mi Nombre, nacerá el Sol de Justicia. En sus alas traerá salvación. Saldrán y saltarán como becerros de la manada.
+El día que Yo preparo pisotearán a los perversos, que serán como ceniza bajo las plantas de sus pies, dice Yavé de las huestes.
+Acuérdense de la Ley de mi esclavo Moisés, que le prescribí en Horeb para todo Israel, con sus Ordenanzas y Preceptos.
+Miren, Yo les envío al profeta Elías antes de la venida grande y terrible del día de Yavé.
+Él volverá los corazones de los progenitores a sus hijos, y los corazones de los hijos a los progenitores, no sea que Yo venga y golpee la tierra con una maldición.
 Libro de la genealogía de Jesucristo, Hijo de David, hijo de Abraham:
 Abraham engendró a Isaac, Isaac engendró a Jacob, Jacob engendró a Judá y a sus hermanos,
 Judá engendró de Tamar a Fares y a Zara, Fares engendró a Esrom, y Esrom engendró a Aram,
@@ -27691,7 +27691,7 @@ Por cuanto esto es indiscutible, es necesario estar calmados y no actuar con pre
 Trajeron a estos hombres que no roban templos ni blasfeman a nuestra deidad.
 Si Demetrio y los diseñadores que lo acompañan tienen acusación contra alguien, los tribunales están abiertos y hay procónsules. Presenten cargos unos contra otros.
 Si desean saber algo más, en legítima asamblea será decidido.
-Porque por lo de hoy, aun corremos el peligro de ser acusados de rebelión, ya que no existe causa con la cual podremos dar razón del alboroto.
+Porque por lo de hoy, aun corremos el peligro de ser acusados de rebelión, ya que no existe causa con la cual podremos dar razón del alboroto. Después de decir esto, disolvió la reunión.
 Cuando cesó el alboroto, Pablo llamó y exhortó a los discípulos. Se despidió y partió a Macedonia.
 Recorrió aquellas regiones, los exhortó con mucha enseñanza y llegó a Grecia.
 Después de tres meses cuando iba a embarcarse para Siria, los judíos tramaron un complot contra él. Así que decidió regresar por Macedonia.

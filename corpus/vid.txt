@@ -926,6 +926,7 @@ Hamba Labani nakamlonjela Yakobo, “Ulole chibugulu achi cha maganga na izengo 
 Chibugulu chino ndo ulolezi na izengo ali ndo ulolezi kota heni hambe ndoche chibugulu chino kuya kwa hegwe kukuditila wihe, na huweza kuloka chibugulu chino kuya kwa heni kunditila wihe.
 Nguluwi wa Abulahamu na Nguluwi wa Naholi, kotagusa hali hetwe.” Lelo Yakobo nakelaha kwa Nguluwi yamditile Isaka mhaza wa heye yakakame.
 Hamba Yakobo nakalavya nhambiko ako kuli isi ya vidunda na kuwalalika wang'holoze walye chilyo. Lowasindile kulya nawapona kuko nechilo.
+Lufuku Labani nakenuka, nakawanonela wazukulu wa heye na wahinza wa heye na nakawatambichiza. Hamba nakoka kuhiluka kaye.
 Yakobo nakalutilila na majendo ga heye. Lelo wahilisi wa Nguluwi naweting'hana na heye.
 Yakobo loyawawene, nakalonga, “Ayi ndo kambi ya Nguluwi!” Ahyo, nakahachema honhu aho Mahanaimu.
 Yakobo nakawalajiza wahilisi wamlongole kwa mng'holoze Esau, ako Seili hali isi ya Edomu.
@@ -958,7 +959,6 @@ Aho, Yakobo nakamlonjela, “Dedede, ndangukulanda undonjele itagwa lya hegwe.�
 Yakobo nakahachema honhu aho Penieli, yolonga, “Nandimona Nguluwi meho kwa meho, na hambe mbagame.”
 Isanya nalyali lyaluka kulawa mhela Yakobo loyochile Penueli, nayali yodudila kwa chiwalo cha chigudi cha heye.
 Ndo mina mbaka lehano Waisilaeli hambe walye idanha lya honhu ha chigudi, mina yula munhu nakamdoliza Yakobo hali midanha ha chigudi cha heye.
-
 Lelo Yakobo nakalola, nakamona Esau hamwe na walume miya zine. Aho, nakawabagula wana wa heye kwa Lea na Laheli na wala wapogozi wa heye wadala weli.
 Nakawawika wapogozi wadala na wana wa hewo kumwando, hamba Lea na wana wa heye na kumbele ng'hatu nawali Laheli na mwana wa heye Yusufu.
 Hamba heye nakalongoza, nakaluta kwa kufugama mala saba, mbaka loyafichile habehi na mng'holoze.
@@ -1709,10 +1709,6 @@ Ila wahawi wa Misili kwa uhawi wawo nawadita hiho. Ahyo nhumbula ya Falao naipon
 Lelo Falao, nakahiluka kaye na gala galawile nahagajesile.
 Wamisili weng'ha nawabawabawa hafungo mwa lwanda lwa Naili leka wadehe mazi, kwa vila nawalemwela kunwa mazi ga lwanda alo.
 Mazuwa saba nagapuluta kulawa Mkulu Nguluwi loyaugazile lwanda lwa Naili.
-
-
-
-
 Hamba Mkulu Nguluwi nakamlonjela Musa, “Mlute kwa Falao mkamlonjele Mkulu Nguluwi kangulonga ahi, ‘Uwaleche Waisilaeli woche leka kuli isi ya Misili wakafugamile heni.
 Ila wone uleme kuwaleka woche, lelo ndoitowa isi ya hegwe kwa kuwegalila mibula.
 Lwanda lwa Naili lomema mibula najo jokwinjila mbaka mgati mwa ng'handa ya hegwe, chihengo cha hegwe cha kuwasa, mchinanda mwa hegwe na kuli ng'handa za vitumagwa na wanhu wa hegwe. Mibula ajo jokwinjila kuli chiko na visaye vya hemwe vya kutimbulila utimbo.
@@ -1741,6 +1737,10 @@ Ndo Falao nakawachema Musa na Aluni, nakalonga, “Moweza kuluta kumlavila nhamb
 Ila Musa nakamwidichila, “Hebu, hainojile kudita ahyo, mina nhambiko zotumlavila Mkulu Nguluwi, Nguluwi wa hetwe, zowazudiza Wamisili. Ndaze, Wamisili howotona tulavya nhambiko zoziwele izudizo kwa hewo, hawotutowa kwa maganga?
 Yotulapa kwinula majendo kwa mazuwa gadatu kuza kuchiwala tukamlavile nhambiko Mkulu Nguluwi, Nguluwi wa hetwe, kota vyoyotulajiza.”
 Lelo Falao nakalonga, “Ndowaleka mlute kumlavila nhambiko Mkulu Nguluwi, Nguluwi wa hemwe, kuchiwala. Ila mleche kuluta kutali ng'hatu. Mndandile na heni.”
+Musa nakamwidichila Falao, “Baho du, hondikuleka, ndomlanda Mkulu Nguluwi yose vilundo avi vya ng'honzi mng'handa ya hegwe na vitumagwa wa hegwe na wanhu wa hegwe mitondo. Ila hegwe uleche kutubada kahi kuwalemeza wanhu kuluta kumlavila nhambiko Mkulu Nguluwi.”
+Lelo Musa nakoka haluga ha Falao, nakamlanda Mkulu Nguluwi.
+Mkulu Nguluwi nakadita kota Musa navyoyamlandile, zila ng'honzi nazuka kulawa kwa Falao na vitumagwa na wanhu wa heye, nahaiponile ne ng'honzi imwe.
+Ila mhela awu kahi, Falao nayali na nhumbula igagadale, nahawakundize Waisilaeli kuka.
 Hamba Mkulu Nguluwi nakamlonjela Musa, “Winjile hegwe kwa Falao umlonjele kota heni Mkulu Nguluwi, Nguluwi wa Waebulaniya ndangulonga, ‘Uwaleche wanhu wa heni woche leka wakafugamile heni.
 Wone uleme kuwalechela woche na houlutilila kuwebatilila,
 ndogolola moko wa heni na kuwegalila matamwa gehile ng'hatu kuli migongolo ja hemwe jeng'ha, misenga na falasi na midogowi na ngamiya na mhene na ming'holo.
@@ -2112,7 +2112,6 @@ Wone isenga alyo limtowe mbalati mpogozi mlume ama mdala, yawele na isenga alyo 
 ayo yawele na ikulubila alyo, yalavye sendi kwa yawele na isenga ibuguma na igongolo lifile lyowa lya heye.
 “Isenga lya munhu wone lilumize isenga lya munhu yunji na kulikopola, lelo hewo woliguza alyo isenga liwele likomu na kigawila chochiguzigwa na vivila wochigawila lila isenga lifile.
 Ila wone alyo isenga nalizowela kutowa wanji kwa mbalati na munhu yalifujile halikowele, yuye kohilusa isenga kwa isenga ibuguma na lila lifile lyowa lya heye.
-
 “Wone munhu yohiza isenga ama ing'holo na kulidumula singo ama kuliguza, kolapigwa kulavya misenga jihano kwa chila isenga na ming'holo jine kwa chila ing'holo.
 Wone mhizi yobatigwa yobena ng'handa mhela wa nechilo, na kutowigwa mbaka kubagama, yamkopole kowa hela nongwa ya kukopola.
 Ila wone mhizi ayo yebatigwe nemisi na kukopoligwa, yamkopole kowa na nongwa. Ayo mhizi koganigwa kuhilusa chinhu. Wone yawe hela chinhu cha kulavya, lelo heye yuye koguzigwa leka kulipila uhizi wa heye.
@@ -2143,6 +2142,7 @@ kwa vila alyo ndo igolole lya heye liliyeka, ndo lyondichigubika na lilyo. Ama k
 “Uleche kumliga Nguluwi, ne kumpanjila mkulu wa wanhu wa hegwe.
 “Uleche kukawila kundavila honhu hangu kuli winji wa chilyo cha hegwe na divai ya hegwe. Momha walelwa wa hemwe wa mwaluko walume.
 Modita hihyo du kwa chiwalo cha walelwa wa mwaluko wa misenga na ming'holo ja hemwe. Momleka chila mlelwa wa mwaluko na mayake kwa mazuwa saba na zuwa lya nane mondavila.
+“Hemwe mowa wanhu wa chiuyeng'ha kwa heni. Ahyo hamulya miwunde ja igongolo likopoligwe na igongolo lya kisolo. Miwunde ajo motozela mibwa.
 “Uleche kulonga mbuli za udesi. Uleche kihanza na munhu yawele na wihe leka uwe mlolezi mwihe.
 Uleche kuwinza chilundo cha wanhu kudita wihe, na uleche kihanza na chilundo cha wanhu kulavya ulolezi hali honhu ha kutagusila leka kuwajiliza wanhu.
 Uleche kudita uganililo kuli utaguso wa wazunwa.
@@ -2848,13 +2848,6 @@ Ayo munhu kahi kolipizila vinhu vyoyalechile kulavya kuwala vinhu vyelile na kon
 “Munhu yoneche wone yodita gehile ne kunuwila kwa kubena mzilo woneche wa Mkulu Nguluwi, heye kana nongwa na kogazigwa kwa chiwalo cha nongwa za heye.
 Komigalila mtambika ing'holo ilume lilihela nongwa kuli chilundo ama kuguligwa kwa sendi zilingiwhana na lila ing'holo kwa nhambiko ya nongwa. Na mtambika komditila uhanyisi kwa nongwa yoyaditile ne kunuwila na heye kolechelwa.
 Ayo ndo nhambiko ya nongwa, kukomya heye kana nongwa hali Mkulu Nguluwi.”
-
-
-
-
-
-
-
 Mkulu Nguluwi nakamlonjela Musa,
 “Wone munhu yoneche nakadita gehile na kumhinduka Mkulu Nguluwi kwa kumhada yalihabehi na heye kuwala ng'hano ama honhu ha yoyawichilwe, ama kumboka ama kumbunza miyage,
 ama wone yalokote chinhu chajilile, nakalonga kota nahachiwene, ama nakelaha udesi kwa choneche chiwelenguwadita wanhu wawe na gehile,
@@ -2878,6 +2871,13 @@ Mkulu Nguluwi nakamlonjela Musa,
 Utimbo awo wohanzigwa na mafuta na kubanichigwa migaye, hamba kougala uwele mvipuli na kumlavila Mkulu Nguluwi kota nhambiko ya nyhule, na unhunyhililo wa nhambiko ayo womnojeza Mkulu Nguluwi.
 Mtambika yawele mlelwa wa Aluni, yawele yabakalizwe mafuta kibata mijito ja heye komlavila Mkulu Nguluwi nhambiko ayo, alyo ndo ilajizo lya mazuwa gose. Nhambiko yeng'ha yolakazwa.
 Nhambiko yoneche ya nyhule ilavigwe na mtambika yolakazwa yeng'ha, haiwa ya kulya hebu.”
+Mkulu Nguluwi nakamlonjela Musa,
+“Mlonjele Aluni na mwanage kota aga ndo malajizo ga nhambiko kuwala nhambiko ya gehile. Honhu hala hawele igongolo lya nhambiko ya kulakazwa hudumulilwa singo, ndo honhu holidumuligwa singo igongolo lya nhambiko ya gehile hali Mkulu Nguluwi. Ayo ndo nhambiko yelile ng'hatu.
+Mtambika yawelengulavila nhambiko ayo ndo yolya. Yolika honhu helile, kuli lugagala lwa ihema lya Nguluwi.
+Choneche chidoliza iwunde alyo chowa chelile, ivalo lyoneche wone limizilwe danda ya nhambiko ayo, lelo ivalo alyo lihovujigwe hali honhu helile.
+Miwunde ja nhambiko ayo wone jitelechigwe mchiya, chiya acho chotuligwa. Ila wone chinhu acho ndo cha shaba, lelo chokwanguligwa na kuhovujigwa goya kwa mazi.
+Walingukundigwa kulya ndo walume wa lukolo lwa watambika waliyeng'ha, ayo ndo nhambiko yelile ng'hatu.
+Ila kota danda ya nhambiko yoneche ya gehile igaligwa mgati mwa ihema lya Nguluwi leka kudita uhanyisi hali honhu helile, nhambiko ayo hailinguganigwa kuligwa ila ilakazwe kwa chiluli.”
 “Aga ndo malajizo galinguwala nhambiko ya nongwa. Nhambiko ayo ndo yelile ng'hatu.
 Igongolo lya nhambiko ya nongwa lyodumuligwa singo honhu hojilingudumuligwa singo migongolo ja nhambiko ya kulakazwa, na danda yoboholigwa hali honhu ha kulavila nhambiko banzi zeng'ha.
 Mafuta geng'ha na mafuta ga mchila na gala mafuta galingugubika mitumbu golavigwa,
@@ -4228,6 +4228,21 @@ na kuwamela wanhu awo na wanhu wa ivyazi lya hewo, hamwe na wanhu weng'ha waling
 Lelo hewo hamwe na vyeng'ha viwele vya hewo nawadulika kuli isi ya wabagame kuno wawele wang'hali wakomu. Misanga najiwagubika, wanhu weng'ha nawabagama.
 Waisilaeli wawele habehi vyowahuliche wala walingudulika vyowotowa iyowe, nawadwina wolonga, “Tubilime, leka misanga jileche kutumela na hetwe natwe.”
 Hamba Mkulu Nguluwi nakahilika chiluli nakawalakaza wala wanhu miya mbili na makumi gahano walutile kufunyiza ubani.
+Vyogapulute ago, Mkulu Nguluwi nakamlonjela musa,
+“Mlonjele Eleasali mwana wa mtambika Aluni yavilavye avyo vifunyizi hali chiluli, yakabohole kutali chiluli chiwele mgati, mina vifunyizi avyo ndo vyelile.
+Naviwa vyelile kwa vila wanhu awa nawavigala hali honhu ha kulavila nhambiko ha Mkulu Nguluwi. Lelo vihole vifunyizi vya wanhu awo wabagame kwa chiwalo cha gehile ga hewo, vipondigwe na viwe vizisili leka viwe chigubiko cha honhu ha kulavila nhambiko. Ali ndo nalyali ikanyo kwa Waisilaeli weng'ha.”
+Lelo mtambika Eleasali nakahola vifunyizi avyo vya shaba kulawa kwa wala wanhu walakazwe, nakaviponda na viwa chigubiko cha honhu ha kulavila nhambiko.
+Ali nalyali ikanyo kwa Waisilaeli weng'ha kota munhu yoneche yohawele mtambika, mina hawele wa lukolo lwa Aluni, yaleche kuluta honhu ha kulavila nhambiko na kumfunyizila Mkulu Nguluwi ubani. Wone yoluta kobagama kota Kola na walingumuwinza heye. Aga geng'ha nagaditigwa kota Mkulu Nguluwi vyoyamlajize Eleasali kwa kukolela Musa.
+Hamitondo, Waisilaeli weng'ha nawawang'ung'utila Musa na Aluni kuno wolonga, “Muwakopola wanhu wa Mkulu Nguluwi.”
+Waisilaeli weng'ha vyowekungajize hali Musa na Aluni leka walavye kung'ung'uta kwa hewo, nawagaluchila ihema lya Nguluwi, nawona ng'hungugu igubiche ihema lya Nguluwi na ukulu wa Mkulu Nguluwi nawali ulawile aho.
+Musa na Aluni nawaluta, nawema hali ihema lya Nguluwi,
+na Mkulu Nguluwi nakamlonjela Musa,
+“Wibagule na Waisilaeli weng'ha wano, leka ndiwakopole sambi baha.” Ila hewo nawetoza hanyi chifunama.
+Musa nakamlonjela Aluni, “Uhole chifunyizi cha hegwe, uwiche chiluli kulawa kuli honhu ha kulavila nhambiko, hamba uwiche ubani na kahi ulute nacho himahima kuli Waisilaeli weng'ha kuwaditila uhanyisi. Kuzudila kwa Mkulu Nguluwi mina nakuwafichila na igayo nalyaluka kuwagaza.”
+Lelo Aluni nakadita kota vyoyalajizwe na Musa. Nakahola chifunyizi cha heye na kubilima mbaka hagati ha wanhu wawele wekungajize hamwe. Vyoyawene kota igayo mina nalyaluka, nakawika ubani mli chifunyizi na kuwaditila uhanyisi wanhu weng'ha.
+Navyoyaditile ahyo, igayo alyo nalileka, na heye nakasigala hagati kwa wala wabagame na wawele wakomu.
+Wanhu wabagame kwa igayo alyo nawali elufu kumi na gane na miya saba (14,700), ne kuwawaza wala nawabagame kwa chiwalo cha kuhinduka kwa Kola.
+Vyolimalile igayo alyo, Aluni nakahiluka kwa Musa hali lwizi lwa ihema lya Nguluwi.
 Hamba Mkulu Nguluwi nakamlonjela Musa,
 “Walonjele Waisilaeli wakigalile ng'hweku kumi na mbili, chilongozi yumwe wa chila nhanzi, ng'hweku imwe. Wandiche itagwa lya chila yumwe wa hewo kuli ng'hweku ya heye,
 na itagwa lya Aluni wandiche mchanya mwa ng'hweku ya nhanzi ya Lawi. Howa na ng'hweku imwe kwa chila chilongozi wa nhanzi.
@@ -4241,21 +4256,6 @@ Mkulu Nguluwi nakamlonjela Musa, “Ihilule ng'hweku ya Aluni hali isanduku lya 
 Musa kadita kota vyoyalajizwe na Mkulu Nguluwi.
 Waisilaeli nawamlonjela Musa, “Ulole lelo! Twangubagama! Tumala! Weng'ha tumala.
 Chila munhu yolihejelela ihema lya Nguluwi, kobagama. Ndaze, tobagama tweng'ha?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Lelo Mkulu Nguluwi nakamlonjela Aluni, “Nongwa zeng'ha zilinguwala mijito ja ihema lya Nguluwi, zowa za hegwe na wanago na lukolo lwa hegwe lwa Kohati, na nongwa zeng'ha zilinguwala utambika zowa za hegwe gwegwe na wanago.
 Hegwe na wang'holozo, nhanzi ya Walawi, nhanzi ya mhaza wa hegwe, uwegale behi na hegwe leka welumbe na hegwe na kukola mijito kota watambika, ila hegwe na wanago mowa hali ihema lya Nguluwi lya ulolezi.
 Awo wokola mijito jowopegwa kulawa kwa hegwe na kweneza gowalonjelwe hewo galingulapa ihema lya Nguluwi. Ila hambe wakundizwe kuvihejelela vinhu vya ihema lya Nguluwi na waleche kuhahejelela honhu ha kulavila nhambiko, leka waleche kubagama, na hegwe kahi kobagama.
@@ -4647,6 +4647,7 @@ Ila molavya nhambiko ya kulakazwa, nhambiko yalingulavilwa Mkulu Nguluwi kwa chi
 Molavya kahi nhambiko ya nyhule na nhambiko za chakunwa hamwe na alyo ibuguma na ing'holo ilume na jila ming'holo myana kwa winji wa migongolo kota vyoilajizwe.
 Hamba kahi molavya ipongo limwe kwa nhambiko ya gehile ne kuwaza yila nhambiko ya chila zuwa ya kulakazwa hamwe na nhambiko yake ya nyhule na nhambiko yake ya chakunwa.
 “Aga ndo malajizo galinguwala nhambiko za kulakazwa na nhambiko za nyhule na nhambiko za chakunwa na nhambiko za kikala goya zomlingumlavila Mkulu Nguluwi mhela wa mnvina za hemwe zoziwichigwe. Ne kuwaza nhambiko azo ziwele momlavila Mkulu Nguluwi kweneza kilaha kwa hemwe na nhambiko za hemwe za kunuwila.”
+Lelo Musa nakawalonjela Waisilaeli chila chinhu kota Mkulu Nguluwi navyoyamlajize.
 Hamba, Musa nakalongasa na vilongozi wa nhanzi za Isilaeli, nakawalonjela, “Awu ndo ulonzi woyalonjile Mkulu Nguluwi.
 “Wone munhu yochilaha kwa Mkulu Nguluwi ama kiwika milagano kwa chilaho, imgana yeneze kilagana kwa heye, na imgana kahi yagakolele mijito gala geng'ha goyalonjile heye.
 “Mhinza yawele yang'hali mbaka sambi kangikala haluga ha mhaza wa heye, yochilaha kwa Mkulu Nguluwi ama kiwika milagano,
@@ -4663,7 +4664,6 @@ Mlume wa heye koweza kutawiza ama kulemeza kilaha ama kulagana koneche kula.
 Ila wone mlume wa heye hambe yalonje chinhu choneche chila kulawa zuwa lyoyohulika mbuli za kilaha ama kulagana kwa mdala wa heye, lelo mlume ayo kowa nakatawiza chilaho na kulagana ako.
 Ila wone yolemeza mhela umwenga loyahuliche mbuli za heye, lelo heye mlume kowa na nongwa kwa chiwalo cha mchewake.”
 Aga ndo malajizo gawele Mkulu Nguluwi nayamlajize Musa kwa chiwalo cha mdala na mlume wa heye na mhaza na mhinza wa heye, wone mhinza ayo yawe yang'hali kwalama na kangikala kwa mhaza wa heye.
-
 Mkulu Nguluwi nakalongasa na Musa, nakamlonjela,
 “Wahilulile chibida Wamidiani kwa mbuli zowawaditile Waisilaeli, hamba hegwe kobagama.”
 Lelo Musa nakalongasa na wamizi, nakawalonjela, “Muwawiche goya wanhu walume walute kuza kitowa ngondo na Wamidiani kuwahilulila chibida kwa chiwalo cha Mkulu Nguluwi.
@@ -5271,6 +5271,7 @@ Milolele kuhulichiza aga gondiwalajizeni, leka mbuli ziditigwe goya kwa hemwe ha
 “Mkulu Nguluwi, Nguluwi wa hemwe, hoyowadumya wanhu wa isi zeng'ha hali hemwe, awo womlinguluta kuwawinga na kuwalavya na kikala kuli isi ya hewo,
 milolele mleche kigwiliza kwa kuwawinza wala wanhu wa isi zisumigwe hali hemwe. Mleche kuuza kwa chiwalo cha kuvizela milungu ja hewo, mlonga, ‘Wanhu awa nawafugamila ndaze milungu ja hewo? Leka natwe tufugamile hihyo.’
 Mleche kumfugamila Mkulu Nguluwi, Nguluwi wa hemwe, kota ahyo kwa vila chila chizudizo chiwele Mkulu Nguluwi, nayachizudile, wajiditila milungu ja hewo, mbaka wawasoma mchiluli wana wa hewo, kota nhambiko kwa milungu ja hewo.
+“Chila chinhu ndiwalajiza milolele kuchidita, mleche konjeza ne kusa chinhu.
 “Hoyolawila mloli ama mlaguzi wa kulota hali hemwe na kuwapa ulajilo ama ububuwalo woneche ula,
 hamba ulajilo ama ububuwalo yawalonjele naulawila na hoyolonga, ‘Tuwinze milungu jinji,’ mina milungu johamjizelele na kujifugamila,
 mleche kuhulichiza ulonzi wa heye mloli ayo ama mlaguzi wa kulota. Mina Mkulu Nguluwi, Nguluwi wa hemwe, kanguwajeza leka yavizele kota mwangumgana heye Mkulu Nguluwi, Nguluwi wa hemwe, kwa nhumbula za hemwe zeng'ha na muhe wa hemwe weng'ha.
@@ -5289,7 +5290,6 @@ yangukulapa kuwakopola kwa ipanga wanhu wa muji awo, koudumya ng'hatu muji awo n
 Kokungajiza vinhu vyeng'ha kuli luga lwa hazelu lwa muji na kusoma kwa chiluli vinhu vyeng'ha kota nhambiko ya kulakazwa kwa Mkulu Nguluwi wa hegwe, muji awo wowa chilundo cha mahame mazuwa gose nawo hauzenjigwa kahi.
 Chinhu chilavigwe chilakazwe uleche kuhola, leka Mkulu Nguluwi yaleche ng'halazi ya heye, yakulajile utambichizo na isungu na kukudita hegwe uwe lulelo lwinji kota navyoyawelahile wasekulu wa hegwe,
 wone kohulichiza lizi lya Mkulu Nguluwi, Nguluwi wa hegwe, kochibata malajizo ga heye geng'ha gala gondilingupa aha lehano na kudita chila chiwele cha hachi hali Mkulu Nguluwi, Nguluwi wa hegwe.
-
 “Hemwe ndo wana wa Mkulu Nguluwi, Nguluwi wa hemwe, mleche kitema sale na mleche kubeya mnvili ziwele mchihanga kwa chiwalo cha munhu yabagame.
 Kwa vila hemwe ndo wa chiuyeng'ha kwa Mkulu Nguluwi, Nguluwi wa hemwe, Mkulu Nguluwi nakawahagula hemwe muwe wanhu wa heye hali wanhu weng'ha kuli isi yeng'ha.
 “Mleche kulya chinhu cha kuzudiza kwa Nguluwi.
@@ -5499,6 +5499,7 @@ Mleche kumditila chinhu choneche ayo mhinza, heye kahela nongwa ilingumlapa yako
 kwa vila mlume ayo nakamibata kwa lupichi mhinza ayo ako kuchiwala hanga nakatowa iyowe lya kulanda kutanzigwa, hakuwele na munhu wa kumtanza.
 “Mlume hoyoting'hana na mhinza yawele hanabanichilwa, wone yamibate kwa lupichi na kufichigwa,
 mlume ayo komha mhaza wa mhinza ayo migwala makumi gahano ga sendi kwa vila nakambasa soni mhinza ayo. Mhinza ayo kowa mchewake na homleka mazuwa geng'ha ga ukomu wa heye.
+“Mlume yoneche yula yaleche kuwasa na mdala wa mhaza wa heye, leka yaleche kumbasa soni mhaza wa heye.
 “Mlume yoneche yalumile mhumbu ama yakanhigwe mhunde ya heye, halinguganigwa kihanza na nhing'hano ya wanhu wa Mkulu Nguluwi.
 “Mwana yapondigwe kunze na mlelwa wa heye mbaka lulelo lwa kumi, halinguganigwa kwinjila kuli nhing'hano ya wanhu wa Mkulu Nguluwi.
 “Mwamoni ama Mmoabu yoneche na walelwa wa heye weng'ha mbaka lulelo lwa kumi, hawalinguganigwa kwinjila kuli nhing'hano ya wanhu wa Mkulu Nguluwi mazuwa gose.
@@ -5524,7 +5525,6 @@ Ila wone uleche kilaha kowa hela gehile.
 Wilolele kudita kota vyowilahile kwa mlomo wa hegwe, mina nakumilahila Mkulu Nguluwi, Nguluwi wa hegwe, ne kukolwa lupichi.
 “Houkola kuli mgunda wa zabibu wa yomlingikalasa habehi, koweza kulya zabibu kota vyougana, ila uleche kubawa zabibu zeng'ha na kujela mchidoto cha hegwe.
 Houkola kuli mgunda wa mizuchila jilingulavya nyhule wa yomlingikalasa habehi uwele na miso koweza kukwanyula miso kwa moko na kulya, ila uleche kuhola sengo na kupuga miso ja heye.
-
 “Wone mlume kahola mdala na hamba kawa haviganile na heye kwa vila nakona chinhu chilingumbasa soni kwa heye, lelo ayo mlume nakamwandichila kalatasi ya luleko nakumha na kumuwinga haluga hake, hamba ayo mdala nakoka,
 na kuholeka na mlume yunji,
 wone ayo mlume wa keli hamganile na kumwandichila kalatasi ya luleko na kumha na kumuwinga haluga hake ama wone ayo mlume yabagame,
@@ -5679,7 +5679,6 @@ Hamchikala goya ne honhu ha kwesela hali wamwe wa wanhu awo. Ila Mkulu Nguluwi k
 Ukomu wa hemwe wowa na lunhwinhwi, nemisi na nechilo mowa mdumba na hamuwa na cha kitumbila kuli ukomu wa hemwe.
 Nhumbula za hemwe zodumba chila mbuli yomyona. Hamitondo molonga, ‘Wone na kuwe nemisi,’ nemisi loifika molonga, ‘Wone na kuwe hamitondo.’
 Mkulu Nguluwi kowahilusani Misili kwa meli, majendo nayelahile kota hamgadita kahi. Ako mojeza kiguza kwa wang'honyo wa hemwe leka muwe wapogozi, ila kuduhu munhu yowagula.”
-
 Awu ndo ulonzi wa ilagano liwele Mkulu Nguluwi nayawalajize Musa kudita na Waisilaeli kuli isi ya Moabu, konjezela kwa lila ilagano Mkulu Nguluwi naloyaditile na hewo kuchidunda cha Holebu.
 Musa nakawachema hamwe Waisilaeli weng'ha na kuwalonjela, “Namona mwemwe baho vila Mkulu Nguluwi navyoyaditile kuli isi ya Misili kwa Falao na vitumagwa wa heye na isi ya heye yeng'ha.
 Namona magayo makulu na ulajilo na vinduzanduza navyoyaditile.
@@ -5708,6 +5707,7 @@ Na chidichilo cholavigwa, ‘Ndo kwa vila nawabena ilagano lya Mkulu Nguluwi, Ng
 nawaluta kujikolela mijito na kujifugamila milungu jinji nahawajizelele aho katali, na Mkulu Nguluwi nahawapele.
 Ahyo, ng'halazi ya Mkulu Nguluwi naiwafika kwa chiwalo cha isi ayi na kuwegalila upanjilo weng'ha wandichigwe kuli chitabu achi.
 Na heye Mkulu Nguluwi, nakawosa kulawila kuli isi ya hewo kwa kuzudila na ng'halazi ng'hulu, nakawahilika kuli isi yinji kota vyoili lehano.’
+“Mbuli za uviso ndo za Mkulu Nguluwi, Nguluwi wa hetwe, ila gala gawele goyagubule ndo ga hetwe na walelwa wa hetwe mazuwa gose, leka tuwinze goya ulonzi weng'ha wa malajizo aga.”
 Musa nakalutilila kulonga, “Ndiwapani mhagule kuli utambichizo na upanjilo. Mbuli azo hoziwafika namwe mochijesa honeche homuwa msambalulwe hali wanhu weng'ha na Mkulu Nguluwi, Nguluwi wa hemwe.
 Wone mumhiluchile Mkulu Nguluwi, Nguluwi wa hemwe, hemwe na wana wa hemwe na mibatilile kwa nhumbula yeng'ha na muhe weng'ha ulonzi wa heye wondilinguwalajiza lehano,
 Mkulu Nguluwi, Nguluwi wa hemwe, kowahilusilani ukomu wa hemwe unojile na kuwonela isungu na kuwakungajiza kahi kulawila kuli isi nazoyawele yawasambalule.
@@ -27691,7 +27691,7 @@ Haduhu munhu yobela mbuli ayo. Lelo mnyamalile, mleche kudita choneche chila ne 
 Muwachema wanhu awa aha hanga hawaibezile ng'handa ya mlungu, kahi nekumliga mlungu wa hetwe wa chidala.
 Lelo wone Demetiliyo na wakola mijito wayage wana ga kutagusa ga kuwalapa wanhu awa, ha kuko mchitala, na wakulu wa mikoa, woweza kutagusigwa kuko.
 Wone muwele na nongwa zinji mzihiliche kuli nhing'hano itanganiche.
-Twahatagusigwe kwa kwambuza ivuche kwa galawile lehano. Ivuche ali halitanganiche na kutudita kulavya chila cha kunojeza ivuche alyo.”
+Twahatagusigwe kwa kwambuza ivuche kwa galawile lehano. Ivuche ali halitanganiche na kutudita kulavya chila cha kunojeza ivuche alyo.” Loyasindile kulonga ago, nakabena nhing'hano.
 Lila ivuche lolimalile Paoli nakawachema hamwe wala walanguswa. Hamba nakawalaga kaheluka kaza Makedoniya.
 Nakakolela honhu ha zila isi yowakangaza wanhu nhumbula kwa ulonzi winji. Hamba nakafika Ugilichi.
 Kula nayekale myezi jidatu. Loyali yochiwika goya kuza Siliya, nakavizela Wayahudi wangugana kumditila chinhu chihile, kahiluka kwa kukolela Makedoniya.

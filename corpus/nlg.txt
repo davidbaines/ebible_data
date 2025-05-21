@@ -926,6 +926,7 @@ Na bara ni vatu mana vatu sule eni
 tara tughuru ighobuda te vaughilalaa toro kabu koukolu ta dida na baubahu. Inau ku mua vulea na kobekobe eni ge ku labugho, mi ghoe ko mua vulea ge ko mai labuu inau.
 Inau ku holoa didira na God kukuamu Abraham ma nina God kukuagu Nahor - ke hea na totoro ahei itatada ke va vahaghitailia a sakai. Ma Jacob te gonia na baubahu tana matana nina God puku ni maana, a tamana Isaac, ge ke talumavaa na baubahu.
 Ma Jacob te nia hevei na sukaghi vania God. Me holora mai na vure subo ta nina vanga koukolu. Mi murina keri gaira tara ghahara so a sakai na bongi tana ghotu.
+Ma Laban te rarai minamina tana roropo ghana, agaia te nonginongira rana dalena na vinekama maira rana lei kukuana, me vautora. Keri ge pulohi tana komuna.
 Ma Jacob ma nina binaboli tara ghoi vuivunia so na rughuhoru, mara na nina angel God tara mai topoa.
 Mi tana bona Jacob te vaevanera, agaia te ngangaraha nia na hava me ghaghua, “Aeni nina bona ni kisumate God.” Keri ke, me vatua nina na bona keri Mahanaim.
 Ma Jacob te nira vetena nina vure lavibosa vania na hoghona Esau, tana butonikomu Edom (eruani ahana Seir).
@@ -958,7 +959,6 @@ Ma Jacob te huatia, “Ahei na ahamu?” Mana tinoni keri te bosatughu, “Na ha
 Me Jacob te haghua gaia, “Inau tu righia na matana mana ihuna God, mana volagu te talu olia sono.” Keri ge ke holoa nia na bona keri Peniel.
 Mete puaka dato mai tua na aho tana bona Jacob te rughuhoru sania Peniel. Ma God te vadikala sakai na bokena Jacob, keri ge sakutua tona soe.
 Ikakeri te ghaghua sughua itaeni na vure ni Israel tara mua ghania na vinahi lilighina na boke, na pukuna tara ghanaghana olia na hava te kale tana bongi keri.
-
 Mi tana bona hau mua, Jacob te righia va a Esau te mai kolura ara vati hangalatu nina mane.
 Ma Jacob te padalaghinira nina na binaboli ge kara haghara tana palapala, kolura nia erua nina na vinekama ni lutu maia rana lei daledira inaghodira, ma Leah ma rana dalena tara mai ruani, ma Rachel me Joseph toro sosoko.
 Ma Jacob te tona haliu me ghidevira. Mi tana bona te dutuvia ge sodoa na hoghona, ge poghotao e vitu na bona.
@@ -1709,10 +1709,6 @@ Ma gaira na lei mane goni butuli sorisori ni Egypt, tara nighi lutu didira na go
 Pharaoh te pulohi tana valena me lavi keha sokoi na lei ghanaghana tana liona.
 Ma gaira na vure ni Egypt tara gheli teke tana lilighina na beti tina Nile, ge kara hola beti ni inu, na pukuna kara mua inu tana beti.
 Me padi tua sakai na week imurina a Yahweh te liliua na beti tina Nile, ge ke liliu ni ghabu.
-
-
-
-
 Ma Yahweh te bosa vania Moses, “Ko ghoi pulohi ghua ta Pharaoh mo ko bosa vania, ‘Aeni gaia na hava te bosaa Yahweh, “Lubatira nigua na vure ge kara tona, na vaa holohabaagu.
 Ge toko hove ko vaovarongo uto mai, inau ku nia vetena mai na kulau ke subo me ke au, me ke vonughia na komu/butonikomu.
 Na beti tina Nile ke kilipopu/malasara kolura. Ma gaira kara dato mai tana beti, me ke mai ilokani na lei valedira, sughua ilokani na vokidira, mi vuvungani na ghimedira lei komu udolu i Egypt ke vonughira. Ke vonughighi ghua didira na bingiti mana popo vatu tara gonighi.
@@ -1741,6 +1737,10 @@ Ma Pharaoh te mina me holora Moses ma Aaron, me ghaghua, “E uto sono! Tona hal
 Ma Moses te bosa tughu, “Ke mua tangomana keri! Na vure ni Egypt kara mua liona na sukaghi kai taludatoa vaniana a Yahweh nimami na God. Ge takai taludatoi iani tara righighai igaa ke, igeva kara petaghai.
 Kai lavighi mughua e tolu na bongi na sakutua tona tana bona mamaha ge kai taludatoa na sukaghi vania a Yahweh nimami na God, te vagha te bosa vanighai.”
 A Pharaoh te bosa tughu, “E uto so, tona haliu. Ku tangomana ge ku lubatighau na vaa taludatoana na sukaghi vaniana a Yahweh nimiu na God tana bona aroha. Ma kau bei tona hau ngangata gea mina tua itaeni, ma kau kokoeliulivutiu.”
+Ma Moses te bosa, “Na dutuna te vagha inau ku tona ke, inau ku nongia Yahweh, ge ke lavikehara na ovu ni lango, ma kara tovongonitaghaadira vamua itamua maia na kulamu na vure. Mi nau ku vahegho na kokoe sule, ge ko bei tughua gea na liomu, mana hove pungisiadira na vure, na tona mana taludatoana na sukaghi vaniana a Yahweh.”
+Moses te sania Pharaoh me nongia Lord geke lavikehara na lei lango.
+Ma Yahweh te goni kalea na hava te nongia Moses, me haurakea na ovu ni lango ge kara taghara. Taho sakai na vavanga ke ghana olia ilokana na komu/butonikomu udolu.
+Ma Pharaoh te vahola olia so na tobana, me mua lubatira na vure ni Israel/Jew ge kara tona.
 Keri ge a Yahweh te bosa vania Moses, “Pulohi ta Pharaoh, mo ko bosa vania, ‘Aeni na hava te bosa a Yahweh na God didira rana Israel/Jew, “Lubatira nigua na vure ge kara tona ma kara tangomana na va holohabaagu.
 Ge toko nia tona haliu na hove pungisiadira tana lubatiadira,
 ku nia vetena mai na maemate te dika, ge ke dikalara lei nimiu na horse, donkey, camel, cattle, sheep, mana lei goat.
@@ -2112,7 +2112,6 @@ Ma ge na buluka mane eni ke matea siki seka mane pana seka vaivine, na tinoni te
 na tinoni eni ke pelua horua na volana va itatana na tinoni te loghoa na maumanu kiri, ma gaia tua ke loghoa na maumanu te mate.
 Ma ge siki buluka mane ke labumatea nina buluka mane siki kulana, rogaira udolu koro nia hunulu na buluka mane te vola, mo koro tuvali kaekagea na mateana tana ghobudira, mo koro tuvalia ghua na vinahina na buluka mane te mate.
 Ma ge kara ghilala tua na vure na buluka mane keri te asi me matamata ngangata me tona haliu so na mateadira na lei maumanu, mana tinoni loghoa te mua talu haghea tana piluna, gaia ke nia hevei sakai na buluka mane te vola, me holaa na buluka mane te mate.”
-
 Yahweh te bosa ghua, “Ahei ke gitoa nina buluka pa nina sheep pe ke matea, pe ke nia hunulu vania siki tinoni keha, ke tughu olia na buluka nia e lima na buluka pe ke gitoa na sheep ke, me ke tughua nia vati na sheep, ke tughui nia na sheep te gitoa.
 Na tinoni te gito eni ke tughu olia mughua na hava te gitoa. Me ke tinoni bona gaia, me mua loghoa siki nina totobo/lologho, kara hola gaia ma kara nia hunulu vaghaa na seka, ma kara hola na matena, ma kara pelu olighi nia hava te gitoi. Ke vagha na na buluka pa na donkey pana sheep, me ke mua matea na hava na maumanu vaghana te gitoa ke, ke nia hevei oli kolua nia erua te vagha keri te gitoa. “Ma ge na tinoni gito ke mai tana tana bongi, me ke haghe tana valena siki tinoni, mana tinoni logho vale ke sodoa me ke labumatea ke, na tinoni logho vale te mua hahi. Hauva ma ge na tinoni gito ke mai tana dani, mana tinoni logho vale ke labumatea ke, me ke mua uto te nea iga hoghona, me manana ge kara tangotoroa.
 <range>
@@ -2143,6 +2142,7 @@ Na pukuna gaia vamua tua na popole te loghoa ke poroa nia na hulina. Mi tana bon
 “Kau bei bosa tabuu inau nimiu na God, ma kau bei bosai na lei bosa dika vanira na lei mane naghomiu.
 “Mi tana bona kau heveioli ke, kau nighi heveioli vaniu mai na lei vuivuni ni vanga ta nimiu na leghai, maia ghua na kokolo ni olive maia na wine. “Kau nighi heveioli vaniu mai nimiu na mane kamanagho.
 Kau vahe oliu mai ghua na dale buluka mane, mana dale sheep mane. Tana bona kara sivuragha ke, kara kabu kolua ghua tinadira te vitu mua na bongi murina kara sivuragha, ma kara sukaghi vaniu mai ke alu na bongi [murina tara sivuragha].
+Ighau nigua na vure tabu. Keri ge kau bei ghanighi gea na vinahini na maumanu te matera na siki maumanu asi keha. Ighau kau vahera vamua tana lei kau, ma kara ghanighi.”
 Ma Yahweh te ghoi bosa vania so Moses, “Kau bei bosai gea na lei bosa sorisori ivuvungadira arahei na keha. Ma siki tinoni ke hanga na koti, ke bei bosa na hava te mua utuni, ge ke hanga na tinoni te mua maemane.
 “Kau bei nira udukolu na lei tinoni tara liona na goniana na totobo dika, pa ra bosaa na hava te mua utuni tana dete.
 Ma siki tinoni bona ke tona tana koti ke, kau bei nia pala ma kau hangaa, sakai vamua/[na pukuna] te bona.
@@ -13959,6 +13959,7 @@ Ighoe ko gotira nia na tali halo, mo ko kara tara te vaghara na kuki vatu.
 Mi taeni, ighau na lei vunaghi, kau talua na manaha te uto. Mi ghau tau uhuhuli tana maramana, tara bosa dila vanighau, ge kau bei ghoi nea na dika.
 Ko lutu vania Lord nia na ghanaghana mava mana mataghu, mo ko togotogo kolua nia na mataghu.
 Ko va hea dalena God na puku ni maana, na pukuna ke bei rutu gea; me ke havukaghinigho gea ighobudira tara tangohahi; na pukuna nina rutu ke tangomana ge ke vagha na pagana na vavuna na lake na pile bona vamua. Mi vei vaho te vagha na togotogo vaghana; ke vanira ara hei tara kenea na righitaoni itatana.
+
 Aghe Lord, ara subo na ghagua na levunimate; mara subo ghua tara tughuru pungisiu.
 Ara subo lee ghua tara bosa mara ghaghua: A God ke mua ghoi tangomana na hangaana!”
 Mi ghoe ghe Lord, a nigua na tako te pilupilu, ma nigua na lada itatana gaia te ghaedatoa na ulugu tana oka.
@@ -14049,7 +14050,6 @@ Rana tangohahi kara tona horu tana gilu ni mate. Aeni gaia na kakalena vanira na
 Ma gaira tara lio ni hahanga kara mua ghoi nira ponolio tua ke va me va. Ma didira na ghanaghanadila rana bona kara mua ghoi sonikeha.
 Tughuru dato age Lord! Mo ko bei lubatira na lei tinoni tara mua liona na taoniamu! Mo ko lubatira na lei kema ge kara dete ta nimua na kinakabu.
 Ko nera ge kara nia ribe na mataghu, age Lord. Lubatira ge kara ghilala agaira na tinoni gogoni vamua.
-
 Aghe, Lord, e ghua ge o sakai tughuru saghau? Me ghua ge o polo tana bona inau tu liomu ngangata?
 Na vure talu nagho mana tangohahi tara liona ge kara vunaghidira ma kara dikalara na bona. Lubatira ge kara hogho tana dika tara gonidila vanira rana keha.
 Ma gaira tara talutatei mai didira na lei lio dika; mara holoutora tara lologho au. Mara holoa mai na dika ivuvungana Lord.
@@ -14075,6 +14075,7 @@ Ma Lord te ghaha tana valena te Tabu; ma Lord te tona haliu so na huhuli ikokou.
 Ma Lord te tabotabora rana maemane maia rana tangohahi. Ma gaia te nira sika arahei tara dolovia na dika.
 Agaia te kovala horua inaghodira te ruruhu ivuvungadira rana tangohahi, me vahaghitailira nia na lake te ruruhu mana ruruhuni na lei ghuri.
 Na pukuna Lord te maemane; Keri ge agaia te dolovia na maemane. Agaira arahei tara gonia na maemane, kara righia na matana.
+
 Ko hahanga, Age Lord, na pukuna rana lei tinoni uto te nina ngangata na taghadira! Ma gaira tara ghalabutete tara tona keha tua tana maramana.
 A gaira na komukolu tara sopa koli vania sopasopa sakai tadira, mara nia kokoe na ghidu te uto mana toba te ghanaghana ruarua.
 Lubatia a Lord ke lavia vanira mai na ghanaghana mava ke sara tana sosokona; ma kara nia kabu vaovarongo didira na talu nagho tana lapidira.
@@ -14088,8 +14089,7 @@ Aghe Lord, ivei vaho ke vagha na hauna ko niu ponolio? Ke va me va? Mi vei vaho 
 Mi vei vaho ke vagha na hauna ku ghutu vevehea na vahaghitaili tana tarungagu, mi tana dikalio tana tobagu tughu bongi? Mi vei vaho ke vagha na hauna ge na ghagua na levunimate kara talu datoi na limadira?
 Ko ririu mai mo ko bosa tughu, Aghe Lord, nigua na God! Talugonia na marara mai tana matagu, na pukuna ge ku bei mate gea.
 Bei lubatira na ghagua na levunimate ge kara batobatou, ma kara ghaghua, “Ighai tai laga vulea gaia!” Mo ko bei lubatira ge kara togotogo tagua na kutu horu.
-Mi nau tu varava ngasi so ta nimua na dolo ke mua tughu. Mu ku nia togotogo na pukuna to lavi kehau.
-Inau ku linge vania Lord, na pukuna gaia te uto vaniu inau.
+Mi nau tu varava ngasi so ta nimua na dolo ke mua tughu. Mu ku nia togotogo na pukuna to lavi kehau. Inau ku linge vania Lord, na pukuna gaia te uto vaniu inau.
 Na vure bule tara bosa tana tobadira; “E taho siki God.” Gaira tara vatei sikagha, na nilabudira te dika; me taho ahei itadira ke gehegehe uto!
 Ma Lord te rei horu mai kokou tana vuvungadira na lei tinoni; gaia te rei mai ge ke righia siki sakai ke loghoa na puku ni manaha, siki sakai te kene taonia God.
 Hau va me taho, gaira udolu tara ririu keha sania God; Gaira udolu tara vuha dika. Taho ahei tadira ke gehegehe uto!
@@ -14128,6 +14128,7 @@ E vaghara na lion te vitolo, ra liona ge kara pilepilea na huligu; vaghara na le
 Ko tughuru, Ghe Lord! Hughutira mo ko lagavulera na ghagua na levunimate! Vavolau nia nimua na isi itadira tara dika.
 Vavolau nia na limamu te maana, Ghe Lord, itadira tara liona ge kara loghoi na lei totobo ni maramana. Ko torora nia na vahaghitaili to gonidilaa vanira; Ko nea na dete mana totoro ke tona haliu itadira na lei daledira mana kukuadira.
 Na pukuna inau tu mua gonia siki hahi, inau tu mua gonia siki hahi, inau ku righigho. Tana bona ku rarai mu ku tughuru ke vonughiu na togo, na pukuna ku righia na matamu.
+
 Inau tu dolovigho, Lord; Ighoe a nigua na pilupilu.
 A Lord, nigua na vatu ngasi, nigua na bona ni polo, ma nigua na vavola; nigua na God a nigua na vatu, itatana tu topoa na pilupilu. Gaia nigua na tako, te pilupiluu me righitaoniu.
 Inau tu holoa va Lord, te manana na holohaba, na pukuna gaia te vavolau itadira na ghagua na levunimate.
@@ -14249,7 +14250,6 @@ Gaa Lord te vunaghi haba! gaia te vunaghi pungisira na lei kema tana maramana.
 Lubatira na lei tinoni lologho tana maramana kara kikinima. Lubatira na tinoni tara vahura ge kara mate, kara poghotao tana matana.
 Na lei vavata ke mai kara lutu vania Lord. Na lei daleda kara rongovia nina lutu Lord te haeharegha.
 nina gehegehe maemane kara tughunitatea vanira tara mua vahura mua. gaira kara rongovighi na lei totobo te gonighi.
-
 A Lord nigua na vatogha; Inau ku mua kenea na hava te liogu.
 Gaia te lubatiu ge ku aheahe tana buburu maumauri; me uhuliu va tana daidari ni beti maghora.
 Gaia te vaheu na laga vaolu. Gaia te huliu tana halautu maemane, ge ku nia kikinima na ahana.
@@ -14334,6 +14334,7 @@ Na talama ni mangana Lord te anuanua na lei bona aroha me nea ghua na bona aroha
 Na talama ni mangana Lord te voghalaghighi na lei ghai sule me kakarai na lei leao, Mi tana Valetabu rana vure kara ngingili dato ma kara ghaghua, “Holohabaa God!”
 Ma Lord te sopou vuvungana na maraghata, Ma Lord ke sopou vaghaa na vunaghi haba. [gaia na vunaghi haba te vunaghi pungisi ke va me va.]
 Ma Lord ke nia hevei na laga vanira nina vure me ke vautora nia nina dolo.
+
 Mi nau tu nigho kikinima Lord, na pukuna to ghate datou, mo mua lubatira na ghagua na levunimate ge kara laga vuleu.
 Ma Lord nigua na God, Inau tu tangi vanigho ge ko hangau, mo vuha kisu volau so.
 Ma Lord te lavi olia na tarungagu mai i betidalo me righi tao niu so ge u mua tumu haghe ilokana.
@@ -14371,7 +14372,6 @@ Holoutoa Lord, te tatea nina dolo vaniu, te righitaoniu tara suravia na komugu.
 Nigua na mataghu, tu ngangaraha dato vania ra pusi kehau tatana Lord Hauva mo rongoviu so nigua na tangi ni veiarovi, me bosa tughuna nigua na hoholo ni hahanga.
 Kau dolovia Lord ighau rana maemane pile. Ma Lord ke righi taonira tara varava ngasi tatana na pukuna ara hei tara mua varava ngasi tatana ke torora.
 Ka laga ma kau tughuru ngasi. Ighau tau talua nimiu na ghanaghana kodo tatana.
-
 Ke togotogo gaia te talu kehai nina vaghivaghiliu na paluna tara talu kehai me ke mua righighi
 Eo, ma Lord God te vautora, te mua idumi olighi didira na hahi, me kabu maemane tana volana.
 Tana bona tu mua liona ge ku tughunitatei na palugu; u labe me dikahaghiniu ge u mua laga tana dani udolu.
@@ -14405,6 +14405,7 @@ E lavi olira mai tana mate! Me righitaonira tana bona ni vitolo
 tatana Lord vamua tai ghanaghana kodo ge ke vola ghai gaia heghena vamua ke hangaghai me ke kuvi takomami.
 Itatana gaia na tobamami te rivurivu mai talumava na ahana te tabu.
 Lord God/YHWH, ighita ta varavai nimua lei baubahu, keri ke lubatia nimua na dolo te talighutighita haia.
+
 Inau ku holohabaa haia Lord: mu ku bosa haia na holoutoana.
 Mi nau ku kokoe tate vania Lord: ma rahei tara mua uto kara loghoa na toba te uto.
 Mai ma ka talu tatea nina rongoragha Lord. Ma ka taludato koukolua na ahana.
@@ -14427,7 +14428,6 @@ Ko righi taonia na lapimu mo ko righi taonia ghidumu ge ke bei bosaa na kiko.
 
 
 Na maghutu te vavola nina tinoni ni lutu: Mara hei tara taluutunia kara mua sivi.
-
 Ko niu pala, Ghe Lord, itadira tara veitotoghoni koluu ko vesera ara hei tara veseu inau.
 Ko tabe na tako mana kadu; gonidila ni vese, mo ko mai niu pala kolu.
 Ko tabe datoa nimua na tinabe: mo ko pitudilara tara sama taoniu: bosa vania na tarungagu: Inau nimua na mana ni vola
@@ -14456,6 +14456,7 @@ Ko bei taladia gea ge kara bosaa tana tobadia, “Righia a lavia tua na hava ta 
 Gaira tara togotogo na pukuna inau tu vahaghitaili, me uto vanigho ge kara maa ma ka bule mu liodira ra hei tara bosa tara uto vuleu inau Kara haba ni maa va, ma kara vaevane vesikana tana mata ni tinoni.
 Ra hei tara liona ngangata ge ku talu tateu inau sakai na tinoni uto, kara togotogo ma kara ghaeghae dato. E uto ge kara ghaeghahe dato haia te vagha ke, God te haba vule ngangata, me ke nia togo nina tinoni ni lutu te kabu tana vola te uto.
 Mi nau ku bosa tatea na nilabumu te maemane mi nau ku holoutogho haia tana lei dani, vuivuni tara puipungi me ke saravia na bongi.
+
 Na pulu te vaevare lokana haia te tangotangodika: me rorodo na matana ge mua nia kikinima God.
 Ra ghanaghana God ke liouto vanira so tana palu tara gonighi; Mara vaevane olia ivei te vagha na dika ia tara nei.
 Na hava tua tara bosai nia na mangadira te dika, me vonughia na sori: ra mua liona ge kara uto ma kara gonia na totobo te maemane.
@@ -14468,7 +14469,6 @@ Ighoe na vuravura ni beti ni vola: mana bulu ge kai vaevanea na marara.
 Ko kovala horua nimua na dolo i vuvungadira tara dolovigho: Ma nimua na dete itadira te marabu na tabadira.
 Ko bei lubatia na tuadira na lei tinoni talunagho ge ku nia saisarikiba, ma rana dika kara bei pili koliliu gea.
 Ma gaira tara tangotangodika tara kutu horu, ra soni horu va ma kara mua tangomana na ghoi tughuru dato.
-
 Ko bei rutu gea na pukuna rana tangotangodika: mo ko bei nira sika ahei te gonia te dika.
 Kara malu horu vagha na buburu: Ma kara sesebe vaghara na lei tautalu maumauri.
 Ko varava ngasi tatana Lord: Mo ko gonia na hava te uto, ko kabu tana pari tu vahegho, mo ko vola.
@@ -14509,6 +14509,7 @@ Ko righia gatu na nilabuna na tinoni te maemane kolua nia na tinoni uto te logho
 Mara hei tara gehegehe dika kara taghara udolu ma daledira tara gehegehe dika taghora tana sosoko.
 Ma Lord ke volara tara gehegehe uto, gaia didira na vatu tana bona ni gunaguna.
 Ma Lord ke hangara me ke lavi olira tatana te gehegehedika, ke volara mi tatana vamua kara sodoa na beala ni ahevata.
+
 Lord ko bei kokoe laga vaniu tana bona ko rutu: mo ko bei torou gea ta nimua na rutu papara.
 Nimua na kuali tara vauvausuka haghe tagua: mana limamu te saro horuu nia mai so.
 Na pukuna nimua na rutu: na huligu udolu tara vahaghi: me mua mahebo na volagu na pukuna na lei palugu
@@ -14589,12 +14590,12 @@ Na pukuna na lei dani soko na Lord te mua mautu na kovala horuana mai nina dolo 
 “Ghe God, nigua na vatu ngasi,” tu ngangaraha “E ghua ge o nia ponolio? E ghua ge ku sakutua kolili itatana pungi, ge kara gunaliu ga na ghaghua na lei levunimate?”
 Didira na ghanaghana ni gunaliagu te vagha ke togo potaa na volagu tana mate. A gaira tara batobato, “Ivei agaia nimua na God?”
 E ghua ge u lio kihi ngangata? E ghua ge o dikalio? Inau ku varavaghinia nigua na ghanaghana kodo itatana God! Inau ku ghoi holohaba so gaia nigua na God mana vavolagu!
-
 Ghe God, Ko tatea vaniu na kabu marabu, mo ko pilupungisiau itadira rana lei tinoni tangohahi, Ko vavolau itadira na lei tinoni sorisori mana tangotangodika.
 Na pukuna Ighoe nigua na God, Nigua na vatei vola itamua. Me ghua ghe o tona saniu? Me ghua ge u sakutua kolili tana pungi mi tana ungaunga ni mate, itadira tara niu ghighirou tana lei ghaghua na levunimate?
 Mo nira vetena rughuhoru mai nimua na marara mana utuni. ma kara righitaoniu lubatira ge kara liuliu va ta nimua na ghotu tabu, va tana bonamu to ghahagho iga.
 I kakeri ge ku tona ta nina malei sukaghi God, Mi ga ta God te butu ni mai na rivurivu mana togotogo. Inau ku holoutogho nia na tigitigi ge God, nigua na God!
 E ghua ge o dikalio ngangata? Inau tu talua nigua na ghanaghana mava itatana God! Inau ku ghoi holoutoa so agaia na pukuna gaia na vavolagu mana nigua na God!
+
 Ghe God, Ighai tai rongovighi nia tua na lei kulimami te vagha tara bosai vanighai na lei kukuamami tana hava to gonia itatana balu bongi te padi tana tualani mai.
 Te vagha to nira ga na ghuru horua dira rana voo tana lei sopa kemadira mo vahera na pari rana lei kukuamami Ighoe to vahaghitailira ta ghadira na levunimate, mo nira na lei kukuamami mara tatavahale.
 A gaira tara mua manangi vulea na pari nia didira na isi Me mua didira na laga heghedira te nera ge ra nia laga vule. Hauva ma nimua na puku ni maana ge ra nia tangomana. nia na pukuna to lio uto vanira mo tatea nimua na dolo itadira.
@@ -14697,7 +14698,6 @@ Mi tana bona ni mateadira, Gaira kara mua ghoi lavia diki totobo kolura. Ma didi
 Tana bona ni volana te togotogo ta nina ghanaghana heghena; Mana maramana te nia ghuu na togotogo ta didira na lutu uto.
 Ma gaira kara mate te vaghara na balu. Ma kara mua ghoi righia ghua na marara.
 Na vure tara nia talunagho didira na lologho tara mua ghilala agaira kara mate te vaghara vamua na lei maumanu.
-
 A Lord God puku ni maana te bosa, me detera na lei tinoni tana soghaana mai ga na aho, maia te va huu iga.
 Tana ghotu i Zion te vatei ghagharugha iga God te mararaa nia na marara uto.
 Ghada na God, te nia dutu mai na [dedemo]/[talamo] ni viviha na lake ke durake na lei totobo i naghona mana gutuveve ni maraghata sule ke talighutia.
@@ -14721,6 +14721,8 @@ Ighoe o sopou kolili ni bosa pungisiana na hoghomu, Na pukuna dalena tinamu hogh
 Tana bona to gonighi na lei totobo udolu raeni ke, Inau tu kabu todore, mo ghanaghana ighoe tu mua nia ghaghua na hava: mi taeni inau ku tatei na lei nimua na hahi, mu ku gegerei na lei nigua na totobo i vuvungamu.
 Kau tughui na liomiu. Ighau rahei tau mua ghanaghana God, ku vuti keha ghau gea, me taho siki sakai ke vavolaghau.
 Mana niana hevei na holouto gaia keri na sukaghi ni talumavaagu. Inau ku talutatea vanigho a nina maana ni vola a God.
+
+
 Ko aroviu, Ghe God, Na pukuna nimua na dolo mana lei uto tara subo Ko hola kehai na lei nigua na hahi.
 Ko apo marabu utou ta nigua na tangohahi: Mo ko marabui tana lei palugu.
 Tu ghilalai na lei nigua na gehegehe te vatei maamaagha tu gonighi tara kene taoniu tana dani mana bongi.
@@ -14752,13 +14754,13 @@ Vaevanera vaa na lei mane sutusutu sule ngangata na hava te kalera tara mua logh
 Mi nau te vaghau na ghai tara vatua nia na Olive Te totolo me kotukotu i lokana valena God. Inau tu talu mavaa a nina dolo a God te mua soko buto, ke va me va
 Inau ku bosautogho ke vaa me vaa ghe God nia na lei totobo te gonighi. Inau ku polopitua nimua na lei veiarovi. I naghona na matadira nimua na vure.
 
-
 A gaira tara bule vamua tara bosa mara ghaghua tana tobadira, “Te tahoa God,” A gaira tara sonia na uto mara tona va vania na dika, mana lei ghanaghanadira te dika. E taho tua siki sakai ke gonia siki uto!
 God te vaevane horu mai i kokou, i vuvungana na vinavahuhu ni tinoni. A gaia te vaevane horu mai ge ke vaevane sodoa ge a siki sakai so na puku ni ghanaghana manaha. Ge siki sakai te kene taonia God.
 Hauva ka me taho, Agaira udolu tara ririu keha vania God. A gaira udolu tara vuha sania na uto mara tona va vania na dika. E taho tua siki sakai ke gonia siki uto, hughua a sakai na tinoni te taho!
 Kara mua tangomana tua na naunau ta didira na hahi a gaira tara gehegehe dika? A gaira ta ghani soko laghinira tua nigua na vure vagha na berete Ara mua tangomana tua na ghanaghana ni kokoeliulivuti vaniana God.
 Hauva, mana mataghu ke ngasilira agaira, na mataghu te vaghaa tara mua ghilalaa mai mua i dania God ke havukaghinighi na hulidira na ghamua na kana Ighoe ko talura tana vati mamaagha nia a God te soni kehara tua vaghara tara dika gaira.
 Tu liona na vatei vavola keri sogea ke va mai tana ghotu Zion ke vavolaa Israel! Nia tana bona God ke ghoi talugoni olira nina vure Jacob ke nia ghaghua vola na togotogo, me Israel ke rivurivu.
+
 
 Ko nia mai kolu na mana te laga, Ghe God, mo ko vavolau na levunimate! Ko pilupungisiu nia nimua na maana te laga.
 Ghe God, ko rongoviu ta nigua na kokoeliulivuti. Ko kabu vaovarongo mai ta nigua na nongi papara.
@@ -14767,7 +14769,6 @@ Hauva ka, ma God a nigua na hahanga A gaia Lord te pangotiu ge u vola!
 Ko nighi didira na lei padalaghi ni dika na ghagua na lei levunimate ge ke ririu pulohi vanira. ko gonia te vagha to nia baubahu tua mo ko soko laghinira.
 Inau ku ni sukaghi nigua na hevei oli heghegu gatu vanigho. Inau ku holoutogho na ahamu, Ghe Lord nia te uto te vaghaa.
 Nia ighoe ko vavolau ta nigua na lei vahola tara kauliu. Mo hangau ge ku laga vulera na lei ghagua na kana.
-
 
 Ko rongoviu ta nigua na kokoeliulivuti, Ghe God. Ko bei nia hughu a nigua na tangitangi ni hahanga.
 U bongi ngangatagho ge ko vaovarongo mo ko heu na bosa tughu a nigua na lei vahola kaukauli tara au vule ngangatau tua.
@@ -14849,6 +14850,7 @@ Ra kenea na vanga kara ghania, ara mua mahu mara sosoko ni maturu.
 Mi nau ku nia lingelinge nimua na maana. Ku nia ghughu na togotogo tughu puipungi nia na pukuna nimua na dolo te mua soko buto. Ighoe a nigua na bona ni polo. Na bona ni vola tana bongi ni kanoragha.
 Ighoe, a nigua na laga, Inau ku linge holohaba vanigho vanigho ighoe ghe a God, a nigua na lei bona ni polo. Na God te talutatea vaniu na dolo te mua soko buto.
 
+
 Ighoe to nighami sika, Ghe a God, mo goat horua a nimami na pilupungisi. Ighoe to rutu vanighai; ko talugoni ghai ta nimua na kulakulagha itaeni.
 Ighoe to anuanua na pari ni komumami mo labu vuha ma hahangavi. Ko tila kolu na lei bona tara ghaghe [ghavo] ge kara bei tumu keha udolu.
 Ighoe to rutu papara vanighai tana lei bona te padi, mo nighai ge Ai inuvia na wine te nighai ge u bule na mamahamami.
@@ -14861,7 +14863,6 @@ Ma hei ke lavi hagheu tana komu sule ni lagalaga? A hei ke heu na laga vuleana E
 
 
 Nia nina na hahanga God, Ighai kai gonighi na lei totobo sule ngangata na pukuna ke turi bita horura na lei ghamami na kana.
-
 
 Ko varongohia nigua na tangi, Ge a God! Rongovia nigua na kokoeliulivuti!
 I tatana na lei sosokona na maramana, Inau ku tangi vanigho nia na hahanga, Na vahaghitaili te au vulea na tobagu, ko huliu vaa ta nimua na baravatu te datogha na vatei pilupungisi.
@@ -14921,7 +14922,6 @@ Ighoe to nighi na lei bona ni Subasuba tara maghura babui ge so bongighi na beti
 Ighoe to vahea na pitiulu ni togotogo na niulu nia na mola ni ghegheli mana siosio; Sughua na malei sakutua te ngutu te vonughia me au vule.
 Na tautalu asi te liliu me vaghaadira na buburu maumauri na lei maumanu, mana lei lighilighi ni ghotu te vonughighi na togotogo.
 Na lei bona okaa ni buburu maumauri tara pupulua nia na lei ovuovu ni Sheep, mana boboko tara harai nia na vuavua. Agaira udolu tara ghaeghahe dato mara nia lingelinge na togotogo.
-
 Na lei maramana talighu, ko nia ghaghua dato na holouto togotogo vania God.
 Lingea na ladana mana rongoraghana na ahana! Talutatea vania na maramana udolu na rongoraghana.
 Bosa mo ko vania God, Ivei vaho tua te vagha a mavani nimua na lei gehegehe! Ghamua na lei kana tara mataghu vaghara na kau polo ighuna ta nimua na mana te laga au vule.
@@ -14942,6 +14942,7 @@ Inau tu nia ngangaraha dato vania na hahanga, mu holoutoa tana bona tu kokoe.
 Ge ku mua toghia na palu tana tobagu, a nigua na Lord, ke mua ghoi rongoviu.
 Hauva ka, ma God te varongohiu! Agaia te kabu varongohiu ta nigua na kokoeliulivuti.
 Holoutoa God, te mua nia hughu nigua na kokoeliulivuti, me mua lavi keha a nina dolo te mua soko buto itagua.
+
 God ke arovighita me ke va tabu ghita, Me ke tatea na marara ni matana nia na kulakulagha i vuvungada.
 Ma ge na lei nilabumu kara ghilalai talighutia na maramana mana nimua na maana ni vavola tana lei baebasena na maramana.
 Na lei kema kara holoutogho ghe God. Eo, na lei kema soko kara holoutogho.
@@ -15028,7 +15029,6 @@ Ko niu Inau ge ku laga vulera agaira tara mina na durakeagu ge kara nia vatei ma
 Ko lubatira ge kara nia kanoragha didira na maa, Nia tara bosaa, “Aha! Ighita ta labe kalea tua.
 Ge ara hei kara kene taonigho ighoe kara nia vonu na togotogo mana rivurivu. Ma ge agaira tara dolovia nimua na maana ni vola kara ghughu talu, ma kara ghaghua, “God te haba vule!”
 Hauva ka, mi nau tu bona mua liona na hahanga, U nongi ngangatagho Ghe God, ko mina mo ko diki heu na pile hahanga. Ighoe a nigua na hahanga mana togho luvu, Ighoe Lord, ko bei motomoto.
-
 Ighoe a nigua na hahanga ni vola, Ghe God, ko bei lubatiu ge ku nia kale torotoro.
 Vavolau tana vahaghitaili, ko pilupungisiu itadira na lei ghagua na kana; Ighoe to maemane, ko talu kulimu mai itagua ge ko varongohiu, mo ko niu tatavahale tana kaukauli.
 Ge ke vaghagho na vatu ni pilupungisi vaniu, to lavipangotiu haia iga, ko nia hevei na bosa ni vevetena ge ke vavolau. Ighoe nigua na vatu ngasi mana vatei tuturi kauha.
@@ -15124,6 +15124,7 @@ Mo ko ghanaghana na baubahu te bahu ghai nia: na gunaguna te kale tana lei piuna
 Ko bei nera rana vahaghitaili ge kara maa ma gaira rana bona maia te ulaghadira na hahanga kara holohabagho.
 God ko tughuru tate mai, mo ko nia barebare nimua na levu. Ko ghilala rana bule, tara kiahaghinigho tana dani udolu.
 Ko bei nighi ponolio didira ge u ni rutu ghamua na kana. na talama ni mangadira te tona haliu so.
+
 Ighai tai holoutogho ighoe God. Ighai tai holoutogho ma Ai ladavaghinia nimua na rongoragha: mi ghai tai bosai na lei totobo uto to gonighi tua.
 God te bosa, “Inau tu talua tua na bona ni dete: Inau ku detera rana dika nia na maemane.
 Tana bona te aleale na maramana mana vure te kanoragha, Inau so tu tabe ngasilia na berena.
@@ -15168,7 +15169,6 @@ Na parako te kovala horui mai na uha, mana oka te nia tagumu. na viviha ragiragi
 Nimua na viviha te tagumu mai loka ni ghuri, Na viti te bulua na maramana. Na pari te tatata me aleale.
 Ighoe to liu pota na tahi, mo sogha halavua na tahi oka mana marevomu te mua righia tua ahei.
 Ighoe to hulira kulamu na vure vaghara rana righitaoni Sheep Kolura Moses ma Aaron toro hulira ghua.
-
 Ghau kulagu na vure, kau rongovia mai nigua na tarai. kau rongovi utoa mai na hava tu bosa.
 Inau ku kokoe vanighau nia na bosa vavaghaha. Mu ku bosa madalai na lei bosa te polo mai dania.
 Na lei tutugu ta rongovighi, ma ghilalai mai tua, na lei tutugu tara tutugui vanighita na lei kukuada mai dania.
@@ -15254,6 +15254,7 @@ E ghua na lei kema ge ra huatighai, “Ivei nimiu na God?” Ko tatea vanighai n
 varongohia na tangi ngurunguru ni vure tana vale pipiti, ma nia nimua na maana te haba, ko vavolara tara dete matera.
 Maghutu; ko hera na totoro haia tua na lei kema, nia na lei bosa dika tara nei vanigho.
 Ighai kulamu na vure a nimua ovu ni Sheep, kai holoutogho ma kai holohabagho haia tua tana lei vavata mana vavata.
+
 Ighoe na vatogha sheep ni Israel, to hulira na vure Israel vaghara na ovu ni sheep, ko rongoviu ma. Ighoe to kabu ta nimua malei sopou ni haba i vuvungadira na lei maumanu ghatagha.
 Ko tategho heghemu vanira na kema ta Ephraim, Benjamin, ma Manasseh. Ko tatea vanighai mai nimua na lagamu mo ko vavolaghai.
 ko ghoi lavi olighai gatu itamua ge God: Ko tatea vanighai mai nimua na dolo mo ko volaghai.
@@ -15290,7 +15291,6 @@ E liogu sughua kara rongovia na bosagu, kulagu na vure! Me liogu sughua ghua kar
 Keri ke, ge ku mina kuku lagavulera ghadira na kana! Mu ku pisura ghadira na levunimate!
 Gaira tara niu sika kara kikinima vaniu nia a Lord vamua, ma kara lavia na totoro ke va me vaa.
 Inau ku kutighau nia na lei puku ni vanga: mu ku mu inuinughau nia na midua ni talu.
-
 God te sopoulia na dete i kokou: me nia hevei horu mai nina bosa ni dete te detera, rana ovu ni dete i kokou:
 “Ighau rana dete, kau sania na dete sorisori? Ma kau bei nira pala rana dika, tau nighi hevei horu nimiu na bosa ni dete!
 Kau na barebare na uto vanira rana bona, ma tara mua tinagha ma ra tamagha: kau kage utoa vanira te manadira na hahanga, ma gaira te taho siki sakai ke hangara.
@@ -15299,6 +15299,7 @@ Gaira kiri tara mua manahagha, mana vahaghitailira na tinoni, na pukuna tara sak
 Inau tu bosa, “Ighau ke na lei god, tau tabe tughua God tana dete ni maramana. Ighau udolu dalena na Haba i kokou.
 Kau mate udolu vaghara na lei tinoni soko, ma kau tumu vaghaa so siki dale vunaghi.”
 God, ko mai, mo ko detea na maramana: a nimua udolu ighoe na lei kema soko.
+
 God, ko bei sopou beto mo ko [bei] hodo, Ko bei kapu na mangamu.
 Ko rongovira ghamua na kana tara gunaguna, gaira tara nigho sika tara hughuhughu kolugho.
 Gaira tara goni poloa siki totobo dika vanira kulamu na vure: Mana palongira gaira to righitaonira ighoe.
@@ -15344,7 +15345,6 @@ Na dolo mana utuni toro topokolu tua: na uto mana mabo toro tabelima ghua.
 Na [utuni]/[taluutuni] ke suaka dato mai tana pari: mana [uto]/[maemane] ke reihoru mai kokou tana parako.
 A Lord te heghita na lei totobo uto, me nia dida pari ge hali gaa na vanga.
 Na [utuni]/[maemane] ke idevia a Lord, mana halautu ke gonidila vania.
-
 Lord, Ko rongovia nigua na kokoeliulivuti: ko hangau mai na pukuna tu mua laga, me taho tua hei ke aroviu.
 Ko volau tana mate, na pukuna tu nimua puku ni tinoni: ko volau, tu nimua ghairau, mu ghanaghana kodo itamua, ighoe nigua God.
 Ighoe a nigua God, ko aroviu: tana bongi udolu tu kokoeliulivuti gatu itamua.
@@ -15369,6 +15369,7 @@ Inau tu ghilalara na kema ni Egypt, ma rana Babylonia, gaira ghua na balu, tara 
 Jerusalem kara nia bosa, “Na vure udolu tara va komu tua igaa.” ma gaia te haba vule ke vautoa na komu sule keri.
 Mi tana bona ke gerera na lei kema a Lord ke, ge ke bosa, “A eni gaia na kema ke haghe mai Jerusalem.”
 Tana lei bongi ni gougonu, kara ghavai ma kara linge na vure, “Na volagu te vuravura mai Jerusalem.”
+
 Lord God, ighoe to huioliu, inau tu tangihia nimua na hahanga tana bongi mana dani.
 Ko rongovia nigua na kokoeliulivuti, mo ko talu kulimu mai ta na tangi.
 Na volagu te vonughia na gunaguna, me dutuviu tua na mate.
@@ -15440,7 +15441,6 @@ Lord, ivei gaia nimua na vuivuni ni dolo? To bosaa vania David, ta nimiu padalag
 Ko ghanaghanaa, ivei tara nea na bosa dikalaamu, inau nimua na ghairau.
 Lord, ghamua na kana tara bosa dikalau, ra bosa dikala gaia to vilia, mo siusiua tua ge ke vunaghi haba.
 Holohaba a Lord, ke va ma vaa, Amen ma Amen.
-
 Lord, Ighoe na valemami haia, te hau mai tua.
 I naghona to gonighi na lei ghotu, po gonia na pari mana maramana ighoe to God haia tua.
 Ighoe to bosa vanighai ge kai oli tana hava tai va butu mai ga, mo riu olighai tana pughu ni pari.
@@ -15474,6 +15474,7 @@ Ighoe ko turibitara na lei kau ghaghala mana lei poli, na lei kau mataghugha man
 God te bosa me ghaghua, “Inau ku volara gaira tara doloviu, mu ku righitaonira gaira tara taluutuniu inau a Lord.
 Tana bona kara holau inau ku tala vanira, mi tana bona te kalera na vahola, inau ku kabu kolura, ku volara mu ku talu mavara.
 Inau ku tabora nia na vola daro bona, mu ku volara ghua.”
+
 Lord, E uto sughua na holoutoamu nia na linge ni holohabaamu ighoe God to Haba i kokou.
 Ladavaghinia nimua na dolo tona haliu tughu roropo, mana volamu te utuni tana lei bona na aho te bongi.
 Nia na lei lingelinge ni ghalevu mana ukalele, mana lei talama ni tigitigi ghua.
@@ -15489,7 +15490,6 @@ Rana uto tara katukatu vaghara na lei ghai cedar ni Lebanon.
 Gaira te vaghara na lei ghai tara subara lokana valena a Lord, mara haga lokana nina valetabu dida God.
 Tara vangagha so tara haulaghi manaa, gaira tara laga vaghara so na ghai vaolu.
 Keri te tatea a Lord te maemane utuni me taho siki totobo ke hahi i tatana.
-
 A Lord na vunaghi haba, gaia tara pupulua nia na malei haba mana laga. Gaia te kabulaghi ngasilia na maramana tana malana me ke mua ghoi gharadu tua.
 Lord, nimua na malei sopou te kabu ngasi mai tua, mi ghoe to puputu tua ge vuivuni na maramana.
 Lord, na lei tahi oka tara tagumu mai, gaira tara tagumu mara karaha longa.
@@ -15585,6 +15585,7 @@ Inau ku lavi kehaa a hei te bosadika, polopoloa na ahana siki sakai, mu ku tiva 
 Inau tu holoutora gaira tara lutu utuni vania God, mu taladira ge kara ghanara lokana na valegu. Gaira te utuni haliu na voladira, tu taladira ge kara ghairau vaniu.
 Gaia te sorisori ke mua ghanaa lokana na valegu, ma gaia te pego ke mua kabu i lilighigu.
 Inau ku durakera tughu bongi rana dika lokana na bonada, mu ku tivara rana tangohahi tana komuna a Lord.
+
 Lord, Ko rongovia nigua na kokoeliulivuti, Mo ko talu kulimu mai ta nigua na tangi ni hahanga.
 Tana bona te kaleu na gunaguna, ko bei ririu keha vaniu. Ko rongoviu mai mo ko mina bosa tughu vaniu mai tana bona tu hologho.
 Na lei bongigu udolu tara mina soko vaghara na lei ahu. na huligu te vavu, vagha na ghai te vavu.
@@ -15613,7 +15614,6 @@ Lord, Ighoe to kabu kasila, me hau mai tua to puputua na pari, mana limamu to lu
 Gaira kara taghara mi ghoe ko ghanagho so, gaira kara meto vaghara na lei tivi haulaghi kara [motu]/[tughui].
 Mi ghoe to mua ghoi keha tua na reireimu, mana volamu ke tona haliu so,
 Na lei dalemami kara kabu lokana nimua righitaoni mana pilupungisi, mana lei vinavahuhudira kara kabu sarana nimua podopodo.
-
 [Lameagu]/[tarungamu], ko vautoa a Lord, na lei hegohego udolu tua i lokagu, kau vautoa na ahana te tabu.
 [Lameagu]/[tarungamu], ko vautoa a Lord, mo ko nei nia ponolio gea nina dolo gaia.
 Gaia te talukehai na lei palugu, me kisu ghaotai na lei vahaghigu.
@@ -15807,6 +15807,7 @@ Ma Yahweh te nia sika na vinahogho tara vahaghitailira, ge ra ole sebala tana bo
 Hauva, me volara na bona ta didira na vahaghitaili, me suboi didira na binaboli te vagha na ovu ni sheep.
 Ahei tara reirei kale kara righia ma kara togo, ma gaira tara dika kara todore.
 Ma gaira tana manaha kara lavipangotighi raini tana tobadira, ma kara righia tana vavatada nina dolo Lord te sule.
+
 Ghe God, na tobagu te nia varava itamua, mu ku linge nimua na linge ni holouto! Rarai na tarungagu!
 Inau ku avehia na labota nia nigua na linge, mu ku ni rarai na ghalevu mana uvete.
 Yahweh/Lord, inau ku holoutogho, tana matadira na lei tinoni. Mu ku linge holohabagho ghobudira na lei kema.
@@ -15820,7 +15821,6 @@ Ighoe Moab nigua na tinoni lutu sasara/seka, mi nau ku sonia na hahara ni marevo
 ?Ghe God, o nighai sika tua? ?Ko mua nira udukolu tua nimami na ovu ni kisumate?
 Ko hangaghai tana ghamami na [lei] levunimate, na pukuna na hahanga ni tinoni te totobo lee vamua.
 Ma nia nina hahanga God, ka gonighi nia na lei totobo haeharegha, me ke turi horura ghada na levunimate.
-
 God, inau tu holohabagho, ko bei tughuru beto sagauviu gea,
 tana bona na lei tinoni dika tara pasapasau, mara niu tutugu sorisori.
 Mara talighutiu mara niu sika nia na bosadira, me taho pukuna tara hughuhughu koluu nia.
@@ -16329,6 +16329,7 @@ Lord, ku nia sika mughua ra hei tara nia sika ighoe. Mu ku nia sika rahei tara h
 Eo, ku nira sika haliu tua, na pukuna na ghamua na kana, gaira ghagua na levunimate.
 Ghe God, kene taoniu, mo righia utoa na lokagu, ko tabotabou mo ko ghilala na lokana na liogu.
 Tuhu kalei mai itagua na hava te pungisigho, mo ko uhuliu maemaneu gatu tara vola kasila.
+
 Lord, ko volau itadira na lei tinoni dika, mo ko pilupungisiu itadira gaira tara ruturutu.
 Gaira tara padalaghinia na dika tughu bongi tana tobadira, mara gunaguna.
 Na ghidudira te ghinighini vagha na poli, mana maomao ni torokoe te tudutudu horu mai tana ghidudira.
@@ -16342,7 +16343,6 @@ Ko havukaghinia na gougovu ni lake bera tana uludira, po ko sonighi tana lake pi
 Bei lubatira na vure sorisori, ge kara sepalaghi tana komuda, na pukuna tara gonighi na lei totobo dika, mara liona vamua na hughuhughu.
 Inau tu ghilala gaia Lord, ke tangomana na hangadira gaira tara kanahaghinira, me ke pangoti haliura ta didira na maana rana bona.
 E utuni, gaira nina vure God, kara holoutoa na ahamu, ma gaira kara ghahara haia tana matamu.
-
 Lord, Inau tu hologho, mu mina kurutigho, ge ko varongohiu mai, u kene ngangata nimua na hahanga.
 Ko holopangotia nigua na kokoeliulivuti te vagha na ghaiuruuru, tu nia sukaghi vanigho, na limagu te talu datoa te vagha na [mane] sukaghi tana nulavi.
 Ko taghaoi na bosagu Ghe Lord, mo ko kaputighi na ghidugu.
@@ -16353,6 +16353,7 @@ Te vagha na tinoni puku leghai, te maghuraa na pari, ge soni tatei na vatuvatu, 
 Inau tu kenea itamua na hahanga, ghe Lord, Ighoe a nigua na puipungisi na tako ni rerebe, Ko bei lubatira ge kara taghalaghinia na volagu.
 Ko volau ta didira na taripiti, mi tana talu dilai vaniu, gaira tara gehegehe dika.
 Lubatira tara lutu dika, ge kara tumu haghe lokana didira na vugho heghedira, Mo ko lubatiu inau ge ku ghogho keha.
+
 Inau tu tangitangi vania Lord, mu nongia Lord nina veiarovi.
 Inau tu bosa tatei vania nigua na lei vahola, mu kokoe hughuhughu kolua tana matana.
 Na pukuna te au vuleu tua, mi ghoe vamua to ghilala na halautugu ku va iga, ivei tua ku vaa na ghagua na levunimate tana liona na tari pitiagu.,
@@ -16360,7 +16361,6 @@ Inau tu kene siki sakai ge ke mai hangau, me taho tua ahei ke vaheu siki pile gh
 Mi nau tu kokoeliulivuti vania Lord, mu bosa vania, “ighoe na puipungisi, ighoe vamua tu puku ni liomu tana volagu.
 Ko rongovighi mai nigua na kokoeliulivuti, na pukuna tu kabu sasara ngangata. Ko volau mai itadira tara vahaghitailiu, na pukuna tara laga vule ngangatau tua.
 Ko hola horu lokana na vale pipiti ge ku holoutogho, na lei nina vure God, tara talighutiu, na pukuna to pabe utuniu.
-
 Lord, ko rongovighi mai nigua na kokoeliulivuti, mo ko holopangotighi tu kurutigho mo ko bosa tughui vaniu mai, na pukuna nimua na lio kikinima mana maemane.
 Bei lubatia nimua na tinoni lutu tara tabotabo, taho ahei ke maemane tana matamu.
 Na ghagua na levunimate tana ghuru, me labu horu tana pari me neu inau, mu ghahau lokana na pungi, vaghara gaira tara ghahara lokana na gilu.
@@ -21904,9 +21904,6 @@ Mana lei dalei vunaghi haba mana lei mane righitaoni rongo, mana lei mane sule n
 Keri vaho ge bosa Nebachadnezzar, “Holouto/holohabaa didira God Shadrach, Meshach maia Abednego! Agaia te nia vetena nina angel geke hola horua nina tinoni ni lutu agaira tara talutunia. Agaira tara hughua nina bosa na vunaghi haba mara nia togotogo na mate vulea na taluutuniana siki god keha ma didia God vamua.
 Na pukuna keri mi inau tu bosaa, ‘Ma ge siki sakai, na hava tua lavara ni tinoni na ia pana kema mana leu ko kokoe horua nia didira God Shadrach, Meshach, ma Abednego ke, kara sagivokagho matara mategho tua; ma kara haui horui tua na valemiu. E taho ghua siki God ke vola ahei te vagha eni.”
 Keri na vunaghi haba te taludatora Shadrach, Meshach ma Abednego ta sakai na lavata ni haba va tana bubulo i Babylon.
-
-
-
 Mana vungaghi haba Nebachanezzar te va hevei horu na bosa vanira na lei tinoni mana tana maramana udolu, “Inau tu ghanaghanaoli ge kau kabu mabo mau loghoi na lologho sule!
 “Inau tu liomu ge kau ghilala na lei vaughilala mana lei butulu na God puku ni maana te gonighi vamiu.
 Ivei vaho tua tea nina lei vaughilala, Ivei vaho tua tea nina lei butuli! Nina kinakabu ke mua soko ke va me va; mana lei nina [vetena/vunaghiana] ke vanira na lei vavata.
@@ -21941,6 +21938,9 @@ Mi tana bona te bosai na lei bosa raini, mana manga te kokoe mai kokou, “Aghe 
 Igeva na lei tinoni kara ghuru horugho tana bona tara ghahara iga na vure subo. Mo ko ghahagho kolura na lei maumanu asi, mo ko vanga buburu vagha na buluka. Mi tana vituni na volavola ni aho ke padi tana bona to kabu ghaghua iga, polo ko ghilala inau, God puku ni haba, ke vunaghi pungisighi na lei kinakabu ni maramana mu ku vahea ahei tu vilia.”
 Mi tana bona ni aho vaghana keri, na bosa te mai kale tua, ma Nebachadnezzar tara ghuru horu tana komu ni tinoni. Agaia te vanga buburu vagha na buluka, me nia siu na kebu ni kokou. Ma gaia te kabu vagha keri polo na vuvulu ni uluna te sau horu vagha na vuvulu ni manukama, mana ghughuna tara vaghai na ghughu ni manu.
 “Mi murina na bona eni te padi, inau, Nebachadnezzar, tu reitada va ikokou. Ma nigua na manaha te ghoi pulohi mai, mi nau tu holouto mu holohaba God puku ni haba, mu talumava agaia te vola ke va me va. Gaia ke vunaghi pungisi ke va me va, ma nina kimakabu ke vola kasila.
+Na lei tinoni tana maramana kara mua ghoi vagha tua gaia. Agaia te loghoa na maana ge ke hea so na hava te liona ighobudia na lei angel i kokou ma gaira ghua tara ghahara tana maramana. Taho siki sakai ke va betoa pe ke va hughughua, me ke bosa vania, ‘?Na hava na pukuna to ghanaghana geo gonighi na lei totobo raini?’
+“Tana bona na manahagu te oli mai vaniu, me vagha ghua nigua malei haba mana holouto ma nigua na kinakabu. Ma lei nigua na lei mane huhuli mana lei mane nagho tara niu togotogo sule ngangata, mi nau tu ghoi oli so ta nigua na kinakabu ge ku ghoi hulia, nia na holohaba sule vulea vaa [idania/te padi.]
+Itaeni, inau Nebuchadnezzar tu holoutoa mu holohaba na Vunaghi haba ni kokou. Na lei gehegehe te gonighi, te uto mana utuni, ma gaia ke tangomana na talumuriadira tara talunagho.”
 Imurini na lei niulu tara padi, na vunaghi haba Belshazzar te gonia na vanga kolu sule vanira na togha nina tinoni ni lutu mara nighi inu wine.
 Tana bona Belshezzar te tona haliua na inu, gaia te nina hevei na bosa ge kara va holai mai na lei seu/kapu ni gold mana silver akukuana, Nebuchadnezzar, te holai tana Valetabu i Jerusalem, keri ge agaia mana lei nina mane nagho, ma lei tauna, maia rana ruani na lei tauna ge kara nighi inu.
 Ma gaira tara va holai mai na lei kapu ni gold tara holai tana Valetabu nina God i Jerusalem, ma gaia na vunaghi haba maia nina lei mane nagho, na lei tauna, mana lei ruani na tauna tara nighi inu na lei totobo rakiri.
@@ -21971,6 +21971,7 @@ Tekel na ghanaghana ilokana ke kagea. Ighoe tara kage sokogho tua tana vuvungana
 Parsin ke na ghanaghana i lokana vilivoka. Nimua na kinakabu tara vilivoka tua mara vahera tua rana vure i Media mana Persia.”
 Mi ta nina na bosa Belshazzar, gaira tara pupulua Daniel nia na tivi te boibongi ni vunaghi haba, maia na ghalolua ni gold tana luana; me lada vaghinia te talu datoa tana toluni na malei sopou ni haba tana ilokana nina kinakabu.
 Mi tana bongi ia so keri Belshazzar, na vunaghi haba ni Babylon tara labumatea.
+Ma Darius ni Media te ghoi tabe datoa na kinakabu tana bona te ono hangavulu rua na niuluna.
 Darius na Mede te ghanaghana na vili vokana na kinakabu tana sakai hangalatu rua hangavulu (120) na bubulo, ma gaia te talura rana dalei vunaghi haba geka vunaghi pungisighi sopa bubulo.
 Mana vunaghi haba te vilia Daniel maira ara rua hoghona/mane ge kara vunaghidira rana dalei vunaghi haba ma kara matareireia na hava ke mai vania na vunaghi haba.
 Ma Daniel te mina me ghilalagha heghena te uto vulera na lei mane tara vunaghidira na lei lutu maira ghua na lei dale haba. Na pukuna te lohgoa na manaha te sule, na vunaghi haba Darius te loghoa na ghanaghana geke talu datoa geke vungaghi pungisia na kinakabu udolu.
@@ -21999,7 +22000,6 @@ Mana vunaghi haba Darius te nia hevei na bosa/rongorongo vanira na lei taba ni v
 Inau tu talua na vetena ge na vure subo udolu lokana nigua na kinakabu kara loghoa na mataghu inaghona a God nina Daniel. Na pukuna gaia na God te vola. Agaia ke laga vule ke va me va. A nina kinakabu ke mua ghoi dureke. Ma nina na maana ke mua sosokogha.
 Agaia te sagura me volara nina vure, me gonighi na lei butuli te haeharegha ikokou mi ani pari. Agaia te vavola Daniel ta nina maana na lion.”
 Tana bona na vunaghi haba Darius te vunaghi maia ta nina vunaghi Cyrus ni Persia na vunaghi haba, Daniel te dato mai sakai na malei sopou te haba.
-
 Mi [murina na lei totobo raini,] tana vuivuni ni niulu Belshazzar te vunaghi haba tana bubulo ni Babylonia, inau tu maturubole mu vaevanea na mabubu tana bongi. Mu gere horua na hava tu maturubolea. Ma eni na gegerena
 na hava tu vaevanea tana bongi keri. Na ghuru te vulovulo ilau mi longa, mi boko mi ulu, me va sara tana sosokona na tahi oka, me va maraghataa.
 Mana vati na maumanu vola sule tara va puaka dato mai tana tahi oka, mara sopa kehakeha na reireidira.
@@ -22614,6 +22614,7 @@ Hau vakaa, inaghona ge kara soni horua Jonah lokani tahi ke, na lei mane tara lu
 Ma gaira tara ghaeghahe dato vania na Maghutu God, mara ghaghua, “Aghe Maghutu God!, Ighai tai kokoeliulivuti vanigho, ko bei heghai gea na totoro mana mate nia na volana na tinoni eni, a Jonah. Ighoe, ghe maghutu, to vunaghi pungisighi na lei totobo udolu vaghani raini. (A nimua na gehegehe tua ighoe.)
 Ge ra ghate datoa Jonah, mara sonihorua i loka ni tahi, mana maraghata te beto sakai tee tua.
 Na hava te kale (te beata na oka) tana bona tara soni horua Jonah tana tahi, te nira na lei vure lutu tana vaka ge ara mataghuni ngangataa na Maghutu God. Mara talu datoa vania didira na Sukaghi mara baubahu ge kara lutu vania.
+Taonia nina na vevetena na Maghutu God, a sakai na igha sule ngangata te mai me sonomia Jonah. Ma Jonah, te ghahaa i lokana na kutuna na igha ra tolu na bongi udolu.
 Tana bona te ghahaa i lokana na kutuna na igha, Jonah. Gaia te kokoeliulivuti vania na maghutu nina na God, me ghaghua.
 Aghe, Maghutu God, tana bona tu ghahau tana vahola, Inau tu hologho mi ghoe to rongoviu, mo heu mai na bosa tughu. Tana borona na gilu ni mate, inau tu tangi vanigho ge ko hangau, mo rongovia nigua na tangi na tangi.
 Ighoe to soni horuu tana horara-lalo, tana borona na horara, iga te taokuviu na tahi, mana lei voghuvoghu ni tahi sule ngangata tara karaha savuu.
@@ -22624,7 +22625,6 @@ Inau tu kokoeliulivuti vanigho, ghe Maghutu God, tana bona tu dutu ni mate ke, m
 Agaira tara holohabai na lei god' (titinoni) tara mua talu mavagho ighoe.
 Mi nau tu holoutoa na ahamu nia na lei linge ni holouto, inau ku talu datoa vanigho gatu lei nigua na sukaghi ni holouto, mu ku gonighi na lei totobo tu nighi baubahu vanigho, na Maghutu God heghena vamua ke vavolaa na tinoni!
 Mi tana bona te kokoeliulivuti mua Jonah ka, Mana Maghutu God, te bosa vania na igha, (te ghaha a Jonah ilokana) ge ke vaa luaa horua a Jonah (na tinoni tughunilada) tana saghalea, mana igha te nia te vaghaa.
-
 Mana Maghutu God te ghoi bosa vana sono a Jonah e ruani na bosa vaniana, me ghaghua.
 “Ko tona tana komu sule i Nineveh mo ko ladavaghinia iga na rongorongo tu va-hegho tua.”
 Ma Jonah te taonia na bosana na Maghutu God, ge tona i Nineveh, na komu Nineveh te sule ngangata me sakutua i lokani ara tolu na dani udolu.
@@ -22962,6 +22962,10 @@ Mana angel te bosa vaniu, “Ko nia ghu'u na rongorongo eni ge na lei vure udolu
 Hauva ke, mi inau tu rutu vanira na lei kema keha tara nia talu nagho mara tona haliu na kabumabo me vagha tara tatoghi tana lei vahola. Mu rutu oile kikia vanira ghua vanira lei nigua na vure, hauva ka mana lei kema tara toro ngangatara va vulea ta vigua na ghanaghana.
 Hauva ka ma aeni na ha'a te bosa lord: Inau tu pulohi mai tua ge ku tatea nigua na vei arovi vaina Jerusalem. Anigua na vale tabu kara ghoi kisua olia eghaghua lord puku ni maana mana goni diana na komu Jerusalem.
 Mo ko ghoi bosa ghua te vagha eni: Aeni ghua a lord puku ni maana te bosa: Na lei komu sule ni Israel kara ighoe goni oli udolura maka reirei uto, ma lord ke ghoi patupatu Zion me ke vilikeha Jerusalem geke nina heghena.
+Mi inau tu rei va, mu righiva evati na kala te vaghai na kala ni buluka.
+“Na hava raini?” Inau tu huatia na angel, gaia te kokoe kolu'u. Ma gaia te bosa vaniu, “A gaighi na lei kala raini ke te vaghara lei kema keha tara loghoa na maana tu sule, mara ghuru horura na vure tana lei komu Judah, Israel mi Jerusalem.”
+Ma lord te ghoi tatei vaniu ghua e vati na tinoni tara tabe hammar tana limadia.
+“Na hava kara mai gonia na vure raini?” U ghanghua vania. Mana angel te bosa tughu. Na lei mane lutu iron ke gaira kara mai gekara lavi mataghuniadira ra vati na kala tara havukaghinira na Judah. Agaira ke sonihorura makara durakera.”
 Mi inau tu ghoi rei kilihu, mu na tinoni kelua na aho ni kakage tana limana.
 Mi inau tu huatia, “Ivei ko va'a.” Ma gaia te bosa tughu, “Inau ku kagea Jerusalem, muku righi Ivei te vagha na volapana, mi vei te vagha na darona.”
 Mana angel te kabukolu te va tona me va'a sodoa evuani na angel te va mai tatana.
@@ -22975,10 +22979,6 @@ Ma lord te bosa me ghaghua, ko togotogo mo ko rivurivu nimua Jerusalem, na pukun
 Mana lei kema kara baebase kolua lord tana dani keri, ma gaira ghua kara nigua na vure. Mi inau ku ghahau tana ghobuniu, gekau ghilala a lord te vetenau geku mai tamiu.
 Mana komu i Judah ke nina komu lologhu lord ilokana bona tabu keri, ma gaia ke ghoi vilia ghua Jerusalem geke nina komu heghena.
 Kau todore ghau na maramana udolu inaghona lord ma pukuna agaia te horu mai kokou tana malei kabuna.
-
-
-
-
 Mana angel te tatea vaniu, Joshua na mane sukaghi kamanaghi te tughuru tana nagho nina angel lord. Ma Satan ghua ga te tughuru tana levu madolona na angel, te hughuhughua Joshua te subo ba totobo.
 Ma lord te bosa vania Satan, “Inau, a lord, tu nighi sika nimua na bosa i hughughu to nei, Satan. Eo, ma lord, te valia Jerusalem, te hace pungisigho. Aeni na tinoni te vagha tara kerea me vavu tana lake.
 Tana bona joshua te tughuru tana naghona angel lei nina tivi tara sosoko ni meto tua.
@@ -23205,12 +23205,12 @@ Te vagha ta vaevanea tua, God te vautora rana vure tara talunagho. Rana vure tar
 Ma gaira rana vure tara talumavaa Yahweh tara sopa kokoe heghedira, ma Yahweh te varongohia na hava tara bosa. Mi tana matana, ra gerehorui tua tana buka ni gegere tutuguni vanira rahei tara ghanaghana mavaa Yahweh mara talumavaa ghua gaia.
 Ma Yahweh puku ni maana te ghaghua, “Agaira rakeri nigua na vure. Mi tana dani vaghana keri inau tu gonidila ge kara nigua na pinapolo. Inau ku arovira, te vaghara rana tamatau toro vahera na veiarovi na lei gari tara taonira.
 Aeni ghua ghau kulagu na vure, geva kau vaevanea na kehakeha, ighobudira na hava te kale itadira rana maemane mi tadira rahei tara hahi, mi tana tinoni te hangau mana tinoni te mua hangau.”
-
-
-
-
-
-
+Ma Yahweh puku ni maana te ghaghua, “Na bongi ni dete te sara mai, ma gaira udolu rana tinoni talunagho mana vure dika kara kerera tana lake vaghara na buburu mamaha. Mi tana dani vaghana tua keri, [kara] ghani taghalaghinira, me taho siki totobo itadira ke ghanaolia.
+Hauva, ma vanighau ighau tau taoniu mau talumavaa na ahagu, [ahei ke hola na maemane/nigua na vavola] ke dato mai itamiu vagha na aho, ge ke va mavoghau me ke pilupungisigahu. Mi ghau kau tatavahale makau togotogo vaghara na lei dale buluka tara sonihorura tana piludira.
+Mi tana bona keri, ighau kau lagavulera rana hahi. Ma gaira kara vaghara na pugupugu ni pari i sarana na marevomiu.
+“Kau ghanaghana olia nina na tarai nigua na tinoni lutu Moses, na lei vetena mana bosa papara tu vahea tana ghotu i Sinai vanira rana vure ni Israel ge kara taonighi.
+“Mi nagona na bongina Yahweh te mavaa me mamataghugha ke sara mai, inau ku diki nia vetena vanighau gatu a Elijah na prophet.
+Gaia ke liliu olighi mai na tobadira rana tamadira va tana lei daledira, maia ghua na tobadira rana gari pile itadira rana tamadira. Taho ke, muku ghoi mai gea muku hurakea na butonikomumiu.”
 Raini na lei tinoni tana vavatana Jesus Christ na vaivarina na Vunaghi haba David gaia na kemana Abraham.
 Abraham tamana Isaac, ma Isaac tamana Jacob. Jacob tamadira Judah mana lei hoghona.
 Judah tamadira Perez ma Zerah, ma tinadira Tamar. Perez tamana Hezron. Ma Hezron tamana Ram.
@@ -27691,7 +27691,7 @@ Taho ahei ke nighi hughu na lei totobo raini. Vaghaa keri ke, ma kau kabu beto m
 Ighau tau holara mai na lei tinoni raini, hauva mara mua gitoa siki totobo lokani na lei valetabu moro mua koehorua ghua dida na god vaivine.
 Ge a Demetrius maia ghua na balu doladira tara gonia vamua sakai na vata ni lutu kara hughuhughu kolura na tinoni raini ke, mi ghita ta loghora dida na mane ni dete, ge kara maemanei ga didira na ghanaghana.
 Ma siki na totobo ghua iga ko liona ke, mi gaa tua kara dete maboa.
-Na kakale igaa, igevaa kara hurughita nia, ta nia gunaguna na hava te kale i geni. Taho tua siki bosa tughu vanira tara ngengo ma ka mua tangomana ghua nia hevei siki ghanaghana uto iga.”
+Na kakale igaa, igevaa kara hurughita nia, ta nia gunaguna na hava te kale i geni. Taho tua siki bosa tughu vanira tara ngengo ma ka mua tangomana ghua nia hevei siki ghanaghana uto iga.” I murina te bosa soko te vaghaa eni, me vongotia na kokolu.
 Mete soko tua na hughuhughu, Paul te holokolura mai tatana gaira rana taluutuni nia na bosa patupatu ge bahura. Vaho ge vaa tona tana bubulo i Macedonia.
 Me liu ghobuni lei buto ni komu, me kokoe patupatura na vure raini nia te subo na bosa. Ge vaa sara tana bubulo i Achaia.
 Iga te ghahaa e tolu na vula. Me ghanaghana dila ge ke vaa sara tana bubulo i Syria, hauva te rongovia gaira rana Jew tara gonidilaa ghana mate ge ghoi pulohi oli so Macedonia.

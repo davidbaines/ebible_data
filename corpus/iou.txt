@@ -926,6 +926,7 @@ Mobä käroŋi yäputat ŋo ba mobä änok bämopnekken peyat ŋo ka! Ŋowä ka�
 <range>
 Täŋpäŋ gäk ba näk bänep kubägän täkamäk ŋopäŋ irepmitdawä Anutu, Abraham kenta Naho täŋo Anutu unitä kowata kaŋ nimän yäk. Ude yäwänkaŋ Jekoptä Anutu, nani Aisaktä gämoriken kuŋarani unitäŋo wäpi terak yäŋkehärom taŋkuk.
 Täŋpäŋ Anutu iniŋ oretta pom terak äroŋpäŋ gupe ijiŋ ima yäŋpäŋ tom kubä utpäŋ ijiŋ imiŋkuk. Ude täŋpäŋ äboriyekät ketem bok näna yäŋkaŋ yämagutkuk. Yämaguränpäŋ ketem naŋkaŋ pom terak ini ugän patkuŋ.
+Patkuŋo yäŋewänä Laban akuŋpäŋ äperiyat, oraniye äbekiye yeŋpäŋ yäniŋ oretpäŋ kon man yäwetkaŋ komeniken äyäŋutpeŋ kuŋkuk.
 Eruk Jekop kome u peŋpeŋ kuŋirän Anutu täŋo aŋero ätutä kädet miŋin ahäŋ imiŋkuŋ.
 Ahäŋ imiŋirä yabäŋpäŋä nadäŋkuk; Wa! Ŋowä Anutu täŋo äbot yäk. Ude yäŋpäŋ unita kome u wäpi Mahanaim yäŋ iwetkuk.
 Kadäni uken Jekop täŋo tuäni Iso Sei kome, wäpi kubä Idom uken itkuk. Irirän Jekoptä tuäna uken itak yäŋ nadäŋpäŋ watä äma yäwet-pewän intäjukun kuŋkuŋ.
@@ -958,7 +959,6 @@ Wäpi kodaki Isrel yäŋ iweränä Jekoptä yäŋkuk; Eruk, gäkŋo wäpka täga
 Kuŋirän Jekoptä nadäŋkuk; Wära! Näk Anutu iŋami dapun karo unita nutnaŋipäŋ nabäŋ orerak yäk. Näk Anutu iŋami dapun kat yäŋ nadäŋkuko unita kome u iniken man terak wäpi Peniel yäŋ iwetkuk.
 Täŋpäŋ tamimaŋ edap dapuri abäŋirän Jekop Peniel kome u peŋpeŋ kuŋkuk. Peŋpeŋ kuŋkukopäŋkaŋ kuroŋ säkgämän nämo yeŋtäŋ kuŋkuk. Jopäni jok tädotkuko unita täŋäro päreŋtäŋ kuŋkuk.
 Täŋpäkaŋ mebäri unita kadäni ukentä päbä apiŋo Juda ämawebetä tom tohari jopäni jokken nanik nämo nak täkaŋ, Jekop jopänikengän iŋirirän jopäni jok tädotkuko unita.
-
 Eruk Jekop täŋäro päreŋtäŋ kuŋtäŋgän Iso, ämaniye 400 udekät äbäŋirä yabäŋkuk. Eruk yabäŋpäŋ Jekoptä nanakiye yäpmäŋ daniŋpäŋ webeni Resel kenta Leata, ba watä webeni yarä unita yämiŋkuk.
 Ude täŋpäŋ watä webe yarä ukät nanakiye intäjukun yepmaŋpän kwäwä nanaki ätukät Leakät u mädeniken yepmaŋpän kuŋkuŋ. Yepmaŋpän kuŋirä nanaki Josepkät Resel mädeninik yepmaŋpän kuŋkumän.
 Tuŋum ude täŋpäŋ ini intäjukuninik kuŋirän iwatkuŋ. Intäjukuninik päŋku tuäni kaŋkaŋ oraŋ imikta kadäni 7 ude iŋami yäpän äpmoŋpäpäŋ patkaŋ akuk täŋtäŋ kuŋkuk.
@@ -13959,6 +13959,7 @@ Ude täŋira gämotnaken kaŋ irut yäŋpäŋ pärip-pärip kehäromi iŋitkaŋ 
 Unita kome täŋo intäjukun äma in, ba äma wäpi nikek in, jukujin peŋpäŋ man täwerayäŋ täyat ŋonita ket nadäkot.
 In Ekänita umuntaŋpäŋ gämori-kengän it täkot.
 Nadäkaŋ? Anutu täŋo nanakitä äma wakita kokwawak bäräŋeŋ täk täyak unita kumäŋ-kumäŋ nidäpek yäŋpäŋ kaŋ oraŋ imut. Täŋpäkaŋ ämawebe Anututä watä it nimän yäŋpäŋ dubiniken kuk täkaŋ uwä Ekäni täŋo oretoret terak it täkaŋ.
+
 Ekäni, iwanaye bumta ahäŋkaŋ näk täŋpä wanayäŋ täkaŋ.
 Täŋkaŋ yäŋärok ŋode näwet täkaŋ; Anututä täga nämo täŋkentäŋ gamek.
 Ude näwet täkaŋ upäŋkaŋ Anutu gäk näkŋo kurepäna ude itan. Gäkŋa-tägän täŋpewi iwanaye yärepmit täyat. Anutuna tägagämän, gäk bänep nadäŋ bäräpna täŋpidäm taŋ namiŋpäŋ nepmaŋpi iwan iŋamiken bätakigän it täyat.
@@ -14049,7 +14050,6 @@ Bureni-inik, Ekänitä äma täŋo täktäki, kudän siwoŋi terak yäpmäŋ dan
 Täŋpäkaŋ ämawebe tuŋumi nämo, täŋbute-bute täŋpaniwä Ekänitä jop yabäŋ äwaräkuk nämo täk täyak. Nämo, äma bäräpi nikek udewani bureni-inik api täŋkentäŋ yämek.
 Unita Ekäni, äbi! Äbä jop yabäŋiri komen ämatä ärowani täŋ gamineŋtawä! Äma nämo nadäŋ gamik täkaŋ u kudup yepmaŋpikaŋ gäkŋo man piäken kaŋ irut. Täŋpäŋ unitäŋo täktäki kaŋ yäpmäŋ dani.
 Ekäni, ude täŋiri kaŋ umuntäwut. Kehäromika ude yäwoŋäreŋiri inita nadäwä äpani-inik kaŋ täŋput.
-
 Ekäni, komi butewaki ahäŋ namiŋirän gäk imata nepmaŋpeŋ päŋku käbop itan?
 Ekäni, äma waki täŋpanita nadä! U ärowani täŋpäŋ äma jopi jäwäri iwan täŋ yämiŋpäŋ däpmäŋpäŋ yäwat-kirek täkaŋ u nämo nadätan?
 Äma waki täŋpani uwä iniken bänepi täŋo gäripi ugän iwatpäŋ ärowani täk täkaŋ. Moneŋ tuŋumta nadäŋgärip täŋpäŋ Ekäni mäde ut imik täkaŋ.
@@ -14075,6 +14075,7 @@ Upäŋkaŋ nähä nämo api metäŋpeŋ kwet! Nämo, Anutu ini kudupi tähaken i
 Ekäni ini äma siwoŋi ba äma waki täŋpani yäpmäŋ daniŋpäŋ äma baga mani nämo buramik täkaŋ unita kokwawak pähap api pewän ahäŋ yämek.
 Ude täŋpäŋ kädäp mebet komigämän upäŋ piŋ yabat-pewän komi bumta api nadäneŋ. U imata, kowata udewani yäpmäkta biŋam täkaŋ ubayäŋ.
 Täŋpäkaŋ Ekäni ini uwä siwoŋi unita äma siwoŋi kuŋaranita gäripi nadäk täyak. Äma Ekäni täŋo meni jinom iwatpäŋ kuŋat täkaŋ uwä Ekäni iŋami api käneŋ.
+
 Ekäni, äma siwoŋi kubä nämoinik itak. Ba äma man bureni yäwani kudup paotkaŋ unita äbä täŋkentäŋ nimisi!
 Ämawebe kuduptagäntä noriye bänepi ärikta jop täŋyäkŋarani täk täkaŋ.
 Unita Ekäni, gäk äma ätu jop yäŋ-yäkŋatpäŋ waki kädet terak yämagut täkaŋ ba ärowani täk täkaŋ uwä meni teŋpipiŋ yämi!
@@ -14088,8 +14089,7 @@ Ekäni, kadäni jidegän äneŋi api nadäŋ namen? Gäk näka mäde kadäni kä
 Kadäni jidegän bäräpina ŋo api ketäreŋ namen? Butewaki pähap nadäŋ itat ŋo kepma bipani jide nadäŋ yäpmäŋ kuŋira api paot namek? Kadäni jidegän täŋkentäŋ namiŋiri iwanaye gämoriken nämo api iret?
 Ekäni, gäk näkŋo Anutuna unita yäŋapik manna ŋo nadäŋ namiŋpäŋ butewaki nadäŋ nami. Täŋpäŋ kehäromi namiŋiri nämo api paoret.
 Iwanaye yabä kätäŋiri nintä irepmitkamäŋ yäŋpäŋ nabäwä maŋ parira oretoret nämo täneŋ.
-Upäŋkaŋ ude nämo! Gäk nadäŋ namikinik täk täyan unita nadäkinik täyat. Butewaki nadäŋpäŋ täŋkentäŋ namayäŋ täyan unita oretoret täŋ gamitat.
-Bureni Ekäni, gäk näka säkgämän täŋ namiŋ yäpmäŋ äbuno unita kap teŋpäŋ wäpka api ganiŋ oreret.
+Upäŋkaŋ ude nämo! Gäk nadäŋ namikinik täk täyan unita nadäkinik täyat. Butewaki nadäŋpäŋ täŋkentäŋ namayäŋ täyan unita oretoret täŋ gamitat. Bureni Ekäni, gäk näka säkgämän täŋ namiŋ yäpmäŋ äbuno unita kap teŋpäŋ wäpka api ganiŋ oreret.
 Äma Anutu nämo itak yäŋ yäk täkaŋ uwä guŋ bureni-inik! Äma udewani bänepi käbäŋ täwani. U kudän waki mebäri mebäri täk täkaŋ. Kubätä kudän täga kubä nämoinik täk täyak.
 Nadäkaŋ? Ekänitä kunum terak ununitä etä päpä dapun pärewat täk täyak. U äma nadäwä tumbäpäŋ Anutu kaŋ-ahäkta piäni täŋpani udewani ätu itkaŋ ba nämo yäŋ nadäŋpäŋ yabäŋ ahäkta dapun pärewat täk täyak.
 Upäŋkaŋ nämo, kudup u kädet siwoŋi irepmit moreŋpäŋ kädet waki täŋpanigän. Uken nanik kubätä kudän täga kubä nämo täk täyak. Nämoinik.
@@ -14128,6 +14128,7 @@ Aŋ ägwäri tom yenayäŋ pidäm taŋpäŋ it täkaŋ ude näk neŋpäŋ kwinit
 Unita Ekäni, äbi! Äbä täŋkentäŋ namiŋpäŋ iwanaye däpmäŋ yäwat kireŋpäŋ unitäŋo kehäromini yäpmäŋ äpäsi. Päip bohamka u yäpmäŋ päbä ämik täŋpäŋ äma waki keriken nanik nämagut.
 Bureni Ekäni, äma kome terak ŋo imaka täpuri kubäta nämo wäyäkŋek täkaŋ u keriken nanik nämagut. Komi piä yämikta yäwani yäŋ yämiŋkuno u yäniŋ kiresi. Komi piä uwä yeritä yerita pen kaŋ yäniŋ kire!
 Täŋpäkaŋ nähä waki nämo täŋpani unita kämi gäkkät kowat kawän bureni api täde. Täŋkaŋ däpmon terak naniktä akuŋpäŋ dubinaken itan yäŋ nadäŋpäŋ bänep oretoret pähap tokŋek api nadäk täŋpet.
+
 O Ekäni, gäk näkŋo kehäromina unita gäka gäripi pähap inide kubä nadätat!
 Gäk näkŋo watä ämana, mobä yewa ude it namitan. Bureni, Anutunatä ude täŋkentäŋ namiŋirän gupna koreŋpäŋ säkgämän it täyat. U kurepä ude itpipiŋ namik täyak. Unitä itkentäŋ namiŋirän iwantä täga nämo nutneŋ.
 Näk Ekäniken gera yäŋira nadäŋ namiŋpäŋ iwan keriken nanik nämagut täyak. Unita Ekäni iniŋ orera!
@@ -14249,7 +14250,6 @@ U imata, Ekäni uwä ämawebe komeni komeni kuduptagän intäjukun it yämiŋpä
 Äma inita nadäŋirä ärowani täŋpanitä gukut imäpmok täŋpäŋ Anutu api iniŋ oretneŋ. Bureni, komen ämawebe kumäŋpäŋ parakta yäwani u kuduptagäntä Ekäni api oraŋ imineŋ.
 Täŋkaŋ ämawebe mäden ahänayäŋ täkaŋ uwä Ekänita watä piä api täŋ imineŋ. Ude täŋkaŋ yeriniye ahänayäŋ täkaŋ unita Ekäni täŋo täktäkita yäŋahäŋpäŋ api yäwet täneŋ.
 Bureni, ämawebe nämo ahäwani uwä kämi ahäŋirä Ekänitä ämawebeniye waki keriken nanik yämagurani unita yäŋpäŋ-yäwoŋärek api täneŋ.
-
 Ämatä sipsip watä it yämik täkaŋ udegän, Uraktä näka watä säkgämän it namik täyak. Unita näk imaka kubäta wäyäkŋek piä nämo täk täyat.
 Täŋpäkaŋ näk yäŋnäkŋat päŋku nepmaŋpän ume dapuriken näŋpakaŋ eruk äneŋi nämagut päŋku äyuŋken nepmaŋpän kwinigän itpäŋ-nadäk täk täyat.
 Ude täŋkaŋ irit kuŋat-kuŋatna täŋ-kehäromtak täyak. Täŋpäŋ iniken wäpi täga terak kädet siwoŋi-kengän nämagut yäpmäŋ kuk täyak.
@@ -14334,6 +14334,7 @@ Bureni, Ekänitä kärak yäŋirän yäpä kwinit täyak. U kärak yäŋirän ko
 Ekänitä gera yäŋirän tomtä nanaki bäyak täkaŋ. Ba gera yäŋpewän päya pähämi äreyäŋ kuk täkaŋ. Ude täŋirän Ekäni täŋo kudupi yot gänaŋ ämawebeniyetä ŋode yäk täkaŋ; Ekäni täŋo wäpi biŋam taŋi kaŋ täŋpän! yäk.
 Ekäni u ume ba gwägu pähap yäŋpewän tokŋeŋkaŋ äneŋi wädäŋ äpmok täkaŋ. Täŋpäkaŋ Ekäni u intäjukun-inik, paot-paori nämo it täyak.
 Täŋkaŋ ämawebeniyeta kehäromi yämiŋpäŋ nadäŋ yämiŋirän säkgämän it täkaŋ.
+
 Ekäni, näk käyäm täŋpäŋ kumnaŋi upäŋkaŋ gäkä äneŋi nämagutkuno unita ganiŋ oretat! Gäkä täŋkentäŋ namiŋiri iwanaye yäŋärok nämo näwetkuŋ.
 O Ekäni Urakna, näk gäkä täŋkentäŋ nam yäŋpäŋ yäŋapiŋira bäräpi ahäŋ namiŋkuko u ketäreŋ namiŋkun.
 Näk kumäŋ-kumäŋta biŋam täŋkuropäŋ äneŋi wädäŋ tädotpäŋ nepmaŋkun. Näk kumbani äworeŋpäŋ patkuropäŋ kumbaniken nanik äneŋi nämagutkun.
@@ -14371,7 +14372,6 @@ Unita näk Ekäni iniŋ orera! Iwantä yotpärarena däpmäŋ eränayäŋ täŋi
 Bureni! Näk komi nadäŋkaŋ gäk käwep nepmaŋkun yäŋ nadäŋkuropäŋ konäm butewaki täŋira nadäŋpäŋ täŋkentäŋ namiŋkun.
 Ekäni, gäk ude täŋ namiŋkuno unita ämawebe ŋode yäwera; Ekäni täŋo äboriye in uwä Ekänita gäripi-inik nadäk täkot! U ämawebe mani buramik täkaŋ u watä säkgämän it yämik täyak. Upäŋkaŋ äma inita nadäwä ärowani täk täkaŋ unita kowata yämik täyak.
 Unita ämawebe Ekäni nadäŋ imikinik täk täkaŋ, in kuduptagän Ekäni itak yäŋpäŋ kehäromigän it täkot. Täŋpäŋ imaka umuritä ahäŋ tamiŋirä bätakigän kuŋat täkot!
-
 Anututä äma kubä täŋo momi peŋ imiŋirän säkgämän it täyak.
 Bureni, ämawebe Anututä momini ärut yämiŋpäŋ momijin nämo yäŋ yäwet täyak uwä säkgämän it täkaŋ. Ämawebe udewani Ekäni täŋikŋarani äneŋi nämo täk täkaŋ.
 Bureni Anutu, momina gäkken nämo yäŋahäŋkaŋ käbop peŋpäŋ kepma bipani konäm kotkä gupna kudup putäreŋkuk.
@@ -14405,6 +14405,7 @@ Ekänitä ini täŋkentäŋ yämiŋirän käyäm ba imaka umuri kubätä bärä�
 Unita Ekäni kubä unitägän täŋkentäŋ nimikta itsämäk täkamäŋ. Ekänitä ini-tägän täga täŋkentäŋ nimek. Uwä nintäŋo ukätpipik kurepä. U watä it nimiŋirän säkgämän it täkamäŋ.
 Unita Ekänitagän gäripi pähap nadäk täkamäŋ. Unitäŋo wäpi kudupi terakgän tubeŋ kuŋpäŋ it täkamäŋ.
 O Ekäni, nin irit kuŋat-kuŋatnin gäkä terakgän peŋpäŋ täŋkentäkta itsämäŋitna gäkŋo ironka pähap paot-paori nämotä nintä terak äroton!
+
 Näk kadäni kadäni Ekäni wäpi biŋam yäpmäŋ akuk täyiwa!
 Imaka täga täŋ namik täyak unita nadäŋpäŋ iniŋoret täyat. Ude täŋira ämawebe nadäwätäk ikektä näkŋo man u nadäŋkaŋ bänep oretoret täkot.
 Ai! In äbäkaŋ Ekäni täŋo wäpi biŋam bok yäŋahäŋitna nadäwut! Täŋpäŋ penta iniŋ oretna!
@@ -14427,7 +14428,6 @@ Bureni, bäräpi mebäri mebäri uwä ämawebe siwoŋi kuŋaraniken ahäŋ yämi
 Täŋpäŋ watä it yämiŋirän kujari kubä nämo tokät täkaŋ.
 Täŋpäkaŋ imaka wakiwakitä äma waki täŋpani kumäŋ-kumäŋ api däpneŋ. Täŋ ämawebe, äma nadäkinik täŋpanita iwan täŋ yämik täkaŋ uwä Ekänitä komi api yämek.
 Täŋpäkaŋ Ekänitä watä piä ämawebeniye watä it yämiŋirän säkgämän it täkaŋ. Täŋpäŋ ämawebe nadäkiniki u terakgän pek täkaŋ uwä paot-paotta biŋam nämo api täneŋ. Nämoinik.
-
 Ekäni, äma iwan täŋ namik täkaŋ u iwan täŋ yämisi. Ba äma näkkät ämik täk täkamäŋ ukät ämik udegän täkot!
 Kurepäkät kupäŋtek yäpmäŋkaŋ täŋkentäŋ namikta äbäsi.
 Täŋpäŋ äma näwat kirek täkaŋ u kadä bohamka yäwoŋäresi. Täŋkaŋ bänepna kwinigän itta api täŋkentäŋ gamet yäŋ näwet.
@@ -14456,6 +14456,7 @@ Yabäŋ äwaräkuk täŋiri näka ŋode nämo yäneŋ; Tägagämän! U paotak!
 Eruk, äma komi nadätat ŋonita yäŋärok näwet täkaŋ u kehäromini kudup paorirä täŋguŋ taŋpäŋ kaŋ irut! Ba äma näka nadäwä äpani täŋpäpäŋ inita nadäwä ärowani täk täkaŋ uwä wäpi biŋam paorirän mäyäk pähap kaŋ nadäwut.
 Täŋpäkaŋ Ekäni, gäk täŋkentäŋ namiŋiri ämawebe näka äma siwoŋi yäŋ nadäkinik täk täkaŋ u oretoret gera wari wari ŋode kaŋ yäwut; Ekäni wäpi biŋam punin-inik it täyon! Epän ämani ŋonitä säkgämän irirän gäripi nadäk täyak.
 Ude yäŋirä näk imaka, täktäkka siwoŋi unitäŋo biŋam api yäŋahäwet. Täŋkaŋ yäŋetak bipmäŋtak wäpka biŋam api ganiŋoret täŋpet.
+
 Momitä äma waki bänepiken tokŋek pat täkaŋ. Momi unitä peŋ yäwerirä Anututa nämo umuntaŋkaŋ mäde ut imikinik täk täkaŋ.
 Bänepitä täŋyäkŋarirän inita nadäwä ärowani täŋpäpäŋ ŋode nadäk täkaŋ; Wakinin käbop itak. Anututä unita yäŋpäŋ manken täga nämo nipmaŋpek! yäŋ nadäk täkaŋ.
 Meni jinomken man, nadäk ba täktäk waki unitägän abäk täkaŋ. Unita jop manmangän yäk täkaŋ. Imaka täga täkta nadäk tawaŋ siwoŋi kubä nämo pek täkaŋ.
@@ -14468,7 +14469,6 @@ Irit kuŋat-kuŋat täŋo mähemi u gäk kubägän. Gäk peŋyäŋekka bänepnin
 Unita ämawebe gäka nadäŋ gamikinik täk täkaŋ unita bänep iron pen täŋ nimiŋ yäpmäŋ kwen.
 Täŋpäŋ äma ärowani täŋpani yabäŋ äwaräkuk täŋiri näk nämo yeŋ jakŋitneŋ. Ba waki täŋpani yabäŋ äwaräkuk täŋiri näk nämo yokut täreneŋ.
 Wisik! Äma waki täŋpani akukta nämo, maŋ-däpaniken ugän pätkaŋ. U kaŋpäŋ nadäwut!
-
 Notnapak, äma wakiwaki täŋo täktäkita yäŋpäŋ nadäwätäk nämo täŋpen. Ba äma unitäŋo tuŋumita nadäŋ gärip täŋpäŋ kokwawak nämo täŋpen.
 Äma udewaniwä piä täŋpäŋ pewä muyeŋ bäräŋeŋ kubitak täkaŋ ude api paotpeŋ kuneŋ.
 Unita gäk nadäwätäk nämo täŋpäŋ Ekänitagän nadäkinik täŋpäŋ kudän täga ugän täŋpeŋ kuŋat täyi. Ude täŋpayäŋ täno uyaku kome yäŋ gamaniken u säkgämän api iren.
@@ -14509,6 +14509,7 @@ Täŋ äma täga siwoŋi kuŋarani unita nadäwut; Äma bänep kwini terak kuŋa
 Täŋpäkaŋ momi täŋpani uwä paotpäŋ paot-inik api täneŋ. Ba yeriniye imaka, kudup api awähutneŋ.
 Upäŋkaŋ bäräpi kadäniken Ekänitä äma siwoŋi täŋkentäŋ yämiŋpäŋ watä it yämik täyak.
 Äma udewanitä waki mebäri mebärita umuntaŋpäŋ käbop nipmaŋpän yäŋpäŋ Ekäniken kuk täkaŋ unita äma waki täŋpani keriken nanik yäyomägatpäŋ watä it yämik täyak.
+
 O Anutu, kokwawak nadäŋkaŋ nämo nebewen, ba momina täŋo kowata nämo namen.
 Gäk kuwektä-yäŋ namäk täyan. Täŋpäŋ nut-maŋpi kome terak äpmok täyat.
 Gäkä nadäŋ waŋ namiŋiri käyäm taŋi täyat. Täŋpäŋ momi täŋkuro unita gupnaken kehäromi nikek nämo nadäk täyat.
@@ -14589,12 +14590,12 @@ Upäŋkaŋ ude nämo! Kepma kepma Ekänitä butewaki nadäŋ namik täyak. Ude t
 Täŋpäŋ kadäni kadäni Anutu, mobä kujatna ŋode iwet täyat; Imata näka guŋtak täyan? Imata iwan yabäŋ äwaräkuk täŋiri komi namik täkaŋ?
 Kadäni kadäni iwantä sära ŋode näwet täkaŋ; Anutuka de? Man ude näwet täkaŋ u äpa kuwektä-yäŋ namäk täkaŋ.
 Yäke! Butewaki imata nadätat? Bänepna imata jägäm täyak? Ude nämo! Näk ŋode täŋpet yäŋ nadätat; Näk Anutu tubeŋ kuŋkaŋ pen api iniŋoret täŋpet! Imata, Ekänina uwä nämagurani ämana bureni!
-
 Anutu, äma mäde ut gamik täkaŋ u wäpna yäpmäŋ äpnayäŋ täkaŋ. Unita gäkä näk gärak itkaŋ jop man yäwani unitäŋo mani utpäŋ ŋode yäwet; U siwoŋi kuŋat täyak.
 Anutu, gäk näkŋo kehäromina ude itan upäŋkaŋ imata mäde ut namitan? Iwantä kehäromina yäpmäŋ äpäŋirä wakiinik nadätat.
 Unita Anutu, kädetka bureni näwoŋäre! Topänka peŋyäŋeŋ namiŋiri akuŋpäŋ kädet täga iwat yäpmäŋ Saion Pom terak, itanken u kaŋ ärewa.
 Ude täŋ namiŋiri eŋikaken äroŋpäŋ gäk ganiŋ orerayäŋ kudupi bukäkaken kwa. Bureni, Anutuna, gäk dubikaken kwa. Gäk bänepna täŋpidäm taŋ namiŋiri oretoret pähap nadäk täyat unita Anutu Anutuna, wagäm utpäŋ api ganiŋ oreret.
 Yäke! Butewaki imata nadätat? Bänepna imata jägäm täyak? Ude nämo! Näk ŋode täŋpet yäŋ nadätat; Näk Anutu tubeŋ kuŋkaŋ pen api iniŋoret täŋpet! Imata, Ekänina uwä nämagurani ämana bureni-inik!
+
 O Anutu, äbekniye oraniyeta imaka tägatäga bian-inik täŋ yämiŋkuno unitäŋo biŋam ŋode niwerirä ninin nadäŋkumäŋ.
 Kome iwoyäŋ yämani uken nanik guŋ äbot komi yämiŋpäŋ yäwat kireŋpäŋ ämawebekaye gäkŋaken unita yäniŋ kireŋkun. Yäniŋ kireŋiri täŋ-bumbumka u koreŋkuŋ.
 Ämawebekaye u iniken kadä boham ba iniken kehäromi terak kome u nanik ämawebe nämo däpmäŋ yäwat kireŋkuŋ. Nämo, gäkŋo kehäromika terak yeŋgämä pewäpäŋ täŋkuŋ. Ba gäkä nadäŋ yämik-inik täŋpäŋ dubiniken itkentäŋ yämiŋpäŋ kehäromi yämiŋiri täŋkuŋ.
@@ -14697,7 +14698,6 @@ Nämoinik! Äma udewani kämi kumäŋkaŋ tuŋumi u yäpmäŋkaŋ täga nämo ap
 Täŋpäŋ äma udewani kodak itkaŋ kome täŋo tuŋumta gäripi nadäŋpäŋ Anutu täŋo iron terak itkamäŋ yäŋ nadäk täkaŋ. Säkgämän irirä äma ätutä wäpi biŋam yäpmäŋ akuk täkaŋ.
 Upäŋkaŋ äma udewani kumäŋkaŋ, bian äbekiye oraniyetä kumäŋpeŋ päŋku bipmäŋ urani gänaŋ itkuŋken ugän api yäwatneŋ.
 Bureni-inik! Äma moneŋ tuŋum ikek upäkaŋ nadäk-nadäki nämotä irit kehäromita biŋam nämo api täneŋ. Uwä tomtä kumäŋpäŋ parak täkaŋ udewani.
-
 Ai! Ämawebe in nadäwut! Anutu ärowani, Ekäninin unitä man yäwayäŋ täyak. U ämawebe komeni komeni päke unita gera yäyak.
 Anutu täŋo peŋyäŋek kudän Jerusalem yotpärare säkgämän uken naniktä kwawakinik teŋ yäŋetak. U kawut!
 Bureni! Anutunin kehäromi nikek u man yäwayäŋ äbätak. Kädäp mebettä intäjukun kuŋirän iwän mänit pähaptä itgwäjiŋirän äbätak.
@@ -14721,6 +14721,8 @@ Täŋkaŋ notjiye manken yepmaŋit yäŋpäŋ-yabäŋ yäwarit täk täkaŋ.
 Intä ude täŋirä näkä jop dapun tabäŋpäŋ man kubä nämo yäk täyat. Ude täŋira intä Anutu u nin bumik yäŋ nadäk täkaŋ. Upäŋkaŋ nämoinik! Apiŋo tebeŋpäŋ manken kwawak tepmaŋpayäŋ.
 Unita ämawebe näka mäde ut namik täkaŋ, in ŋode nadäwut; In itkaŋ ude pen udegän itpäŋä api waŋ moreneŋ. Täŋkaŋ äma kubätä in täga nämo api täŋkentäŋ tamek.
 Täŋpäkaŋ bänep täga man näwet-näwet unita gäripi nadäk täyat. Unita nadäwa ärawa bureni ude täk täkaŋ. Ämawebe ude täŋ namiŋkaŋ näkŋo man buramik täkaŋ uwä bureni-inik api yämaguret.
+
+
 Anutu, gäk butewaki mähemi unita näka butewaki nadäŋ namisi. Butewaki nadäŋ namiŋpäŋ wakina kudup ketäreŋ nami.
 Ude täŋkaŋ wakiwakina ärut paktaŋ nami.
 Anutu, momi äma näk, wakina unita nadäwätäk täŋpäŋ kuŋat täyat.
@@ -14752,13 +14754,13 @@ U kawut! Äma ŋowä säkgämän itta Anutu terak nämo yeŋgämän pek täŋkuk
 Täŋpäkaŋ nähä olip päya säkgämän Anutu täŋo eŋi dubiniken ärowani ude bumik itat. Täŋpäŋ unitäŋo iron tärek-täreki nämo uterak yeŋgäma pewäpäŋ it täyat.
 Unita Anutu, imaka täŋ namik täyan unita bänep täga man api gäwet yäpmäŋ ärowet. Täŋpäŋ ämawebekaye iŋamiken gäk tägagämän yäŋ yäŋahäŋpäŋ api yäwet täŋpet.
 
-
 Äma Anutu nämo itak yäŋ yäk täkaŋ uwä guŋ bureni-inik! Äma udewani bänepi käbäŋ täwani. U kudän waki mebäri mebäri täk täkaŋ. Kubätä kudän täga kubä nämoinik täk täyak.
 Nadäkaŋ? Anututä kunum terak ununitä etä päpä dapun pärewat täk täyak. U äma nadäk-nadäk täga nikek näk naniŋ orerani udewani ätu itkaŋ ba yäŋ nadäŋpäŋ yabäŋ ahäkta dapun pärewat täk täyak.
 Upäŋkaŋ nämo, kudup u kädet siwoŋi irepmit moreŋpäŋ kädet waki täŋpanigän. Uken nanik kubätä kudän täga kubä nämoinik täk täyak.
 Unita Anututä ŋode yäyak; Jide? Ämawebe udewani uwä nadäk-nadäki nämo ba? U näkŋo ämawebenaye uken täŋyäkŋatpäŋ kubota pidämigän täŋ yämik täkaŋ. Ude täŋkaŋ näkken yäŋapik man kubä nämoinik yäk täkaŋ.
 Upäŋkaŋ umuri pähap kubä api nadäneŋ. Bian umun udewani kubä nämoinik nadäŋkuŋ. Anututä ämawebeniye täŋo iwan kudup däpmäŋpäŋ kujari api ureŋ täŋpän kuneŋ. Bureni, Anututä mäde ut yämiŋkuko unita Isreltä iwaniye u täŋpäwakinik api täŋ yämineŋ.
 Eruk, Anututä Isrel ämawebe täŋkentäŋ yämikta äma kubä Saion nanik pewän äbän yäŋ nadätat. Anututä ude täŋirän äneŋi säkgämän itnayäŋ täkaŋ unita oretoret pähap api nadäneŋ!
+
 
 Anutu, kehäromika terak iwan keriken nanik nämagutpäŋ nepmaŋpi äneŋi säkgämän kaŋ kuŋara.
 Gäkken yäŋapiŋira juku peŋpäŋ nadäŋ namisi.
@@ -14767,7 +14769,6 @@ Täŋpäkaŋ Anutu iniwä täŋkentäŋ namik täyak. Intäjukun ämanatä watä
 Nämo nepmak täyak unita iwan komitä näka täŋ namik täkaŋ ugänpäŋ Uraktä äyäŋutpäŋ kowata udegän yämiŋirän paot-inik api täneŋ.
 O Ekäni, gäk tägagämän unita bänep täga man gäwetpäŋ iron kowata täŋ gamayäŋ nadätat.
 O Ekäni, gäk täŋkentäŋ namiŋiri bäräpi yabäŋ ahäŋkuro u kudup paot moreŋkuŋ. Täŋpäŋ yabäŋira gäkä iwanaye kuduptagän däpmäŋ moreŋkun.
-
 
 O Anutu, yäŋapik mannata juku peŋpäŋ nadä. Butewaki terak gäwet yabäŋira mäde nämo ut namen!
 Nämo, juku peŋpäŋ kowata näwet. Imata, nadäwätäknatä kehäromina kudup yäpmäŋ äpätak.
@@ -14849,6 +14850,7 @@ U aŋtä ketem naŋpäŋ nämo tokŋewäpäŋ ijiŋtäŋ kuŋat täkaŋ ude kuŋ
 Täŋpäkaŋ nähä kehäromikata yäŋpäŋ kap terak ganiŋ ubiŋ api tek täŋpet. Tamimaŋ tamimaŋ näka nadäŋ namikinik täk täyan unita nadäŋpäŋ kap kwawakgän api tek täŋpet. U imata, gäk käbop irit mobä käwutna ude it namik täyan. Ba bäräpi kadäniken äyuŋ täŋ namik täyan.
 Unita Anutu itkentäkna, gäk wäpka api ganiŋoret täŋpet. Gäk käbop irit mobä käwutna unita. Anutu, gäk nadäŋ namikinik täŋpani Anutuna.
 
+
 Anutu, gäk mäde ut nimiŋpäŋ kehärominin kudup yäpmäŋ äpäŋ moretan. Gäk kokwawak nadäŋ nimiŋkunopäŋ apiŋo äneŋi nimagut.
 Gäkä ude täŋ nimiŋkuno uwä täŋpewi kome kwaiŋpäŋ kudup duŋ-weko ude bumik. Unita äneŋi yäpi tägawut!
 Ämawebekaye ninta bäräpi taŋi nimiŋiri, ämatä wain ume naŋpäŋ täŋguŋguŋ täk täkaŋ ude täŋtäŋ kuŋatkamäŋ.
@@ -14861,7 +14863,6 @@ Eruk Anutu, netätä yotpärare yewa kehäromi nikek, Idom komeken itak uken äm
 Nämo! Gäk mäde ut nimiŋkuno unita jop itkamäŋ. Gäk imata nintäŋo komi ämakät ämikken bok kukta gaŋa täk täyan?
 Eruk Anutu, gäk täŋkentäŋ nimiŋiri uyaku iwan täga däpmäŋpäŋ yäwat kirene. Ämatä täŋkentäk täk täkaŋ u jopi, kehäromini nämo.
 Unita nadäkamäŋ! Anutu, gäkkät bok uyaku iwan täŋo kehäromini täga api yäpmäŋ äpne!
-
 
 O Anutu, näk gäkken gera yäŋira nadäŋ nami! Ba yäŋapik mannata juku peyi.
 Komena peŋpeŋ päŋku kome gägäni käda itpäŋ nadäŋ bäräp täyat. Unita gäkä täŋkentäŋ nam yäŋ nadäŋpäŋ gäkken gera yäyat. Gäkä äbä nämagut päŋku pom migupi terak ude bumik nepmaŋiri iwantä näk täŋpä waneŋtawä.
@@ -14921,7 +14922,6 @@ Bureni, gäkä iwän yäŋpewi taŋirän piä gänaŋ kome näbäni täŋirän k
 Gäk kome nadäŋ imiŋiri kome uken ketem ahäŋ bumbum täk täkaŋ.
 Ude täŋiri kome kawukiken upäŋkaŋ ketem säkgämän ahäŋirä pom terak sipsip imaka, ahäŋ bumbum täk täkaŋ. Täŋpäkaŋ pom ba imaka imaka kuduptagän gäka oretoret pähap nadäŋpäŋ kap tek täkaŋ.
 <range>
-
 Äma ba imaka kome terak kuŋat täkaŋ, in kuduptagän bänep oretoret gera terak Anutu iniŋ orerut!
 Wäpi biŋam yäpmäŋ akuŋpäŋ kap teŋ imut! Iniŋ oretoret kap tek-inik täŋ imut.
 Täŋpäŋ Anutu ŋode iwerut; Imaka täk täyan uwä tägagämän-inik! Kehäromikatä täŋpewän iwankaye gämotkaken maŋ-patäbot täkaŋ.
@@ -14942,6 +14942,7 @@ Bian gera yäŋira nadäŋ namiŋkuko unita kap terak wäpi biŋam yäpmäŋ aku
 Täŋpäŋ kädet waki täkta gäripi nadäŋkaŋ Anutuken gera yäŋkut yäwänäku nämo nadäŋ namän.
 Upäŋkaŋ, bureni-inik! Näkŋo yäŋapik manna nadäŋ namiŋkuk.
 Unita Anutu iniŋ orerut! Imata, näkŋo yäŋapik geranata mäde nämo utkuk. Täŋpäkaŋ butewaki nadäŋ namiŋpäŋ nämo nepmaŋkuk.
+
 Anutu, gäk butewaki nadäŋ nimiŋpäŋ iron täŋ nimi. Ude täŋ nimiŋiri säkgämän kaŋ itna!
 Ude täŋiri komen äma äbori äboritä gäkŋo ironka ba yäpätägak piäka u kudup kaŋ kawä tärewut.
 Anutu, gäk ude täŋiri äma äbot kuduptagän uken-uken naniktä bänep täga nadäŋpäŋ kaŋ ganiŋ orerut.
@@ -15028,7 +15029,6 @@ Anutu, bäräŋeŋ äbä täŋkentäŋ namisi!
 Äma yäŋärok man näwet täkaŋ u meni täŋpipiŋpäŋ yäwat kireŋiri mäyäk tawut.
 Täŋpäkaŋ ämawebe gäk gäwaräntäk täkaŋ u oretoret täk täkot! Anutu, gäk waki keriken nanik wädäŋ tädotpäŋ yepmaŋkuno unita gäka gäripi pähap nadäk täkaŋ. Täŋpäŋ kadäni kadäni ŋode yäk täkot; Anutu u wäpi biŋam ikek kaŋ irän!
 O Anutu, nähä waki kehäromina nikek nämo unita bäräŋeŋ äbi! Gäk kubä-tägän näkŋo täŋkentäk ba yäpätägak ämana. O Anutuna, bäräŋeŋ äbä täŋkentäŋ namisi!
-
 Ekänina, watä it namiŋiri iwantä näk täga nämo täŋpä waneŋ. Gäk iwan yabäŋ äwaräkuk täŋiri mäyäk nämo namineŋ.
 Täktäkka u siwoŋi-inik unita täŋkentäŋ namiŋpäŋ iwan keriken nanik yäyomägasi! Gäkken yäŋapiŋira nadäŋ namisi.
 Gäk yewa ba eŋi kehäromi ude it namik täyan. It namiŋiri näk u gänaŋ äroŋpäŋ iwan yabäŋ umuntaŋ päŋku käbop irira watä säkgämän it namik täyan.
@@ -15124,6 +15124,7 @@ Nämo, topmäk-topmäk kubägän ninkät bian täŋkuno unita äneŋi juku pi! I
 Unita iwan yabä-kätäŋiri mäyäk nämo nimineŋ. Nämo, täŋkentäŋ nimiŋiri äma jopi jäwäri mewuni nin wäpka kaŋ ganiŋ oretna!
 Eruk Anutu, bäräŋeŋ akuŋpäŋ iwankaye yabäŋ yäŋiri goret täkamäŋ yäŋ nadäwut. Äma udewani nämo nadäŋ gamiŋkaŋ kepma käroŋ gäk gabäŋ mägayäktagän nadäk täkaŋ u nadä!
 Täŋkaŋ iwankaye u kokwawak täŋpäŋ yäŋgera-gera wari wari yäk täkaŋ unita nämo guŋ täwen! Nämo, komi kaŋ yämi.
+
 Bänep täga, Anutu, bänep täga gäkagän nadäŋ gamikamäŋ! Imaka säkgämän säkgämän, ba kudän kudupi kudupi täŋ yäpmäŋ äbuno unitäŋo biŋam yaŋahäk täkamäŋ.
 Anutu, gäkä ŋode yäŋkun; Yäpmäŋ danik-danik epän täkta kadäni kubä iwoyäŋpäŋ peŋkuro itak. Kadäni uken kudän siwoŋi terak ämawebe uwä api yäpmäŋ daniwet.
 Täŋpäkaŋ imaka imaka kome terak it täkaŋ ba kome ini bärom täŋpeko upäŋkaŋ Anutu näkä meham täŋira api kehärom täneŋ.
@@ -15168,7 +15169,6 @@ Yäŋpewi gubam gwägärirän yäpä iromäŋ iwän bukŋa täŋkuk.
 Iromäŋ täŋpewi yäŋpäŋ-wädäŋ iwarirän yäpä kwinitpäŋ peŋyäŋeŋirän komeni komeni kwawakgän itkuŋ. Ude täŋirän kome kwaiŋkuk.
 Anutu, gäk gwägu käroŋi boham u bämopiken kädet täwitkun. Täŋkuno upäŋkaŋ kuroŋka bäräm äma kubätä täga nämo kaŋkuk.
 Ude täŋkaŋ ämawebekaye yawak ude irirä yäŋ-yämagutkun. U Moses kenta Arontä watä it yämiŋirän yämagut päŋku tägaken yepmaŋkun.
-
 Eruk ämawebenaye, in näkŋo jukuman ŋo nadäwut. Juku säkgämän peŋpäŋ man täwerayäŋ täyat ŋo nadäwut!
 Jukuman ŋo man wärani terak täwerayäŋ. Imaka bian ahäwani mebäri nikek unita täwerayäŋ.
 Bian oraniyetä yäŋpäŋ niwerirä nadäŋkumäŋo nadäk-nadäknin-ken pätak u tärewayäŋ.
@@ -15254,6 +15254,7 @@ Guŋ äbottä Anutujin de yäŋ niwerirä tägawek? Ude nämo, unita Anutu, guŋ
 Täŋkaŋ notniye komi eŋiken yepmaŋkuŋo yäŋkähän-kähän yäŋ itkaŋ u nadäŋ yämiŋpäŋ kehäromika ärowani terak äma kumäkta biŋam yäŋtärewani u yäniŋ kireŋpewi äpämaŋ kut.
 O Ekäni, guŋ äbot uken-uken nanik yäŋärok gäwet täŋkuŋo unita kowata kwini nämo täŋ yämen. Nämo, täŋ gamiŋkuŋo u irepmitpäŋ wakiinik täŋ yämen.
 Ude täŋiri ämawebekaye nin, yawakaye ude itkaŋ bänep täga man tärek-täreki nämo gäwetpäŋ ganiŋ oretoret api täŋ yäpmäŋ kune.
+
 Anutu, Isrel täŋo watä äma, gäk nadäŋ nimisi! Gäk Josep täŋo äbot nin, yawak ude watä it nimik täyan. Gäk aŋero täŋo intäjukun äma iriri it gwäjik täkaŋ.
 Unita gäk kehäromika oraniye Efraim, Bejamin kenta Manase täŋo äbot ninken kwawak pewi ahäwän! Äbä kehäromika nimiŋpäŋ täŋkentäŋ nimi!
 Anutu, gäk äneŋi nimagut yäpmäŋ dubikaken ku. Butewaki nadäŋ nimiŋpäŋ täŋkentäŋ nimiŋiri paotnetawä!
@@ -15290,7 +15291,6 @@ Butewaki! Ämawebenaye, jide? In näkŋo man ŋo juku peŋpäŋ nadänaŋi. Isre
 Ude täŋirä uyaku iwanjiye täŋo kehäromi yäpmäŋ äpätet. Ba ketnatä iwanjiye däpmäŋ paotet.
 Ude täŋira iwanjiye, näka bitnäk täkaŋ uwä näka umuntaŋpäŋ gwäjiŋ äpmoŋ namikäneŋ. Täŋpäkaŋ komi epän tärek-täreki nämo yämitet yäk.
 Upäŋkaŋ ämawebenaye, näk inta ketem säkgämän säkgämän tamakaŋ naŋ tokŋewut yäŋ nadätat.
-
 Anututä äma ekäni ekäni unita gera yäŋpewän äbäŋpäŋ käbeyä täŋirä Anututä ini käbeyä täŋo intäjukun äma itak. Intäjukun itkaŋ käbeyäken äma itkaŋ uwä ŋode yabäŋ yäyak;
 In goret täk täkaŋ yäk. In man käbeyäken äma kädet goret täŋpanita in täga täkaŋ yäŋ yäwet täkaŋ. Ba inä yabäŋ äwaräkuk täŋirä äma wäpi biŋam ikektä äma äpani täŋo wäpi yäpmäŋ äpäk täkaŋ yäk. Kädet u jidegän api peneŋ?
 Unita in kädet täga ŋodepäŋ kaŋ täŋput; Man käbeyäken äma jopi jäwäri ba iroŋi kodäŋa udewani yäŋkentäŋ yämineŋ. Täŋpäŋ ämawebe guŋ ba ini gupi täga nämo täŋkentänaŋi udewanita kädet siwoŋi täŋ yämineŋ yäk. Täŋpäŋ ämatä äma udewani komi epän täŋ yäminayäŋ täkaŋ uwä kaŋ yäniŋ bitnäwut.
@@ -15299,6 +15299,7 @@ Inä guŋ, nadäk-nadäkjin nämo! Injin bipmäŋ urani gänaŋ kuŋatpäŋ äma
 Näk bian ŋode täwetkut; Inä anutu bumik, Anutu ärowani täŋo nanakiye itkaŋ yäŋ täwetkut.
 Ude täwetkuro upäŋ apiŋo ŋode täwera nadäwut! Inä kodak nämo api itneŋ yäk. In äma mewunitä kumäk täkaŋ udegän api kumneŋ! Ba intäjukun äma ätutä kumäk täkaŋ udegän kumäŋpäŋ paot-inik api täneŋ yäk.
 Anutu, bureni yäyan! Gäk akuŋpäŋ kome terak yäŋtärek epän tä! Äma äbori äbori kuduptagän u gäkŋo biŋam.
+
 O Anutu, man kum nämo iren. Ba kubäkengän kwikinik nämo iren.
 Iwankaye yabäsi! Äma gäka gaŋani pähap nadäŋ gamik täkaŋ u ärowani täŋ gamikaŋ.
 Guŋ äma u ämawebekaye watä it yämik täyan u däpmäkta man käbop käbop yäŋpäŋ-nadäŋ itkaŋ.
@@ -15344,7 +15345,6 @@ Täŋpäŋ kadäni uken Anututä nadäŋ yämik-inik täŋirän ämawebeniyetä 
 Bureni! Kome terak Anutu täŋo ämawebeniyetä Anutu nadäŋ imikinik täŋirä Anututä käderi siwoŋi api yäwetpäŋ yäwoŋärewek.
 Ude täŋkaŋ iron täŋ nimiŋirän imaka imaka tänayäŋ täkamäŋ u kudup säkgämän ahäŋirä epäninken ketem ahäŋ bumbum api täneŋ.
 Täŋpäkaŋ Anutu täŋo kädet siwoŋitä intäjukun kuŋkaŋ Ekäni täŋo äbäkäbäk kädet api täwirek.
-
 Ekäni, äma mewuni näka butewaki nadäŋ namiŋpäŋ täŋkentäŋ nam!
 Nadäk-nadäkna kudup gäkkengän peŋpäŋ watä epän ämaka ude itat unita watä säkgämän it namiŋiri wawetawä.
 Ekäni, kepma käroŋ gäkken gera yäŋtäyiwa butewaki nadäŋ namiŋpäŋ geranata juku peyi.
@@ -15369,6 +15369,7 @@ Kome näkŋo man buramik täkaŋ unitäŋo wäpi tawaŋ api täŋpet. U täŋpay
 Kadäni uken Saionta ŋode api yäneŋ; Komeni komeni ämawebe täŋo eŋi meŋ bureni täyak. Täŋpäŋ Anutu täŋpämorek mähemitä ini täŋ-kehärom taŋpäŋ api pewek.
 Täŋpäŋ Saion täŋo kome mähem bureni-inik täŋo wäpi tawaŋ kudän täwayäŋ täyakken uken ämawebe komeni komeni nanik täŋo wäpi u kudup u gänaŋ api pewek.
 Ude täŋirän ämawebe uwä kap teŋ oretoret bumta täŋpäŋ ŋode api yäneŋ; Saion kome ŋowä iron kädet mebäri mebäri pewä ahäŋ nimani unitäŋo dapuri bureni-inik!
+
 Ekäni Anutu täŋkentäkna, kepma bipani konäm butewaki terak gäkken gera yäk täyat.
 Unita yäŋapik manna terak gera yäyat ŋo nadäŋpäŋ täŋkentäŋ nami.
 Bäräpi mebäri mebäri näkä terak äroŋirä kumäŋ-kumäŋ dubiniken itat.
@@ -15440,7 +15441,6 @@ O Ekäni, bian nadäŋ nimikinik täŋkuno u de pewi kukaŋ? Täŋpäŋ yäŋkeh
 Guŋ ämatä epän watä ämaka näka yäŋärok näwet täkaŋ unita nadäŋ äwaräkuk nämo täŋpen. Nämo, kowata yämen!
 Ekäni, nadä! Intäjukun ämaka näk iwoyäŋkuno u kome deken deken kuŋarira guŋ ämatä sära man näwet täkaŋ u nadätan?
 Eruk, Ekäni wäpi biŋam tärek-täreki nämo iniŋoret täkäna!
-
 Ekäni, gäk eŋinin bureni ude bian itkunonitä pen it yäpmäŋ äbätan.
 Kunum kenta kome nämo pewi ahäŋirän gäk Anutu itkun. Gäk Anutu pengän itkunonitä pen api it yäpmäŋ ärowen. Paotpaotka nämo.
 Gäk äma ŋode yäwet täyan; In äneŋi kome äworewut. Ude yäŋpäŋ äma täŋpewi kome äworek täkaŋ.
@@ -15474,6 +15474,7 @@ Täŋpäkaŋ gäk aŋ komi ba gämok täga api yeŋ yepmäŋiren.
 Täŋpäŋ Anututä ŋode yäŋkuk; Ämawebe näka gäripi nadäk täkaŋ uwä api täŋkentäŋ yämet yäk. Ba ämawebe nadäŋ namikinik täk täkaŋ uwä watä it yämet yäk.
 Äma udewani näkken gera yänayäŋ täkaŋ uwä api nadäŋ yämet yäk. Täŋpäkaŋ bäräpi ahäŋ yämiŋirä näk täŋkentäŋ yämiŋpäŋ wäpi biŋam ikek api yepmaŋpet yäk.
 Täŋpäkaŋ näkä kome terak irit kuŋat-kuŋari yäpurärät-pewa api käroŋtaŋ yämek yäk. Ude täŋira äma u ŋode api yäneŋ; Uraknin u täŋkentäknin bureni yäŋ api yäneŋ.
+
 Ekäni, gäk ärowani pähap. Gäka bänep täga man gäwetpäŋ ganiŋ orerira bänepna pidämtak täyak.
 Täŋpäŋ iron täŋ namik täyan unita tami tami yäŋahäŋit watä säkgämän it namik täyan unita bipani bipani yäŋahäŋira bänepna pidämtak täyak.
 Unita näk gita utpäŋ gäk wäpka yäpmäŋ akuk täyiwa.
@@ -15489,7 +15490,6 @@ Täŋpäkaŋ ämawebe siwoŋi kuŋaraniwä agäba päyani ärok täkaŋ udewani.
 Uwä päya Ekäni täŋo eŋi yämaken piwani, säkgämän, kehäromi nikek udewani.
 Äma udewani uwä nadäkiniki kodakigän pen api it yäpmäŋ kwek. Uwä päya biani-päŋkaŋ kodakigän itkaŋ bureni säkgämän pat täkaŋ ude bumik.
 Unita ŋode api yäŋahäneŋ; Ekäni u tägagämän yäk. Nin kehäromigän täŋkentäŋ nimik täyak yäk. Uken kädet goret kubä nämo kak täkamäŋ. Nämoinik!
-
 Ekäni uwä intäjukun-inik itak. Uwä ekäni ärowani. Wäpi biŋam säkgämäntä teki ude it täyak. Täŋkaŋ pioŋ yamäk täkaŋ ude kehärominipäŋ yamäk täyak. U komeni komeni täŋmeham täŋpäŋ pewän wareŋi nämo it täyak.
 Ekäni, gäk bian kome ŋoken imaka kubä nämo itkukken intäjukun itkun. Täŋkaŋ bian umuken intäjukun itkunonitä paot-paori nämo intäjukun it yäpmäŋ äbätan.
 Täŋpäkaŋ kome terak imaka imaka kehäromi nikek itkaŋ uwä gäkä yärepmitan. Gwägu käroŋi boham uwä mämä taŋi yäk täyak. Ba gwägutä taŋi tokätpäŋ mämä pähap yäk täyak upäŋkaŋ Ekäni, gäkŋo kehäromika uwä ärowani pähap. Gäkŋo kehäromikatä imaka imaka kuduptagän yärepmitak.
@@ -15585,6 +15585,7 @@ Täŋkaŋ äma yäŋpäŋ-yabäŋ yäwat täŋpani u api yäwat kirewet. Ba äma
 Täŋpäkaŋ ämawebe nadäk kubägän peŋpäŋ Anutu unitagän nadäŋ imikinik täŋpäŋ kuŋat täkaŋ u not täŋ yämiŋpäŋ api yämaguret. Ba nadäŋ yämiŋira äma kudän siwoŋigän täŋpanitä watä epän api täŋ namineŋ.
 Upäŋkaŋ jop manman yäwani ba täŋyäkŋarani täŋpanitä dubinaken täga nämo api itneŋ.
 Nämo, kepma kepma äma waki täŋpani Ekäni täŋo yotpärareken ba komenin kudupken nanik api däpmäŋ yäwat kirek täŋpet.
+
 O Ekäni, yäŋapik manna ŋo nadäŋ nami. Gäkä täŋkentäŋ nami yäŋpäŋ gera ŋo yäyat.
 Bäräpi taŋi kaŋ-ahäŋpäŋ nadäŋ bäräp terak irira näka mäde nämo ut namen. Nämo, gera yäŋira nadäŋpäŋ bäräŋeŋ täŋkentäŋ nam.
 Näkŋo iritna gupe kadäni keräpitagän äroŋpäŋ abutkuk täkaŋ ude. Täŋpäŋ gupna kädäp ijitak, kädäp gäyek ude.
@@ -15613,7 +15614,6 @@ Anutu, bian-inik kome ŋo gäkä täŋkun. Täŋpäŋ kunum peŋpäŋ imaka imak
 Imaka imaka kehäromi u kudup api paot moreneŋo upäŋkaŋ gäk pen api iren, paot-paotka nämo. Täŋiri imaka kunum ba kome terak peŋkuno uwä ämatä tek täŋ yäpmäŋ kuŋarirä wek täkaŋ udegän api täneŋ. Täŋpäŋ ämatä tek biani maŋpäkuk täkaŋ gäk udegän täŋpewi ämawebe paot täkaŋ. Ude täk täyan unita ämawebe kadäni käroŋi nämo it täkaŋ.
 Anutu, gäk itan ude pen api ireno unita nanakniyeta watä it yämiŋiri säkgämän api itneŋ. Täŋkaŋ unitäŋo nanakiye udegän, gäkŋata biŋamgän api itneŋ.
 <range>
-
 Näk Ekäni täŋo wäpi biŋam u yäpmäŋ akuk täyiwa! Bureni! Gupna, nadäk-nadäkna u kuduptä Ekäni täŋo wäpi kudupi u iniŋoret täŋpa!
 Ekänitä iron täŋ namik täyak unita guŋ täwetta yäŋpäŋ wäpi biŋam yäpmäŋ akuk täyiwa!
 Ekäni unitä momina kudup peŋ namiŋ morek täyak. Täŋpäŋ käyämna imaka, kudup nepmaŋpän tägak täyat.
@@ -15807,6 +15807,7 @@ Bureni, Ekäni uwä äma wäp biŋam ärowani nikek täŋo wäpi biŋam yäpmä�
 Upäŋkaŋ äma jäwäri komi butewaki gänaŋ nanik täŋken täŋpäŋ yepmaŋkaŋ iron täŋ yämiŋirän nanakiye sipsiptä nanak weŋbäyak täk täkaŋ ude bumta ahäŋkuŋ.
 Anututä ude täŋirän ämawebe siwoŋitä kaŋpäŋ bänep täga nadäk täkaŋ. Täŋ äma wakitä kaŋpäŋ jop, man kum it täkaŋ.
 Unita äma nadäk-nadäk ikek in Ekäni täŋo kudän päke u kaŋpäŋ nadäwä tärewut. Kaŋpäŋ nadäwä tärewäpäŋ Ekäni täŋo iron pähap unita yäŋpäŋ-nadäk kaŋ täŋpeŋ kuŋarut.
+
 O Anutu, bänepnatä gäka nadäkinik kehäromi täŋ gamitat unita kap terak ganiŋoret täyiwa!
 Eruk, bänepna pidäm täyi! Udegän, wagäm gita in kap tekta pidäm täkot! Pidäm taŋpäŋ kap teŋitna kome yäŋewän!
 Ekäni, wäpka käbop nämo api pewet! Nämo, ämawebe gäka nämo nadäk täkaŋ u bämopiken bänep täga terak wäpka biŋam api ganiŋ oreret.
@@ -15820,7 +15821,6 @@ Eruk Anutu, netätä yotpärare yewa kehäromi nikek, Idom komeken itak uken äm
 Nämo! Gäk mäde ut nimiŋkuno unita jop itkamäŋ. Gäk nintäŋo komi ämakät ämikken bok täga nämo api kuneŋ ba?
 Eruk Anutu, gäk täŋkentäŋ nimiŋiri uyaku iwan täga däpmäŋpäŋ yäwat kirene. Ämatä täŋkentäk täk täkaŋ u jopi, kehäromini nämo.
 Unita nadäkamäŋ! Anutu, gäkkät bok uyaku iwan täŋo kehäromini täga api yäpmäŋ äpne!
-
 Anutu, näk ganiŋoret täyat unita nadäŋ äwaräkuk nämo täŋpen.
 Nämo, äma wakiwaki täŋpani ba jop manman yäwanitä näk jop man näkŋatpäŋ nut täkaŋ.
 Mebärini nämo, man waki näwetpäŋ jop nepmäŋit täkaŋ.
@@ -16329,6 +16329,7 @@ O Ekäni, äma gäka kokwawak nadäŋ gamik täkaŋ unita näk udegän kokwawak 
 Bänep nadäk-nadäkna ba gupna kuduptä äma udewanita gaŋani pähap nadäk täyat. U yabäŋira iwanaye bureni ude täk täkaŋ.
 O Anutu, bänep nadäk-nadäkna ket täŋpäŋ yäpmäŋ daniŋpäŋ nadä.
 Ude täŋkaŋ nadäk waki ätu näk gänaŋ itneŋta epän täŋpäŋ yabäŋ ahä. Täŋpäkaŋ irit kehäromi täŋo kädetken yäŋnäkŋat yäpmäŋ ku!
+
 O Ekäni, äma waki ba äma komi komitä nutneŋta itkentäŋ namisi.
 Äma udewani waki täkta däpmonta nämo yek täkaŋ. Ba yäŋawät-awät kädet pewä ahäkta gäripigän täk täkaŋ.
 Meni jinom u päraŋi-inik, gämok komi täŋo meni bumik. Man yäkyäki u komigämän, gämok äma däpani udewani bumik.
@@ -16342,7 +16343,6 @@ Täŋkaŋ kädäp gäyek komigämän äma uterakgän kaŋ maŋpän! Täŋpäŋ u
 Ba äma jop manman terak äma manken yepmak täkaŋ unitä imaka bureni kubä kaŋ-ahäneŋtawä. Nämo, täŋpäwaktä äma komi komi uterak äroŋpäŋ kaŋ täŋpän wawut!
 Täŋpäkaŋ Yawe, äma jopi jäwäri itkentäŋpäŋ äma wakitä täŋyäkŋatneŋo udeta watä it yämik täyan.
 Unita ämawebe siwoŋitä dubikaken itpäŋ wäpka bureni-inik api ganiŋoret täneŋ.
-
 O Ekäni, täŋkentäkta gäkken gera yäyat ŋo nadäŋ namiŋpäŋ bäräŋeŋ täŋkentäŋ nam.
 Täŋpäŋ yäŋapik manna ŋonita nadäŋiri gupe käbäŋi nikek gäkken ärowani ude täyon. Täŋkaŋ ketna kewatat ŋonita nadäŋiri gäk ganiŋ oretta bipani täŋo ärawa säkgämän ude täyon.
 Eruk Ekäni, man waki kubä yäwetta mena jinomta watä ket it namik täyi.
@@ -16353,6 +16353,7 @@ Täŋpäkaŋ kudän wakita kowatawä iwantä äma udewani täŋo intäjukun äma
 Täŋpäkaŋ Yawe Ekänina, nähä dapunna gäkkengän api pewa äreneŋ. Iwanta käbop itta gäkken ärek täyat unita nabä-kätäŋiri nämo kumbet.
 Nämo, iwanayetä buŋep täŋ namik täkaŋ uterak ärowetta nepmäŋit näwasi.
 Ude täŋiri näk gupna koreŋ kuŋarira buŋepi terak äma waki unitä ini täga äroneŋ.
+
 Näk butewaki terak Anutuken gera yäŋ itat ŋo. Täŋkentäŋ namän yäŋpäŋ gera yäŋ itat.
 Näk nadäwätäkna yäŋahäŋpäŋ iwet it täyat.
 Jide täŋpäŋ ŋoba ŋo täŋpet yäŋpäŋ peŋpeŋ kwayäŋ nadäŋira Anututä nadäwätäkna yäpmäŋ äpäŋpäŋ ude kaŋ tä yäŋ kädet täwit namik täyak. Wära, wära! Kädet kuŋat täyatken ämatä näk nepmäŋitta yen kädetken pek täkaŋ.
@@ -16360,7 +16361,6 @@ Täŋirä näk dapun täŋpäŋ täŋkentäkna kubä nämo kaŋ-ahätat. Näkä 
 Täŋpäkaŋ Ekäni, gäkken täŋkentäkta gera ŋode yäyat; Gäk kubä-tägän watä it namik täyan. Gäripna kudup gäkä terakgän peyat.
 Unita gerana ŋo nadäŋpäŋ täŋkentäŋ nami. Näk kehäromina nämo. Äma näwat kirekaŋ u kehäromina kudup yäpmäŋ äpnayäŋ täkaŋ.
 Näk bäräpiken itat ŋo täŋpidäm taŋ nami. Ude täŋ namiŋiri uyaku ämawebekayetä u kaŋpäŋ nadäŋpäŋ äbä irirä näk iŋamiken wäpka biŋam api ganiŋ oreret.
-
 Ekäni gäk yäŋapik geranata juku peŋpäŋ nadäŋ nami. Gäk iron mähemi, äma siwoŋi-inik unita butewaki nadäŋ nam.
 Täŋpäkaŋ Ekäni, epän ämaka näk, näkŋata nadäŋira momi äma täyat upäŋkaŋ manken nämo nepmaŋpen. Nadätan, kome ŋo terak dapunkaken äma siwoŋi-inik kubä nämo itak.
 Ekäni, iwanayetä näwat kireŋpäŋ näkŋo kehäromina yäpmäŋ äpäk-inik täkaŋ. Täŋpäkaŋ kome bipmäŋ uraniken nepmaŋpä äma bian kumbanitä pat täkaŋ ude pat täyat.
@@ -17897,7 +17897,6 @@ Kadäni uken Yawetä in bämopjinken kadäni waki kubä api pewän ahäneŋ. Int
 
 
 
-
 Bian Yawetä Naptali kenta Sebulun täŋo kome täŋpän wawäpäŋ yepmaŋpän mäyäk pähap nadäŋkuŋ. Ude täŋkukopäŋ kadäni kubä ahäwayäŋ täyakken kome ukäda, Mediterenian gwägu pähaptä päŋku Jodan ume kukŋi udude, ba Galili kome, äma äbanitä it täkaŋken u imaka, wäpi biŋam yäpmäŋirä kadäni waki irit u api paorek.
 Ämawebe bipmäŋ urani gänaŋ kuŋat yäpmäŋ äbuŋo upäŋkaŋ peŋyäŋek pähap kubä kaŋkuŋ. Kumäkta biŋam itkuŋopäŋ apiŋo peŋyäŋektä peŋyäŋeŋ yämik täyak.
 Bureni Ekäni, bänepi täŋpidäm taŋiri oretoret terak it täkaŋ. Ude täŋ yämiŋkuno unita bänep täga pähap nadäŋ gamik täkaŋ, nak täŋ-tägawani kadäniken yäpmäŋpäŋ oretoret täk täkaŋ ude, ba kome kubäkät ämik täŋpäŋ tuŋumi yäyomägatpäŋ oretoret terak inita yäpmäk täkaŋ ude.
@@ -17905,6 +17904,7 @@ Täŋpäŋ ŋode täŋ yämiŋkuno unita oretoret täŋkuŋ; Gäk iwaniye täŋo
 <range>
 U imata, nanak paki kubä, nininken nanak ude ninta nimani. Nanak u ninta intäjukun itkaŋ api nibäŋ niwarek. Ude täŋirän wäpi mebäri mebäri ŋode api iwetneŋ; Nadäk-nadäk Tägagämän Nimani, ba Anutu Pähap, ba Nanin Tärektäreki Nämo, ba Kwini Terak Irit täŋo Intäjukun Äma yäŋ api iwetneŋ.
 Täŋpäkaŋ intäjukun ämanin u Devit täŋo komeni yäpmäŋpäŋ itkaŋ ämawebeniye api yabäŋ yäwarek. Täŋkaŋ intäjukun itpäŋ kehäromini taŋi ahäŋirän yabäŋ yäwat yewani gänaŋ ämawebeniye oretoret täŋpäŋ bätaki terakgän api itneŋ. Täŋkaŋ nadäwä äpani täktäk ba täŋyäkŋarani kädet terak nämo, kudän siwoŋi terakgän yeŋgämän pewäpäŋ kaŋiwat piäni paot-paori nämo, pen api täŋ yäpmäŋ ärowek. Bureni-inik, Yawe Kehäromi mähemitä ämawebeniyeta nadäŋ yämikinik täk täyak unita nadäk kehäromi peyak uwä burenigän api ahäwek.
+
 
 
 
@@ -22405,11 +22405,11 @@ Butewaki nadäŋ yämiŋpäŋ ŋode api yäwerek; Eruk, ketem, wain ume ba olip 
 
 
 
-
-
-
-
-
+Anututä ŋode yäyak; Kämiwä Munapikna ämawebe kuduptagänta kireŋ yämiŋira kudän mebäri mebäri api pewä ahäneŋ yäk. Äpetjiye nanakjiyetä näkŋo mena jinom yäpmäŋpäŋ api yäŋahäk täneŋ. Ba äma tägawanitä näkŋo kudän däpmonken api yabäk täneŋ. Ba äma gubaŋijiyetä däpmonken kudän kudupi api käneŋ.
+Bureni, kadäni uken näkŋaken Munapik äma täŋo piä watä ämawebe terak imaka, api piŋ yäbaret yäk.
+Täŋkaŋ kepma u nämo ahäŋirän intäjukun kaŋpäŋ nadäkta näk kudän kudupi mebäri mebäri kunum gänaŋ ba kome terak api pewa ahäneŋ yäk. Nägät, kädäp mebet, ba gupe pähap api ahäneŋ yäk.
+Yawe täŋo kadäni umuri pähap u nämo ahäŋirän edaptä bipmäŋ urani api täŋpek. Ba komepaktä nägätgämän ude api peŋyäŋewek.
+Täŋpäkaŋ kadäni uken ämawebe Yawetä täŋkentäŋ yämikta gera yänayäŋ täŋo u kudup api yämagurek. Bureni, Yawetä ŋode yäŋkuko udegän api ahäwek; Jerusalem ämawebe ätu uwä säkgämän itta iwoyäŋkuro unita nämo api paotneŋ.
 
 
 
@@ -22614,6 +22614,7 @@ Ude yäweränkaŋ Jona täŋo man nämo buramiŋpäŋ gäpe gwägu gägäni käd
 Täŋpä waŋtäko Yaweken butewaki gera ŋode yäŋkuŋ; O Yawe, äma ŋo gwägu gänaŋ mäna äpmoŋirän, gäk mebäri injinken itak yäŋ niwetkaŋ nibäŋ äwaräkuk täŋiri nämo paotne! Yawe, gäkŋa nadäŋpäŋ täŋkaŋ nintä terak nämo yäwen yäk.
 Täŋpäŋ äma unitä Jona yäpmäŋpäŋ gwägu gänaŋ maŋpä äpmoŋirän gwägu wareŋi nämo patkuk.
 Täŋirän äma itkuŋo unitä Yaweta bumta umuntaŋpäŋ bänep täŋkwitakta gupe käbäŋi nikek ijiŋ imiŋpäŋ Yaweta watä piä täŋ imineŋta yäŋkehärom taŋkuŋ.
+Täŋpäkaŋ Yawetä gwägu tom taŋi pähap kubä iniŋ kireŋpewän Jona kämän äpmoŋkuŋ. Kämän äpmoŋirä Jona gwägu tom pähap u koki gänaŋ kepma bipani yaräkubä ude patkuk.
 Jona tom koki gänaŋ patkaŋ Yawe Anutuni yäŋapik man terak ŋode iwetkuk;
 Näk komi piäken patpäŋ Yawe gäkken gera yäŋira naniŋ yäŋkun. Paotpaot komeken patkaŋ täŋkentäŋ nam yäŋpäŋ gera yäŋira nadäŋ namiŋkun yäk.
 Imata, gäk gwägu pähap gänaŋ pudät mabi baninik, gwägu mebäriken umu äpmoŋkuro unita. Täŋpäŋ gäkŋo gwägu pähaptä näk uwäktäŋ namiŋpäŋ gwägutä taŋi tokätpäŋ nut mabän äpmoŋkut yäk.
@@ -22624,7 +22625,6 @@ Iritna jirupmirayäŋ täŋirän Yawe, gäka nadäŋpäŋ gerana gäkŋo kudupi 
 Täŋpäkaŋ ämawebe yäwik pukpuki oraŋ yämik täkaŋ uwä gäka nadäŋ gamikinik tänaŋipäŋ mäde ut gamik täkaŋ.
 Täŋ nähä bänepnatä kap teŋoret gamiŋpäŋ ärawa api täŋ gamet. Täŋpäŋ yäŋkehäromtak man gäwetkuro u täkinik api täŋpet. Yäke! Paotpaotken nanikpäŋ yämagurani mähemi u Yawe ubayäŋ!
 Täŋpäkaŋ Yawetä gwägu tom iwet-pewän gwägu tomtä Jona gwägu gägäniken aŋeŋ maŋpän kuŋkuk.
-
 Täŋpäkaŋ Yawetä Jona äneŋi ŋode iwetkuk;
 Eruk, gäk Ninive yotpärareken ku yäk. Kuŋkaŋ manbiŋam gäwerayäŋ täyat u kaŋ yäwet.
 Ude yäŋirän Jonatä mani buramiŋpäŋ Ninive yotpärareken kuŋkuk. Ninive uwä yotpärare taŋiinik, kukŋi ŋonitä kukŋi udude kweno uwä edap yaräkubä tärewek.
@@ -22701,11 +22701,11 @@ Täŋ nähä Ninive yotpärare pähap unita butewaki täga nämo nadäwet? Yotp�
 
 
 
-
 Yawetä ŋode yäyak; Betlehem Efrata, gäk Juda kome täŋo yotpärare päke unitäŋo täpuri ude itan. Upäŋkaŋ inken intäjukun äma pähap kubä api ahäwek. Ahäŋpäŋ näkŋaken äbot, Isrel ämawebe u näkŋo wäpna terak api yabäŋ yäwarek. Äma unitäŋo oraniye uwä bianinik umu ahäŋkuŋotä ahäŋ yäpmäŋ äbäkaŋ.
 Unita Yawetä Isrel äbot iwan keri terak yepmaŋpän it yäpmäŋ kuŋtäko webe kubä Ekänitä iwoyäŋkuko unitä nanak api bäyawek. Kadäni uken intäjukun äma unitäŋo noriye ätu ämatä komeken komi epän terak itkuŋo u äbäŋpäŋ Isrel noriyekät äneŋi kubäkengän api itneŋ.
 Täŋpäkaŋ intäjukun äma unitä yawakiye Yawe Anutuni täŋo kehäromi ba wäpi ba epmäget kudäni uterak watä kehäromi api it yämek. Watä it yämiŋirän säkgämän api itneŋ. Täŋkaŋ äma unitäŋo kehäromi ba wäp biŋam ärowanitä komeni komeni api kuŋ morewek.
 Ude täŋkaŋ bänep kwini täŋo mähemi ude api it yämek.
+
 
 
 
@@ -23205,12 +23205,12 @@ Täŋpäŋ Yawe Kehäromi mähemitä ŋode yäkgän täyat; In yäpmäŋ danikta
 
 
 
-
-
-
-
-
-
+Yawe kehäromi mähemitä ŋode yäyak; Kepma pähap kubä bureni-inik api ahäwek. Kepma uken ämawebe inita nadäŋirä ärowani täŋpanikät wakiwaki täŋpani unitä mup kubit täwani ude äworeŋirä kädäptä kudup api ijiŋ paotneŋ. Kokoki täpuri kubä nämo api itneŋ.
+Täŋ, näk wäpna biŋam oraŋ namik täkaŋ inken näkŋo yäpä-siwoŋtak piä kehäromitä edap dapuritä-yäŋ abäŋ tamiŋpäŋ yäpätägaŋ tamek. Ude täŋ tamiŋirän oretoret bumta, bulimakau nanakitä yewa gänaŋ naniktä äpämaŋ päŋku täŋoret täk täkaŋ ude api täneŋ.
+Kadäni piä ude täŋpayäŋ täyatken inä äma wakiwaki yärepmitpäŋ kugun ude parirä uterak yeŋtäŋ kuŋ äbäk api täneŋ. Yawe kehäromi mähemi näkä ude yäŋkehärom täyat.
+Unita in näkŋo baga man, piä ämana Mosesta Sinai pom terak imiŋkuro unita nämo guŋ täneŋ. Man imiŋkuro u Isrel ämawebe in kuduptagäntä iwatneŋta imiŋkut.
+Täŋpäkaŋ Yawe näkŋo kadäni umuri pähap unitä nämo ahäŋirän intäjukunä profet Elaija api taniŋ kirewet.
+Elaija u taniŋ kireŋira nädanani täŋo kokwawak yäpän-siwoŋ tawäpäŋ api yepmaŋpek. Ude täŋkentäŋ tamikta nadäk nämo peyat yäwänäku äbä komejin täŋpa wakkäneŋ.
 Man pätkaŋ ŋowä Jesu Kristo oraniye täŋo wäpi tawaŋ. Täŋpäŋ Jesu täŋo orani pähap u wäpi Abraham, bian-inik itkuko u. Täŋpäŋ Abraham täŋo yeri ahäŋ yäpmäŋ abäŋkä uterak orani kubä wäpi Devit ahäŋkuk. Täŋpäŋ Devit täŋo yeri ahäŋ yäpmäŋ abäŋkä u punin terak Jesu ahäŋkuk.
 Eruk Jesu täŋo oraniye tawaŋ ahäŋ yäpmäŋ äbuŋo unitäŋo manbiŋam u ŋode; Intäjukun-inik Abrahamtä nanaki Aisak bäyaŋkuk. Täŋpäŋ Aisaktä Jekop bäyaŋkuk. Jekoptä Judakät noriye ätu bäyaŋ yepmaŋkuk.
 Judatä Peres-kät Sera bäyaŋkuk. Yarä unitäŋo miŋi wäpi Tama. Täŋpäŋ Perestä Esron bäyaŋkuk. Esrontä Ram bäyaŋkuk.
@@ -27691,7 +27691,7 @@ Täŋirä Efesus nanik täŋo gapman kubätä ämawebe päke u yäniŋ bitnäŋp
 Täŋpäkaŋ äma yarä ŋowä kudupi yot täŋo imaka ätu nämo kubo täŋkumäno upäŋkaŋ jop yäŋ-yäkŋat yäpmäŋ äbäkaŋ yäk. Ba yäwik webenin unita yäŋärok man kubä nämo yäŋkumän.
 Täŋ, Demitrius-kät epän ämaniyetä äma kubäken man kubä iränä, man yäpätägak-tägak kadäniwä itak yäk. Ba man yäpmäŋ daniwani äma itkaŋ yäk. Unitägän man yäpätägak epän api täneŋ.
 Ba äma kubätä man kubä nadäŋpäŋä, uwä käbeyä kadäni-ken ugän yäŋpäŋ täga ket utneŋ yäk.
-Täŋ, apiŋo ämik pena ahätak u mebärini nämo unita nin bäräpi yäpnaŋi bumik yäk. Täŋpäkaŋ käbeyä waki ŋonitäŋo mebärita niwet yabäwäwä kowata täga nämo api yäwetne.
+Täŋ, apiŋo ämik pena ahätak u mebärini nämo unita nin bäräpi yäpnaŋi bumik yäk. Täŋpäkaŋ käbeyä waki ŋonitäŋo mebärita niwet yabäwäwä kowata täga nämo api yäwetne. Eruk ude yäwetpäŋ ämawebe päke uwä yäwerän yäpmäŋ kuŋtäŋpä kuŋkuŋ.
 Eruk kadäni Efesus ämawebetä kähän gera mämä päke yäŋkuŋo u bitnäŋirä Pol äbot täŋpanita yäŋpewän äbuŋ. Yäŋpewän äbäkaŋä bänep nadäk-nadäki täŋ-kehäromtaŋ yämikta jukuman ätu yäwetkaŋ yepmaŋpeŋ Masedonia komeken kuŋkuk.
 Masedonia komeken kuŋkaŋ ämawebe u nanik täŋo bänepi täŋ-kehäromtaŋ yämikta jukuman mäyap yäwettäŋ kuŋkuk. Ude täŋtäŋ kumaŋ eruk, Grik komeken ahäŋkuk.
 Ahäŋpäŋ komepak yaräkubä ude Grik komeken irän täreŋirän gäpe terak äroŋpeŋ kome kubä wäpi Siria komeken kwayäŋ nadäŋkuk. Täŋpäŋ Juda naniktä utta man topuŋo u nadäŋpäŋä äneŋi äyäŋutpeŋ Masedonia komeken kuŋkuk.

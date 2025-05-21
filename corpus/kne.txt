@@ -926,6 +926,7 @@ Palobosam aben asawak ya din an-ak mi ay in-ob-oblaak sin nansilsilbiak en sik-a
 
 
 
+
 Idi wada pay da Jacob sin danan, waday aanghel ay nangabet en daida.
 Idi inilan Jacob, kanana, “Da naey baw din sosoldadon Diyos.” Et nginadanana din lugar ay doy si Mahanaim.
 Idi siya di, wada day bag-en ay inpaon-onan Jacob ed Edom ay kad-an di pangpangoana ay si Esau.
@@ -958,7 +959,6 @@ Kanan pay Jacob, “Ibagam kod abe din ngadan mo.” Ngem kanan din lalaki, “D
 Et nginadanan Jacob din lugar ay sanas Peniel, tan kanana, “Nansango kami baw en Diyos, yan matmatagoak pay laeng.”
 Maag-aggew sin kinmaanan Jacob ed Peniel, yan manpilpilay ay mandad-an begew sin naikomsiw ay lipad na.
 Say gapo na ay mo way paltien din Israelita, adi da isida sin lamlames di lipad enggana ed wani, tan din lamlames ay sana din dinespeg di kinadaman Jacob.
-
 
 
 
@@ -1709,10 +1709,6 @@ Ngem tinadon abe din ipogaw di ari ay mansalsalamangka, isonga natongpal din inp
 et kataynan en daida. Pag mantaoli sin palasyo. Olay din napasamak ay nay et adi na inkaskaso.
 Din ipogaw pay yan nankotkot da sin ig-igid di ginawang ay Nile, tan adi mabalin ay inomen din danom sin ginawang.
 Idi nakdeng ay nanbalinen Diyos din ginawang si dada, inmey di pito ay agew.
-
-
-
-
 Idi makdeng di, kanan Diyos en Moses, “Emey ka sin ari ta kanam en sisya, ‘Siya na di inbagan Diyos: Palobosam din ipogaw ko ta en da mandayaw en sak-en,
 tan mo sigaam, dosaek din ilim et pawadaek di ad-ado ay tokak.
 Mapno din ginawang ay Nile si ad-ado ay tokak et somakyat da ay emey sin palasyom ya sin kowartom et pomatok da sin katrim. Emey da abe sin beey di oopisyal ya ipogaw mo dowan dan pomatok sin pan-ot-otoan ya banga yo.
@@ -1741,6 +1737,10 @@ Pinaayagan din ari da Moses en Aaron yan kanana, “En kayo man-idaton sin Diyos
 Ngem kanan Moses ay nanongbat, “Naligat met mo say amagen mi sa, tan abigen din taga-Egipto din pan-idatonan mis animal en Yahweh ay Diyos mi. Adi pay mo ilaen da din pan-idatonan mi, palalo ay masnit da et pigpigen das dakami.
 Masapol ay mandan kami si tolo ay agew ay emey sin lugar ay magay omili ta isdi ay man-idaton kami en Yahweh ay Diyos mi, tan say inbilina.” Kanan din ari,
 “Palobosak dakayo ay en man-idaton en Yahweh ay Diyos yo sin lugar ay magay omili mo baken palalo ay addawi di emeyan yo. Ikararagan yo ngarud si sak-en ta makaan nan ligat ay nay.”
+Kanan Moses ay nanongbat, “Mo komaanak, mankararagak ay dagos en Diyos ta mo si bigat, komaan amin ay lallaeg sin kad-am ya sin oopisyal ya ipogaw mo. Ngem adim koma kasin ietekan si dakami ya adim iparit din kaipoipogaw ay en mandayaw en Diyos.”
+Tinaynan Moses din ari et nankararag en Diyos,
+yan pinatgan Diyos din kararag na. Tinaynan din ad-ado ay lallaeg din ari ya din oopisyal ya ipogaw na et magay olay esay lallaeg si nabay-an.
+Ngem olay mo siya di, pinakenteg kasin din ari din nemnem na et adi nan palobosan din ipogaw ay komaan.
 Binilin kasin Diyos si Moses yan kanana, “Emey ka sin ari ta ibagam nan sisya, ‘Siya na di kanan Yahweh ay Diyos di Hebreo, “Palobosam din ipogaw ko ta en da mandayaw en sak-en.”
 Mo adi ka pay laeng palobosan daida,
 ilaen yon to di iyat Diyos sin animal yo ay wada sin pastolan. Mapisti dan to din kabayo, dangki ya kamel yo. Siya abe sin baka, karnero ya kalding yo.
@@ -2132,7 +2132,6 @@ Ngem nantettee dan ipogaw sin ad-addawi et enggay Moses si sinmag-en sin naposko
 
 
 
-
 “Adi yon sakitan ono paligaten di mangili. Nemnemnemen yo ay nanbalin kayo abe ay mangili ed Egipto.
 “Adi yon paligaten di nalasang ya naolila,
 tan mo say iyat yo, sak-en ay Diyos et songbatak din adawag da ay mankedaw si badang ko.
@@ -2141,6 +2140,7 @@ Bomongetak et peslek dakayo sin gobatan ta malasang din asawa yo ya maolila abe 
 Mo waday ina yo di tak-ep di bado na gapo ta say sinyal di tolagan ay bayadana din inotang na, masapol ay itaoli yo mo malablabi,
 tan enggay na si pansalina si tengnin sin labi. Mo magay igaley na, intoy iyat na pay ay maseyep? Mo mankedaw adi si badang ko, badangak tan managseg-angak.
 “Adi yo laslasoyen si sak-en ay Diyos ya adi yo aben palawlawaen din pangolon di ili yo.”
+
 
 
 
@@ -4228,6 +4228,21 @@ Kaman waday tepek din lota ay nangokmon en daida ya sin pamilya da. Am-in abe di
 Sibibiyag da ay inmey ed dallem sin kad-an di natey ay naitapi din amin ay sanikwa da. Nan-omot din lota, et maga da ay mail-ila.
 Sin nanngean din odom ay Israelita sin kilalad da, katanagtag da ay kinmaan et kanan da ay nangibogaw, “Dalasen yo tan mo makionog tako!”
 Idi nakdeng di, wada et di manbidbidang ay apoy ay napo en Diyos, et pag mapooan din 250 ay lalaki ay nangidaton si insinso.
+Pag kanan Diyos en Moses,
+“Ibagam en Eleazar ay anak Aaron ay padi ta ena kaanen am-in din bronsi ay palanggana ay wada sin kad-an di bangkay di napooan ay lalaki ya iwalang na din man-ganggangab ay oling sin natken ay lugar, tan din palanggana ay sana et nasantoan da.
+Nanbalin da ay nasantoan tan naosal da ay naidatonan di insinso sin sangoanan Diyos. Alaena ngarud din palangganan di lallalaki ay natey begew sin basol da ta pitpitena enggana ay omingpis ta say maamag si pankaleb sin altar. Manbalin ay sinyal ono pannemneman di Israelita.”
+Idi siya di, tinongpal Eleazar ay padi am-in ay inbilin Diyos en sisya babaen en Moses. Tinopog na am-in din bronsi ay palanggana ay inosal din lalaki ay napooan. Inpapitpit na enggana ay inmingpis et inamag das kaleb di altar. Say mangipanemnem sin Israelita ay maga en daida di mabalin ay man-ipoo si insinso sin sangoanan Diyos malaksid di polin Aaron. Tan mo waday mangipoo, matey ay kaman din napasamak en da Kora ya din gagait na.
+<range>
+Sin kabigatana, nanriri kasin din am-in ay Israelita en da Moses en Aaron ay nangwani, “Dakayo di namse sin odom ay ipogaw Diyos.”
+Idi matoptopog da ta say pabasolen das da Moses en Aaron, sinagong da et din Tolda ay Panpappailaan Diyos yan kambaw wada et din liboo ay nanlingeb. Nanpaila abe din mankoniniing ay kinadiyos en Yahweh.
+Pag emey da Moses en Aaron sin sangoanan di Tolda
+et kanan Diyos en Moses,
+“Addawiam dana ay ipogaw ta peslek ay dagos.” Pag et mandokmog da Moses en Aaron ay manyakog-ong.
+Kanan Moses en Aaron, “Alaem din palangganam ta pay-am si man-ganggangab ay oling ay mapo sin altar, asi ka pay-an si insinso. Dalasem ay emey sin kad-an di ipogaw ta amagem din seremonia ay manglinis sin basbasol da. Tan enggay inpailan Diyos din bonget na yan nanlogi di kaeegyat ay sakit.”
+Tinongpal Aaron din inbagan Moses. Ina na din palanggana na et nanagtag ay inmey sin gawan di natotopogan di ipogaw. Enggay nanlogi din sakit ay man-inalis sin kaipoipogaw, ngem indatona din insinso ta malinisan basbasol da.
+Din inamag Aaron ay nay di nangipasaldeng sin nateyan di ipogaw yan wadas sisya ay pinmipika sin nan-gagawaan di sibibiyag ya natey ay ipogaw.
+Sinpo ya opat ay libo ya pito ay gasot di natey ay ipogaw begew sidi ay sakit ay adi maibilang din natey begew sin inamag da Kora.
+Idi sinmaldeng din kaeegyat ay nay ay sakit, nantaoli si Aaron sin kad-an Moses sin segpan di Tolda ay Panpappailaan Diyos.
 Kanan Diyos en Moses,
 “Ibagam sin Israelita ta man-a da si sinpo ya dowa ay sokod, sag-eesa sin pangolon di sinpo ya dowa ay tribu, ta idawat da en sik-a. Isolat mo din ngadan di esa ya esa ay pangolo sin sokod na.
 Isolat mo abe din ngadan Aaron sin sokod ay mangialagey sin Levita, tan masapol ay waday sag-eesa ay sokod ay napo sin papangolon di am-in ay tribu.
@@ -4241,21 +4256,6 @@ Pag kanan Diyos en Moses, “Itaolim din sokod Aaron sin sangoanan di Baol di To
 Tinongpal Moses din inbilin Diyos.
 Idi siya di, kanan din Israelita en Moses, “Enggay et baw sa! Matey kami am-in!
 Tan mo sino di omasag-en sin Tolda ay Panpappailaan Diyos et matey. Adi pay say kateyan tako am-in!”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5679,7 +5679,6 @@ Pansisianen Diyos dakayo ay iwaras sin amin ay ili sin amin ay solin di lobong e
 
 
 
-
 Danay din inbilin Diyos en Moses ay itolag na sin Israelita sin kawada da ed Moab ay maitapi sin intolag Diyos en daida ed dontog ay Sinai.
 Pinaayagan Moses amin din Israelita, pag nan kanan en daida, “Inila yo ay mismo din inyat Diyos sin ari ed Egipto ya sin oopisyal na ya sin amin ay ipogaw na.
 Inila yo din kaeegyat ay dosa ya nakaskasdaaw ay inam-amag Diyos pati din nakaskasdaaw ay sinyal ay inpappaila na.
@@ -5695,6 +5694,7 @@ Wada kayo amin isna ta isapata yo ay awaten ya tongpalen yo din intolag Diyos en
 ta manipod ed wani yan ibilang nas dakayo ay ipogaw na ya sisya di dayawen yo ay Diyos ay kaman din inkari na sin ap-apo yo ay da Abraham, Isaac ya si Jacob.
 Nan itolag Diyos ay ibagak en dakayo ya din isapata yo ay tongpalen yo et baken datako anggoy
 ay pinmipika isnan sangoanan Diyos di makilak-am mo adi abe din ipoli tako ay maisoksokat en datako sin tapin di agew.”
+
 
 
 
@@ -7772,6 +7772,7 @@ Pag bomanogaw din taga-Israel ya taga-Juda ay nangapayaw en daida sin danan ay m
 
 
 
+
 Inmey si David ed Nob sin kad-an Ahimelek ay padi. Manpayegpeg sisya ay nangabat en David yan kanana, “Apay nga es-esam ay magay intakin mos gait mo?”
 Kanan David ay nanongbat, “Waday nangibaaan din ari en sak-en yan inbilina ay adiak ibagbaga si olay sino din inpaamag na en sak-en. Mo maipanggep sin ipogaw ko yan binilin kos daida ay man-aabat kami si esa ay lugar.
 Sinoy makan ay wadan sik-a ed wani? Omya ka kod si lima ay tinapay ono kompormi ay makan ay wadas sa.”
@@ -7861,7 +7862,6 @@ Manmano di ipogaw ay mo datngan day kaibaw da yan ipalobos da ay makalayaw ay ad
 Enggay ammok ay dadlon kan man-ari ed Israel et manturay kas mabayag.
 Isonga mansapata ka sin ngadan Diyos ay adi kan peslen din polik ta say adi malinglingan din ngadan ko ya din ngadan amak.”
 Et nansapatas David. Pag somaas Saulo, ngem nantaolis da David ya din ipogaw na sin nantabonan da.
-
 
 
 
@@ -8865,6 +8865,20 @@ Idi dinngen din amin ay Israelita din inkeddeng di ari, palalo ay pinatpateg ya 
 
 
 Kaman din kaad-adon di darat sin igid di baybay din kaad-adon di ipogaw ed Juda ya Israel. Napnek da ay nangnangan ya nan-in-inom et naragsak da.
+Inturayan Solomon din amin ay nasyon manipod sin ginawang ay Eufrates engganad Filistia ya sin beddeng di Egipto. Nanbowis ya nansilbi dan Solomon sin intiro ay timpon di biyag na.
+
+
+
+
+
+
+
+
+
+
+
+
+Nadamag di kaariari sin intiro ay lobong din kinalaing Solomon et nan-ibaa das ipogaw ay en nandenge en sisya.
 Idi dinngen Hiram ay ari ed Tiro ay nadotokan si Solomon ay maisokat en Ari David ay ama na, nan-ibaa si panakaawak na ay emey en Solomon. Si Hiram ay nay yan nabayag ay gayyem en David.
 Idi nantaoli da din inbaan Hiram, siya na di inpaibagan Solomon,
 “Ammom ay adi nasangon amak ay David ay mangisaad si timplo ay pandayawan di ipogaw en Yahweh ay Diyos na gapo ta kanayon ay ginobgobat di odom ay nasyon enggana ay nangabaken Diyos sisya sin amin ay kalabana.
@@ -8883,20 +8897,6 @@ Et siya di, inpaiey Hiram amin din kasapolan Solomon ay nabanglo ay kaiw ay makw
 
 
 Et pag isaganan di karpintiron da Solomon en Hiram pati din taga-Gebal din tabla ya bato ay kasapolan sin maamag ay timplo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Inlogin Solomon ay nangisaad sin Timplo sin maika-480 ay tawen manipod sin kinmaanan di Israelita ed Egipto, sin maikap-at ay tawen ay panturayana ed Israel. Inlogi na sin maikadwa ay bowan ay kanan da en Ziv.
 
 
@@ -9523,6 +9523,7 @@ Waday posong isdi ay pan-amsan di babbabai ay nangilaklako sin awak da. Say nang
 Idi nakdeng di, naisokat ay ari si Ahazias ay anak na.
 Sin maikap-at ay tawen ay nanturayan Ahab ed Israel, naisaad ay ari ed Juda si Jehosafat ay anak Asa.
 Mantawen si Jehosafat si 35 sin nanbalinana ay ari yan nanturay ed Jerusalem si 25 ay tawen. Si Azuba ay anak Silai di ina na.
+
 Inamag na din kosto sin pangilan Diyos ay kaman si Asa ay ama na, ngem adi nan dinadael din pandaydayawan di ipogaw si sinan didiyos ay wada sin dodontog, et intoltoloy da ay nan-ipoo si daton ya insinso isdi.
 Sin nanturturayan Jehosafat, nakikapya sin ari ed Israel.
 
@@ -9531,7 +9532,6 @@ Sin nanturturayan Jehosafat, nakikapya sin ari ed Israel.
 
 
 Natey si Jehosafat et naiponpon ay naitapi sin aap-o na sin siyodad apo na ay David. Si Jehoram ay anak na di naisokat en sisya ay nan-ari.
-
 
 
 
@@ -12362,12 +12362,6 @@ Kanak ay nanongbat en daida, “Idawat Diyos ed langit di kosto ay pantongpalan 
 
 
 
-
-
-
-
-
-
 Idi nadamag Sanballat ay bangbangonen mi kasin din alad di siyodad, palalo di bonget na et inlogi na ay nanglaslasoy en dakami ay Judio.
 Kanana sin sangoanan di gagait na ya sosoldado ed Samaria, “Sino aya di layden da nan kakkaasi ay Judio ay ipaila isnan am-amagen da? Ay kabaelan da aya ay bangonen kasin din alad yan kedngen da si esay agew? Ay man-idaton da? Ay mabalin aya ay itaoli da din napooan ay bato sin nadadael ay alad?”
 Kanan din tinatakdo na ay si Tobia ay Ammonita, “Sino pay di silbin san am-amagen da ay alad et? Olay bewet di somakyab et madadael din batog da.”
@@ -12385,6 +12379,12 @@ Nadlaw ko ay madanagan din ipogaw, isonga kanak en daida ya sin papangolo ya oop
 Naammoan din kalaban mi ay ammo mi din plano da ya tinopap Diyos. Idi siya di, intoloy mi ay nangamag sin alad.
 Manipod sidi ay agew, man-obla din kagodwan di ipogaw ko yan manbantay din kagodwa ay nakaarmas si kampilan, gayang, pana ya salida. Tinolongan din oopisyal amin din ipogaw ed Juda
 ay man-am-amag sin alad. Din manbonbonag si maosal yan nakaegen si armas din esay takkay da yan say osalen da ay man-obla din esa.
+Amin ay man-obla yan insisiket da din kampilan da. Makitatakdo abe en sak-en din manangtanggoyob.
+Pagak kanan sin kaipoipogaw, sin papangolo ya oopisyal da, “Ando nan alad ay am-amagen tako et nan-inaddawi tako,
+isonga mo dengngen yo din tanggoyob, omali kayo ay tomolong tan si Diyos di makilaban para en datako.”
+Inag-agew ay siya di di inamag mi, manbantay ay nakaarmas din kagodwa yan man-obla din kagodwa. Ilogi mi sin pomatpat-a enggana ay maila din talaw sin labi.
+Sin doy ay timpo, inbagak abe sin lallalaki ya katolongan da ay mantee da sin oneg di siyodad sin labi ta bantayan da din siyodad sin labi yan man-obla da sin kaagawan.
+Mo si sak-en ya din aag-ik, baak ya gogowardiya ay omon-onod en sak-en, adi kamin kakkaanen din bado mi sin labi. Kanayon abe ay nakaegen kami si armas.
 
 
 
@@ -12550,7 +12550,7 @@ Din aari, papangolo, papadi ya ap-apo mi yan adi dan tinongpal din linteg mo. Ad
 Mayat di kabibiyag ay inpalak-am mo en daida sin annawa ay daga ay inturayan da ay magabay di mola. Ngem olay mo siya di, adi dan dinokdokogan din lawa ay ogali da ta mansilbi dan sik-a.
 Ed wani yan nay naibabag-en kami isnan ili ay indawat mo sin ap-apo mi ta say kapoan di kanen mi ya amin ay pansigdan ay magon-od mi.
 Gapo sin basbasol mi, din aari ay insaad mo ay mangituray en dakami di kaidawtan din maapit. Mabalin ay amagen da di olay sino ay layden da en dakami ya sin aanimal mi et palalo ay maligligatan kami.
-
+Ngem olay mo siya di di napasamak, man-amag kami ay Judio si kasolatan ay masapataan ay pirmaan din papangolo, Levita ya papadi mi.”
 
 
 
@@ -13959,6 +13959,7 @@ Awni et dadlon kan abaken daida, ay kaman din kalakan di kagopakan di kalamba.�
 Isonga dakayo ay aari ya turay isnan daga, dengngen yo nan pamagbaga.
 Emegyat kayo ya patgen yo si Diyos koma sin mansilsilbian yo en sisya.
 Mandokmog kayo sin anak na ya manpakombaba kayo tan amangan mo bigla ay bomonget din Apo et sigurado ay matey kayo. Nagasat amin ay komamang en Diyos Apo.
+
 Sik-a ay Diyos, ilaem kod di kaad-adon di komonkontra, din kaibaw ko et ad-ado da.
 Lomaslasoy da pay ay kankanan da, “Ilaen yo et adi man badangan Diyos sisya.”
 Ngem kaman kan kasay ay salaknib ko, isonga laton ay abakek din kaibaw ko. Idawat mo kasin din dayaw ko, et papigsaem nan nemnem ko.
@@ -14049,7 +14050,6 @@ Pese di pantongpalan di mangam-amag si lawa. Katet-ewa na, am-in ay nanigaan en 
 Ngem din kakkaasi, baken kanayon ay mabaybay-an da, adi aben makaan din namnama da.
 Apo, man-gonay ka koma, adi ka ipalobos ay makalisi di ipogaw en sik-a. Sinopem din nanasyon ta okomem daida.
 Apo, kibtotem man daida ta ammoen da ay owat dan ipogaw tet-ewa.
-
 Ay Diyos, apay nga omaddawi kan dakami? Apay nga mantabon ka sin timpon di ligat mi?
 Nangato di nemnem di ipogaw ay lawa, din kakkaasi yan palpaligaten da. Sapay koma ta makna da sin bito ay inamag da.
 Tan din mangam-amag si lawa ya mangamgamgam si baken dan oka et it-it-ek da din kabaelan da ay manongpal sin layden da. Sigaan daka ay Diyos ya palawlawaen das sik-a.
@@ -14075,6 +14075,7 @@ Wadas Diyos sin nasantoan ay Timplo na, ed langit di panturayana. Am-in ay ipoga
 Din nalinteg ya managbasol yan timbangena, kaliliget na din malaylaydan ay mamalpaligat si iib-a na.
 Sin managbasol yan paodanena din man-gangab ay oling ya asufre ay kanan da. Man-atong ay dagem di dosa da.
 Tan nalinteg si Diyos et din siged ay ogali di laydena. Awni et ilaen di nalinteg sisya.
+
 Sik-a ay Diyos, bomadang ka koma, tan nay enggay magay nalinteg di ogali na, magay matalek si olay esa.
 Am-in ay ipogaw, man-asieetek da. Kaman mayat din kali da ngem baken baw tet-ewa.
 Apo, paginkem et koma din mangpaspasablog si ib-a da ya mangit-it-ek si awak da.
@@ -14088,8 +14089,7 @@ Apo, kas-anoy kabayag na ay bomaybay-an ka? Ay bomaybay-an ka si eng-enggana? Pi
 Pig-an ay mapap-eng nan panlak-amak si ligat ko ya innagew ay ladingit ko? Kas-anoy kabayag nan omam-amisan di kalaban ko?
 Nemnemem komas sak-en, Yahweh ay Diyos ko, ya patgam din kararag ko. Omipabikas ka ta adi masokpot nan leng-ag ko.
 Adim ipalobos ay kanan da en inmabak da et begew sidi yan manragsak da.
-Ngem mantalekak sin adi manbalbaliw ay layad mo, manragsakak to sin panangisalakan mo.
-Mankantaak ay mangidaydayaw en sik-a, Apo, gapo sin inpailam en sak-en ay kinasiged mo.
+Ngem mantalekak sin adi manbalbaliw ay layad mo, manragsakak to sin panangisalakan mo. Mankantaak ay mangidaydayaw en sik-a, Apo, gapo sin inpailam en sak-en ay kinasiged mo.
 Kanan din naong-ong sin nemnem da, “Ay siya mo waday Diyos tet-ewa?” Kadodogis sin pangilan Diyos din lawa ay am-amagen da, dadlon makadadael din kabibiyag da. Magay olay esa si kosto di am-amagena.
 Si Diyos ed langit, os-osdongana di ipogaw isnan daga ta ilaena mo waday masirib en daida ay manganap ta ammoan das sisya.
 Ngem man-iiso da am-in ay lawlawa, tan din kosto ay danan et tinaynan da. Magay mangam-amag si kosto, maga di olay esa.
@@ -14128,6 +14128,7 @@ Kaman dan layon ay manseseed si kanen da, tan mantabon da ta manseed das doklose
 Apo, din kalaban ko yan sangoem koma ta say abakem daida. Babaen sin kampilan mo, omisalakan ka sin mangam-amag si lawa.
 Babaen sin panakabalin mo, omisalakan ka koma sin ipogaw ay naimongsan di nemnem da sin gamgameng ay wadas nan daga. Mapnek da koma sin insaganam para en daida. Mansobsobra koma din an-ak da, ya wada abey mabay-an para sin apo da.
 Mo sak-en pay, mailak to din ropam, Apo, gapo ta magay lawa ay inamag ko. Mo bomangonak et manragsakak to gapo sin kawadam, Apo.
+
 Laylaydek si Yahweh ay Diyos ko, sisyay poon di bikas ko.
 Maiarig si dakdake ay bato ay enak pankamangan ono dontog ay enak pantabonan, tan napigsa ay omisalakan. Mo wadaak en sisya, magay pan-egyatan. Kasay ay somalaknib di ena kaiarigan, kaman aben mayat ay pantabonan ay adi makasgep di kalaban.
 Mankedawak si badang Diyos et omisalakan sin kalaban ko. Lebbeng na ay madayaw si Diyos Apo.
@@ -14249,7 +14250,6 @@ Tan si Diyos di ari ay mangituray sin intiro ay daga.
 Din babaknang et makikan ya mandokmog da en sisya, siya abe din kaseseg-ang ya din dandani di kateyan da, mandokmog da am-in ay mandayaw en sisya.
 Din kapototan tako sin maodi ay timpo et mansilbi da am-in en Diyos Apo.
 Maibaga abe sin ipogaw ay daan bomala din kinalinteg Diyos ay nangisalakan sin ipogaw na.
-
 Sik-a ay Diyos, omay-ayowan ka ay kaman mon karnero. Idawdawat mo amin ay masapol ko.
 Ipangom sak-en sin magabay ay panpaspastolan ay say mayat si pan-illengan, iturong mo abes sak-en sin posong ay pan-in-inoman.
 Mo madismayaak, papigsaem nemnem ko. Itdom abe din pandanak ay kosto ta say madaydayaw din ngadan mo.
@@ -14334,6 +14334,7 @@ din lugar ay magay omili ed Kades yan ikiweg na.
 Pati abe din kadadak-an ay kaiw yan iwagawag na enggana ay maspak da. Sin Timplo na pay, ibogbogaw da, “Sik-a ay Diyos, madaydayaw ka!”
 Sin timpon di layos ed idi, enggay nanturturay si Diyos ay ari. Maga abey patinggan di panturturayana, tan man-ari sisya si eng-enggana.
 Papigsaen Diyos din ipogaw na, ya bindisyonanas daida si talna.
+
 Apo, daydayawek sik-a, tan sin kateyak yan inmisalakan ka. Adim inpalobos ay din kalaban et lomaslasoy da.
 Nankedawak si badang mo yan inmagas ka, Yahweh ay Diyos ko.
 Dandani ay mapospos din leng-ag ko, ngem inmisalakan ka sin pese, Apo.
@@ -14371,7 +14372,6 @@ Madaydayaw ka ay Diyos tan nakaskasdaaw din inyat mo ay nangipaila sin adi manba
 Madandanaganak en naisianak en sik-a, Apo, ngem dinngem din kararag ko sin nankedawak si badang mo.
 Dakayo am-in ay matalek ay ipogaw di Apo, ipaila yo en sisya din layad yo. Din matalek yan ayowanana, ngem idawat na di kosto ay dosa sin mangipapangato si awak na.
 Dakayo am-in ay mannamnama en Apo, papigsaen yo di nemnem yo ta tomoled kayo.
-
 Nagasat di pinakawan ya pinonas Diyos di basbasol na.
 Nagasat di ipogaw ay inbilang Diyos ay magay basol na ay dadlon naimposoan ay nanpodno en sisya.
 Idi adiak pay laeng ipodno din nankolkolangak, nabbanabbayak sin kanayon ay nan-og-ogaak.
@@ -14405,6 +14405,7 @@ Sin pese et isalakanas daida, olay timpon di betil et matagotago da.
 Si Diyos di pannamnamaan tako, tan sisya di mamadang ya manalaknib en datako.
 Manragsak tako, tan si Diyos ay nasantoan di pantalkan tako.
 Apo, sapay koma ta lak-amen mi din adi manbalbaliw ay layad mo en dakami, tan sik-a din pantaltalkan mi.
+
 Man-iyamanak en Diyos si am-in ay timpo, kanayon ay sisya di idaydayaw ko.
 It-ek ko gapo sin kinasiged na. Amin koma ay nabibiteg ya napakombaba et dengngen da ya manragsak da.
 Maitapi kayon sak-en ta man-es-esa tako ay mamigbig sin kinangaton Diyos Apo.
@@ -14427,7 +14428,6 @@ Din ipogaw Diyos et ad-adoy kapaligatana, ngem ilisin Diyos sin amin ay ligat na
 Ayowanan Diyos din ipogaw ay sana, magay magpong si olay esay tong-a na.
 Din am-amagen di lawa di nemnem na et say begew si kateyana. Din mangiliget abe si nalinteg et madosa da.
 Isalakan Diyos din mansilsilbi en sisya, maga polos di madosa ay komamang en sisya.
-
 Apo, kontraem kod din komonkontra, din gomobat yan gobatem koma.
 Alaem kasay mo ya salidam ta omali ka ay bomadang.
 San gayang ya wasay mo et isaganam koma, ikarim ay omisalakan ka.
@@ -14456,6 +14456,7 @@ Adim ipalobos ay kanan da en namingpingsan ay inmabak da et natongpal din layden
 Sapay koma ta din amin ay maragsakan ya mangingatos awak da gapo sin enak panligligatan et maabak ya mababainan da ya adi da ammoy amagen da.
 Ngem din manglayad ay mapaneknekan koma ay maga di basol ko tet-ewa, manbogaw da komas layad da ya kanan da ay mangipidwapidwa, “Nangatongato si Diyos ay say panlaydana di mayat ay biyag di baa na.”
 Asiak aben daddad-aten din kinalinteg mo, maninsin-agew ay daydayawek sik-a, Apo.
+
 Magay egyat dan Diyos din mangam-amag si lawa, kanayon ay panbasolan di nemnemnemen da.
 Palalo ay ingangato da di awak da, isonga kanan das nemnem da en adi maammoan ya adi kaliliget Diyos din basol da.
 Kedse ya pag etek di kali da, din siged ay amagen di masirib ay ipogaw yan dinokogan da.
@@ -14468,7 +14469,6 @@ Tan sik-a di poon di biyag mi ya silaw ay maningtinggaw sin nemnem mi.
 Din layad ya seg-ang mo, mantoltoloy koma sin makaammo ya manongtongpal en sik-a.
 Adim ipalobos ay domoklos ya omipatagtag da din nangato di nemnem na ya mangam-amag si lawa.
 Ilaem din mangam-amag si lawa, doy naabak da et natey da.
-
 Baken koman say distolbo en sik-a mo nemnemem din mangam-amag si lawa. Adi ka maapalan en daida.
 Tan nabeas ya mola di kaiarigan da, sinkaattikan et matey ya mamaga da.
 Si Diyos et di talkem ya din siged di amagem, ta omandoy biyag mos nan daga ya magay mapasamak en sik-a.
@@ -14509,6 +14509,7 @@ Ilaen yo din matalek ya siged di ogali da, tan din naolnos ay ipogaw et omad-ado
 Ngem din managbasol et mamingpingsan ay madosa da et mamaga din poli da.
 Isalakan Diyos ya salaknibana din nalinteg sin timpon di ligat da.
 Badangana ya isalakanas daida sin ipogaw ay lawa di nemnem da, tan sisya di kamangen da.
+
 Apo, adi ka kod mabonget sin domosaam.
 Tan sin dinmosaam, kamanak nasogatan sin panam, kamanak aben natokang gapo sin dinmespegam.
 Madagsen di sakit ko gapo sin bonget mo, mansakit amin awak ko begew sin basol ko.
@@ -14589,12 +14590,12 @@ Inagew ay inpapailam ed idi di komakaman ay layad mo, ya sin labi, mapteng ay ka
 Diyos ay salaknib ko, enak kod damagen, “Apay ngin ay nilinglingam sak-en? Apay ngin ay magay saldeng di ligat ko ay idawdawat di makedse ay kaibaw ko?”
 Kamanak natenaw si bain ko begew sin kali da ay makainsolto. Kankanan da, “Into ngin di Diyos mo?”
 Apay pay laeng ay mariribok ya manladingitak? Sik-a, Apo di pantalkak, tan sik-a di omisalakan ya Diyos ko, et sik-a kasin di idaydayaw ko.
-
 Paneknekam koma ay Diyos di kinalinteg ko en daida ay adi mangammo ay sik-a din Apo. Omilisi ka koma ay Apo sin nasikap ya makaetek ay kaibaw ko.
 Sik-a di enak pankamangan. Apay ngin ay en ka tinmaynan? Apay ngin ay magay saldeng di ligat ko ay idawdawat di makedse ay kaibaw ko?
 Ipailam kod san silaw mo ay kaiarigan di seg-ang mo, paneknekam abe din katet-ewan di intolag mo, ta omipango da sin nasantoan ay dontog mo ay say kad-an di Timplo ay beey mo.
 Asiak dayawen sik-a sin kad-an di altar mo, tan sik-a ay Diyos di poon di ragsak ko. Man-gitaraak ay mangikanta si dayaw mo, sik-a ay bigbigek ay Diyos ko.
 Apay pay laeng ay mariribok ya manladingitak? Sik-a, Apo di pantalkak, tan sik-a di omisalakan ya Diyos ko, et sik-a kasin di idaydayaw ko.
+
 Apo, dinnge mi ay mismo din dad-at di ap-apo, ay din en ka inamag sin timpo da ed bayag.
 Babaen sin panakabalin mo, din nanasyon yan inpakaan mo, et sin ili da, insaad mo din ipogaw mo. Din nanasyon yan pinaligat mo, ngem inpasiged mo din biyag di ipogaw mo.
 Baken babaen si kampilan ya bikas da di nangabakan ya nangokaan da sin ili ay sana, mo adi et din panakabalin ya seg-ang mo en daida, tan nilayad mos daida.
@@ -14697,7 +14698,6 @@ Tan mo matey, maga polos di itakina, adi na ikoyog sin kaot din kinabaknang na.
 Olay mo mapnek sin biyag nas nan daga yan idaydayaw di iib-a na begew sin kabaelana,
 awni et maitapi met laeng sin aap-o na et adi na polos maila di pat-a.
 Din kinabaknang yan magay maamag na ay mangilisi si ipogaw sin kateyana. Kaman met laeng animal ay matey sisya.
-
 Si Yahweh ay Manakabalin Amin ay Diyos yan ay-ayagana din kaipoipogaw sin amin ay solin di daga.
 Si Diyos yan kaman silaw ay napigsa. Somili din koniniing na manipod ed Zion ay palalo di kinapintas na.
 Omali si Diyos tako yan adi gomiginek sin omaliana. Waday bomidbidang ay apoy sin sangoanana ya napigsa ay dagem ay nanlikmot en sisya.
@@ -14721,6 +14721,8 @@ Olay din kabsat mo yan palawlawaem sisya.
 In-giginek ko sin nangamagam sina yan kanam et en kamanak sik-a. Ngem ed wani, ibagak din basol mo et ilawlawag kon sik-a.
 Nemnemen yo na, dakayo ay adi omikaskaso, tan mo maga, bisngibisngitek dakayo et magay makaisalakan en dakayo.
 Din kosto ay daton ay pangdayaw yon sak-en et din panag-iyaman. Olay sino ay mantongpal en sak-en et enak isalakan.”
+
+
 Someg-ang ka ay Apo. Begew sin komakaman ay layad mo ya din dakdake ay seg-ang mo, ponasem paabe din lawa ay inam-amag ko
 ta say dadlon madalosan am-in ay inpaksaw ya basol ko.
 Tan ammok ay lawa di inam-amag ko et adi polos makaan dana sin nemnem ko.
@@ -14752,13 +14754,13 @@ Masdaaw din nalinteg ay ipogaw ay mamoyboya et masiyek da yan kanan da,
 Ngem sak-en pay, maiarigak si kaiw ay olivo ay magmagabay sin beey di Apo. Mantalekak si eng-enggana sin adi manbalbaliw ay layad na.
 Man-iyamanak si eng-enggana, Apo, gapo sin inamag mo. Enak ipaammo din kinasiged mo sin sangoanan di ipogaw mo.
 
-
 Din naong-ong yan magay Diyos si pannemnem da. Dadlon makadadael din kabibiyag da ya kadodogis di am-amagen da. Magay olay esa si kosto di am-amagena.
 Si Diyos ed langit, osdongana di ipogaw isnan daga ta ilaena mo waday masirib en daida ay manganap ta ammoan das sisya.
 Ngem man-iiso da am-in ay lawlawa, tan din kosto ay danan et tinaynan da. Magay mangam-amag si kosto, maga di olay esa.
 Kanan Diyos, “Ay daetan pay dana ay mangam-amag si lawa! Pig-an ngin di pannemneman da? Din pamalpaligatan da sin ipogaw ko et nalaka en daida ay kaman din kalakan di mangokmon si kanen da. Sigaan da abe ay mankararag en sak-en ay Diyos da koma.”
 Ngem awni et palalo di egyat da, egyat ay maga polos ed idi di kais-iso na. Tan si Diyos et iwalang na din tong-an di kalaban di ipogaw na. Dadlon abaken din Israelita tan sinigaan Diyos daida.
 Sapay koma ta si Diyos ay manbeey ed Zion sin Timplo na et isalakana din Israelita ay ipogaw na. Am-in ay polin Israel et maragsakan da koma mo ipataolin Diyos din sigod ay kinabaknang da.
+
 
 Omisalakan ka koma ay Diyos babaen sin panakabalin mo ya paneknekam ay magay basol ko.
 Dengngem din adawag ko, songbatam kod din kararag ko.
@@ -14767,7 +14769,6 @@ Ngem bomadang ka, Apo, tan sik-a di salaknib ko.
 Sapay koma ta dosaem daida gapo ta matalek ka ta apiten da din lawa ay am-amagen da ya mamaga di biyag da isnan daga.
 Maragsakanak to ay mangidawat si daton ko ya man-iyamanak gapo sin kinasiged mo,
 tan inmisalakan ka sin amin ay ligat ko yan inilak di naabakan din kalaban ko.
-
 
 Dengngem koma ay Diyos nan kararag ko, adim kod pandokogan nan adawag ko.
 Dengngem kod ta somongbat ka, tan nay magay talnak begew si problima.
@@ -14849,6 +14850,7 @@ Kaman dan aso ay manlikliked ay man-anap si kanen da, manngisngis da mo magay da
 Ngem sak-en pay, ikankantak din bikas mo, ipigsak ay mangikanta si inagsapa sin layad mo. Tan sik-a ay Diyos et kaman kan makneg ay beey ko ay kanayon ay pankamangak sin timpon di ligat ko.
 Mankantaak ay mangidayaw en sik-a ay poon di bikas ko, tan sik-a di pankamangak, Apo. Sik-a ay Diyos di mangipappaila en sak-en sin adi manbalbaliw ay layad mo.
 
+
 Binmaybay-an ka, Apo, et naabak kami. Binmonget ka kayman en dakami, ngem ed wani, sagongem kod dakami.
 Inkiweg mo din daga et nan-ekang da, ngem ed wani, iamag mo koma din dadael na ta adi masepsep di kasasaad na.
 Inpalak-am mo sin ipogaw mo di palalo ay ligat. Indawtam dakami si bometeng ay arak.
@@ -14861,7 +14863,6 @@ Sino pay di omiey sin siyodad ay naaladan, Apo? Ed Edom, sino di omipango?
 Apo, ay enggay dinokogam tet-ewas dakami? Ay adi ka ipango ay makigobat din sosoldado mi?
 Sin kalaban mi, bomadang ka koma, tan din badang di ipogaw et magay silbi na.
 Mangabak kami mo wada ka ay kadwa mi, tan sik-ay mangabak sin kalaban mi.
-
 
 Apo, dengngem kod nan adawag ko, patgam koma din kararag ko.
 Isnan addawi ay ili, kedkedawek di badang mo sin timpo ay madisdismayaak, Apo. Omiey ka si nakayang ay bato
@@ -14921,7 +14922,6 @@ Paodanam din naalado ay payew ta masingpa, sibogam din lota ta lomokay da, et bi
 Ad-ado di apit gapo sin bindisyon mo. Amin ay emeyam, ad-adoy bindisyon ay idawat mo.
 Ad-adoy logam sin panpastolan, din bilbilig et kaman dan maragsakan.
 Sin pastolan, ad-ado di karnero, sin tanap, pag bakakew di matamang mo, isonga manbogaw ya mankanta da begew si peteg ay ragsak da.
-
 Dakayo amin ay ipogaw isnan daga, begew si ragsak yo, ipigsa yo koma ay mankanta en Diyos ay mangidaydayaw en sisya.
 Ikanta yo din kinapateg di ngadana, ta say madaydayaw din nakaskasdaaw ay kinadiyos na.
 Kanan yo, “Nakaskasdaaw din inam-amag mo, isonga manpalikotkot da din kalaban mo gapo sin kaeegyat ay panakabalin mo.
@@ -14942,6 +14942,7 @@ Nan-adawagak ay nankedkedaw si badang na, nankankantaak ay nangidayaw en sisya.
 Mo adiak inbabawi din basol ko, adi koman dinngen Diyos din adawag ko.
 Ngem siya met ay dinnge na ya sinongbatana.
 Madaydayaw si Diyos tan din kararag ko et pinatgana, din adi manbalbaliw ay layad nan sak-en yan intoltoloy na.
+
 Apo, maseg-ang ka koma en dakami et ipailam di layad mo en dakami
 ta say maammoan am-in ay ipogaw din panlaydam, ya am-in ay nasyon et en da maisalakan.
 Idaydayaw koma am-in ay ipogaw sik-a ay Apo, idaydayaw da san nabanol ay ngadan mo.
@@ -15028,7 +15029,6 @@ Sapay koma ta maabak ya maibabain das palalo din manpanggep isnan biyag ko ya ma
 Din lomaslasoy, maibabain da koma begew sin kaabakan da.
 Ngem din mankamang en sik-a, sapay koma ta naragsak da. Amin ay man-iyaman sin panangisalakan mo, kanayon koma ay kanan da, “Nangatongato si Diyos Apo.”
 Kaseseg-angak ay nabiteg kayman, dalasem koma ay Diyos ay bomadang, sik-ay omisalakan.
-
 Sik-a ay Diyos di pankamangak, adim kod polos ipalobos ay maibabainak.
 Bomadang ka tan nalinteg ka, dengngem kod adawag ko ta omisalakan ka.
 Maiarig kas makneg ay bato ay pantabonak ay kanayon ay pankamangak. Inkeddeng mo ay omisalakan ka, din pankamangak ya salaknib ko et sik-a.
@@ -15124,6 +15124,7 @@ Din intolag mon dakami, nemnemem koma, tan pag laway am-amagen da sin amin ay ma
 Adim ipalobos ay din mapalpaligat yan maibabain da, din nabiteg ya kakkaasi, daydayawen daka koma.
 Adi kan gomiginek, Apo, ikalintegam din awak mo! Nemnemem koma din panlaslasoyan di naong-ong en sik-a, maninsin-agew ay laslasoyen daka.
 Manngalawngaw si kanayon din mangonkontra en sik-a, adi kan linglinglingan din ibogabogaw da.
+
 Peteg di iyaman mi en sik-a, Apo! Dad-aten mi din panakabalin mo ya din nakaskasdaaw ay inam-amag mo.
 Kinwanim ay Apo, “Sin domtengan di inkeddeng ko ay timpo, sak-en ay mismo di mangokom si kostokosto.
 Mo maikiweg din daga ya manpayegpeg amin ay ipogaw sin labaw na, sak-en di makatengel sin tokod na.
@@ -15168,7 +15169,6 @@ Din odan, inig-as din liboo nankido ed kayang yan nankimat sin amin ay disso.
 Din kidom yan man-agodood da, nasilawan din lobong sin kimat na, naikiweg ya nanpayegpeg din daga.
 Nandan ka sin danom, Apo, din baybay yan binalasat mo, ngem adi maila din gatin mo.
 Babaen en da Moses en Aaron, inpangom din ipogaw mo ay kaman kan manpaspastol si karnero.
-
 Dakayo ay ipogaw ko, dengngen yo din itdok en dakayo.
 Pangarig di osalek ay mankali en dakayo. Din napasamak ed idi, waday naoneg ay maitdo, et say ipalawag ko en dakayo.
 Da nan dinnge ya inammoan tako ay inbagan di ap-apo,
@@ -15254,6 +15254,7 @@ Adim ipalobos ay din nanasyon yan kanan da, “Into pay din Diyos da?” Ipailam
 Dengngem koma din adawag di balod, Apo, ta babaen sin panakabalin mo, din nakeddengan ay matey yan isalakan mo.
 Baesam koma si mamin pito din nanasyon ay nangoy-oyaw en sik-a, Apo.
 Et dakami ay ipogaw mo ay kaman mon karnero, man-iyaman kamis eng-enggana, Apo.
+
 Sik-a ay mangay-ayowan ya mangipangpango en dakami, dakami ay Israelita ay polin Jose, Dengngem kod nan adawag mi, tan kaman mon karnero si dakami. Sik-a ay tinmotokdo sin tronom sin ngaton din kerubim,
 ipailam kod panakabalin mo en dakami ay polin Efraim ya tribun da Manasses en Benjamin, omali ka ay en omisalakan.
 Apo Diyos, itaolim kod din sigod ay kasasaad mi. Maseg-ang ka koma ta isalakan mos dakami.
@@ -15290,7 +15291,6 @@ Dakayo ay Israelita ay ipogaw ko, sapay koma ta pomati kayo, tan mo tongpalen yo
 abakek ay dagos amin ay kalaban yo.
 Din omililiget et manyakog-ong dan sak-en si egyat da ya madosa da si eng-enggana.
 Ngem pakanek pay dakayo si kamayatan ay bakakew ya kam-isan ay diro.”
-
 Pinmikas Diyos sin korti ed daya ta okomena din makwani en diyos ay natotopog sin kad-ana. Siya na din inkeddeng na en daida:
 “Pig-an pay ay isaldeng yo din pangikeddengan yo si baken kosto, din mangam-amag si lawa yan say pangabaken yo?
 Ikalintegan yo et koma din magay kabaelan da, din kaseseg-ang, mapalpaligatan, ya olila.
@@ -15299,6 +15299,7 @@ Adi kayo makaawat ya magay ammo yo. Mabolinget di nemnem yo, et isnan daga, maga
 Sak-en ay Diyos ay Kangatoan, kanak en dakayo: Amin kayo yan diyos, anak ko si dakayo,
 ngem olay mo siya di, matey kayo ay kaman din amin ay ipogaw ya olay papangolo.”
 Sik-a ay Diyos, okam amin ay nasyon isnan daga, omali ka koma ta okomem daida.
+
 Apo, adi ka kod gomiginek issa,
 tan doy labanen daka sin mangililiget en sik-a.
 Nasikap da yan way lawa ay plano da sin ipogaw ay napateg en sik-a.
@@ -15344,7 +15345,6 @@ Din layad ya kinamatalek yan awni et mantapi da, yan mankoyog di kinalinteg ya t
 Mawada di kinamatalek isnan daga, si Diyos ed langit yan ipaila na abe di kinalinteg na.
 Idawat Diyos di bindisyon et omad-adoy apit sin daga.
 Mangon-ona di kinalinteg sin sangoanana ay mangisagana sin pandanana.
-
 Apo, dengngem koma ya patgam nan kararag ko, tan kaseseg-angak ya magay bael ko.
 Diyos ay pantalkak, somalaknib ya omisalakan ka, tan napodnoak ay mansilbi en sik-a.
 Apo, maseg-ang ka koma, tan maninsin-agew ay mankararagak en sik-a.
@@ -15369,6 +15369,7 @@ Dakayo ay man-ili isnan siyodad di Apo dengngen yo, nan nabanol ay ibaga na maip
 Awni et si Diyos ay Kangatoan yan papigsaena din siyodad ay Zion, et din kaipoipogaw yan kanan da, “Man-ili kami abe sin isna.”
 Kadi et mo listaen Diyos din ipogaw na, ibilang na ay naianak da am-in isna.
 Awni et mansala da dowan dan kanan ay mangikankanta, “Din laklak-amen tako ay bindisyon et napo da am-in ed Zion.”
+
 Yahweh ay Diyos ay omisalakan, mankararagak en sik-a si labi ya kaagawan.
 Dengngem kod nan kararag ko ay mankedaw si badang mo,
 tan kamanak matey si palalo ay ligat ko
@@ -15440,7 +15441,6 @@ Into pay din magay balbaliw na ay layad mo ed idi yan matalek ka ay nangikari en
 Nemnemem koma din panglaslasoy dan dakami ay ipogaw mo ya din pangoy-oyaw di kaipoipogaw ay ninam-os ko.
 Apo Diyos, laslasoyen din mangiliget en sik-a nan pinilim ay ari olay intoy emeyana.
 Madaydayaw si Diyos si eng-enggana. Amen! Amen!
-
 Sik-a ay Diyos di nangay-ayowan en dakami. Kaman kan beey ay nansidsidoman mi manipod ed nabaon enggana ed wani.
 Olay idi daan kan parsuaen din dontog ya am-in ay wada, nawawada ka ay Diyos si eng-enggana.
 Mabalin mo ay ibaga sin ipogaw ta mantaoli da sin tapok ay say napoan da.
@@ -15474,6 +15474,7 @@ Din maangat ay layon ya eweg ay nagitaan et abakem ya igatin mo.
 Kanan Diyos, “Din manglaylayad en sak-en et isalakan ko, ya ayowanak din mamigbig ay sak-en din Apo.
 Mo mankararag en sak-en et songbatak sisya, kadkadwaek sin timpon di ligat na et isalakan ko ya bindisyonak ta madayaw sisya.
 Gon-gonaak abe si ando ay biyag na ta ganasena din pangisalakanak en sisya.”
+
 Mayat di man-iyaman en sik-a, Diyos ay Kangatoan, ya mangikanta si kaidayawam.
 Inagsapa ya linablabi ay maikankansiyon din adi manbalbaliw ay layad mo ya kinapodnom.
 Mayat tet-ewa ay ikanta ay makompasan si gitara ya arpa.
@@ -15489,7 +15490,6 @@ Din nalinteg yan gomabay da ay kaman din sidro ed Lebanon ya din kaiw ay palma.
 Kaman dan kaiw ay naimola sin beey di Apo, gomabay da sin Timplon Diyos ay daydayawen tako.
 Manbonga da olay ad-adoy tawen da, kanayon ay makneg ya magabay da.
 Siya nay mangipaila ay nalinteg din Apo, magay maipabasol en sisya ay salaknib ko.
-
 Apo Diyos, sik-a di ari mi ay ipogaw mo, dayaw ya pigsa et kaman mon inbabado. Adi maikiweg din daga tan insaad mo ay kosto.
 Nanturturay ka manipod sin damodamo, nawawada ka sin daan manlogi di timpo.
 Apo Diyos, dinmakdake din danom et man-agodood din dalloyon.
@@ -15585,6 +15585,7 @@ Paginkek to di nalimed ay mangipalawlawa si gait na, adiak aben anosan din mangi
 Din matalek ay ipogaw sin ili di piliek to ay makitee sin beey ko. Din nalinis di biyag na di ipalobos ko ay mansilbi en sak-en, Apo.
 Magay makitee sin beey ko ay maetek, adi da mabalin ay mantee sin sangoanak.
 Inagsapa ay kaanek din laway ogali na sin ili, Apo, ponasek amin ay mangam-amag si baken kosto sin pinilim ay siyodad mo.
+
 Apo, dengngem kod nan kararag ko ta patgam nan adawag ko ay mankedaw si badang mo.
 Adi ka kod dokogan sak-en, Apo, sin timpon di ligat ko. Dengngem kod nan kararag ko ta sin timpo ay kedawek din badang mo, songbatam ay dagos, Apo.
 Tan maomas ay kaman asok nan biyag ko, kaman man-atong ay pogon nan awak ko.
@@ -15613,7 +15614,6 @@ Ed bayag, insaad mo din lanad di daga ya inamag mo am-in ay wadad daya.
 Mamaga dan to ngem sik-a pay yan komakaman ka. Kaman dan bado, domaan ya masokatan da, tan awni et sokatam daida.
 Ngem mo sik-a pay yan komakaman ka, din biyag mo et magay pap-eng na.
 Din aan-ak mi, dakami ay mansilsilbi en sik-a, awni et natalna di biyag da. Salaknibam to din poli da et maga di pandanagan da.
-
 Idayaw ko si Diyos Apo sin am-in ay kabaelak ya nemnem ko. Idayaw ko din nasantoan ay ngadana.
 Adiak liw-an din ad-ado ay seg-ang na, isonga dadlonak daydayawen sisya.
 Pakawanena am-in ay basbasol ko ya agasana am-in ay sakit ko.
@@ -15807,6 +15807,7 @@ ipailan Diyos din liget na sin mamalpaligat en daida et dosaenas daida ta say lo
 Ngem din maligligatan et isalakana, et paad-adoena din anak da.
 Malaylaydan da din nalinteg ay makaawat isna, ngem din managbasol et maga di maibaga da.
 Din nalaing ay ipogaw yan nemnemen da koma dana, ta say kosto ay maawatan da din adi manbalbaliw ay layad Diyos ay magay pap-eng na.
+
 Apo, napodnoak en sik-a et mankantaak ay mangidayaw en sik-a. Bomangonak ay masapa ta tokarek din gitara ya arpa.
 <range>
 Sin sangoanan di kaipoipogaw, man-iyamanak en sik-a, ikantak di maipanggep en sik-a.
@@ -15820,7 +15821,6 @@ Sino pay di omiey sin siyodad ay naaladan, Apo? Ed Edom, sino di omipango?
 Apo, ay tan enggay dinokogam tet-ewas dakami? Ay adi ka ipango ay makigobat din sosoldado mi?
 Sin kalaban mi, bomadang ka koma, tan din badang di ipogaw et magay silbi na.
 Mangabak kami mo wada ka ay kadwa mi, tan sik-ay mangabak sin kalaban mi.
-
 Diyos ay daydayawek, adi ka koman gomiginek.
 Tan din lawa di nemnem da yan man-etek da ta omipalawlawa da.
 Lomikob da yan mankali das lawa gapo si liget da, omibaw da olay magay gapo na.
@@ -16329,6 +16329,7 @@ Kaliliget ko din manigaan en sik-a, laslasoyek mo konkontraen daka.
 Ibilang kos daida ay kalaban ko, et adi makaan din liget ko.
 Estem ay Diyos ay ilan nan nemnem ko, osigem abe din dandanag ko.
 Ilaem kod tan mo manturongak sin danan ay lawa, omipango ka sin danan ay manturong en sik-a.
+
 Apo, omisalakan ka kod sin mangam-amag si lawa, sin nay da ipogaw ay palaloy kedse da.
 Kanayon ay lawa di panggep da ya ibaw di ilogi da.
 Kaeegyat ay kaman eweg din tepek da, kaman gitan di kobra din kali da.
@@ -16342,7 +16343,6 @@ Matekdag koma di man-gangab ay oling en daida, maitep-a da komas abot yan adi da
 Adim koman ipalobos ay mayat di pantongpalan da din mangipalawlawa si gait da. Sapay koma ta din makedse ay manglokloko si iib-a da et kanayon ay mapasamak di lawa en daida enggana ay dadlon madadael di biyag da.
 Apo, ammok ay ikalintegam din magay mabalin da ya kosto di iyat mo ay mangokom en daida.
 Sigurado ay din nalinteg, awni et dayawen daka ya sin kad-am di pantean da.
-
 Apo, mankararagak en sik-a, dalasem koma ta bomadang ka, dengngem kod mo mankararagak en sik-a.
 Awatem koma nan kararag ko ay kaman manseng-ew ay insinso ya kaman daton sin labi din itatag-ay ko ay takkay ko.
 Bomadang ka kod, Apo, ta annadak din tepek ko.
@@ -16353,6 +16353,7 @@ Maiwalang din tong-a da sin labaw di kaot da, namekmek ay bato di kaiarigan da.
 Ngem sik-a, Yahweh ay Apok, di kanayon ay pantalkak, adi ka kod bomaybay-an, tan sik-a di pankamangak.
 Omilisi ka koma sin tagdey ay in-amag da, in-amag di laway nemnem da.
 Makna da koma sin mismo ay tagdey da, ngem sak-en pay yan mailisiak koma.
+
 Man-adawagak en sik-a, Apo, ay mankedaw si badang mo.
 Isnan sangoanam et ibagak amin ay danag ko ya problimak.
 Ammom di kosto ay amagek mo komapsot di namnamak. Nan-isagana dan kalaban ko sin pandanak si tagdey ay maknaak.
@@ -16360,7 +16361,6 @@ Anapek mo waday olay esa ay kabadang ko, ngem maga baw, tan adi dan pagan-ano. M
 Apo, kedawek din badang mo, sik-a din salaknib ko, sik-a anggoy di masapol ko isnan biyag ko.
 Dengngem kod nan kararag ko, tan nay kinmapsot nan nemnem ko. Isnan kalaban ko omisalakan ka, tan nay adiak kabaelan di pigsa da.
 Isnan naibalodak omisalakan ka koma ta sin sangoanan di ipogaw mo idaydayaw kos sik-a, din kinasiged mon sak-en di gapo na.
-
 Apo, dengngem kod nan kararag ko. Gapo sin kinalinteg mo ya kinamatalek mo, songbatam kod nan kararag ko.
 Adi ka koman okomen sak-en ay baam, tan magay ipogaw ay nalinteg sin pangilam.
 Inmapayaw nan kalaban ko et naabakak dadlo. Inmibalod das nan mabolinget ay kad-ak, kamanak din natey ay nabayag.
@@ -17897,7 +17897,6 @@ Wadan to di mangibaga ay mandamag kayo sin mansip-ok ya man-gengey ay man-ay-aya
 Ngem siya nay kanak en dakayo. Onodan yo koma din bilbilin ya it-itdon Diyos. Mo din ibagbaga da yan adi maikompas sin kalin Diyos, deda da sin mabolinget ya adi dan edasan din pomat-aan di agew.
 Awni et madismaya ya mandagaang di ipogaw yan owat dan lomikeliked sin daga. Gapo si dagaang ya bonget da, baosan da din ari da ya din Diyos da. Olay tangaden da ed daya
 ono isin-eng da din daga, magay maila da mo adi et palalo ay ligat ya kaeegyat ay mabolinget ay say pantongpalan da.
-
 Ngem olay mo kaman nidi di lak-amen da ay ligat ya mabolinget, makaan to din panladladingitan da. Dandani et ay maibabain din dagan da Zebulun en Naftali, ngem sin tapin di agew, maidaydayaw din daga ay nay ay wada sin benget di annawa ay lebeng ya sin demang di ginawang ay Jordan ya enggana sin sakop di Galilea ay kanan da en ilin di Gentil.
 Din ipogaw isdi et kaman dan mantetee sin mabolinget, tan kaman nalilibooan din ili da si pese. Ngem awni et ilaen da di somisili ay silaw, tan manpaila sin kad-an da di maninggaw si nemnem da.
 Sik-a ay Diyos yan paannawaem din ili da et palalo di ragsak da. Gapo sin amagem, manragsak da ay kaman din man-ani ono din manbibingay si sinamsam da.
@@ -17905,6 +17904,7 @@ Wayawayaam daida sin naibabag-enan da ya kaanem din ligat ay bakbaklayen da. Aba
 Mapooan to amin ay sapatos ya nadadaan ay badon di sosoldado ay nakigobat.
 Tan maianak en datako di esa ay lalaki ay mangituray en datako. Mangadanan to si Nalaing ay Mamagbaga, Manakabalin ay Diyos, Ama si Eng-enggana ya Ari ay Mangipawadas Talna.
 Sisya di maisokat en Ari David ay manturay. Pomigsa ay pomigsa din panturayana ya kanayon ay natalna, tan pag kosto ya nalinteg di iyat na ay manturay manipod ed wani ya si eng-enggana. Awni et dadlon amagen Diyos ay Kangatoan ay Turay dana.
+
 
 
 
@@ -18953,8 +18953,7 @@ Sik-a din ama mi olay adi omibilang da Abraham en Jacob ay ap-apo mi. Sik-a din 
 Apo Diyos, apay nga baybay-am dakami ay omaddawi sin laydem ya komenteg nemnem mi? Mantaoli ka koma ta badangam dakami ay nansilsilbin sik-a ay ipogaw mos eng-enggana.
 Dakami ay ipogaw mo yan inoka mi din nasantoan ay lugar mo si sinkaattikan, ngem nay et ay in-gatigatin din kalaban mi din Timplom.
 Ibilang mos dakami ay kaman nasyon ay adi kan polos inturturayan, kaman adi kamin naibilbilang ay ipogaw mo.
-Apo Diyos, bisngitem koma ed langit ta ilokat mo, ta bomaba ka isnan kad-an mi et manyegyeg din dontog gapo sin kawadam.
-Din bomabaam et kaman koman din iyat di apoy ay mamoo sin maitongo ta panlowagena di danom. Et siya abe ay omali ka koma ta ipailam din panakabalin mo sin mangililiget en sik-a ya panpayegpegem si egyat din kailiili sin sangoanam.
+Apo Diyos, bisngitem koma ed langit ta ilokat mo, ta bomaba ka isnan kad-an mi et manyegyeg din dontog gapo sin kawadam. Din bomabaam et kaman koman din iyat di apoy ay mamoo sin maitongo ta panlowagena di danom. Et siya abe ay omali ka koma ta ipailam din panakabalin mo sin mangililiget en sik-a ya panpayegpegem si egyat din kailiili sin sangoanam.
 Sin binmabaam ed idi ay nangipailaam si nakaskasdaaw ay inamag mo, nanpayegpeg da din dontog sin kawadam.
 Maga pay laeng di nakaila ono nakadnge si kaman sik-a ay Diyos ay nangamag si kaman nidi para sin mantalek en sisya.
 Malaydan ka ay mangawat sin maragsakan ay mangamag si kosto ya mangonod sin laydem. Ngem binmonget ka gapo sin basol mi, tan manipod ed bayag, intoltoloy mi kayman ay nanbasol. Intoy iyat mi ngarud ay maisalakan?
@@ -18962,6 +18961,7 @@ Kinmadodogis kami am-in et am-in ay kinasiged mi yan maiarig si kadodogis ay tra
 Maga di mankararag en sik-a ya mankedaw si badang mo, tan dinokogam ya binaybay-am dakami ta lak-amen mi di pantongpalan di basbasol mi.
 Ngem sik-a ay Diyos din ama mi. Dakami din koli yan sik-a din mandamdamili et inamag mo am-in dakami.
 Adi ka koman palalo ay mabonget en dakami ya adi kan nenemnemen din basol mi si eng-enggana. Pangaasim koma ta seg-angam dakami ay ipogaw mo.
+
 
 
 Kanan Diyos, “Din adi nankarkararag en sak-en et daida di nanpailaak. Din adi nangan-anap en sak-en et daida di nanteng. Din ipogaw ay adi nandaydayaw en sak-en et ay-ayagak daida ay mangwani, ‘Naeyak ay tomolong.’
@@ -19264,9 +19264,9 @@ Ibagam ngarud ay daida di nasyon ay adi manongtongpal en Yahweh ay Diyos da ya a
 
 
 
-
 Kanan Diyos, “Adi koman it-it-ek din masirib din laing da ono din napigsa din bikas da ono din babaknang din kinabaknang da.
 Ngem mo waday mayad ay mangit-ek si kompormi, say it-ek na koma din pangawat na ya nangammoana en sak-en, tan sak-en si Diyos ay mangipaila si adi manbalbaliw ay layad ya seg-ang ya kinalinteg isnan daga tan say panlaydak.”
+
 
 
 
@@ -21904,9 +21904,6 @@ Nasinop din am-in ay tuturay ya odom ay oopisyal, et inila da ay adi da naan-ano
 Pag kanan Nebukadnezzar, “Madaydayaw din Diyos da Sadrak, Mesak ya Abednego ay nangibaa sin anghel na ay mangisalakan sin mansilsilbi ya mantalek en sisya. Adi dan tinongpal din bilin di ari et inposta dan biyag da ta say adi dan mansilbi si odom ay didiyosen malaksig sin Diyos da.
 Isonga siya na di bilin ko: Olay sino ay ipogaw, mo intoy napoana ay nasyon ya sinoy kali ya kodil na, mo palawlawaena din Diyos da Sadrak, Mesak ya Abednego, masapol ay matey et matadtatadtad din awak na ay kaman napalti ay animal ya madadael din beey na. Tan magay odom ay Diyos ay kaman nidi di iyat na ay mangisalakan.”
 Idi makdeng di, inpangaton din ari di saad da Sadrak, Mesak ya Abednego sin probinsiya ay Babilonia.
-
-
-
 Siya na di solat Ari Nebukadnezzar sin amin ay ipogaw isnan intiro ay daga, olay sino di kodil ya kali da: Sapay koma ta somigsiged di biyag yo.
 Maragsakanak ay mangipaammo en dakayo sin milagro ya nakaskasdaaw ay sinyal ay inpailan Diyos ay Kangatoan en sak-en.
 Kaeegyat din nakaskasdaaw ay inam-amag na! Manturay si eng-enggana ya magay pap-eng di kinangato na.
@@ -21941,6 +21938,9 @@ Idi mankalkaliak pay laeng, waday kali ay napod daya ay kanana, “Ari Nebukadne
 Maipakaan ka sin kad-an di kaipoipogaw et makitee ka sin atap ay animal ya mangan kas gabgab ay kaman din baka si pito ay tawen. Mo makdeng di, bigbigem to ay si Diyos ay Kangatoan di makaammo sin amin ay panturayan di ipogaw et mabalin ay paituray na dana si olay sino ay ipogaw ay piliena.”
 Sin doy met laeng ay timpo, napasamak di en sak-en. Naipakaanak sin kad-an di kaipoipogaw et nanganak si gabgab ay kanen di baka ya nabasbasa si dono. Inmando di book ko et kaman dotdot di agila ya inmando abe di kokok ay kaman kokon di titit.
 Malabas pay di pito ay tawen, tinangad ko ed daya et nantaoli din kosto ay nemnem ko. Dinaydayaw ko si Diyos ay Kangatoan ay matmatago si eng-enggana. Kinwanik: “Manturay si Diyos si eng-enggana, magay panpatinggaan di panturayana.
+Din kaipoipogaw isnan daga et magay kaibilangan da sin pangila na. Way kabaelana ay mangamag sin laydena sin aanghel ed langit ya ipogaw isnan daga. Magay makabael ay mangontra sin laydena ya mansalodsod mo sinoy am-amagena.”
+Idi nantaoli din kosto ay nemnem ko, naitaolin sak-en din kinaturay ko, dayaw ko ya kinangatok. Naragsakan da ay nangawat en sak-en din oopisyal ko ya mabigbig ay ipogaw ko et nangatngato pay din panakabalin ya dayaw ko ay ari mo ed idi.
+Ed wani, sak-en ay si Nebukadnezzar yan idaydayaw ko ya ipangatok din Ari ed langit. Nalinteg di amin ay amagena ya mabalin ay ipababa na di olay sino ay mangipapangato si awak na.
 Sin namingsan, inawis Ari Belsazzar di sinlibo ay opisyal na sin dakdake ay sida na et nan-iinom das arak.
 Idi nakainom, inbilina ay alaen da din balitok ya palata ay tasa ay inan ama na ay Nebukadnezzar sin Timplo ed Jerusalem. Inpaa na ta pan-inomana ya din oopisyal na ya aas-awa na pati din maikadwa ay aas-awa na.
 Naiey ay dagos din balitok ya palata ay tasa et inosal da ay nan-iinom.
@@ -21971,6 +21971,7 @@ Din olog di tekel yan natimbang. Natimbang ka et napaneknekan ay kolang di timba
 Din olog aben di parsin et mabingay. Mabingay to din iturayam et maidawat sin taga-Media ya taga-Persia,” kanan Daniel.
 Pag binilin Belsazzar din baa na et binadoan das Daniel si manbalanga ay kaman din badon di ari. Kinekean da abe si balitok ya naipaammo ay sisya di maikatlo ay kangatoan sin iturayana.
 Isdi met laeng ay labi, waday namse en Belsazzar ay ari ed Babilonia.
+Et si Darius ay taga-Media di naisokat ay ari. Mantawen si Darius si enemapolo ya dowa sin timpo ay doy.
 Inkeddeng Darius ay mandotok si 120 ay gobernador sin intiro ay iturayana.
 Pinili nas Daniel ya dowa pay ay pangolo ta say waday nakin tengel sin gogobernador ta adi malogi din ari.
 Baken nabayag yan maila ay nalalaing si Daniel ya nas-et di obla na mo din iib-a na ay papangolo ya gogobernador. Gapo sin nakaskasdaaw ay kabaelana, panggep din ari ay isaad si Daniel ay makaammo sin intiro ay iturayana.
@@ -21999,7 +22000,6 @@ Idi siya di, nansolat si Ari Darius sin kaipoipogaw sin intiro ay daga, olay sin
 Siya na di ibilin ko: Dakayo amin ay iturayak, patgen ya egyatan yo din Diyos ay daydayawen Daniel. Sisya din matmatago ay Diyos ay magay pap-eng na. Adi polos madadael din turay na mo adi et mantoltoloy si eng-enggana.
 Sisya din mangisalakan sin ipogaw na ya makaamag si nakaskasdaaw ed daya ya isnan daga, tan si Daniel et insalakana sin layon ay mamse koman sisya.”
 Et mayat di biyag Daniel sin timpon di nanturayan Darius ya si Cyrus ay taga-Persia.
-
 Sin damo ay tawen ay nanturayan Belsazzar ed Babilonia, binmabaktad si Daniel sin katri na yan waday inila na ay kaman iitaw. Insolat na di et siya na di kanana ay manad-at:
 Sak-en si Daniel et siya na di inilak ay kaman iitaw sin labi. Inilak ay mapmapo di napigsa ay angin sin am-in ay soli ed daya yan papigpigsaena din dalloyon sin malosong ay baybay.
 Pag et bomala sin baybay di opat ay kaeegyat ay animal ay nankinalasi di kailaan da.
@@ -22170,6 +22170,8 @@ Nansikog kasin si Gomer yan babai di in-anak na. Kanan Diyos en Hosea, “Lo-Ruh
 Ngem seg-angak din taga-Juda et isalakan kos daida. Baken babaen si gobat, kampilan, pana, kabayo ono sosoldado di iyat ko ay mangisalakan en daida mo adi et babaen sin mismo ay panakabalin ko ay si Yahweh ay Diyos da.”
 Idi pinsot Gomer si Lo-Ruhama, nawad-an kasin et lalaki di in-anak na.
 Kanan Diyos, “Ngadanam si Lo-Ammi, tan baken kon ipogaw dakayo ay Israelita yan baken yon Diyos si sak-en.
+Ngem omad-ado kayon to ay Israelita et kaman din darat sin baybay ay adi kabilang ya adi kasokat. Et sin mismo ay lugar ay nangibagaak en baken kon ipogaw dakayo, mangadanan kayon to ay anak di matmatago ay Diyos.
+Awni et man-es-esa din ipogaw ed Juda ya Israel yan mandotok da si esa ay pangolo da. Et pag da kasin omad-ado ya somiged di biyag da sin ili da. Nabanol to din agew ay sana ed Jezreel!”
 
 
 
@@ -22193,8 +22195,6 @@ ya din kinapodnok ay asawa et bigbigen das sak-en ay Diyos.
 “Sin agew ay sana, bilinek ed daya ay manibog isnan daga ay mankedkedaw si odan.
 Gomabay din mola isnan daga et mawada di arak ya mantika ta masongbatan din kararag di ipogaw ko ay Israelita.
 Sin timpo ay sana, kaman mola din Israelita ay is-ek ko sin daga da ya pagabayek ta manbalin da ay ipogaw ko. Seg-angak da din ipogaw ay nangadanan si ‘adi naseg-angan’ ed idi. Ibilang ko ay ipogaw ko din nangadanan si ‘baken kon ipogaw’ ed idi et kanan dan to, ‘Sik-a di Diyos mi.’”
-
-
 Idi siya di, kanan Diyos en sak-en, “En ka taolien si asawam. Olay mo makilallalakis sisya ya laylayden di odom, ipailam din layad mon sisya ay kaman din iyat ko ay Diyos ay manglaylayad sin Israelita, olay dinokogan das sak-en ya nandayaw da si didiyosen ay indatonan da si kasigedan ay daton.”
 Et sinobot ko si asawak si sinpo ya lima ay palata ya pito ay salop ay sabog.
 Kanak en sisya, “Masapol ay mabayag ay makibeey ka en sak-en yan isaldeng mo ay makikamalala. Masapol ay adi ka makidaag si odom ay lalaki. Olay sak-en et adiak daagen sik-a.”
@@ -22348,6 +22348,7 @@ Gapo si bonget ko, indawtak dakayo si ari, ngem gapo met laeng si bonget ko yan 
 Waday waya koman din Israelita ay matago, ngem baybay-an da. Maiarig das magay nemnem na ay liton. Manpalpaligat si ina na tan dinomteng din timpo na ay bomala, ngem sigaana ay bomala sin eges ina na.
 “Ay siya mo sobotek daida sin kad-an di natey ta maisalakan da sin panakabalin di pese? Dakayo ay pese ya din kad-an di natey, pawadaen yo di pisti ay makapese tan enggay nakaan di seg-ang kon daida.
 “Olay mo somiged di biyag di Israelita sin nan-gawaan di iib-a da, pawadaek di man-atong ay dagem ay mapo sin belaan di agew, sin lugar ay magay omili, et mamgaan di sakdoan da. Ilayaw na abe am-in ay nabanol ay sanikwa da sin pangidoldolinan si gameng.
+Ikaron din taga-Samaria din dosan di nangontraan dan sak-en ay Diyos da. Matey dan to si gobat, mapis-it din an-ak da ya mabotyakan din eges di masikog.”
 Dakayo ay Israelita, sagongen yo si Yahweh ay Diyos yo, tan din basbasol yo di begew sin ligat yo.
 Mantaoli kayo koma en Diyos et ikararag yo na en sisya, “Linisam kod din basbasol mi ya awatem koma nan kararag mi ta say idaydayaw mis sik-a ay say daton mi.
 Adi makaisalakan din taga-Assyria en dakami ya enggay magay kabayo mi. Isaldeng mi ay manaydayaw si didiyosen ay inamag mi, tan sik-a di pankamangan di naolila.”
@@ -22357,7 +22358,6 @@ Omando din pingi da et mapteng di kailaan da ay kaman olivo, yan manseng-ew da a
 Mantaoli dan sak-en et ayowanak kasin daida. Gomabay dan to ay kaman pagey ya manlames da ay kaman obas. Madamdamag da ay kaman din arak ed Lebanon.
 Sino pay di pakasapolan di taga-Israel si didiyosen yan wadaak ay mangidawat sin kedawen da ya mangayowan en daida? Maiarigak si magabay ay bebe ay panlidoman da. Sak-en di kapoan di am-in ay bindisyon da.”
 Din nalaing, maawatan ya patgan da koma din naisolat isna. Tan doritso ya kosto di danan ay itdon Diyos, pandanan di nalinteg ngem kaisokbaan di managbasol.
-
 Siya na di inpaibagan Diyos en Joel ay anak Petuel.
 Dengngen yo nan ibagak, dakayo ay nankakay ya am-in ay ipogaw isnan Juda. Nemnemen yo kod mo waday kaman nina ay napasamak sin timpo yo ono sin timpon di aap-o yo.
 Dad-aten yo sin aan-ak yo ta dad-aten da sin aan-ak da ya dad-aten abe din aan-ak da sin mais-isned en daida.
@@ -22405,6 +22405,11 @@ Mapnon to si bakakew ya sabog din pan-irikan yan manleplepyas abe si arak ya man
 Sokatak din dinadael di nansososkat ay dodon ay kaman kon sosoldado ay inbabbaak sin kad-an yo sin oneg di pigay tawen.
 Manpennek kayon to ay mangan ya dayawen yos sak-en ay Diyos yo ay nangamag si nakaskasdaaw en dakayo. Polos ay adi kasin maibabain din ipogaw ko.
 Sin timpo ay doy, ammoen yo ay wadaak sin kad-an yo ay Israelita ya sak-en si Yahweh ay Diyos yo, magay odom. Polos ay adi kasin maibabain din ipogaw ko.”
+“Mo makdeng di, ibaak din Ispiritok ta senggep sin olay sino ay ipogaw. Din an-ak yo et ibaga da din ipaibagak en daida, din babbaro et waday ipailak en daida ay kaman iitaw ya din nankakay et wada abey ipaiitaw kon daida.
+Olay din lallalaki ya babbabai ay bag-en et ibaak din Ispiritok ay senggep en daida.
+Awni et ipailak di nakaskasdaaw ed daya ya isnan daga. Maila dan to di dada, apoy ya kaeegyat ay asok.
+Awni kadi et bomolinget din agew, ya din bowan yan domalangdang ay kaman dada. Asi pay domateng din nabanol ay agew ay magay kais-oana ay omaliak ay Diyos.
+Yan am-in da ay manpakaasi en sak-en et maisalakan da. Tan wada dan to di piliek ay makalasat ed Jerusalem.”
 Kanan Diyos, “Sin doy ay timpo, pabaknangek kasin ed Juda ya Jerusalem.
 Sinopek am-in ay nasyon et iey kos daida sin Tanap ay Pangokoman. Isdi di pangokomak en daida gapo sin am-in ay inam-amag da sin Israelita ay ipogaw ko. Nansisianen das daida ay inpaey sin odom ay ili ya nanbibingayan da din dagak ay Israel.
 Nanbibinnonotan da mo sino di manga sin ipogaw ko ta balod da. Inlako da din anan-ak ay lalaki ya babai ta way ibayad das hostess ya arak.
@@ -22413,24 +22418,19 @@ Nanbibinnonotan da mo sino di manga sin ipogaw ko ta balod da. Inlako da din ana
 
 
 
+“Ipaammo yo na sin am-in ay nasyon: ‘Mansagana kayo ay makigobat! Ayagan yo am-in ay sosoldado yo ta emey kayo.
+Amagen yo ay kampilan din alado yo ya gayang din kompay yo. Olay din nakapoy, masapol ay makigobat.
+Dalasen yo ay omali, dakayo am-in ay nasyon sin nanniliked ta masinop kayo sin tanap.’” “Apo Diyos, ibaam koma din sosoldadom ay en mangobat en daida,” kinwanin di mamadto.
+Pag itoloy Diyos ay nangwani, “Masapol ay mansagana din nanasyon ta emey da sin Tanap ay Pangokoman. Tan isdi, okomek to din am-in ay nasyon.
+Palaloy kinalawa da, isonga magapas da ay kaman din pagey sin pinag-aani ya mapespesan da ay kaman obas sin panpespesan engganay mapno.”
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+“Din pangokomak en daida, say pangammoan yo ay Israelita ay sak-en si Yahweh ay Diyos yo ay mantee ed Zion ay nasantoan ay dontog ko. Manbalin ed Zion ay nasantoan ay siyodad ed Israel et polos ay adi kasin abaken di odom ay nasyon.
+Sin doy ay timpo, mamolaan di dontog si obas ya omad-ado di baka sin bilig. Ad-adon to abe di danom ed Juda et wada di obbog ay mapo sin Timplon Diyos ay manibsibog sin tanap ay Acacia.
+Mo ed Egipto ya Edom, manbalin das lugar ay magay omili ya magay silbi na gapo sin namsean das taga-Juda ay magay basol da.
+Ibaes ko din pinse da, adiak pakawanen din nakabasol. Ngem ed Juda ya Jerusalem pay, wadan to di man-ili si eng-enggana, et sak-en ay Diyos yan manteeak ed dontog ay Zion.”
+<range>
 Siya na di inbagan Amos ay mangay-ayowan si karnero ed Tekoa. Dowa ay tawen sakbay ay mapasamak din yegyeg, inpaammon Diyos en sisya dana ay mapasamak to ed Israel. Sin doy ay timpo, si Uzzias di ari ed Juda yan si Jeroboam ay anak Joas di ari ed Israel.
 
 
@@ -22614,6 +22614,7 @@ Adi inonodan din man-ob-obla din inbagan Jonas mo adi et inpakat da di amin ay k
 Isonga kanan da ay nan-adawag en Diyos, “Sik-a ay Yahweh, pangaasim koma ta adim peslen dakami begew sin kateyan di ipogaw ay nay. Adi ka koman ibilang ay pinomse kami si magay basol na, tan sik-a ay Diyos di makaammo isnan ligat mi. Sik-a ay mismo di nanongpal sin laydem.”
 Pag dan bit-inen si Jonas et intep-a da sin baybay yan dagos ay sinmaldeng din pewek.
 Begew isdi, palalo ay inegyatan ya pinateg din man-ob-obla sin bapor si Diyos, et nan-idaton da ya inkari da ay mansilbi dan sisya.
+Idi siya di, binilin Diyos di dakdake ay nigay ay nangokmon en Jonas et nantee sin eges di nigay si tolo ay agew ya tolo ay labi.
 Sin kawadan Jonas sin eges di nigay, kanana ay nankararag en Diyos,
 “Idi maligligatanak ya istayak maitapi sin kad-an di natey, nankararagak en sik-a yan pinatgam din kararag ko.
 Inmitep-a ka sin adalem ay lanad di baybay et nalim-otanak sin danom ya labsalabsan di napipigsa ay dalloyon.
@@ -22624,7 +22625,6 @@ Idi dandani ay mateyak, nankararagak en sik-a, Yahweh ay Diyos ko, et sin nasant
 Din mandayaw si didiyosen ay magay silsilbi na et dinokogan da din napodno ay layad dan sik-a.
 Ngem sak-en pay, mankantaak to ay mangidaydayaw en sik-a. Man-idatonak en sik-a ya tongpalek din karik. Sik-a ay Diyos di mangisalakan.”
 Idi siya di, binilin Diyos din nigay ay mangiota en Jonas sin benget di baybay, et tinongpal na.
-
 Pag kasin bilinen Diyos si Jonas yan kanana,
 “Emey ka sin mandinamag ay siyodad ay Nineve ta ibagam isdi din ipaibagak en sik-a.”
 Pinatin Jonas din bilin Diyos et inmey ed Nineve. Annaannawa din siyodad ay sana, tolo ay agew di pandad-anan ay manbalasat.
@@ -22700,13 +22700,13 @@ Et sik-a ay Jerusalem ay kad-ak ay mamanbantay sin ipogaw ko, maitaoli kasin din
 
 
 
-
 Mantabon kayo sin alad di ili, dakayo ay wada ed Jerusalem, tan enggay nilikob di kalaban din ili yo. Awni et abaken das dakayo et ibabain da din ari yo ay Israelita.
 Ngem kanan Diyos, “Sik-a ay Betlehem ed Efrata, sik-a di kakitkittoyan ay ili sin lak-am Juda, ngem sik-a di bomalaan di nawawada nanipod ed nabaon ay mangituray sin ipogaw ko ay Israelita.”
 Isonga baybay-an Diyos daida enggana ay makaanak din nawad-an ay babai, asi maitaoli ay maitapi kasin sin kailian da din kakailiana ay napilit ay naiey ed addawi.
 Sin omaliana, ipango na ya ay-ayowanana din ipogaw na ay kaman din mangay-ayowan si karnero. Iturayanas daida babaen sin panakabalin ya kinangaton Yahweh ay Diyos na. Magay pan-egyatan din ipogaw na, tan awni et bigbigen di amin ay ipogaw isnan daga din kinangato na,
 et sisya ay mismo di kapoan di talna. Mo omali din taga-Assyria ay mangobat en datako ya makasgep da sin makneg ay pankamangan tako, omanay din papangolo ay ipasango takon daida ay manalaknib en datako.
 Isalakan das datako et abaken da din taga-Assyria, pag dan iturayan daida babaen si kampilan da.
+
 
 
 
@@ -22971,14 +22971,14 @@ Binagbagaak ya inpaammok din bilbilin ko sin aap-o yo babaen sin mamadto, ngem a
 
 
 
+
+
+
+
 Kanan din Anghel Diyos, “Dakayo ay taga-Jerusalem, ikanta yo di ragsak yo, tan kanan Diyos en omaliak ay makitee en dakayo.
 Sin doy ay timpo, ad-ado ay nasyon di komamang en Diyos et manbalin dan to ay ipogaw na. Makitee si Diyos en dakayo et say pangammoan yo ay sisya di nangibaan sak-en en dakayo.
 Manbalin kasin ed Juda ay nabanol ay sanikwa na sin pinili na ay daga. Ed Jerusalem abe di piliena kasin ay siyodad.
 Gominek kayo amin ay ipogaw sin sangoanan Diyos tan omali ay mapo sin nasantoan ay panteana.”
-
-
-
-
 
 
 
@@ -23205,12 +23205,12 @@ Di katet-ewa na, ed wani et naragsak ya mayat din biyag di natangsit ya mangam-a
 Idi makdeng di, nanngangalat din mangipatpateg en Diyos yan dinngen Diyos din am-in ay inbagbaga da. Sin sangoanana, naisolat di libro ay naisolatan din ngadan di am-in ay mangipatpateg ya mandaydayaw en sisya.
 Kanan Diyos ay Kangatoan ay Turay, “Sin agew ay pangokomak, ibilang kos daida ay kapatgan ay sanikwa et seg-angak daida ay kaman din iyat di esa ay ama sin anak ay mansilbi en sisya.
 Et mo siya di, maila yo kasin di nailasinan di nalinteg sin managbasol ya din mansilsilbi sin baken mansilbi en Diyos.”
-
-
-
-
-
-
+Kanan Diyos ay Kangatoan ay Turay, “Ilaen yo tan dandani din kadosaan di am-in ay natangsit ya mangam-amag si lawa. Sin agew ay doy, kaman dan logam ay mapooan si mabidang ay apoy et maga polos di mabay-an.
+Ngem dakayo pay ay mangipatpateg en sak-en, awni et domteng di kinalinteg ay kaman segit ay bomala ay mangagas en dakayo, et manlagto kayos ragsak yo ay kaman din iyat di kilaw ay baka ay naibolos.
+Sin agew ay doy ay pangokomak, abaken yon to din mangam-amag si lawa et igatigatin yo ay kaman tapok.
+“Nemnemnemen yo din init-itdon Moses ay baak ay siya din bilbilin ya linteg ay inbagak en sisya ed Horeb ta tongpalen din am-in ay Israelita.
+Ngem mangon-ona ay ibaak si Elias asi domteng din agew ay doy ay kaeegyat.
+Et pankakapyaena din aam-a sin aan-ak ta adiak omali ay manadael sin ili yo.”
 Siya na di listaan di ap-apon Jesu Cristo ay polin David ya polin aben Abraham.
 Si Abraham et aman Isaac ay aman Jacob ay aman aben Juda ya din aag-i na.
 Si Juda et aman da Perez en Zera, ya si Tamar di ina da. Si Perez et aman Hezron ay aman Ram.
@@ -27691,7 +27691,7 @@ Maga di mabalin ay mangwani en baken tet-ewa na, isonga iginek tako iman ay adi 
 Din ipogaw ay in-ali yos na et maga met di inakew da sin timplo tako, yan adi da aben pinalawlawa din diyos tako.
 Mo si da Demetrius pay ya din iib-a na ay manpanpanday, mo wada di pangigab-itan das basol di ipogaw, wada di hohowis ya tuturay di ili sin opisina da. Say en da koman pangidaruman.
 Mo wada di odom ay layden yo ay maibaga, awni kod ta asi tako ngalaten sin kosto ay miting tako.
-Tan nay madanaganak, tan mo idarum das datako sin papangolo tako ed Roma manbegew din nan-goloan yo ay nay, sino ngin di ipambal tako, tan maga met di kosto ay nan-gapoana?”
+Tan nay madanaganak, tan mo idarum das datako sin papangolo tako ed Roma manbegew din nan-goloan yo ay nay, sino ngin di ipambal tako, tan maga met di kosto ay nan-gapoana?” Sin nangwanianas di, pag nan ibaga ta mansisian da.
 Idi nakdeng din golo ay doy, inpasinop Pablo din mamati ta papigsaena di nemnem da. Nanpakada, pag komaan ay emey ed Macedonia.
 Pinaspasyal na din mamati sin kailiili isdi ay mangipapigpigsa en daida, asi pag emey ed Akaya ay makwani abe en Grecia.
 Nantetees di si tolo ay bowan, pag nan kanan en manlogan si bapor ay emey ed Syria. Ngem idi manlobwat koma, inammoana ay nantotolag di Judio ay mamse en sisya, isonga inkotiwtiw na ay mandan ed Macedonia.

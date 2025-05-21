@@ -926,6 +926,7 @@ Andekore, Leban ika yedmoon “Eb dore ne dore bot kee wuubaaniiwa bot doboob ka
 Keye bot wuubaan keyiiwaa, keye bot doboob kannumone kowaan keyiiwa kuu wedme meeni keriwen, nembed bot kee burudande mene eb yaa arewa kamainban, man kwangkon ebbed bot kee mene burudande ne yaa arewa kamaabban.
 Korondubko, amob kee domokbanuub kuu Abraham ye God, angkon Nehor ye God, angkon yi ambeya yi God kumbed ewa neya wengyunde dabab kondok.” andoon. Kwamuneene, Yekobbed amob weng yambe Aisek ye God yaningko yaambed ande kowoon.
 Kwane, Yekobbed aangko ambibkin aombed dingkan ma ayene ningkaneene agedmo keroone baeb kuu God yaa konoon, angkon Leban yoom yi karubkim yoom yaa baandoona korem miniiwa orok mana aniwen. Anekorib, amnoom kuu kuyaa kwari dangiwen.
+Awari amkimokaimbed Leban yeedere yaro ye awoyayiib ye mungkanayiib yaa mandamuk kerunde amun kerundekore, domonde ika yambib angka wonoon.
 Kuye aron Yekob kwangkon ye okad yaa wini ye dowad weneena God ye engyusbed wedya wenganiwen.
 Kwane, Yekob wedmendekore, yedmoon “Keke, God ye Kombonbonkibi kii!” andoon kowe, aningko kowe yedmoon “Bid kari kee, Mahanaim kii!” andoon.
 Yekob yaro dore ye weng kanwini ye karub baandoona miniwen, ye dowaken kuu yambang Isaumbed Idom ambibkin aom okad Sia yiri doreen yaa ye weng kanwinime anded kowe,
@@ -958,7 +959,6 @@ Yekobbed yedmoon “Kwani kowe, eb aningko kuu kane, yedmewe.” andoon, kumban 
 Kumbed Yekobbed yedmoon “God ne indobbed wedmaan kumban ne bobnindo kowe, okad keyaa kee Peniel ande kowaan.” andoon.
 Andekore, aron yaro mene darewoob keruun yaambed yaro okad Peniel kuu domonde wonoon. Ye yon kuu kanenanmo wonoon, amborom kuu mookono doomboroon kowe.
 Kwana kowe, wene kibikee, Israeldan kuu dingkan mookono yaa mekmeed yom kuu animokban, amborom kuu Godbed yom kee yaa kuu Yekob dedmonoon kowe.
-
 Yekob korok kankoone wedmoonka yambang Isau kuu meneen kowe, Yekob mene deme nima Bilha yoom Silpa yoom yi dana yoom kuu be nekwekore yedmoon “Yiib kuu yiibdin wini yeman.” andekore, ma Lea yoom yu meed yoom kuu be nekwekore yedmoon “Yiib kuu wedya wini yeman.” andekore, Reksel yoom yu mingki Yosef yoom kuu be nekwekore yedmoon “Yiib kuu yoman wini yeman.” andoon.
 <range>
 Andekore, yekareb yedinmo arinambo Isau yaa wenene bumangkane okad yiri korok kankibinene ika dembe kame ediib kere yambang Isau ye dia monoon.
@@ -13959,6 +13959,7 @@ Kuye Kingbed yedmoon, “Nembed Yariman ye amoweng kee baande daandaniin kei. Ye
 Kwani kowe, kingdan, yiib kuu meeni kangdomiib meenime, okad kiri ooniibdan, yiib kuu ongkandi weng dakmaan kuu awinime.
 Uniyiibbed Yariman ye deme kuu awinime, une kiringmiyiibbed ye yaa kubime.
 Ye Dana Mingki yaa bumangke yaningko kankoonime, kwanaibban kuu arud wandene, yiib wadkeri kuu wedyambed nare monmaraneen. Amborom kuu ye arud kuu kudmeniibban yurendimaan kowe. b Kane kane kuu Dana Mingkimbed kukbimaanbon aombed dobaraniib kuu yi korem kuu amun kerundaneen kii.
+
 O Yariman, ne bondan kuu yemoon! Ne yaa manmo keriwendan kuu yemoon!
 Nimakarub yemoon kuu ne dowad kamune yedmimaib, “Ye kuu Godbed arudbon aom kuu nenyeedaraanban.” andimaib. Selah
 O Yariman, eb kuu kwamunemban, ebbed ne kombe areb kerimaab, ebbed ne yaa nambiri kaweneb arudkono kangdom kawimaab.
@@ -14049,7 +14050,6 @@ Arewa kamidan kuu ika bobkonombon yiri wananiib, God yaa wunekare nonondandiwen 
 Kibikee kamboknondan kuu awandiyiibban kumban Godbed aron korem yi yaa nonondandaanban, Godbed kwananeen ande meeni ye inamen kuu kibikee yobdood meneboondan yaa kuu dowan, kumban aron ari kuu kuye inamen kuu ika awinaniib.
 O Yariman, yaro dembe. Korondaawa kangdod aom kuu karubbed eb kan kubunaib. Ambibkin mimimdan kuu eb kerebiri arimbed kangdod kerunde.
 O Yariman, yi kuu ongmendebko unime. Korokbendebko, ambibkin mimimdan kuu nimakarub dokmenmo kuu yikaadkerime. Selah
-
 O Yariman, komoyiibkob eb kuu ambab angkambed kwane doreeb? Komoyiibkob dabab kandimaub yaron ari kuu biknekoreb wedmendimokban kerimaab?
 Arewa kamembiri ye karub kuu ye kerengkan kumbed kamboknondan yenbande yarimaan kowe, ye kuu yena yaa wunonwanon ye inamen meenimaan kumban ebbed ye nen kuye inamen ye dabab aom kowe.
 Arewa kamembiri ye karub kuu ye inamen dowaken arewa kuyaa kerengkan kaimaan, kwane yembed kirimdan yaa amun kerundekore Yariman yaa butun kaimaan.
@@ -14075,6 +14075,7 @@ Yariman kuu ye kurikuri ambib karadmo aom doreen, kwane Yariman kuu ye dibere oo
 Yariman kuu yorokmodan yi niindem aom andangkimaan, kumban arewa kamembiridaniib yenbandi yaa dowaken keriwendaniib yaa kuu ye kingkinbed arud wandembirimaan.
 Arewa kamembiridan yaa kuu amoyidkowiib bod sulfaa yumbuyiib kiradmaneene am areb yi ari kirobaneen. Kwane, nimin kaiyiib ye nuub kumbed yi yaa wurumembirimbon aom nongkobaneen.
 Amborom kuu Yariman kuu yorokmo, ye dowaken darewoob kuu yorokmo kamime anded, kwane kangdommo doriibdan kuu ye murubia wedmaniib.
+
 Yariman, awawe. Eb kerekmen yaa doriibdan kuu dowan, anam anam yaa ma korondiyiibban awinimo doriibdan kuu nimakarub aombed wenebe dowan keriwen.
 Nimakarub korem kuu yi dia doriibdan yaa birandimaib, kwane kobkob weng kuu yi mongkodem aombed menebimaan birandi ye dowad.
 Kwane, kobkob weng dakmidan kuu Yarimanbed kebenendok. Kwane, kane kanembed kerengkan kame
@@ -14088,8 +14089,7 @@ O Yariman, eb kuu aron komoyiib ne yaa meenaabban? Aron korem nonondanduwaneewoo
 Aronkiyiib amnoomiib mimyob wandimain kowe, aron komoyiib ne inamen aom dabab kandembaraniin? Aron komoyiib ne bonman kuu ne burudande doraneen?
 O Yariman ne God, ne yaa wedmewe inanduwe. Ne id yaa aromkono konebko nindob yimin kerok. Kwanaabban kuu angke bobnaniine,
 ne bonmanbed “Ye kuu nembed bidkonaan.” ande yedmaneene ne bondanbed ne kombaraan yaa kubaniib kii.
-Kumban ne kuu eb womoniyiibban ye mimyob dowaken yaa angkimbaraneen andimain, kwane ne niindem aom kuu bobni yaa burudande bindi ye kiwaan ebbed ongmewen ye dowad kubimain.
-Ne kuu Yariman yaa wingkaniin, amborom kuu ye kuu ne yaa amunmo kamoon kowe.
+Kumban ne kuu eb womoniyiibban ye mimyob dowaken yaa angkimbaraneen andimain, kwane ne niindem aom kuu bobni yaa burudande bindi ye kiwaan ebbed ongmewen ye dowad kubimain. Ne kuu Yariman yaa wingkaniin, amborom kuu ye kuu ne yaa amunmo kamoon kowe.
 Inameniibbandan kuu yi niindem aom kuu “Godiibban, dowan.” ande yedmimaib. Yi kuu yorokmomban, unitab, yi ambangki kuu komyengiib, yi kuyaa mimo kanembed ma amun kamimokban.
 Yariman kuu Ewen arimbed kiri nimakarub korem yaa kerendeen, ye kuu karub mim mim kanembed inamen kande God ye kiwaan yaa onme dobiridan kuu wedmanded.
 Kumban yi korem kuu amonombe yangmad kere kimyen wenebiwen, kwane yi kuu ibonmo yorokmoyiibban unitab keriwen. Yi mim kuyaa kuu kanembed ma amun kamimokban, korem dowan kai.
@@ -14128,6 +14128,7 @@ Yi kuu laiyonbed dingkan mungi bobnemoon areb doriib, laiyon darewoobbed biknimb
 O Yariman, yaro dembe! Yi durunde yenbande ben yiri kubudere. Eb kerewangbed arewa kamidan yaa ne nen burudande angka kowe.
 O Yariman, eb dingkimbed karub kwamenabimaib yaa ne nen burudande angka kowe, okad kiridan okad yiri ye wadkeri ye kakmanmo kandi dowad kwanimaibdan yaa kui. Ebbed bobne komberewendan yaa kuu animan bangkandaawe ane mikmonaiwe yi mungi dowan kerimaan, kwane yi meed kangkon yiminmo dobirimaib, kwane kuye bangkandembiri yeman kuu yi awoya yaa kangkon angkeen.
 Kwane, ne kuu yorokmo dobiri yaambed eb murubia wedmaniin. Kwane ne kuu unuk yirimbed yaro dembaniin kuu eb kuru wedmeni kubaniin.
+
 O Yariman, eb kuu ne aromkono, eb yaa mimyob dowaken keebdaan.
 Yariman kuu ne aromkonombon, ye kuu ne aromne angkumonimbon, ye kuu arud barang yaambed ne nen burudande angka kowi ye karub. Ne God kuu ne aromkonombon, yembed kukbimaanbon aombed dobirimain. Ye kuu ne kombe, ye kuu bobni yaa ne nen burudande bindi yaromkono, ye kuu ne dorondarimbon.
 Yariman kuu amunmo kowe yaningko kankooni kuu yimin. Ne kuu ye yaa baandimain kowe, ne bondan yaa ne nen burudande angka kowimaan.
@@ -14249,7 +14250,6 @@ Ooni yaromkono kuu Yariman yeman, kwane yembed ambibkindan oonendimaan.
 Okad kiri yiribman yemoondan kuu orok anenib ye yaa kurikuri kamaniib, duknaniibdan korem kuu ye yaa bumangkaniib, yika yi wadkeri ma amuknindebandan kui.
 Nimakarub amaan ari dobaraniibdan kuu ye yaambed awine dobaraniib, kwane amaan ari dobaraniibdan yaa kuu Yariman ye dowad dakmaniib.
 Yi kuu ye yorokmo kerekmen ye dowad mokaid woonindodan yaa dakmaniib, yembed kwanoon ye weng dakmaniib.
-
 Yariman kuu ne nen dorondare oonimaan ye karub kowe, ne yaa komo dowan keroon kuu yembed nekwawimaan.
 Yembed ne nen animan yewudmombon aom kowaana yiidkimain, kwane yembed yewenub ye ok dewenebuun kebed yaa ne nen kinban winimaan.
 Yembed ne kingkin nen ikakman aromnimaan, kwane yorokmo ye kiwaan arimo ne nen kinban winimaan, ye aningko kankooni dowad.
@@ -14334,6 +14334,7 @@ Yariman ye weng yuud kuu amboon kan kiringmimaan, kwane Yarimanbed amboon Kades 
 Yariman ye weng yuud kuu at ook ben awumbe nidmingkene, dura kwangkon bongme obonmo kerimaan. Kwane, ye kurikuri ambiwoom kuu kumaom doriibdan korembed “Ye yaa nambiriyiib kerok” ande baandimaib.
 Yariman kuu niindem yiri ye ok korem yaa korok kere oonimaan. Yariman kuu king kere oonimaan, aron korem.
 Yarimanbed ye karuwa nimaya yaa aromkono kondimaan, kwane Yarimanbed yi kuu yewenuwiibbed amun amun kerundimaan.
+
 O Yariman, ewaningko kankoonaniin, amborom kuu ne kuu niindem yiri kombaraana ebbed nen burudande ari kowewen kowe, ne bondan ne yaa ambon kamewindo.
 O Yariman ne God, nembed eb yaa awawe ande baandaana, ongmeweewe wad dobaraan.
 O Yariman, ne kuu bobkonombon yirimbed ebbed nen kone dembewen, kwane ne kuu bobni ye dem yiri kombarandamaan kumban ebbed kebene nen kone awinewewen.
@@ -14371,7 +14372,6 @@ Yariman yaningko kankoonem, amborom kuu ne kuu bondanbed kanawanewandiwen ye sit
 Ne unimbon aombed yedmaan, “Eb indob arimbed kuu ne kuu kan angka karewen kii.” andaan. Kuned eb yaa baandaan kuu wengamberewen, eb yaa awawe ande baandaan kui.
 Yembed yorokmo kerundoondan, yiib korem kuu Yariman yaa mimyob dowaken keenime! Korondiyiibban anam ande doriibdan kuu Yarimanbed dorondare awandimaan, kumban kerengkan kamiibdan kuu yembed kumundinmo ine dabab kondimaan.
 Kane kane Yariman ye dowad yembed kwananeen ande meedmiibdan, yiib korem kuu aromkono kerenib arudkono awinime.
-
 Kane kane yi wabkad kami yaa are nonondandoon kuu yi kuu amun kerundoon, kane kane yi ambarakmi kuu are nonondandoon kangkon.
 Kane kane yaa Yarimanbed arewadan ande yedmindo kuu amun kerundoon, kane kane yi niindem aom kuu dudanabiyiibban kui.
 Ne ambarakmi dakmokban keraan kuu amkimombed wene amnoom kuu wareki kamembirimain kumbed wuudne aromkonoyiibban keraan.
@@ -14405,6 +14405,7 @@ Kwanimaan kuu bobni yaa burudande binda anded, kwane am kainoona animaniibban ke
 Nub kuu Yariman ye dowad yembed kwananeen ande meedmo doruub, ye kuu nub awandi ye karub, ye kuu kombe areb nub dorondandi ye karub kowe.
 Kedi, nub kuu ye yaambed kubi darewoob kerimaub, komoyiibkob, nub kuu ye aningko karadmo yaambed yone doruub kowe.
 O Yariman, eb womoniyiibban ye mimyob dowaken kumbed nub yaa angkimborok, nub kuu ebbed kwananeeb ande meedmo doruub kuyaambed kwanok.
+
 Ne kuu aron korem Yariman yaa amun kerunimamaniin, kwane ye aningko kankooni weng kuu korondiyiibban dakmembaraniin.
 Ne kingkiniib kumbed Yarimanbed komo komo kamenaboon ye weng yaa kerengkan kamaniin, kwane kane kane yenambed ben kubuniwendan kuu wengamberekorib kubaniib.
 Yiib kuu minibko Yariman ye yirin darewoob dakmendem, kwane ye aningko kuu nub ibonmo kankoonem.
@@ -14427,7 +14428,6 @@ Yorokmoman kuu dabab yemoon menebimaan, kumban Yarimanbed kuye dabab korem yaamb
 Ye kono korem kuu oonimaan, ma domokbaanban.
 Arewa kamidan kuu arewambed monmaraneene duknaniib, kwane yorokmodan yi bondan kuu wengyunde ukum kondaneen.
 Kumban Yariman kuu ye demedan biddimaan, kwane kane kane yembed kukbimaanbon aombed dobaraniib kuu yembed wengyunde ukum kondaanban.
-
 O Yariman, kaneya yi kuu ne yaa manmo kerimaib kuyaa kuu ebbed yi yaa manmo kerunde. Kwane, kaneya ne yaa nangmiwen kuyaa kuu ebbed yi yaa nangmende.
 Eb kombeyiib kiyamiib be nekwe. Kwane nekwekoreb yaro dembeneb awawi dowad mene.
 Eb maradiib ana nangmi ye daayiib benkoobe, ne nenbandande kerewenmo yarimaibdan yaa. Yedmewebka niindem aom anam anda, “Ne kuu eb nen bobni yaa burudande bindi ye God” ande yedmewe.
@@ -14456,6 +14456,7 @@ Korondaawa yi kekamune meenaib, “Ai, nub dowaken keruwen kuu kanduwen kii!” 
 Kane kane ne dabab kandaan yaa kubaniib kuu yi korem ben karak kondoko kerebkarab kamime. Kwane, kane kanembed ne nen yiri kubune yika yi aningko kankoonaniib kuu yi dobiri aom kuu karakiib derendaroko kubuniibban ye aningko kandok.
 Kumban kane kane Godbed ne dowad wengyunde ambarakmindo andoon yaa kubaniib kuu dowakeniib kere kube baandime. Yi kuu kekamune yedmimamime, “Yariman yaningko arimbed kerok, yembed ye dememan amunmo dobirimaan kuyaa kubimaan kii.” andimamime.
 Eb inamen yorokmo kuu dakmendaniin, kwane amkimombed wene amnoom kuu ewaningko kankoonaniin.
+
 God yaambed weng kuu ne niindem aom meneboon, arewa kamidan yi ambarakmenabi ye dowad, kedi yi inamen aom kuu God yaa unimokban.
 Amborom kuu ambarakmimbed “Eb kuu karub amun.” andaane yeka ye indob arimbed kerengkan kamimaan kowe, ye ambarakmi ma wedmindo, kuyaa kongenindo.
 Ye mongkodkonombed dakmimaan ye weng kuu yena yaa bon kerundi ye weng angkon dudanabi weng, kwane ye kuu inamen kangdomiib kami amuniib yaa korondoon dowan.
@@ -14468,7 +14469,6 @@ Amborom kuu eb yaambed wadkeri ye ambokab ye ok meneboon, kwane eb nambiri yuroo
 Eb womoniyiibban ye mimyob dowaken kuu kane kane eb yaa yikaadkeriwendan kuyaa kwane kondembere. Kwane eb inamen yorokmo kuu kane kane niindem aom kangdommo doriibdan kuyaa bangkandembere.
 Kerengkandan kuu ne yaa mene bon keruwaib, kwane arewa kamidan kuu ne yaa nangmaiwe kombiri wanain.
 Wedmime, arewa kamidan kuu yiri kirobe dangiwen, yi kuu ben yiri kiraroone ika dembindeban keriwen.
-
 Arewa kamidan yaa meendobembaraib, kwane ambarakmidan yi dobiri amun yaa wungkandaib.
 Amborom kuu yi kuu kereekbed aron doboobban nuubne koknemoon areb kerimaib, kwane yi kuu arub koknimaan areb aron doboobban ari duknaniib kowe.
 Yariman yaa angkumone doberenib amun amun kamenabime, kwane okad kirikee doberenib korondiyiibban ye weng awinime.
@@ -14509,6 +14509,7 @@ Ambarakmiwen kii ande kadwondiyiibban yimo doriibdan yi dobiri yaa kuu ongme mee
 Kumban ambarakmidan korem kuu monmaraneen, kwane arewa kamidan yi danaya awoya kuu yi yumbon yaambed nadme ben kiradmaneen.
 Yorokmodan ben bobni yaa burudande bindi ye kiwaan kuu Yarimanbed ongmoon, yi yaa dabab minimaan kuu yembed awande dukmondimaan.
 Yarimanbed yorokmodan kuu awandene arud ye barang yaambed ben angka nongkobimaan, kwane yembed arewa kamidan yaambed dorondandene yi ben angka nongkobimaan, amborom kuu yi kuu yembed kukbimaanbon aombed dobirimaib kowe.
+
 O Yariman, eb norin wande ongkawaab, kwane eb arud wande ne yaa didangkewaab.
 Amborom kuu eb ana kumbed ne yaa nabangkoon, kwane eb dingki kumbed ne nen kubunewen.
 Ebbed ne yaa norin wandewen kowe ne id kuu yiminban keroon, kwane ne niindem aom kuu korem amuniibban keroon, ne ambarakmaan kowe.
@@ -14589,12 +14590,12 @@ Aronki kuu Yarimanbed ye womoniyiibban ye mimyob dowaken keewok, amnoom kuu ye y
 Ne kuu God ne aromkonombon yaa kaamonimain, “Eb komande ne nonondanduwewen? Komande ne bondanbed yobdood keruwaiwe ne kuu kwane yuudi ameng kamembirimain?” andimain.
 Ne bondanbed ne yaa damangkawimaib, amkimombed wene amnoom kwane yedmimaib, “Eb God kuu kuna? Dowan!” andimaib, kowe kono domabangki ye yewed areb kuyiib keraan.
 O ne kingkin, eb komande yerene no kubokban kerewen? Komande ne niindem aom monmareeb? Kedi, God yaningko kankoonaniin kowe, yembed ari kwananeen ande meene. Ye kuu neyiib yaa doberene awawimaan ye karub, ye kuu ne God.
-
 O God, ne dowad ebbed wengyundeneb ma ambarakmindo ande. Kwane ne kangdod weng koromoneneb God ye kiwaan yikaadbandan yaa kebende. Kwane birande arewa kamenabidan yaa kuu ne nen burudande angka kowe.
 Eb kuu God ne dore angkumonimbon kowe, komande ne yaa wunekarewen? Komande ne bondanbed yobdood keruwaiwe ne kuu kwane yuudi ameng kamembirimain?
 Eb nambiriyiib anam anamiib kuu ben yure kowe. Korondebko yimbed ne nen kinban winime. Korondebko yimbed ne nen eb aangko karadmo ari winime, eb dobirimbon yaa kui.
 Kwananeen kuu ne kuu God ye bot wuubimbon yaa wananiin, Godiib yaa kui, ye kuu ne kubi ye ambokab kui. Ne kuu haap wangkeni ewaningko kankoonaniin, o God ne God.
 O ne kingkin, eb komande yerene no kubokban kerewen? Komande ne niindem aom monmareeb? Kedi, God yaningko kankoonaniin kowe, yembed ari kwananeen ande meene. Ye kuu neyiib yaa doberene awawimaan ye karub, ye kuu ne God.
+
 O God, nubka kub kerendembed wengamburuwen, kwane nub awoyambed unyeman yiri yi dobiriwen yaron yaambed ebbed komo kamewen kuu nub yaa daandiwen.
 Eb dingkimbed ambibkin maa maadan ben angkanekoreb, nub awoya ben kuri nongkobewen. Ebbed nimakarub kuyaa dobiriwen kuu dore boknekoreb nub awoya ongmendeewe amunmo dobiriwen.
 Kedi, nub awoya kuu yi kerewang yaromkono yaambed burudande okad kandindo, kwane yi dingkimbed nangbe burudandindo. Kukuu eb dingki wiwi yaromkonombed kwane burudande okad kandewen, kwane eb murubia ye nambirimbed nangbe burudandewen, amborom kuu ebbed yi yaa dowakeniib kerundewen kowe.
@@ -14697,7 +14698,6 @@ Amborom kuu ye bobnaneen kuu ye yiribman kuyiib yeka ma be wanaanban, ye ambiwoo
 Ye kwane doreen kuu yekareb yemeren nekob yimin ande kubimaan. Ye kuu yiminmo keraneen kuu yenambed ye aningko kankoonaniib kuned,
 ye kuu yambe yawoya awoya yaa daboknendaneen, yi kuu kumun aommo doberembaraniib kui.
 Yiribman yemoondan kuu kaadkeri inameniibban keraniib kuu dingkan areb, yi kangkon duknaniib.
-
 Aromkonomo Ye God, Yariman kui, yembed dakmene okaddan yaa minime ande baandimaan, aron daminimaunbed wene aron kubunimaun korem yaa kui.
 Aangko Saiyon, yu manimanandeb kuu demkoronmo kui, yu yaambed God kuu yure kowimaan.
 Nub God kibireb meneen kii, ye kuu iwari dobaraanban, kwane ye meneen ye kiwaan ari kuu amotbed denobenmo meneen, kwane nuuwa amayiib bare kanmene ye kuu kanawanewandeen.
@@ -14721,6 +14721,8 @@ Yiib kuu yiib ambanga oniya damana yaa manmo keri ye weng dakmimaib, kwane eb en
 Yiib kuu kwamimaib kuned ne kuu iwari keraan. Yiibbed meeniwen kuu God kuu nub areb ande meeniwen. Kumban nembed yiib yaa ongkandeni, yiib yoom kiring ine yiib dowad ambarakmiwen kii ande kangdod weng dakmaniin.
 “Kane kane ne yaa naknod keriwen, yiib kuu weng ke yaa meenime. Kwanaibban kuu nembed ben biringke kurubkurub kamaniin, karub maa yiib ben ma dorondandaanban.
 Kane kane ne yaa eso andi dowad munob bangkawimaan kuu ne aningko kankoonimaib, kwane kane kane yorokmo dobiri ye kiwaan ari doriib kuu nembed bobni yaa ben burudande bindaniin.” andoon.
+
+
 O God, eb womoniyiibban ye mimyob dowaken yaambed mimyob keewe kakman are nonondande. Eb mimyob keendi darewoob kerekmen yaambed ne wabkad kami kuu are kankare.
 Ne arewa kami korem kuu oke dowan kere. Kwane nambarakmi are koroomiibban kai areb kere.
 Kedi, ne wabkad kami kuu wedme nekaadkeraan, kwane nambarakmi kuu ne kiringkono ari angkeen.
@@ -14752,13 +14754,13 @@ Kwane, yorokmodan kuu wedme unenib ye yaa ambon kamene yedmaniib,
 Kumban ne kuu God yambiwoom at olif biid awene amun amun kamemoon areb kwane kamiin. Ne kuu God ye womoniyiibban ye mimyob dowaken kuyaambed yone dobaraniin aron korem korem.
 O God, ebbed komo komo kamenabewen kuyaa kuu aron korem eso andimamaniin, kwane eb kuu amun kowe eb ande meedmaniin, eb karadmodan yi arinambo arimbed.
 
-
 Inameniibbandan kuu yi niindem aom yedmimaib, “Godiibban dowan.” andimaib. Yi inamen kuu nengkidme arewamo kerenib yi dobiri kiwaan kuu miin arewamo, kwane yi korem kuu ma amun kamimokban.
 God kuu Ewen arimbed nimakarub yaa yiri wedmimaan, kuu karub maa kanembed id anam kaadkerekore God ande onmaneen manok anded.
 Kumban yi korem kuu God yaa angkurom korokbeniwen, kwane yi korem kuu yika yi inamen ben nengkidme arewamo meenimaib. Yi kumaom kuu kane maambed amun kamimokban, korem dowan anam.
 Yembed yedmoon, “Arewa kamidanbed ne nimakarub yeene nongkobiwen, kowe ne nimakarub kuu animan ane dowan keremoon areb keriwen. Arewa kamidan kee ne yaa ma baandindo. Yi kuu ma kaadkeraniiwoo? Dowan!” andoon.
 Yi dobiri yaa kuu uni yemaniibban kumban yi kuu uni miin darewoob keriwen, amborom kuu Godbed ye nimakarub yi bondan yeene nongkobene yi kono kuu ben bokesawaroon. Godbed yi yaa wunekaroon kowe Israeldanbed yi kuu yenbande karak kondiwen kui.
 O, Israeldan ben yi bondan burudande obon kerundi ye karub kuu aangko Saion arimbed angkadere monok. Kuyaron kuu God ye nimakarub ben obonmo kerunde yiminmo kerundaneen. Kwanoko Yekob ye meed Israeldan dowaken kere kubime.
+
 
 O God, ewaningko yaromkono yaambed ne nen burudande angka kowe. Eb aromkonombed ne dowad ebbed wengyundeneb ma ambarakmindo ande.
 O God, ne kurikuri weng kee wengambere. Ne mongkodkono aombed ne weng kee wengambere.
@@ -14767,7 +14769,6 @@ Kedi, God kuu ne awawi ye karub, Yariman kuu ne awawaane yiminmo dobirimain ye k
 Ne yaa yemyeb darobidanbed ne yaa arewa kamenabi kuu yembed amonombe yi yaa kerundok. God, eb korondiyiibban eweng awinimo dobiri ye kerekmen yaambed yi ben monmarunde.
 O Yariman, eb yaa nindorokiibbed munob koni yeman kabdaniin. Kwane ewaningko kankoonaniin, amborom kuu eb kuu amunmo kowe.
 Kedi, dabab ne yaa meneboon korem kuu yembed ne nen burudande angka kowoon, kwane wedmaane yembed ne bondan ari boknoon.
-
 
 O God, ne kurikuri weng kee wengambere. Ne kaamoni keyaa wengamberedandaab.
 Wengamberewekoreb inanduwe. Ne niindem aom dabab kawoon. Bondan yi weng wengambereni, arewa kamidan yi indob nengmoniwen kumbed kirokkarok kere miin yiminban keraan. Amborom kuu yimbed ne yaa durud yewed kawenib, arud wanduwe wungkawimaib kowe.
@@ -14849,6 +14850,7 @@ Yi kuu animan anande kirinwe dewenebimaib, kwane mikmonindo kerimaan kuu anon ke
 Kumban ne kuu ewaromkono ye dowad yook wingkaniin, kwane amkimo kuu eb womoniyiibban ye mimyob dowaken ye dowad kube wingkaniin, amborom kuu eb kuu ne dore aromnimbon, kwane dabab ne yaa menebimaan kuu ebbed kukbimaabbon aombed dobirimain.
 O ne aromkono kawi ye karub, ewaningko kankoonaniin. O God, eb kuu ne dore aromnimbon, eb kuu ne yaa womoniyiibban ye mimyob dowaken keewimaab ye God.
 
+
 O God, eb kuu nub yaa wunekarundekoreb mene boketawarewen. Kwane eb kuu nub yaa arud wandewen kumban, kibireb kee nuwiib yaa ikakman mene amun kerunde.
 Ebbed okad kuu nan yobeewa domokbe nandeen. Okad kuu nandeen kowe, ebbed okad bunge bangkanaboon kuu ongmebko amun keruk.
 Eb nimakarub yaa kuu yobdood aron kondewen, kwane ebbed wain okbed awarak ayemoon areb komborok komborok dodkanmo wini ye dabab nub yaa kondewen.
@@ -14861,7 +14863,6 @@ Kanembed ne nen siti bot kuukiib aom aomnaneen? Kanembed ne nen ambibkin Idom ao
 O God, ebbedmo yimin. Eb komande nub wunekarundewen? O God, eb komande nub ana nangmidan yoom wanaibban?
 Nub bondan yaa nangmi dowad nub awande, amborom kuu karub ye aromkono awandaniiwe nangmanuub kuu korem yiminban.
 Nub kuu Godiib kumbed burudande doranuub, kwane yembed nub bondan ari dorene ben kubunaneen.
-
 
 O God, ne baandi kee wengambere. Ne kurikuri weng kee wengambere.
 Ne kuu okad yimin yimin yaambed eb yaa baandimain. Ne niindem aom bobne kombirikin keroon kumbed eb yaa baandimain. Ne nen kinbanmo dumnad ambab ne arebban ari nen wene.
@@ -14921,7 +14922,6 @@ Ebbed am bangkandimaab kowe, yi yongbon kidbon yiri bid benkubune wuneen yiri ku
 Weeb mimim aom kuu yongbon kuu ebbed ongmaawe animan yemoon kaimbed wandimaib, kwane kuna kuna wenebimaab kuu animan id yiminmo kerundimaab.
 Dura angka kuu animan id yiminmo, kwane koodbon koodbon yaa kuu kubimo.
 Dura ye kereekbon kuu dingkan kab yewuudmo anengkanan yarebiib, kwane dabon kankubuneen yiri kuu animan id keene wonoon, kwane yi kuu kube baandimaib, ee, kube wingkimaib.
-
 Okad yiridan korem, God yaa kubenib komkime!
 Yaningko ye nambiri ye dowad wingkime, yaningko kankoone nambiri konime!
 God yaa yedmime, “Ebbed ambangkanabewen kuu yeka mamaa yoo! Eb aromkono kuu miin darewoob kowe, eb bondan kuu unebde ika anuk irinambenimaib.
@@ -14942,6 +14942,7 @@ Ne mongkodkonombed ye yaa baandaan, kwane ne ongbed yaningko kankoonaan.
 Ne niindem aom ambarakmi inamen yaa kube amuknaan kuu anam keraneen kuu, Yariman kuu ne yaa wengamberewaanban.
 Kumban anam kuu God kuu ne wengamberewoon, kwane ne kurikuri ye yaa kuu wengamboroon.
 God yaningko kankoonem, ne kurikuri weng wunekarindo, kwane ne yaa ye womoniyiibban ye mimyob dowaken keewoon kuu anwandindo kowe.
+
 God, eb nub yaa mimyob keende amun kerunde, eb murubia kuu nub yaa konde.Selah
 Kwananeebkob eb dowaken okad yiri ye ambibkin koremdan yaa kuu yikaadkeraniib, kwane ambibkin korem kuu bobni yaa burudande bindi ye kiwaan ebbed ongmewen kuu wedme yikaadkeraniib.
 O God, ewaningko kuu ambibkin koremdan kankoonime, ambibkin koremdan kuu ewaningko kankoonime.
@@ -15028,7 +15029,6 @@ Kane kanembed ne nande kamiibdan kuu karak kondeneb kerebkarab kerunde. Kane kan
 Kane kanembed ne kande iningkuk yeman keriwen kuu karak kondoko ikakman winime.
 Kumban kane kanembed eb ande onmiibdan kuu, eb yaa dowakeniib kere kubime, kwane kane kanembed bobni yaa burudande bindi ye kiwaan ebbed ongmewen kuyaa dowaken darewoob kowiwen kuu, kekane yedmimamime, “God yaningko darewoob arimbed kerok!” andimamime.
 Kumban ne yaa dabab meneboon, nangkon kamboknon keraan, o God, ne yaa kirod mene! Eb kuu ne awawi ye karub, eb kuu ne nen burudande angka kowi ye karub, o Yariman, erebnaraab, kibireb mene!
-
 O Yariman, ebbed kukbimaabbon aombed dobirimain, korondaawe ne yaa ma karak kawaib.
 Eb yorokmo kerekmen yaambed ne nen burudande angka kowe. Ne yaa eb kerendem kowe wengamberewe mene ne nen angka kowe.
 Ne nen kukbimaabbon aombed aromne angkumoni ye karub kere. Ewiib yaa mini ye kiwaan kuu ma kebeniyiibban kerok. Eb kuu ne aromkonombon, eb kuu ne aromne angkumonimbon kowe, ne dowad ye nen burudande angka kowa andi ye weng dakme.
@@ -15124,6 +15124,7 @@ Eb amob weng nub dowad ongmewen kuyaa kuu meene ongme awine, amborom kuu okad ke
 Kwane korondaawe, dabab wayiroondan kuu ika mene karak kandaib, kwane kamboknondaniib yiminban kerenib awande andidaniib kuu ewaningko kankoonime.
 O God, yaro dore. Ebka eb dowad koromone dakme. Inameniibbandan kuu aronki doboob damangkabdimaib kuyaa ika meene.
 Eb yaa manmo keriwendanbed yirinde baandimaib kuyaa nonondandaab, kwane eb bondanbed womoniyiibban baankone komkimaib kuyaa kangkon nonondandaab.
+
 O God, nub kuu eb yaa eso anduub, amborom kuu eb kuu dia doreeb kowe. Binangke eb yaa anam andi yeman ambangkanabewen kuu nimakarub kuu dakmimaib.
 Ebbed kwane dakmeeb, “Nembed aron kuu kine kowaan, yorokmo wengyundi ye karub kuu ne kei.
 Kwane, okadiib yu nimakarub koremiib kiringmaniib kuu nembed ambokab yiri kuu yobdoodmo awinaniin.Selah
@@ -15168,7 +15169,6 @@ Wiib arimbed am menebuune, ambid ari kuu nambad kamoone, eb imak kuu ana baradme
 Eb amkuni kuweng kuu kibin nuub aombed meneboone, eb imakbed okad kumundin kuu yuroone, okad kumundin kuu kiringmiyiibbed yobeen.
 Kiwaan ongmewen kuu karamok aombed dewuneen, karamok niindem yirimbed kiwaan ongmenabewen kui, kuned eb yon yumbon kuu karub maa ma wedmindo kii.
 Eb nimakarub kuu sibi oonidan areb ben kinban wenewen, Moses yoom Eeron yoom yaambed kui.
-
 O ne karuwa nimaya, ne kedmengkandi kuu wengambirime. Ne mongkodkonombed dakmandamaan keyaa yiib kerendem kowe wengambirime.
 Ne mongkod doombereni kuruwak wengbed dakmaniin, unyemanbed biknoon ye inamen kuu kedmengkaniin.
 Wengambere nubkaadkeruwen ye weng, nuwambeyambed nub yaa daandiwen ye weng kui,
@@ -15254,6 +15254,7 @@ Eb yaa yikaadban ye ambibkin maa maadan kee nub dowad “Yi God kuu kuna?” and
 Yimbed nub yena awingke benwiniwendan yi wareki kuu yangmadandaab. Kane kane dukni yeman andiwendan kuu eb aromkono darewoobbed ben angka nongkobe.
 O Yariman, nub dia doriibdan yi ari kuu yimbed eb yaa dabdi yeman kere dabab bangkabdiwen kuu neman inandunde ediib kerunde.
 Eb nimakarub nub kuu eb kereek amun ari ye sibi areb kowe, yi yaa neman inandunde ediib kerundaneeb kuu, ewaningko aron korem kankoonembaranuub, awoya yaro dobere dobere yaro wananiib korem kuu ewaningko kankooni ye weng dakmembaraniib kui.
+
 O Israeldan Oonimaabman, nub wengamberende. Yosef ye awoya ari kuu sibi oonemoon areb ben kinban winimaabman, engyus burawiib yi kidangkambed king ye dibere oonimbon ari diberewenman kui, eb kuu yure.
 Efraima Benjamina Manaseya yi arinambo ari kuu eb aromkono korokbe. Yaro dembe nub kuu arudbon yaa burudande binde!
 O God, yumbon kanduwen kwarimbed komburuwen kuu ebbed nub ongmendebko ika kandem. Eb murubia kuu nub yaa konde. Kwananeeb kuu nub kuu arudbon yaa burudande bindaneeb.
@@ -15290,7 +15291,6 @@ Kowe nembed yi kuu yi niindem kamkono ye kerekmen kuyaambed kwane winime ande do
 Kwananiib kuu kirodmo yi bondan ben kubunaniin, yi yaa manmo keriwendan yaa kuu ne dingkimbed kebenaniin kui.
 Kane kane Yariman yaa arud wandembirimaib kuu ye yaa unene ika anuk irinambenaniib, kwane ukum kandaniib kuu aron korem kwane angkimbaraneen.
 Kumban, Israeldan, yiib yaa wiit yob amun yeman kuu bangkandembaraniin, kwane dumnad yaa ye in ambodbed kondaniine yiib kuu ane mikmonaniib.” andoon.
-
 God kuu kadaareb nedbiwen aom kuu yembed korok kere doreen, yembed ambibkindan yena yi korok korok yaa wengyundimaan kui.
 Yiib kuu aron komoyiib inamen yorokmomban kumbed wengyundaniib? Aron komoyiib miin arewa kamidan yaa kubenib yi weng kande wengyundaniib?Selah
 Wuud keriwendaniib anenabdaniib yi inamen amun yaa kuu koromone daandime, kamboknondaniib dabab wayiroondaniib yaa kangkon kwanime.
@@ -15299,6 +15299,7 @@ Kuye korok korok kuu korem ma yikaadban, kwane yi kuu korem ma id kandimokban, k
 “Nembed yedmaan, ‘Yiib kuu goddan kii, yiib korem kuu Korem Burudandoon Arimbed ye God ye meed.’ andaan.
 Kumban yiib kuu nimakarub areb duknaniib, yiib kuu okaddan yi korok korem areb no duknaniib kui.” ande yedmoon.
 O God, yaro dembeneb okaddan kuu wengyunde, amborom kuu ambibkin koremdan kuu ebman kowe.
+
 O God, komo keroon yaa kuu iwari keraab, o God, iwari keraab, kwane kuyaa kuu yangmadandaab.
 Kedi, eb bondan kuu yirinde baande kamiib, eb yaa arud wandembirimaibdan kuu wabkad keriwen kui.
 Yi kuu eb nimakarub yaa inamen bangbangbed nuubnaan kamiib, kane kane yaa ebbed bobne komberewendan yaa kuu yimbed wunonwanon kamiib kui.
@@ -15344,7 +15345,6 @@ Womoniyibban ye mimyob dowakeniib ma korondaanban awinaneen andiyiib kuu dabokni
 Nimakarub yi ma korondiyiibban ye weng awinimaib ye kerekmen kuu okad yirimbed daanaane, God ye yorokmo dobiri kerekmen kuu Ewen arimbed kan kiri kowe kereknimaan.
 Anamaa, komo komo amun kuu Yarimanbed bangkandaneene, nub okad yiri kuu animan kab yeere id yemoon keraneene wandanuub.
 Yorokmo dobiri ye kerekmen kuu king meneen ande baandi ye karub areb God ye arinambo ari wenene, ye dodkanmo mini ye kiwaan nekwimaan.
-
 O Yariman, wengamberewe inanduwe, amborom kuu ne kuu dabab wayiroone awawime ande kamimain kowe.
 Ne wadkeri kuu oone, amborom kuu eb dowad yaamo doriin kowe. O ne God, eb deme karub ne kei, ne eb yaa angkomone doriin kowe ne nen dorondare.
 O Yariman, ne yaa mimyob keewe, amborom kuu aronki doboob kuu eb yaa baandimain kowe.
@@ -15369,6 +15369,7 @@ O God ye siti, kub dowad weng amun manimanandewiib dakmimaib.Selah
 Anamaa, Saiyon yu dowad kwamune yedmaniib, “Nimakarub keyiiwa yakuyiib kuu yu aombed wooniwen, kwane Korem Burudandoon Arimbed ye God kuu yekareb kumbed yu yaa yumbon kondaneene doberembaranuun.” andaniib.
 Yarimanbed kwane nimakarub korem yi aningko wongkaneen ye buk aom kuu, “Ye kee Saiyon aombed wooneen.” ande wongkaneen.Selah
 Yi kuu kube andenabe yook wingkane “Nub yaa amun kerundi korem kuu eb yaambed meneboon.” ande kamaniib.
+
 O Yariman, ne bobni yaa burudande nendi ye God, aronkiyiib amkiyiib kuu eb arinambo ari baandimain.
 Korondewo ne kurikuri kee eb arinambo ari monok, eb kerendem kan amonombe ne yaa koweneb ne baandi wengambere.
 Kedi, ne niindem aom kuu dabab yemoon demboon, kwane ne kuu bobniin dia keroon.
@@ -15440,7 +15441,6 @@ O Yariman, anuk kuu ma korondiyiibban weng awini ye inamen Dewid yaa yedme kowew
 O Yariman, eb demedan yaa damangkandiwen kuyaa ika meene. Ambibkin yemoondanbed ne yaa damangkawiwen kumbed ne niindem aom yiminban keraan kuyaa ika meene.
 O Yariman, eb bondanbed damangkawiwen kuyaa ika meene. ebbed ye ari oiyo bune kinewenman komo komo kamenaboon yaa damangkaniwen kuyaa ika meene.
 Yariman yaa aron korem amun kerunemborok! Anam kwanok, kedi, anam kwanok.
-
 O Yariman, andowoon yirimbed nimakarub yaro dobere dobere yaro wananiib korem aom kuu eb kuu nub dobirimbon kere doreeb.
 Aangko aangko ongmenabindo yaron o ebbed bidiib okad kumundiniib ongmenabindo yaron, aron korem anuk doberewenbed mene aron korem ambab ari dobaraneeb kui, eb kuu God.
 Ebbed kinewen yaron ari keraune nimakarub kuu angkon ika okad kerimaib, kwane “O karuwa nimaya, ikakman okad kerime.” ande yedmimaab.
@@ -15474,6 +15474,7 @@ Ebbed laiyoniib niin arud niin kobrayiib kuu dore bunganeeb, laiyon arudiib niin
 Yarimanbed yedmoon, “Ye kuu ne yaa mimyob dowaken keewimaan kowe, arud ye barang yaa kuu ye nen angka kowaniin. Yariman kuu ne God ande yedmimaan kowe, ye nen dorondaraniin kii.
 Ye kuu ne yaa baandaneene nembed inandunaniin. Dabawiib keraneene ne kuu ye yaa dobere awanenaniin. Ye kuu bobni yaa burudande nendeni ye aningko kuu arimbed kankoonaniin.
 Aron doboob ye dobiri konaniine kubimo dobaraneen, kwane bobni yaa burudande bindi ye kiwaan nembed ongmaan kuu korokbenaniin kii.” andoon.
+
 Yariman yaa eso andi kuu amun, o Korem Burudandoon Arimbed Ye God, ewaningko kankooni ye yook wingki kuu amun kii.
 Amkimo korem eb womoniyiibban ye mimyob dowaken daandi kuu amun, amnoom korem eb ma korondiyiibban weng awini ye kerekmen daandi kangkon amun kii.
 Ewaningko kankooni dowad nong angko angkoyiib ye laiya wangki kuu amun, ewaningko kankooni dowad kuweng amuniib ye haap wangkenabi kangkon amun kii.
@@ -15489,7 +15490,6 @@ Yorokmodan kuu orom at areb kirodmo kaine amne amunmo dobaraniib, yi kuu Lebanon
 Yi kuu at Yariman yambib yaa kibingkemoon areb keraniib, yi kuu nub God ye kurikuri boyambib yu kuuk wirinimbon aom amunmo dobaraniib kui.
 Yi kuu kiomnaniib kumban yowiib iremoon areb kere dobaraniib, yi kuu at nunungiib awoyeebmo areb aromkonoyiib dobaraniib kui.
 Yi kuu kwane yedmaniib, “Yariman kuu kangdommo, ye kuu nub aromkonombon, ye kuu ma arewayiibban.” andaniib.
-
 Yariman kuu oone doreen, ye kuu ebkad doboob inwaremoon areb dobiri manimanandewiibmo doreen. Yariman kuu aromkono kan ebkad doboob inware kobaiknong boronemoon areb awine doreen. Okad kuu kan ongme kowoone yumbon kamkonoyiib kereen, kowe kan dewenebinban.
 Eb dibere ooni yeman ye yumbon kuu kurin kurin anukbed ongmewen, eb kuu aron korem anukbed mene kibikee doreeb.
 O Yariman, karamok korem kuu baandiwen, karamok korem kuu kan ari kowe baandiwen, karamok korem kuu yi oknondok darewoob ben ari nongkobiwen.
@@ -15585,6 +15585,7 @@ Kanembed ye dia doreenman yaa yemyeb wengamborokbanabaneen kuu nembed ye kuu keb
 Ne kuu ne ambibkindan anam andiwen yaa karub amun ande kereknaniin, kwananiine ne yoom dobaranuub. Kane ye kuu ambarakmoon kii ande dedmoniyiibban ye kerekmen yaambed dobaraneen kuu ne yaa awawaneen.
 Karub kanembed ye kuu birandimaan kuu nambiwoom kuu yeyiib dobaraanban. Karub kanembed ye kuu dudanabimaan kuu ne arinambo ari dobaraanban.
 Ne ambibkin ye arewa kamenabidan kuu amkimo korem kebenendaniin. Nembed arewa kamenabidan korem kuu Yariman ye siti aombed ben bunangka kiradmaniin.
+
 O Yariman, ne kurikuri kee wengamberewe. Ne awawe ande baandi kuu eb yaa monok.
 Ne yiminban kere eb yaa baandaka eb murubia ne yaa kuu kan yeknaab. Eb kerendem kuu ne yaa kowe wengamberewe. Kwane eb yaa baandaka kirod inanduwe.
 Ne wad dobiri yaron kuu amareng anwenemoon areb, kwane ne kono kuu amoyidkob denemoon areb keroon.
@@ -15613,7 +15614,6 @@ Yimin andowoon yiri kuu ebbed okad yu ambokab ongmenabewen, kwane ambidiib Eweni
 Yi kuu monmaraneen kuned eb kuu dobaraneeb, yi kuu ebkad korobob keremoon areb keraniib kui. Yi kuu ebkad areb ebbed biangke ben kiradmekoreb yeweb ben debendaneeb.
 Kumban eb kuu kwane doreebmo doberembaraneeb, kwane eb weeb kuu ma yimin wandaanban.
 Eb demedan yi meed kuu uniyiibban kumbed dobaraniib, kwane yi awoya kuu eb arinambo ari ye yumbon aom dobaraniib.
-
 O ne kingkin, Yariman yaningko kankoona, ne niindem aom kumundiniib ye aningko karadmo kankoona.
 O ne kingkin, Yariman yaningko kankoona, ne yaa awawi ye kerekmen yaa ma nonondandain.
 Ye kuu ne ambarakmi korem are nonondandene ne bob anikad maa maa korem kuu ongmewimaan.
@@ -15807,6 +15807,7 @@ Yembed yi korok korok yi dowad miin arewa ande ambodiibban kerundekore, kiwaanii
 Kumban yembed nub yaa awandok andidan kuu yi yaa dabab angkeen yaa benkoobekore, yi nimadana kuu ongmendoone sibi wad yemoon areb yemoon ariyiib keriwen.
 Kangdommo dobiridan kuu kuyaa wedmekorib kubiwen, kumban arewa kamenabidan kuu mungkod karangkiwen.
 Kanembed ye kuu meeni kangdomiib keroka weng anuk angkeen kuyaa kaadkerok. Kwane ye kuu Yariman ye womoniyiibban ye mimyob dowaken kerekmen yaa meenok.
+
 O God, ne niindem aom kuu kiringmiyiibban kangdommo, ne kuu ne inamen koremiibbed wangke yook wingkaniin.
 Haawiib laiyayiib, yiib kuu dembime! Yiiwiib wangke wingkeni aron kakmendaniine awawini nambere wananuun.
 O Yariman, ne kuu ambibkin korem aombed eb yaa eso andaniin, kwane ne kuu ambibkin maa maadan aombed ewaningko kankooni ye yook wingkaniin.
@@ -15820,7 +15821,6 @@ Kanembed ne nen siti bot kuukiib aom aomnaneen? Kanembed ne nen ambibkin Idom ao
 O God, ebbedmo yimin. Eb komande nub wunekarundewen? O God, eb komoyiibkob nub ana nangmidan yoom wanaibban?
 Nub bondan yaa nangmi dowad nub awande, amborom kuu karub ye aromkono awandaniiwe nangmanuub kuu korem yiminban kowe.
 Nub kuu Godiib kumbed burudande doranuub, kwane yembed nub bondan ari dorene ben kubunaneen.
-
 O God, eb kuu nembed ewaningko kankoonimainman, iwari keraab,
 amborom kuu arewa kamenabe birandimaibdan kuu ne yaa daawimaib, yimbed ne dowad dudi wengbed dakmiwen kui.
 Ne yaa arud wandembiri wengbed ne kanawanewandiwen, kwane ne kuu yi yaa ma arewa kamindo kumbed yimbed nimaib.
@@ -16329,6 +16329,7 @@ O Yariman, eb yaa arud wandembirimaibdan kuu nembed yi yaa arud wandembirimainoo
 Nembed yi yaa naawonmo arud wandembirimain kumbedmo, yi kuu ne bondan andimain.
 O God, ne yaa kuu andangke darobeneb ne niindem aom kuu ebkaadkere. Kwane komboon kaamobeweneb ne inamen kabakanabi yi meendobi kuu ebkaadkere.
 Kwane ne yaa kuu inamen arewa maayiib keroka kankorokbe. Kwane wadkeri aron korem ye dobiri kiwaan ari kuu ne nen kinban wene.
+
 O Yariman, ne kuu miin arewa kamenabidan yaambed nen burudande angka kowe. Ne kuu yeremboromdan yaambed nen dorondare.
 Yi kuu yi niindem aom inamen miin arewa ongmenabimaib, kwane yi kuu aronki korem kuu ana nangmi inamen bangkandimaib.
 Kwane yi ong kuu niin yi ong areb kerenib “ssss” andimaib, kwane yi weng mongkodkono mandakadbed dembimaan kuu niindok arud ambod areb.Selah
@@ -16342,7 +16343,6 @@ amoyidkob niminiib yi ari kiroboko, yi kuu amot aom ben kiraroko, ika kawinindeb
 Wengamborokbanabidan kuu nuwokad kuyaom kuu yumboniibban kerime, kwane yeremboromdan kuu arewa kaimbed kirodmo mene dabunde yenbande monmarok.
 Yariman kuu dabab wayiroondan yaa koromone angkumondene, kamboknondan yaa wengyundi anammo kondimaan kuu nekaad.
 Anam kuu yorokmodan kuu ewaningko yaa eso andaniiwe, kangdommo doriibdan kuu eb kerebiri arinambo arimbed dobaraniib kii.
-
 O Yariman, eb yaa baandaan kii, kirod mene awawe. Ne baandi eb yaa kuu wengamberewe.
 Ne kurikuri eb yaa ben kabdiin kuu baeb amun kabdi areb kerok. Ne dingki benkoobi kuu oobnon yaa ye dingkan aye nengke baeb kabdi areb kerok.
 O Yariman, ne mongkodkono yaa kangkadmi kerekmeniib ongme. Kwane ne mandakad ambongko yaa kuu weng amunmo dakmi dowad oone kerendombiri kerekmeniib ongme.
@@ -16353,6 +16353,7 @@ Okad kuu nidke aangke ben kiradmemoon areb yi kono kono kuu bobkonombon ambongko
 O Yariman Ambengkan, ne indob kuu eb yaa nengmonaan. Ne kuu ebbed kukbimaabbon aom doriin kowe, ne kuu kan bobni ari kowaab.
 Ne kuu yi kawaad nong ne dowad ben nongkobiwen kuyaambed nen burudande angka kowe. Ne kuu arewa kamenabidanbed ne kiwaan arimbed awinenok ande nongkobiwen kuyaambed nen burudande angka kowe.
 Yimbed karub awingki ye men kan batangne awinewande kamiwen kumbed yika awinendoko, ne kuu amunmo deburudanda.
+
 Yariman yaa naawon baandaan, Yariman yaa mimyob keewe awawe ande kankone baandaan.
 Ne mungkubmangkab kuu kanmene ye yaa konaan, ne dabab kuu daanaan kui.
 Ne niindem aom kuu wuudne yiminban keraan kuu, ne kiwaan korem kuu ebkaadmo. Ne yarimain ye kiwaan ari kuu karub yenambed kawaad nong awinewande kowiwen.
@@ -16360,7 +16361,6 @@ Ne wiwi angka wedme. Karub mim maa ne dowad ma meenewindo. Ne nen kukbimaan ye k
 O Yariman, eb yaa baandaan. “Eb kuu ne kukbimaabbon, wad doruubdan kiri kee eb kuu ne yaa bangkawimaab ye karub.” andaan.
 Ne kuu nen kubuniiwa yirimo keraan kowe, ne baandi yaa wengambere inanduwe. Ne nenbande kamiibdan kuu aromkono darewoowiib ne arebban kowe, yi yaambed ne nen burudande angka kowe.
 Ne kuu wii aombed doberemoon areb keraan kuyaambed nen angka kowe. Kwanebko ewaningko yaa eso anda. Ebbed ne yaa amun amun kamaneeb kowe, yorokmodan kuu neyiib yaa menebe nedbaniib.
-
 O Yariman, ne kurikuri wengamberewe. Mimyob keewe awawe ande baandaan kuu wengamberewe. Eb ma korondiyiibban weng awini kerekmeniib yorokomo kerekmeniib kuyaambed ne yaa inanduwe.
 Eb dememan ne kuu wengyundi dowad nen wanaab, amborom kuu eb arinambo ari kuu karub maa ma yorokmo dobirindo kowe.
 Kedi, bonman kuu nenbandoon, kwane yembed neene kan okad yiri irewaroon, kwane ongmoona kumun aom dobaraan, unyeman anukbed dukniwendan kumun aom doriib areb keraan.
@@ -27691,7 +27691,7 @@ Korem yikaadmo keriiwe, karub kanembed kuu ma anamban andaanban. Kowe, iwari ker
 “Karub kee yiibbed benminiwen kee yi kuu nub kurikuri ambiwoom ye barang ma yid bindo. Kwane yi kuu nub god Aatemis yaa ma amkidbindo kii.
 Kwane, Demetirius yoom ye deme mimodan yoom kuu karub yenambed dabab kondiwen kuu kangdodiiwa kangdod wengangkidaniiwa yaa winime. Dabab kondiwendan kuu kuyaa benwinime.
 “Kumban yiib dowaken weng yenayiib ongmande meenaniib kuu korok korok yaa kanwinibko, yimbed dakmi aron kinibko, wengbon aom nedbenib ongmime.
-Nub kuu kwanindo kowe, yirinde baande monmari ye dowad kuu korok korokbed nub ben kangdod yaa wananiib areb. Kwananiib kuu nub kuu inandindeban, amborom kuu komo kamuwen kuu idiibban kowe.
+Nub kuu kwanindo kowe, yirinde baande monmari ye dowad kuu korok korokbed nub ben kangdod yaa wananiib areb. Kwananiib kuu nub kuu inandindeban, amborom kuu komo kamuwen kuu idiibban kowe. Kwani kowe, wenebime.” andoone, koronde wenebiwen.
 Kuu yirinde baande kame dowan keriwen ye yoman kuu, Poolbed anam andiwendan yaa baandoona nedbiiwe, ongkandi weng amun dakmoon. Dakme dowan kerekore, yi yaa yiib kiyo ande kwane kuyaa domonde Masedonia yaa andowe wonoon.
 Kwane, kuye ambibkin dore wene God ye weng yemooniib dakmene nimakarub yaa ongkandenmo dewenekore kwane wene Guris yaa wonoon.
 Kwane, ye kuu wood ayoobmimiib kuyaa doboroon. Kwane Siria yaa wanande nekwane yanandame wedmoonka, Yuudanbed ye ayi yeman ande nuubnaan kamiib. Nuubnaan kamiib kowe, ye kuu ika wene Masedonia aom dore kumbed wanande meenoon.

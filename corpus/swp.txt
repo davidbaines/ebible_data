@@ -926,6 +926,7 @@ Abo Labana ie ribalau Iakobo arinai i ene, “Ina we’u peina ta u ita, eo ina 
 Ina pei ta abo eda heiheinoi, eo ina du ta hinage taba nige we’u peina eo ina du ta u dioidi bena u hebaaeagu.
 Aberahama ena Eaubada, eo Nahora ena Eaubada, eo tamadiyao edi Eaubada abo i heduduraida.” Abo Iakobo i riba aigora tamana Isaako ena Aba‐matausi Eaubadana debana eai.
 Abo Iakobo aitalasam ie gabu oea tupina eai eo ehanayao i eogaidi bena se aiai, arinai se aiaigogo, eo maiona maudoina se mia oea tupina eai.
+Abotai maratomtom begana Labana i toro, tubunayao eo nanatunayao sisine i alagoiedi eo i ribahelolodi, abo i torohaigabaedi, ie uio ena eanua eai.
 Iakobo i torohaiuio ena dobila i lauwatai, to Eaubada ena aneru ia se hailobai.
 Ena huia itadi Iakobo i ene, “Ina Eaubada ena tauiala ede,” to eanua wa esana ie tore Mahanaima.
 Abo Iakobo ena heaheari tataodi i hetamaribagunaidi ena tau Isoa arinai, Seria eanuana eai, ia ede Edoma tanona eai.
@@ -958,7 +959,6 @@ Iakobo i hesiolau arinai i ene, “Ea aibodaim bena esam u heribagu.” Na i ene
 Iakobo eanua wa esana ie tore Penuela paana i ene, “Inai Eaubada ea itayao, eo ai hai’itaita, na sora ma miagu.”
 Abotai Penuela i torohaigabaei mahana i daladalasae ie sina potana eai, na i laulaudae.
 Ginauri ta debana eai Isaraela tataodi suisui gotudi bulumadi taba nige se aidi i laoma e wauta, paana Iakobo gotuna tau wa i abi’ita to danana i tarumo.
-
 Abotai Iakobo matana i helabaisinidi Isoa ie ita i laolaoma maenayao tatao handere hasi. Arinai merumeru i soiedi Lea enanayao, eo Rahela enanayao, eo edi heaheari sisinedi labui enadiyao.
 Heaheari sisinedi ma nanatudiyao i torebagunaidi, muridi eai Lea ma nanatunayao, abo Rahela eo Iosepa i toremuritaidi.
 Iakobo ia i edabagunaedi, ma haligigi‐labui i tabaohu tano eai i lau e i hanahanau ena tau arinai.
@@ -1709,10 +1709,6 @@ Na Aigupito tataodi edi tau tabutabusima gonogonoana se ginauri edi sonoga eamue
 Abo Parao ie uio, i awasae ena numa arona eai; ginauri ta nige nuana eai i toredi.
 Abo Aigupito tataodi saga gegesina eai goila se sara bena edi aba‐nom, paana nige gonoana bena saga goilana si nom.
 GUIAU huiana wa saga wa i oi’ita asubena harigigilabui se laoo.
-
-
-
-
 GUIAU i ribalau Mose arinai i ene, “U awasae Parao arinai eo u ribalau arinai, ‘GUIAU i ribaei doha ina, “Egu tatao u abigabaedi bena se heayaiyegu.
 Ena u nuahidi taba nige se lau, u ita em eanua maudoina abo ea hebaaea so’u aridi eai.
 So’u abo saga se hemonaubori‐borili, abo se lusoralau em heaheari edi numa eai, eo em tatao potadi eai, em um alodi eai, eo em falawa aba helahelasa alodi eai.
@@ -1741,6 +1737,10 @@ Parao Mose eo Arona i eogaidi, i ene, “Au lau eo emi Eaubada ena aitalasam au 
 Na Mose i ene, “Meta nige i dudulai, paana suisui wa Aigupito tataodi se subuidi wa isi abo ai heaitalasamdi GUIAU ema Eaubada arinai. Ena Aigupito tataodi matadi eai aitalasam biibiidi ai gabudi abo nige se lauwe’uimai?
 Abo ai lau barabara eai asubena haiona lauwasina GUIAU ema Eaubada ena aitalasam ai gabu, doha ia i lauhesommai.”
 Arinai Parao i ene, “Abo ea eairigabaemiu au lau barabara eai GUIAU emi Eaubada arinai bena au aitalasam; ginauri esega tabu au lau eda lohaloha eai. Enagu hinage bena au aiboda.”
+Eo Mose i ene, “Abo ea torohaigabaem, na abo ea aibodalau GUIAU arinai i bena uloulo wa maraitom abo Parao eo ena heaheari eo ena tatao abo se laugabaedi; ginauri esega eda tabu Parao ena laulau boraboradi i abiuioidi tatao wa bena i nuahidi taba nige se aitalasam GUIAU arinai.”
+To Mose Parao i pesagabaei eo GUIAU i aibodalau arinai.
+Eo GUIAU i ginauri gonogonoana doha Mose i ribaei, uloulo eawoidi i abi hesuaradi Parao ena heaheari eo ena tatao aridi eai; nige esega i ota.
+Na Parao inata arinai hinage nuana i heoiura eo tatao wa nige i abigabaedi.
 Abo GUIAU i ribalau Mose arinai i ene, ‘U awasae Parao arinai doha ina abo u heriba, ‘GUIAU, Heberu tataodi edi Eaubada, doha ina i ribaei, “Egu tatao u abigabaedi bena abo se heayaiyegu.
 Ena u nuahidi taba nige se lau, sora u abididinidi,
 u ita GUIAU nimana abo i torelaei em suisui oea eai potadi eai, asini potadi eai kamela potadi eai eo mamoe potadi eai, iwala lailai abo se hearo.
@@ -2112,7 +2112,6 @@ Ena bulumakau tauauau tau e sine ie gori bulumakau tanaugana moni silver sekela 
 duha tanuagana abo i hedudulai; moni abo i mosei suisui tanauagana arinai, na suisui matematena wa abo ia enana.
 “Taba tau esau ena bulumakau doga esau ena bulumakau i hebaaea to ie mate, maumaurina wa abo se unegabaei eo maisana se soiei, suisui matematena hinage abo se soiei.
 E taba abina se ata’o beabeana eai bulumakau ena kamani i gorigori, na tanauagana nige i tutugudui, bulumakau helena bulumakau maisana abo i hemaisa, eo suisui matematena wa abo ia enana.
-
 “Ena tau esau bulumakau e mamoe i aiyahari eo i unui, e i unegabaei, abo bulumakau wa maisana bulumakau haligigi arinai abo i hedudulai, eo mamoe maisana hinage mamoe hasi arinai abo i hedudulai.
 Tau aiyahari wa abo ena abiabigaibu i hedudulai; ena nige ena gogo, tau aiyahari wa abo se unegabaei ena abigaibu debana eai. Ena suisui i aiyahari wa se lobai ma maurina ia nimana eai, bulumakau e asini e mamoe, abo i hedudulai malabui. Ena tau aiyahari se lobai ma aiyaharina, to se lubi arinai i mate, taba nige osina giluna; na ena mara i uiariyao, eo hinage osinana se heboriri, abo hinage giluna.
 <range>
@@ -2143,6 +2142,7 @@ Paana meta ena abobo esegana, tauna ana lulu, saha arinai abo i enoei? Ena i dou
 “Tabu Eaubada au ribahebaaea, eo tatao adi tanuaga tabu au ribahemate.
 “Tabu au bebeda emi masuri ena lolo eo emi waina ena lolo bena au aitalalsamdi. “Emi ealahou tatao abo hinage au ledima arigu eai.
 Gonogonoana doha emi bulumakau eo emi mamoe aridi eai; asubena haligigi‐labui abo sinana arinai, na asubena hehaligigi‐haionana eai abo au leama arigu eai.
+“Omi abo hetabu tataomiu eau arigu eai: arinai suisui bulumana oea eai se purisi tabu au ai. Abo au gabalaei kedewa aridi eai.
 “Tabu ribaborabora u bahebahe’usei. Tabu taubaaea maem nuamiu esega bena oa tauitaita borabora.
 Tabu moutuana u lauwataidi bena baaea u ginauri, eo hinage abahedudulai eai moutuana tabu edi tupo eai u toro bena saha eo saha i dudulai u laei’udoiei.
 Gogogesagesa tauna hinage arinai tabu u hebiga aba‐hedudulaina eai.
@@ -14019,6 +14019,7 @@ aena au alagoiedi, ata i ouyalayala, eo dobila eai au mate, paana ena ouyalayala
 
 
 
+
 GUIAU, tanuagamai e, tanoubu maudoina eai oa esam i sae ariariri! Galewa ewana eai oa namanamarim se wanai
 kaimou gagiridi, taumadomado awadi eai, iala numana adiadidirina u hetoro em waiunu debadi eai, waiunu eo tauabigum em abahemonoudi.
 Ena ea itasae em galewa eai, oa nimagigim paisoadi, nawarai eo ipora hinage oa tautoredi;
@@ -14088,8 +14089,7 @@ GUIAU e, abo i lau e aitea huia? Abo u nuahuiegu i lau e ana huia ana tasi? I la
 I lau e aitea huia abo nuagu eai amamna lailai, eo asubena to maiona abo nuadubu nuagu eai? I lau e aitea huia agu waiunu abo i saepoigu?
 U italaoma eo u heuioegu, GUIAU e, egu Eaubada; matagu u hemaradi ata mate mamohoi enona ea enoei;
 ata agu waiunu i ene, “Ea saepoiyao”; ata agu waiunu se kode paana egu tabutabubu debana eai.
-Na oa em gadosisi miatahitahina ea sunumaei, nuagu abo i kodelamposi em abihemauri debana eai.
-GUIAU arinai abo ea wana, paana ia i ainauia aririegu.
+Na oa em gadosisi miatahitahina ea sunumaei, nuagu abo i kodelamposi em abihemauri debana eai. GUIAU arinai abo ea wana, paana ia i ainauia aririegu.
 Taueauyaure ia i ribariba nuana eai i ene, “Eaubada nige’e.” Isi tatao bi’ibi’idi, edi laulau se manamanabara ariri, nige esau ena laulau i dudurai.
 GUIAU ia galewa eai i itadobi tatao nanatudiyao aridi eai, bena i itadi eai to eai se mia dudurai, eai to eai Eaubada se eo’oi.
 Isi gamagaridi se gegege, isi gamagaridi edi miamia doha ie boha, nige esau i mia dudurai, nige’e, nige ariariri.
@@ -14113,6 +14113,7 @@ Huia gamagari GUIAU ea itadidini matagu eai, paana ia nima‐tutugu eai abo taba
 Arinai nuagu i lolo ariri, eo earuagu i kodelamposi, taugu hinage i ota komakomani.
 Paana oa taba nige u moselaegu Hade eai, eo taba nige u eari em hetabu tauna Duha lailai i ita.
 Mauri dobilana oa u heiheitagu; oa matam eai kode saesaena mo, nimatutum eai amna lolo mo, i lau e ana huia ana tasi.
+
 
 
 
@@ -14249,7 +14250,6 @@ Paana GUIAU ia wasawasa ede, eanua gamagaridi taumiaidi ia tanuagadi eai ie lau.
 Mamohoi ariri ia matana eai tanoubu taunuasaesae gamagaridi abo se tabaohui; isi gamagaridi se hemala tanouio ia arinai abo se tabaohu, isi hinage nige abina se ata se hemauriuioidi.
 Isimurita ia abo se heayaiyei; Guiau wasana tatao adi isimurita abo se heribadi,
 ena mauri abo se wasaduaiei isi sora nige se labasidi aridi eai, ia ana paisoa ede meta.
-
 GUIAU ia taumiataunigu doha mamoe tauitawataina; eau taba nige saha ea deha.
 Abaaibai lolodi eai i heotagu. Goila ipudi daumoridi gegesidi eai i woeaigu;
 earuagu i hemauriuioi. Laulau dudurai dobiladi eai i woeawoeaigu, iabom esana debana eai.
@@ -14347,6 +14347,7 @@ GUIAU u laubagibagiei; u adidiri, eo u nuakipikipi, hedeomi, GUIAU u laubagibagi
 
 
 
+
 GUIAU e, egu abahomo ede oa, taba nige se hetaumaeamaeagu, nige ariariri; em laulau dudurai debana eai bena u lebohaigu!
 U ataatailaoma arigu eai, u heurama u saguhaigu! Oa bena egu ababawayamui we’una, egu abamia adiadidirina abo arinai ea mauri!
 Mamohoi oa egu we’utau eo egu abamia adidirina; esam debana eai bena u woeaigu eo u eda bagunaegu.
@@ -14371,7 +14372,6 @@ GUIAU abo se ribahelolo, paana ena gadosisi otaotahaina i hemasaraha enagu huian
 Ma nuaberuberugu ea ene, “Oa matam eai se henauhesuaragu!” Na oa egu awanori u ataiei huiana ne ea eogalaowa bena u saguigu.
 GUIAU au gadosisiei, omi tau miatahitahina! GUIAU tausunumaena i ganahetai’iridi na taunuasaesae ena maisa i heporohe aririei.
 Au adidiri, eo hinage au nuakipikipi, Omi gamagarimiu, GUIAU taulaubagibagiena!
-
 Tau wa ena awayagara se ribagigiri, ena baaea se bubulitawai, ia ie kode!
 Tau wa nige ana giru GUIAU matana eai, earuana eai nige abiborabora, ia ie kode hinage!
 Huiana ne egu baaea nige ea hemasaraha, taugu se porohe ariri, asubena maudoina ea lepalepa.
@@ -14405,6 +14405,7 @@ bena earuadi mate eai abo i saguhaidi, eo guriam huiana eai abo i abihemauridi.
 Earuada GUIAU se laubagibagiei, ia ada sagu eo eda opea ede.
 Mamohoi, nuada se kode ia arinai, paana ia esana tabuna ta sunusunumaei.
 GUIAU e, em gadosisi miatahitahina bena i ota ai potamai eai, paana ai ema sunuma ede oa arim eai.
+
 Huia gamagari GUIAU ea ribatausaei; aihelahuina awagu eai taba nige i lautom.
 Nuagu ena abaribapasipasi ede GUIAU; taunuatudobidobiuio abo se ataiei, eo se kode.
 Omi maeguyao GUIAU ta ribahelai, eo esana ta hedebasae gogo!
@@ -14427,7 +14428,6 @@ Laulau dudurai tauna piripiri gamagaridi i hearodi, na gamagaridi boeadi eai GUI
 Ia siadana gamagaridi GUIAU i itawataidi; taba nige esau i tagodu.
 Laulau gewagewa tauna baaea eai abo se unuheboso, eo isi laulau dudurai tataodi tauhewaiunuedi abo se ribahematedi.
 GUIAU ena heaheari tataodi abo i unehaidi, isi wa taubawayamui ia arinai, taba nige esau se ribahemate.
-
 
 
 
@@ -14578,6 +14578,7 @@ GUIAU i saguidi eo i lebohaidi, laulau gewagewa tataodi nimadi eai i lebohaidi e
 
 
 
+
 Doha suisui nuura goila dididi i gadohiedi, eau hinage, Eaubada e, earuagu i gadohiem.
 Earuagu i gadomagu Eaubada arinai, Eaubada maumaurina arinai. Aitea huia abo ea laoma Eaubada ana ao abo ea ita?
 Agu aiai esega ede matasulugu asubena to maiona, eo tatao huia gamagari se hesiolaoma, “Em Eaubada ia haedi‐eai?”
@@ -14589,12 +14590,12 @@ Asubena huiana eai GUIAU ena gadosisi miatahitahina i leama; eo maiona eai enana
 Ea ribalau Eaubada arinai ia egu we’utau, “Paana saha u nuahuiegu ta? Paana saha ea nuanuadubu, waiunu ena hebahebaaea debana eai?”
 Agu waiunuyao edi hesom i hemala doha bonu lailai taugu eai, huia gamagamagari se ribalaoma si ene, “Em Eaubada haedi?”
 Earuagu e, paana saha u nuadobidobi, eo paana saha nuaboeagu eai u heunaboisaha? Eaubada u sunumaei; paana ia abo ea hedebasaeuioi, ia agu sagu ede, eo egu Eaubada.
-
 Egu laulau dudurai u hemasaraha, Eaubada e, eo enagu u toro ganamuri tataodi matadi eai; ao borabora eo laulau gewagewa tataodi nimadi eai u lebohaigu!
 Paana oa Eaubada egu aba ailogulogu ede; paana saha u gabahesuaragu? Paana saha ea nuadubu waiunu ena hebahebaaea debana eai?
 Em mara eo em riba mamohoina bena u hetamaridima bena abo se woeaigu, abo se woeaigu em oea tupi tabuna eo em abamia arinai!
 Murina eai abo ea lau Eaubada ena aitalasam hatahatana arinai, Eaubada egu abanuawoiwoina; eo abo ea aihelahuim huelele arinai, Eaubada e, egu Eaubada.
 Earuagu e, paana saha u nuadobidobi paana saha nuaboeagu eai u heunaboisaha? Eaubada u sunumaei, paana ia abo ea hedebasaeuioi, ia agu sagu ede eo egu Eaubada.
+
 
 
 
@@ -14697,7 +14698,6 @@ Tauiala moutuana GUIAUNA ia maeda, Iakobo ena Eaubada ita eda abahomo ede!
 
 
 
-
 Eaubada GUIAU, Gigiborina, i ribariba, eo tanoubu i eogalau arinai, mahana ena huia dalasae, i lau e ena huia dui.
 Siona, ana ao lolo dumadumana eai, Eaubada ena mara i hesinalaei.
 Eda Eaubada i laolaoma, taba nige i monou, ia matana eai doha oeagi i alabalebalelem, mana lailai didigana ia i lauhetaiiri.
@@ -14721,6 +14721,8 @@ Ue bawa na em tau u ribahebaaea, sinam tahunuana natuna tau u ribahebaaea.
 Ina laulau ta u laulauedi, na eau ea monou; u ene bena eau gonogonoana doha oa. Abotai ea ribasuuim, eo giru wa ea tore oa matam eai.
 “Ina ta au nuanuatui, omi aidobu Eaubada au nuahuiei, ata ea purisimiu, na nige esau bena i toro i saguhaimiu!
 Eai to eai lautoi i leama, ia ena heasisi enagu i hemasaraha; eai to eai ena dobila i hedudurai ia arinai Eaubada ena abihemauri abo ea hemasaraha.”
+
+
 Eaubada e, u nuatoatoaegu em gadosisi miatahitahina debana eai, em nuatoatoa lailai didigana debana eai egu awayagara bena u saugabaedi.
 Girugu bena u deurigabaei eo egu baaea arinai oa bena u hea’agu!
 Paana egu awayagara abidi ea ata’o, eo egu baaea hinage huia gamagari eau matagu eai i totoro.
@@ -14740,7 +14742,6 @@ Paana aitalasam taba nige oa i hekodem; ena aitalasam gabugabuna ea leawa, taba 
 Aitalasam esega wa Eaubada i henua aririei iaede nua tamotamogoruna, nua tamotamogoruna, dobidobina, Eaubada e, taba nige u isuewaei.
 Em nualolo debana eai Siona bena oa u helolo; Ierusalema ganana abo u hetorouioidi,
 abotai aitalasam duduraidi debadi eai abo u nuawoiwoina, aitalasam gabugabudi eo aitalasam gabugabudi maudoidi; bulumakau abo se heaitalasamdi em aitalasam hatahatana eai.
-
 
 
 
@@ -14949,7 +14950,6 @@ Eanua udoi udoi taumiaidi taba se kode, se wana ma kodedi, paana tanoubu tataodi
 Eaubada e, tanoubu tataodi taba oa se hedebasaem, tanoubu tataodi gamagaridi taba se hedebasaem!
 Tano aiaina i tubuo; Eaubada, ita eda Eaubada, i helolodao.
 Eaubada i helolodao; tanoubu sigana gamagamagaridi ia abo se heasisiei!
-
 
 
 
@@ -15254,6 +15254,7 @@ Na eau ea amna lolo ena ea hanahanau Eaubada gegesina eai; Guiau EAUBADA ea abiy
 
 
 
+
 Isaraela taumiataunina e, u ataatai, oa Iosepa u woeai doha mamoe eawoina! Oa ue bawa serubim potadi eai, maram u hesinalaei
 Eparanaime, Beniamina eo Manase eai! Em gigibori u healabalebalelem eo u laoma u hemaurimai!
 Eaubada e, u hetorouioimai; matam u hesina potamai eai arinai abo ai mauri!
@@ -15344,7 +15345,6 @@ Gadosisi miatahitahina eo ao mamohoina se haihailobai, laulau dudurai eo loni se
 Ao mamohoi tano eai abo i inisae, laulau dudurai galewa eai abo i itadobi.
 Mamohoi saha eo saha i lolo GUIAU abo i leama, abotai eda tano aiaina abo i helai.
 Laulau dudurai ia abo se edabagunaei, eo ena dobila abo se sepa nonohai.
-
 
 
 
@@ -27691,7 +27691,7 @@ Omi au nuatuiyao teina riba ta taba nige tauribanuahina, au monou mo, taumiu se 
 Teina tatao ta au woeaidima, isi nige dubu taugirihaidi, emi eaubada‐sine hinage isi nige tauribahebaaeana.
 Arinai, ena Demetiu ma helena taupaipaisoa tau esau bena se hegiru, hedudurai numana se soeauri, gavana hinage arinai miamiana; taudi labui abo se lau se lauhetala.
 Ena hari laulau ribadi au eooidi, oigogo huiana mamohoina eai, arinai au hedudurai.
-Wau hetalagegagega wa arinai ata se hetalada, eda oigogo ta hinage nige matapaana, abo saha ta ribaei”
+Wau hetalagegagega wa arinai ata se hetalada, eda oigogo ta hinage nige matapaana, abo saha ta ribaei” Ena ribariba ina doha, tatao abo i hetatagorigoridi.
 Se hetalagegagega lautom Paulo tauawaabiena i eogaidima, i alagoiedi, i lauaioniedi, abo i laugabaedi i lau Makedonia eai.
 Ie lau nei tupo gamagamagari ne aridi eai, i ribahenuapaipaidaoiedi, abo i lage Heleni eai.
 Nawalai haiona nei eai maedi se mia. Ia bena i geru i lau Suria, Iudea tataodi headi se oiriba se wesei, arinai abo i uio Makedonia dobilana i lauwatai.

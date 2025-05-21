@@ -926,6 +926,7 @@ Go Laban kêsôm gêdêŋ Jakob gebe “Ôlic toŋ to alê poc tonec, taŋ aê g
 Toŋ tau to alê poc tonec êtu ŋabelo gebe aê jaŋgêli toŋ tonec wacjalom nêm gamêŋ atom, ma aôm ôŋgêli toŋ to alê poc tonec mêŋolom aêŋoc gamêŋ êtu ôŋgôm aê secŋa atom.
 Abrahamnê Anôtô to Nahornê Anôtô ma agêc tameŋinê Anôtô êtu ŋac-mêtôcwaga êkô aêagêc ŋasawa.” Ma Jakob kêtôc lêma gêdêŋ tama Isak nê kêtêc tau ŋamôkê.
 Ma Jakob kêkêŋ da teŋ aŋga lôc tonaŋ ma kêkalem nê tawaŋ gebe sêniŋ polom. Ma êsêac seŋ polom ma sêmoa lôc tau gêdêŋ gêbêc samuc tonaŋ.
+Gêdêŋ bêbêc kanucgeŋ Laban gêdi ma kêlêsôp dêbui to latuio aliŋanô to gêjam mec êsêac. Go gêwi êsêac siŋ ma gêmu gêja nê gamêŋ.
 Ma Jakob kêkôc nê lêŋ sa amboac tonaŋ. Ma Anôtônê aŋela dêdac eŋ.
 Jakob gêlic êsêac ma kêsôm gebe “Anôtônê siŋwaga êsêac.” Tec kêsam gamêŋ tau ŋaê gebe Mahanaim.
 Go Jakob kêsakiŋ nê lau jaeŋ sêmuŋ dêdêŋ têwa Esau sêja, taŋ gêŋgôŋ Edomnê gamêŋ Seir.
@@ -958,7 +959,6 @@ Ma Jakob kêtu kênac eŋ gebe “Ôsam nêm ŋaê êndêŋ aê.” Mago eŋ kê
 Go Jakob kêsam gamêŋ tau ŋaê gebe Peniel ma kêsôm gebe “Aê laŋôcanô gêdêŋ Anôtô laŋôanô ma gacgeŋ gamoa tomatoc jaligeŋ.”
 Gêdêŋ taŋ kêka lêlêc Peniel naŋ, oc kêpi. Ma eŋ kêka gwecgeŋ gêja kêtu magiŋa.
 Kêtu tonaŋŋa lau Israel seŋ bôc ŋalabu atom e mêŋgêdêŋ galoc gebe ŋac tau kêtap Jakob kêsêp magi.
-
 Ma Jakob gêôc mataanô sa e gêlic Esau to lau 400 sêwiŋ eŋ sêmêŋ. Tec eŋ gêjac sam nê gôlôac gêdêŋ Lea agêc Rahel to sakiŋwagao luagêc.
 Ma eŋ kêkêŋ sakiŋwagaoagêc to nêŋ gôlôac sêkô ŋamata. Lea to nê gôlôac têdaguc, ma Rahel agêc Josep sêkô êsêac samob ŋamu.
 Eŋ tau gêwê êsêac ac têtu oloŋ-oloŋ sêja. Eŋ gewec e jakêtap labôc kêtu dim 7 e jagêjac têwa sa.
@@ -1709,10 +1709,6 @@ Mago lau mectomaŋ Aiguptuŋa sêgôm gêŋ tônê amboac tonaŋgeŋ ŋa nêŋ �
 Parao kêkac tau ôkwi kêsô nê andu gêja ma biŋ tonaŋ gêgôm nê ŋalêlôm ŋawapac kêsa atom.
 Ma lau Aiguptu samob sêgawê bu sênômŋa sêmoa bu Nil ŋatali, gebe êsêac têtôm gebe sênôm bu Nil atom.
 Apômtau gi bu Nil ma gêŋwapac tau gêc bêc 7.
-
-
-
-
 Go Apômtau kêsôm gêdêŋ Mose gebe “Ôsô ôndêŋ Parao ôna ma ôsôm êndêŋ eŋ gebe ‘Apômtaunê biŋ tau tonec gebe “Ôwi ŋoc lau siŋ, gebe nasênam sakiŋ aê.
 Mago embe ondec ma ôwi êsêac siŋ atom, go jakêŋ ôpoac sêlênsôŋ nêm gamêŋ samucgeŋ.
 Ôpoac sênam bu Nil auc. Êsêac sêpi nêm andu ma sêsô nêm balêm bêcŋa ma sênêc nêm mê. Êsêac sêpi nêm sakiŋwaga to nêm lau samob nêŋ andu. Êsêac sêsô nêm ki apac polomŋa ŋalêlôm to sênêc nêm suc aŋgaluŋ polomŋa.
@@ -1741,6 +1737,10 @@ Go Parao kêkalem Mose agêc Aron ma kêsôm gebe “Ajôc, akêŋ da êndêŋ n
 Mago Mose kêsôm gebe “Biŋ amboac tonaŋ oc êtôm atom, gebe gêŋ, taŋ aêac oc akêŋ êtu da êndêŋ Apômtau, aêacma Anôtô, naŋ, lau Aiguptu sêlic amboac gêŋ alôb-alôb. Ma aêac embe akêŋ gêŋ, taŋ lau Aiguptu sêlic amboac gêŋ alôb-alôb naŋ, êtu da êsêac sêlic, oc têtuc aêac ŋa poc êndu atom me.
 Aêac asêlêŋ êtôm bêc têlêac asa gamêŋ sawa ana, go akêŋ da êndêŋ Apômtau, aêacma Anôtô, êtôm eŋ tau kêjatu aêac naŋ.”
 Tec Parao kêsôm gebe “Aê jawi amac siŋ naakêŋ da êndêŋ Apômtau, amacnêm Anôtô, aŋga gamêŋ sawa. Tageŋ amac ana jaêcgeŋ atom. Awem ênac Apômtau êtu aêŋa.”
+Go Mose kêsôm gebe “Ôlic acgom, aê jawi aôm siŋ jasa najateŋ mec êndêŋ Apômtau gebe eleŋŋa daŋguc tolêsôb-tolêsôb êwi Parao to nê sakiŋwaga ma nê lau siŋ. Tageŋ aôm ônsau aêac êtiam atom ma ôŋgamiŋ lau gebe sêkêŋ da êndêŋ Apômtau nec atom.”
+Ma Mose kêsa aŋga Paraonê jaketeŋ mec gêdêŋ Apômtau.
+Ma Apômtau gêgôm biŋ, taŋ Mose keteŋ naŋ, ŋanô kêsa ma kêkôc daŋguc tolêsôb-tolêsôb su aŋga Parao to nê sakiŋwaga ma nê lau nêŋ. Daŋguc teŋ gêmoa kêtiam atom.
+Mago Parao gêgôm nê ŋalêlôm ŋadani kêsa kêtiam ma gêwi lau siŋ atom.
 Go Apômtau kêsôm gêdêŋ Mose gebe “Ôsô ôndêŋ Parao ôna ma ôsôm êndêŋ eŋ gebe ‘Apômtau, Ebolainêŋ Anôtô, nê biŋ tau tonec gebe “Ôwi ŋoc lau siŋ, gebe nasênam sakiŋ aê.
 Ôlic acgom aôm embe ondec gebe ôwi êsêac siŋ ma ôkôc êsêac tôŋ ŋapaŋ,
 go Apômtau lêma ênac aômnêm bôc, taŋ sêmoa kôm naŋ, hos to doŋki ma kamele to bulimakao ma domba. Samob têtap gêmac sec kaiŋ teŋ sa.
@@ -5271,6 +5271,7 @@ Mago ojop taôm to ôkêŋ taŋam biŋ samob, taŋ kajatu aôm naŋ ŋapep. Embe
 “Êndêŋ taŋ Apômtau, nêm Anôtô, enseŋ tenteŋlatui êmuŋ aôm aŋga gamêŋ, taŋ aôm ôsêlêŋ ôsa gebe ôku êsêac tulu naŋ, ma êndêŋ taŋ aôm ôku êsêac tulu ma ôŋgôŋ nêŋ gamêŋ naŋ,
 go ojop taôm gebe lakô, taŋ gêjac êsêac naŋ, ênac aôm atom. Apômtau êku êsêac tulu êmuŋ aôm, tec ôtêku êsêac ma ôkip êsêacnêŋ anôtôi jaba ŋam sa atom. Mago asôm biŋ tonec gebe ‘Lau tonaŋ sêjam sakiŋ nêŋ anôtôi amboac ondoc. Aê gabe jaŋgôm êtôm êsêac sêgôm nê atom.’
 Ôŋgôm tonaŋ êndêŋ Apômtau, nêm Anôtô atom. Êsêac sêgôm gebe gêŋ samob, taŋ Apômtau, nêm Anôtô têtac gedec ma gêlic amboac gêŋ alôb-alôb naŋ, gêdêŋ nêŋ anôtôi jabaŋa. Êsêac sêkêŋ nêŋ latuŋio to ŋac ja geŋ kêtu tetoc nêŋ anôtôi jaba saŋa su.
+Gêŋ samob, taŋ aê kajatu aôm gebe ôŋgôm naŋ, ôŋgôm ŋanô êsa ŋapepgeŋ. Ônac têku biŋ teŋ ma onseŋ biŋ teŋ su atomanô.
 “Embe propete teŋ êndi sa aŋga amac ŋalêlôm me ŋac teŋ, taŋ gêc mê naŋ, êtôc gêŋsêga me gêŋtalô teŋ êndêŋ aôm
 ma gêŋsêga to gêŋtalô, taŋ eŋ kêtôc gêdêŋ aôm naŋ ŋanô êsa ma eŋ embe êsôm gebe ‘Tandaŋguc anôtôi jaba ŋagêdô ma tanam sakiŋ êsêac’, taŋ ajam kauc êsêac gêmuŋ naŋ,
 go ôkêŋ taŋam propete me ŋac taŋ gêc mê tonaŋ nê biŋ atomanô, gebe Apômtau, amacnêm Anôtô kêsaê amac e ajala gebe têmtac gêwiŋ Apômtau, nêm Anôtô tonêm ŋalêlôm samuc ma nêm katôm samuc me masi.
@@ -5282,7 +5283,6 @@ go ôkêŋ êwiŋ eŋ me ôkêŋ taŋam eŋ me taêm walô eŋ me ônam eŋ kês
 mago ônac eŋ êndumaŋ. Aôm lêmam êpi eŋ êtu ŋamata gebe eŋ êmac êndu ma lau samob sênac eŋ sêwiŋ.
 Ôtuc eŋ êndu ŋa poc gebe eŋ kêsaê gebe êkac aôm su aŋga Apômtau, nêm Anôtô, taŋ kêkôc aôm kôsa aŋga gamêŋ Aiguptuŋa, aŋga andu kapoacwalôŋa naŋ.
 Go lau Israel samob sêŋô biŋ tonaŋ e têtêc tauŋ gebe sêŋgôm gêŋ teŋ amboac tonaŋ aŋga amac ŋalêlôm êtiam atomanô.”
-
 
 
 
@@ -7771,6 +7771,7 @@ Jonatan kêkac ŋapalê tau gebe “Ôlêti ŋagaôgeŋ, ônam gamêŋ tôŋ ato
 Mago ŋapalê kêjala biŋ samob tonaŋ ŋam atom. Jonatan agêc Dawid tauŋgeŋ sêjala.
 Go Jonatan kêkêŋ nê laukasap gêdêŋ nê ŋapalê ma kêsôm gêdêŋ eŋ gebe “Ôkôc ôna malac.”
 Gêdêŋ taŋ ŋapalê gêja naŋ, go Dawid gêdi aŋga poc totoŋ muŋa mêŋgêu tau laŋôanô gêdêŋ nom ma gewec gêdêŋ eŋ kêtu dim têlêac. Go agêc sêlêsôp tauŋ aliŋanô ma têtaŋ tauŋ, ma Dawid kêtaŋ kêlêlêc.
+
 Go Jonatan kêsôm gêdêŋ Dawid gebe “Ôêc tobiŋmalôgeŋ ôna. Biŋ taŋ tamoatiŋ tajam Apômtau laŋô naŋ, êtu tôŋ. Apômtau êkô aêagêc ŋasawa ma êkô aêŋoc wakuc to aômnêm wakuc ŋasawa amboac tonaŋgeŋ endeŋ tôŋgeŋ.” Dawid gêdi gêc gêja ma Jonatan gêmu gêja malac.
 Go Dawid jagêô lasê Nob gêdêŋ Anôtônê dabuŋwaga Ahimelek aŋga malac Nob. Ahimelek kêpuc Dawid tôŋ-tôŋ to nê ŋalêlôm ŋatutuc ma kêsôm gêdêŋ eŋ gebe “Aôm taômgeŋ gômôêŋ ma teŋ gêwiŋ aôm atom kêtu ageŋŋa.”
 Ma Dawid kêsôm gêdêŋ dabuŋwaga Ahimelek gebe “Kiŋ kêjatu aê biŋ teŋŋa ma kêsôm gêdêŋ aê gebe ‘Aê jasakiŋ aôm êtu jaeŋ teŋŋa ma jajatu aôm biŋ teŋŋa, mago ŋac teŋ êŋô biŋ tonaŋ ŋawae teŋ atom.’ Amboac tonaŋ gajac noc ŋoc lau gebe sêmêŋ gamêŋ teŋ.
@@ -7861,7 +7862,6 @@ Ocsalô tonec Apômtau kêkêŋ aê kasêp aôm lêmam, mago gôjac aê êndu at
 Ma galoc ôlic acgom, aê kajala gebe aôm oc ôtu kiŋ ma Israelnêŋ gôliŋ kiŋŋa tonaŋ êsêp aôm lêmam ŋalêlôm.
 Amboac tonaŋ ôtôc lêmam ôkô Apômtau laŋônêm gebe embe jamac êndu su, go onseŋ ŋoc wakuc su atom ma ômbuŋ ŋoc ŋaê su aŋga tamocnê gôlôac nêŋ atom.
 Ma Dawid kêtôc lêma gêdêŋ Saul. Go Saul gêmu gêja nê malac ma Dawid to nê lau sêpi malac ŋajaŋa sêja.
-
 Gêdêŋ tonaŋ Samuel gêmac êndu. Ma lau Israel samob sêkac tauŋ sa ma têtaŋ taŋiboa kêtu eŋŋa, go sêsuŋ eŋ aŋga taunê andu aŋga Rama.
 
 
@@ -8511,6 +8511,7 @@ Ma kiŋ kêtu kênac gebe “Ŋac wakuc Absalom gêmoa ŋajam me masi.” Ahimas
 Ma kiŋ kêsôm gebe “Mêŋôkô tonec.” Amboac tonaŋ eŋ kêkac tau ôkwi ma kêkô ŋaŋêŋ.
 Go ŋac Kusŋa mêŋgêô lasê ma kêsôm gebe “Ŋawae ŋajam kêtu ŋoc ŋatau kiŋŋa. Ocsalô tonec Apômtau kakêŋ lau, taŋ sêli tauŋ sa gêdêŋ aôm naŋ, sêsô aôm ŋalabu.”
 Kiŋ tau kêsôm gêdêŋ ŋac Kusŋa gebe “Ŋac wakuc Absalom gêmoa ŋajam me masi.” Ma ŋac Kusŋa gêjô eŋ awa gebe “O ŋoc ŋatau kiŋ, aê gabe nêm ŋacjo samob to lau samob, taŋ sêli tauŋ sa gêdêŋ aôm naŋ, oc tatôm ŋac wakuc tonaŋgeŋ.”
+Kiŋ tau atê gêmô eŋ ma kêpi balêm, taŋ gêc malac ŋasacgêdô ŋaô naŋ, gêja ma kêtaŋ gebe “O ŋoc latuc Absalom, latucenec Absalom. Jamac jajô aômmaŋ. O ŋoc latuc Absalom, ŋoc gêŋenec.”
 Go sêkêŋ ŋawae gêdêŋ Joab gebe “Ôlic acgom, kiŋ kêtaŋ taŋiboa kêtu Absalomŋa.”
 Amboac tonaŋ gêdêŋ bêc tonaŋ biŋ sêku ŋacjo tuluŋa tau gêjam tau ôkwi kêtu taŋiboa gêdêŋ lau samob gebe lau sêŋô ŋawae gebe kiŋ kêtaŋ taŋiboa kêtu latuŋa.
 Gêdêŋ bêc tonaŋ lau siŋŋa sêsa malac sêmêŋ kelecgeŋ sêgôm amboac lau, taŋ majeŋ kêtu têtaiŋ tauŋ su aŋga siŋŋa naŋ.
@@ -8554,7 +8555,6 @@ Kiŋ tau gêja Gilgal ma Kimham gêwiŋ eŋ. Ma lau Juda samob to lau Israel ŋa
 Go lau Israel samob dêdêŋ kiŋ sêja ma sêsôm gêdêŋ eŋ gebe “O kiŋ, kêtu asageŋŋa aêacnêŋ lasitêwai Judaŋa sêjam geŋgeŋ aôm ma sêkôc aôm to nêm gôlôac ma nêm lau samob amêŋ Jordan ŋamakeŋ tonecŋa.”
 Lau Judaŋa sêjô lau Israel aweŋ gebe “Kiŋ kêtu aêacma ŋagêdô teŋ. Kêtu asageŋŋa amac têmtac ŋandaŋ kêtu biŋ tonaŋŋa. Aêac aeŋ kiŋnê gêŋ teŋ me. Me eŋ kêkêŋ gêŋ teŋ ŋaômageŋ gêdêŋ aêac me.”
 Ma lau Israel sêjô lau Juda nêŋ biŋ gebe “Aêac awê kaiŋ kiŋ Dawid alêlêc amac su gebe aêac lau Israel ma gôlôacmôkê 10. Kêtu asageŋŋa amac alic aêac sec. Aêac asôm biŋ gebe akôc aêacnêŋ kiŋ amu amêŋŋa kêtu ŋamata atom me.” Mago lau Juda aweŋ ŋajaŋa kêlêlêc lau Israel nêŋ su.
-
 
 
 
@@ -8865,6 +8865,20 @@ Israel samob sêŋô mêtôc tonaŋ, taŋ kiŋ tau kêmêtôc naŋ, ŋawae ma ê
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Gêdêŋ taŋ kiŋ Tirusŋa Hiram gêŋô gebe seŋ oso Salomo kêtu kiŋ gêjô tama su naŋ, eŋ kêsakiŋ nê sakiŋwaga gêdêŋ Salomo gebe Hiram têtac gêwiŋ Dawid ŋapaŋ.
 Ma Salomo kêsakiŋ biŋ gêdêŋ Hiram gebe
 “Aôm kôjala gebe aê tamoc Dawid kêtôm gebe êkwê nê Apômtau Anôtô nê ŋaê ŋaandu teŋ atom gebe siŋ to ŋacjo kêgi eŋ auc e Apômtau kêkêŋ êsêac sêsô eŋ akaiŋ ŋalabu.
@@ -8883,20 +8897,6 @@ Salomo kêkôc lau 70,000 amboac tonaŋ kêtu sêbalaŋ wabaŋa ma 80,000 kêtu 
 Ma Salomo kêkêŋ lau 3,300 têtu gejobwaga kômŋa, taŋ sêjatu lau kômŋa.
 Salomo kêjatu ma êsêac sêkôc poc ŋajamanô kapôêŋ-kapôêŋ sêmêŋ gebe êtu nombaŋ lôm dabuŋŋa.
 Amboac tonaŋ Salomo agêc Hiram nêŋ lau sêkwêwaga sêwiŋ lau Gebalŋa sêsap to sêpa ka to poc gebe sêkwê andu tau.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Jala 480 gêjaŋa su gêdêŋ taŋ lau Israel sêwi gamêŋ Aiguptuŋa siŋ sêsa sêmêŋ naŋ, ma Salomo gêjam gôliŋ Israel jala aclê su. Gêdêŋ jala tonaŋ ŋaajôŋ kêtu luagêcŋa, taŋ sêsam gebe Siw naŋ, Salomo gêjac m gebe êkwê Apômtaunê lômŋa.
 Lôm tau, taŋ kiŋ Salomo kêkwê kêtu Apômtauŋa naŋ, ŋadôŋ amboac tonec gebe ŋalêsiŋŋa kêtôm saka samuc 15, ŋatakôcŋa kêtôm saka 5 ma ŋaatêkwa kêtôm saka 8.
 Ma andu seleb, taŋ gêc anduanô tau ŋanêmŋa naŋ, ŋadôŋ saka 5, kêtôm lôm tau ŋakalopawa ma kêdaguc sagiŋ baliŋ anduanôŋa kêtôm ŋadôŋ saka samuc 2 ma ŋasêku.
@@ -13890,14 +13890,6 @@ Eŋ gêc ka têkwa-têkwa ŋalabu ma kêsiŋ tau gêc wandob aŋga siŋlêlôm.
 Eŋ gec ka têkwa-têkwa ŋaajuŋlabu ma gê lamu ka, taŋ kêkô bumaŋ naŋ.
 Eŋ kêtêc bu ŋasamac atom. Bu embe ênsalê eŋ auc, mago eŋ oc êmoa totêtac êpa sugeŋ.
 Asa êtôm, gebe êŋguŋ eŋ êsêp mataanô ma êkôc eŋ tôŋ. Ma asa êtôm, gebe êkim lususuŋ lasê. bôc tau ŋam sa ma sêjam dôŋ kêpi bôc buŋa, taŋ sêmoa Aprika naŋ. Lau ŋagêdô sêsôm gebe Behemot kêtôm elepant.
-
-
-
-
-
-
-
-
 “Aôm kôtôm gebe ônac Lewiatan ŋa êŋpaŋ ma ôkic eŋ imbêla tôŋ ŋa lêpoa me masi.
 Aôm kôtôm gebe ôkim lususuŋ lasê ma ôkêŋ lêpoa êsêp ma ôŋgauc eŋ ŋa êŋpaŋ asap nê ŋasê me masi.
 Eŋ oc eteŋ aôm gebe taêm walô eŋ ma asôm biŋ ŋajam-ŋajam êndêŋ aôm me.
@@ -13924,6 +13916,14 @@ Eŋ gêsutêkwa ŋaôliwalô kaiŋ teŋ. Lau taŋ dêdac eŋ naŋ, sêc totêtê
 Ênê nipkalop ŋajaŋa kêtôm poc, amboac poc, taŋ sêlêsa polom kêpi naŋ.
 Eŋ embe êndi, go ŋaclai samob têtakê ma têtêc tauŋ e nêŋ meloco êsa.
 Siŋ teŋ êtôm gebe ênac eŋ atom, ma kêm to sôb ma bêlêm kêtôm gebe êŋguŋ eŋ lasê atom.
+Eŋ kêsaê bêlêm ki kêtôm sôbolec, ma ki joŋjoŋ kêtôm ka ŋanamuc.
+Sôb teŋ kêtôm gebe êŋgôm eŋ êc atom, ma kêsaê dabaŋmatu amboac obalauŋ ŋapopoc.
+Embe sênac eŋ ŋa olopoac, oc ênsaê amboac oba sôb. Ma embe sêmbaliŋ kêm êpi eŋ, go êômac.
+Eŋ akêku ŋamata kêtôm kekec ma kêkip nom palê-palê sa amboac sakweŋ ki.
+Eŋ gêgôm gwêc keletoc kêtôm ku ma kêjali e ŋaboab-boab kêtôm ŋalêsi keletoc.
+Eŋ embe êkêkôc, oc ŋagwêc ŋasênêc êwê kô ma ŋaôpic ênam gwêc auc.
+Gêŋ nomŋa teŋ kêtôm eŋ gêmoa atom, Anôtô kêkêŋ eŋ nê kêtêc masi.
+Eŋ matapaŋa gêjac bôc samob, taŋ tetoc tauŋ sa naŋ, eŋ kêtu bôc towae samob nêŋ kiŋ.”
 Go Job gêjô Apômtau awa gebe
 “Aê kajalagac gebe aôm Ŋaniniŋ Ŋatau, gêŋ taŋ taêm gêjam gebe ôŋgômŋa naŋ, aôm kôtôm gebe ôŋgôm.
 Asa tê gêsaŋ nêm biŋ, taŋ kômasaŋ naŋ, auc ŋa kauc gêbôcgeŋ. Aê kasôm biŋ kêpi gêŋ, taŋ ŋoc kauc kêsa atom naŋ, kêpi gêŋsêga, taŋ kêlêlêc aêŋoc kauc su naŋ.
@@ -13959,6 +13959,7 @@ Aôm oc ônam gôliŋ êsêac ŋa tôcki to olo êsêac êtôm selo kunom.’”
 Amboac tonaŋ amac kiŋ nêm kauc êsamaŋ ma amac nom ŋagôliŋwaga taêm ênam biŋ, taŋ galêŋ biŋ amac naŋ.
 Anam sakiŋ Apômtau toatêc eŋgeŋ, au taôm anêc eŋ akaiŋŋa toatênêpgeŋ.
 Embe masi, oc têtac ŋandaŋ êsa ma amac anaŋa aŋga intêna, gebe eŋ ŋac têtac dambê. Aweŋ êôc lau samob, taŋ sê lamu eŋgeŋ naŋ.
+
 Ojae, o Apômtau, lau taŋ sêlêsu aê naŋ, taêsam ŋasecgoc, taêsam dêdi sêkô sebe senseŋ aê.
 Lau taêsam sêsôm kêpi aê gebe “Anôtô oc anam eŋ sa teŋ atom.”
 O Apômtau, aôm kôtu lautuc gômôê aê aucgoc. Aôm kôtu aê waec to kôsa môkêcapac sa.
@@ -14049,7 +14050,6 @@ Lau alôb-alôbwaga sêsêp lamboam sêja, ma lau samuc samob, taŋ sêliŋ Anô
 Anôtô oc êliŋ lau ŋalêlôm sawa siŋ ŋapaŋ atomanô, ma lau ŋasec sênsaê gêŋ, taŋ sêkêŋ mateŋ naŋ, elêmê atomanô.
 O Apômtau, ôndi sa. Ôkêŋ ŋamalac sêŋgôm gêŋ paliŋ atom. Ôkêŋ lau samuc têtap nêŋ ŋagêjô sa aŋga aômnêm.
 O Apômtau, ôŋgôm êsêac têtakê. Ôkêŋ lau samuc sêjala tauŋ gebe êsêac lau ŋaôma. Dawidnê pesalem teŋ.
-
 O Apômtau, amboac ondoc kôkac taôm su wackôkô jaêcgeŋ. Amboac ondoc kôsiŋ taôm gêdêŋ têm gêŋwapacŋa.
 Lau alôb-alôb tetoc tauŋ sa ma sêjanda lau ŋasec. Biŋ taŋ êsêac taêŋ gêjam naŋ, êtap êsêac tauŋ sa acgommaŋ.
 Ŋac alôb-alôb kêkêli tau kêtu nê kauc secŋa ma ŋac, taŋ gêjam bôlêŋ ŋaôli ôkwi naŋ, kêsôm biŋ meloc kêpi Anôtô e gêwi eŋ siŋ.
@@ -14075,6 +14075,7 @@ Apômtau gêmoa nê lôm dabuŋ ŋalêlôm. Ênê lêpôŋ kêkô undambê. Eŋ 
 Apômtau kêsaê ŋac gêdêŋ to ŋac, taŋ gedec eŋ naŋ kêtômgeŋ. Ma nê ŋalêlôm kêmoatiŋ tôŋ kêtu ŋac, taŋ gêgôm nê gêŋ togôliŋmê naŋŋa.
 Eŋ kêkêŋ ja to talao gêjac lau sec amboac kom gêjac ma kêsakiŋ mu ŋandaŋ kêtu nêŋ gêŋ êlau êsêacŋa.
 Apômtau eŋ ŋac gêdêŋ ma têtac gêwiŋ biŋgêdêŋ. Lau taŋ sêgôm ŋanô kêsa naŋ, oc sêmoa eŋ laŋônêmŋa. Dawidnê teŋ.
+
 O Apômtau, ônam aêac sa gebe lau mansaŋ têtaiŋ su ma lau wapac maleŋmê e gamêŋ kêta êŋ.
 Sêsôm biŋ geo gelom-gelom tau. Ac sêsôm nêŋ biŋ aweŋsuŋ geno-genogeŋ ma nêŋ ŋalêlôm gêja lulu.
 Ojae, Apômtau enseŋ gêdôŋôlic samob, taŋ seno-seno biŋgeŋ, to aweŋsuŋ, taŋ sêboa tauŋboa naŋ, acgommaŋ.
@@ -14088,8 +14089,7 @@ O Apômtau, gobe ôliŋ aê siŋ samucgeŋ e êndêŋ ondoc acgom. Ma gobe ôsi�
 Aêŋoc katuc oc êôc ŋandaŋ ma ŋoc ŋalêlôm ŋawapac êtôm eleŋ to êmbêc e êndêŋ ondocgeŋ ma ŋoc ŋacjo etoc tau sa êndêŋ aê e êndêŋ ondocgeŋ.
 O Apômtau, ŋoc Anôtô, ôlic aê ma ôkêŋ taŋam aêma. Ôkêŋ matocanô ŋawa êsa gebe gêmac enseŋ aê atom.
 Ma ŋoc ŋacjo etoc tau sa ma êsôm gebe “Aê kaku eŋ tulu,” ma ŋoc soŋo-soŋo têtu samuc êtu aê kaku saŋa atom.
-Mago aê taêc kêka aôm têmtac gêwiŋ teŋgeŋŋa. Ŋoc ŋalêlôm êtu samuc gebe gôjam aê kêsi.
-Aê janam wê êndêŋ Apômtau gebe eŋ kêmoasiŋ aê ŋanô. Dawidnê pesalem.
+Mago aê taêc kêka aôm têmtac gêwiŋ teŋgeŋŋa. Ŋoc ŋalêlôm êtu samuc gebe gôjam aê kêsi. Aê janam wê êndêŋ Apômtau gebe eŋ kêmoasiŋ aê ŋanô. Dawidnê pesalem.
 Lau meloc tec nêŋ ŋalêlôm kêsôm gêdêŋ tauŋ gebe “Anôtô teŋ gêmoa atomanô.” Êsêac sêgôm gêŋ sec to alôb-alôb ma nêŋ teŋ gêgôm gêŋ ŋajam teŋ atom.
 Apômtau kêtu kêniŋ ŋamalac latuŋi aŋga undambê gebe oc êtap ŋac tokauc teŋ, taŋ kêtêc Anôtô naŋ, sa gêmoa me masi.
 Mago êsêac samob sêkac tauŋ su. Samob têtu secŋageŋ. Êsêacnêŋ teŋ gêgôm gêŋ ŋajam teŋ atom, masi samucgeŋ.
@@ -14128,6 +14128,7 @@ Aê embe jamoa ŋasawa teŋ, oc sêwa aê auc. Êsêacnêŋ ŋalêlôm taêŋ g�
 O Apômtau, ôndi naôndac ŋoc ŋacjo ma ôku êsêac tulu. Ôc nêm siŋ sa ma ônam katuc kêsi aŋga lau secwaga nêŋ.
 O Apômtau, taôm lêmam ônam aê sa aŋga ŋamalacnêŋ to lau nom tonecŋa, taŋ taêŋ kêka nêŋ gêŋ nomŋageŋ naŋ nêŋ. Gêŋ taŋ gôjac tôŋ gêc naŋ, ôkêŋ êndêŋ êsêac e êpô êsêac ôkwi laŋgwageŋ. Tauŋ sêniŋ e êtôm êsêac ma sêkêŋ ŋagêdô êndêŋ nêŋ latuŋi.
 Mago aê oc jalic aôm laŋômanô gebe aê gagôm keso teŋ atom. Embe matoc êpoa êtiam, naŋ jalic aôm endeŋ tôŋgeŋ e tekoc êsa laŋgwageŋ. Dawidnê mec teŋ.
+
 O Apômtau, aê têtac gêwiŋ aôm, taŋ kôtu ŋoc ŋaclai naŋ.
 Apômtau kêtu ŋoc lamuanô to kêtu ŋoc tuŋtêna ma kêtu ŋoc gêjamsawaga. Ŋoc Anôtô kêtu ŋoc lôm, taŋ gaê lamu naŋ, eŋ kêtu ŋoc lautuc to kêtu ŋoc moasiŋ ŋabulakôp ma kêtu ŋoc lêmôp ŋajaŋa sec naŋ.
 Aê aoc gêjac Apômtau ma eŋ ênam aê kêsi aŋga ŋoc ŋacjonêŋ. Talanem Apômtau.
@@ -14249,7 +14250,6 @@ Gebe Apômtau eŋ kiŋ, eŋ tec gêjam gôliŋ lau tomôkê-tomôkê samob.
 Lau towae samob aŋga nom oc sewec êndêŋ eŋ. Samob taŋ têtu kekop naŋ, to êsêac taŋ lêŋ tamac ênduŋa gêjac êsêac ŋawae naŋ, oc sewec êndêŋ eŋ amboac tonaŋgeŋ.
 Lau samob, taŋ ocgo mêŋsêsa naŋ, oc sênam sakiŋ eŋ. Ma lau oc têtêku Apômtaunê miŋ êndêŋ nêŋ wakuc.
 Êsêac oc sênac miŋ êndêŋ lau, taŋ teneŋi sêkôc êsêac atom tageŋ naŋ, gebe Apômtau gêjam êsêac sa.
-
 Apômtau kêtu ŋoc ŋacgejob, tec oc japô lêna gêŋ teŋ atom.
 Eŋ kêkêŋ aê kasa tauc sic gaêc gamêŋ wale-wale to gêwê aê jakalêwaŋ tauc gaŋgôŋ bumata.
 Eŋ kêlau ŋoc katuc to gêwê aê kasa lêŋ ŋaŋêŋ kêtu ênê ŋaêŋa.
@@ -14334,6 +14334,7 @@ Apômtau awa kêlêndiŋ gamêŋsawa e kêtênêp lasê. Apômtau kêkôjôc gam
 Apômtau awa kêwiwic kamem to giŋ kalaka walôŋa e kêsêlô su. Ma samob, taŋ sêŋgôŋ nê andu naŋ, sêôc lambiŋ eŋ gebe ŋataugoc.
 Apômtau gêjam gôliŋ gwêc ŋagêdimbob. Eŋ gêŋgôŋ nê lêpôŋ kiŋŋa gedeŋ tôŋgeŋ.
 Apômtau êpuc nê lau tôŋmaŋ. Apômtau ênam mec nê lau ŋa biŋmalô.
+
 O Apômtau, aê gabe aoc êôc aôm gebe gôjam aê kêsi. Ma kôkêŋ aêŋoc ŋacjo têtu samuc kêtu aê gajaŋaŋa atom.
 O Apômtau ŋoc Anôtô, aê gamôêc gêdêŋ aôm gebe ônam aê sa. Ma aôm kômoasiŋ aê, tec aê ŋajam kêsagoc.
 Apômtau, aôm tec gôwê ŋoc katuc aŋga lamboam kêpi gêmêŋ. Aôm gômôêc aê tôŋ mêŋkôkêŋ aê matoc jali kêsa kêtiam gebe jaêc su jasêp sêlêlôm jana atom.
@@ -14371,7 +14372,6 @@ Aoc gêôc Apômtau, gebe eŋ kêtôc nê têtac gêwiŋ teŋgeŋŋa gêdêŋ a�
 Aê katêc tauc ŋanôgeŋ ma taêc gêjam gebe “Aôm tec kôtiŋ aê su aŋga laŋômnêmŋa.” Mago aôm gôŋô aêŋoc taŋiboa kapôêŋ gêdêŋ taŋ aoc gêjac aôm gebe ônam aê sa naŋ.
 Amac akêŋ-gêwiŋwaga samob, têmtac êwiŋ Apômtau. Apômtau gejob lau-ŋaŋêŋwaga ma êkêŋ ŋagêjô êlêlêc su êndêŋ lau-tetoc-tauŋ-sawaga.
 Amac samob, taŋ asaê Apômtau amoa naŋ, akô ŋajaŋa totêmtac êpa sugeŋ.
-
 Aweŋ êôc ŋac, taŋ Anôtô kêsuc ênê sec ôkwi to kêgadu ênê geo auc naŋ.
 Aweŋ êôc ŋac, taŋ Anôtô taê gêjam ênê keso atom ma biŋdansaŋ gêc ênê ŋalêlôm atom naŋ.
 Gêdêŋ taŋ gajam tauc tôŋ naŋ, ŋoc ôlicwalô gêbacnê gebe kataŋ taŋiboa kêtom bêcgeŋ.
@@ -14405,6 +14405,7 @@ gebe ênam êsêac katuŋ sa êtu sêmac êndu atomŋa to êôc êsêac, taŋ s�
 Aêacnêŋ katuŋ kêtu gwasaê Apômtau, aêanêŋ gêjam-sawaga to aêacnêŋ lautuc eŋ.
 Biŋŋanô, aêacnêŋ ŋalêlôm kêtu samuc eŋgeŋ, gebe aêac takêŋ gêwiŋ ênê ŋaê dabuŋ.
 O Apômtau, aômnêm têmtac gêwiŋ teŋgeŋŋa mêŋêpi aêac êtôm aêac, tec akêŋ mateŋ aôm nec.
+
 Aoc êôc Apômtau endeŋ tôŋgeŋ. Ŋabiŋ lanem ênêc aocgeŋ ŋapaŋ.
 Ŋoc katuc etoc tau sa êtu Apômtau ŋa. Êsêac, taŋ sêôc gêŋwapac naŋ, sêŋô e têntac ŋajam êsa.
 Anam Apômtaunê wae êsa awiŋ aê. Ma tatoc ênê ŋaê sa seleŋgeŋ.
@@ -14427,7 +14428,6 @@ Apômtau gêjam tamiŋ lau-ŋalêlôm-popocwaga. Eŋ gêjam êsêac, taŋ nêŋ 
 Eŋ gejob ênê ŋatêkwa samob gebe ŋateŋ tulu atom.
 Sec oc ênac ŋac sec êndu. Ma êsêac, taŋ têntac sec êndêŋ ŋac gêdêŋ naŋ, oc têtap ŋagêjô sa.
 Apômtau gêjam nê sakiŋwaga nêŋ katuŋ sa. Ma êsêac, taŋ sê lamu eŋ naŋ, oc têtap ŋagêjô sa êjô sec atom. meloc kêtê eŋ e ŋac tau kêtiŋ eŋ su gêc gêja naŋ.
-
 O Apômtau, ônac siŋ êndêŋ êsêac, taŋ sêjac aê semoa naŋ. Ôku êsêac, taŋ sêku aê tulu sêmoa naŋ tulu.
 Ôja lautuc to maluku sa ma ôndi mêŋônam aê samaŋ.
 Ôkôtêŋ kêm to ôndaiŋ olo endeŋ lau, taŋ sebe sê aê tôŋ naŋ. Ôsôm êndêŋ ŋoc katuc gebe “Aê tec gabe janam aôm sa.”
@@ -14456,6 +14456,7 @@ O Apômtau ŋoc Anôtô, aôm ŋac gêdêŋ. Ômêtôc ŋoc biŋ êtu katô gebe
 Ôkêŋ êsêac samob, taŋ ôliŋ kêpi kêtu ŋoc gêŋwapacŋa naŋ, majeŋ to môkêŋapac ŋawapac êsa acgom. Ôkêŋ êsêac, taŋ tetoc tauŋ sa gêdêŋ aê naŋ, têtu meloc ma majeŋ êkôm êsêac auc.
 Ôkêŋ êsêac, taŋ sêlic aê ŋajam naŋ, tauŋ têntac ŋajam to ôliŋ êpigeŋ. Ma ôkêŋ êsêac sêsôm ênêc awêgeŋ gebe” Apômtau eŋ ŋac kapôêŋ. Eŋ taê gêjam nê sakiŋwaga gebe êmoa ŋajamgeŋ.”
 Imbeloc oc êwaka nêm biŋgêdêŋ sa, êŋgôm waem êtu tapa endeŋ tôŋgeŋ.
+
 Ŋac alôb-alôb gêŋô sec ŋaawa aŋga tau nê ŋalêlôm. Eŋ gedec Anôtô, tec ketoc eŋ sa atom.
 Eŋ ketoc tau sa e taê gêjam kêtu tôŋ gebe Anôtô oc êkip sa to atiŋ eŋ su atom.
 Biŋ samob, taŋ eŋ kêsôm naŋ, biŋ alôb-alôb to biŋ dansaŋ. Eŋ gêwi nê gêŋ, taŋ andaŋgeŋ gêgôm tokauc ma ŋapep naŋ, siŋ su.
@@ -14468,7 +14469,6 @@ gebe aôm kôtu daŋgôŋ mateŋ jali ŋamôkê. Aômnêm ŋawê kêpô aêac, t
 Nêm têmtac gêwiŋ teŋgeŋŋa êmoasiŋ êsêac, taŋ sêjala aôm naŋ, to êmoasiŋ êsêac, taŋ sêsa nêŋ lêŋ tolaŋôŋnêm sawageŋ naŋ.
 Ôkêŋ lau teŋbeleŋ aŋgeŋ eŋkaiŋ êka aê tôŋ atom. Ma êsêac, taŋ sêkac tauŋ su aŋga Anôtônê naŋ, sensoc aê atom.
 Secwaga sebeŋ jasêc oc sêndi naeo.
-
 Ôniŋ oliŋ êtu lau secwaga atom. Ôlim taôm êtu lau-kesowagaŋa atom.
 Êsêac oc têtu gegoŋ sebeŋ amboac gêgwaŋ ma sêmêliŋ amboac gêgwaŋ ŋamêdôb.
 Ôkêŋ êwiŋ Apômtau, ec ôŋgôm gêŋ ŋajamgeŋ. Ôŋgôŋ nêm gamêŋ ma ôŋgôm gêŋ êndêŋgeŋ.
@@ -14509,6 +14509,7 @@ Mago gêdêŋ taŋ kasêlêŋ jagaô lasê eŋ mala kêtiam naŋ, galic eŋ mala
 Lau-secwaga samob oc sênaŋa. Ma lau, taŋ sêkac tauŋ su aŋga Anôtônê naŋ, nêŋ wakuc oc maleŋmê.
 Apômtau kêtu lau gêdêŋ nêŋ ênam êsêac sa ŋamôkê ma kêtu nêŋ lamu ŋanô gêdêŋ noc sêpô lêna tauŋŋa.
 Apômtau kêpuc êsêac tôŋ to gêjam êsêac kêsi. Eŋ gêjam êsêac kêsi gêdêŋ lau keso ma kêpuc êsêac tôŋ gebe sê lamu eŋgeŋ.
+
 O Apômtau, aôm têmtac ŋandaŋ ma ônac aê atom. Têmtac êmoatiŋ tôŋ ma ôim aê atom.
 Gebe aômnêm sôb keseŋeŋ aêgac. Ma lêmam kêkôniŋ aê tôŋ ŋanô.
 Aôm têmtac ŋandaŋ kêkêŋ gêmac gêjam ôlic samucgeŋ auc. Aêŋoc geo gêgôm aê ôlic ŋagêŋlêlôm kêtu masê sugac.
@@ -14589,12 +14590,12 @@ Gêdêŋ geleŋŋa gaeŋ oliŋ gebe Apômtau êkêŋ nê moasiŋ êsa ma gêdê�
 Aê kasôm gêdêŋ ŋoc poclabu Anôtô gebe “Amboac ondoc kôliŋ aê siŋ. Amboac ondoc gamoa togêŋwapacgeŋ. Ma ŋacjo kêkôniŋ aê tôŋ.”
 Lau taŋ sêlêsu aêŋa naŋ, têtaŋ pêlê aê e sêjamuŋ ŋoc ŋatêkwa popoc-popocgeŋ. Êsêac têtaŋ pêlê aê gedeŋ tôŋgeŋ gebe “Nêm Anôtô gêmoa ondoc.”
 O katuc tau, amboac ondoc gômoa ŋoc ŋalêlôm tobiŋ wapac ma ôluŋ-ôluŋgeŋ. Ôkêŋ matam Anôtô, gebe aê janam daŋge êndêŋ eŋ, taŋ kêsa aê laŋôc sa to kêtu ŋoc Anôtô naŋ.
-
 O Anôtô, ôwaka ŋoc gêdêŋ sa ma ônam gôliŋ ŋoc biŋ êndêŋ lau têntac gêwiŋmê tônê ŋai. Ônam aê sa aŋga ŋamalac dansaŋ to secwaga nêŋ.
 Aôm kêtu Anôtô, taŋ gejob aê naŋ, amboac ondoc kôtiŋ aê su. Amboac ondoc jamoa togêŋwapacgeŋ ma soŋo-soŋo kêkôniŋ aê tôŋ.
 Ôsakiŋ nêm ŋawê to nêm biŋ ŋaŋêŋ gebe êwê aê. Ma ôkêŋ aê jandêŋ nêm lôc dabuŋ, to nêm andu, taŋ gôŋgôŋ naŋ jana.
 Go jandêŋ Anôtônê altar jana. Jandêŋ Anôtô, taŋ ôlic kêpi-kêpi eŋŋa naŋ. O ŋoc Apômtau Anôtô, aê jalambiŋ aôm ŋa gêŋ wêŋageŋ.
 O katuc tau, amboac ondoc gômoa ŋoc ŋalêlôm tobiŋ wapac ma ôluŋ-ôluŋgeŋ. Ôkêŋ matam Anôtô gebe aê janam daŋge êndêŋ eŋ, taŋ kêsa aê laŋôc sa to kêtu ŋoc Anôtô naŋ.
+
 O Anôtô, aêac tauŋ aŋô kêsô taŋeŋsuŋ ma tameŋmai sêjac aômnêm miŋ gêdêŋ aêac gebe gêdêŋ êsêacnêŋ bec, taŋ sêmoa naŋ, aôm gôgôm nêm gêŋsêga gêdêŋ êsêac, gôgôm gêdêŋ bêc andaŋgeŋŋa.
 Aôm lêmam jagoseŋ lau samuc su ma kôkêŋ nêm lau sêŋgôŋ sêjô êsêac maleŋ. Aôm goseŋ tenteŋlatu su, ma kôlaiŋ êsêacgeŋ sêjam gamêŋ auc.
 Êsêac tauŋ nêŋ siŋ kêsi gamêŋ ŋatau su atom. Ma êsêac tauŋ nêŋ ŋaclai kêku ŋacjo tulu atom. Aôm taômgeŋ nêm anôŋa to lêmam ma laŋômanô ŋawê gêgôm gebe aôm têmtac gêwiŋ êsêac.
@@ -14697,7 +14698,6 @@ gebe eŋ embe êmac êndu, oc êkôc gêŋ samob tonaŋ ŋai ŋateŋ êna atom. 
 Eŋ embe êlambiŋ tau gebe êmoa ŋajam aŋga nom ma lau embe sêlambiŋ eŋ gebe kêtap nê kôm ŋanô taêsam sa,
 oc ênam eŋ sa atom, eŋ naêndêŋ tamai to nêŋ lau ŋanô, taŋ sêlic oc ŋawê kêtiam atom naŋ.
 Biŋŋanô, ŋamalac tonê gêlôŋ oc êmoa teŋgeŋ atom. Eŋ kêtôm bôc, taŋ ênaŋa naŋ.
-
 Ŋaniniŋ Ŋatau Apômtau Anôtô gêmôêc gêdêŋ nom ma kêsôm nê biŋ aŋga oc kêpiŋa jagêdêŋ oc kêsêpŋa.
 Anôtônê ŋawê kêpoac lasê aŋga Sion, taŋ kêtu malac togêlôŋsêga naŋ.
 Aêacnêŋ Anôtô gêmêŋ togamêŋ gêmacgeŋ atom. Ja kêdaŋgac-kêdaŋgac gêmuŋ eŋ kêsêp gamêŋ kêlaŋgaŋ.
@@ -14721,6 +14721,8 @@ Aôm gôŋgôŋgeŋ ma kôgôliŋ biŋ kêpi lasim to gôga biŋ kêpi taôm tê
 Aôm gôgôm gêŋ tonaŋ ŋai, mago aê gajam tauc tôŋ, tec taêm gêjam gebe aê katôm aôm. Tageŋ galoc jaec biŋ aôm gebe jawa nêm kauc sa.
 “Amac taŋ aliŋ Anôtô siŋ naŋ, taêm ênam biŋ tonaŋ acgom. Embe masi, oc janseŋ amac su anaŋa ma ŋac teŋ êtôm gebe ênam amac sa atomanô.
 Ŋac taŋ êkêŋ daŋge êtu da naŋ, etoc aê sa ma ŋac, taŋ êsa nê lêŋ laŋônêm sawageŋ naŋ, oc jakêŋ eŋ êlic Anôtônê moasiŋ.”
+
+
 O Anôtô, taêm walô aê gebe aôm ŋac moasiŋ. Aôm taêm walô ŋatau kapôêŋ, onseŋ aêŋoc sec su.
 Ôkwasiŋ ŋoc tôp su ma ômbuŋ ŋoc geo su e jatu selec.
 Gebe aê tauc kajala ŋoc kesogac ma matoc gê ŋoc geo gedeŋ tôŋgeŋ.
@@ -14752,13 +14754,13 @@ Lau gêdêŋ oc sêlic e têtêc tauŋ ma sêômac aôm gebe
 Ma aê tec katôm katêkwi ŋawawa ŋajam kakô Anôtônê andu. Aê taêc kêka Anôtônê têtac gêwiŋ teŋgeŋŋa gedeŋ tôŋgeŋ.
 Aê oc janam daŋge aôm endeŋ tôŋgeŋ êtu nêm gêŋ, taŋ gôgôm naŋŋa ma jatoc nêm ŋaê sa êndêŋ lau mansaŋ sêŋô gebe aôm gabêjam. mêŋkêtêku biŋ gêdêŋ Saul gebe Dawid kêsô Abimeleknê andu gaja naŋ.
 
-
 Lau meloc tec nêŋ ŋalêlôm kêsôm gêdêŋ tauŋ gebe “Anôtô teŋ gêmoa atomanô.” Êsêac sêgôm gêŋ sec to alôb-alôb ma nêŋ teŋ gêgôm gêŋ ŋajam teŋ atom.
 Apômtau katuc kêniŋ ŋamalac latuŋi aŋga undambê gebe êtap ŋac tokauc teŋ, taŋ kêtêc Anôtô naŋ, sa gamoa me masi.
 Mago samob sêkac tauŋ su, samob têtu secŋageŋ. Êsêacnêŋ teŋ gêgôm gêŋ ŋajam teŋ atom, masi samucgeŋ.
 Lau secwaga samob nêŋ kauc gêbôc me. Êsêac têdaŋgôŋ ŋoc lau amboac seŋ mo ma êsêac aweŋ gêjac Apômtau atom.
 Mago êsêac têtakê ŋasec kêtôm têtakê teŋ gêmuŋ su atomanô gebe Anôtô kêsa nêm ŋacjo nêŋ ŋatêkwa saliŋ-saliŋgeŋ. Eŋ oc êku êsêac tulu samucgeŋ gebe eŋ kêtiŋ êsêac su.
 Ojae, moasiŋ ênam Israel saŋa mêŋêsa aŋga Sion ecmaŋ. Êndêŋ taŋ Apômtau êmoasiŋ nê lau êtiam naŋ, Jakob oc êtu samuc, ma Israel oc têtac ŋajam êsa.
+
 
 O Anôtô, ôkêŋ nêm ŋaê ênam aê sa ma nêm ŋaclai êwaka ŋoc biŋgêdêŋ sa.
 O Anôtô, ôkêŋ taŋam ŋoc mec. Wê taŋam êndêŋ aocsuŋ ŋabiŋ,
@@ -14767,7 +14769,6 @@ Aê galicgac, Anôtô kêtu ŋoc gêjam-aê-sawaga. Apômtau kêpuc katuc tôŋ 
 Sec taŋ aêŋoc ŋacjo sêgôm naŋ, naêpi êsêac tauŋ. Onseŋ êsêac su gebe aôm ŋac ŋaŋêŋ.
 Go aê jansuŋ ŋoc da êndêŋ aôm totêtac ŋajamgeŋ. O Apômtau, aê gabe aoc êôc nêm ŋaê gebe gabêjam ŋanô,
 gebe aôm kôjaŋgo aê su aŋga gêŋwapac samob ma matocanô galic ŋoc ŋacjo e têtac ŋajam gebe sênaŋagac. Saul sêja ma sêsôm gebe Dawid kêsiŋ tau gêmoa êsêacnêŋ gamêŋ.
-
 
 O Anôtô, ôkêŋ taŋam ŋoc mec ma ôsiŋ taôm êndêŋ ŋoc taŋiboa atom.
 Ôŋô aê ma ôjô aêŋoc biŋ. Aê gaeŋ oliŋ tauc ma gao toŋoc gêŋwapacgeŋ,
@@ -14849,6 +14850,7 @@ Aêŋoc ŋacjo amboac kêamgeŋ sêmu e mêŋseola malac auc kêtôm kêtulageŋ
 Mago aê gabe jaŋga wê êpi aômnêm ŋaclai ma aoc êôc nêm têmtac gêwiŋ teŋgeŋŋa ŋa ôndu êpi êtôm bêc samob gebe aôm kôtu ŋoc tuŋtêna gêdêŋ ŋoc noc kapô lêna taucŋa, tec gaê lamu aômgeŋ.
 Ŋoc ŋaclai aôm, tec gabe jaŋga wê êpi aôm gebe Anôtô kêtu ŋoc tuŋtêna, ŋoc Anôtô, taŋ têtac gêwiŋ aê naŋ. dêdib eŋ aŋga nê andu gebe sênac eŋ endu.
 
+
 O Anôtô, aôm kôtiŋ aêac su ma goseŋ aêac êliŋ-êliŋ. Aôm têmtac ŋandaŋ su ma galoc ônam aêac sa êtiam.
 Aôm kôwiwic gamêŋ e kôkac nom kêkôc. Ômakop ŋasêawa auc êtiam gebe gamêŋ ŋakôjô-kôjô.
 Aôm kôkêŋ nêm lau sêôc gêŋwapac ŋasec. Aôm kôkêŋ gêŋ aêac anôm e kêjaŋiŋ aêac.
@@ -14861,7 +14863,6 @@ Asa oc êwê aê jasa malac ŋajaŋa jana. Asa oc êwê aê jasa Edom jana.
 O Anôtô, aôm oc kôtiŋ aêac su me. O Anôtô, aôm oc ôwê aêacma lau siŋŋa atom me.
 Ônam aêac sa êndêŋ ŋacjomaŋ gebe ŋamalac oc sênam aêac sa êtôm atom.
 Anôtô êwiŋ aêac, go taku nêŋ ŋacjo tulu gebe eŋ oc êka aêacnêŋ ŋacjo popoc samob.
-
 
 O Anôtô, ôŋô ŋoc taŋi kapôêŋ. Ôkeŋ taŋam ŋoc mec.
 Gaŋgôŋ gêdêŋ nom ŋamadiŋ ma aoc gêjac aôm gebe ŋoc ŋalêlôm ŋatutuc ŋasec. Poc kapôêŋ tec kêkô, ma aê tauc oc japi jatôm atom. Amboac tonaŋ aôm ôkam aê, go japi.
@@ -14921,7 +14922,6 @@ Aôm kôsanem nom ŋawampôm e ŋapep sawa to kôlênsim nom e kêtu palê. Aôm
 Aôm gôjac dabiŋ jala ŋa nêm moasiŋ totau-totau ma waŋam ŋalêsi gênôm gamêŋ gêjam auc.
 Bôcnêŋ gamêŋ sêniŋ gêŋŋa ŋamêdôb ŋajamgeŋ ŋapaŋ. Ma gamêŋ ŋamatu gêbuc tau sa e têtac kêsa laŋgwageŋ.
 Bôc sêjam oba auc amboac oba kêsô ŋakwê ma gaboaŋ kêkwa tau auc ŋa molauŋ. Êsêac sêjam lasê to sêjam wê sêwiŋ tauŋ totêntac ŋajamgeŋ.
-
 Gamêŋ samob awem êôc Anôtô toôndugeŋ.
 Atoc ênê ŋaê ŋawae sa. Alambiŋ eŋ e ŋawasi laŋgwageŋ.
 Asôm êndêŋ Anôtô gebe “Aômnêm gôliŋ e ŋajamanô kaiŋ teŋ. Aômnêm ŋacjo tetoc aôm sa kêtu nêm ŋaclai gêjam sêgaŋa.
@@ -14942,6 +14942,7 @@ Aê aocsuŋ gamôêc kapôêŋ gêdêŋ eŋ ma wê lambiŋŋa gêc imbeloc ŋat�
 Ŋoc ŋalêlôm embe taê êka biŋ eso, oc Apômtau êkêŋ taŋa aê atom.
 Mago Apômtau kêkêŋ taŋa aêgoc. Eŋ gê taŋa aêŋoc mec.
 Aê aoc êôc Anôtô gebe gêjac kapoac ŋoc taŋiboa atom. Ma kêgamiŋ nê têtac gêwiŋ teŋgeŋŋa gêdêŋ aê atom.
+
 Anôtô taê labu to ênam mec aêac. Eŋ oc êkêŋ laŋôanô êpô aêac.
 Gebe lau nomŋa sêjala nêm lêŋ to lau samuc samob sêjala ŋaclai ônam lau saŋa.
 O Anôtô, tenteŋlatu aweŋ êôc aôm. Tenteŋlatu aweŋ êôc aôm tomalageŋ.
@@ -15028,7 +15029,6 @@ O Anôtô, mêŋônam aê sa. O Apômtau, ônsaic taômgeŋ mêŋôpuc aê tôŋ
 Êsêac taŋ sêgôm “Kec, kec” kêpi aê naŋ, ôkêŋ êsêac têtakê tomajeŋgeŋ.
 Ôkêŋ êsêac samob, taŋ sesom aôm naŋ, ôliŋ êpi to têntac ŋajam êsa êtu aôm ŋa. Ôkêŋ êsêac samob, taŋ taêŋ kêka aômnêm moasiŋ naŋ, sêsôm lasê endeŋ tôŋgeŋ gebe “Apômtau ŋac towae.”
 O Apômtau, aê tec ŋac palê-palê to ŋac ŋalêlôm sawa. O Anôtô, ôlêti sebeŋ ôndêŋ aê ômôêŋ. O Apômtau, ônam gamêŋ tôŋ atom gebe ŋoc ônam-aê-sa to ôpuc-aê-tôŋwaga aômgoc.
-
 O Apômtau, aê gaê lamu aômgeŋ. Ôkêŋ aê jamoa tomajocgeŋ atom.
 Ôŋgamboac aê to ônam aê sa êtu nêm biŋgêdêŋŋa. Ôê taŋam aê ma ônam aê kêsi.
 Ôtu ŋoc poclabu jaê lamuŋa to ŋoc laimôkê ônam aê saŋa. Aôm tonaŋ kôtu ŋoc poclabu to ŋoc laimôkê.
@@ -15124,6 +15124,7 @@ Matam êndiŋ nêm poac, taŋ kômoatiŋ gawiŋ aêac naŋ, gebe ŋaclai sec gê
 Ôkêŋ ŋac, taŋ gêôc gêŋwapac naŋ, maja êsa atom. Lau ŋalêlôm sawa to lau ŋasec aweŋ êôc nêm ŋaêmaŋ.
 O Anôtô, ôndi sa ma ônam nêm gêŋ kêsimaŋ. Taêm ênam biŋ meloc, taŋ lau alôb-alôbwaga sêgôliŋ kêpi aôm kêtôm bêc to geleŋgeŋ.
 Oliŋ nêm ŋacjo nêŋ ŋaonda siŋ atom. Nêm soŋo-soŋo nêŋ wambaŋ, taŋ kêpi gedeŋ tôŋgeŋ naŋ, amboac tonaŋ.
+
 O Anôtô, aêac aweŋ gêôc aôm. O Anôtô, aêac alanem aôm. Aêac asôm aôm waem lasê ma awa gêŋtalô samob, taŋ aôm gôgôm naŋ sa.
 Anôtô kêsôm gebe “Aê kakêŋ ŋoc noc mêtôcŋa ma oc jamêtôc biŋ naêndêŋgeŋ.
 Embe nom êkôtiŋ tau ma ŋamalac samob, taŋ sêŋgôŋ nom naŋ têtênêp, go aê jandeŋ nom ŋanombaŋ tôŋ.
@@ -15168,7 +15169,6 @@ Tao sêsêwa kom ŋasec to umboŋ ŋatêtac kêkêŋ wapap gêjac. Ma aômnêm s
 Aômnêm wapap ŋakicsêa ŋadindiŋ kaiŋ teŋ, ôsic kêpô gamêŋ ŋawê kêsa e nom ŋawiwic dendeŋgeŋ to kôtêŋ-kôtêŋgeŋ.
 Aômnêm intêna gêjac gwêc gêŋgic ma nêm lêŋ gêwa ŋasamac kapôêŋ êliŋ-êliŋ, mago sêlic waŋam atom.
 Aôm gôwê nêm lau amboac ŋacgejob gêwê nê domba. Mose agêc Aron sêjam aôm laŋôm.
-
 Ao ŋoc lauac, akêŋ taŋem ŋoc mêtê. Aê taŋem aocsuŋ ŋabiŋ.
 Aê gabe jaŋa aoc êtu jasôm biŋgôliŋŋa. Aê gabe jaôŋ biŋgôliŋ têm ŋamata tauanôŋa sa.
 Biŋ taŋ aêac aŋô to ajala ma tameŋi sêjac miŋ gêdêŋ aêac naŋ.
@@ -15254,6 +15254,7 @@ Amboac ondoc lau samuc sênac aêac ôkwi gebe “Lau tônê nêŋ Anôtô oc g�
 Ôkêŋ taŋam lau kapoacwalôŋa nêŋ biŋ, taŋ seŋ oliŋ tauŋŋa naŋ. Lêmam ŋajaŋaboa, amboac tonaŋ ônam lau, taŋ sêkic êsêacnêŋ biŋ gebe sêmac êndu naŋ sa.
 O Apômtau, aôm ôkêŋ ŋagêjô êpi lau, taŋ têtaŋ pêlê aôm sêŋgôŋ aêacma gamêŋ ŋamadiŋ naŋ acgom. Ma ôkêŋ êsêacnêŋ biŋ ŋagêjô êtu dim 7.
 Ma aêac tec atu nêm lau to toŋ, taŋ aôm gojob êsêac nec, abe anam daŋge aôm endeŋ tôŋgeŋ, ma gôlôac to gôlôac sêŋgôm aôm waem êsa êtôm têmgeŋ.
+
 O Israelnêŋ ŋacgejob, taŋ gojob Josep kêtôm domba ŋatoŋ teŋ naŋ, ôkêŋ taŋam. Aôm taŋ gôŋgôŋ kerub ŋaô naŋ, oc taôm lasê
 êndêŋ Epraim agêc Benjamin ma Manase. Ôndi toŋaclai mêŋônam aêac sa.
 O Anôtô, ônam aêac sa êtiam. Ôkêŋ laŋômanô mêŋêpô aêac gebe ênam aêac sa.
@@ -15290,7 +15291,6 @@ Ojae ŋoc lau sêkêŋ taŋeŋ aêmaŋ. Israel sêsa ŋoc lêŋmaŋ.
 Go jakôniŋ êsêacnêŋ ŋacjo tôŋ sebeŋ ma jaku êsêacnêŋ ŋacjo samob tulu.
 Êsêac taŋ têntac gedec aê naŋ, oc sewec toŋalêlôm ŋatutucgeŋ sêkô aê laŋôcnêm gebe nêŋ ŋagêjô oc ênêc endeŋ tôŋgeŋ.
 Mago aê gabe jalôm aôm ŋa mo mataêjamgeŋ ma gabe jakêŋ lêp aŋga poclabu êsa wacêlau aôm.”
-
 Anôtô gêmoa nê lau sêkac tauŋ sa ŋaluŋgeŋ. Eŋ kêmêtôc biŋ gêŋgôŋ gôliŋwaga sêkac tauŋ sa ŋalêlôm.
 “Awi amêtôc kesoŋa siŋmaŋ ma akêŋ êwiŋ lau, taŋ sêkac tauŋ su aŋga Anôtônê naŋ, nêŋ biŋ atom.
 Amêtôc lau ŋaôma to mosêbu nêŋ biŋ êtu katô ma anam lau ŋasec to ŋalêlôm sawa sa.
@@ -15299,6 +15299,7 @@ Apuc ŋac sawa to ŋac, taŋ kêpô lêna gêŋ naŋ tôŋ. Ajaŋgo eŋ su aŋga
 Biŋŋanô, aê tauc kasômgac gebe ‘Amac atu anôtôigeŋ ma amac samob atu Lôlôc Ŋatau latuigeŋ.’
 Mago oc amac êndu atôm ŋamalac ma aku e anaŋa atôm kasêga sêjaŋa.”
 O Anôtô, ômôêŋ ma ônam gôliŋ nom samucgeŋ ma tenteŋlatu samob têtu aômnêm gêŋ.
+
 O Anôtô, ôŋgamiŋ taôm atom. O Anôtô, ônam taôm tôŋ to awam mêgeŋ atom.
 Gôlicgac me, nêm ŋacjo aweŋ aliŋ-aloŋ kêsa sêmoa ma êsêac, taŋ nêŋ ŋalêlôm kêmoatiŋ tôŋ kêtu aômŋa naŋ, sêsa laŋôŋanô sageŋ.
 Êsêac sêgôm gêŋlêlôm sebe senseŋ nêm lau su ma sêmoatiŋ poac sebe senseŋ lau, taŋ sê lamu aôm naŋ.
@@ -15344,7 +15345,6 @@ Têtac gêwiŋ teŋgeŋŋa to biŋ ŋaŋêŋ oc sêwiŋ tauŋ. Biŋgêdêŋ to b
 Biŋ ŋaŋêŋ oc êpoa aŋga nom êpi êmêŋ ma biŋgêdêŋ oc atuc kêniŋ aŋga undambê asap êmêŋ.
 Apômtau oc êkêŋ gêŋ ŋajam ma naŋ nom ŋanô esewec êlêlêc su.
 Biŋgêdêŋ oc êmuŋ eŋgeŋ ma biŋmalô oc êpuc eŋ waŋa.
-
 O Apômtau, mêŋwê taŋam to ôkêŋ taŋam aê gebe aê ŋac sawa gaŋgôŋ jageo.
 Ojop aêŋoc katuc gebe aê ôlic andaŋ aôm tec gamoa. O ŋoc Anôtô, ônam nêm sakiŋwaga, taŋ mata kêsap aôm naŋ sa.
 O Apômtau, ŋoc Anôtô, taêm walô aê gebe aoc gêjac aôm gedeŋ tôŋgeŋ.
@@ -15369,6 +15369,7 @@ O Anôtônê malac, ôkêŋ taŋam biŋ tonec, taŋ eŋ kêsôm kêpi aôm naŋ 
 Ma sêsôm êpi Sion gebe lau tokaiŋ-tokaiŋ nêŋ malacmôkê gebe Lôlôc Ŋatau tau kêpuc tôŋ gebe êkô ŋajaŋa.
 Apômtau eto tenteŋlatu nêŋ ŋaêmôkê ma êwa êsêac sa gebe “Teneŋi sêkôc êsêac aŋga Jerusalem, Jerusalem ŋatau êsêac.”
 Êsêac sênam wê to têtê gebe “Aôm kôtu ma moasiŋ samob ŋamôkê.”
+
 O Apômtau, taŋ kôtu aêŋoc kêsiwaga to Anôtô naŋ, aê gamôêc gêdêŋ ocsalô ma aoc gêjac aôm gêdêŋ gêbêc.
 Ôŋô ŋoc mec ma wê taŋam ŋoc taŋiboa gebe ônam sa.
 Gebe katuc gêôc gêŋwapac e têkwa gêbac ma kasa paŋ lamboam ŋalêndaŋ.
@@ -15440,7 +15441,6 @@ O Apômtau, aômnêm têmtac gêwiŋ, taŋ gôjac mata gêdêŋ andaŋgeŋ tauan
 O Apômtau, taêm ênam nêm sakiŋwaga nê gêŋwapac gebe kajala gêc ŋoc ŋalêlôm amboac tonec gebe tenteŋlatu samob sêlic aê amboac gêŋ lêlêŋa teŋ.
 O Apômtau, nêm ŋacjo têtaŋ pêlê to sêsu nêm ŋac, taŋ goeŋ oso eŋ naŋ, susu kêtôm nê lêŋ samobgeŋ.
 Lambin êndêŋ Anôtô enden tôŋgen Biŋŋanô. Biŋŋanôgoc.
-
 O Apômtau, aôm kôtu aêacma lamu. Gôlôac to gôlôac sê lamu aôm.
 Lôc gêboa tau sa atomgeŋ ma aôm kôkêŋ nom to ŋagêŋlêlôm samob atomgeŋ, naŋ aôm Anôtô gômoa teŋgeŋ to teŋgeŋ.
 Aôm kôkêŋ ŋamalac têtu kekop kêtiam ma kôsôm gebe “O ŋamalac latui, amu ana.”
@@ -15474,6 +15474,7 @@ Aôm oc ôsêlêŋ ôŋgêli lewe to moac. Aôm oc ôka lewe to moactêna popoc.
 Anôtô kêsôm gebe “Aê oc janam lau, taŋ sêsap aê tôŋ totêntac gêwiŋgeŋ naŋ sa ma japiŋ êsêac, taŋ sêjala ŋoc ŋaê naŋ auc.
 Êndêŋ taŋ aweŋ ênac aê, oc jakêŋ taŋoc êsêac. Êndêŋ taŋ sêŋgôŋ naeo, oc jamoa jawiŋ êsêac ma janam êsêac kêsi to jatoc êsêac sa.
 Aê oc jakêŋ êsêac sêmoa mateŋ jali ŋêŋgeŋ ma jatôc ŋoc moasiŋ êndêŋ êsêac sêlic.”
+
 Tanam daŋge Apômtau kêtu gêŋ ŋanô mataêjam. O Lôlôc Ŋatau, aêac alanem nêm ŋaê.
 Êndêŋ bêbêcgeŋ samob aêac asôm nêm têmtac gêwiŋ teŋgeŋŋa lasê ma êndêŋ êmbêc akêŋ nêm biŋ ŋaŋêŋ ŋawae.
 Apip gêŋ wêŋa ŋagam lemelu ma anac kaliŋgwaŋsêga êtaŋ ma anac gêŋ wêŋa ŋagêdô amboac tonaŋgeŋ.
@@ -15489,7 +15490,6 @@ Lau gêdêŋ sêpoa sêpi amboac nip ma têtu baliŋ kêtôm kaseda Lebanonŋa.
 Êsêac têtôm ka, taŋ sêsê kêsêp Apômtaunê andu naŋ. Êsêacnêŋ ŋaola gêjac lêtêŋ aŋga aêacnêŋ Anôtônê malacluŋ.
 Êsêac sêjam ŋanô gêdêŋ taŋ môdê kêpi êsêac naŋ. Nêŋ ŋatêkwi taêsam ma ŋalauŋ ŋawawa laŋgwageŋ.
 Biŋ tonaŋ gêwa sa gebe Anôtô eŋ ŋac ŋaŋêŋ ma biŋ keso teŋ gêc ŋoc lamu atom.
-
 Apômtau kêtu kiŋ. Eŋ kêsô ŋawasi kiŋŋa kêtu nê ŋakwê. Apômtau gêjam gêlôŋ sa ma kajandiŋ ŋaclai kêtu nê ômbiŋkap. Ŋac tau gedeŋ nom tôŋ ŋajaŋa gebe wiwic atom.
 Aômnêm lêpôŋ kêkô ŋajaŋa kwanaŋgeŋ gêdêŋ andaŋgeŋ ma ŋapaŋ. Aôm gômoa gêdêŋ têm kêsa atomgeŋ.
 O Apômtau, bu ŋasamac kêsa, ŋasamac kêsa e ŋadindiŋ ŋanô. Ŋasamac kêsa e gamêŋ gêôŋ-gêôŋ
@@ -15585,6 +15585,7 @@ Aê gabe janseŋ lau, taŋ sêgôliŋ biŋ sacgeŋ kêpi nêŋ lau sackapoa gêd
 Matoc gê lau, taŋ sêgôm nêŋ gêŋ ŋaŋêŋgeŋ naŋ, gebe sêmoa sêwiŋ aê. Lau tolaŋôŋnêm sawa oc sênam sakiŋ aê.
 Ŋac teŋ embe ênam biŋ dansaŋ ŋa lêmageŋ oc êŋgôŋ ŋoc andu atom. Matoc geso lau, taŋ sêsôm biŋ dansaŋ sêmoa naŋ.
 Lau samob, taŋ sêgôm biŋ alôb-alôb naŋ, janseŋ êsêac su aŋga gamêŋ tonec êtôm bêcgeŋ. Ma lau samob, taŋ sêgôm sec naŋ, oc janseŋ êliŋ-êliŋ aŋga Apômtaunê malac.
+
 O Apômtau, ôkêŋ taŋam ŋoc mec ma ôkêŋ ŋoc taŋiboa e wacdiŋgeŋ aôm.
 Êtôm ŋasawa, taŋ ŋoc ŋalêlôm ŋatutuc naŋ, ônsaŋ laŋômanô auc êndêŋ aê atom. Wê taŋam aê. Êtôm ŋasawa, taŋ jamôêc naŋ, ôkêŋ taŋam aê ŋagaôgeŋ.
 Ojae, ŋoc bêc gêôŋ sa katôm jadauŋ ma ŋoc ŋatêkwa ŋandaŋ kêtôm ja geŋ gêmoa ŋalêlôm.
@@ -15613,7 +15614,6 @@ Andaŋgeŋ tauanô gôjac m nom ma undambê kêtu lêmam ŋakôm.
 Geŋ tonaŋ ŋai oc sênaŋa ma aôm oc gacgeŋ ômoa. Gêŋ tonaŋ ŋai samob oc têtu manê amboac ŋakwê. Aôm oc ôjô gêŋ tau êtôm tajô ŋakwê ma aôm oc ônam gêŋ tau tonaŋ ôkwigeŋ.
 Mago aôm ômoa amboac gômoa endeŋ tôŋgeŋ ma nêm jala oc ŋatêku êsu atom.
 Aômnêm sakiŋwaga nêŋ latuŋi oc tec sêmoa nêŋ ôliŋ ŋajamgeŋ ma nêŋ gôlôac oc sêmoa aôm laŋômnêmŋa ŋapaŋ. lêna tau êndu-êndu naŋ, nê taŋiboa gêdêŋ Apômtau kêtu nê kwalecŋa.
-
 O katuc tau, ôlanem Apômtau ma aêŋoc ŋalêlôm samucgeŋ, êlanem ênê ŋaê dabuŋ.
 O katuc tau, ôlanem Apômtau ma ôliŋ ênê moasiŋ samob, taŋ gêjam aôm sa naŋ, siŋ atom.
 Gebe eŋ tec kêsuc aômnêm biŋ samob ôkwi to gêgôm aômnêm gêmac samob ŋajam kêsa.
@@ -15807,6 +15807,7 @@ eŋ kêsêwa majeŋ kêpi kasêga ma kêkêŋ êsêac seo sêmoa gamêŋ sawa na
 Mago eŋ gêôc ŋac ŋalêlôm sawa sa aŋga gêŋwapac ŋalêlôm ma gêjac ênê gôlôac sa têtu kapôêŋ.
 Lau mansaŋ sêlic e têntac ŋajam kêsa ma gêjac lau secwaga samob nêŋ lênô auc.
 Lau tokauc taêŋ ênam biŋ tonaŋ ma sêjala Apômtaunê têtac gêwiŋ teŋgeŋŋa ŋanô.
+
 O Anôtô, ŋoc ŋalêlôm kêpa su gabe janam wê to jaŋgôm gêŋ wêŋa êtaŋ. O katuc tau, ôndimaŋ.
 Gêŋ wêŋa totau-totau, andi. Aê gabe jaŋu gamêŋ kelendeŋ sa.
 O Apomtau, aê gabe jalanem aôm aŋga lau ŋalêlôm. Aê gabe aoc êôc aôm aŋga tenteŋlatu ŋalêlôm.
@@ -15820,7 +15821,6 @@ O Anôtô, asa oc êwê aê jandêŋ malac totuŋbôm ŋajaŋa jana. Asa oc êw�
 O Anôtô, aôm oc gôwi aêac siŋ ma kôtu aêacma lausiŋ nêŋ laumata atom me.
 Ônam aêac sa êndêŋ ŋacjomaŋ gebe ŋamalac oc sênam aêac sa êtôm atom.
 Anôtô êwiŋ aêac, go danseŋ ŋacjo aliŋ-êliŋ. Eŋ taugeŋ tec oc êka aêacnêŋ ŋacjo popoc.
-
 O Anôtô, aê aoc gêôc aôm, amboac tonaŋ ônam taôm tôŋ aê atom,
 gebe lau alôb-alôb to lau dansaŋ sêŋa aweŋ gêdêŋ aê ma sêgôliŋ biŋ kêpi aê.
 Nêŋ biŋ têntac ŋandaŋ secŋa kêkôm aê auc ma sêjac aê ŋam mêgeŋ.
@@ -16329,6 +16329,7 @@ O Apômtau, aê oc jakêŋ kisa êndêŋ lau, taŋ sêkêŋ kisa gêdêŋ aôm n
 Biŋŋanô, aê kakêŋ kisa gêdêŋ êsêac ŋajaŋa, galic êsêac têtu ŋoc ŋacjo.
 O Anôtô, ômbi aê lêtêŋ e ôjala ŋoc ŋalêlôm. Ônsaê aê to ôjala gêŋ, taŋ taêc gêjam naŋ.
 Ma embe ôlic aê jasa lêŋ dansaŋ jamoa, naŋ ôwê aê jasa lêŋ ŋaŋêŋŋa.
+
 O Apômtau, ônam aê kêsi êndêŋ lau sec ma ojop aê êndêŋ lau toŋaclai.
 Lau tonaŋ taêŋ gêjam biŋ sec gêc nêŋ ŋalêlôm ma sêkalom kisa kêtôm bêcgeŋ.
 Êsêacnêŋ imbeleŋ ŋamata kêtôm moac wêmnê. Moac ŋamalic gêc kêsa paŋ gêdôŋôlicgeŋ.
@@ -16342,7 +16343,6 @@ Eŋ êkêŋ ŋalana ênsêlô êpi êsêac tauŋ. Eŋ êtiŋ êsêac sêsêp sê
 Ŋac-gêga-biŋwaga oc êmoa naeo. Ma gêŋwapac oc epeŋ ŋac toŋaclai sec naŋ, piŋpoap-piŋpoap e ênaŋa.
 Aê galicgac gebe Apômtau oc êmansaŋ lau sêŋgôŋ jageo nêŋ biŋ to êmansaŋ lau ŋalêlôm sawa nêŋ biŋ.
 Biŋŋanô, lau gêdêŋ oc sênam daŋge êtu aômnêm ŋaêŋa. Lau gêdêŋ oc sêŋgôŋ sêwiŋ aôm.
-
 O Apômtau, aê aoc gêjac aôm ôkac taômgeŋ ôndêŋ aê ômôêŋ. Embe jamôêc aôm, naŋ ôkêŋ taŋam ŋoc aoc.
 Ôlic ŋoc mec êtôm gasôb jadauŋ gêdêŋ aôm. Ôlic jaôc lemoc sa êtu da êtulaŋa.
 O Apômtau, ôkêŋ aocsuŋ ŋadibwaga teŋ ma ôkêŋ gêdôcôlic ŋakatam ŋagejobwaga teŋ.
@@ -16353,6 +16353,7 @@ Eŋ kêpalip êsêacnêŋ ŋatêkwa jatotoŋ-totoŋ sêc gêdêŋ lamboam ŋagê
 Matoc êndiŋ aôm, Apômtau ŋoc Anôtô. Aê gabe jaê lamu aôm. Amboac tonaŋ ôwi ŋoc katuc siŋ gebe janaŋa atom.
 Ojop aê êndêŋ lakô, taŋ sêwa kêtu aêŋa naŋ, ma êndêŋ lau secwaga nêŋ lip amboac tonaŋ.
 Ôkêŋ lau, taŋ sêkac tauŋ su naŋ, sêwê tauŋ nêŋ uc ma aê jao gala jana.
+
 Aê aoc gêjac Apômtau kapôêŋgeŋ, gamôêc kapôêŋ gêdêŋ Apômtau.
 Aê kasêwa ŋoc taŋi gêc eŋ laŋônêmŋa, kasôm ŋoc gêŋwapac lasê gêdêŋ eŋ.
 Gêdêŋ taŋ ŋoc ŋalêlôm ŋagogo naŋ, mago aôm kôjala lêŋ, taŋ aê kasa naŋ. Sêwa lakô kelecgeŋ gêc ŋoc intêna, taŋ kasa naŋ.
@@ -16360,7 +16361,6 @@ Aê matoc geso gêmu anôŋa, mago katap ŋac teŋ gebe ênam aê saŋa sa atom.
 O Apômtau, aê aoc gêjac aôm. Aê kasôm gebe ŋoc lamu aôm to ŋoc gêŋlênsêm, taŋ gawê kaiŋ aŋga lau mateŋ jali nêŋ gamêŋ naŋ.
 Ojae, ôŋô ŋoc taŋiboamaŋ gebe aê katuc gêbac su. Ônam aê kêsi aŋga lau, taŋ sêlêsu aê naŋ, gebe nêŋ ôliŋ walô kêlêlêc aê su.
 Wê aê sa aŋga kapoacwalô gebe jalanem aômnêm ŋaê. Aôm embe ômoasiŋ aê, oc lau gêdêŋ sêkac sa sêwiŋ aê. gêŋgôŋ poclabu naŋ.
-
 O Apômtau, ôŋô ŋoc mec ma ôê taŋam ŋoc taŋi. Aôm ŋac tobiŋ ŋaŋêŋ, ôkêŋ taŋam aê êtu nêm biŋgêdêŋŋa.
 Ôkic nêm sakiŋwaga nê biŋ atom gebe aôm ôlic ŋamalac mata jali teŋ êtôm ŋac gêdêŋ atom.
 Ojae, ŋacjo tau kêjanda katuc. Eŋ kêku aê tulu jagaêc nom ma aê katôm êsêac, taŋ sêmac êndu su naŋ.
@@ -17897,13 +17897,13 @@ Lau embe sêsôm êndêŋ amac gebe “Awem ênac lau toŋalau geoc biŋ lasêŋ
 Êsêac embe sêsôm gebe “Dandêŋ biŋ, taŋ kêdôŋ to geoc lasê naŋ tana, nec atom,” oc sêlic gêu bôŋ atom biŋŋanôgeŋ.
 Êsêac oc sêlênsa êtôm gamêŋgeŋ tonêŋ ŋalêlôm ŋawapac ma mo êjô êsêac. Ma embe sêôc tôbôm, oc têntac êmbôli auc ma sêpuc boa nêŋ kiŋ to nêŋ Anôtô. Êsêac oc sêôc mateŋanô sa êpi undambê
 ma mateŋanô êsêp nom, mago sêlic gêŋwapac to ŋakesecgeŋ ma têtêc tauŋ ŋawaô êkôm êsêac auc ma seo sêmoa gêsuŋbôm ŋalêlôm. Mago êsêac, taŋ sêmoa totêtêc tauŋboa naŋ, oc sêŋgôŋ tokesec êtiam atom. Gêmuŋgeŋ eŋ gêbu gamêŋ Sebulon to Naptali, mago êtu ŋamu eŋ oc êŋgôm lau samuc nêŋ Galilaia, naŋ gêc bugêjactoŋ ŋalêndaŋ aŋga bu Jordan ŋamakeŋ ônêŋa naŋ, êtu gamêŋ towae. sêkac waba su sep tageŋ.
-
 Lau taŋ sêŋgôŋ gêsuŋbôm naŋ, sêlic ja kapôêŋ teŋ. Ma ŋawê kêpô êsêac, taŋ sêŋgôŋ gêmac ŋagamêŋ kanucŋa naŋ.
 Aôm kôkêŋ lau têtu taêsam ma gôgôm êsêac têntac ŋajam gêjam sêga. Êsêac sêmoa aôm laŋômnêmŋa toôliŋ kêpigeŋ têtôm lau, taŋ seŋ mo lasê naŋ, ma amboac lau, taŋ sêjac sam ŋacjonêŋ awamata.
 Gebe gêŋwapac ŋata, taŋ gêsac êsêac naŋ, ma tôc magiŋmŋa to nêŋ ŋac, taŋ kêlêsu êsêac naŋ, nê sêm naŋ aôm kôpôŋ tulu toc tageŋ amboac gêdêŋ Midiannê têm.
 Gebe siŋwaganêŋ atapa samob to nêŋ ŋakwê siŋŋa, taŋ dec gi auc naŋ, êsa ja ma êniŋ su.
 Gebe awê teŋ kêkôc ŋapalê teŋ kêtu aêacŋa, kêkêŋ latu teŋ gêdêŋ aêac gêmêŋ. Ŋagôliŋ gêsac eŋ magim ma sêsam eŋ gebe “Mêtêŋam, Laimôkê, Teŋgeŋŋam, Biŋmalôtau.”
 Ênê gôliŋ oc ênam sêga, ma biŋmalô oc ênêc teŋgeŋ aŋga Dawidnê lêpôŋ to nê gamêŋ kiŋŋa. Gebe eŋ oc ênac m ŋagôliŋ tau to êpuc tôŋ ŋa mêtôc gêdêŋ to biŋ gêdêŋ êndêŋ galoc ma endeŋ tôŋgeŋ. Lausiŋ undambêŋa nêŋ Apômtau nê ŋalêlôm kêkac eŋ, tec êŋgôm biŋ tonaŋ êtu tôŋ.
+
 
 
 
@@ -18953,8 +18953,7 @@ gebe aêacma tameŋi aôm. Abraham gêjam kauc aêac ma Israel kêjala aêac ato
 O Apômtau, amboac ondoc gôgôm aêac aôc aso nêm intêna. Amboac ondoc gôgôm aêacma ŋalêlôm ŋadani kêsa gebe atêc aôm atomŋa nec. Ômu ômôêŋ êtu nêm sakiŋwaga, taŋ têtu nêm gôlôaclênsêm naŋŋa.
 Lau alôb-alôb sêjaiŋ nêm lôm dabuŋ to aêacma ŋacjo sêka nêm gamêŋ dabuŋ popoc kêtu ageŋŋa.
 Aêac atôm lau, taŋ aôm gôjam gôliŋ êsêac atom naŋ, ma atôm lau, taŋ sêwê kaiŋ nêm ŋaê atom naŋ. lau-sêkawaga nêŋ kôm ŋagêdô sa. Lau saka wain ŋanô e popoc ma ŋatêkwi asa. Propete gêjam
-Ojae, ôkac undambê êŋgic ma ôsêp ômôêŋmaŋ, e lôc ŋawiwic êsa êkô aôm laŋômnêmŋa,
-amboac ja geŋ gab ma amboac ja gêgôm bu keletoc gebe êwaka nêm ŋaê sa êndêŋ nêm ŋacjo ma êŋgôm tenteŋlatu têtênêp sêkô aôm laŋômnêmŋa.
+Ojae, ôkac undambê êŋgic ma ôsêp ômôêŋmaŋ, e lôc ŋawiwic êsa êkô aôm laŋômnêmŋa, amboac ja geŋ gab ma amboac ja gêgôm bu keletoc gebe êwaka nêm ŋaê sa êndêŋ nêm ŋacjo ma êŋgôm tenteŋlatu têtênêp sêkô aôm laŋômnêmŋa.
 Aôm gôgôm gêŋsêga kaiŋ teŋ, taŋ taêŋ gêjam atom naŋ, ma kôsêp gômôêŋ e lôc ŋawiwic kêsa kêkô aôm laŋômnêmŋa.
 Lau teŋ sêŋô biŋ amboac tonaŋ ŋateŋ gêdêŋ gêmuŋgeŋ atom ma kêsô lau teŋ taŋeŋsuŋ atom ma lau teŋ mateŋanô sêlic anôtô teŋ, taŋ gêmoa gêwiŋ aôm ma gêjam kôm kêpi êsêac, taŋ sêôŋ eŋ naŋ atom.
 Aôm gôwê êsêac, taŋ sêgôm gêŋ gêdêŋ ma taêŋ gêjam nêm lêŋ sêmoa naŋ. Aôm têmtac ŋandaŋ gêdêŋ taŋ aêac agôm sec naŋ, ma aêac ali aweŋ sa gêdêŋ aôm wanêc-wanêc. Asa oc ênam sa.
@@ -18964,6 +18963,7 @@ Mago aêacma Tameŋi aôm, Apômtau. Aêac atôm nomku ma aôm kôtôm ŋac-kêp
 O Apômtau, têmtac ŋandaŋ êndêŋ aêac êlêlêc su atom ma taêm ênam aêacma sec endeŋ tôŋgeŋ atom. Ôlic ma taêm ênam acgom, aômnêm lau aêac samob.
 Nêm malac samob kêtu gamêŋ gasaŋ. Sion kêtu gasaŋ ma Jerusalem kêtaêŋ.
 Êsêac sêkêc aêacma lôm dabuŋ ŋajam, taŋ andaŋgeŋ tameŋmai sêlanem aôm sêmoa naŋ, ma sêjac gêŋ ŋajam samob, taŋ têntac gêwiŋ naŋ popoc.
+O Apômtau, aôm gobe ôŋgamiŋ taôm êndêŋ aêac ma ônam taôm tôŋ to ôkôniŋ aêac ŋanôgeŋ me.
 Apômtau kêsôm gebe “Aê kasaê êsêac, taŋ sêjam mateŋ sa êtu aêŋa atom naŋ, ma kasaê lau, taŋ sesom aê atom naŋ, gebe têtap aê sa. Aê kasôm gebe ‘Aê tec gamoa, aê tec gamoa’ gêdêŋ lau, taŋ aweŋ gêjac aê atom.
 Aê kamêtôc lemoc kêtôm bêc samuc gêdêŋ lau sêli tauŋ saŋa, taŋ sêsa nêŋ lêŋ alôb-alôb kêtôm tauŋ nêŋ kauc taêŋ gêjam naŋ.
 Ma sêgôm aê têtac ŋandaŋ kêsa ŋapaŋ tomajeŋ gêbacgeŋ. Êsêac sêkêŋ da aŋga nêŋ kôm ma gêŋ malu kêtu daja gêsac poc tiki-tiki, taŋ sêpac naŋ ŋaô.
@@ -19251,7 +19251,6 @@ Ma aê jaŋgamiŋ têtu samuc to têntac ŋajam ŋakicsêa ma ŋac-gebe-ênam-aw
 
 
 
-
 Aê kasôm gebe “Aê jabe jataŋ êtu lôcŋa ma ŋoc taŋiboa êsa êtu gamêŋ gêgwaŋ-gêgwaŋŋa gebe gêŋ tau ŋakeleŋ kêsa ma teŋ kêsêlêŋ kêsa gamêŋ tonaŋ gêja atom. Taŋô bulimakao ŋakicsêa kêtiam atom. Moc to bôc saleŋŋa sêc êliŋ-êliŋ sêja su.”
 Apômtau kêsôm gebe “Aê oc jatuc Jerusalem popoc êliŋ-êliŋ êtu lênduc, êtu kêambôm nêŋ gamêŋ. Ma janam Judanêŋ malac ôkwi êtu gamêŋ sawa, taŋ lau teŋ sêmoa atom naŋ.”
 Aê katu kênac gebe “Apômtau, kêtu asageŋŋa gamêŋ e popocgeŋ ma ŋakeleŋ amboac gamêŋ sawa ma ŋamalac teŋ kêsêlêŋ kêsa tonaŋ atom. Asa ŋac tokauc gebe êjala gêŋ tonaŋ. Aôm gôwa biŋ tau sa gêdêŋ asa gebe êsôm lasê êndêŋ lau ŋagêdô.”
@@ -19267,6 +19266,7 @@ Gebe gêmacanô tau kêsô aêacma andu ŋakatam sauŋ ma kêsô aêacma laumata
 Ôsôm gebe “Apômtau kêsôm amboac tonec gebe Launêŋ ŋawêlêlaŋ saliŋ-saliŋ gêjam gamêŋ aucgeŋ amboac bôcnê tac, taŋ sêpalip gêjam kôm auc. Ma amboac polom ŋanô, taŋ lau sêjaŋgowaga sêwi siŋ naŋ, ma lau teŋ sejoŋ sa atom.”
 Apômtau kêsôm gebe “Kwalam laŋgwa etoc tau sa êtu nê kaucŋa atom ma ŋac ŋactêkwa êtu nê ŋaclaiŋa gebe atom, ma ŋac tolêlôm êtu nê awaŋa atom.
 Embe teŋ taê ênam gebe etoc tau sa go etoc tau sa gebe gêlic to kêjala gebe Aê Apômtau gebe aêŋoc têtac gêwiŋ gêc gedeŋ tôŋgeŋ ma gêŋ, taŋ gagôm naŋ, gêdêŋ to solop. Gêŋ tonaŋ aê galic ŋajam. Aê, Apômtau tau, kasôm biŋ tonaŋ.”
+
 
 
 
@@ -21904,9 +21904,6 @@ Ma apômtau to gôliŋwaga ma kiŋ nê lau seŋeŋ sêkac tauŋ sa ma sêlic geb
 Go Nebukadnesar gêôc awa sa ma kêsôm gebe “Aê aoc gêôc Sadrak agêc Mesak ma Abednego nêŋ Anôtô. Eŋ kêsakiŋ nê aŋela ma gêjam nê sakiŋwaga, taŋ ôliŋ andaŋ eŋ to sêsô kiŋnê biŋ ŋalabu atom ma sebe sênam sakiŋ to sêpôŋ eŋduc êndêŋ anôtôi jaba nêŋ teŋ atom, sênam sakiŋ nêŋ Anôtô taugeŋ naŋ sa.
 Kêtu tonaŋŋa aê jasôm biŋ tonec êtu tôŋ gebe Lau teŋ me tenteŋlatu ma lau aweŋ teŋ-aweŋ teŋ embe sêsôm biŋ alôb-alôb êpi Sadrak agêc Mesak ma Abednego nêŋ Anôtô naŋ, oc sêkac êsêac ôliŋ êŋgic-êŋgic to têtuc nêŋ andu popoc gebe anôtô teŋ gêjam ŋamalac kêsi amboac Anôtô tonec gêmoa nec atom.”
 Go kiŋ kêwaka Sadrak agêc Mesak ma Abednego sa têtu apômtaui aŋga gamêŋ Babilon.
-
-
-
 Kiŋ Nebukadnesar nê biŋ tonec êndêŋ lau to tenteŋlatu ma lau aweŋ teŋ-aweŋ teŋ pebeŋ, taŋ sêmoa nom ŋagamêŋ samob naŋ, gebe “Biŋmalô ênam amac auc.
 Aê gabe janac miŋ gêŋsêga to gêŋtalô samob, taŋ Anôtô Lôlôc Ŋatau tau gêgôm gêdêŋ aê naŋ gebe
 “Nê gêŋsêga kaiŋ teŋ ma nê gêŋtalô kapôêŋanô. Nê gamêŋ kiŋŋa kêtu gamêŋ gêmoa teŋgeŋŋa teŋ ma nê ŋagôliŋ gêc gôlôac to gôlôac ŋêŋgeŋ gêja.
@@ -21941,6 +21938,9 @@ Biŋ taŋ kiŋ kêsôm kêsa naŋ, gêjac pep atom tageŋ ma awa teŋ kêsa aŋg
 Lau oc têtiŋ aôm su aŋga ŋamalacnêŋ ma oc ômoa ôwiŋ bôc gabuŋ. Aôm oc ôniŋ gêgwaŋ amboac bulimakao e têm ŋasawa 7 êmbacnê acgom, go nêm kauc êsa ma ôjala gebe Lôlôc Ŋatau tau gêjam gôliŋ ŋamalacnêŋ gamêŋ kiŋŋa ma gêjac sam gamêŋ kêtôm eŋ tau taê gêjam.”
 Ma biŋ tau gacgeŋ ŋanô kêsa kêpi Nebukadnesar. Lau têtiŋ eŋ su aŋga ŋamalacnêŋ ma eŋ geŋ gêgwaŋ amboac bulimakao, nop gênôm eŋ ma môkêlauŋ kêtu baliŋ kêtôm noniŋ ôlilu ma lêmakêku kêtu baliŋ kêtôm momboaŋ lêmakêku.
 “Aê Nebukadnesar gamoa e têm tau gêbacnê acgom, go gaôc matocanô sa kêpi undambê ma ŋoc kauc kêsa kêtiam. Aê kalanem Lôlôc Ŋatau tau ma kalambiŋ to katoc eŋ, taŋ gêmoa teŋgeŋ to teŋgeŋ naŋ, sa gebe Ênê gôliŋ oc ênêc teŋgeŋ to ênê gamêŋ, taŋ gêjam gôliŋ naŋ, oc ênêc teŋgeŋ e gôlôac togôlôac ŋêŋgeŋ êna.
+Lau nomŋa samob amboac gêŋôma ma eŋ gêgôm kêtôm taê gêjam gêdêŋ lau undambêŋa ma gêdêŋ ŋamalac nomŋa amboac tonaŋgeŋ. Ma ŋac teŋ kêtôm gebe êkô eŋ auc me êtu kênac eŋ gebe ‘Aôm gôgôm asageŋ’ nec atom.
+“Gêdêŋ têm tecênaŋgeŋ aêŋoc kauc ŋawa kêsa kêtiam ma ŋoc waec to ŋawasi amboac tonaŋgeŋ kêtu ŋoc gamêŋ ŋawaeŋa. Aêŋoc lau seŋeŋ to apômtaui sesom aê ma sêkêŋ aê katu kiŋ kêtiam ma ŋoc waec kêsa kêlêlêc gêmuŋŋa su.
+Galoc aê, Nebukadnesar, gabe jalanem to jalambiŋ ma jatoc kiŋ undambêŋa sa gebe eŋ gêgôm nê gêŋ samob jakêtôm ma nê gôliŋ jagêdêŋ. Êsêac taŋ tetoc tauŋ sa naŋ, eŋ oc êkôniŋ êsêac tôŋ.”
 Kiŋ Belsasar geno moasiŋ kapôêŋanô teŋ kêtu nê gôliŋwaga 1,000ŋa ma gênôm wain gêwiŋ lau 1,000 tonaŋ gêmoa êsêac laŋônêm.
 Wain kêjaŋiŋ Belsasar, tec kêjatu gebe sêkôc laclu gold to silber, taŋ eŋ tama Nebukadnesar kêkôc aŋga lôm dabuŋ Jerusalemŋa mêŋkêkô naŋ, sêmêŋ gebe kiŋ tau to nê laumata ma nê awêi to nêŋ aneŋio samob sênôm gêŋ êsêp.
 Tec sêkôc laclu gold to silber, taŋ sêjaŋgo su aŋga Anôtônê lôm dabuŋ Jerusalemŋa naŋ, gêmêŋ ma kiŋ tau to nê laumata ma nê awêi to nêŋ aneŋio samob sênôm gêŋ kêsêp laclu tau tonaŋ.
@@ -21971,6 +21971,7 @@ Biŋ tau ŋam amboac tonec ‘mene’ gebe Anôtô kêsa nêm bêc gôliŋŋa sa
 ‘Peres’ gebe Anôtô oc ênac nêm gamêŋ êŋgic ma êkêŋ êndêŋ lau Mede to Persia sêkôc.”
 Belsasar kêjatu ma sêkêŋ Daniel kêsô ŋakwê asôsamuc ma gênôŋ kapoacwalô gold. Go sêjam eŋ wae sa kêtu tapa gebe eŋ kêtu ŋac kêtu têlêacŋa aŋga gamêŋ kiŋŋa tonec.
 Gêdêŋ gêbêc tonaŋgeŋ sêjac Kaldeanêŋ kiŋ Belsasar êndu.
+Ŋac Medeŋa Darius kêjaŋgo ŋaclai gôliŋŋa su. Ênê jala 62.
 Darius gêlic ŋajam tec kêkêŋ gôliŋwaga sauŋ 120 sêjam gôliŋ nê gamêŋ samob.
 Go kêkêŋ lau tonaŋ ŋai sêsô gôliŋwagasêga têlêac ŋalabu. Gebe gôliŋwaga 120 tonaŋ sêwa nêŋ kôm ŋalêŋ samob sa êndêŋ lau têlêac gebe kiŋnê gêŋ teŋ ênaŋa atom. Ma lau têlêac tonaŋ nêŋ teŋ Daniel.
 Kiŋ ketoc Daniel sa kêlêlêc gôliŋwagasêga to gôliŋwaga sauŋ samob su gebe ênê ŋalêlôm mansaŋ kêlêlêc êsêac samob nêŋ. Tec kiŋ taê gêjam gebe êkêŋ eŋ taugeŋ ênam gôliŋ ênê gamêŋ samob.
@@ -21999,7 +22000,6 @@ Go kiŋ Darius keto papia teŋ gêdêŋ lau to tenteŋlatu ma aweŋ teŋ-aweŋ t
 Aê jasôm êtu tôŋ gebe aêŋoc lau pebeŋ têtênêp to têtêc tauŋ êndêŋ Danielnê Anôtô gebe eŋ Anôtô mata jaliŋa tau, naŋ gêmoa teŋgeŋ. Ênê gamêŋ oc êkô endeŋ tôŋgeŋ ma ênê gôliŋ ŋatêku masi.
 Gêjam kêsi ŋatau to gêjamsawaga eŋ, tec gêgôm gêŋtalô to gêŋsêga aŋga undambê to nom. Eŋ gêjam Daniel kêsi aŋga lewenêŋ ŋaclai.”
 Tec Daniel kêtu ŋac towae gêdêŋ Dariusnê têm gôliŋŋa e mêŋgêdêŋ Kirus aŋga Persia nê têm amboac tonaŋgeŋ.
-
 Gêdêŋ kiŋ Babilonŋa Belsasar nê gôliŋ ŋajala kêtu ŋamataŋa Daniel gêc mê to gêlic gêŋ ŋakatu gêdêŋ gêbêc. Go keto mê tau sa, taŋ gêc ŋabiŋ kêsêp papia amboac tonec
 “Aê Daniel, galic ŋakatu gêdêŋ gêbêc. Ma galic undambê ŋamutêna aclê gêli gwêcsawa sa.
 Ma bôcsêga kaiŋ aclê sêpi aŋga gwêc sêmêŋ.
@@ -22170,6 +22170,8 @@ Awê tau taê kêtiam ma kêkôc ŋapalêo teŋ. Ma Apômtau kêsôm gêdêŋ Ho
 Mago aê gabe taêc walô gôlôac Judaŋa ma aê, Apômtau, nêŋ Anôtô, gabe janam êsêac kêsi. Aê gabe janam êsêac kêsi ŋa talam to tubac ma ŋa siŋ to hos ma lau, taŋ sêŋgôŋ hos ŋaô naŋ atom.”
 Gêdêŋ taŋ Taêwalômêo gêwi su siŋ naŋ, Gomer taê kêtiam ma kêkôc ŋapalê ŋac teŋ.
 Ma Apômtau kêsôm gebe “Wê ênê ŋaê gebe ‘Ŋoc lau atom’ gebe amac Israel atu aêŋoc lau atom ma aê katu amacnêm Anôtô atom.”
+Mago lau Israelnêŋ namba oc êtôm gaŋac gwêcŋa, taŋ tanam dôŋ ma tasa sa daŋgôm êtôm atom naŋ. Ma aŋga gamêŋ, taŋ sêsôm gêdêŋ êsêac gebe “Aêŋoc lau atom” naŋ, oc sêsôm êndêŋ êsêac gebe “Anôtô mata jali latui amac.”
+Ma oc sênac lau Juda to lau Israelŋa sa sêpi tageŋ ma êsêac oc sêjaliŋ nêŋ laumata teŋ sa ma êsêac oc sêpi sêmêŋ aŋga gamêŋ tau gebe Jesrel ŋabêc oc êtu bêc kapôêŋanô.
 Amboac tonaŋ asam nêm lasitêwai gebe “Anôtônê lau” ma lômio gebe “Apômtaunê taê walô.”
 Ŋoc ŋapalêac, ateŋ tenemi kêsi-kêsigeŋ — akac tenemi gebe eŋ kêtu aêŋoc awê kêtiam atom ma aê katu ênê akweŋ kêtiam atom. Eŋ êwi nê mockaiŋo to êtu mandabŋa siŋ.
 Embe masi, go aê oc jakwalec ênê ŋakwê su e êkô ôli ŋaôma êtôm bêc, taŋ têna kêkôc eŋ naŋ. Aê oc jaŋgôm eŋ êtôm nom ŋakeleŋ to gasaŋ ma bu êjô eŋ êndu.
@@ -22193,8 +22195,6 @@ Aê oc janam aôm ŋaŋêŋgeŋ. Ma aôm oc ôjala gebe nêm Apômtau aê.
 Êndêŋ bêc tonaŋ aê oc jajô ŋoc lau Jesrel nêŋ mec teteŋŋa, ma jakêŋ kom ênac êsêp nom ma nom oc êkêŋ polom ŋanô ma wain ŋanô to katêkwi ŋanô.
 <range>
 Ma aê, Apômtau, jasê Jesrel êsêp nom gebe êtu aêŋoc gêŋ. Ma taêc walô awê “Taêwalômêo”, ma jasôm êndêŋ ŋac “Ŋoc lau atom” gebe” ŋoc Lau amac”, ma êsêac sêsôm gebe “Ma Anôtô aômgoc.”
-
-
 Apômtau kêsôm biŋ gêdêŋ aê gebe “Ôna êtiam ma têmtac êwiŋ awê teŋ, taŋ ênê akweŋ têtac gêwiŋ eŋ naŋ, mago gêgôm mockaiŋo. Têmtac êwiŋ eŋ êtôm aê, Apômtau, têtac gêwiŋ Israel gamoa. Israel tonaŋ sêjam tauŋ ôkwi gêdêŋ anôtôi ŋagêdô ma sebe sêkêŋ polom ŋakana ŋakeleŋ êndêŋ êsêac êtu da.”
 Amboac tonaŋ aê gajam ôli eŋ ŋa silber 15 ma polom ŋanô ŋadôŋ 7.
 Aê kasôm gêdêŋ eŋ gebe “Aôm ômoa ôwiŋ aê ŋasawa baliŋ ma ôtu mandab atom. Aôm ônêc ôwiŋ ŋac teŋ atomanô ma aê amboac tonaŋgeŋ.”
@@ -22348,6 +22348,7 @@ Kêtu ŋoc têtac ŋandaŋŋa aê kakêŋ kiŋ teŋ gêdêŋ amac ma kêtu ŋoc 
 Gabêsi mêŋgêô lasê kêtu eŋŋa, mago eŋ latu masi, gebe galoc eŋ gedec gebe êwi ŋaabêlôŋ siŋ.
 Aê oc janam êsêac kêsi êndêŋ lamboam atom. Jakac êsêac su aŋga ŋaclai gêmacanôŋa atom. Gêmacanô, nêm ŋaclai gêc ondoc. Lamboam, nêm ŋaclai onseŋ suŋa gêc ondoc. Aê taêc walô lau tonec êtiam atom.
 Epraim oc êtôp amboac siŋ, mago mu oc kêpiŋa oc êmêŋ, Apômtaunê mutêna oc êô lasê aŋga gamêŋ sawa, go êŋgôm ênê bumata êpa ma ênê bu ŋamôkê ŋakeleŋ êsa ma êjaŋgo awamata samob su aŋga ênê kanom.
+Samaria oc êôc nê ŋagêjô êtu gêli tau sa gêdêŋ nê Anôtôŋa. Siŋ oc enseŋ êsêac su. Oc sênac êsêacnêŋ ŋapalê ŋasec-ŋasec popoc ma sêsêlê lauo, taŋ sêmoa teŋ naŋ, nêŋ têntacwalô.”
 O Israel, ômu ôndêŋ Apômtau, aômnêm Anôtô, ôna gebe nêm sec gêgôm aôm gôjac taôm êndu.
 Ômu ôndêŋ Apômtau ôna ma ôkôc biŋ tonec êwiŋ. Ôsôm êndêŋ eŋ gebe “Ôsuc ma keso samob ôkwi gebe ŋalêlôm ŋajam êsa ma akêŋ aweŋsuŋ ŋalambiŋ êtu da êndêŋ aôm.
 Asuria ênam aêac sa atom. Aêac naapi aŋgôŋ hos ŋaô atom. Ma aêac oc asôm êndêŋ lemeŋ ŋakôm gebe ‘Aêacnêŋ Anôtô’ naŋ êtiam atom gebe aôm taômgeŋ taêm walô mosêbu.”
@@ -22357,7 +22358,6 @@ Aê oc jatôm maniŋ êndêŋ lau Israel. Nêŋ ŋaola ênac lêtêŋ amboac mê
 Êsêac oc sêmu sêmêŋ sêŋgôŋ aêŋoc ajuŋlabu êtiam. Êsêac oc têtôm amboac kôm ŋajam teŋ ma sênam ŋaola amboac kôm wainŋa teŋ. Ma nêŋ wain ŋanô êtu wain towae amboac wain Lebanonŋa.
 O lau Israel, aêagêc gwam ma asageŋ ŋagêdô gêdêŋ tauŋ. Aê taucgeŋ jajô aômnêm biŋ ma janam jaom aôm. Aê katôm ka, naŋ ŋalauŋ ŋamajaŋ ŋapaŋ ma nêm moasiŋ samob gêmêŋ aŋga aêgeŋ.”
 Asa kêtu ŋac tokauc gebe êjala gêŋ tonec. Asanê kauc kêsa gebe êlic gêŋ tonec. Apômtaunê intêna solop ma laugêdêŋ oc sêsa intêna tau, mago lau alôb-alôb oc sênac tauŋ êndu.
-
 Apômtaunê biŋ gêdêŋ Petuel latu Joel tau tonec.
 Amac lau ŋanôac, aŋô biŋ to amac lau gamêŋ tonecŋa, akêŋ taŋem. Amac alic gêŋsêga amboac tec teŋ ŋanô kêsa gêdêŋ amacnêm têm me gêdêŋ abeminêŋ têm me masi.
 Anac ŋamiŋ êndêŋ nêm gôlôac wakuc sêŋô. Êsêac sênac ŋamiŋ êndêŋ nêŋ wakuc ma elom-elom amboac tonaŋgeŋ êna.
@@ -22405,32 +22405,32 @@ Amac bôc sêŋamŋa, atêc taôm atom gebe gêgwaŋ ŋamêdôb kêpuc aŋga oba
 Aê jajô jala ŋakôm ŋanô, taŋ wagô tolêsôb-tolêsôb seŋ naŋ, wagô sêlôpŋa to ŋatêna kêsaŋa ma kêlêŋa têtu ŋoc siŋwaga ŋatoŋ kapôêŋ, taŋ kajatu gebe sênac siŋ sêndêŋ amac naŋ.
 “Amac oc aniŋ gêŋ e êôc amac tôŋ ma awem êôc Apômtau, nêm Anôtô, taŋ kêmoasiŋ amac ŋajam kêlêlêc naŋ, nê ŋaê, ma sêŋgôm ŋoc lau majeŋ êsa êtiam atom.
 Amac oc ajala gebe aê gamoa Israel ŋalêlôm ma aê Apômtau taucgeŋ katu nêm Anôtô ma sêŋgôm ŋoc lau majeŋ êsa êtiam atomanô.
+“Go êndêŋ têm teŋ acgom oc jakêc ŋoc Ŋalau êpi ŋamalac pebeŋ ma latômio to ŋac seoc biŋ lasê to nêm lau ŋanô oc sênêc mê ma nêm ŋacseŋomi oc sêlic gêŋ ŋakatu.
+Êndêŋ bêc tônê oc jakêc ŋoc Ŋalau êpi sakiŋwagao to ŋac amboac tonaŋgeŋ.
+“Oc jakêŋ gêŋsêga êsa umboŋ ma aŋga nom, dec to ja ma ja ŋatêtac.
+Oc oc ênam kanuc ma ajôŋ oc êtôm dec su acgom, go Apômtaunê bêc kapôêŋ to ŋaclai kaiŋ teŋ tau oc mêŋêsa.
+Ma ŋamalac samob, taŋ aweŋ ênac Apômtaunê ŋaê naŋ, eŋ oc ênam êsêac kêsi êndêŋ-êndêŋgeŋ, gebe lau, tê sêwê gêŋwapac sa nê, oc sêŋgoŋ lôc Sion to Jerusalem, ma lau, tê Apômtau êkalem êsêac naŋgeŋ sêmoa mateŋ jali êtôm Apômtau gêjac mata nê.
 “Alic acgom, êndêŋ taŋ jawaka Juda to Jerusalem sa naŋ, êndêŋ bêc to ŋasawa tônê
 aê oc jakalem tenteŋlatu samob sêpi tageŋ ma jawê êsêac sêsêp gaboaŋ Josapat sêna, gebe jamêtôc êsêac aŋga tônê êtu gêŋ samob, taŋ sêgôm gêdêŋ aêŋoc lau to ŋoc gêŋlênsêm Israelŋa, gebe sêjam êsêac êliŋ-êliŋ sêmoa tenteŋlatu ŋasawa ma sêjac sam aêŋoc nom gêdêŋ tauŋ.
 Êsêac sêpuc kapoac kêtu ŋoc lauŋa ma sêkêŋ ŋapalê gêjô awê mockaiŋo ma sêkêŋ ŋapalêo lau sêjam ôli ŋa wain, taŋ êsêac tauŋ sênôm naŋ.
 “Ma amac lau Tirus to Sidon ma Pilistia nêŋ gamêŋŋa samob, aêacnêŋ asageŋ ŋagêdô gêdêŋ tauŋ. Amac abe akêŋ ŋagêjô êndêŋ aê êtu gêŋ teŋŋa me. Embe akêŋ ŋagêjô êndêŋ aê, go janam nêm ŋagêjô ôkwi wacêtap amac taôm môkêmapac sa weŋ tageŋ.
 Gebe amac ajaŋgo ŋoc silber to gold su ma ajoŋ ŋoc awamataêjam kêsô nêm lôm gwam gêja.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ma akêŋ lau Juda to Jerusalem gêdêŋ lau Helen sêjam ôli gebe sejoŋ êsêac sêna e sêmoa jaêc nêŋ gamêŋ ŋamadiŋ.
+Alicgac me, galoc tec jaôc êsêacnêŋ ŋalêlôm gebe sêndi aŋga gamêŋ, taŋ amac atulu êsêac sêja naŋ, ma gêŋ amac agôm naŋ, ŋagêjô wacêtap amac taôm môkêmapac sa.
+Aê oc jakêŋ latômio to ŋac sêndêŋ lau Juda sênam ôli nasêsêp êsêac lemeŋ, ocgo ac sêkêŋ êsêac sêndêŋ lau Sabea, tê sêŋgôŋ jaêcsêga nê, sênam ôli êsêac. Biŋ tec Apômtau kêsôm.
+“Asôm biŋ tonec êtu tapa aŋga lau tenteŋlatu nêŋ gebe ‘Amansaŋ taôm êtu anac siŋŋa. Ajatu lau siŋsêlêc sa. Akêŋ siŋwaga sêmêŋmaŋ samob sêpi tageŋ.
+Apa nêm sakweŋ ôkwi êtu siŋ to anam lêŋgêc ôkwi êtu kêm. Ŋac ômbôêŋ-ômbôêŋ êsam tau gebe “Aê ŋactêkwa teŋ.”
+Amac tenteŋlatu, taŋ aŋgôŋ agi aêac auc naŋ, andi ŋagaôgeŋ, naakac taôm sa aŋga tônêmaŋ.’” O Apomtau, ôwê nêm lausiŋ sêsêp tônê sêna.
+“Tenteŋlatu sêndimaŋ. Ma êsêac sêwê sêna gaboaŋ Josapat gebe aŋga tônê aê oc jaŋgôŋ ma jamêtôc tenteŋlatu samob, taŋ sêŋgôŋ sêjam aucgeŋ naŋ.
+Akêŋ bôjaŋ jalô êna gebe kôm ŋanô gêmêc e kêtu masê su. Asô anamaŋ, aka wain, taŋ kêsêp toŋtoŋ e mêŋgêc su naŋ. Ma ŋatêkwi êsêp gasuc e mêŋêc amboac tonaŋ e wain êkêc gebe nêŋ sec gêjam sêga.
+“Lau totoŋ-totoŋ sêmoa gaboaŋ mêtôcŋa gebe Apômtaunê bêc kêdabiŋgac aŋga gaboaŋ mêtôcŋa.
+Oc to ajôŋ sêjam kanuc ma utitalata sêgamiŋ ŋawê.”
+Ma Apômtau awa ŋadindiŋ kêsa aŋga Sion. Apômtau gêmôêc biŋ awa kapôêŋ aŋga Jerusalem ma umboŋ to nom ŋawiwic. Mago Apômtau kêtu nê lau nêŋ lamu teŋ ma lau Israel nêŋ tuŋtêna teŋ eŋ.
+“Ocgo ajala gebe Apômtau, nêm Anôtô aê, tec gaŋgôŋ ŋoc lôc dabuŋ Sion nec, aê taucgoc. Ma Jerusalem oc êtu gamêŋ dabuŋ ma lau jaba teŋ oc sêsêlêŋ sênac malac êŋgic êtiam atomanô.
+“Ma êndêŋ bêc tônê wain oc enseleŋ aŋga lôc ma su êsêp aŋga gamêŋ ŋabau ma bu enseleŋ êtôm Judanêŋ bumaŋ samobgeŋ. Ma bumata teŋ êpulu êpi aŋga Apômtaunê andu ma êmalôm gaboaŋ Sitim.
+“Gamêŋ Aiguptuŋa oc êtu gasaŋ ma gamêŋ Edomŋa oc ŋagêlêŋ êsa êtu gêŋ alôb-alôb, taŋ sêgôm gêdêŋ lau Juda naŋŋa gebe sêkêc biŋ-masiwaganêŋ dec siŋ aŋga nêŋ gamêŋ.
+Ma lau sêŋgôŋ gamêŋ Juda endeŋ tôŋgeŋ ma gôlôac oc sêjô-sêjô tauŋ aŋga Jerusalem ŋapaŋ.
+Aê oc jakêŋ ŋagêjô êjô êsêacnêŋ dec ma sêwê-biŋ-ŋakaiŋwaga teŋ êwê sa atom gebe Apômtau oc êŋgôŋ lôc Sion.”
 Amosnê biŋ tau tonec. Eŋ gejobwaga dombaŋa nêŋ teŋ aŋga malac Tekoa. Ôjô gêjam atomgeŋ ma eŋ gêlic biŋ tau gêdêŋ Judanêŋ kiŋ Usia agêc Israelnêŋ kiŋ Joas latu Jerobeam nêŋ têm e ŋajala luagêc gêja, go ôjô gêjam.
 Ma eŋ kêsôm gebe “Apômtau gêjam wambaŋ aŋga Sion to kêkac awa sa aŋga Jerusalem e gejobwaga dombaŋa nêŋ gamêŋ ŋagêgwaŋ kêsêlic to lôc Karmel ŋatêpôê kêmêliŋ.”
 Apômtau kêsôm biŋ tonec gebe “Aê oc jawi Damaskusnêŋ keso têlêac me aclêŋa ŋagêjô siŋ atom, gebe êsêac sêlêsa Gilead popoc to sêlêsu êsêac.
@@ -22614,6 +22614,7 @@ Lau sêŋô biŋ tau, mago sêsaê sebe sêsô bau sêna êtiam, tec segolem ŋa
 Go aweŋ gêjac Apômtau ma sêsôm gebe “O Apômtau, aêac ateŋ aôm gebe ondec aêac e ambac anaŋa êtu ŋac tonecŋa nec atom ma ôkêŋ aêac awê ŋac tobiŋmê teŋ nê dec ŋakaiŋ atom, gebe aôm, Apômtau, gôgôm kêtôm gôlic gêjac matamanô.”
 Go sêkôc Jona tôŋ ma sêbaliŋ eŋ kêsêp gwêc gêja, go gwec kêtu malô.
 Go lau têtêc Apômtau ŋanô-ŋanô ma sêkêŋ da gêdêŋ Apômtau ma sêjac mata biŋ gêdêŋ eŋ.
+
 Ma Apômtau kêkêŋ i kapôêŋ teŋ gebe êndaŋgôŋ Jona. Ma Jona gêmoa i têtaclêlôm geleŋŋa têlêac ma gêbêcauc têlêac.
 Go Jona keteŋ mec gêdêŋ nê Apômtau Anôtô gêŋgôŋ i têtaclêlôm
 ma kêsôm gebe “Aê kapô lêna tau ŋanô ma aoc gêjac Apômtau, tec eŋ kêkêŋ taŋa aê. Aê gamôêc aŋga lamboam ŋalêlôm ma aôm gôê taŋam aê aoc.
@@ -22624,7 +22625,6 @@ aŋga lôc ŋanombaŋ tau. Kasêp nom ŋalêlôm gaja ma ŋakatam ŋajaŋa kêsa
 Gêdêŋ taŋ katuc kêpô lêna tau êndu-êndu naŋ, aê taêc gêjam Apômtau, ma ŋoc mec gêdêŋ aôm kêsô nêm lôm dabuŋ gêwac.
 Êsêac taŋ sêsap gwam ŋaôma tôŋ naŋ, sêwi nêŋ lamuanô tau siŋ.
 Mago aê nec jakêŋ-da êndêŋ aôm todaŋgegeŋ. ma biŋ, taŋ gajac mata naŋ, gabe jaŋgôm ŋanô êsa. Apômtau eŋ gêjam sa ŋamôkê.” Ma Apômtau kêjatu i jagêluc Jona kêpi bau gêja.
-
 Go Apômtaunê biŋ gêdêŋ Jona kêtu dim luagêcŋa gebe
 “Ajôc, ôndi ôna malac kapôêŋ Niniwe ma ôsôm biŋ, naŋ oc jasôm êndêŋ aôm naŋ, lasê êndêŋ êsêac.”
 Ma Jona gêdi gêja Niniwe kêtôm Apômtau kêsakiŋ eŋ naŋ. Ma Niniwe tau malac kapôêŋanô sec teŋ, tasêlêŋ oc samuc têlêac aŋga malacgêdô oc kêsêpŋa e tasa malacgêdô oc kêpiŋa.
@@ -22700,7 +22700,6 @@ O Sion latuo, ŋandaŋ êmônaŋ aôm ma ôtaŋ êtôm awê, taŋ ŋapalê kêtu
 Galoc lau-m taêsam sêkac sa sebe sênac siŋ êndêŋ aôm. Êsêac sêsôm gebe “Daŋgôm ênê dabuŋ paliŋ e Sion ŋapopoc ênac mateŋanô ŋajam.”
 Mago êsêac sêjam kauc biŋ, taŋ Apômtau taê gêjam naŋ. Êsêacnêŋ kauc kêsa kêpi biŋ, taŋ eŋ kêmasaŋ gebe êŋgôm ŋanô êsaŋa naŋ, atom. Eŋ kejoŋ êsêac sa amboac sêjac lagic polom toŋakaiŋ, gebe sêkôc sêna sêka polom ŋamala.
 O Sion latuo, ôndi ma ôka polom, gebe aê jakêŋ jabo ki to ampoap ki joŋjoŋ êndêŋ aôm. Aôm oc ôka lau-m taêsam popoc ma ôkêŋ êsêacnêŋ waba êtu da êndêŋ Apômtau to êsêacnêŋ awamata êndêŋ nom samuc ŋatau.
-
 Galoc tuŋbôm kêkwa aôm auc ma ŋacjo sêgi aôm auc. Êsêac si Israelnêŋ gôliŋwaga alianô ŋa tôc.
 Mago aôm Betlehem Eprata, aôm gôlôac Judaŋa nêŋ toŋ sauŋanô teŋ, aêŋoc ŋac, taŋ êtu Israelnêŋ gôliŋwaga naŋ, mêŋêsa aŋga aôm. Ênê ŋam kêsêp têm laŋgwaanô to bêc andaŋgeŋŋa.
 Kêtu tonaŋŋa Apômtau oc êwi êsêac siŋ e êndêŋ têm, taŋ awê tau, taŋ ŋapalê kêtuŋ eŋ naŋ, êkôc ŋapalê su. Go ŋapalênê lasitêwai ŋagêdô oc sêmu dêndêŋ Israel latui sêmêŋ êtiam.
@@ -22715,6 +22714,7 @@ Aê oc janseŋ malac kapôêŋ su aŋga nêm gamêŋ ma jaku nêm malac ŋajaŋa
 Aê oc janseŋ nêm mectomaŋ su aŋga amac lemem ma nêm lau-seoc-biŋ-lasêwaga oc maleŋmê.
 Aê oc janseŋ nêm gwam to nêm alê gwam su aŋga amac ŋalêlôm ma apôŋ emduc êndêŋ lemem ŋakôm êtiam atom.
 Aê oc jambuc nêm anôtôonê ŋakatu sa ma janseŋ nêm malac kapôêŋ su.
+Ma aê oc jamêtôc tenteŋlatu samob, taŋ sêkêŋ taŋeŋ aê atom naŋ, toŋoc têtac ŋandaŋ ma totêtac êmbôli aucgeŋ.”
 Akêŋ taŋem biŋ, taŋ Apômtau kêsôm naŋ, gebe Ajôc, ôkô lôc ŋalabu ma ôwa nêm biŋ samaŋ, ma gamêŋ ŋabau êŋô aôm awam.
 O lôcac to amac nom ŋaalê teŋgeŋŋa, akêŋ taŋem Apômtaunê biŋ mêtôcŋa, gebe Apômtaunê biŋ teŋ gêc nê lauŋa, gebe êmêtôc Israel.
 “O ŋoc lauace, aê gagôm asageŋ gêdêŋ amac, aê kalênsôŋ amac amboac ondoc. Ajô aê aocmaŋ.
@@ -22971,14 +22971,14 @@ Lausiŋ undambêŋa nêŋ Apômtau kêsôm gebe Êndêŋ bêc tonaŋ aê oc jak�
 
 
 
+
+
+
+
 Sion latuo, ônam lasê to têmtac wapigeŋ gebe aê oc wacjaŋgôŋ aôm ŋaluŋ. Apômtau kêsôm amboac tonaŋ.
 Êndêŋ bêc tônê tenteŋlatu gwalêkiŋ oc sêmbiŋ tauŋ tôŋ dêndêŋ Apômtau ma têtu aêŋoc laugeŋ, ma wacsêŋgôŋ aôm ŋaluŋgeŋ.
 Ocgo ôjala gebe lausiŋ undambêŋa nêŋ Apômtau kêsakiŋ aê gawac. Ma Apômtau oc êkôc lau Juda sa têtu ênê gêŋlênsêm sêmoa gamêŋ dabuŋ ma êjaliŋ Jerusalem tau sa êtiam.”
 Ŋamalac pebeŋ sênam tauŋ tôŋ jamaŋgeŋ sêkô Apômtau laŋônêm gebe eŋ gêdi aŋga gamêŋ dabuŋ taugoc.
-
-
-
-
 
 
 
@@ -23205,12 +23205,12 @@ Tec aêac talanem tetoc-tauŋ-sawaga gebe lau sec têtap kôm ŋanôgeŋ sa atom
 Go lau, taŋ têtêc Apômtau naŋ, sêjam biŋgalôm gêdêŋ tauŋ. Ma Apômtau kêkêŋ taŋa ma gêŋô biŋ, taŋ êsêac sêsôm naŋ. Ma teto lau, taŋ têtêc Apômtauŋa ma tetoc eŋ sa naŋ, nêŋ ŋaê kêsêp buku teŋ sêkô eŋ laŋônêmŋa.
 Lausiŋ undambêŋa nêŋ Apômtau kêsôm gebe “Êsêac oc têtu ŋoc lau. Êndêŋ bêc, taŋ aê jakêŋ naŋ, êsêac oc têtu aê tauc ŋoc gêŋ. Ma aê taêc walô êsêac êtôm tama, taŋ taê walô nê latu, taŋ gêjam sakiŋ eŋ naŋ.
 Êndêŋ tonaŋ amac oc alic êtiam gebe asageŋ gêwa ŋac gêdêŋ ma ŋac alôb-alôb to ŋac, taŋ gêjam sakiŋ aê ma teŋ, taŋ gêjam sakiŋ aê atom naŋ gêŋgic.”
-
-
-
-
-
-
+“Alicgac me, bêc tau oc êmêŋ, naŋ tetoc-tauŋ-sawaga to sêgôm secwaga samob ja oc êniŋ êsêac amboac oba. Êndêŋ bêc tonaŋ ja oc êniŋ êsêac su e nêŋ ŋawakac to ŋalaka ŋapopoc malamê samucgeŋ. Lausiŋ undambêŋa nêŋ Apômtau kêsôm biŋ tonaŋ.
+Mago amac, taŋ atêc aêŋoc ŋaê naŋ, ŋoc ŋaclai ênam kêsiŋa oc êpô amac amboac oc ma oc ŋawê êŋgôm amac ôlim ŋajam êsa. Amac oc amboaŋ to amoa ŋajam amboac bulimakao ŋalatu wakuc, taŋ sêsa aŋga sapa naŋ.
+Êndêŋ bêc aê jaŋgôm tonaŋ ŋanô êsaŋa amac oc aka lau alôb-alôb tôŋ gebe êsêac têtôm wao, taŋ gêc aŋga emtapa ŋalabu. Lausiŋ undambêŋa nêŋ Apômtau kêsôm biŋ tonaŋ.
+“Taêm ênam biŋ, taŋ ŋoc sakiŋwaga Mose kêdôŋ naŋ. Biŋsu to ŋagôliŋ, taŋ kakêŋ gêdêŋ eŋ aŋga lôc Horeb (Sinai) kêtu lau Israel samobŋa naŋ.
+“Alic acgom, aê oc jasakiŋ propete Elia êndêŋ amac êmuŋ Apômtaunê bêc kapôêŋ to ŋawapac kaiŋ teŋ êwac.
+Eŋ oc ênam tameŋi nêŋ ŋalêlôm ôkwi êndêŋ nêŋ ŋapalê, ma ŋapalênêŋ êndêŋ tameŋi. Embe masi, aê oc jawac ma japuc boa amacnêm gamêŋ.”
 Abraham latu Dawid nê latu Jesu Kilisi nê ŋam ŋabuku tonec.
 Abraham kêka Isak lasê, Isak kêka Jakob lasê, Jakob kêka Juda to lasitêwai lasê,
 Juda kêka Peres agêc Sera lasê, Tamar kêkôc êsêagêc, Peres kêka Hesron lasê, Hesron kêka Aram lasê,
@@ -27691,7 +27691,7 @@ Biŋ tau tonec gêc awê, tasôm biŋ taêsam atom. Amboac tonaŋ nêm ŋalêlô
 Amac awê ŋac luagêc tônê amêŋ, mago êsêagêc sêjaŋgo gêŋ teŋ aŋga lôm atom ma sêsôm biŋ alôb-alôb teŋ kêpi aêacnêŋ anôtôo atom.
 Ma Demetri to nê kômwaga embe nêŋ biŋ êndêŋ ŋac teŋ ênêc, naŋ noc sêmêtôc biŋŋa gêc ma gôliŋwaga semoa, tec sêwaka tauŋ samaŋ.
 Ma embe nêm biŋ ŋagêdô ênêc, naŋ amansaŋ êndêŋ lau malacŋa nêŋ noc sêkac saŋa.
-Ocsalô tonec aêac tawê biŋ talênsôŋ lauŋa ŋakaiŋgoc, gebe aêac tali tauŋ sa nec ŋam teŋ gêc atom, tec tatôm gebe dawa tau ŋ sa êtôm atom.”
+Ocsalô tonec aêac tawê biŋ talênsôŋ lauŋa ŋakaiŋgoc, gebe aêac tali tauŋ sa nec ŋam teŋ gêc atom, tec tatôm gebe dawa tau ŋ sa êtôm atom.” Kêsôm tonaŋ su ma kêkêŋ lau sêc êliŋ-êliŋ.
 Biŋ kêtu malô acgom, go Paulu kêkac ŋacseŋomi sa ma gêlêŋ biŋ êsêac to kêkam êsêac lemeŋ ma gêdi gêja Makedonia.
 Eŋ gêjac laoc gamêŋ tonaŋ ma gêlêŋ biŋ êsêac ŋa biŋ taêsam e jakêsa Helennêŋ gamêŋ.
 Gêmoa e ajôŋ têlêac gêjaŋa ma gebe êpi waŋ êna Suria, tec kêtap sa gebe Judawaga dêdib eŋ. Amboac tonaŋ taê gêjam kêtu tôŋ gebe êsa Makedoniaŋageŋ êmu êna êtiam.

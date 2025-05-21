@@ -926,6 +926,7 @@ Te phoeiah Laban loh Jakob te, “Lungkuk he khaw kaam he khaw ne, te ni kai lak
 Boethae ham khaw hekah lungkuk neh kaam he tah kai loh nang taengla hekah lungkuk kan poeng pawt ham neh nang khaw kai taengla na poe pawt ham hekah lungkuk neh kaam he laipai la om saeh.
 Abraham kah Pathen neh Nakhaw kah Pathen, a napa kah Pathen loh mamih laklo ah laitloek uh saeh,” a ti nah. Te phoeiah Jakob loh a napa Isaak kah birhihnah neh a toemngam.
 Te dongah Jakob loh tlang ah hmueih a nawn phoeiah buh ca la amah huiko te a khue. Buh a caak uh phoeiah tlang ah rhaeh uh.
+Laban te mincang ah thoo tih a ca rhoek neh a canu rhoek te a mok. Te phoeiah amih te yoethen a paek. Te phoeiah cet tih Laban khaw amah hmuen la mael.
 Tedae Jakob loh amah longpuei ah a caeh hatah anih te Pathen kah puencawn rhoek a doe uh.
 Tedae Jakob loh amih te a hmuh vaengah, “Hekah he Pathen kah rhaehhmuen ni,” a ti tih tekah hmuen ming te Mahanaim a sui.
 Te phoeiah Jakob loh Edom kho, Seir khohmuen la a maya Esau taengah a hmai la puencawn rhoek te a tueih.
@@ -958,7 +959,6 @@ Te phoeiah Jakob loh a dawt tih, “Na ming te thui lah,” a ti nah hatah, “K
 Te dongah Jakob loh, “Pathen maelhmai te a hmai lamloh hmuh coeng dae ka hinglu huul uh,” a ti dongah tekah hmuen ming te Peniel a sui.
 Tedae Penuel te a poeng vanneh a soah khomik thoeng. Anih khaw a hlit dongah cungdo phai.
 Te dongah Israel ca rhoek loh a hlit dongkah tharhui thanal te tihnin due ca uh pawh. Jakob kah tharhui thanal ah aka om a hlit te a koi pah coeng.
-
 Te vaengah Jakob loh a mik huel tih a sawt hatah Esau neh a taengkah hlang ya li te tarha a pawk pah. Te dongah camoe rhoek te Leah taengah khaw, Rakhel taengah khaw, a imom rhoi taengah a rhek.
 Te phoeiah salnu rhoek neh amih kah a ca rhoek a lamhma sak tih Leah neh a rhoek loh a hmaithawn. Rakhel neh Joseph te lamhnuk la a khueh.
 Te phoeiah amah te amih hmai la cet tih a maya taeng a pha due diklai la voei rhih bakop.
@@ -1709,10 +1709,6 @@ Tedae Egypt hmayuep rhoek long khaw a tuisiduei neh a saii uh van. Te dongah Pha
 Pharaoh te mael tih amah im la a pawk phoeiah tah he he a lungbuei ah dueh pawh.
 Sokko tui te ok ham a coeng pawt dongah, ok ham tui te Egypt pum loh sokko kaepvai ah a too.
 BOEIPA loh sokko a ngawn te ahnukah hnin rhih a cup sak.
-
-
-
-
 Te phoeiah BOEIPA loh Moses te, “Pharaoh taengah cet lamtah anih te, 'BOEIPA loh ka pilnam te hlah lamtah kai taengah thothueng saeh,’ a ti.
 Tedae hlah ham na aal atah na khorhi boeih ah bukak kan yok sak coeng ne.
 Bukak te sokko ah kah vetih ha luei ni. Te vaengah na im khui neh imhman kah na thingkong dongah, na baiphaih dongah, na sal im khui neh na pilnam soah, na tapkhuel khui neh na vaidambael khuila kun ni.
@@ -1741,6 +1737,10 @@ Te phoeiah Pharaoh loh Moses neh Aaron te a khue tih, “Cet uh lamtah khohmuen 
 Tedae Moses loh, “Egypt kah tueilaehkoi dongah he he saii ham a thuem moenih. Kaimih kah Pathen BOEIPA ham ka nawn uh vaengah Egypt lamkah tueilaehkoi te ka nawn uh koinih amih mikhmuh ah kaimih n'dae uh mahpawt nim?
 Kaimih n'uen bangla hnin thum long caeh kah khosoek ah kaimih kah Pathen BOEIPA te ka nawn uh eh,” a ti nah.
 Te phoeiah Pharaoh loh, “Kai loh nangmih kan hlah bitni , khosoek ah na Pathen BOEIPA te nawn tangloeng. Tedae a hla, hla la cet uh boel lamtah kai ham khaw thangthui uh,” a ti nah.
+Te vaengah Moses loh, “Nang taeng lamloh ka nong vetih BOEIPA taengah ka thangthui bitni. Pil khaw Pharaoh neh a sal rhoek taeng lamloh, a pilnam taeng lamloh thangvuen ah nong bitni ne. Tedae Pharaoh te omsaa ham koei boel saeh, pilnam te BOEIPA taengah nawn hamla tueih pawt ve,” a ti nah.
+Te phoeiah Moses te Pharaoh taeng lamloh nong tih BOEIPA taengah thangthui.
+Moses kah ol bangla BOEIPA loh a saii dongah pil te Pharaoh taeng lamkah neh a sal rhoek taeng lamloh, a pilnam taeng lamloh nong tih pakhat khaw om pawh.
+Tedae tahae tue ah khaw Pharaoh te a lungbuei a thangpom tih pilnam te tueih pawh.
 BOEIPA loh Moses te, “Pharaoh taengah cet lamtah anih te thui pah. Hebrew kah Pathen Yahweh loh he ni a thui. Ka pilnam te hlah lamtah kai ham thothueng uh saeh.
 Tedae hlah ham na aal tih amih te na yuengyet pueng atah,
 BOEIPA kut te lohma kah na boiva soah, marhang soah, laak soah, kalauk soah, saelhung soah tla vetih boiva dongah duektahaw la muep tlung ne.
@@ -2112,7 +2112,6 @@ Hlang loh tangrhom khaw a ong tih hlang loh rhom khaw a vueh vaengah te te muek 
 Tangrhom kungmah loh thuung saeh lamtah a boei te tangka la mael saeh. Tedae aka duek te anih hut la om saeh.
 Hlang pakhat kah vaito loh a hui kah vaito te a si tih a duek atah vaito hing te yoi rhoi saeh lamtah a tangka te tael uh rhoi saeh. Te phoeiah aka duek te khaw tael uh rhoi saeh.
 Tedae hlaem hlavai ah khaw vaito kah a toh noek te a ming lalah a kungmah loh te te a khoem pawt atah vaito yueng te vaito neh thuung rhoe thuung saeh lamtah aka duek te anih hut la om saeh.
-
 Hlang loh vaito khaw, tu khaw a huen tih a ngawn akhaw, a yoih akhaw vaito ham te saelhung panga neh tu ham boiva pumli neh thuung saeh.
 Umlawt ah hlanghuen a hmuh tih a boh vaengah a duek atah a taengah thii kap boel saeh.
 Khomik a thoeng atah a soah thii kap saeh lamtah aka huen loh sah rhoe sah saeh. A khueh pawt atah a huen dongah amah khaw yoi uh saeh.
@@ -2143,6 +2142,7 @@ A himbai khaw te kah himbai bueng ni a vin sokah a himbai dongah metlam a yalh e
 Pathen te thaephoei boeh, na pilnam sokah khoboei khaw thaephoei thil boeh.
 Na thaihhmin neh na tuihuem khaw hloh thil boeh, na ca caming khaw kamah taengla m'pae.
 Na vaito taeng neh na boiva taengah khaw saii tangloeng. Hnin rhih khuiah a manu neh om saeh lamtah hnin rhet dongah tah kamah taengla m'pae.
+Kamah taengah hlang cim la om uh laeh. Khohmuen kah saha saa khaw ca uh boeh. Te te ui ham voeih pah.
 A poeyoek kah olthang khuen boeh. Kuthlahnah kah laipai la om ham halang neh na kut hlaengtang boeh.
 Boethae dongah tah hlangping hnuk khaw om boeh. Kaengyai taengah hlangping neh kaengyai ham tuituknah dongah doo boeh.
 Tattloel long khaw a tuituknah dongah n'hiin boel saeh.
@@ -2848,13 +2848,6 @@ Hmuencim dongah lai a hmuh te a sah phoeiah panga neh thap saeh lamtah khosoih t
 Hinglu pakhat loh BOEIPA olpaek khat khat khuikah saii pawt koi te pakhat khaw a saii tholh coeng dae a boe te khaw a ming pawt atah amah kathaesainah te phuei van saeh.
 Te vaengah a phu aka ting boiva khuikah tutal a cuemthuek te khosoih taengah hmaithennah la khuen saeh. Te daengah ni anih loh ming pawt tih tohtamaeh la a taengphael te khosoih loh anih ham a dawth pah vetih anih te khodawk a ngai eh.
 He tah a boe, a boe vaengah BOEIPA taengkah a saii hmaithennah ni,” a ti nah.
-
-
-
-
-
-
-
 Te phoeiah Moses te BOEIPA loh a voek tih,
 “Hinglu pakhat loh tholh tih BOEIPA taengah boekoeknah la boe a koek mai ni. Te vaengah, hnokhueh neh hnohol kawng dongah a imben taengah a basa atah, huencannah neh amah imben a hnaemtaek atah,
 hnohma khaw a hmuh lalah basa tih hlang taengkah a saii boeih khuikah pakhat mai neh a honghi la a toemngam dongah tholh mai thai
@@ -2878,6 +2871,13 @@ Tahae kah nawnnah dongah Aaron neh anih koca rhoek loh khocang vaidam, cangnoek 
 Tekah khocang te thiphael dongah situi neh saiisaeh. A kae phoeiah a nuei kamat te khuen lamtah BOEIPA taengah hmuehmuei botui la nawn saeh.
 Te vaengah a koelh tangtae khosoih neh amah koca rhoek khuikah a hnukthoi loh saii saeh. BOEIPA ham kumhal kah buhvae la boeih phum saeh.
 Tedae khocang boeih he rhuemtuet la om saeh lamtah khosoih loh ca boel saeh,” a ti nah.
+BOEIPA loh Moses te a voek tih,
+“Boirhaem tah BOEIPA mikhmuh ah a cim tih a cim tangkik dongah Aaron neh anih koca rhoek te voek lamtah hmueihhlutnah a ngawn nah hmuen ah boirhaem a ngawn vaengkah olkhueng he thui pah.
+Laihmuh saa he khosoih loh hmuen cim ah ca saeh lamtah tingtunnah dap vongup ah ca saeh.
+Tekah a saa aka ben boeih loh ciim uh saeh lamtah himbai khaw a thii loh a haeh atah a haeh boeih te hmuen cim ah til uh.
+Te vaengah lai am dongah a thong atah te te bop saeh. Tedae rhohum am dongah a thong atah met saeh lamtah tui neh lae saeh.
+Te tah cim tih a cim tangkik oeh dongah khosoih tongpa boeih loh ca saeh.
+Tedae tholh dawth ham vaengah tingtunnah dap khuikah hmuencim la a thii a khuen boirhaem boeih te ca boel saeh lamtah hmai neh hoeh saeh,” a ti nah.
 Te dongah hmaithennah olkhueng he a cim khuikah a cim koek la om.
 Hmueihhlutnah a ngawn uh hmuen ah hmaithennah te ngawn uh saeh lamtah a thii te hmueihtuk kaepvai ah haeh saeh.
 Te vaengah a kawl dongkah a tha boeih neh a kotak aka dah maehtha te nawn saeh.
@@ -4228,6 +4228,21 @@ Te dongah diklai loh a ka a ang tih amih, Korah neh a im khaw, a hlang boeih neh
 Amih neh amih taengkah boeih te saelkhui ah a hing la a suntlak uh phoeiah tah amih te diklai loh a et tih hlangping lakli lamloh milh uh.
 Te dongah amih kaepvai kah Israel pum long tah, “Diklai loh mamih n'dolh van ve,” a ti uh tih a ol neh rhaelrham uh.
 Te phoeiah hmai te BOEIPA taeng lamloh ha puek tih bo-ul aka nawn hlang yahnih sawmnga te hlawp.
+Te phoeiah BOEIPA loh Moses te a voek tih,
+“Khosoih Aaron capa Eleazar te thui pah. Baelphaih te ungkhang laklo lamloh koeih saeh lamtah hmai te khaw a ciim coeng dongah voelh thaek saeh.
+Amih kah hinglu kongah he hlangtholh rhoek kah baelphaih rhoek he phaldaep la phal uh saeh lamtah hmueihtuk dongkah a ben ham khaw te te saii uh saeh. Te rhoek te BOEIPA mikhmuh ah nawn uh saeh lamtah ciim uh saeh. Te vaengah Israel ca rhoek ham miknoek la om saeh,” a ti nah.
+Te dongah a khuen uh tih aka ung tangtae rhohum baelphaih te khosoih Eleazar a loh. Te phoeiah te te hmueihtuk dongkah ben ham a daep uh.
+Israel ca rhoek ham poekkoepnah la a om daengah ni Aaron tiingan lamkah mueh atah BOEIPA mikhmuh ah bo-ul phum ham kholong hlang a mop pawt eh. Te dongah BOEIPA Moses kut dongah a uen vanbangla Korah neh a hlangboel bang tah om boel saeh.
+A vuen ah tah Israel ca rhaengpuei boeih te Moses taeng neh Aaron taengah nul tih, “BOEIPA kah pilnam te na duek sak rhoi,” a ti nauh.
+Tedae rhaengpuei loh Moses neh Aaron te a tingtun thil uh tih tingtunnah dap la mael uh. Te vaengah cingmai loh tarha a thing tih BOEIPA kah thangpomnah khaw tueng.
+Te daengah Moses neh Aaron te tingtunnah dap hmai la moe rhoi.
+BOEIPA loh Moses te a voek tih,
+“He rhaengpuei khui lamloh cungpet rhoi lamtah amih te mikhaptok ah ni ka khah eh?,” a ti nah. Te dongah a maelhmai neh bakop rhoi.
+Te phoeiah Moses loh Aaron taengah, “Baelphaih te lo lamtah a khuiah hmueihtuk dongkah hmai na poep phoeiah bo-ul mop thil, rhaengpuei taengla tlek cet lamtah amih ham dawth pah. BOEIPA maelhmai dong lamloh thinhulnah ha thoeng tih tlohthae ha tawn uh coeng,” a ti nah.
+Te dongah Moses kah a thui bangla Aaron loh a loh tih hlangping khui la yong. Te vaengah tlohthae loh pilnam tarha a phoei coeng. Tedae bo-ul te a phum tih pilnam ham a dawth pah.
+Aka duek laklo neh aka hing laklo ah a pai vaengah lucik khaw cing.
+Korah ol ah a duek uh bueng kolla lucik ah aka duek rhoek he thawng hlai li ya rhih lo uh.
+Lucik a cing daengah Aaron khaw tingtunnah dap thohka kah Moses taengla mael.
 BOEIPA loh Moses te a voek tih,
 “Israel ca rhoek te thui pah lamtah amih taeng lamkah conghol te lo. Conghol te a napa imkhui tarhing la a khoboei boeih taeng lamkah khaw lo saeh. A napa rhoek imkhui tarhing kah conghol te hlai nit lo ni. Te vaengah hlang te a ming neh a conghol dongah daek pah.
 Aaron ming te Levi conghol soah daek lamtah a napa rhoek imsawn kah a lu pakhat ham conghol pakhat van saeh.
@@ -4241,21 +4256,6 @@ Te phoeiah BOEIPA loh Moses te, “Boekoek koca rhoek taengah miknoek la tuemkoi
 BOEIPA loh amah a uen bangla Moses loh a ngai tih a saii van.
 Israel ca rhoek loh Moses te a voek uh tih, “M'pal uh ni he, mamih boeih m'milh uh coeng, m'milh uh coeng.
 BOEIPA kah dungtlungim te aka paan la aka paan boeih tah duek ni. Pal hamla khum uh mai sih a eya?” a ti uh.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 BOEIPA loh Aaron te, “Namah neh na ca rhoek khaw, na taengkah na pa imkhui khaw rhokso kathaesainah te phuei uh, namah neh na taengkah na ca rhoek loh na khosoihbi dongkathaesainah te phuei uh.
 Namah manuca, na pa conghol Levi koca khaw, namah taengla lo. Nang taengah naep uh saeh lamtah namah neh namah taengkah na ca rhoek te olphong dap hmai la na om uh vaengah nang te m'bong uh saeh.
 Nang kah hutnah neh dap pum kah a kuek te ngaithuen uh saeh. Tedae hmuencim kah hnopai taeng neh hmueihtuk taengah mop uh boel saeh. Te daengah ni amih khaw nangmih taengah a duek uh pawt eh.
@@ -4647,6 +4647,7 @@ Hmueihhlutnah dongah vaitotal pumat, tutal pumat, tu kum khat ca a hmabuet pumrh
 A khocang neh a tuisi te laitloeknah bangla amah tarhing ah vaitotal rhoek ham khaw, tutal rhoek ham khaw, tuca rhoek ham khaw om pah saeh.
 Sainoek hmueihhlutnah, a khocang neh a tuisi voel ah maae ca pumat te boirhaem la om saeh.
 Na olcaeng neh na kothoh lamkah a voel ah, na hmueihhlutnah neh na khocang ham khaw, na tuisi neh na rhoepnah ham khaw nangmih kah khoning vaengah BOEIPA ham saii uh,” a ti nah.
+Te dongah BOEIPA loh Moses taengah a cungkuem a uen bangla Moses loh Israel ca rhoek taengah a thui pah.
 Moses loh Israel ca rhoek koca kah boeilu rhoek te a voek tih BOEIPA loh a uen bangla ol he a thui pah.
 Tongpa he BOEIPA taengah olcaeng a caeng vaengah khaw, a hinglu dongah rhuikhih te khih ham olhlo a toemngam vaengah khaw a ol te poeih boel saeh. A ka lamloh a thoeng bangla boeih saii saeh.
 Huta he BOEIPA taengah olcaeng a caeng tih a camoe ah a napa im kah rhuikhih loh a khih mai ni.
@@ -4663,7 +4664,6 @@ Olcaeng cungkuem neh, hinglu aka phaep ham rhuikhih olhlo cungkuem he a va loh a
 Tedae a taengah a va te a hnin hnin ah a ngam la ngam khaming. A yaak hnin ah pataeng a taengah a ngam dongah huta kah olcaeng boeih te cak tih a sokah a rhuikhih boeih cak.
 A yaak neh te te a phae la a phae atah huta kah amah lothaesainah te phueih saeh.
 He oltlueh he tongpa laklo neh a yuu taengkah ham, pa laklo a camoe kah a napa im ah aka om a canu ham BOEIPA loh Moses te a uen pah.
-
 BOEIPA loh Moses te a voek tih,
 “Na pilnam te coi lamtah Israel ca rhoek kah tawnlohnah neh Median soah phulo laeh,” a ti nah.
 Te dongah Moses loh pilnam te a voek tih, “Na taeng lamkah hlang rhoek te caempuei la pumcum saeh lamtah Midian soah BOEIPA kah tawnlohnah paek ham Midian cuuk uh thil saeh.
@@ -5271,6 +5271,7 @@ Kai loh nang kang uen olka boeih he ngaithuen lamtah hnatun. Te daengah ni BOEIP
 Namtom haek ham na paan vaengah BOEIPA na Pathen loh na mikhmuh lamkah a tulnoi coeng. Te dongah ni amih te na haek tih a khohmuen ah kho na sak.
 Namah te ngaithuen, na mikhmuh lamkah amih a mitmoeng sak phoeiah amih hnukah n'hlaeh ve. Te dongah, “Namtom rhoek loh a pathen taengah metlam a tho a thueng uh, kai long khaw ka saii van mako?,” aka ti hamla amih kah pathen kawng te na toem ve.
 BOEIPA kah a tueilaehkoi boeih te tah BOEIPA na Pathen taengah saii boeh. A pathen taengah hmai neh a canu a capa a hoeh uh tih a pathen ham a saii uh te a hmuhuet.
+Kai loh nang kang uen olka boeih he na saii tih na thap pawt ham neh na yueh pawt hamla ngaithuen.
 Nang taengah tonghma neh mang aka man te ha poe tih miknoek neh kopoekrhai khaw nang taengah m'paek mai ni.
 Tedae miknoek neh kopoekrhai te hang khuen tih nang ham a thui vaengah, “Na ming noek pawh pathen tloe hnukah vai uh sih lamtah amih taengah thothueng uh sih,” a ti ni.
 Tonghma te khaw, mang aka man khaw a ol hnatun pah boeh. Na ming uh ham tah nangmih loh BOEIPA na Pathen aka noemcai rhung la na om uh ve. BOEIPA na Pathen te na thinko boeih na hinglu boeih neh lungnah lah.
@@ -5289,7 +5290,6 @@ Khopuei kah khosa boeih te na ngawn rhoe na ngawn ni. Te te cunghang ha neh thup
 A kutbuem boeih te a toltung khui la coi pah lamtah hmai neh hoeh pah. Khopuei neh a kutbuem boeih na BOEIPA Pathen ham boeih saeh. Te vaengah a khopuei te kumhal due imrhong la om saeh lamtah thoh voel boel saeh.
 Yaehtaboeih la aka om boeih tah na kut dongah kap boel saeh. Te daengah ni BOEIPA loh thintoek thinsa khui lamkah mael vetih nang taengah haidamnah a khueh eh. Te vaengah nang n'haidam vetih na pa rhoek taengkah a toemngam vanbangla na ping van ni.
 BOEIPA na Pathen kah ol te na ngai atah tihnin ah kai loh nang kang uen olpaek boeih ngaithuen. BOEIPA na Pathen kah mikhmuh ah a thuem ni saii ham a om.
-
 Nangmih tah BOEIPA na Pathen kah koca rhoek ni. Aka duek ham na saa hlap pah boeh. Na mik rhoi laklo te lungawng la khueh boeh.
 BOEIPA na Pathen kah pilnam cim la na om uh dongah diklai hman kah pilnam boeih khuiah pilnam lungthen bangla amah hut la om ham ni BOEIPA loh nang n'coelh.
 Tueilaehkoi boeih tah ca boeh.
@@ -5499,6 +5499,7 @@ Tedae hula taengah tah dumlai saii boeh. A duek ham tueng tholhnah khaw hula tae
 A bae tangtae hula tanu te kohong ah a uum tih tekah hula loh a pang thil lalah anih te a rhun moenih.
 A bae hlan hula, tanu, oila te tongpa loh a uum tih a tuuk mai ni. Te vaengah anih a yalh puei a uum uh mai ni.
 Te vaengah hula kah a napa te hula aka yalh puei tongpa loh tangka sawmnga neh sah saeh. Tedae anih te a puei coeng dongah anih yuu la om saeh. Amah tue khuiah tah anih te hlak hamla a coeng moenih.
+Tongpa loh a napa kah a yuu te rhawt boel saeh lamtah a napa kah a mul khaw nawn pah boel saeh.
 A boengha dongah aka hi khaw, yang ngun khaw BOEIPA kah hlangping taengah kun boel saeh.
 Halhca khaw BOEIPA kah hlangping taengah kun boel saeh. A khong parha due khaw BOEIPA kah hlangping taengah anih te kun boel saeh.
 Ammoni neh Moab khaw BOEIPA kah hlangping taengah kun boel saeh. Amih te a khong parha due khaw BOEIPA kah hlangping taengah a kum a hal kun boel saeh.
@@ -5524,7 +5525,6 @@ Tedae caeng ham te na rhael atah na soah tholhnah khaw om van mahpawh.
 Na hmuilai lamkah aka thoeng te ngaithuen lamtah na ka neh kothoh la na thui tih BOEIPA na Pathen taengah na caeng bangla saii.
 Na hui kah misurdum la na kun mai ni. Te vaengah misur te na hah hil na hinglu loh ca mai saeh. Tedae na hnopai khuila sang boeh.
 Na hui kah canghli la na caeh vaengah na kut neh cangvuei na yun mai cakhaw na hui kah canghli ah vin thueng boeh.
-
 Hlang loh yuu a loh tih a yuunah mai ni. Tedae anih soah olka dongah a yah a hmuh tih a mik ah mikdaithen hmu mai mahpawh. Te vaengah huta ham yuuhlaknah ca daek saeh lamtah a kut ah pae saeh. Te phoeiah anih te a im lamloh tueih saeh.
 Tedae anih im lamloh coe tih a caeh van coeng atah hlang tloe hut la om coeng.
 A va pabae long khaw a hnoel bal atah yuuhlak ca te daek pah tih a kut dongah tloeng pah phoeiah a im lamloh tueih cakhaw, amah yuu la anih aka lo a va pabae loh duek mai cakhaw,
@@ -5679,7 +5679,6 @@ Namtom rhoek taengah hoep tlaih pawt vetih na khopha ham pataeng ngolbuel om mah
 Na hmailong ham khaw na hingnah loh ngaihuet ngaikaek la om vetih khoyin khothaih birhih hut la na hingnah khaw na tangnah tlaih mahpawh.
 Na mik neh a hmuethma na hmuh vaengah na thinko kah birhihnah neh na birhih ni. Mincang pueng ah kholaeh ka pha venim na ti vetih hlaemhmah vaengah mincang ka pha venim na ti ni.
 Nang taengah ka thui longpuei kah sangpho te hmuh hamla koep khoep boeh. BOEIPA loh nang Egypt la koep m'bal sak ve. Na thunkha rhoek taengah namah te salnu salpa la pahoi na yoi uh cakhaw n'lai uh mahpawh.
-
 Te hae kahhe Moab kho ah Israel ca rhoek neh moi a boh vaengah tahae kah olka he BOEIPA loh Moses a uen tih Horeb ah khaw amih taengah moi a boh thil bal.
 Te vaengah Israel pum te Moses loh a hueh tih, “BOEIPA loh na mikhmuh ah Egypt kho kah Pharaoh neh a sal rhoek boeih, a diklai boeih a saii te boeih na hmuh uh.
 Noemcainah a len len neh kopoekrhai a len len te na mik loh miknoek la a hmuh coeng.
@@ -5708,6 +5707,7 @@ Tedae, “Egypt kho lamkah amih hang khuen vaengah a napa rhoek kah BOEIPA Pathe
 Cet uh tih pathen tloe taengah tho a thueng uh dongah amih taengah bakop uh. Te pathen rhoek loh amih te ming uh pawt tih amih ham boe a soep moenih.
 Te dongah cabu dongkah a daek rhunkhuennah boeih he khuen thil ham BOEIPA kah thintoek tah khohmuen taengah sai coeng.
 BOEIPA loh amih te khohmuen khui lamkah thintoek kosi thinhul bat la a phuk vetih kho tloe ah tihnin kah bangla a voeih ni.
+Mamih kah Pathen BOEIPA taengah thuh cakhaw kumhal duela vai ham olkhueng ol boeih he mamih taeng neh mamih kah n'ca rhoek taengah ha phoe coeng.
 BOEIPA na Pathen loh namtom rhoek boeih taengla nang n'heh tih nang mikhmuh ah ka tloeng yoethennah neh rhunkhuennah hno boeih loh nang pum dongah a thoeng daengah ni na thinko te na maelh pueng eh.
 Na Pathen BOEIPA taengla mael lamtah a cungkuem la a ol te ngai laeh. Te ni kai loh nang kang uen. Tihnin ah namah neh na ca rhoek khaw na thinko boeih neh, na hinglu boeih neh ngai laeh.
 Na BOEIPA Pathen loh na thongtlak te koep n'hlawt vetih nang n'haidam bitni. Te vaengah BOEIPA na Pathen loh nang n'taekyaak nah pilnam cungkuem taeng lamloh nang te m'mael puei vetih koep n'coi ni.
@@ -7771,6 +7771,7 @@ Te phoeiah Jonathan loh cadong te a hnuk longah, “A loe la tawn uh latam pai b
 Te vaengkah olka te Jonathan neh David bueng loh a ming dae camoe longtah pakhat khaw ming pawh.
 A hno a pai te Jonathan loh amah taengkah camoe taengla a paek tih, “Cet lamtah khopuei khuila khuen laeh,” a ti nah.
 Camoe a khum neh David te tuithim ben lamkah ha moe. Te vaengah a tal neh diklai la bakop tih voei thum a bawk. Pakhat loh a hui patoeng a mok uh rhoi vaengah pakhat loh a hui patoeng taengah rhap rhoi tih David te nah.
+
 Te phoeiah David te Jonathan loh, “BOEIPA ming neh mamih rhoi loh n'toemngam tih, 'Kai laklo neh nang laklo ah, kai tiingan laklo neh nang kah tiingan laklo ah kumhal duela BOEIPA om,’ n'ti dongah ngaimong la cet ne,” a ti nah.
 David te hlah uh tih a caeh vanneh Jonathan khaw amah kho la bal. David tah Nob kah khosoih Ahimelek taengla pawk. Tedae David doe ham te Ahimelek te lakueng tih, “Nang he balae tih hlang neh na puei uh kolla namah bueng na pawk,” a ti nah.
 David loh khosoih Ahimelek te, “Manghai loh ol ng'uen tih, 'Kai loh nang kan tueih te khaw, nang kang uen te khaw, olka he hlang pakhat long khaw ming boel saeh, tongmang hmuen pakhat kah camoe rhoek te ka ming sak coeng,’ a ti.
@@ -7787,7 +7788,6 @@ Tekah olka te David loh a thinko ah a khueh tih Gath manghai Akhish mikhmuh ah m
 Te dongah amih mikhmuh ah a om a ih te a thovael tih amih kut dongah yan uh. Vongka thohkhaih dongah a khoeih a khoeih tih a tamkai te a hmuimul dongla a tlak sak.
 Te dongah Akhish loh a sal rhoek taengah, “So uh lah, kekah hlang ke pavai ni ke, ba ham nim anih te kai taengla nan khuen uh?
 Pavai ka nai tih nim pavai he kai taengla nang khuen uh? Kai im khuila kun saeh a he?,” a ti nah.
-
 Gath lamkah loh David cet tih Adullam lungko la a poeng a hal. Te vaengah a manuca rhoek neh a napa imkhui loh boeih a yaak uh tih anih taeng la suntla uh.
 Te vaengah a caeknah kah hlang boeih, David taengah lai aka ba hlang boeih, hinglu khahing hlang boeih loh anih taengla coi uh thae. Te dongah amih taengah mangpa la om tih hlang ya li tluk loh anih taengah om uh.
 David tah te lamloh Moab Mizpeh la cet tih, Moab manghai taengah, “Pathen loh kai ham a saii te ka ming duela a nu neh a pa he nang taengah cu mai saeh,” a ti nah.
@@ -7839,6 +7839,7 @@ Saul neh a hlang rhoek loh tlap ham cet uh. Tedae David taengla a puen uh dongah
 Saul te tlang kah a hael pakhat ah a caeh vaengah David neh a hlang rhoek khaw tlang kah a hael pakhat ah cetuh. Tedae David tah Saul hmai lamkah caeh hamla tamto coeng. Te vaengah Saul neh a hlang rhoek loh David neh a hlang rhoek te tuuk hamla a vael uh.
 Te vaengah puencawn te Saul taengla ha pawk tih, “A loe la halo dae, Philisti loh khohmuen pawk a capit uh thil coeng,” a ti nah.
 Saul loh David hnuk a hloem te a mael tak tih, Philisti mah hamla cet. Te dongah tekah hmuen te Selahammahlekoth tahahthaelpang a sak.
+Te phoeiah David tah te lamloh cet tih Engedi rhalmahim ah kho a sak.
 Philisti hnuk lamloh Saul a mael van neh a taengla puen uh tih, “Engedi khosoek ah David om ke,” a ti nah.
 Te dongah Saul loh Israel boeih khui lamkah hlang coelh thawng thum te a khuen tih sathai lungpang dan kah David neh a hlang rhoek te tlap ham cet.
 Saul loh boiva kah tanglung longpuei kaep te a paan. Te vaengah lungko tapkhoeh a om dongah a kho khuk hamla Saul loh a kun thil. Te vaengah David neh a hlang rhoek tah lungko kah a hlaep ah om uh.
@@ -7861,7 +7862,6 @@ Hlang pakhat loh a thunkha te a hmuh coeng atah longpuei ah a then la a tueih a?
 Manghai rhoela na manghai vetih na kut ah Israel ram pai ni tila ka ming coeng ne.
 Te dongah kamah hnukah ka tii ka ngan na saii pawt ham neh, kai ming te a pa imkhui lamloh na diil sak pawt ham BOEIPA minh neh kamah taengah toemngam laeh,” a ti nah.
 Te dongah David loh Saul taengah ol a caeng. Te phoeiah Saul te amah im la cet tih David neh a hlang rhoek tah rhalvong la cet uh.
-
 Samuel tah duek coeng. Te dongah Israel pum te tingtun uh tih anih te a rhaengsae uh. Te phoeiah Ramah kah amah im ah a up uh. Te vaengah David te thoo tih Paran khosoek la suntla.
 Te vaengah Maon ah hlang pakhat om tih Karmel ah a bibi om. Tekah hlang tah bahoeng boei tih a taengah tu thawng thum neh maae thawngkhat a khueh. Te dongah Karmel kah a tu te a mul vok ham a om pah.
 Tekah hlang ming tah Nabal tih, a yuu ming tah Abigal ni. Lungmingnah then, neh sakthen suisak nu la om dae a va tah khoboe thae neh mangkhak la om. Anih te a lungbuei tah Kaleb la om.
@@ -8511,6 +8511,7 @@ Manghai loh, “Camoe Absalom tah a sading a?” a ti nah. Te vaengah Ahimaaz lo
 Te dongah manghai loh, “Hela hoeih pai lah,” a ti nah tih hoeih pai tangloeng.
 Te vaengah Kushi te pakcak ha pawk tih Kushi loh, “Ka boei manghai loh phong pai saeh. Tihnin ah tah BOEIPA loh nang aka tlai thil hlang boeih kah kut lamloh nang n'tang sak coeng,” a ti nah.
 Te dongah manghai loh Kushi te, “Camoe Absalom te a sading a? a ti nah. Te vaengah Kushi loh, “Ka boei manghai kah thunkha rhoek neh nang taengah boethae neh aka tlai thil boeih tah camoe bangla om van saeh,” a ti nah.
+Manghai te a tlai neh vongka imhman la yoeng tih rhap. Te vaengah a caeh doela ka capa Absalom, ka capa aw, ka capa Absalom ka capa Absalom, nang yueng la kamah ka duek ham u long m'paek eh? ka capa Absalom, ka capa aw,” a ti.
 Te vaengah Joab taengah tah, “Manghai tah rhap tih Absalom ham nguekcoi coeng ke,” tila a puen pah.
 Loeihnah khaw tekah khohnin ah tah pilnam boeih ham nguekcoinah la coeng. A capa ham manghai a kothae,’ a ti te te khohnin ah tah pilnam loh a yaak.
 Caemtloek lamloh a rhaelrham uh vaengah a hmaithae uh tih pilnam loh a phaelhael bangla khopuei la kun ham khaw te khohnin ah tah pilnam khaw phaelhael uh.
@@ -8554,7 +8555,6 @@ Manghai loh Gilgal poeng duela Khimham loh a caeh puei. Te vaengah Judah pilnam 
 Te vaengah Israel hlang boeih te manghai taengla pakcak pawk uh tih manghai taengah, “Balae mah manuca Judah hlang rhoek nang ng'liim tih manghai neh a imkhui khaw, David kah a hlang rhoek boeih te khaw, Jordan a poeng puei uh,” a ti uh.
 Te vaengah Judah hlang boeih loh Israel hlang te, “Manghai he kaimih neh ka yoei uh ta, tedae balae tih he olka dongah nangmih taengah a lungoe, manghai taengkah te ka caak khaw ka caak uh nim, kamamih ham ka phueih khaw ka phueih uh nim?,” a ti uh.
 Te dongah Israel hlang loh Judah hlang te a doo tih, “Kai neh manghai taengah ban parha om ta, nang lakah tah David khaw kamah ni. Balae tih kai nan hnaep, ka manghai mael puei ham he kamah taengah lamhma la ol ana om moenih,” a ti nah. Tedae Judah hlang kah a ol te Israel hlang kah ol lakah lalh.
-
 Te vaengah hlang muen pakhat om, a ming tah Benjamin hlang, Bikhri capa Sheba ni. Tuki te a ueng tih, “Mamih kah hamsum he David ham moenih, mamih kah rho he Jesse capa taengah a om ham moenih. Israel rhoek te amah kah dap la boeih cet saeh,” a ti.
 Te dongah Israel hlang boeih tah David hnuk lamloh Bikhri capa Sheba hnuk la cet uh. Tedae Judah hlang tah Jordan lamloh Jerusalem duela a manghai nen ni a kaibaeng uh.
 David te Jerusalem kah amah im la a pawk vaengah im tawt la a paih a yula huta parha te manghai loh a loh tih im hloeh ah a khueh. Amih te a cangbam van ngawn dae amih taengla moe pah voel pawh. Amih te a duek hnin duela a daengdaeh dongah a khosaknah he nuhmai la om uh.
@@ -8865,6 +8865,20 @@ Issakhar ah Paruah capa Jehoshaphat,
 Benjamin ah Ela capa Shimei,
 Gilead khohmuen, Amori manghai Sihon neh Bashan manghai Oga khohmuen ah Uri capa Geber tih khohmuen pakhat ah khohung pakhat om.
 Judah neh Israel he a hlangmi lamtah tuipuei kah laivin bangla ping uh tih a caak, a ok neh a kohoe.
+Solomon long he Philisti khohmuen kah tuiva lamloh Egypt khorhi duela ram tom te a taemrhai. Khocang te a khuen uh tih a hing tue khuiah Solomon taengah thotat uh.
+Te vaengah hnin at dongkah Solomon kah a caak he, vaidam kore sawmthum neh buh kore sawmrhuk lo.
+Saelhung pumlen pumrha, saelhung luemdawn pumkul, boiva yakhat, rhangrhaeh neh kirhang khaw, sayuk neh vathawt a thapaduek khaw om pueng.
+Tiphsah lamloh tuiva rhalvangan boeih neh Gaza hil, tuiva rhalvangan kah manghai boeih te khaw a taemrhai. Te vaengah rhoepnah te anih ham kaepvai kah a rhalvangan boeih ah om.
+Judah neh Israel kah hlang he Solomon tue khuiah tah Dan lamloh Beersheba hil amah misur hmui neh a thaibu hmuiah ngaikhuek la kho a sak.
+Solomon taengah a ngoldoelh ham marhang im thawng sawmli neh marhang caem thawng hlai nit om.
+Te rhoek loh manghai Solomon te a cangbam uh tih a pai puei uh. Amah hla khat ah hlang pakhat neh manghai Solomon kah caboei taengla aka mop boeih khaw hnopai neh mueh uh pawh.
+Marhang ham neh leng marhang ham cangtun neh cangkong khaw, hlang loh amah kah hamsum bangla a om nah hmuen la pahoi a thak uh coeng.
+Pathen loh Solomon te cueihnah a paek dongah a lungcuei khaw muep ping. Te vaengah lungbuei te tuipuei tuikaeng kah laivin bangla a daang a ka pah.
+Solomon kah cueihnah tah khothoeng ca boeih kah cueihnah lakah khaw, Egypt kah cueihnah cungkuem lakah khaw yet.
+Hlang boeih lakah khaw, Mahol koca rhoek Ethan, Ezrakhi, Heman neh Khalkol, Darda lakah khaw cueih. Te dongah khotaeng namtom boeih taengah khaw a ming om.
+thawng thum a thui tih a laa khaw thawng khat panga om.
+Thingkung te Lebanon kah lamphai lamloh pangbueng lamkah aka poe pumpiding hil khaw a thui. Rhamsa kawng neh vaa kawng khaw, rhulcai kawng neh nga kawng khaw a thui.
+A cueihnah te a yaak uh vaengah pilnam cungkuem lamlong khaw, diklai manghai boeih lamlong khaw Solomon kah cueihnah te hnatun ham a paan uh.
 A napa yueng manghai la anih a koelh uh te a yaak vaengah Tyre manghai Khiram loh a sal rhoek te Solomon taengla a tueih. Amah tue khuiah tah Khiram he David kah a lungnah la om.
 Solomon long khaw Khiram taengla a tueih tih,
 “A pa David te BOEIPA loh a kho dongkah a kho khopha hmui la a khueh pah hlan hil caemrhal loh a vael dongah a Pathen BOEIPA ming la im thoh ham a coeng pawt te na ming.
@@ -8883,20 +8897,6 @@ Solomon taengah hnophueih aka phuei thawng sawmrhih neh tlang ah lungto aka dae 
 Solomon taengah bitat aka pai thil mangpa bueng mah thawng thum ya thum lo tih bitat dongah aka tlun pilnam te a taemrhai uh.
 Manghai kah a uen bangla lung len khaw, lung vang khaw, lung rhaih khaw, im a toong nah ham a puen uh.
 Solomon kah imsa rhoek neh Khiram kah imsa rhoek long khaw, Ghiblii rhoek long khaw a saek uh. Te dongah im sak nah ham thing neh lungto te a tawn uh.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Israel ca rhoek Egypt kho lamloh a coe uh te kum ya li neh kum sawmrhet dongah om coeng. Israel soah Solomon a manghai nah a kum li, a hla bae, Ziv hla vaengah BOEIPA im te a sak uh.
 Solomon manghai loh BOEIPA ham im te a yun dong sawmrhuk, a daang dong kul, a sang dong sawmthum la a sak.
 Bawkim im hmai kah ngalha he im hmai kah a daang neh a yun dong kul lo. Im hmai bueng kah a daang dong rha lo.
@@ -9523,6 +9523,7 @@ Ahab kah ol noi neh a saii boeih, vueino im a sak te khaw, khopuei tom a sak te 
 A napa rhoek taengla Ahab a khoem uh phoeiah tah a capa Ahaziah he anih yueng la manghai.
 Israel manghai Ahab kah a kum li dongah Asa capa Jehoshaphat te Judah ah manghai.
 Jehoshaphat he sawmthum kum nga a lo ca vaengah manghai tih Jerusalem ah kum kul kum nga manghai. A manu ming tah Shilhi canu Azubah ni.
+
 BOEIPA mikhmuh ah a thuem saii ham he a napa Asa kah longpuei cungkuem dongah pongpa tih anih lamkah te phaelh pawh.
 Tedae hmuensang a khoe uh kolla pilnam a nawn pueng tih hmuensang ah a phum uh.
 Jehoshaphat loh Israel manghai te a thuung. Jehoshaphat kah ol noi neh a thayung thamal a saii khaw, a vathoh te khaw Judah manghai rhoek kah khokhuen olka cabu dongah a daek uh moenih a?
@@ -9534,7 +9535,6 @@ Jehoshaphat khaw a napa taengla a khoem uh vaengah a napa David khopuei kah a na
 Judah manghai Jehoshaphat kah kum hlai rhih vaengah Ahab capa Ahaziah loh Samaria ah Israel a manghai thil tih Israel soah kum nit manghai.
 BOEIPA mikhmuh ah boethae a saii tih a napa longpuei ah, a manu longpuei ah, Israel aka tholh sak Nebat capa Jeroboam kah longpuei ah pongpa.
 Baal te tho a thueng thil tih a taengah a bakop dongah a napa kah a saii bangla a cungkuem dongah Israel Pathen BOEIPA te a veet.
-
 Ahab a dueknah hnukah Moab loh Israel taengah boe a koek.
 Ahaziah tah a tloh neh Samaria ah amah imhman kah sahamlong taengah yalh. Te dongah puencawn a tueih tih amih te, “Cet uh lamtah, Ekron pathen Baalzebub te dawt uh lah, he tlohtat lamloh ka hing khaming,” a ti nah.
 Tedae BOEIPA kah puencawn loh Tishbi Elijah te, “Thoo, Samaria manghai kah puencawn rhoek doe hamla cet laeh. Amih te, 'Israel khuiah Pathen om pawt tih nim Ekron pathen Baalzebub te toem hamla na caeh uh?'
@@ -9851,6 +9851,7 @@ Jehoiada loh BOEIPA laklo neh manghai laklo ah khaw pilnam laklo ah khaw paipi a
 Khohmuen pilnam boeih te Baal im a paan uh tih a hmueihtuk te a palet uh. A muei te khaw phaeng a neet uh. Baal khosoih Mattan te khaw hmueihtuk hmai ah a ngawn uh tih khosoih loh BOEIPA im dongah cawhkung te a khueh.
 Te phoeiah yakhat mangpa rhoek neh pumoepnah te khaw, imtawt rhoek neh khohmuen pilnam boeih te khaw a khuen. Manghai te BOEIPA im lamloh a suntlak puei uh tih manghai im kah imtawt vongka longpuei la pawk. Te phoeiah manghai te ngolkhoel dongah ngol.
 Te vaengah khohmuen pilnam boeih a kohoe tih khopuei khaw mong coeng. Tedae Athaliah tah manghai im kah manghai cunghang neh a duek sakuh.
+Jehoash he kum rhih a lo ca vaengah manghai coeng.
 Jehu kah a kum rhih dongah Jehoash te manghai tih Jerusalem ah kum sawmli manghai. A manu ming tah Beersheba lamkah Zihiah ni.
 Jehoash loh amah tue khuiah tah khosoih Jehoiada kah a thuinuet bangla BOEIPA mikhmuh ah a thuem ni a saii.
 Te cakhaw hmuensang te khoe pawh. Hmuensang ah pilnam a nawn tih a phum pueng.
@@ -9872,7 +9873,6 @@ Judah manghai Jehoash loh a napa Judah manghai rhoek, Jehoshaphat, Jehoram neh A
 Joash kah ol noi neh a saii boeih te Judah manghai rhoek kah khokhuen olka cabu dongah a daek uh moenih a?
 A sal rhoek te thoo uh tih lairhui neh a hlaengtang uh coeng dongah Silla la aka suntla Joash te Bethmillo ah a ngawn uh.
 A sal Shimeath capa Jozakhar neh Shomer capa Jehozabad loh anih te a ngawn tih duek. Te dongah anih te David khopuei kah a napa rhoek taengah a up uh. Te phoeiah a capa Amaziah te anih yueng la manghai.
-
 Judah manghai Ahaziah capa Joash kah kum kul kum thum vaengah Jehu capa Jehoahaz loh Israel te Samaria ah kum hlai rhih a manghai thil.
 BOEIPA mik ah boethae a saii tih Israel aka tholh sak Nebat capa Jeroboam kah tholhnah dongah pongpa. Te lamlong te nong pawh.
 Te dongah BOEIPA kah thintoek te Israel taengla sai tih anih tue khuiah tah amih te Aram manghai Hazael kut hmui neh Hazael capa Benhadad kut hmuiah a tloeng.
@@ -10456,21 +10456,6 @@ Manasseh koca hlangvang ca rhoek khaw khohmuen ah Bashan lamloh Baalhermon hil k
 A napa rhoek kah imkhui kah a lu he tah, Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, Jahdiel. He tah a napa rhoek imkhui kah a lu la aka om hlang neh tatthai hlangrhalh hlang kah a ming ni.
 Tedae a napa rhoek kah Pathen taengah boe a koek uh tih Pathen loh amih mikhmuh lamkah a mitmoeng sak khohmuen pilnam kah pathen roek taengla cukhalh uh.
 Te dongah Israel Pathen loh Assyria manghai Pul kah mueihla neh Assyria manghai Tiglathpileser kah mueihla te a haeng pah. Te vaengah amih, Reuben neh Gad, Manasseh koca hlangvang te a poelyoe. Te phoeiah amih te Halah, Habor, Hara neh tahae khohnin hil Gozan tuiva la a khuen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Levi koca ah Gershon, Kohath neh Merari.
 Kohath koca ah Amram, Izhar, Hebron neh Uzziel.
 Amram koca ah Aaron, Moses neh Miriam. Aaron koca ah Nadab, Abihu, Eleazar neh Ithamar.
@@ -10537,6 +10522,21 @@ Merari koca te amamih cako tarhing ah Reuben koca lamkah, Gad koca lamkah, Zebul
 Te tlam te Israel ca rhoek loh Levi taengah khopuei neh a khocaak te a paek uh.
 hmulung bangla Judah capa koca taeng lamkah khaw, Simeon capa koca taeng lamkah khaw, Benjamin capa koca taeng lamkah khaw a paek tih te khopuei rhoek te a ming neh a khue uh.
 Kohath capa koca lamkah neh Ephraim koca lamkah khopuei khaw amih kah khorhi khui la om.
+Amih taengah hlipyingnah khopuei la a paek uh tah, Shekhem neh Ephraim tlang kah a khocaak khaw, Gezer neh a khocaak khaw,
+Jokmeam neh a khocaak, Bethhoron neh a khocaak.
+Aijalon neh a khocaak, Gathrimmon neh a khocaak.
+Manasseh koca hlangvang lamloh Aner neh a khocaak, Balaam neh a khocaak te Kohath koca kah huiko aka coih taengla a paek.
+Gershom ca rhoek taengah Manasseh koca hlangvang cako lamloh Bashan kah Golan neh a khocaak, Ashtaroth neh a khocaak.
+Issakhar koca lamloh Kedesh neh a khocaak rhoek, Daberath neh a khocaak,
+Ramoth neh a khocaak, Anem neh a khocaak.
+Asher koca lamloh Mashal neh a khocaak, Abdon neh a khocaak.
+Hukkuk neh a khocaak, Rehob neh a khocaak.
+Naphtali koca lamloh Galilee kah Kedesh neh a khocaak, Hammon neh a khocaak, Kiriathaim neh a khocaak.
+Merari koca aka coih te Zebulun koca lamloh Rimmon neh a khocaak, Tabor neh a khocaak.
+Jordan khocuk ah Jerikho kah Jordan rhalvangan, Reuben koca lamloh khosoek kah Bezer neh a khocaak, Jahzah neh a khocaak.
+Kedemoth neh a khocaak, Mephaath neh a khocaak.
+Gad koca lamloh Gilead kah Ramoth neh a khocaak, Mahanaim neh a khocaak.
+Heshbon neh a khocaak, Jazer neh a khocaak te a paek.
 Issakhar koca ah Tola, Puvah, Jashub, Shimron neh pali lo.
 Tola koca ah Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam neh Samuel he a napa imkhui ah a lu la om uh. Tola he a rhuirhong lamtah tatthai hlangrhalh la om uh. A hlangmi he David tue vaengah thawng kul thawng hnih ya rhuk omuh.
 Uzzi koca ah Izrahiah, Izrahiah koca ah Michael, Obadiah, Joel, Isshiah neh panga la a lu boeih a biuh.
@@ -10725,6 +10725,7 @@ Eliel, Obed neh Mezobah Jaasiel.
 He tah Kish capa Saul mikhmuh lamloh a vi uh vaengah Ziklag kah David taengla aka kun uh tih hlangrhalh rhoek khui lamloh caemtloek vaengah aka bom khaw amih ni.
 Lii aka muk tih banvoei neh bantang ah lungto neh, thaltang neh, lii neh aka naep Benjamin ko neh Saul kah pacaboeina tah,
 Boeilu Ahiezer neh Gibeah Shemaah koca ah Joash, Jeziel, Azmaveth koca ah Pelet, Berakah, Anatoth Jehu.
+
 Sawmthum so neh sawmthum lakli kah hlangrhalh Gibonee Ishmaiah. Jeremiah neh Jahaziel, Johanan neh Gederathite Jozabad.
 Eluzai, Jerimoth, Bealiah, Shemariah, Kharuphi Shephatiah.
 Elkanah, Isshiah, Azarel, Joezer neh Korah Jashobeam.
@@ -10762,7 +10763,6 @@ Jordan rhalvangan lamkah Reuben, Gad neh Manasseh koca hlangvang lamlong khaw ca
 Caem vaengah kah a hmaai caemtloek hlang rhoek boeih tah Israel boeih soah David manghai sak ham te thinko rhuemtuet neh Hebron la pawk uh. Te vaengah Israel a meet boeih long khaw David manghai sak ham te lungbuei pakhat la a khueh.
 Te vaengah David neh hnin thum pahoi om uh tih amih te a cako la a tawn uh coeng dongah a caak a ok uh.
 Amih neh aka yoei long khaw Issakhar, Zebulun neh Naphtali bangla buh te laak neh, kalauk neh, muli-marhang neh, saelhung neh a thoeng puei uh. Caak ham te vaidam, thaidae, misur rhae, misurtui, situi, saelhung neh boiva khaw Israel khuikah kohoenah cangpai la a khuen pauh.
-
 David loh thawngkhat neh yakhat mangpa rhoek te khaw, rhaengsang boeih te khaw a uen.
 Te vaengah David loh Israel hlangping boeih te, “Nangmih ham a then mak atah mamih kah Pathen BOEIPA taeng lamloh Israel khohmuen tom kah aka sueng mah manuca taengah pungtai uh sih lamtah tueih uh sih. Amih neh khosoih rhoek khaw, a khocaak khopuei khuikah Levi rhoek khaw mamih taengla tingtun saeh.
 Saul tue vaengah te a toem uh pawt akhaw mamih Pathen kah thingkawng te mah taengla mael sak uh sih,” a ti nah.
@@ -11214,7 +11214,6 @@ Te phoeiah Solomon loh leng neh marhang caem te a coi tih a taengah leng thawngk
 Manghai loh cak neh sui te Jerusalem ah lungto bangla a kuk tih lamphai te kolrhawk ah aka ding thaihae bangla a hawn.
 Solomon kah marhang rhoek te Egypt lamkah neh Kue lamloh a thawt pah. Kue lamkah te manghai kah thenpom a phu la a loh uh.
 A khuen uh vaengah khaw Egypt lamkah te leng pakhat ah tangka ya rhuk neh marhang pumat te ya sawmnga neh a khuen uh. Te tlam ni Khitti manghai boeih neh Aram manghai rhoek taengah khaw amamih kut neh a khuen uh.
-
 Te phoeiah Solomon loh BOEIPA ming ham im sak ham neh a ram ham im sak hamla cai.
 Solomon loh boe a soep vaengah hnophuei hlang thawng sawmrhih, tlang ah lungto aka dae hlang thawng sawmrhet, amih aka mawt te thawng thum neh ya rhuk lo.
 Te phoeiah Solomon loh Tyre manghai Huram taengah ol a tah tih, “A pa David ham na saii dongah amah ham im a sak vaengah a taengla lamphai na thak pah vanbangla a khuiah kho a sak coeng.
@@ -11232,6 +11231,7 @@ Anih he Dan nu lamkah huta pakhat kah a capa tih a napa he Tyre hlang ni. Anih t
 Te dongah cang neh cangtun khaw, situi neh misurtui khaw ka boeipa kah a thui bangla a sal rhoek taengah pat laeh saeh.
 Na ngoengaihnah boeih tarhing ah Lebanon lamkah thing te kaimih loh kam vung vetih Joppa tuipuei lamloh nang taengah pan kan thak uh bitni. Te te namah loh Jerusalem la khuen,” a ti nah.
 A napa David loh mingsoepnah a soep hnukah Solomon loh Israel khohmuen kah yinlai hlang te boeih a soep tih thawng yakhat neh thawng sawmnga neh thawng thum ya rhuk a hmuh.
+Amih khuiah thawng sawmrhih te hnophuei la, thawng sawmrhet te tlang ah lungto aka dae la, thawng thum ya rhuk te pilnam kah a thohtat aka mawt la a khueh.
 Solomon loh Moriah tlang kah Jerusalem ah BOEIPA im te sak hamla a tong. Te te a napa David taengah a tueng pah vanbangla Jebusi Ornan cangtilhmuen kah David hmuen ah a tawn.
 Te dongah a ram kah a a kum li, hla bae, a hnin bae vaengah sak hamla a tong.
 Te phoeiah Solomon loh he tlam he a sut tih Pathen im te a sak. Hlamat kah cungnueh dongah a yun te a dong la dong sawmrhuk, a daang te dong kul lo.
@@ -11478,7 +11478,6 @@ Abijah loh Jeroboam hnuk te a hloem tih anih taeng lamkah Bethel khopuei rhoek n
 Jeroboam kah thadueng te Abijah tue vaengah koep a saibawn moenih. Anih te BOEIPA loh a yawk sak tih duek.
 Te cakhaw Abijah te cuung uh tih a yuu hlai li a loh. Te dongah capa pakul panit neh canu hlai rhuk a sak.
 Abijah kah ol noi neh a khoboe khaw, a ol khaw tonghma Iddo kah cil dongah a daek.
-
 Abijah he a napa rhoek taengla a khoem uh vaengah tah anih te David khopuei ah a up uh. Te phoeiah a capa Asa anih yueng la manghai. Anih tue vaengkah kum rha khui ah khohmuen khaw mong.
 Asa loh a Pathen BOEIPA mikhmuh ah hnothen neh a thuem ni a saii.
 Kholong hmueihtuk neh hmuensang te a khoe tih kaam te a phaek. Asherah khaw a top.
@@ -11493,6 +11492,7 @@ Te vaengah Asa loh amah kah Pathen BOEIPA te a khue tih, “Aw BOEIPA, thadueng 
 Te dongah BOEIPA loh Kushi te Asa mikhmuh neh Judah mikhmuh ah a yawk sak tih Kushi rhoek te rhaelrham uh.
 Amih te Asa neh a taengkah pilnam loh Gerar hil duela a hloem tih Kushi lamloh a cungku sak. Amih te hinglu hlawtnah a om pawt hil BOEIPA mikhmuh neh a caem mikhmuh ah a khah coeng tih kutbuem khaw a yet la muep a phueih uh.
 Te vaengah amih soah BOEIPA taengkah birhihnah a om dongah Gerar kaepvai khopuei boeih te a ngawn uh. A khuiah kutbuem muep a om dongah khopuei tom te a poelyoe uh.
+Boiva kah dap khaw a ngawn uh dongah boiva neh kalauk te a cungkuem la a sol uh tih Jerusalem la mael uh.
 Oded capa Azariah te a soah Pathen mueihla a om pah.
 Te dongah Asa mikhmuh la cet tih amah taengah, “Asa neh Judah boeih neh Benjamin loh kai ol hnatun. Amah taengah na om uh ham ni nangmih taengah BOEIPA a om. Amah na toem uh atah nangmih taengah phoe ni. Tedae amah te na hnawt uh atah nangmih te n'hnawt ni.
 Kum te yet te Israel khuiah oltak Pathen tal coeng tih aka thuinuet kung khosoih khaw tal coeng, olkhueng khaw tal coeng.
@@ -12362,12 +12362,6 @@ Anih phoeikah Immer capa Zadok long khaw amah im hmai te a tlaih. A hmatoeng te 
 Anih hmatoeng, hmatoeng te Shelemiah capa Hananiah, Zalaph capa Hanun parhuk loh cungnueh pakhat hil a tlaih. A hmatoeng kah Berekiah capa Meshullam loh a khai hmai te a tlaih.
 Anih hmatoeng, hmatoeng te suihloe capa Malkhiah loh tamtaeng rhoek neh Miphkad vongka hmai kah thimpom rhoek im hil neh bangkil imhman hil a tlaih.
 Bangkil imhman laklo boiva vongka hil te aka picai rhoek neh thenpom rhoek loh a tlaih uh.
-
-
-
-
-
-
 Kaimih loh vongtung ka sak te Sanballat loh a yaak vaengah tah anih te sai. Te dongah Judah rhoek te muep a veet tih a tamdaeng.
 A manuca rhoek neh Samaria tatthai mikhmuh ah cal tih, “Yaikat la aka saii Judah rhoek baham nim? Amih loh a thoh tang aya? A nawn uh tang aya? Tihnin ah a khah tang aya? A hoeh tangtae laipi hlom lamkah lungto te hing aya?” a ti.
 A taengkah Ammoni Tobiah long khaw, “Amih kah a sak mai te, maetang loh pah koinih a lungto vongtung khaw tim ni,” a ti.
@@ -12385,6 +12379,12 @@ Ka hmuh vaengah ka pai tih hlangcoelh rhoek taengah khaw, ukkung rhoek taengah k
 Pathen loh amih kah cilsuep a phae pah tih kaimih taengah m'ming sak te kaimih kah thunkha rhoek loh a yaak uh. Te daengah kaimih boeih ka mael uh tih hlang loh amah bitat ham vongtung te ka paan uh.
 Te khohnin lamlong tah kai ca rhoek te rhakthuem loh bitat a saii vaengah a rhakthuem loh cai neh, photling neh, lii neh, caempho neh pumcum uh tih mangpa rhoek khaw Judah imkhui pum kah a hnuk ah paiuh.
 Vongtung aka sa khaw, hnorhih aka puen tih aka tloeng khaw, a kut pakhat neh bitat a saii tih khat dongah pumcumnah a muk.
+Te vaengah vongtung aka sa hlang loh a cunghang te a cinghen ah a vah tih a sak. Ka taengkah rhoek loh tuki te a ueng uh.
+Te phoeiah hlangcoelh rhoek taengah khaw, ukkung rhoek taengah khaw, pilnam boeih taengah khaw, “Bitat he vung tih puh. Te dongah mamih loh vongtung he hlang khat a manuca taeng lamloh lakhla la yaal sih.
+Tuki ol na yaak nah hmuen ah tah kaimih taengla pahoi tingtun uh. Mamih kah Pathen loh mamih ham a vathoh bitni,” ka ti nah.
+Te dongah bitat ka saii uh vaengah a rhakthuem loh mincang a thoeng paek lamloh aisi a thoeng hil cai ka muk thil uh.
+Te vaeng tue ah khaw pilnam hlang neh a ca rhoek te, “Jerusalem khui ah rhaeh uh mai. Te daengah ni mamih ham khoyin kah rhaltawt neh khothaih kah bitat dongah a om uh eh,” ka ti nah.
+Kai bueng pawt tih ka manuca rhoek khaw, ka ca rhoek neh rhaltawt hlang khaw, ka hnuk kah rhoek khaw, hlang loh ka himbai neh a pumcumnah ka dul tih tui muei ka hmu uh pawh.
 Te vaengah pilnam neh a yuu rhoek tah a manuca Judah taengah pangngawlnah muep om.
 Te vaengah, “Ka capa neh ka canu neh ka ping dongah cangpai ka dang uh daengah ni ka caak uh vetih ka hing uh eh,” aka ti om.
 Ka khohmuen, ka misurdum neh ka im khaw ka hol mai vetih khokha vaengah he cangpai ka phil uh mai mako,” aka ti khaw om.
@@ -12490,11 +12490,11 @@ Amih kah a khuui ca te a tlap uh dae a hmu pawt dongah khosoihbi lamloh coom uh 
 Te dongah khosoih loh Urim, Thummim neh a pai hlan hil hmuencim kah buhcim te caak pawt ham amih te tongmang boei loh a uen.
 Hlangping pum te pakhat la thawng sawmli thawng hnih ya thum sawmrhuk lo.
 Amih phoei lamloh a salpa neh a sal huta he thawng rhih ya thum sawmthum parhih lo. Amih laa sa pa neh laa sa nu rhoek khaw ya hnih sawmli panga lo.
-Kalauk ya li sawmthum panga, laak thawng rhuk, ya rhih pakul.
-A napa rhoek kah boeilu hmuicue lamloh tongmang boei bitat ham a paek uh.
+Kalauk ya li sawmthum panga, laak thawng rhuk, ya rhih pakul. A napa rhoek kah boeilu hmuicue lamloh tongmang boei bitat ham a paek uh.
 Thakvoh khuiah sui tangkathi thawng khat, baelcak sawmnga, khosoih angkidung ya nga sawmthum.
 A napa boeilu rhoek lamlong khaw bitat dongkah thakvoh khuiah sui tangkathi thawng kul, cak mina thawng hnih ya hnih a sang uh.
 Pilnam a meet loh a paek te sui tangkathi thawng kul neh cak mina thawng hnih, khosoih angkidung sawmrhuk parhih lo.
+Te dongah khosoih rhoek neh Levi rhoek khaw, thoh tawt rhoek neh laa sa rhoek khaw, pilnam lamkah neh tamtaeng rhoek khaw, Israel pum khaw amamih khopuei ah kho a sak uh. Hla rhih a pha vaengah Israel ca rhoek te amamih kho ah omuh.
 Pilnam pum te tui vongka hmai kah toltung ah hlang pakhat bangla tingtun uh. Te vaengah cadaek Ezra te, “Moses kah olkhueng cabu te hang khuen, te nen ni BOEIPA loh Israel a uen,” a ti uh.
 A hla rhih kah lamhmacuek hnin vaengah tah khosoih Ezra loh olkhueng te hlangping mikhmuh ah tongpa lamloh huta ham khaw, yaak ham aka yakming boeih taengah a phoe puei.
 Te lamkah te tui vongka hmai kah toltung imdan ah khopo lamloh khothun khovang hil a tae. tongpa neh huta neh aka yakming rhoek kah hmai neh olkhueng cabu dongla hna aka kaeng pilnam cungkuem ham a tae pah.
@@ -12550,6 +12550,7 @@ Ka manghai rhoek, ka mangpa rhoek, ka khosoih rhoek neh a pa rhoek long khaw na 
 Amih te a ram khuiah khaw na thennah neh a taengah muep na paek. Khohmuen ah hubung neh lothen te amih mikhmuh ah na paek dae na taengah thothueng uh pawt tih a khoboe thae lamloh mael uh pawh.
 Kaimih tah tihnin ah sal la ka poeh uh coeng he. Khohmuen te khaw a thennah neh a thaih caak hamla a pa rhoek taengah na paek coeng dae kaimih tah a khuiah sal la ka om coeng he.
 Ka tholh uh dongah kaimih soah na khueh manghai rhoek ham tah a cangvuei khaw a bom pah. Te vaengah kaimih pum soah a taemrhai tih ka rhamsa soah a kolonah bangla a saiiuh. Te dongah citcai neh muep ka omuh.
+He boeih ham khaw kaimih loh olkamnah ka saii uh tih ka daek uh. Te vaengah kaimih kah mangpa rhoek, Levi rhoek neh khosoih rhoek taengah catui ka hnahuh.
 Te vaengah catui aka hnap rhoek tah Hakaliah capa tongmang boei Nehemiah neh Zedekiah.
 Seraiah, Azariah, Jeremiah.
 Pashur, Amariah, Malkhiah.
@@ -12589,7 +12590,6 @@ Olkhueng dongkah a daek bangla kaimih kah capa neh rhamsa caming, ka saelhung ne
 kaimih kah buhhuem neh ka khosaa tanglue khaw, thing cungkuem kah a thaih khaw, misur thai neh situi khaw, Pathen im kah imkhan ah khosoih taengla, amih Levi rhoek tah kho takuem ah kaimih kah thohtatnah lamloh a duen dongah kaimih khohmuen kah parha pakhat te Levi taengla thak ham hmulung ka naan uh.
 Levi rhoek loh a duen vaegah Aaron koca khosoih rhoek te Levi taengah om kuekluek saeh. Parha pakhat dongkah parha pakhat te Levi rhoek loh kaimih Pathen im ah thakvoh im kah imkhan khuila thak uh saeh.
 Israel ca rhoek neh Levi ca rhoek loh cangpai khocang khaw, misur thai neh situi khaw imkhan khuila thak uh saeh. Teah te rhokso kah hnopai neh aka thotat khosoih rhoek khaw, thoh tawt rhoek khaw, laa sa rhoek khaw a om dongah kaimih kah Pathen im te ka hnoo uh mahpawh.
-
 Te vaengah pilnam mangpa rhoek tah Jerusalem ah kho a sak uh. Pilnam a coih te parha ah pakhat tah a cim khopuei Jerusalem ah khosa la khuen ham hmulung a naan uh. Pako rhoek tah khopuei kah hmatoeng ah omuh.
 Jerusalem kah khosa la aka puhlu hlang boeih te pilnam loh yoethen a paek.
 Paeng kah boeilu rhoek tah Jerusalem ah kho a sak uh. Tedae Judah khopuei khuikah rhoek tah amah kah khohut dongah rhip om uh. Amih kah khopuei rhoek ah Israel khosoih rhoek khaw, Levi rhoek khaw, tamtaeng rhoek khaw, Solomon kah sal koca rhoek khaw omuh.
@@ -13890,14 +13890,6 @@ Yinhnuk ah hlip hmuila capu neh nongtui dongah yalh.
 Anih te hlip kah a hlipkhup loh a dah tih anih te soklong tuirhi loh a vael.
 Tuiva loh a kawt akhaw a tamto moenih. Jordan loh a ka a hoh pa akhaw a omtoem.
 Anih te a mik neh a loh tih hlaeh neh a hnarhong a toeh a?
-
-
-
-
-
-
-
-
 Leviathan te vaih neh na doek tih rhui neh a lai na yueh pah thai a?
 A hnarhong ah canghlong na hen thai tih mutlo hling neh a kam na toeh a?
 Nang ham tah huithuinah loh puh vetih nang taengah a mongkawt la cal mai aya?
@@ -13924,6 +13916,14 @@ A saa laep te a pum dongah malh kap tih khok pawh.
 A lungbuei te lungto bangla ning tih a dangkah phaklung bangla ning.
 A boeimang vaengah tah tholh pocinah khui lamloh Pathen taengah bakuep uh.
 Anih aka kae cunghang neh caai khaw, lungsong neh caempho khaw a thoh moenih.
+Thi te cangkong bangla, rhohum khaw keet thing bangla a poek.
+Liva capa loh anih a yong sak moenih. Payai lungto pataeng anih taengah tah divawt la poeh.
+Caemboh te divawt bangla a poek tih soe kah hinghuennah te a nueih thil.
+A hmui ah paikaek paihat la om dae tangnong soah sui a hnil.
+A laedil te am bangla a tlawk sak tih tuitunli te anhoi bangla a khueh.
+A hnukah a hawn a phi sak tih tuidung khaw sampok bangla a poek.
+Paepnah om kolla a saii dongah laipi dongah anih aka tluk a om moenih.
+Aka sang boeih te a hmuh. Amah tah hlang oek koca boeih sokah manghai ni,” a ti nah.
 Te phoeiah Job loh BOEIPA te a doo tih,
 “A cungkuem he na noeng tih namah kah thuepnah oel thai pawh tila ka ming rhoe, ka ming.
 Mingnah om mueh ah cilsuep aka dael he unim? Ka thui tangloeng ngawn dae ka yakming moenih. Kai lamlong tah khobaerhambae coeng tih ka ming voel moenih.
@@ -13959,6 +13959,7 @@ Amih te thi caitueng neh na talh vetih, amsai kah hnopai bangla amih te na phop 
 Te dongah manghai rhoek lungming la om uh saeh. Diklai laitloek rhoek toel uh laeh.
 BOEIPA te hinyahnah neh, omngaih neh, thuennah neh thothueng uh.
 A capa te mok pah, a thintoek ve, Mikpalap kah a thintoek loh n'dom vetih longpueng ah na milh ve. Anih dongah aka kuep boeih tah a yoethen.
+
 Aw BOEIPA, badongah kai taengah aka tlai, ka rhal he muep a pung,
 “Pathenlamkah khangnah tah anih ham moenih,” tila ka hinglu he muep a thui uh. Selah
 Tedae, BOEIPA nang tah kai taengah photling, ka thangpomnah neh ka lu aka pomsang la na om.
@@ -14049,7 +14050,6 @@ Pathen aka hnilh namtom boeih neh halang rhoek te Saelkhui la voei uh ni.
 Tedae khodaeng te yoeyah la hnilh pawt vetih mangdaeng kodo kah ngaiuepnah khaw a yoeyah la pat mahpawh
 Aw BOEIPA thoo lah, hlanghing loh n'tanglue thil boel saeh. Namtom he namah hmuh ah laitloek pah lah.
 Aw BOEIPA amih te mueipuelnah na khueh daengah ni amih te hlanghing la namtom loh a ming sak uh eh. Selah
-
 Aw BOEIPA, balae tih mueirhih tue vaengah a hla la na thuh tih na pai?
 Halang kah a hoemnahloh mangdaeng te a hlak dae tangkhuepnah neh a moeh rhoek long te amamih lat a tuuk.
 Halang tah a hinglu kah hoehhamnah dongah yan uh tih, aka mueluem loh BOEIPA yah aka bai te a uem.
@@ -14075,6 +14075,7 @@ BOEIPA tah amah kah bawkim cim ah om. BOEIPA kah a ngolkhoel tah vaan ah om. Hla
 BOEIPA loh aka dueng neh aka halang te a noem vaengah kuthlahnah aka lungnah te BOEIPA kah a hinglu loh a hmuhuet.
 Halang tah hmai pael neh kat a tlan thil vetih yilh ling boengloeng te a buham nah ni.
 Duengnah BOEIPA tah a dueng dongah a thuem aka lungnah rhoek long ni a maelhmai a hmuh uh eh.
+
 BOEIPA, hlangcim om pawt tih hlang kah capa rhoek khuikah oltak rhoek khaw a milh coeng dongah n'khang dae
 A hui taengah a poeyoek la rhip cal uh tih, a hmui khaw hnal. A lungbuei neh a lungbuei ah voek uh thae.
 Duelhduelh aka cal tih a hmui a lai aka hnal boeih te BOEIPA loh rhet pa saeh.
@@ -14088,8 +14089,7 @@ Aw BOEIPA, mevaeng hil nim kai nan hnilh yoeyah ve? Mevaeng hil nim na maelhmai 
 Mevaeng hil nim ka thinko kah hnin takuem kothae la ka hinglu he cilsuep ka dul hawl ve? Mevaeng hil nim kai sokah ka thunkha loh caemthang a rhuk ve?
 Aw ka BOEIPA Pathen paelki lamtah kai he n'doo dae. Ka mik mah han tueng sak dueknah khuila ka ip ve.
 Ka thunkha loh, “Anih ka na coeng,” a ti vetih ka bung vaengah ka rhal rhoek te omngaih uh ve.
-Tedae kai tah nang kah sitlohnah dongah ka pangtung tih namah kah khangnah dongah ka lungbuei omngaih.
-BOEIPA te kai ham a then dongah ka hlai ni.
+Tedae kai tah nang kah sitlohnah dongah ka pangtung tih namah kah khangnah dongah ka lungbuei omngaih. BOEIPA te kai ham a then dongah ka hlai ni.
 Hlang ang loh amah lungbuei neh, “Pathen om pawh,” a ti dongah poci uh tih, a bibi khaw tueilaeh kap. A then aka saii khaw om pawh.
 Vaan lamkah BOEIPA loh hlang ca rhoek te hmuh hamla a dan. Pathen aka toem lungming khaw om van nim?
 Hlang boeih loh thikat la taengphael uh tih rhonging uh. A then aka saii om pawh. Pakhat khaw om pawh.
@@ -14128,6 +14128,7 @@ A mueisa mah rhamsa ngaeh ham aka moo sathueng neh sathuengca bangla a huephael 
 Aw BOEIPA thoo lah, anih hmai ah khoep mah lamtah bung sak. Na cunghang neh halang kut lamkah ka hinglu he han hlah lah.
 BOEIPA namah kut dongkah hlang rhoek lamloh, khosaknah lamkah hlang rhoek lamloh, na hingnah dongah amih kah hamsum khaw na khoem pah tih a bung na hah sak. Ca rhoek khaw hah uh tih a coih te a camoe patoeng ham a paih uh.
 Kai ngawn tah, duengnah dongah na maelhmai ka hmuh vetih, namah kah muei la ka haenghang vaengah, ngaikhuek la ka om ni.
+
 Te dongah, “Kai kah ka thadueng, BOEIPA nang te kan haidam,” a ti.
 BOEIPA tah ka thaelpang, ka rhalvong neh kai aka hlawt, ka Pathen, ka lungpang la om. Amah dongah ka ying tih ka photling, daemnah molsom, neh ka imsang la om.
 Thang then ham aka koih BOEIPA te ka khue vaengah ka thunkha rhoek kut lamkah ka daem.
@@ -14249,7 +14250,6 @@ Mangp a neh namtom taemrhai he BOEIPA hut ni.
 Diklai kuirhang boeih loh a caak uh vetih anih hmai ah bakop uh ni. Laipi la aka suntla neh a hinglu aka hing pawt boeih khaw cungkueng uh ni.
 A tii a ngan loh amah taengah tho a thueng uh vetih, thawnpuei taengah Boeipa kawng a doek ni.
 Pilnam la saii ham a cun taengla halo uh vetih BOEIPA kah duengnah te a doek uh ni.
-
 BOEIPA loh kai n'dawn dongah, m'vaitah mahpawh.
 Toitlim annoe ah kai n'kol sak tih, duemnah tui taengla kai n'khool.
 Ka hinglu han thoelh tih, amah ming ham duengnah namtlak ah kai m'mawt
@@ -14334,6 +14334,7 @@ BOEIPA ol loh khosoek khaw a huek. BOEIPA loh Kadesh khosoek a hinghuen.
 BOEIPA ol loh sayuk rhuinu te a huek tih duup khaw a tlaai sak dongah a cungkuem loh a bawkim ah thangpomnah a thui uh.
 BOEIPA tah tuilii soah ngol tih BOEIPA tah kumhal ham manghai la ngol.
 BOEIPA loh a pilnam taengah sarhi a paek. BOEIPA loh a pilnam te ngaimongnah neh yoethen a paek .
+
 Kai nan dom dongah BOEIPA nang kan pomsang tih ka thunkha te kai soah ko nan khah sak pawh.
 Ka BOEIPA Pathen, nang taengah ka pang tih, kai nan hoeih sak.
 BOEIPA namah long ni ka hinglu he, saelkhui lamkah nan doek. Tangrhom la ka suntlak tangtae lamkah mai, kai koep nan hlun.
@@ -14371,7 +14372,6 @@ Khopuei vongup khuiah kai ham a sitlohnah khobaerhambae la a tueng dongah BOEIPA
 Te dongah ka tamto vaengah, “Na mikhmuh lamkah ka pat coeng,” ka ti. Tedae namah taengla ka pang vaengah ka huithuinah ol nan yaak.
 Amah kah hlangcim rhoek boeih loh BOEIPA te lungnah uh lah. Oltak te BOEIPA loh a kueinah tih hoemnah aka saii te a khawk la a thuung.
 BOEIPA dongah aka ngaiuep boeih loh thahuel uh lamtah na thinko cak sakuh.
-
 Tholh a vuei pah tih, dumlai a hlah pah te a yoethen.
 BOEIPA loh anih taengah thaesainah te poek pah pawt tih a mueihla te vuelvaeknah dongah aka om pawt hlang tah a yoethen.
 Hil ka phah tih hnin at puet kah ka kawknah loh ka rhuh hmawn.
@@ -14405,6 +14405,7 @@ Amih kah hinglu te dueknah lamkah huul ham neh khokha kut khui lamkah hing sak h
 BOEIPA tah mamih kah bomkung neh mamih photling la a om dongah mamih kah hinglu loh a rhingda.
 A cimcaihnah ming dongah m'pangtung uh dongah mamih lungbuei tah amah dongah a kohoe.
 Nang dongah ka hangdang uh vanbangla kai soah BOEIPA nang kah sitlohnah ha om saeh.
+
 A tuetang boeih dongah BOEIPA te ka uem vetih, ka ka dongah amah koehnah om yoeyah saeh.
 Ka hinglu loh BOEIPA dongah thangthen saeh. kodo rhoek loh ya saeh lamtah a kohoe uh saeh.
 BOEIPA te kai neh pomsang uh sih lamtah a ming te tun pomsang uh sih.
@@ -14427,7 +14428,6 @@ Hlang dueng kah yoethae he yet dae yoethae khui boeih lamkah anih te BOEIPA loh 
 Anih kah a rhuh boeih a ngaithuen pah dongah pakhat khaw paep mahpawh.
 Halang te boethae loh a duek sak vetih, hlang dueng aka hmuhuet te boe ni.
 A sal rhoek kah a hinglu te BOEIPA loh a lat tih amah dongah aka ying boeih tah boe uh uh mahpawh.
-
 Aw BOEIPA, kai aka nen ka lungawn te han nen lah.
 Kai bomnah ham photling neh photlinglen te muk lamtah thoo lah.
 Kai aka hloem rhoek te caai neh khoh lamtah sulbung neh ham mah lah. Ka hinglu taengah, “Kai tah nang kah khangnah ni,” ti nah saeh.
@@ -14456,6 +14456,7 @@ Amih lungbuei ah, “Ahuei, mamih hinglu soep coeng,” ti uh boel saehAnih.” 
 Kai kah yoethae soah ko aka hoe rhoek te rhenten yak uh saeh lamtah ngam uh saeh. Kai soah aka pomsang rhoe te yahpohnah neh mingthae loh khuk saeh.
 Kai kah duengnah aka omtoem rhoek loh tamhoe uh lamtah a kohoe uh saeh. Te dongah a sal kah ngaimongnah aka omtoem BOEIPA tah pomsang pai saeh,” ti uh yoeyah saeh.
 Te vaengah na duengnah neh namah koehnah te ka olka loh hnin at puet thuep saeh.
+
 Halang kah boekoek te ka thinko lungbuei khui kah olphong ah tah, a mik hmuh ah Pathen birhihnah khueh pawh.
 A mik neh amah kathaesainah hmuh ham, ka thiinah tila amah te hoem.
 A ka dongkah ol tah boethae neh thailatnah la coeng tih, a then te cangbam hamla a toeng.
@@ -14468,7 +14469,6 @@ Namah taengah hingnah thunsih om tih, namah kah vangnah dongah vangnah ka hmuh u
 Nang aka ming rhoek taengah na sitlohnah hing sak lamtah lungbuei aka thuem taengah na duengnah om sak.
 Hoemnah kho loh kai m'pha boel saeh lamtah halang kut te kai taengah vikvawk boel saeh.
 Boethae aka saii rhoek te pahoi cungku uh tih a bung uh dongah tlai uh thai pawt lah ko.
-
 Thaehuet rhoek dongah sai boel lamtah dumlai aka saii taengah thatlai boeh.
 Amih te sulr ham bangla pahoi a ah uh vetih bael hing bangla hoo ni.
 BOEIPA dongah aka pangtung tih a then aka saii khohmuen ah kho a sa tah uepomnah neh a luem sak.
@@ -14509,6 +14509,7 @@ Ngaimong hlang ham khohmai a om pueng dongah a cuemthuek ke dawn lamtah a thuem 
 Tedae boekoek rhoek te mitmoeng uh vetih halang rhoek kah hmailong khaw boeih a khat ni.
 Te dongah hlang dueng rhoek kah loeihnah he BOEIPA taengkah la om tih citcai tue vaengah amih ham lunghim la om.
 Te dongah BOEIPA loh amih te a bom tih a hlawt. BOEIPA ah a ying uh dongah halang kut lamkah amih te a hlawt tih a khang.
+
 Aw BOEIPA, na thinhul neh kai n'tluung boel lamtah na kosi neh kai n'toel boeh.
 Na thaltang loh kai dongah sap ha tlaeh tih na kut loh kai n'nan.
 Nang kah kosi dongah ka pum he hlang la om voelpawh. Ka tholh dongah ka rhuh a sading pawh.
@@ -14589,12 +14590,12 @@ Tedae BOEIPA loh khothaih ah a sitlohnah a uen dongah khoyin ah a lumlaa neh ka 
 Ka thaelpang Pathen taengah, “Ba ham lae kai nan hnilh. Thunkha kah hnaemtaek dongah ba ham lae kopang neh ka van eh?,” ka ti nah.
 Kamah kah puencak vaengah amih loh kai taengah hnin at puet, “Na Pathen te melae,” a ti uh tih kai m'veet uh dongah ka rhuh vingving nuei.
 Aw ka hinglu badongah na ngam sut tih ka khuiah huenghueng ko? Pathen te ngaiuep lah. Ka hmai kah khangnah neh ka Pathen amah te ka uem dae mako.
-
 Aw Pathen kai n'tang sak lamtah hlangcim pawh namtu neh tuituknah te oelh lah. Hlangthai palat neh dumlai hlang kut lamloh kai n'hlawt lah.
 Pathen namah ngawntah ka lunghim pai ni. Ba ham lae kai nan hlahpham? Thunkha kah haemtaek dongah ba ham lae kopang neh ka van eh?
 Na khosae neh na oltak te han tueih lah. Amih loh na tlang cim neh na tolhmuen la kai m'mawt saeh lamtah n'thak saeh.
 Tedae Pathen kah hmueihtuk taengah khaw, Pathen taengah kohoenah neh omngaihnah la ka pha vaengah rhotoeng neh Pathen nang te kan uem bitni ka Pathen aw.
 Aw ka hinglu badongah na ngam sut tih ka khuiah huenghueng na ko? Pathen te ngaiuep lah. Ka hmai kah khangnah neh ka Pathen amah te ka uem dae lah mako?
+
 Pathen aw, hlamat kum kah amamih tue ah na saii khoboe te, a pa rhoek loh kaimih ham a tae uh tih, kaimih hna neh ka yaak uh coeng.
 Na kut neh namtom na haek tih a pa rhoek te na thoh. Namtu te talh sak ham a pa rhoek na hlun.
 A cunghang loh khohmuen pang sak uh pawt tih a bantha loh amih a khang moenih. Tedae amih te na moeithen dongah na bantang kut kah na bantha, na maelhmai kah khosae nen ni na khang.
@@ -14697,7 +14698,6 @@ A duek vaengah pakhat khaw khuen mahpawh. A thangpomnah loh anih te suntlak puei
 A hing vaengah a hinglu te yoethen a paek tih namah te na hoeikhang vaengah nang uem uh dae,
 A napa rhoek kah cadilcahma la cet vetih yoeyah la vangnah hmu uh mahpawh.
 Hlang he umponah neh om dae a yakming pawt atah rhamsa aka hmata rhoek bangla om.
-
 Pathen, BOEIPA Pathen loh a thui tih, khocuk lamkah khotlak duela, diklai a tuentah.
 Pathen kah a sakthen a soepnah loh Zion lamkah ha sae.
 Mamih kah Pathen te halo tih omlip pawh. A hmai ah hmai loh a hlawp tih a taengvai ah boehoeng khohli.
@@ -14721,6 +14721,8 @@ Na pacaboeina taengah na ngol tih na cal van dae na manu ca te boekoekthingka na
 Hekah he na saii vaengah ka omlip hatah namah bangla om khaw om ni tila na poek. Nang te kan tluung vetih na mikhmuh ah kan yan ni.
 He he Pathen aka hnilh rhoek loh yakming uh laeh. Kam poel vetih aka huul om pawt ve.
 Uemonah aka nawn loh kai n'thangpom tih longpuei a rhoek a bah dongah Pathen kah daemnah te anih ka tueng ni,” a ti.
+
+
 Pathen aw kai n'rhen lah. Na sitlohnah neh na haidamnah a cungkuem vanbangla ka boekoeknah he han huih mai.
 Kai kathaesainah loh a yet khaw a yet oeh dongah kai n'sil lamtah ka tholhnah lamkah kai n'caihcil lah.
 Kamah kah boekoek te kamah loh ka ming tih ka tholhnah loh kamah hmaiah om taitu.
@@ -14752,13 +14754,13 @@ Tedae aka dueng rhoek loh a hmuh uh vaengah a rhih uh vetih anih te,
 Tedae kai tah Pathen im kah olive thinghing bangla kumhal ah Pathen kah sitlohnah te ka pangtung yoeyah.
 Namah loh na saii coeng dongah kumhal ah nang kan uem vetih na then dongah na ming te na hlangcim rhoek hmuh ah ka lamtawn ni.
 
-
 Hlang ang loh amah lungbuei neh Pathen om pawh a ti. A poci uh dongah dumlai la tueilaeh kap tih, a then aka saii om pawh.
 Vaan lamkah Pathen loh hlang ca rhoek te hmuh hamla a dan. Pathen aka toem lungming khaw om van nim?
 Anih loh hlang boeih te tun a balkhong sak tih a rhonging uh coeng dongah hno then aka saii om pawh. Pakhat khaw om pawh.
 Boethae saii tih buh caak bangla ka pilnam aka yoop rhoek loh Pathen a khue uh pawt te ming uh pawt nim?
 Nang aka rhaeh thil kah rhuhrhong te Pathen loh a yaal dongah birhihnah om pawt dae birhihnah neh birhih uh. Amih te Pathen loh a hnawt dongah yah a bai.
 Amah loh Israel kah khangnah te Zion lamkah han khuen tih a pilnam kah thongtla te Pathen loh ham bal puei vaengah Jakob omngaih saeh lamtah Israel kohoe saeh.
+
 
 Aw Pathen na ming neh kai n'khang lamtah, na thayung thamal neh kai n'tang sak.
 Aw Pathen, ka thangthuinah he ya lamtah, ka ka lamkah ol he hnatun lah.
@@ -14767,7 +14769,6 @@ Kai he Pathen loh m'bom tih, ka hinglu aka talong rhoek taengah ka Boeipa om ke.
 Ka lungawn rhoek soah a thae neh thuung rhoe thuung lamtah, na oltak neh amih te biit lah.
 Na taengah kothoh te, kan nawn saeh lamtah na then dongah BOEIPA nang ming te ka uem eh.
 Citcai cungkuem lamkah kai n'huul tih, ka thunkha rhoek te ka mik loh a sawt.
-
 
 Aw Pathen, ka thangthuinah he hnatun lamtah ka lungmacil te rhael boeh.
 Kai taengah hnatung lamtah kai n'doo dae. Ka kohuetnah neh ka van tih ka pang ka ngawl.
@@ -14849,6 +14850,7 @@ Amih loh buhtuen la poeng poeng uh tih a hah uh pawt vaengah rhaehba uh sut.
 Tedae kai tah, na sarhi te ka hlai vetih, namah te kai ham imsang neh kai taengkah puencak tue vaengah thuhaelnah la na om dongah, na sitlohnah khaw mincang ah ka tamhoe puei ni.
 Ka sitlohnah Pathen neh ka imsang Pathen ham tah nang taengah ka sarhi ka tingtoeng.
 
+
 Pathen aw, kaimih he nan hlahpham tih, na thintoek ah kaimih nan phaek. Kaimih he koep m'mael puei lah.
 Diklai na hinghuen tih phak na boe. A tuen vaengkah a hma te hoeih sak lah.
 Na pilnam te mangkhak la na hmuh tih ngaengainah misurtui te kaimih nan tul.
@@ -14861,7 +14863,6 @@ Vongup khopuei la ulong kai n'khuen eh ? Edom la ulong kai m'mawt eh ?
 Pathen nang loh kaimih nan hlahpham pawt tih Pathen namah te kaimih kah caempuei rhoek taengla na pawk moenih a?
 Hlang kah loeihnah a poeyoek la a om dongah rhal taengah khaw kai he bomnah m'pae lah.
 Pathen neh caem ka tloek rhoi vetih ka rhal ka suntlae ni.
-
 
 Pathen aw ka tamlung he ya lamtah ka thangthuinah he hnatung lah.
 Nang te Diklai a bawt lamkah kan khue. Ka lungbuei a rhae vaengah kamah lakah aka sang lungpang taengla kai nan mawt.
@@ -14921,7 +14922,6 @@ A kong te na hmilhmal sak. Laikong te na cikngae sak. Mueitui neh na pan sak tih
 Na then kum te na khuem tih na namtlak ah maehhloi a yoem uh.
 Khosoek rhamtlim khaw a pha thil tih, som rhoek te omngaihnah neh a yen.
 Rhamtlim te boiva loh a thing tih, tuikol rhoek te cangpai a saeng dongah yuhui neh a hlai uh bal.
-
 Diklai boeih loh Pathen taengah yuhui uh lah.
 Amah kah thangpomnah ming te tingtoeng uh lamtah amah kah thangpomnah te koehnah khueh pauh.
 Pathen taengah, “Na bibi he a rhih bahoeng om pai. Na sarhi a tak dongah na thunkha rhoek loh nang hmaiah a mai a tumuh.
@@ -14942,6 +14942,7 @@ Amah te ka ka neh ka khue tih ka lai dongah koehnah ka khueh.
 Ka lungbuei neh boethae te ka so koinih ka Boeipa loh ya mahpawt.
 Tedae ka thangthuinah ol te Pathen loh a hnatung tih a yaak.
 Ka thangthuinah neh a sitlohnah kai taeang lamkah aka khoe pawh Pathen amah he a yoethen pai saeh.
+
 Pathen loh mamih n'rhen saeh lamtah mamih yoethen m'pae saeh. Selah Mamih taengah a maelhmai ha sae saeh. Selah
 Te dongah na longpuei te diklai dongah, na khangnah te namtom rhoek boeih lakli ah ming sak lah.
 Pathen namah kah pilnam rhoek loh nang uem uh saeh. Pilnam boeih loh nang uem uh saeh.
@@ -15028,7 +15029,6 @@ Ka hinglu aka mae rhoek te yahpok uh saeh lamtah a hmai tal uh saeh. Kai kah yoe
 “Ahuei ah uei,” aka ti rhoek khaw yahpohnah la amamih kah thapang la bal saeh.
 Nang aka tlap rhoek boeih tah namah dongah ngaingaih uh vetih a kohoe uh ni. Namah kah khangnah aka lungnah rhoek loh,” Pathen te pomsang yoeyah uh ,” ti uh saeh.
 Tedae kai he mangdaeng neh khodaeng ni. Pathen aw kai aka bomkung ham kai taengla na tawn uh tih kai aka hlawt ham BOEIPA nang na uelh moenih.
-
 BOEIPA nang dongah ka ying tih, kumhal ah yah m'poh sak boeh.
 Na duengnah neh, kai na huul tih nan hlawt. Te dongah na hna te kai taengla han hooi lamtah, kai n'khang lah.
 Caeh taitu vaengkah ham, kai taengah lungpang khuirhung la ha om lah. Namah te ka thaelpang neh ka rhalvong la na om dongah, kai khang ham khaw na uen.
@@ -15124,6 +15124,7 @@ Kuthlahnah rhamtlim te diklai khohmuep khuiah a baetawt dongah paipi te paelki l
 Mangdaeng hmaithae khaw hlanghnaep pahnap la mael boel saeh lamtah na ming te khodaeng rhoek loh thangthen uh saeh.
 Pathen aw thoo laeh. Namah kah tuituknah khaw oelh van laeh. Hlang ang loh hnin takuem nang n'kokhahnah ke thoelh laeh.
 Nang aka daengdaeh rhoek kah ol te na hnilh moenih. Nang aka tlai thil rhoek kah longlonah tah cet yoeyah.
+
 Pathen namah te kan uem uh. Na ming neh aka yoei loh, namah kah khobaerhambae, a thui uh dongah kan uem uh.
 Khoning ka khuen te khaw, kamah loh vanatnah neh lai ka tloek.
 Diklai neh a khuikah khosa boeih a paci vaengah, tung ka moem. Selah
@@ -15168,7 +15169,6 @@ Khomai loh tui han hawk. Khomong khaw a ol hum. Na thaltang rhoek khaw thui.
 Humhae khui lamkah na khohum ol ah rhaek la phaa tih lunglai khaw tlai coeng, diklai khaw hinghuen coeng.
 Tuitunli dongkah na longpuei neh tui puei dongah khaw na lamkat patoeng, lamkat patoeng om dae na kholaeh ming uh pawh.
 Na pilnam te Moses kut, Aaron kut neh tuping bangla na mawt.
-
 Ka pilnam aw ka olkhueng he hnatun uh lah. Ka ka lamkah olthui dongah na hna hooi uh lah.
 Hlamat lamkah olkael te ka ka dongkah neh ka ong vetih ka thaa dae ni.
 Tekah te n'yaak uh tih m'ming uh vanbangl a a pa rhoek loh mamih taengah han thui uh.
@@ -15254,6 +15254,7 @@ Balae tih namtom rhoek loh, A Pathen khaw melae?,” a ti uh eh. Na sal rhoek ka
 Thongtl a kah a kiinah loh namah taengla ha pawk saeh. Dueknah cadil rhoek te na boeilennah bantha neh sueng sak.
 Te vaengah kaimih kah imben rhoek te voeirhih la thuung lah. A kodang ah amih kah kokhahnah neh Boeipa namah ni m'veet uh coeng te.
 Te dongah na pilnam kaimih neh na rhamtlim kah boiva long tah, namah te kumhal duela kan uem uh ni. Cadilcahma neh cadilcahma hil nang koehnah te ka tae uh ni.
+
 Israel aka dawn loh hnatun lah. Boiva bangla Joseph aka hmaithawn tih cherubim aka ngol loh ha sae lah.
 Ephraim, Benjamin neh Manasseh mikhmuh ah na thayung thamal te huel lamtah, kaimih kah khangnah ham halo lah.
 Pathen aw kaimih nan lat tih, na maelhmai a sae daengah ni ka daem uh eh.
@@ -15290,7 +15291,6 @@ Ka pilnam loh kai taengah hnatang koinih ka longpuei te Israel loh a vai sui dae
 A thunkha rhoek te a loe la ka kunyun sak vetih a rhal te ka kut neh ka thuung pah suidae.
 BOEIPA kah a lunguet rhoek loh anih taengah mai a tum uh vetih amih kah khohnin khaw kumhal duela puh suidae.
 Tedae cang tha te anih a cah suitih lungpang khui lamkah khoitui nang kang kum sak sue.
-
 Pathen tah Pathen kah hlangboel khuiah pai tih pathen rhoek lakli ah lai a tloek.
 Me hil nim dumlai na tang sak uh vetih halang rhoek kah maelhmai na dan uh ve? Selah
 Tattloel neh cadah te laitloek pah lamtah mangdaeng neh aka vawtthoek te tang sak.
@@ -15299,6 +15299,7 @@ Tamyin khuiah pongpa uh tih diklai kah a yung boeih a tuen khaw ming uh pawt tih
 Nangmih tah pathen rhoek neh Khohni ca rhoek ni. Nangmih boeih taengah kamah loh ka thui coeng.
 Tedae hlang bangla na duek uh vetih mangpa pakhat bangla na cungku uh ni.
 Namtom rhoek boeih te namah loh na pang coeng dongah Pathen aw thoo lamtah diklai he laitloek thil laeh.
+
 Pathen aw, nang taengah dingsueknah tal nim. Pathen aw omlip boel lamtah mong boeh.
 Na thunkha rhoek loh hue a sak tih na lunguet rhoek loh lu a dangrhoek uh soeh ke.
 Na pilnam te baecenol neh muet uh tih na khoem rhoek taengah uento uh thae.
@@ -15344,7 +15345,6 @@ Sitlohnah neh uepomnah loh humcui rhoi tih duengnah neh rhoepnah loh mok uh rhoi
 Diklai lamkah uepomnah poe tih vaan lamkah duengnah loh a sawt.
 BOEIPA loh hnothen a paek dongah mamih kah khohmuen loh cangpai a khueh bal ni.
 Duengnah te a mikhmuh ah cet tih a khokan ham longpuei a khueh pah.
-
 BOEIPA aw kai he ka mangdaeng tih ka khodaeng oeh dongah na hna kaeng lamtah kai n'doo dae.
 Kai tah ka cim dongah ka hinglu he hang ngaithuen dae. Ka Pathen namah dongah ka pangtung vanbangla namah loh na sal he n'khang dae.
 Ka Boeipa nang te hnin takuem kang khue coeng dongah kai he n'rhen lah.
@@ -15369,6 +15369,7 @@ Kai aka ming rhoek taengah Rahab neh Babylon he ka thoelh ni. Tekah khopuei long
 Zion te khaw pakhat phoeiah pakhat loh, “Anih loh n'cun dongah Khohni loh a thoh bitni,” a ti uh ni.
 Tekah a sak pilnam te BOEIPA loh a tae vetih ming a daek ni. Selah
 Te dongah ka tuisih boeih loh namah dongah lamcawn bangla hlai uh thae.
+
 Kai kah khangnah Pathen BOEIPA, namah hmaiah khoyin khothaih ka pang.
 Ka thangthuinah loh namah mikhmuh la ha pawk saeh. Ka tamlung he na hna kaeng thil lah.
 Ka hinglu he yoethae loh hah coeng tih ka hingnah he Saelkhui a paan coeng.
@@ -15440,7 +15441,6 @@ Ka Boeipa aw, lamhma kah na sitlohnah te ta? David taengah na uepomnah neh na to
 Ka Boeipa aw na sal sokah kokhahnah he poek lah. Pilnam kah tuituknah boeih he ka kodang ah ka phueih he.
 BOEIPA aw, na thunkha rhoek loh m'veet uh coeng te, na koelh hlang kah kholaeh khaw a veet uh coeng te.
 BOEIPA tah kumhal duela a yoethen pai. Amen phoeiah Amen.
-
 Ka Boeipa nang tah, cadilcahma phoeikah cadilcahma duela, kaimih ham khuirhung la na om.
 Tlang rhoek a om uh hlan tih diklai neh lunglai a poe hlanah, Pathen namah te kumhal lamkah kumhal duela na om coeng.
 hlanghing te hnipdik la na bal sak tih, “Adam ko rhoek mael uh laeh,” na ti nah.
@@ -15474,6 +15474,7 @@ Sathuengc a neh minta soah na cangdoek vetih, sathuengca neh tuihnam khaw na tae
 Kai taengah a ven uh dongah, anih te ka hlawt van ni. Ka ming a ming dongah, anih te ka hoeptlang ni.
 Kai n'khue vaengah anih te a taengah ka doo ni. Kai loh citcai khuiah khaw anih te ka pumcum sak vetih, amah ka thangpom ni.
 Anih khohnin sen neh ka kodam sak vetih, kamah kah khangnah te ka hmuh sak ni.
+
 BOEIPA uem ham neh Khohni namah ming tingtoeng ham tah then pai tih,
 Mincang ah na sitlohnah, hlaem ah na uepomnah doek ham te,
 Thangpa parha, phungding rhotoeng nen khaw rhoep tloe pai.
@@ -15489,7 +15490,6 @@ Aka dueng tah rhophoe bangla cawn vetih Lebanon kah lamphai bangla rhoeng ni.
 BOEIPA im kah a phung tah mamih Pathen kah vongup ah muem uh ni.
 A sam a pok vaengah thaihsu pueng vetih kuirhang thinghing la om uh ni.
 Kai kah lungpang BOEIPA tah thuem tih a khuiah dumlai om pawh tila doek ham om pai.
-
 BOEIPA loh rhimomnah te a bai a bai tih manghai coeng. BOEIPA loh a sarhi a vah coeng dongah, lunglai loh cak tih tuen pawh.
 Na ngolkhoel tah na khosuen lamloh, dingrhae dingkhoi lamlong ni a tawn coeng.
 Tuiva rhoek loh samboek uh coeng BOEIPA. Tuiva loh a ol a huel uh. Tuiva tuiphu loh thoo uh coeng.
@@ -15585,6 +15585,7 @@ Yinhnuk ah a hui a thet, a thet tih a mikdai aka oek te khaw ka koeih pah ni. Te
 Khohmuen loh a tangnah rhoek te kamah taengah khosak sak ham ka mik ah om. Cuemthuek longpuei ah aka pongpa loh kai bi bi saeh.
 Vuelvaeknah aka saii loh ka imkhui lung ah om boel saeh. Laithae aka thui khaw ka mikhmuh ah pai mahpawh.
 Boethae kah a saii boeih te BOEIPA khopuei khui lamkah thup ham atah khohmuen kah halang rhoek boeih te mincang ah bat ka biit ni.
+
 BOEIPA aw ka thangthuinah he ya lamtah ka pang ol loh nang taengla ham pha saeh.
 Kai kah puencak tue vaengah na maelhmai te kai taeng lamkah thuh boeh. Kang khue tue vaengah kai taengla na hna han kaeng lamtah kai he koe n'doo lah.
 Ka khohnin he hmaikhu bangla hmata tih ka rhuhrhong khaw hmaingen bangla tlum.
@@ -15613,7 +15614,6 @@ A cuek vaengah diklai na suen tih vaan ke khaw namah kutngo ni.
 Amih te milh uh cakhaw namah tah na nguel yoeyah. Te dongah amih te himbai bangla boeih hnawn uh vetih pueinak bangla na tho vaengah thovael uh van ni.
 Tedae namah tah amah la na om tih na kum khaw bawt pawh.
 Na sal rhoek kah a ca rhoek loh kho a sak uh vetih a tiingan loh namah mikhmuh ah pai ni,” ka ti.
-
 Aw ka hinglu, BOEIPA te uem lamtah, ka kotak boeih loh a ming cim te uem lah.
 Aw ka hinglu, BOEIPA te uem lamtah amah kah a thaphu paek boeih te hnilh boeh.
 Nang kathaesainah boeih te khodawk han ngai tih, na tlohtat boeih aka hoeih sak,
@@ -15807,6 +15807,7 @@ Hlangcong rhoek te nueihbu a hawk thil tih long mueng hinghong la kho a hmang sa
 Tedae khodaeng te phacipphabaem lamkah a hoeptlang tih a hui a ko te boiva bangla a khueh.
 Aka thuem rhoek loh a hmuh uh vaengah a kohoe uh dae dumlai boeih long tah a ka khoep a buem.
 U khaw aka cueih long tah hekah he kuem saeh lamtah BOEIPA kah sitlohnah te yakming uh saeh.
+
 Pathen aw ka lungbuei cikngae la ka hlai vetih ka thangpomnah nen khaw ka tingtoeng ni.
 Thangp a neh rhotoeng haenghang lamtah khopo ah kai ka haeng lah eh.
 Pilnam rhoek lakliah BOEIPA namah te kan uem saeh lamtah, namtu pawt taengah nang kan tingtoeng eh.
@@ -15820,7 +15821,6 @@ Hmuencak khopuei la ulong kai n'khuen eh? Edom la ulong kai m'mawt eh?,” a ti.
 Pathen nang loh kaimih nan hlahpham pawt tih, Pathen namah te kaimih kah caempuei rhoek taengla na pawk moenih a?
 Hlang kah loeihnah he a poeyoek. Te dongah rhal taengah khaw, kaimih he bomnah m'pae lah.
 Pathen neh caem ka tloek uh vetih, ka rhal ka suntlae ni.
-
 Kai kah koehnah Pathen aw hilphah boeh.
 Halang kah a ka neh hlangthai palat kah a ka te kai taengah ong uh tih a lai loh a honghi a thui uh.
 Hmuhuetnah olka neh kai m'vael uh tih a honghi nen khaw kai n'nen uh.
@@ -16329,6 +16329,7 @@ BOEIPA nang aka thiinah rhoek pawt nim ka thiinah tih nang aka tloelh rhoek taen
 Ka taengah thunkha la a om uh dongah amih te hmuhuetnah neh a khuetnah ka thiinah.
 Pathen aw kai n'khe lamtah ka thinko ming lah. Kai noemcai lamtah ka mangvawtnah he ming lah.
 Tedae ka khuikah tloh longpuei hmu lamtah kumhal longpuei ah kai m'mawt lah.
+
 BOEIPA aw boethae Adam kut lamloh kai n'pumcum sak lamtah, kuthlahnah hlang kut lamloh kai n'kueinah lah.
 A lungbuei khuiah boethae a huet uh tih khohnin takuem caem a hueh uh. Selah
 A lai te rhul bangla a suih tih a hmuilai dongah minta sue kap. Selah
@@ -16342,7 +16343,6 @@ Amih soah hmai-alh tla rhoe tla saeh. Amih te hmai khui neh rhomdung khuila cung
 Olsai hlang he hlang kah khohmuen ah naepnoi boel saeh. Boethae kuthlahnah te khaw pathaeng payang la yoep saeh.
 Mangdaeng kah dumlai neh khodaeng kah laitloeknah BOEIPA loh a rhoi te ka ming rhoela ka ming.
 Aka dueng rhoek loh na ming te rhep a uem uh vetih aka Olsai rhoek ni na mikhmuh ah kho a sak uh eh.
-
 BOEIPA nang kang khue vaengah kai taengla ha tawn uh. Nang te kang khue vaengah ka ol he hnakaeng lah.
 Ka thangthuinah he na mikhmuh ah ka kutdong kah buham neh hlaemhmah khosaa kah bo-ul la tawn saeh.
 Aw BOEIPA ka ka ah rhaltawt hang khueh lamtah ka hmuilai kah thohkhaih he kueinah lah.
@@ -16353,6 +16353,7 @@ Diklai te a khoh tih a ueth bangla kaimih rhuh he Saelkhui ka ah ni a yaal uh.
 Tedae ka Boeipa Yahovah namah taengah ni ka mik ka dai. Namah ah ka ying vanbangla ka hinglu he na kingling moenih.
 Pael kut lamloh kai n'khoembael lah. Boethae aka saii kah hlaeh nen khaw kai he n'hlaeh uh.
 Kai ka khum duela halang rhoek tah amah kah thaang dongla rhenten cungku uh saeh.
+
 BOEIPA taengla ka ol neh ka pang tih BOEIPA taengah ka ol neh n'rhen lah ka ti.
 A mikhmuh ah ka kohuetnah ka kingling tih ka citcai khaw a mikhmuh ah ka phoe.
 Ka khuikah ka mueihla rhae tih ka pongpa nah caehlong ah kai ham pael tung cakhaw ka hawn he na ming.
@@ -16360,7 +16361,6 @@ Bantang la paelki lamtah Kai ham ka hmat hlang om pawh tila hmu van lah. Kai ham
 BOEIPA taengah ah ka pang tih, “Namah he mulhing khohmuen ah ka hlipyingnah neh ka khoyo coeng,” ni ka ti.
 Mat ka tlayae coeng dongah ka tamlung taengla hnatung lah. Kai lakah aka tlung tih kai aka hloem rhoek taeng lamloh kai n'huul lah.
 Kai hinglu he rhomhmop lamloh coe sak lamtah na ming te uem saeh. Kai he nan thuung ham coeng dongah aka dueng rhoek tah kamah taengah a bulbo uh ni.
-
 Aw BOEIPA, ka thangthuinah he hnatun lah. Na uepomnah dongah ka huithuinah he hnakaeng lamtah na duengnah neh kai n'doo lah.
 Tedae mulhing boeih he namah mikhmuh ah a tang oeh pawt dongah na sal he khaw laitloeknah khuila na thak moenih.
 Thunkha loh ka hinglu a hloem tih ka hingnah diklai ah a phop. Khosuen kah aka duek bangla khohmuep ah kai kho n'sak sak.
@@ -17465,7 +17465,6 @@ Khodaeng dae aka cueih camoe he patong tih aka ang manghai lakah then. Anih te k
 A pin nah im lamloh manghai taengla aka pawk khaw, a ram ah khodaeng la a cun khaw amah boeiloeih.
 Khomik hmuiah aka pongpa mulhing boeih tah manghai yueng la aka pai camoe pabae taengah a pai te ka hmuh.
 Pilnam boeih ham te a bawtnah om pawh. Amah te cungkuem taengah a hmai la a om pah dae lamhnuk rhoek loh anih taengah ko a hoe uh moenih. He khaw a honghi neh khohli dongkah kohnek mai ni.
-
 Pathen im la na caeh vaengkah bangla na kho neh na khokan te ngaithuen. Te dongah hnatun hamla n'tawn uh he aka ang kah hmueih nawn lakah then. Amih loh boethae a saii te khaw ming uh pawh.
 Pathen mikhmuh ah ol aka thak la na ka te let sak boel lamtah na lungbuei loe boel saeh. Pathen tah vaan ah om tih nang tah diklai ah ni na om. Te dongah na ol yol saeh.
 Bibi a cungkuem vaengah mueimang khaw om tih olka a cungkuem vaengah hlang ang ol la poeh.
@@ -17485,6 +17484,7 @@ Ha thoeng vaengkah bangla voeivang a caeh he khaw boeih thae tih tlo bal. Te don
 Amah tue khuiah khaw hmaisuep ah a caak tih a tlohtat neh a thinhul ah muep hue a sak.
 Sakthen la caak ham neh ok ham khaw, hnothen a hmuh ham khaw a then la ka hmuh coeng ne. Khomik hmui kah a hingnah khohnin tarhing la a thakthaenah cungkuem neh thakthae. A hingnah te Pathen loh anih taengah amah kah hamsum la a paek.
 Pathen loh hlang boeih te a taengkah khuehtawn neh koeva a paek pai. Te dongah te lamloh a caak ham neh a hamsum a duen ham khaw, a thakthaenah khui lamloh kohoe sak ham khaw a taemrhai. He tah Pathen kah kutdoe rhoe ni.
+Pathen loh kohoenah neh a lungbuei a phaep pah dongah a hingnah khohnin te puet poek pawh.
 Khomik hmuiah ka hmuh he boethae la om tih te te hlang soah yet coeng.
 Pathen loh hlang te a taengah khuehtawn, koeva, neh thangpomnah a paek. Te dongah a ngaidam boeih khui lamloh a hinglu te talh pawh. Tedae te te a caak hamla Pathen loh anih a taemrhai sak moenih. Te te kholong hlang a cah he a honghi neh tloh thae ni.
 Hlang long he yakhat a sak tih kum a yet a hing mai khaming, a kum khohnin khaw muep lo mai khaming. Tedae a hinglu loh hnothen te cung pawt tih phuel ah khaw amah taengah a om pah moenih. Anih lakah aka rhumpu te then lah ka ti.
@@ -17694,6 +17694,7 @@ Ka vahui he amah bueng tih amah bueng ni ka cuemhmuet sak. A sak khuiah khaw ani
 Sakthen mincang bangla, khocil hla bangla, rhimom khomik bangla, hnitai aka pai bangla a dan he unim?
 Soklong thing duei hmuh hamla, misur duei tih tale khooi nim sawt hamla yungkha dum ah ka suntla.
 Ka hinglu loh Amminadib kah leng dongla kai n'khueh pataeng ka ming moenih.
+Mael mai dae, mael mai dae, Sulamit aw mael mai dae, mael mai dae, namah te ni kan dan eh. Balae tih Sulamit tah rhaehhmuen lamcawn la n'dan eh?
 Na kho te hlangcong canu kah khokhom neh sawtthen tangkik. Na phai dongkah phaibong khaw kutthai kut kah bibi neh himbai bangla om.
 Na yenrhui te kueluek baeldung bangla homtui long khaw vaitah pawh. Na bungko te khaw tuilipai loh cang hlom neh a ven.
 Na rhangsuk rhoi tah sakhi rhuinu caphae ca rhoi van pawn ni.
@@ -17707,7 +17708,6 @@ Kamah he kamah hlo kah coeng tih a lungdueknah tah kamah ham saeh.
 Kamah hlo aw halo lamtah pong la cet lah sih, vangca ah khaw rhaeh mai sih.
 Thoo sih, misurdum te so sih. Misur khaw a cuen khaming, thaihmoe loh culh tih tale khaw khooi coeng. Teah te kamah hlo te nang taengah kam pae eh.
 Hloih he a bo rhim. Tedae mah kah thohka ah cangtham he a rhuem a thai la cungkuem tih ka hlo nang ham ka khoem.
-
 U long nim nang te a nu rhangsuk dongkah ka manuca cahni bangla n'khueh lah sue. Nang te poeng ah kam hmuh tih namah kam mok akhaw kai he n'hnoelrhoeng pawt sue.
 Namah te kan hmaithawn vetih nang te kai aka tukkil a nu im la kang khuen lah mako. Nang te kamah kah tale thingtui, anhoi misur kan tul sue.
 A banvoei kut te ka lu hmuiah om saeh lamtah a bantang kut loh kai n'kop saeh.
@@ -17897,7 +17897,6 @@ Nangmih taengah thui uh saeh, rhaitonghma, hlang aka muep tih aka caitawk, hnam 
 Olkhueng neh ciphuemyunah ol bangla a thui pawt atah anih taengah khothaih om hlan.
 Vang khuiah a pongpa te khaw lalh sut vetih bungpong neh om ni. A lamlum vaengah nim te thintoek loh a manghai neh a Pathen te a tap vetih a thal la oeloe ni.
 Diklai la a paelki vaengah citcai, khobing kah mueirhih tamyin neh khohmuep long ni tarha a heh eh.
-
 Te cakhaw hlamat kah bangla anih taengah mangdaeng mangtok la Zebulun khohmuen kah, Naphtali khohmuen kah a tap khomu te om mahpawh. Tedae hmailong ah Jordan rhalvang neh namtom Galilee kah tuipuei longpuei te a thangpom ni.
 Hmaisuep ah pongpa pilnam loh khosae puei a hmuh coeng. Dueknah hlipkhup kho kah khosa rhoek te vangnah loh a tue coeng.
 Namtom te amah taengah na ping sak tih kohoenah neh na puel sak. Te dongah cangah vaengkah a kohoenah bangla, kutbuem a tael uh vaengkah a omngaih uh bangla na mikhmuh ah a kohoe uh.
@@ -17918,6 +17917,7 @@ Te dongah a tongpang vaengkah te Boeipa loh a kohoe pah mahpawh. A lailak neh th
 Halangnah he hmai bangla lota khaw a dom tih hling khaw a hlawp. Duup kah khocak khaw a hlup tih hmaikhu kah rhimomnah a laep sak.
 Caempuei BOEIPA kah a thinpom loh khohmuen te a kolh vetih pilnam he hmaingen la poeh ni. Hlang loh a manuca te lungma ti mahpawh.
 Bantang ben ah hlap pah cakhaw lamlum pueng vetih, banvoei ben ah caak pah cakhaw hah uh mahpawh. Hlang loh amah kah a ban saa te a cilh ni.
+Manasseh khaw Ephraim, Ephraim khaw Manasseh, a boktlap lah Judah a tlai thil. He boeih nen khaw a thintoek mael pawt tih a kut a thueng pueng.
 Anunae boethae oltlueh a tarhit tih, a daek khaw thakthaenah ni a daek uh.
 tattloel kah dumlai te aka phaelh sak ham neh ka pilnam mangdaeng kah laitloeknah aka rhawth la om. Te dongah nuhmai te a kutbuem la a poeh sak tih cadah te a poelyoe uh.
 Cawhtnah tue vaengah balae na saii vetih khohla bangsang lamkah khohli rhamrhael ha pawk vaengah u taengah lae na rhaelrham eh? Bomnah ham neh na thangpomnah te melam na hnoo eh?
@@ -18953,8 +18953,7 @@ Kaimih napa tah namah pai ni. Abraham loh kaimih m'ming moenih. Israel long khaw
 BOEIPA aw balae tih na longpuei lamloh kaimih kho nan hmang sak. Namah hinyahnah lamloh kaimih lungbuei na hit sak. Na rho koca na sal rhoek ham ha mael laeh.
 Namah kah pilnam cim kolkalh a pang uh vaengah kaimih kah rhal rhoek loh na rhokso te a suntlae uh.
 Khosuen lamkah ka om uh coeng dae amih soah na taemrhai pawt dongah amih taengah na ming te khue van pawh. Vaan ke na phen koinih na mikhmuh ah na suntlak sak vetih tlang rhoek khaw moelh uh sue.
-Hmai neh thingpaem a hlae tih hmai loh tui a tlawk sak bangla na rhal rhoek taengah na ming ming sak ham ni,
-na mikhmuh ah namtom rhoek khaw tlai uh ni.
+Hmai neh thingpaem a hlae tih hmai loh tui a tlawk sak bangla na rhal rhoek taengah na ming ming sak ham ni, na mikhmuh ah namtom rhoek khaw tlai uh ni.
 Ka lamtawn pawt te a rhih om la na saii vaengah tlang rhoek na mikhmuh ah na suntlak sak tih moelh uh.
 Khosuen lamloh ya uh noek pawt tih, hnakaeng uh pawh. Amah aka rhingda ham a saii namah phoeikah Pathen ti he mik loh ana hmuh moenih.
 Aka ngaingaih tih na longpuei ah duengnah a saii neh nang aka poek rhoek te na doo. Nang khaw na thintoek coeng te. Tedae amih soah kumhal n'tholh dongah n'khang venim.
@@ -18964,6 +18963,7 @@ Yahovah namah he kaimih napa ni. Kaimih he amlai ni, kaimih aka hlinsai khaw nam
 BOEIPA na thin bahoeng toek sak aih boeh. Thaesainah khaw a yoeyah la poek boeh. Kaimih na pilnam boeih n'paelki laeh he.
 Namah kah khopuei cim rhoek te khosoek la poeh coeng. Zion khaw khosoek la Jerusalem khopong la poeh.
 Kaimih kah im cim neh kaimih kah boeimang, a pa rhoek loh nang thangthen nah te hmai dongah ungkhang la poeh tih kaimih kah ngailaemnah boeih khaw imrhong la om.
+Te lalah khaw na thiim uh venim? BOEIPA nim na ngam vetih kaimih mat nan phaep aih veh.
 Kai aka dawt pawt rhoek loh kai n'toem aka tlap pawt loh m'hmuh coeng. Kai ming aka khue noek pawh namtom taengah, “Kai ni he, kai ni he,” ka ti nah.
 A kopoek hnukah a then pawt la longpuei aka vai pilnam thinthah taengah khohnin yung ah ka kut ka phuel.
 Ka mikhmuh ah kai aka veet tih dum ah aka ngawn nainoe neh ka laiboeng dongah aka phum.
@@ -19242,7 +19242,6 @@ khohla bangsang kho lamkah ka pilnam nu kah a pang ol la ke. Zion ah BOEIPA a om
 Cangah a poeng tih khohal khaw bawt coeng dae mamih tah n'khang moenih.
 Ka pilnam nu pocinah dongah kopang neh ka paep tih imsuep bangla kai n'kolek.
 Gilead ah thingpi a om moenih a? Te ah te aka hoeih sak khaw om tangloeng pawh. Balae tih ka pilnam nu kah sadingnah loh ha pawk pawh.
-
 Ka lu kah tui neh ka mik dongkah thunsih mikphi he unim aka pae? Te dongah ka pilnam nu kah rhok te khoyin khothaih ka rhah mai eh.
 Khosoek kah yincet rhaehim te u long nim kai m'paek ve? Te nen ni ka pilnam he ka hnoo vetih amih taeng lamloh ka cet laeh mako. A pum la samphaih uh tih pahong nen tah hnukpoh uh coeng.
 A lai te laithae lii la a phuk uh. Uepomnah loh a na pawt dongah diklai ah he boethae lamloh boethae la cet uh tih kai he m'ming uh pawh. BOEIPA kah olphong ni he.
@@ -19268,6 +19267,7 @@ BOEIPA kah olphong loh he ni a thui. Te dongah hlang rhok he diklai hman ah aek 
 BOEIPA loh he ni a thui. Aka cueih khaw a cueihnah neh yan uh boel saeh. Hlangrhalh te a thayung thamal neh yan uh boel saeh. Hlanglen loh a khuehtawn dongah yan uh boel saeh.
 Tedae he dongah a yan uh lakah tah kai n'cangbam ham neh m'ming ham mah yan uh saeh. Kai BOEIPA loh tiktamnah neh duengnah he diklai dongah sitlohnah nen ni ka saii. Te dongah ka hmae he khaw BOEIPA kah olphong coeng ni.
 BOEIPA kah olphong ha pawk khohnin vaengah tah hmuicue ah aka rhet boeih te ka cawh ni he.
+Egypt taeng neh Judah taengah khaw, Edom taeng neh Ammon ca rhoek taengah khaw, Moab taeng neh baengki aka kuet tih khosoek kah khosa rhoek boeih taengah khaw, namtom pumdul boeih neh Israel imkhui tom kah lungbuei pumdul taengah khaw ka muk ni.
 Israel imkhui nangmih taengah BOEIPA loh a thui olka te ya uh.
 BOEIPA loh he ni a thui. Namtom kah longpuei te awt uh boel lamtah vaan miknoek nen khaw rhihyawp uh boeh. Te lamlong ni namtom rhoek khaw a rhihyawp uh.
 A honghi pilnam kah khosing dongah he duup lamkah thing ni kutthai kut kah bibi loh tubael neh a saii ngawn.
@@ -21006,6 +21006,11 @@ Nangmih te hmuehmuei botui la kan moeithen vaengah tah nangmih te pilnam rhoek l
 Israel khohmuen khuila nangmih kam pawk puei vaengah BOEIPA kamah te nan ming uh bitni. Te khohmuen te ni na pa rhoek taengah paek ham ka kut ka phuel thil.
 Te vaengah na longpuei neh na khoboe rhamlang boeih te pahoi na poek uh bitni. Te loh m'poeih uh dongah nangmih kah boethae cungkuem na saii uh te khaw nangmih maelhmai te na ko- oek uh ni.
 Aka poci Israel imkhui aw nangmih kah boethae longpuei tarhing ah pawt tih na khoboe rhamlang bangla ka ming ham nangmih kan saii vaengah BOEIPA kamah te nan ming uh bitni. He tah Boeipa Yahovah kah olphong ni,” a ti.
+Te phoeiah BOEIPA ol te kai taengah ha pawk tih,
+“Hlang capa aw, na maelhmai tuithim longpuei la mael lah. Tuithim te saep lamtah tuithim khohmuen kah duup te tonghma thil thui loh Nagev khorham kah kohong khatben lam kah profet ol thui lah.
+Tuithim duup te thui pah lamtah ka Boeipa Yahovah loh a thui BOEIPA ol he hnatun saeh. Nangmih taengah hmai ka hlup vetih nangmih kah thing a thingsup boeih neh thing koh boeih te a hlawp ni. Hmairhong hmaisai khaw thi pawt vetih tuithim lamloh tlangpuei duela maelhmai boeih te rhangto uh ni.
+BOEIPA kamah loh ka toih tih a thih pawt te pumsa loh boeih a hmuh uh ni,” a ti.
+Te dongah, “Ka Boeipa Yahovah aw amih loh kai he, 'Anih te neh aka thuidoek pawt nim?' a ti uh,” ka ti.
 BOEIPA ol te kai taengla ha pawk tih,
 “Hlang capa, na maelhmai te Jerusalem la khueh lah. Te phoeiah rhokso te cip thil lamtah Israel khohmuen te tonghma thil laeh.
 Te vaengah Israel khohmuen te thui pah. BOEIPA loh he ni a thui. Kai loh ka cunghang a capang lamloh nang kam bong thil vetih nang lamkah aka dueng neh aka halang khaw ka saii pawn ni.
@@ -21038,11 +21043,6 @@ Nang ham te a poeyoek la a hmuh tih nang te laithae neh halang rhok kah a rhawn 
 A capang khui la sang laeh. Na suen nah hmuen kah namah tuikong khohmuen ah nang te lai kan tloek ni.
 Nang soah ka kosi ka hawk vetih ka thinpom hmai neh nang kan sat thil ni. Nang te kutthai kut al hlang rhoek kut ah kutcaihnah la kan tloeng ni.
 Hmai ham te toihthing la na poeh vetih na thii te khohmuen khui ah om ni. BOEIPA kamah loh ka thui coeng dongah nang m'poek uh mahpawh,” a ti.
-
-
-
-
-
 BOEIPA ol te kai taengla ha pawk tih,
 “Nang hlang capa aw, lai na tloek aya? Thii aka long khopuei te lai na tloek aya? Anih te a tueilaehkoi boeih ming sak.
 Ka Boeipa Yahovah loh a thui he thui pah. Khopuei loh amah tue pai sak ham a laklung ah thii a long sak tih amah aka poeih ham mueirhol a saii.
@@ -21904,9 +21904,6 @@ Te dongah ukkung mangpa rhoek neh boei neh manghai olrhoep te tingtun uh tih a s
 Nebukhadnezzar te cal tih, “Sadrakh, Meshach neh Abednego kah a Pathen tah a yoethen pai saeh. Amah loh a puencawn a tueih tih amah dongah aka pangtung a tueihyoeih rhoek te a loeih sak. Manghai ol a poe uh tih amamih pum khaw a pum te a paek uh. Te dongah amamih Pathen phoeiah tah Pathen boeih taengah thothueng uh pawt tih bakop uh pawh.
 Te dongah namtu pilnam boeih neh olcom olcae khaw Sadrakh, Meshach neh Abednego kah a Pathen te dalrhanah neh vapsa la aka thui tah, maehpoel la sah saeh lamtah a im te kawnhnawt la khueh pah saeh. He kong dongah he bangla huul hamla aka noeng he pathen tloe a om moenih tila kai lamkah saithainah a paek,” a ti.
 Te dongah manghai loh Sadrakh, Meshach neh Abednego te Babylon paeng ah a pom.
-
-
-
 Nebukhadnezzar manghai loh namtu pilnam boeih neh olcom olcae neh, diklai pum kah khosa, khosa te, “Nangmih kah ngaimongnah he pungtai saeh.
 Khohni kah Khohni Pathen loh kai hamla miknoek neh khobae rhambae te a tueng sak tih kai taengah thui hamla a huem.
 A miknoek te metluk lam lae boeilen tih amah khobae rhambae he metluk lam lae a tlungluen. A ram he kumhal kah ram tih a khohung khaw thawnpuei lamloh cadilcahma taengah om ni.
@@ -21941,6 +21938,9 @@ Manghai ka dongah ol a cal li vaengah vaan lamkah ol cet tih, “Manghai Nebukha
 Nang te hlang taeng lamloh m'vai coeng tih na khosaknah he kohong rhamsa nen ni a om. Nang te vaito bangla rham n'cah vetih a sangkoek kah a sangkoek loh hlang kah ram soah a hung tih te te a ngaih taengah a paek tila na ming hil nang hamla kum rhih thok ni,” a ti nah.
 Amah ol a bangli vaengah Nebukhadnezzar soah a pha tih hlang taeng lamloh a vai uh. Te vaengah vaito bangla rham a caak tih a sam te atha bangla, a kuttin te vaa bangla a sai hil a pum te vaan kah buem loh a saep.
 A tue bawtnah dongah tah, kai Nebukhadnezzar loh ka mik he vaan la ka huel hatah ka mingnah he ka taengla ha mael. Te dongah a sangkoek Khohni te ka koeh tih kumhal kah mulhing te ka oep tih ka hinyah nah. A khohung te dungyan kah khohung tih a ram kah thawnpuei lamloh cadilcahma duela cak.
+Diklai khosa, khosa boeih tah aka om pawt bangla a ngai tih diklai khosa, khosa rhoek te vaan thadueng neh a ngaih bangla a saii. A kut te aka doek pa tih a taengah “Balae na saii?” aka ti nah te a om moenih.
+Ka mingnah loh ka taengah a mael tue vaengah, ka ram kah thangpomnah, kai hinyahnah neh ka aa ka taengla ha mael. Kai he ka olrhoep neh ka boei ka na rhoek loh n'toem uh. Ka ram he pai tih lennah kai taengah muep a thap.
+Kai Nebukhadnezzar tah n'oep tih m'pacuet coeng. Te dongah vaan kah manghai tah hinyah pai saeh. A bibi boeih he oltak tih a longpuei khaw tiktam. Te dongah koevoeinah neh aka pongpa te kunyun sak ham a noeng.
 Belshazzar manghai loh a boei thawngat hamla boeilen buhkoknah a saii tih thawngkhat mikhmuh ah misurtui a ok.
 Belshazzar loh, “Misurtui yukung ah a napa Nebukhadnezzar loh Jerusalem bawkim lamkah a loh sui neh cak hnopai te hang khuen lamtah te nen manghai neh a boei rhoek, a yuu rhoek neh a yula rhoek long khaw o saeh,” a ti.
 Te dongah Jerusalem, Pathen im kah bawkim lamloh a loh sui hnopai te a khuen uh tih te nen te manghai neh a boei rhoek long khaw, a yuu rhoek neh a yula rhoek long khaw a ok uh.
@@ -21971,6 +21971,7 @@ Tekel tah coi dongah n'khiing dae a vawt m'hmuh.
 Peres, na ram rhek tih Media neh Persia taengah a paek,” a ti nah.
 Te dongah Belshazzar loh a thui bangla Daniel te daidi a bai sakuh. A oi khaw sui oi te a rhawn ah a oi sak. Anih te a ram ah a pathum nah aka hung la om ham a hoe uh.
 Amah te khoyin ah Belshazzar manghai te Khalden loh a ngawn.
+Te dongah Median kah Media Darius he kum sawmrhuk kum nit a lo ca vaengah ram a dang.
 Darius loh a doe phoeiah tah a ram ah mangpa ya pakul a pai sak tih ram tom ah om uh.
 Daniel te tah amih taemrhaikung pathum khuikah pakhat la om tih amih kah a soah om. Mangpa la aka om rhoek he a taengah saithainah a paek tih manghai khaw a vaitah om pawh.
 Te vaengah Daniel tah taemrhaikung rhoek neh mangpa rhoek lakli ah a poekhloep om. He kong ah he a khuiah mueihla lang tih manghai loh anih a ram pum soah pai sak hamla cai.
@@ -21999,7 +22000,6 @@ Te dongah Darius manghai loh namtu pilnam boeih neh olcom olcae taengah a daek p
 Kai lamkah saithainah he ka ram kah khohung boeih ah ka paek coeng. Daniel kah a Pathen taengah a thuen, thuen doela om uh saeh lamtah birhih uh saeh. Amah tah mulhing Pathen la om tih kumhal duela cak. A ram khaw tim pawt tih a khohung loh khobawt duela a pha.
 A loeih sak tih a huul. Vaan neh diklai ah miknoek neh khobae rhambae a tueng sak. Amah loh Daniel te sathueng kut lamloh a loeih sak.
 Te dongah Daniel he Darius kah ram neh Persian kah Persian Cyrus ram khuiah thaihtak.
-
 Babylon manghai Belshazzar kah a kum khat dongah Daniel loh amah kah thingkong dongah mang neh a lu dongkah mangthui te a hmuh. Te dongah a mang kah olka a thui te a cuinah ah a daek.
 Daniel loh a thui vaengah, “Khoyin kah ka mangthui neh ka om vaengah ka hmuh. Te vaengah vaan kah khohli pali tah tuitun puei duela kilkul.
 Te phoeiah rhamsa len pali te tuitunli lamloh ha thoeng tih khat neh khat hlihloeh uh.
@@ -22170,6 +22170,8 @@ Te phoeiah koep vawn tih canu a sak hatah, “Israel imkhui te koep ka haidam vo
 Tedae Judah imkhui tah ka haidam vetih amih te amamih kah Pathen BOEIPA rhangneh ka khang ni. Te vaengah amih te lii neh, tumca neh, caemtloek neh, marhang neh, marhang caem neh ka khang mahpawh,” a ti nah.
 Loruhamah te suk a kan phoeiah vawn tih capa a sak.
 Te vaengah, “Nangmih te ka pilnam voel pawt tih kai khaw nangmih hut la ka om voel pawt dongah a ming te Loami sui,” a ti nah.
+Tedae Israel ca hlangmi tah tuitunli kah laivin bangla om ni. Te te loeng lek pawt tih tae lek pawh. Amih te, 'Nangmih te ka pilnam moenih,’ a ti nah hmuen ah a om sak vetih amih te aka hing Pathen ca rhoek a ti ni.
+Te vaengah Judah ca rhoek neh Israel ca tun tingtun uh ni. Amamih ham boeilu pakhat a khueh uh tih Jezreel khohnin puei ham khohmuen lamloh cet uh ni,” a ti nah.
 Na manuca rhoek te, 'Ka pilnam, na ngannu rhoek te 'Kan haidam 'ti nah.
 Na nu te ho rhoe ho laeh. Anih te kai yuu pawt tih kai khaw a va moenih. A pumyoihnah te a mikhmuh lamloh, a samphainah a rhangsuk laklo lamkah khoe laeh saeh.
 Anih te pumtling la ka hlik vetih a thang hnin kah bangla amah ka khueh tarha ve. Anih te khosoek bangla ka khueh vetih rhamrhae khohmuen la ka khueh phoeiah tuihalh neh ka duek sak ni.
@@ -22193,8 +22195,6 @@ Nang te kamah hamla uepomnah neh kam bae van daengah ni BOEIPA te na ming eh.
 Te khohnin te a pha vaengah BOEIPA kah olphong te ka doo vetih vaan te khaw ka doo ni. Amih long khaw diklai te a doo uh ni.
 Diklai long khaw cangpai misur thai neh situi te a doo vetih amih loh Jezreel te a doo ni.
 Anih te kamah hamlalohma ah ka soem vetih a haidam pawt te ka haidam ni. Nang Laomi te ka pilnam ka ti vetih anih long khaw ka Pathen a ti ni.
-
-
 BOEIPA loh kai taengah, “Amih loh pathen tloe taengla mael tih misur yukhap lungnah sitoe cakhaw, BOEIPA loh Israel ca a lungnah bangla a hui a lungnah tih aka samphaih nu te koep paan lamtah lungnah,” a ti.
 Te dongah anih te kamah hamla tangka hlai nga, cangtun am at phoeiah khosai neh ka lai.
 Te vaengah anih te, “Kamah taengah a tue a yet khosa lamtah cukhalh voel boeh. Hlang neh om boel lamtah kai khaw nang taengah ka om ni.
@@ -22318,6 +22318,7 @@ Ephraim nang te metlam kang khueh eh? Israel nang te metlam kan tloeng eh? Nang 
 Ka thintoek thinsa neh ka saii mahpawh. Ephraim phae ham khaw ka mael mahpawh. Kai tah Pathen tih hlang moenih. Na khui ah ka cim tih khopuei ah ka kun mahpawh.
 BOEIPA hnukah sathueng bangla pongpa uh vetih kawk ni. Anih a kawk van neh khotlak lamkah camoe rhoek lakueng uh.
 Egypt lamkah vaa neh Assyria khohmuen lamkah vahui bangla lakueng uh ni. Te vaengah amih te amamih im ah ka om sak ni. He tah BOEIPA kah olphong ni.
+Kai he Ephraim kah laithae nen khaw, Israel im kah thailatnah nen khaw m'vael uh. Judah tah Pathen taengah van tih a cim te a tangnah pueng.
 Ephraim loh khohli dongah luem tih kanghawn a hloem. Hnin takuem ah laithae tih rhoelrhanah te a ping sak. Assyria neh paipi a saii uh tih Egypt la situi a khuen.
 BOEIPA he Judah neh tuituknah om. Jakob te a longpuei bangla a cawh vetih a khoboe bangla anih te a thuung ni.
 Bungko khuiah a maya te a uelh sak tih Pathen te a thahuem neh a hnueih.
@@ -22332,7 +22333,6 @@ Gilead kah boethae a om atah Gilgal ah om khaw a poeyoek. Vaito a nawn uh akhaw 
 Jakob te Aram khohmuen la yong coeng. Israel he huta hamla thotat tih a yuu hamla a dawn.
 BOEIPA loh Israel te Egypt lamloh tonghma kut neh a khuen tih tonghma kut neh a ngaithuen.
 Ephraim loh kosidung te a veet dongah a thii te amah soah coe ni. A kokhahnah te a boei loh amah taengah a thuung ni.
-
 Ephraim tah rhihnah neh cal tih anih te Israel khuiah a pomsang. Tedae Baal rhangneh a boe dongah ni a duek.
 Tedae tholh te a koei uh coeng dongah amamih ham amamih kah cak te a lungcuei tarhing ah mueihloe la a saii uh. Te boeih te kutthai rhoek kah kutci muei mai. Te te amih loh, “Aka nawn hlang loh vaitoca te mok uh,” a ti uh.
 Te dongah mincang cingmai bangla, thoh hang neh aka hma buemtui bangla, cangtilhmuen lamkah aka thikthuek cangkik bangla, bangbuet lamkah hmaikhu bangla om uh ni.
@@ -22348,6 +22348,7 @@ Ephraim kathaesainah loh puen a cak tih a tholhnah te a khoem pah coeng.
 Ca cun bungtloh loh anih taengah pai coeng. Anih tah camoe khaw a cueih moenih. Ca om tue vaengah khaw a om moenih.
 Amih te saelkhui kut lamloh ka lat ni. Amih te dueknah lamloh ka tlan ni. Dueknah nang kah duektahaw te melae? Saelkhui nang kah lucik te melae? Suemnah khaw ka mik lamloh thuh uh ni.
 Anih te pacaboeina lakli ah a thaih rhah mai cakhaw BOEIPA kah kanghawn yilh ha pai ni. Khosoek lamloh a khuen vetih a thunsih khaw kak ni. A tuisih khaw a khah pah ni. Anih te thakvoh khuikah sahnaih hnopai boeih a rhth pah ni.
+A Pathen te a koek dongah Samaria boe coeng. Cunghang dongah cungku uh vetih a camoe rhoek te a til uh ni. A bungvawn khaw a boe pah ni.
 Israel aw, na Pathen Yahweh taengla mael laeh. Namah kathaesainah dongah ni na paloe coeng.
 Ol te namah taengla lo lamtah BOEIPA taengla mael laeh. Amah te, “Thaesainah cungkuem he na phueih dongah hnothen he doe lamtah ka hmuilai vaito te neh kan thuung mai eh.
 Assyria loh kaimih n'khang moenih, marhang dongah ka ngol uh mahpawh. Namah ah cadah a haidam dongah kaimih kut kah bibi taengah kaimih kah Pathen koep ka ti uh mahpawh,” ti uh.
@@ -22357,7 +22358,6 @@ A dawn yam vetih a mueithennah te olive bangla om ni. A bo khaw Lebanon bangla u
 Mael uh vetih a hlipkhup kah khosa rhoek tah cangpai neh hing uh ni. Misur bangla saitlim vetih anih poekkoepnah te Lebanon misurtui bangla om ni.
 Ephraim, muei te kai hamla balam voel nim? Kai ka doo vetih anih ka mae ni. Kai tah hmaical hing banghui ni. Na thaih te kai lamloh tueng coeng.
 Unim aka cueih tih he he a yakming lah ve? A yakming daengah ni BOEIPA kah a thuem longpuei te a ming eh. Aka dueng rhoek te a khuiah pongpa uh dae boekoek rhoek tah a khuiah paloe uh.
-
 BOEIPA ol tah Pethuel capa Joel taengah pai.
 He he patong rhoek loh ya uh lamtah khohmuen khosa boeih loh hnatun uh. He he nangmih tue neh na pa rhoek tue ah khaw om noek nim?
 Te te na ca rhoek ham neh na ca rhoek kah a ca rhoek ham khaw, a ca rhoek kah cadilcahma patoeng ham khaw daek pah.
@@ -22405,32 +22405,32 @@ Cangtilhmuen ah cangpai bae vetih va-am ah misur thai neh situi baepet ni.
 Nangmih taengah kaisih, lungang, phol neh kamah kah lungmul caem muep kan tueih ti a caak te nang taengah a kum kum ah kan thuung bitni.
 A caak khaw na caak uh vetih na hah uh bitni. Te vaengah na Pathen BOEIPA ming te thangthen uh. Amah loh nangmih ham khobaerhambae la a saii dongah ka pilnam he kumhal duela yah a poh.
 Kai tah Israel khui kah la nan ming uh bitni. Te dongah kai he nangmih kah Pathen BOEIPA coeng tih a tloe om pawh. Ka pilnam tah kumhal duela yahpok mahpawh.
+He phoeiah om vetih pumsa cungkuem soah ka mueihla he ka lun ni. Na capa rhoek neh na canu rhoek tonghma uh ni. Nangmih kah patong rhoek loh mang a man uh vetih nangmih kah tongpang rhoek loh olphong a hmuh uh ni.
+Te khohnin ah salpa so neh sal huta soah pataeng ka mueihla ka lun ni.
+Vaan ah kopoekrhai, diklai ah khaw thii neh hmai neh hmaikhu tung ka tueng sak ni.
+Boeilen neh rhih om BOEIPA kah khohnin a pai tom vaengah khomik te hmaisuep la, hla te thii la poeh ni.
+BOEIP A ming aka khue boeih te loeih ni. Zion tlang neh Jerusalem ah loeihnah om ni. Te te BOEIPA loh a thui coeng dongah BOEIPA loh rhaengnaeng khuikah te khaw a khue.
 Te khohnin neh te vaeng tue ah Judah neh Jerusalem thongtla te ka mael rhoe ka mael puei ni.
 Namtom boeih te ka coi vetih amih Jehoshaphat kol la ka suntlak puei ni. Ka pilnam neh ka rho Israel kongah amih te lai ka soeh thil ni. Namtom taengah a yaal uh tih ka khohmuen he a tael uh dongah.
 Ka pilnam ham hmulung a naan uh. Te dongah tongpaca te pumyoi la a paek uh tih hutaca te ok ham la misurtui la a yoih uh.
 Tyre, Sidon neh Philistia saa boeih aw nang neh kai balae benbo? Kai soah aka thuung la na tiing uh nim? Kai he nan thuung uh cakhaw nangmih tiing bangla na lu ah tlek kan thuung paitok ni.
 Ka cak neh ka sui na loh uh tih ka ngailaemnah hnothen te na bawkim la na khuen uh.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Judah ca rhoek neh Jerusalem ca te Greek ca taengla na yoih uh tih a Khorhi dong lamloh amih te na lakhla sak.
+Amih yoih nah hmuen lamloh amih te pahoi ah ka haeng coeng he. Te dongah na thaphu te na lu ah kan thuung ni.
+Na canu na capa rhoek te Judah ca rhoek kut ah ka yoih vetih amih te Sabean taeng neh khohla namtom taengah a yoih uh ni tila BOEIPA loh a thui.
+He he namtom taengah doek uh laeh. Caemtloek te ciim uh laeh. Hlangrhalh rhoek haenghang uh laeh. Thoeih uh saeh lamtah caemtloek hlang boeih te paan uh saeh.
+Na tuktong te cunghang la, na vin te khaw cai la dae uh. Tattloel long khaw ka, “Hlangrhalh,” ti saeh.
+Kaepvai lamkah namtom boeih capit uh lamtah paan uh lamtah tingtun uh laeh. BOEIPA aw na hlangrhalh rhoek pahoi ah ael sak laeh.
+Haenghang saeh lamtah namtom te Jehoshaphat kol la cet uh saeh. Kaepvai kah namtom boeih te laitloek hamla kana ngol ni te.
+Cangah ham hmin coeng tih vinkui te tueih uh laeh. Lo uh, misur rhom khaw bae tih taemrhai uh laeh. va-am rhoek a baepet bangla amih kah boethae tah ping coeng.
+Oltloeknah tuikol ah tah hlangping la hlangping kak coeng ni. Oltloeknah tuikol ah BOEIPA kah khohnin yoei coeng.
+Khomik neh hla hmuep vetih aisi rhoek loh a aa a hloh ni.
+BOEIPA tah Zion lamloh kawk tih Jerusalem lamloh a ol a huel. Vaan neh diklai hinghuen dae BOEIPA tah a pilnam ham hlipyingnah neh Israel ca ham lunghim la om.
+Te dongah nangmih kah Pathen BOEIPA kamah he ka cimcaihnah tlang Zion ah kho a sak tila ming uh. Jerusalem he hmuencim la om vetih kholong loh te te koep caehpah mahpawh.
+Te khohnin a pha vaengah tlang kah thingtui cip vetih mol lamkah suktui long ni. Judah sokca boeih te tui long ni. Tuisih te BOEIPA im lamloh phuet vetih Shittim soklong te a suep ni.
+Egypt tah khopong la poeh vetih Edom khaw khosoek khopong la om ni. Judah ca rhoek kuthlahnah loh a khohmuen kah ommongsitoe thii te a long sak.
+Judah tah kumhal duela kho a sak vetih Jerusalem khaw a cadilcahma neh cadilcahma duela om ni.
+A thii dongah ka hmil mueh te ka hmil ni. BOEIPA he Zion ah kho a sak.
 Tekoa kah saelhung boei rhoek khuikah aka om Amos ol. Judah manghai Uzziah tue neh Israel manghai Joash capa Jeroboam tue, lingluei hmai kah kum vaengah Israel ham a hmuh pah.
 BOEIPA tah Zion lamloh kawk tih Jerusalem lamloh a ol a huel tih a thui. Te vaengah boiva aka dawn kah rhamtlim te nguekcoi tih Karmel lu rhae coeng.
 BOEIPA loh he ni a thui. Damasku kah boekoeknah pathum neh pali dongah anih te ka rhael mahpawh. Gilead te thi vueituk neh a boh.
@@ -22614,6 +22614,7 @@ Te vaengah laiphuei dongla mael ham hlang rhoek loh a kaih uh. Tedae tuitunli kh
 Te daengah BOEIPA te a khue uh tih, “Aw, Yahweh, he hlang kah hinglu dongah m'milh sak uh mai boeh. Ommongsitoe kah thii he kaimih soah khueh boeh. BOEIPA namah ham tah na ngaih bangla saii nawn,” a ti uh.
 Jonah te a pom uh tih amah ah tuitunli la a dong uh daengah ni tuitunli kah a hmai a tal khaw a duem pueng.
 Te dongah hlang loh BOEIPA a rhih uh he a rhihnah khaw len. BOEIPA taengah hmueih a nawn uh tih olcaeng khaw a caeng uh.
+Tedae Jonah aka dolh hamla nga len te BOEIPA loh a khueh coeng. Te dongah Jonah tah nga bung khuiah khothaih hnin thum neh khoyin hnin thum om.
 Jonah tah nga bung khui lamloh a Pathen BOEIPA taengah thangthui.
 Te vaengah, “BOEIPA te kamah kah citcai lamloh ka khue tih kai n'doo coeng. Saelkhui bung khui lamloh bomnah kam bih vaengah ka ol na yaak coeng.
 Kai he tuipuei tuilung neh tuiva laedil la nan voeih. Kai he na tuiphu boeih loh m'vael tih na lungkuk loh kai soah n'thing.
@@ -22624,7 +22625,6 @@ Kai lamkah ka rhae vaengah BOEIPA te ka hinglu neh ka poek. Namah kah hmuencim b
 A honghi aka ngaithuen rhoek loh a poeyoek la a sitlohnah a hnawt uh.
 Tedae kai tah namah taengah uemonah ol neh kan nawn vetih ka caeng bangla BOEIPA lamkah khangnah te ka thuung ni,” a ti.
 Te phoeiah BOEIPA loh nga te a uen tih Jonah te laiphuei dongah a tha.
-
 BOEIPA ol he Jonah taengah a pabae la cet tih,
 “Thoo, Nineveh khopuei len la cet lamtah nang taengah olthang ka thui te a taengah hoe pah,” a ti nah.
 Te dongah Jonah te thoo tih BOEIPA ol bangla Nineveh la cet. Te vaengah Nineveh tah Pathen taengah khopuei koek la om tih hnin thum caeh lo.
@@ -22700,7 +22700,6 @@ Zion nu, vawn tih ca-om bangla a poh coeng. Khorha lamloh n'khuen laeh saeh lamt
 “Poeih saeh lamtah mamih mik loh Zion te dawn saeh,” aka ti namtom rhoek khaw nang taengah muep tingtun uh coeng.
 Cangtilhmuen kah cangpa bangla amih a coi lalah amih loh BOEIPA kah kopoek te ming uh pawt tih a cilsuep khaw a yakming uh moenih.
 Zion nu aw, thoo lamtah til laeh. Na ki te thi kang khueh vetih na khomae ham khaw rhohum kang khueh ni. Pilnam boeiping khaw na tip sak vetih amih mueluemnah te BOEIPA hamla, a caem te diklai pum kah Boeipa hamla na thup pah ni.
-
 Tanu te hlap laeh. Caem loh mamih taengah vongup a khueh coeng. Israel laitloek kah a kam te caitueng neh a vuek uh pawn ni.
 Bethlehem Epharath nang tah Judah a thawng a sang lakli ah a noe la na om. Nang lamkah te kai yueng la thoeng vetih Israel aka taem la om ni. Te dongah hlamat lamkah khosuen tue lamloh a naat nah coeng.
 Te dongah amih te ca-om cacun tue hil a tloeng ni. Te vaengah a manuca hlangrhuel tah Israel ca taengla mael uh ni.
@@ -22715,6 +22714,7 @@ Na khohmuen kah khopuei rhoek ka hnawt vetih na hmuencak boeih te ka koengloeng 
 Sungrhai te na kut lamloh ka hnawt vetih kutyaek aka so khaw na taengah om mahpawh.
 Na mueidaep neh na kaam te na khui lamloh ka hnawt vetih na kut saii taengah na bakop voel mahpawh.
 Na khui lamloh nang kah Asherah te ka phong vetih na khopuei khaw ka milh sak ni.
+A yaak uh pawt bangla namtom taengah phulohnah te thintoek neh kosi neh ka saii ni.
 BOEIPA loh a thui te hnatun uh laeh. Thoo tlang te ho laeh. Na ol te som long khaw ya saeh.
 Tlang rhoek neh diklai yung cak loh BOEIPA kah tuituknah te hnatun saeh. BOEIPA kah tuituknah he a pilnam taeng neh Israel taengah a thui coeng.
 Ka pilnam nang taengah balae ka saii tih nang te metlam kang ngae? Kamah taengah thui lah.
@@ -22765,6 +22765,7 @@ Nang lamlong ni BOEIPA aka taeng la boethae kah olrhoep hlang muen khaw a thoeng
 BOEIPA loh he ni a thui. Rhuemtuet la ping uh tangloeng dae a vok uh vetih khum ni. Nang te kan phaep cakhaw nang kan phaep voel mahpawh.
 A cunghloeng te nang dong lamloh ka khaem pawn vetih na kuelrhui te khaw ka bawt ni.
 Nang ham te BOEIPA loh a uen coeng. Na ming ham khaw na pathen im ah soem voel mahpawh. Mueithuk neh mueihlawn te ka hnawt ni. Na phuel te thaephoei ham ni ka khueh eh.
+Tlang soah rhoepnah aka phong tih aka yaak sak kah a kho aih ke. Judah aw, na khotue ah lam laeh. Na olcaeng te thuung laeh. Aka paan ham long khaw na khuila paan ham tah khoep voel ngawn mahpawh. Aka muen tah a pum la a thup ni.
 Aka taek aka yak ham te na mikhmuh ah cet coeng. Kasam te kueinah lamtah longpuei te dawn laeh. Cinghen te moem lamtah thadueng te boeih huel laeh.
 Amih aka culh rhoek tah culh uh tih a thingluei te mit cakhaw, BOEIPA loh Jakob kah mingthennah te Israel kah mingthennah bangla a mael sak ngawn ni.
 A hlangrhalh rhoek kah photling tah thimyum tih tatthai hlang rhoek khaw thiling hmai leng neh nukyum uh. A khohnin ah sikim coeng tih hmaical a hlaek uh.
@@ -22778,7 +22779,6 @@ Hoengpawk neh daprhok la pong saeh. Lungbuei te yut saeh. Khuklu te khuep uh sae
 Sathueng khuirhung neh sathuengca kah a luemnah te melae? Sathueng neh sathuengnu te mela hnap a pongpa? Sathueng ca khaw lakueng a om moenih.
 Sathueng loh a casen rhoek te a rhoeh la a baeh tih amah sathuengnu hamla a kuiok sak. Te dongah a put te maeh neh, a khuisaek te saha neh a hu.
 Nang taengah ka pai coeng he. He tah caempuei BOEIPA kah olphong ni. Anih kah leng te hmaikhu la ka toih ni. Te dongah na sathueng te cunghang loh a yoop ni. Te phoeiah na maeh te diklai lamloh ka hnawt vetih na puencawn ol ya voel mahpawh.
-
 Anunae thii aka long khopuei aih, a pum la laithae tih longrhak ah bae, maeh khaw hlong tlaih pawh.
 Rhuihet ol neh hinghuennah kah lengkho ol mai neh. Marhang khaw rhetlo tih leng khaw a soek.
 Marhang caem te cet tih cunghang hmaihluei neh, khopha caai neh, rhokpam cungkuem neh rhok khaw hmoeng. Te dongah rhok te bawt pawt tih a rhok dongah paloe la paloe uh.
@@ -22962,6 +22962,10 @@ Te phoeiah kai taengah aka cal puencawn loh kai taengah, “Khue lamtah, 'Caempu
 Tedae kai he namtom hlang aka lawn taengah thinhul bat la ka thintoek. Ka thintoek khaw yol dae amih loh boethae te a koei uh.
 Te dongah BOEIPA loh he ni a thui. Jerusalem la haidamnah neh ka mael ni. A khuiah ka im a sak ni. He tah caempuei BOEIPA kah olphong ni. Jerusalem te rhilam rhui ka toe ni, 'ti nah.
 Koep pang lamtah, 'Caempuei BOEIPA loh he ni a thui. Ka khopuei rhoek ah hnothen neh baesawt pueng ni. BOEIPA loh Zion te koep a hloep vetih Jerusalem te koep a coelh ni, ' a ti nah,” a ti.
+Te phoeiah ka mik te ka huel tih ka sawt hatah ki pali lawt ka hmuh.
+Te dongah kai taengah aka cal puencawn te, “Balae he?” ka ti nah. Tedae kai taengah, “He ki rhoek loh Judah, Israel neh Jerusalem a thaek,” a ti.
+Te phoeiah BOEIPA loh kai te kutthai pali n'tueng.
+Te vaengah, “Amih aka lo long he balae a saii eh?” ka ti nah. Te dongah, “He rhoek kah ki loh Judah te a thaek uh tih hlang ol bangla a lu khaw dangrhoek thai pawh. Tedae Judah khohmuen aka tlai thil tih aka thaek ki, namtom kah ki te omtoem ham neh amih te lakueng sak hamla ha pai uh,” a ti.
 Ka mik ka huel tih ka sawt vaengah hlang pakhat te a kut dongkah cungnueh rhui neh tarha ana om.
 Te phoeiah, “Melam na caeh?” ka ti nah. Te dongah kai te, “Jerusalem he nueh ham, a daang meyet, a yun meyet khaw hmuh hamla,” a ti.
 Te vaengah kai taengah aka cal puencawn te tarha ha nong tih anih aka doe la puencawn a tloe ha pawk.
@@ -22975,10 +22979,6 @@ Zion nu, tamhoe lamtah kohoe sak. Ka lo coeng tih na khui ah kho ka sak ni he. H
 Te khohnin ah tah namtom rhoek te BOEIPA taengla muep naep uh ni. Kamah taengah pilnam la om uh vetih na khui ah kho ka sak ni. Te vaengah caempuei BOEIPA loh nang taengla kai n'tueih te na ming bitni.
 Te vaengah BOEIPA lohJudah te hmuencim khohmuen ah a khoyo a pang sak vetih Jerusalem te koep a coelh ni.
 Pumsa boeih he BOEIPA mikhmuh ah saah lah hoeih, a hmuencim kah khuirhung lamloh haenghang coeng.
-
-
-
-
 Te phoeiah BOEIPA puencawn hmai kah aka pai khosoih puei Joshua te kai n'tueng. Te vaengah Satan tah anih te khingkhoek hamla a bantang ah pai.
 BOEIPA loh Satan te, “BOEIPA loh, Satan nang te n'tluung saeh, Jerusalem aka coelh BOEIPA loh nang te n'tluung pai saeh. Hmaipok he hmai lamloh a huul moenih nama?,” a ti nah.
 Te vaengah Joshua kah himbai pueinak te a khawthaw la om tih puencawn mikhmuh ah pai.
@@ -23205,12 +23205,12 @@ Tedae mamih loh thinlen te n'uem uh bueng kolla, “Halangnah aka saii loh a tho
 Te vaengah BOEIPA aka rhih hlang long tah a hui neh a thui rhoi. Tedae BOEIPA loh a hnatung tih a yaak. Te dongah BOEIPA aka rhih ham neh a ming aka moeh ham tah a mikhmuh kah poekkoepnah cabu dongah a daek pah coeng.
 Caempuei BOEIPA loh a thui coeng. Kamah loh lungthen ka saii khohnin ah tah kamah taengah ni a om uh eh. Hlang loh amah taengah aka thotat a capa te lungma a ti vanbangla amih te lungma ka ti ni.
 Te vaengah na mael uh vetih aka dueng neh halang laklo khaw, Pathen taengah tho aka thueng neh tho aka thueng pawt khaw a laklo na hmuh bitni.
-
-
-
-
-
-
+Khohnin akapai tahhmaiulh bangla alh ngawn coeng he. Tedongah thinlen boeih neh halangnah akasaii boeih tahdivawt banglaom vetih khohnin akapai lohamih te a hlawp ni. Caempuei BOEIPA loh a thui bangla amih te a yung lamloh a hlaeng khawhnawt mahpawh.
+Tedae ka ming akarhih nangmih ham tahduengnah khomik thoeng ni. Tevaengah a phae dongkah hoeihnah neh cet vetih tesael-im kahsaelca bangla napet uh ni.
+“Ka saii khohnin ah tahhalang rhoek te naneet uh vetihna kho dongkahkhopha hmui ah hmaiphu la om ni,” tilacaempuei BOEIPA loh a thui.
+Ka sal Moses kaholkhueng poek uh. Te teIsrael boeih kaholtlueh neh laitloeknah ham niHoreb ah anih te kauen.
+BOEIPA kahrhihom khohnin puei a pai tom ah tonghma Elijah te nangmih taengla kan tueih coeng he.
+Tedongah pa rhoek kahlungbuei ca rhoektaengla, ca rhoek kahlungbuei a napa taengla a mael puei ni. Kacet tih khohmuen te yaehtaboeih la kangawn tarhave.
 He tah Abraham kah cadil, David kah cadil, Jesuh Khrih kah rhuirhong cabu ni.
 Abraham loh Isaak a sak tih, Isaak loh Jakob a sak, Jakob loh Judah boeinaphung a sak.
 Judah neh Tamar loh Perez neh Zerah a sak tih, Perez loh Herezon a sak, Hezron loh Aram a sak.
@@ -27691,7 +27691,7 @@ Te dongah hekah he oelh tloel la om coeng . Nangmih duem om ham neh marhumarhat 
 Nang khuen uh hlang rhoek he bawkim aka reth aih moenih, mamih kah pathen aka soehsal bal moenih.
 Te dongah Demetrius neh anih taengkah kutthai rhoek loh pakhat pakhat te olka a khueh thil oeh atah khoboei aka om rhoek taengah dumlo lailo te khuen uh saeh lamtah khat neh khat tingtoeh uh saeh.
 Tedae khat khat ni na kuek uh thil atah hlangboel kah a rhimong neh thuicaih pah saeh.
-Tihnin kah olpungnah kongah a lolh a om moenih. Te dongah tingtoeh uh ham tah khopo coeng. Tekah kawng neh lairhui dongkah olka he thuung thai sih ti moenih,” a ti nah.
+Tihnin kah olpungnah kongah a lolh a om moenih. Te dongah tingtoeh uh ham tah khopo coeng. Tekah kawng neh lairhui dongkah olka he thuung thai sih ti moenih,” a ti nah. Te tlam te a thui pah daengah ni hlangboel te khaw a paa pueng.
 Olpungnah a paa van neh hnukbang rhoek te Paul loh a tah tih a hloep. A toidal tih Makedonia ah caeh hamla suntla.
 Te rhoek pingpang a hil vaengah khaw amih te olka neh muep a thaphoh phoeiah Greek la pawk.
 Hla thum a om phoeiah Syria la kat ham cai dae Judah rhoek loh anih te mangtaengnah a khueh dongah Makedonia longah bal ham lungbuei om.

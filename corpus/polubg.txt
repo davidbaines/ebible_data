@@ -926,6 +926,7 @@ I Laban mówił dalej do Jakuba: Oto ten stos kamieni i oto ten pomnik, który p
 Ten stos jest świadkiem i ten pomnik jest świadkiem tego, że ja do ciebie nie pójdę dalej za ten stos i ty też nie pójdziesz do mnie za ten stos i pomnik w złym zamiarze.
 Bóg Abrahama i Bóg Nachora, Bóg ich ojca, niech rozsądzi między nami. Jakub przysiągł więc przez bojaźń swego ojca Izaaka.
 Potem Jakub złożył na wzgórzu ofiarę i wezwał swych braci do jedzenia chleba. Jedli więc chleb i nocowali na tym wzgórzu.
+Nazajutrz wcześnie rano Laban wstał, ucałował swoich synów i swoje córki i błogosławił im. A Laban odszedł i wrócił na swoje miejsce.
 Jakub też poszedł swoją drogą i spotkali go aniołowie Boga.
 Gdy Jakub ich ujrzał, powiedział: To obóz Boga. I nadał temu miejscu nazwę Machanaim.
 Potem Jakub wysłał przed sobą posłańców do swego brata Ezawa, do ziemi Seir, do krainy Edomu.
@@ -958,7 +959,6 @@ I Jakub spytał: Powiedz mi, proszę, twoje imię. A on odpowiedział: Czemu pyt
 Jakub nadał więc temu miejscu nazwę Penuel, mówiąc: Widziałem bowiem Boga twarzą w twarz, a moja dusza została zachowana.
 I kiedy minął miejsce Penuel, wzeszło słońce, a on utykał z powodu swojego biodra.
 Dlatego do dziś synowie Izraela nie jadają ścięgna, które jest w stawie biodrowym, gdyż dotknął Jakuba w staw biodrowy, w ścięgno, które się skurczyło.
-
 Potem Jakub podniósł oczy i zobaczył, że Ezaw nadchodzi, a z nim czterystu mężczyzn. Podzielił więc dzieci między Leę, Rachelę a dwie służące.
 I postawił na przodzie służące i ich dzieci, za nimi Leę i jej dzieci, a na końcu Rachelę z Józefem.
 Sam zaś wyszedł przed nich i pokłonił się siedem razy aż do ziemi, zanim doszedł do swego brata.
@@ -1709,10 +1709,6 @@ Lecz egipscy czarownicy uczynili to samo swoimi czarami. Pozostało więc zatwar
 Faraon odwrócił się i poszedł do swego domu, i tego również nie wziął sobie do serca.
 I wszyscy Egipcjanie kopali wokół rzeki w poszukiwaniu wody do picia, bo nie mogli pić wody z rzeki.
 I upłynęło siedem dni od chwili, gdy PAN uderzył rzekę.
-
-
-
-
 Potem PAN powiedział do Mojżesza: Idź do faraona i powiedz mu: Tak mówi PAN: Wypuść mój lud, aby mi służył.
 A jeśli będziesz się wzbraniał wypuścić go, oto dotknę żabami wszystkich twoich granic.
 Rzeka zaroi się od żab, które wypełzną i wedrą się do twego domu, do twej sypialni, na twoje łoże, do domu twoich sług, między twój lud, do twoich pieców i w twoje dzieże.
@@ -1741,6 +1737,10 @@ Faraon wezwał wówczas Mojżesza i Aarona i powiedział: Idźcie, złóżcie na
 Mojżesz odpowiedział: Nie godzi się tak czynić; bo to, co złożylibyśmy w ofierze PANU, naszemu Bogu, byłoby zgorszeniem dla Egipcjan. A gdybyśmy na oczach Egipcjan złożyli w ofierze to, co jest zgorszeniem, czyż nie ukamienowaliby nas?
 Pójdziemy w trzy dni drogi na pustynię i złożymy ofiarę PANU, naszemu Bogu, jak nam rozkaże.
 Faraon odpowiedział: Wypuszczę was, abyście mogli złożyć ofiarę PANU, waszemu Bogu, na pustyni, tylko nie oddalajcie się zbytnio. Wstawcie się też za mną.
+Mojżesz powiedział: Wychodzę od ciebie i wstawię się za tobą u PANA, aby rozmaite muchy odeszły jutro od faraona, od jego sług i od jego ludu. Tylko niech faraon już więcej nie oszukuje, nie chcąc wypuścić ludu, by złożył ofiarę PANU.
+Mojżesz wyszedł więc od faraona i wstawił się u PANA.
+I PAN uczynił według słowa Mojżesza, i oddalił rozmaite muchy od faraona, od jego sług i od jego ludu. Nie została ani jedna.
+Jednak faraon i tym razem zatwardził swe serce i nie wypuścił ludu.
 Potem PAN powiedział do Mojżesza: Idź do faraona i powiedz mu: Tak mówi PAN, Bóg Hebrajczyków: Wypuść mój lud, aby mi służył;
 Bo jeśli będziesz się wzbraniał go wypuścić i nadal będziesz go zatrzymywał;
 Oto ręka PANA będzie na twoje stada, które są na polu, na koniach, na osłach, na wielbłądach, na wołach i na owcach. Będzie bardzo ciężka zaraza.
@@ -2112,7 +2112,6 @@ Jeśli ktoś zostawi studnię odkrytą lub jeśli ktoś wykopie studnię i nie n
 Właściciel tej studni musi wyrównać stratę i wynagrodzi ich właścicielowi, a zdechłe zwierzę będzie należeć do niego.
 Także jeśli czyjś wół ubodzie na śmierć wołu jego sąsiada, wtedy sprzedadzą żywego wołu i podzielą się zapłatą za niego; podzielą się też tym zdechłym.
 Ale jeśli było wiadomo, że ten wół bódł przedtem, a jego właściciel nie pilnował go, musi oddać wołu za wołu, a zdechłe zwierzę będzie należeć do niego.
-
 Jeśli ktoś ukradnie wołu lub owcę i zabije je albo sprzeda, odda pięć wołów za jednego wołu i cztery owce za jedną owcę.
 Jeśli złodziej zostanie przyłapany przy włamaniu i tak pobity, że umrze, ten, kto zabił, nie będzie winien przelanej krwi.
 Jeśli to zrobi po wschodzie słońca, będzie winien krwi, gdyż złodziej powinien wypłacić odszkodowanie. Jeśli nic nie ma, będzie sprzedany za swoją kradzież.
@@ -2143,6 +2142,7 @@ Bo to ubranie jest jedynym okryciem jego ciała, w tym też śpi. Jeśli będzie
 Nie będziesz złorzeczyć sędziom, a przełożonego twego ludu nie będziesz przeklinać.
 Nie będziesz zwlekał ze złożeniem pierwocin twego zboża i płynnych zbiorów. Oddasz mi pierworodnego z twoich synów.
 To samo zrobisz z twoimi wołami i owcami. Siedem dni pierworodny będzie ze swoją matką, a ósmego dnia oddasz mi go.
+Będziecie dla mnie świętym ludem i nie będziecie jeść mięsa rozszarpanego na polu; wyrzucicie je psom.
 Nie będziesz rozgłaszał fałszywych wieści. Nie wchodź w spółkę z bezbożnym, by być fałszywym świadkiem.
 Nie idź za większością, aby wyrządzić zło, i nie zeznawaj w sprawie, ulegając zdaniu większości, by naginać sąd.
 I nie okazuj przychylności ubogiemu w jego sprawie.
@@ -2848,13 +2848,6 @@ I odda kapłanowi za to, czym przewinił przy rzeczach poświęconych, i dołoż
 Jeśli ktoś zgrzeszy i przekroczy nieświadomie którekolwiek z przykazań PANA, czyniąc to, czego nie wolno, stanie się winny i będzie obciążony nieprawością.
 Przyprowadzi do kapłana barana z trzody bez skazy według twojego oszacowania na ofiarę za przewinienie. A kapłan dokona za niego przebłagania za jego uchybienie, którego nieświadomie się dopuścił, i będzie mu przebaczone.
 Jest to ofiara za przewinienie, gdyż w istocie zawinił przeciwko PANU.
-
-
-
-
-
-
-
 Potem PAN powiedział do Mojżesza:
 Jeśli ktoś zgrzeszy i popełni przewinienie przeciwko PANU przez to, że zaprze się wobec bliźniego rzeczy powierzonej lub oddanej do przechowania, lub zrabowanej, albo przez to, że oszukał bliźniego;
 Albo jeśli znalazł rzecz zgubioną i zaprzeczał temu lub przysięgał fałszywie w jakiejkolwiek z tych spraw, które człowiek czyni, i przez to grzeszy;
@@ -2878,6 +2871,13 @@ Taka jest ofiara Aarona i jego synów, którą będą składać PANU w dniu sweg
 Będzie ona przyrządzona na patelni z oliwą. Przyniesiesz ją smażoną i będziesz składać w kawałkach jako ofiarę pokarmową na miłą woń dla PANA.
 Kapłan namaszczony na jego miejsce spośród jego synów będzie ją składać. Jest to ustawa wieczna dla PANA, cała będzie spalona.
 I każda kapłańska ofiara pokarmowa będzie spalona w całości. Nie może być spożywana.
+Potem PAN powiedział do Mojżesza:
+Powiedz Aaronowi i jego synom: Takie jest prawo ofiary za grzech: Na miejscu, gdzie będzie zabijana ofiara całopalna, zostanie zabita przed PANEM ofiara za grzech. Jest to rzecz najświętsza.
+Kapłan, który będzie ją składał za grzech, będzie ją jeść. Będzie spożywana na miejscu świętym, na dziedzińcu Namiotu Zgromadzenia.
+Każdy, kto dotknie jej mięsa, będzie poświęcony. A jeśli szata będzie opryskana jej krwią, wypierzesz na miejscu świętym to, co zostało opryskane.
+A naczynie gliniane, w którym ją gotowano, zostanie stłuczone. A jeśli była gotowana w naczyniu miedzianym, zostanie wyszorowane i wypłukane wodą.
+Każdy mężczyzna spośród kapłanów będzie ją jeść. Jest to rzecz najświętsza.
+A żadna ofiara za grzech, której krew wnosi się do Namiotu Zgromadzenia dla oczyszczenia w świątyni, nie będzie jedzona, lecz zostanie spalona w ogniu.
 Takie jest prawo ofiary za przewinienie: jest to rzecz najświętsza.
 Na miejscu, gdzie zabijają ofiarę całopalną, zabiją ofiarę za przewinienie, a pokropią jej krwią z wierzchu dokoła ołtarz.
 I kapłan złoży w ofierze cały jej tłuszcz, ogon i tłuszcz pokrywający wnętrzności;
@@ -4228,6 +4228,21 @@ A ziemia otworzyła swoją paszczę, i pochłonęła ich oraz ich domy i wszystk
 I zstąpili oni razem ze wszystkim, co mieli, żywcem do piekła, i ziemia ich okryła; tak zginęli spośród zgromadzenia.
 Wszyscy zaś Izraelici, którzy stali wokół nich, uciekli na ich krzyk, bo mówili: By i nas ziemia nie pochłonęła.
 Wyszedł też ogień od PANA i pochłonął tych dwustu pięćdziesięciu mężczyzn, którzy ofiarowali kadzidło.
+I PAN powiedział do Mojżesza:
+Powiedz do Eleazara, syna kapłana Aarona, niech pozbiera kadzielnice z tego pogorzeliska, a ogień niech rozrzuci dalej. Są bowiem poświęcone.
+A kadzielnice tych, którzy zgrzeszyli przeciwko własnym duszom, rozbijcie na blachy na pokrycie ołtarza. Ofiarowali je bowiem przed PANEM, są więc poświęcone. Dlatego będą znakiem dla synów Izraela.
+Pozbierał więc kapłan Eleazar miedziane kadzielnice, w których ofiarowali ci, którzy spłonęli, i rozbito je na blachy na pokrycie ołtarza;
+Na pamiątkę dla synów Izraela, aby żaden obcy, który nie jest z potomstwa Aarona, nie zbliżał się do składania kadzidła przed PANEM i żeby go nie spotkało to, co spotkało Koracha i jego gromady, jak PAN mu powiedział przez Mojżesza.
+A nazajutrz całe zgromadzenie synów Izraela szemrało przeciwko Mojżeszowi i Aaronowi: Wy spowodowaliście śmierć ludu PANA.
+I gdy zgromadzenie zbierało się przeciw Mojżeszowi i Aaronowi, spojrzeli w stronę Namiotu Zgromadzenia, a oto okrył go obłok i ukazała się chwała PANA.
+Wtedy Mojżesz z Aaronem przyszli przed Namiot Zgromadzenia.
+I PAN powiedział do Mojżesza:
+Wyjdźcie spośród tego zgromadzenia, a zniszczę je w mgnieniu oka; i upadli na twarz.
+Potem Mojżesz powiedział do Aarona: Weź kadzielnicę, włóż w nią ogień z ołtarza, nałóż też kadzidła i pójdź szybko do zgromadzenia, i zrób przebłaganie za nich, bo już wyszedł gniew od PANA i już zaczęła się plaga.
+Aaron wziął więc kadzielnicę, jak mu rozkazał Mojżesz, i pobiegł w środek zgromadzenia, a oto już zaczęła się plaga wśród ludzi; nałożył kadzidła i dokonał przebłagania za lud.
+I Aaron stał między umarłymi i żywymi i plaga została powstrzymana.
+Tych, co umarli od tej plagi, było czternaście tysięcy siedemset, oprócz tych, którzy umarli w związku ze sprawą Koracha.
+Potem Aaron wrócił do Mojżesza przed wejście do Namiotu Zgromadzenia, a plaga została zatrzymana.
 Potem PAN powiedział do Mojżesza:
 Mów do synów Izraela i weź od każdego z nich po lasce według domów ich ojców, od wszystkich ich naczelników według domów ich ojców dwanaście lasek, a imię każdego napisz na jego lasce.
 A imię Aarona napiszesz na lasce Lewiego, gdyż jedna laska będzie dla każdego naczelnika z domu ich ojców.
@@ -4241,21 +4256,6 @@ I PAN powiedział do Mojżesza: Połóż laskę Aarona z powrotem przed Świadec
 I Mojżesz tak uczynił; jak PAN mu rozkazał, tak uczynił.
 I synowie Izraela powiedzieli do Mojżesza: Oto umieramy, giniemy, wszyscy giniemy;
 Każdy, kto zbliża się do przybytku PANA, umrze. Czy mamy doszczętnie zginąć?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Potem PAN powiedział do Aarona: Ty, twoi synowie i dom twego ojca z tobą, odpowiecie za nieprawość świątyni. Ty i twoi synowie z tobą również odpowiecie za nieprawość waszego kapłaństwa.
 A twoim braciom z pokolenia Lewiego, z rodu twego ojca, pozwól do siebie przychodzić, aby dołączyli do ciebie i usługiwali tobie; ty zaś i twoi synowie z tobą będziecie pełnić służbę przed Namiotem Świadectwa.
 Oni będą przestrzegać twego nakazu i pełnić straż nad całym namiotem. Nie mogą jednak zbliżać się do sprzętów świątyni i do ołtarza, żeby nie pomarli ani oni, ani wy.
@@ -4647,6 +4647,7 @@ Złożycie całopalenie jako ofiarę spalaną, na miłą woń dla PANA, jednego 
 Ich ofiarę pokarmową i ich ofiary z płynów do cielca, do barana i do każdego baranka, według ich liczby i według ich przepisów;
 Oraz jednego kozła na ofiarę za grzech oprócz nieustannego całopalenia, jego ofiary pokarmowej i jego ofiary z płynów.
 To wszystko będziecie składać PANU podczas waszych uroczystych świąt oprócz waszych ślubów i dobrowolnych ofiar na wasze całopalenia, na wasze ofiary pokarmowe, na wasze ofiary z płynów i na wasze ofiary pojednawcze.
+I Mojżesz powiedział synom Izraela wszystko, co PAN mu rozkazał.
 Potem Mojżesz powiedział do naczelników pokoleń pośród synów Izraela: Oto co PAN rozkazał.
 Jeśli mężczyzna złoży PANU ślub lub przysięgę i zwiąże swoją duszę zobowiązaniem, to nie złamie swego słowa; wypełni wszystko według tego, co wyszło z jego ust.
 Jeśli kobieta złoży PANU ślub i zwiąże się zobowiązaniem w domu swego ojca, w swojej młodości;
@@ -4663,7 +4664,6 @@ Wszelki ślub i wszelką przysięgę zobowiązania na trapienie duszy może jej 
 A jeśli jej mąż będzie milczał dzień po dniu, to potwierdza wszystkie jej śluby i wszystkie jej zobowiązania, które ją wiążą. Potwierdza je, ponieważ milczał o tym w dniu, kiedy je usłyszał;
 Lecz jeśli je usłyszał i dopiero później unieważni, to poniesie jej nieprawość.
 To są ustawy, które PAN przykazał Mojżeszowi, między mężem a jego żoną, między ojcem a jego córką w jej młodości, póki jest w domu swego ojca.
-
 I PAN powiedział do Mojżesza:
 Pomścij krzywdy synów Izraela na Midianitach. Potem zostaniesz przyłączony do swego ludu.
 Mojżesz powiedział więc do ludu: Przygotujcie spośród siebie mężczyzn do bitwy, aby wyruszyli przeciw Midianitom i dokonali na nich zemsty PANA.
@@ -5271,6 +5271,7 @@ Przestrzegaj i słuchaj wszystkich tych słów, które ci nakazuję, aby dobrze 
 Gdy PAN, twój Bóg, wytępi przed tobą narody, do których idziesz, by nimi zawładnąć, i opanujesz je, i zamieszkasz w ich ziemi;
 Strzeż się, byś się nie dał usidlić, idąc za nimi, gdy będą wytępione przed tobą; nie pytaj się też o ich bogów, mówiąc: W jaki sposób te narody służyły swoim bogom? Tak samo i ja uczynię.
 Nie uczynisz tak PANU, swemu Bogu, gdyż wszystko, czym brzydzi się PAN i czego nienawidzi, czynili swoim bogom; nawet swoich synów i swoje córki palili w ogniu dla swoich bogów.
+Cokolwiek wam nakazuję, pilnie wypełniajcie. Nic do tego nie dodasz ani od tego nie ujmiesz.
 Jeśli powstanie pośród was prorok albo ktoś, kto ma sny, i ukaże ci znak lub cud;
 I stanie się ten znak albo cud, o którym ci oznajmił, i powie: Pójdźmy za innymi bogami, których ty nie znasz, i służmy im;
 Nie usłuchasz słów tego proroka ani tego, który ma sny, gdyż PAN, wasz Bóg, doświadcza was, aby poznać, czy miłujecie PANA, swego Boga, z całego swego serca i całą swoją duszą.
@@ -5289,7 +5290,6 @@ Koniecznie wytracisz mieszkańców tego miasta ostrzem miecza, zniszczysz je dos
 A cały jego łup zbierzesz na środku placu i doszczętnie spalisz w ogniu miasto razem z całym łupem dla PANA, swego Boga. I będzie zwaliskiem wiecznym, nigdy nie zostanie odbudowane.
 I nie zostanie w twoich rękach nic z tych rzeczy przeklętych, aby PAN odwrócił gniew swojej zapalczywości i okazał ci miłosierdzie, i zmiłował się nad tobą, i rozmnożył cię, jak poprzysiągł twoim ojcom;
 Gdy będziesz słuchał głosu PANA, swego Boga, zachowując wszystkie jego przykazania, które ci dziś nakazuję, byś czynił to, co prawe w oczach PANA, twojego Boga.
-
 Jesteście dziećmi PANA, swojego Boga. Nie będziecie się kaleczyć ani robić łysiny między swymi oczyma po umarłym;
 Jesteś bowiem ludem świętym dla PANA, swego Boga, i PAN wybrał cię, abyś był dla niego szczególnym ludem spośród wszystkich narodów, które są na ziemi.
 Nie będziesz jeść nic obrzydliwego.
@@ -5499,6 +5499,7 @@ Ale dziewczynie nic nie uczynisz; dziewczyna nie zasługuje na śmierć, gdyż j
 Napotkał ją bowiem w polu, a gdy zaślubiona dziewczyna krzyczała, nie było nikogo, kto by ją uratował.
 Jeśli mężczyzna napotka dziewczynę, która jest dziewicą i niezaślubiona, pochwyci ją i będzie z nią obcował, i zostaną przyłapani;
 Wtedy mężczyzna, który z nią obcował, da ojcu dziewczyny pięćdziesiąt syklów srebra i będzie ona jego żoną; a ponieważ ją zhańbił, nie będzie mógł jej oddalić po wszystkie swoje dni.
+Nie pojmie mężczyzna żony swego ojca i nie odkryje brzegu szaty swego ojca.
 Ten, kto ma zgniecione jądra lub odcięty członek, nie wejdzie do zgromadzenia PANA.
 Żaden bękart nie wejdzie do zgromadzenia PANA; nawet jego dziesiąte pokolenie nie wejdzie do zgromadzenia PANA.
 Nie wejdzie też Ammonita ani Moabita do zgromadzenia PANA; nawet ich dziesiąte pokolenie nie wejdzie do zgromadzenia PANA aż na wieki;
@@ -5524,7 +5525,6 @@ Lecz jeśli nie będziesz ślubował, grzech nie będzie na tobie ciążył.
 To, co wyjdzie z twoich ust, wypełnisz i uczynisz, gdyż dobrowolnie ślubowałeś PANU, swemu Bogu, co powiedziałeś swoimi ustami.
 Gdy wejdziesz do winnicy swego bliźniego, możesz jeść do syta tyle winogron, ile chcesz, lecz do swego naczynia nie wkładaj.
 Gdy wejdziesz w zboże swego bliźniego, możesz zrywać kłosy swoją ręką, lecz sierpa nie zapuszczaj w zboże swego bliźniego.
-
 Jeśli mężczyzna poślubi kobietę i zostanie jej mężem, a potem zdarzy się, że nie znajdzie ona upodobania w jego oczach, gdyż znalazł u niej coś nieprzyzwoitego, wtedy wypisze jej list rozwodowy, wręczy go jej i odprawi ją ze swego domu.
 A gdy ona opuści jego dom, może wyjść za mąż za innego.
 A jeśli drugi mąż ją znienawidzi, wypisze jej list rozwodowy, wręczy go jej i odprawi ją ze swego domu, albo jeśli umrze ten drugi mąż, który pojął ją za żonę;
@@ -5679,7 +5679,6 @@ A wśród tych narodów nie zaznasz wytchnienia ani stopa twojej nogi nie odpocz
 I twoje życie będzie przed tobą jakby w zawieszeniu, będziesz się lękał w nocy i we dnie i nie będziesz pewien swego życia.
 Rano powiesz: Oby już był wieczór, a wieczorem powiesz: Oby już był ranek; z powodu strachu w twoim sercu, który będziesz odczuwać, i z powodu tego, co zobaczą twoje oczy.
 I PAN zawróci cię do Egiptu na okrętach drogą, o której ci powiedziałem, że już jej nie zobaczysz. Tam będziecie się sprzedawać swoim wrogom jako niewolnicy i niewolnice, ale nikt was nie kupi.
-
 To są słowa przymierza, które PAN nakazał Mojżeszowi zawrzeć z synami Izraela w ziemi Moabu, oprócz przymierza, które zawarł z nimi na Horebie.
 I Mojżesz zwołał cały Izrael, i przemówił do nich: Widzieliście wszystko, co PAN uczynił na waszych oczach w ziemi Egiptu faraonowi, wszystkim jego sługom i całej jego ziemi:
 Te wielkie próby, które widziały twoje oczy, znaki i wielkie cuda.
@@ -5708,6 +5707,7 @@ I odpowiedzą: Ponieważ porzucili przymierze PANA, Boga swych ojców, które za
 Poszli bowiem służyć innym bogom i oddali im pokłon – bogom, których nie znali i których im nie przydzielił.
 Dlatego gniew PANA zapłonął przeciw tej ziemi, aby sprowadzić na nią wszelkie przekleństwa zapisane w tej księdze.
 I PAN wykorzenił ich z ich ziemi w gniewie i zapalczywości oraz w wielkim oburzeniu i wyrzucił ich do obcej ziemi, jak to dziś widzicie.
+Rzeczy tajemne należą do PANA, naszego Boga, a objawione – do nas i naszych synów na wieki, abyśmy wypełniali wszystkie słowa tego prawa.
 A gdy spadnie na ciebie to wszystko, błogosławieństwo i przekleństwo, które przedłożyłem przed tobą, a wspomnisz je sobie w swym sercu pośród wszystkich narodów, do których PAN, twój Bóg, cię wypędzi;
 I zawrócisz do PANA, swego Boga, i będziesz słuchał jego głosu we wszystkim, co ci dziś nakazuję, ty i twoi synowie, z całego swego serca i całą swoją duszą;
 Wtedy PAN, twój Bóg, wyprowadzi cię z twego więzienia i zlituje się nad tobą, i przywróci, i zgromadzi cię ze wszystkich narodów, wśród których PAN, twój Bóg, cię rozproszył.
@@ -7771,6 +7771,7 @@ I Jonatan wołał za chłopcem: Szybko, pośpiesz się, nie stój! Chłopiec Jon
 Lecz chłopiec nic nie wiedział, tylko Jonatan i Dawid znali sprawę.
 I Jonatan oddał swój oręż swemu chłopcu, i powiedział mu: Idź, odnieś to do miasta.
 A gdy chłopiec odszedł, Dawid wstał z miejsca, od strony południowej, upadł twarzą na ziemię i ukłonił się trzy razy. Potem pocałowali się wzajemnie i razem płakali, a Dawid obficiej.
+
 I Jonatan powiedział do Dawida: Idź w pokoju. Obaj bowiem poprzysięgliśmy sobie w imię PANA, mówiąc: Niech PAN będzie między mną a tobą i między moim potomstwem a twoim potomstwem na wieki. Wstał więc i odszedł, a Jonatan wszedł do miasta.
 Potem Dawid przyszedł do Nob, do kapłana Achimeleka. Achimelek wyszedł przestraszony naprzeciw Dawida i zapytał go: Dlaczego jesteś sam i nie ma z tobą nikogo?
 Dawid odpowiedział kapłanowi Achimelekowi: Król zlecił mi pewną sprawę, nakazując: Niech nikt nie wie o tej sprawie, z którą cię wysyłam i którą ci zleciłem. Z tego powodu umówiłem się ze swoimi sługami w pewnym miejscu.
@@ -7787,7 +7788,6 @@ I Dawid wziął sobie te słowa do serca, i bardzo się bał Akisza, króla Gat.
 Zmienił więc przed nimi swoje zachowanie i udawał szalonego w ich rękach, bazgrał na wrotach bramy i pozwalał, aby ślina spływała mu po brodzie.
 Wtedy Akisz powiedział do swoich sług: Oto widzicie człowieka szalonego. Dlaczego przyprowadziliście go do mnie?
 Czy brakuje mi szaleńców, że przyprowadziliście tego, aby szalał przede mną? Czy on ma wejść do mego domu?
-
 Potem Dawid odszedł stamtąd i uciekł do jaskini Adullam. Kiedy jego bracia i cała rodzina jego ojca usłyszeli o tym, przyszli tam do niego.
 I zebrali się wokół niego wszyscy, którzy byli uciśnieni, wszyscy, którzy byli zadłużeni, oraz wszyscy, którzy byli rozgoryczeni, a on stał się ich przywódcą. I było przy nim około czterystu mężczyzn.
 Stamtąd Dawid poszedł do Mispy w Moabie i powiedział do króla Moabu: Pozwól, proszę, by mój ojciec i moja matka przyszli i mieszkali z wami, aż się dowiem, co Bóg ze mną uczyni.
@@ -7839,6 +7839,7 @@ Saul wraz z jego ludźmi również poszli, aby go szukać. Gdy doniesiono o tym 
 I Saul szedł po jednej stronie góry, a Dawid i jego ludzie szli po drugiej stronie góry. I Dawid spieszył się, aby ujść przed Saulem, gdyż Saul i jego ludzie już otaczali Dawida i jego ludzi, aby ich pojmać.
 Tymczasem posłaniec przybył do Saula, mówiąc: Pośpiesz się i chodź, bo Filistyni wtargnęli do ziemi.
 Saul zawrócił więc od pościgu za Dawidem i wyruszył przeciw Filistynom. Dlatego nazwano to miejsce Sela-Hammalekot.
+Dawid zaś wyruszył stamtąd i przebywał w miejscach obronnych w En-Gedi.
 A gdy Saul wrócił z pościgu za Filistynami, doniesiono mu: Oto Dawid przebywa na pustyni En-Gedi.
 Saul wziął więc trzy tysiące doborowych mężczyzn spośród całego Izraela i wyruszył na poszukiwanie Dawida i jego ludzi po skałach dzikich kóz.
 I przybył do owczych zagród przy drodze, gdzie była jaskinia. Wszedł do niej Saul, by zakryć sobie nogi. Dawid zaś i jego ludzie siedzieli w głębi jaskini.
@@ -7861,7 +7862,6 @@ Gdy ktoś spotka swego wroga, to czy wypuści go na dobrą drogę? Niech PAN odp
 A teraz oto wiem, że z pewnością będziesz królem i że królestwo Izraela ostoi się w twojej ręce.
 Przysięgnij mi więc na PANA, że nie wytępisz mojego potomstwa po mnie i nie wytracisz mojego imienia z domu mego ojca.
 I Dawid przysiągł Saulowi. Potem Saul wrócił do swego domu, a Dawid i jego ludzie udali się do miejsca obronnego.
-
 Tymczasem Samuel umarł. I zebrali się wszyscy Izraelici, opłakiwali go i pogrzebali go w jego domu w Rama. Wtedy Dawid wstał i udał się na pustynię Paran.
 A był pewien człowiek w Maon, który miał posiadłość w Karmelu. Był to człowiek zamożny: miał bowiem trzy tysiące owiec i tysiąc kóz. Wtedy właśnie strzygł swoje owce w Karmelu.
 Człowiek ten miał na imię Nabal, a jego żona nazywała się Abigail. Była to kobieta roztropna i piękna, ale jej mąż był nieokrzesany i występny, pochodził z rodu Kaleba.
@@ -8511,6 +8511,7 @@ Król zapytał: Czy dobrze się ma młodzieniec Absalom? Achimaas odpowiedział:
 Potem król powiedział: Odejdź na bok i stań tam. On więc odstąpił i stanął.
 Wtedy przybył Kusz i powiedział: Mam dobrą nowinę, mój panie, królu! PAN cię wybawił dzisiaj z ręki wszystkich, którzy powstali przeciw tobie.
 Król zapytał Kuszego: Czy dobrze się ma młodzieniec Absalom? Odpowiedział Kusz: Oby wrogowie mego pana, króla, i wszyscy, którzy powstają przeciw tobie na nieszczęście, byli jak ten młodzieniec!
+Wtedy król zasmucił się, wstąpił do komnaty nad bramą i zapłakał. A idąc, tak mówił: Mój synu, Absalomie! Mój synu, mój synu, Absalomie! Obym ja umarł zamiast ciebie! Absalomie, mój synu, mój synu!
 I zawiadomiono Joaba: Oto król płacze i lamentuje z powodu Absaloma.
 Tak więc zwycięstwo tego dnia zamieniło się w żałobę dla całego ludu. Lud bowiem usłyszał w tym dniu, jak mówiono: Król ubolewa nad swoim synem.
 I lud wkradał się tego dnia, gdy wchodzili do miasta, tak jak wkrada się lud, który jest okryty hańbą i ucieka z bitwy.
@@ -8554,7 +8555,6 @@ Potem król udał się do Gilgal, poszedł też z nim Kimham. Cały lud Judy tow
 A oto wszyscy ludzie Izraela przyszli do króla i zapytali go: Czemu nasi bracia, ludzie z Judy, wykradli cię i przeprowadzili króla i jego dom przez Jordan wraz ze wszystkimi ludźmi Dawida?
 I wszyscy ludzie Judy odpowiedzieli ludziom Izraela: Ponieważ król jest z nami spokrewniony. A dlaczego gniewacie się z tego powodu? Czy król za to dawał nam jeść albo czy obdarował nas jakimś darem?
 Wtedy ludzie Izraela odpowiedzieli ludziom Judy: Mamy w królu dziesięć części, toteż mamy większe prawo do Dawida niż wy. Dlaczego nas lekceważyliście? Czy nie my pierwsi mówiliśmy o sprowadzeniu z powrotem swego króla? Ale słowa ludzi Judy były surowsze niż słowa ludzi Izraela.
-
 I znalazł się tam przypadkiem człowiek Beliala imieniem Szeba, syn Bikriego, Beniaminita. Ten zadął w trąbę i powiedział: Nie mamy działu w Dawidzie ani nie mamy dziedzictwa w synu Jessego. Każdy do swojego namiotu, o Izraelu!
 Odstąpili więc od Dawida wszyscy ludzie Izraela i poszli za Szebą, synem Bikriego. Ale ludzie Judy, od Jordanu aż do Jerozolimy, trzymali się swego króla.
 I Dawid przyszedł do swego domu w Jerozolimie. Wtedy król wziął dziesięć kobiet, nałożnic, które pozostawił, aby strzegły domu, umieścił je w strzeżonym domu i utrzymywał, ale nie obcował z nimi. Pozostały one zamknięte aż do dnia swej śmierci, jakby we wdowieństwie.
@@ -8865,6 +8865,20 @@ Jehoszafat, syn Paruacha – w Issacharze.
 Szimei, syn Eli – w Beniaminie.
 Geber, syn Uriego – w ziemi Gilead, ziemi Sichona, króla Amorytów, i Oga, króla Baszanu. Był on jedynym namiestnikiem tej ziemi.
 A Juda i Izrael byli tak liczni jak piasek nad morzem. Jedli, pili i radowali się.
+A Salomon panował nad wszystkimi królestwami od rzeki aż do ziemi Filistynów, aż do granicy Egiptu. Płaciły one daninę i służyły Salomonowi po wszystkie dni jego życia.
+Wyżywienie dla Salomona na jeden dzień wynosiło trzydzieści kor najlepszej mąki i sześćdziesiąt kor zwykłej mąki.
+Dziesięć tucznych wołów, dwadzieścia wołów z pastwiska, sto owiec, nie licząc jeleni, saren, danieli i tucznego drobiu.
+Panował bowiem nad całym obszarem z tej strony rzeki, od Tifsach aż do Gazy, nad wszystkimi królami z tej strony rzeki. I miał pokój ze wszystkich stron dokoła.
+Juda i Izrael mieszkali bezpiecznie, każdy pod swoją winoroślą i pod swoim drzewem figowym, od Dan aż do Beer-Szeby, po wszystkie dni Salomona.
+Salomon miał też czterdzieści tysięcy koni w stajniach do swoich rydwanów i dwanaście tysięcy jeźdźców.
+Namiestnicy, każdy w swoim miesiącu, zaopatrywali w żywność króla Salomona i wszystkich, którzy przychodzili do stołu króla Salomona, tak że niczego nie brakowało.
+Także jęczmień i słomę dla koni i mułów sprowadzali na to miejsce, gdzie one przebywały, każdy według swojego obowiązku.
+A Bóg dał Salomonowi mądrość i bardzo wielkie zrozumienie oraz przestronność serca jak piasek, który jest na brzegu morskim.
+I mądrość Salomona była większa od mądrości wszystkich narodów wschodnich i od wszelkiej mądrości Egiptu.
+Był mądrzejszy niż wszyscy ludzie, niż Etan Ezrachita, Heman, Kalkol i Darda, synowie Machola. Był sławny wśród wszystkich okolicznych narodów.
+Wypowiedział trzy tysiące przysłów, a jego pieśni było tysiąc pięć.
+Wypowiadał się też o drzewach, poczynając od cedru na Libanie aż do hizopu, który wyrasta z muru. Mówił też o zwierzętach, ptakach, płazach i rybach.
+Przychodzili więc ludzie ze wszystkich narodów, aby słuchać mądrości Salomona, od wszystkich królów ziemi, którzy słyszeli o jego mądrości.
 Hiram, król Tyru, wysłał swoje sługi do Salomona, bo usłyszał, że namaszczono go na króla w miejsce jego ojca. Hiram bowiem kochał Dawida przez wszystkie dni.
 Salomon też posłał do Hirama taką wiadomość:
 Ty wiesz, że mój ojciec Dawid nie mógł budować domu dla imienia PANA, swego Boga, z powodu wojen, które go otaczały, dopóki PAN nie poddał jego wrogów pod stopy jego nóg.
@@ -8883,20 +8897,6 @@ Salomon miał też siedemdziesiąt tysięcy ludzi do dźwigania ciężarów oraz
 Oprócz naczelnych urzędników Salomona, którzy nadzorowali pracę, miał też trzy tysiące trzystu przełożonych nad ludźmi wykonującymi pracę.
 Król rozkazał również, aby przywieziono kamienie wielkie, kamienie drogie i kamienie ciosane na założenie fundamentów domu.
 Ciosali je więc budowniczowie Salomona i Hirama oraz Gibilici. I tak przygotowali drewno i kamienie na budowę domu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 W roku czterysta osiemdziesiątym po wyjściu synów Izraela z ziemi Egiptu, w czwartym roku panowania Salomona nad Izraelem, w miesiącu Ziw, to jest drugim miesiącu, Salomon rozpoczął budować dom PANA.
 A ten dom, który król Salomon budował dla PANA, miał sześćdziesiąt łokci długości, dwadzieścia łokci szerokości i trzydzieści łokci wysokości.
 Przedsionek domu przed świątynią miał dwadzieścia łokci długości, stosownie do szerokości domu, i dziesięć łokci szerokości przed domem.
@@ -9523,6 +9523,7 @@ A pozostałe sprawy Achaba i wszystko, co uczynił, oraz dom z kości słoniowej
 I Achab zasnął ze swymi ojcami, a królował jego syn Achazjasz w jego miejsce.
 A Jehoszafat, syn Asy, zaczął królować nad Judą w czwartym roku Achaba, króla Izraela.
 Jehoszafat miał trzydzieści pięć lat, gdy zaczął królować, a dwadzieścia pięć lat królował w Jerozolimie. Jego matka miała na imię Azuba i była córką Szilchiego.
+
 I szedł wszystkimi drogami Asy, swego ojca, i nie zboczył z nich, czyniąc to, co było dobre w oczach PANA. Jednak wyżyn nie usunięto. Lud bowiem jeszcze składał ofiary i palił kadzidło na wyżynach.
 Jehoszafat także zawarł pokój z królem Izraela.
 A pozostałe sprawy Jehoszafata i jego potęga, którą pokazywał, i to, jak walczył – czyż nie są zapisane w kronikach królów Judy?
@@ -9534,7 +9535,6 @@ I Jehoszafat zasnął ze swymi ojcami, i został pogrzebany wraz z nimi w mieśc
 Achazjasz, syn Achaba, zaczął królować nad Izraelem w Samarii w siedemnastym roku Jehoszafata, króla Judy, i królował nad Izraelem dwa lata.
 Czynił to, co złe w oczach PANA, idąc drogą swego ojca, drogą swej matki i drogą Jeroboama, syna Nebata, który przywiódł Izraela do grzechu.
 Służył bowiem Baalowi, oddawał mu pokłon i pobudzał do gniewu PANA, Boga Izraela, według wszystkiego, co czynił jego ojciec.
-
 Po śmierci Achaba Moab zbuntował się przeciw Izraelowi.
 A Achazjasz wypadł przez kratę swej górnej komnaty w Samarii i zachorował. Wyprawił więc posłańców, mówiąc im: Idźcie i zapytajcie Belzebuba, boga Ekronu, czy wyzdrowieję z tej choroby.
 Lecz Anioł PANA powiedział do Eliasza Tiszbity: Wstań, wyjdź naprzeciw posłańcom króla Samarii i powiedz im: Czyż nie ma Boga w Izraelu, że idziecie radzić się Belzebuba, boga Ekronu?
@@ -9851,6 +9851,7 @@ Wtedy Jehojada zawarł przymierze między PANEM a królem i ludem, aby byli lude
 I cały lud tej ziemi wszedł do domu Baala i zburzył go. Rozbili doszczętnie jego ołtarze i posągi, a Mattana, kapłana Baala, zabili przed ołtarzami. Następnie kapłan ustanowił straż nad domem PANA.
 Potem wziął setników, dowódców i gwardzistów oraz cały lud tej ziemi. I sprowadzili króla z domu PANA, i przyszli przez bramę gwardii do domu królewskiego. I zasiadł na tronie królów.
 I cały lud tej ziemi radował się, a miasto się uspokoiło. Atalię zabili mieczem przy domu królewskim.
+Jehoasz miał siedem lat, gdy zaczął królować.
 W siódmym roku Jehu zaczął królować Jehoasz i królował czterdzieści lat w Jerozolimie. Jego matka miała na imię Sibia, była z Beer-Szeby.
 Jehoasz czynił to, co słuszne w oczach PANA, przez wszystkie swoje dni, w których uczył go kapłan Jehojada.
 Wyżyn jednak nie zniesiono i lud jeszcze składał ofiary, i palił kadzidło na tych wyżynach.
@@ -9872,7 +9873,6 @@ Jehoasz, król Judy, wziął więc wszystkie rzeczy poświęcone, które poświ�
 A pozostałe dzieje Jehoasza i wszystko, co czynił, czy nie są zapisane w kronikach królów Judy?
 Potem jego słudzy powstali i uknuli spisek przeciwko niemu, i zabili Joasza w domu na Millo, na drodze schodzącej do Silla;
 Jozachar, syn Szimeata, i Jozabad, syn Szomera, byli właśnie tymi sługami, którzy zabili go. A pogrzebali go z jego ojcami w mieście Dawida, a jego syn Amazjasz królował w jego miejsce.
-
 W dwudziestym trzecim roku Joasza, syna Achazjasza, króla Judy, Jehoachaz, syn Jehu, zaczął królować nad Izraelem w Samarii i królował siedemnaście lat.
 A czynił to, co złe w oczach PANA, naśladując grzechy Jeroboama, syna Nebata, który przywiódł Izraela do grzechu, i nie odstąpił od nich.
 I zapalił się gniew PANA przeciw Izraelowi, i wydał go w rękę Chazaela, króla Syrii, i w rękę Ben-Hadada, syna Chazaela, po wszystkie ich dni.
@@ -10456,21 +10456,6 @@ Ale synowie połowy pokolenia Manassesa mieszkali w tej ziemi i rozmnożyli się
 A oto są naczelnicy domów ich ojców: Efer, Jiszi, Eliel, Azriel, Jeremiasz, Hodawiasz i Jachdiel, dzielni wojownicy, ludzie sławni, naczelnicy domu swoich ojców.
 Lecz zgrzeszyli przeciw Bogu swoich ojców i cudzołożyli, idąc za bogami narodów tej ziemi, które Bóg zniszczył przed nimi.
 Wtedy Bóg Izraela pobudził ducha Pula, króla Asyrii, i ducha Tiglat-Pilesera, króla Asyrii, i uprowadził Rubenitów i Gadytów oraz połowę pokolenia Manassesa i zaprowadził ich do Chalach, do Chabor, do Hara i do rzeki Gozan; są tam aż do dziś.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Synowie Lewiego: Gerszom, Kehat i Merari.
 A synowie Kehata: Amram, Ishar, Chebron i Uzziel.
 A dzieci Amrama: Aaron, Mojżesz i Miriam. Synowie Aarona: Nadab, Abihu, Eleazar i Itamar.
@@ -10537,6 +10522,21 @@ Synom Merariego według ich rodzin przypadło losem od pokolenia Rubena, od poko
 Synowie Izraela dali Lewitom te miasta wraz z ich pastwiskami.
 A dali przez los od pokolenia synów Judy, od pokolenia synów Symeona i od pokolenia synów Beniamina te miasta, którym nadali ich imiona.
 A ci, którzy pochodzili z rodu synów Kehata, mieli miasta w granicach pokolenia Efraima.
+Dano im z miast schronienia: Sychem z jego pastwiskami na górze Efraim i Gezer z jego pastwiskami;
+Jokmeam z jego pastwiskami, Bet-Choron z jego pastwiskami;
+Ajjalon z jego pastwiskami i Gat-Rimmon z jego pastwiskami.
+Od połowy pokolenia Manassesa: Aner z jego pastwiskami, Bileam z jego pastwiskami. Dano to rodzinie pozostałych synów Kehata.
+Synom Gerszoma dano od połowy pokolenia Manassesa Golan w Baszanie z jego pastwiskami i Asztarot z jego pastwiskami;
+Od pokolenia Issachara – Kedesz z jego pastwiskami, Daberat z jego pastwiskami;
+Ramot z jego pastwiskami i Anem z jego pastwiskami.
+Od pokolenia Aszera: Maszal z jego pastwiskami, Abdon z jego pastwiskami;
+Chukok z jego pastwiskami i Rechob z jego pastwiskami.
+Od pokolenia Neftalego: Kedesz w Galilei z jego pastwiskami, Chammon z jego pastwiskami i Kiriataim z jego pastwiskami.
+Pozostałym synom Merariego dano od pokolenia Zebulona Rimmon z jego pastwiskami i Tabor z jego pastwiskami.
+A po drugiej stronie Jordanu koło Jerycha, na wschód od Jordanu, dano od pokolenia Rubena: Beser na pustyni z jego pastwiskami, Jahazę z jej pastwiskami;
+Kedemot z jego pastwiskami i Mefaat z jego pastwiskami.
+Od pokolenia Gada: Ramot w Gileadzie z jego pastwiskami, Machanaim z jego pastwiskami;
+Cheszbon z jego pastwiskami i Jazer z jego pastwiskami.
 Synami Issachara byli: Tola, Pua, Jaszub, Szimron – czterej.
 Synowie Tolego: Uzzi, Refajasz, Jeriel, Jachmaj, Jebsam i Szemuel – naczelnicy rodów Toli. Byli oni dzielnymi wojownikami w swoich czasach. Ich liczba za czasów Dawida wynosiła dwadzieścia dwa tysiące sześciuset.
 Synowie Uzziego: Izrachiasz, a synowie Izrachiasza: Mikael, Obadiasz, Joel i Jeszijasz, pięciu – wszyscy naczelnicy.
@@ -10725,6 +10725,7 @@ Eliel, Obed i Jaasiel Mezobata.
 Oto ci, którzy przyszli do Dawida w Siklag, gdy ukrywał się przed Saulem, synem Kisza. Należeli oni do dzielnych wojowników, którzy wspierali go w walce.
 Byli uzbrojeni w łuki i potrafili prawą i lewą ręką miotać kamieniami i strzelać z łuku, a wywodzili się z braci Saula, z Beniamina.
 Naczelnikiem był Achiezer, potem Joasz, synowie Szemajasza Gibeatczyka, Jezjel i Pelet, synowie Azmaweta, Beraka i Jehu Anatotczyk;
+
 I Jiszmaja Gibeonita, dzielny wojownik spośród trzydziestu i dowodzący trzydziestoma, Jeremiasz, Jachaziel, Jochanan i Jozabad Gederatyta;
 Eluzaj, Jerimot, Bealiasz, Szemariasz i Szefatiasz Charufita;
 Elkana, Jiszijasz, Azareel, Joezer i Jaszobam – Korachici;
@@ -10762,7 +10763,6 @@ Z drugiej strony Jordanu z pokolenia Rubena i Gada oraz z połowy pokolenia Mana
 Ci wszyscy wojownicy, którzy stawali w szyku bojowym, całym sercem przyszli do Hebronu, aby ustanowić Dawida królem nad całym Izraelem. Również i cała reszta Izraela była jednomyślna w tym, aby ustanowić Dawida królem.
 I byli tam z Dawidem przez trzy dni, jedząc i pijąc, gdyż ich bracia przygotowali to dla nich.
 Również ci, którzy byli w ich pobliżu, aż po Issachara i Zebulona, i Neftalego, przynosili żywność na osłach, na wielbłądach, na mułach i na wołach: potrawy, mąkę, figi, rodzynki, wino, oliwę oraz woły i owce w wielkiej ilości, bo zapanowała radość w Izraelu.
-
 A Dawid odbył naradę z tysiącznikami i setnikami oraz ze wszystkimi dowódcami.
 Potem Dawid powiedział do całego zgromadzenia Izraela: Jeśli wam się to podoba i jeśli jest to od PANA, naszego Boga, roześlijmy wiadomość wszędzie do naszych braci, którzy pozostali we wszystkich krainach Izraela, a także do kapłanów i Lewitów – po miastach i ich pastwiskach – i niech się zgromadzą u nas;
 Abyśmy sprowadzili do nas arkę naszego Boga. Nie pytaliśmy bowiem o nią za czasów Saula.
@@ -11214,7 +11214,6 @@ I Salomon zgromadził rydwany i jeźdźców, tak że miał tysiąc czterysta ryd
 Król złożył w Jerozolimie złota i srebra, jak kamieni, a cedrów złożył jak sykomor, których na równinie rośnie bardzo dużo.
 Sprowadzono też dla Salomona konie z Egiptu i nić lnianą, bo kupcy króla nabywali ją za określoną cenę.
 I wychodzili, i przywozili z Egiptu rydwan za sześćset syklów srebra, a konia za sto pięćdziesiąt. W ten sposób wszyscy królowie chetyccy i królowie Syrii dostawali je za ich pośrednictwem.
-
 Wtedy Salomon postanowił zbudować dom dla imienia PANA oraz pałac królewski dla siebie.
 I odliczył Salomon siedemdziesiąt tysięcy mężczyzn do noszenia ciężarów i osiemdziesiąt tysięcy mężczyzn do ciosania na górze, a nad nimi – trzy tysiące sześciuset nadzorców.
 Salomon posłał też do Hurama, króla Tyru, wiadomość: Jak postąpiłeś z moim ojcem Dawidem, gdy przysłałeś mu drzewa cedrowego, aby zbudował sobie dom na mieszkanie, tak postąp ze mną.
@@ -11232,6 +11231,7 @@ Syna kobiety spośród córek Dana, którego ojcem był mieszkaniec Tyru, a któ
 Teraz więc niech mój pan przyśle swoim sługom pszenicę, jęczmień, oliwę i wino, o których mówił.
 A my nawycinamy drzew z Libanu, ile ci będzie potrzeba, i sprowadzimy je morzem na tratwach do Jafy, a ty je każesz sprowadzić do Jerozolimy.
 Wtedy Salomon obliczył wszystkich cudzoziemców, którzy byli w ziemi Izraela po tym spisie, którego dokonał jego ojciec Dawid, i znalazło się ich sto pięćdziesiąt trzy tysiące sześciuset.
+I przeznaczył z nich siedemdziesiąt tysięcy do dźwigania ciężarów, osiemdziesiąt tysięcy do ciosania w górach i trzy tysiące sześciuset nadzorców nad robotami ludu.
 Wtedy Salomon zaczął budować dom PANA w Jerozolimie na górze Moria, która została wskazana Dawidowi, jego ojcu, na miejscu, które Dawid przygotował na klepisku Ornana Jebusyty.
 A zaczął go budować w drugim miesiącu, drugiego dnia, w czwartym roku swojego panowania.
 Takie są wymiary, według których Salomon zbudował dom Boży: długość – sześćdziesiąt łokci, w łokciach według miary dawnej, szerokość – dwadzieścia łokci.
@@ -11478,7 +11478,6 @@ I Abiasz ścigał Jeroboama, i odebrał mu miasta: Betel, Jeszanę i Efron razem
 Jeroboam nie mógł powrócić już do sił za dni Abiasza i PAN poraził go tak, że umarł.
 A Abiasz umocnił się i wziął sobie czternaście żon, i spłodził dwudziestu dwóch synów i szesnaście córek.
 Ale pozostałe dzieje Abiasza, jego czyny i słowa są zapisane w księdze proroka Iddo.
-
 A gdy Abiasz zasnął ze swoimi ojcami, pogrzebano go w mieście Dawida. Wtedy jego syn Asa królował w jego miejsce. Za jego dni w ziemi panował pokój przez dziesięć lat.
 Asa czynił to, co było dobre i prawe w oczach PANA, jego Boga.
 Usunął bowiem ołtarze obcych bogów i wyżyny, pokruszył posągi i wyrąbał gaje.
@@ -11493,6 +11492,7 @@ Wtedy Asa zawołał do PANA, swego Boga, i powiedział: PANIE, ty nie potrzebuje
 A PAN poraził Etiopczyków przed Asą i Judą tak, że Etiopczycy uciekli.
 I Asa wraz z ludem, który był z nim, ścigał ich aż do Gerary. I polegli Etiopczycy tak, że nikt się nie uratował, bo zostali starci przed PANEM i jego wojskiem. I nabrano bardzo dużo łupów.
 Ponadto pobili wszystkie miasta dokoła Gerary, bo padł na nie strach PANA i złupili wszystkie miasta. Była bowiem w nich wielka zdobycz.
+Napadli także na namioty trzód, uprowadzając wiele owiec i wielbłądów i wrócili do Jerozolimy.
 Wtedy Duch Boży zstąpił na Azariasza, syna Obeda.
 I wyszedł on naprzeciw Asy, i powiedział mu: Słuchajcie mnie, Aso i całe pokolenie Judy i Beniamina. PAN jest z wami, dopóki jesteście z nim. Jeśli go szukać będziecie, znajdziecie go, ale jeśli go opuścicie, on opuści was.
 Przez wiele dni Izrael był bez prawdziwego Boga, bez nauczającego kapłana i bez prawa.
@@ -12362,12 +12362,6 @@ Za nimi naprawiał Sadok, syn Immera, naprzeciw swego domu, a za nim naprawiał 
 Za nim naprawiał Chananiasz, syn Szelemiasza, i Chanun, szósty syn Salafa, następny odcinek. Za nim naprawiał Meszullam, syn Berechiasza, naprzeciw swojej komnaty.
 Za nim naprawiał Malkiasz, syn złotnika, aż do domu Netinitów i handlarzy, naprzeciw Bramy Sądowej i aż do Sali Narożnej.
 A pomiędzy Salą Narożną a Bramą Owczą naprawiali złotnicy i handlarze.
-
-
-
-
-
-
 A gdy Sanballat usłyszał, że odbudowujemy mur, rozgniewał się i bardzo się oburzył, i zaczął szydzić z Żydów.
 I powiedział wobec swoich braci i wojska Samarii: Co ci niedołężni Żydzi wyprawiają? Czy pozwolimy im na to? Czy będą składać ofiary? Czy zdołają to skończyć w jeden dzień? Czy wskrzeszą kamienie z kupy gruzu, które spalono?
 Ale Tobiasz Ammonita, który stał obok niego, powiedział: Nawet jeśli zbudują, przyjdzie lis i przewróci ich kamienny mur.
@@ -12385,6 +12379,12 @@ A gdy popatrzyłem, wstałem i powiedziałem do dostojników, przełożonych i p
 I kiedy nasi wrogowie usłyszeli, że nam to oznajmiono, Bóg zniweczył ich radę, a my wszyscy wróciliśmy do muru, każdy do swojej pracy.
 Jednak od tego czasu połowa moich sług pracowała, a druga połowa trzymała włócznie, tarcze, łuki i pancerze. Naczelnicy zaś stali za całym domem Judy.
 Ci, którzy odbudowywali mur, i ci, którzy dźwigali ciężar, i ci, którzy go nakładali, każdy z nich jedną ręką pracował, a w drugiej trzymał broń.
+A z tych, którzy budowali, każdy miał swój miecz przypasany do boku i tak budowali. A trębacz stał obok mnie.
+Powiedziałem bowiem do dostojników, przełożonych i pozostałych z ludu: Praca jest wielka i rozległa, a my jesteśmy rozdzieleni na murze, jeden z dala od drugiego.
+W jakimkolwiek miejscu usłyszycie dźwięk trąby, tam ruszajcie do nas. Nasz Bóg będzie walczył za nas.
+Pracowaliśmy więc przy tym dziele, a druga połowa trzymała włócznie, od pojawienia się zorzy aż do wzejścia gwiazd.
+W tym czasie powiedziałem też do ludu: Niech każdy nocuje ze swoim sługą w Jerozolimie, aby w nocy słudzy trzymali straż, a w dzień pracowali.
+Tak więc ani ja, ani moi bracia, ani moi słudzy, ani straż, która była przy mnie, nie zdejmowaliśmy swoich szat, zrobiliśmy to wyłącznie przy obmywaniu.
 I podniósł się wielki krzyk ludu i ich żon przeciwko swym braciom Żydom.
 Niektórzy bowiem mówili: Jest nas wielu wraz z synami i córkami i musimy nabyć zboża, abyśmy mogli jeść i żyć.
 Inni zaś mówili: Nasze pola, winnice i domy musimy dać pod zastaw, aby nabyć zboża na czas głodu.
@@ -12490,11 +12490,11 @@ Ci szukali swego spisu według rodowodu, ale nie znaleźli, toteż zostali wyklu
 Tirszata zakazał im spożywać z pokarmów najświętszych, dopóki nie pojawi się kapłan z Urim i Tummim.
 Całe to zgromadzenie liczyło czterdzieści dwa tysiące trzysta sześćdziesiąt osób;
 Nie licząc ich sług i służących, których było siedem tysięcy trzysta trzydzieścioro siedmioro. A wśród nich było dwieście czterdzieścioro pięcioro śpiewaków i śpiewaczek.
-Ich koni – siedemset trzydzieści sześć. Ich mułów – dwieście czterdzieści pięć.
-Wielbłądów – czterysta trzydzieści pięć. Osłów – sześć tysięcy siedemset dwadzieścia.
+Ich koni – siedemset trzydzieści sześć. Ich mułów – dwieście czterdzieści pięć. Wielbłądów – czterysta trzydzieści pięć. Osłów – sześć tysięcy siedemset dwadzieścia.
 A niektórzy z naczelników rodów dali na prace. Tirszata dał do skarbca tysiąc drachm złota, pięćdziesiąt czasz i pięćset trzydzieści szat kapłańskich.
 Niektórzy też z przedniejszych rodów dali do skarbca na pracę dwadzieścia tysięcy drachm złota i dwa tysiące dwieście min srebra.
 A to, co dała reszta ludu, wynosiło dwadzieścia tysięcy drachm złota, dwa tysiące min srebra i sześćdziesiąt siedem szat kapłańskich.
+Tak więc kapłani, Lewici, odźwierni, śpiewacy, część ludu, Netinici i cały Izrael osiedlili się w swoich miastach. A gdy nastał siódmy miesiąc, synowie Izraela mieszkali w swoich miastach.
 Wówczas zebrał się cały lud jak jeden mąż na placu, który był przed Bramą Wodną, i powiedział do Ezdrasza, uczonego w Piśmie, aby przyniósł księgę Prawa Mojżesza, które PAN nadał Izraelowi.
 Wtedy Ezdrasz, kapłan, przyniósł Prawo przed zgromadzenie mężczyzn i kobiet oraz wszystkich, którzy mogli słuchać i rozumieć, a działo się to pierwszego dnia siódmego miesiąca.
 I czytał je przed tym placem, który znajdował się przed Bramą Wodną, od rana aż do południa, przed mężczyznami i kobietami oraz tymi, którzy mogli zrozumieć; a uszy całego ludu były skupione na księdze Prawa.
@@ -12550,6 +12550,7 @@ Nasi królowie, nasi książęta, nasi kapłani i nasi ojcowie nie wypełnili tw
 Oni bowiem, żyjąc w swoim królestwie, pośród twojej wielkiej dobroci, którą im okazałeś, w ziemi przestronnej i tłustej, którą im dałeś, nie służyli tobie ani nie odwrócili się od swoich niegodziwych uczynków.
 Oto jesteśmy dziś niewolnikami w ziemi, którą dałeś naszym ojcom, aby jedli jej owoc i dobra, oto jesteśmy niewolnikami.
 Ona wydaje obfite plony królom, których ustanowiłeś nad nami za nasze grzechy. Oni panują nad naszym ciałem i nad naszym bydłem według swojej woli, a my jesteśmy w wielkim ucisku.
+W związku z tym wszystkim zawieramy mocne przymierze i zapisujemy je, a nasi książęta, Lewici i kapłani pieczętują je.
 A oto ci, którzy pieczętowali: Nehemiasz, Tirszata, syn Chakaliasza, następnie Sedekiasz;
 Serajasz, Azariasz, Jeremiasz;
 Paszchur, Amariasz, Malkiasz;
@@ -12589,7 +12590,6 @@ I pierworodnych naszych synów, pierworodne naszego bydła, jak jest napisane w 
 Również pierwociny naszych ciast i ofiar podniesionych, owoc wszelkiego drzewa, moszczu i oliwy – przyniesiemy to do kapłanów, do komnat domu naszego Boga, a dziesięcinę naszej ziemi do Lewitów, aby ci Lewici otrzymali dziesięcinę z naszej pracy we wszystkich miastach.
 Kapłan, syn Aarona, będzie z Lewitami, gdy będą oni pobierać dziesięcinę. A Lewici wniosą dziesięcinę z dziesięciny do domu naszego Boga, do komnat skarbca.
 Do tych bowiem komnat synowie Izraela i Lewiego mają przynosić ofiarę zboża, moszczu i oliwy, tam gdzie są naczynia świątyni, kapłani pełniący służbę, odźwierni i śpiewacy. Tak oto nie zaniedbamy domu naszego Boga.
-
 Przełożeni ludu zamieszkali więc w Jerozolimie, a reszta ludu rzucała losy, aby wyznaczyć jednego z dziesięciu na zamieszkanie w Jerozolimie, w świętym mieście, a dziewięciu pozostałych w innych miastach.
 I lud błogosławił wszystkim mężczyznom, którzy dobrowolnie postanowili zamieszkać w Jerozolimie.
 Oto naczelnicy tej prowincji, którzy zamieszkali w Jerozolimie – ale w innych miastach Judy mieszkali Izraelici, kapłani, Lewici, Netinici i synowie sług Salomona, każdy w swojej posiadłości, w swoim mieście:
@@ -13890,14 +13890,6 @@ Leży pod cienistymi drzewami, w ukryciu trzcin i bagien.
 Drzewa cieniste osłaniają go cieniem, wierzby potoku otaczają go.
 Oto wypija rzekę i nie spieszy się, będąc pewny, że może wchłonąć Jordan do swojej paszczy.
 Czy można go złapać za oczy albo powrozy przeciągnąć mu przez nozdrza?
-
-
-
-
-
-
-
-
 Czy lewiatana wyciągniesz wędką? Czy za jego język wyciągniesz go sznurem opuszczonym?
 Czy przewleczesz hak przez jego nozdrza? Czy kolcem przebijesz mu szczęki?
 Czy będzie cię błagać? Czy będzie z tobą rozmawiał łagodnie?
@@ -13924,6 +13916,14 @@ Warstwy jego ciała są spojone, tak twarde, że się nie poruszają.
 Jego serce jest twarde jak kamień, tak twarde jak część dolnego kamienia młyńskiego.
 Gdy się podnosi, drżą mocarze, a od strachu oczyszczają się.
 Miecz, który go dosięga, nie ostaje się, podobnie drzewce, strzała i pancerz.
+Żelazo uważa za słomę, a miedź za zbutwiałe drewno.
+Strzała nie spłoszy go, a kamienie z procy są dla niego jak źdźbło.
+Oszczep uważa za słomę, a drwi sobie z szarpania włócznią.
+Pod nim są ostre skorupy; w błocie ścieli sobie wszelkimi ostrymi rzeczami.
+Sprawia, że głębiny wrą jak kocioł, a morze mąci jak w moździerzu.
+Zostawia za sobą błyszczącą ścieżkę, tak że się wydaje, że głębiny mają siwiznę.
+Nie ma na ziemi jemu podobnego, który został tak stworzony, że niczego się nie boi.
+Lekceważy wszelką wysoką rzecz. On jest królem nad wszystkimi synami pychy.
 Wtedy Hiob odpowiedział PANU:
 Wiem, że ty wszystko możesz i że żaden twój zamysł nie może być powstrzymany.
 Kim jest ten, który zaciemnia radę bez wiedzy? Właśnie dlatego mówiłem to, czego nie rozumiałem; mówiłem o rzeczach zbyt cudownych, których nie mogłem pojąć.
@@ -13959,6 +13959,7 @@ Potłuczesz je laską żelazną, jak naczynie gliniane je pokruszysz.
 Teraz więc, królowie, zrozumcie, przyjmijcie pouczenie, sędziowie ziemi!
 Służcie PANU z bojaźnią i radujcie się z drżeniem.
 Pocałujcie Syna, by się nie rozgniewał i abyście nie zginęli w drodze, gdyby jego gniew choć trochę się zapalił. Błogosławieni wszyscy, którzy mu ufają.
+
 PANIE, jakże się namnożyło moich nieprzyjaciół, jak wielu powstaje przeciwko mnie!
 Wielu mówi o mojej duszy: Nie ma dla niego ratunku u Boga. Sela.
 Ale ty, PANIE, jesteś moją tarczą, moją chwałą, tym, który podnosi moją głowę.
@@ -14049,7 +14050,6 @@ Niegodziwi zstąpią do piekła, wszystkie narody, które zapominają Boga.
 Bo biedak nie będzie zapomniany na zawsze, nadzieja ubogich nie zginie na wieki.
 Powstań, PANIE, niech nie triumfuje człowiek, niech narody zostaną osądzone przed twoim obliczem.
 PANIE, ześlij na nie strach, aby narody poznały, że są tylko ludźmi. Sela.
-
 Dlaczego, PANIE, stoisz z daleka? Dlaczego ukrywasz się w czasie niedoli?
 Niegodziwy w swej pysze prześladuje ubogiego, niech niegodziwi uwikłają się w zamysły, które uknuli.
 Bo niegodziwy chełpi się pragnieniem swej duszy, a chciwiec błogosławi sobie i znieważa PANA.
@@ -14075,6 +14075,7 @@ PAN jest w swym świętym przybytku, tron PANA jest w niebie, jego oczy patrzą,
 PAN doświadcza sprawiedliwego, ale jego dusza nienawidzi niegodziwego i tego, kto kocha bezprawie.
 Spuści na niegodziwych deszcz sideł, ognia i siarki, a palący wicher będzie udziałem ich kielicha.
 Bo sprawiedliwy PAN kocha sprawiedliwość, jego oczy patrzą na prawego.
+
 Ratuj, PANIE, bo już nie ma pobożnego, zniknęli wierni spośród synów ludzkich.
 Wszyscy mówią kłamliwie do bliźniego, mówią schlebiającymi wargami i z obłudnym sercem.
 Niech PAN wytępi wszystkie wargi schlebiające i język mówiący przechwałki.
@@ -14088,8 +14089,7 @@ Jak długo, PANIE? Zapomnisz o mnie na wieki? Jak długo będziesz ukrywał prze
 Jak długo będę szukał rady w swojej duszy i codziennie trapił się w sercu? Jak długo mój wróg będzie się nade mnie wynosił?
 Spójrz i wysłuchaj mnie, PANIE, mój Boże! Oświeć moje oczy, bym nie zasnął w śmierci;
 By nie powiedział mój wróg: Pokonałem go! Niech się nie cieszą moi nieprzyjaciele, gdy się zachwieję.
-Lecz ja zaufałem twemu miłosierdziu; moje serce rozraduje się twoim zbawieniem.
-Będę śpiewał PANU, bo obdarzył mnie dobrem.
+Lecz ja zaufałem twemu miłosierdziu; moje serce rozraduje się twoim zbawieniem. Będę śpiewał PANU, bo obdarzył mnie dobrem.
 Głupi powiedział w swoim sercu: Nie ma Boga. Są zepsuci, popełniają obrzydliwe czyny. Nie ma nikogo, kto by czynił dobro.
 PAN spojrzał z niebios na synów ludzkich, aby zobaczyć, czy jest ktoś rozumny i szukający Boga.
 Wszyscy zboczyli z drogi, wszyscy jednakowo znikczemnieli. Nie ma nikogo, kto by czynił dobro, nie ma ani jednego.
@@ -14128,6 +14128,7 @@ Podobni są do lwa żądnego łupu, do lwiątka siedzącego w ukryciu.
 Powstań, PANIE, wystąp przeciwko niemu i powal go, swoim mieczem ocal moją duszę od niegodziwego;
 A swoją ręką, PANIE, od ludzi, od ludzi tego świata, których udziałem jest to życie, a których brzuchy napełniasz swymi skarbami, tak że nasyceni są nawet ich synowie, a resztę zostawiają ich dzieciom.
 Ja zaś w sprawiedliwości ujrzę twe oblicze, a gdy się obudzę, nasycę się twoim podobieństwem.
+
 Będę cię miłował, PANIE, mocy moja.
 PAN moją skałą, moją twierdzą i wybawicielem. Mój Bóg moją opoką, której będę ufał, moją tarczą i rogiem mego zbawienia, moją warownią.
 Wezwę PANA, który jest godny chwały, a będę wybawiony od moich wrogów.
@@ -14249,7 +14250,6 @@ Do PANA bowiem należy królestwo i on panuje nad narodami.
 Wszyscy bogaci ziemi będą jeść i oddawać mu pokłon, upadną przed jego obliczem wszyscy, którzy zstępują w proch, którzy nie mogą swej duszy zachować przy życiu.
 Potomstwo będzie mu służyć i będzie poczytane Panu za pokolenie.
 Przyjdą i ludowi, który się narodzi, opowiedzą jego sprawiedliwość – że on tak uczynił.
-
 PAN jest moim pasterzem, niczego mi nie zabraknie.
 Sprawia, że kładę się na zielonych pastwiskach, prowadzi mnie nad spokojne wody.
 Posila moją duszę, prowadzi mnie ścieżkami sprawiedliwości ze względu na swoje imię.
@@ -14334,6 +14334,7 @@ Głos PANA wstrząsa pustynią, PAN wstrząsa pustynią Kadesz.
 Głos PANA sprawia, że z bólem rodzą łanie i ogołacają się lasy, a w jego świątyni każdy opowiada o jego chwale.
 PAN zasiada nad potopem, PAN zasiada jako Król na wieki.
 PAN doda mocy swojemu ludowi, PAN pobłogosławi swój lud pokojem.
+
 PANIE, będę cię wywyższać, bo podniosłeś mnie i nie pozwoliłeś mym wrogom cieszyć się z mojego powodu.
 PANIE, Boże mój, wołałem do ciebie i uzdrowiłeś mnie.
 PANIE, wyprowadziłeś moją duszę z piekła, zachowałeś mnie przy życiu, abym nie zstąpił do dołu.
@@ -14371,7 +14372,6 @@ Błogosławiony niech będzie PAN, bo okazał mi swą cudowną łaskę w mieści
 Powiedziałem w pośpiechu: Odrzuciłeś mnie sprzed twych oczu; lecz ty wysłuchałeś głosu mego błagania, gdy wołałem do ciebie.
 Miłujcie PANA, wszyscy jego święci, bo PAN strzeże wiernych, a postępującym wyniośle odpłaca z nawiązką.
 Bądźcie dzielni, wszyscy, którzy pokładacie nadzieję w PANU, a on umocni wasze serca.
-
 Błogosławiony ten, komu przebaczono występek, komu grzech zakryto.
 Błogosławiony człowiek, któremu PAN nie poczytuje nieprawości i w którego duchu nie ma podstępu.
 Gdy milczałem, moje kości schły od moich całodziennych narzekań.
@@ -14405,6 +14405,7 @@ Aby ocalić od śmierci ich duszę i żywić ich w czasie głodu.
 Nasza dusza oczekuje PANA, on jest naszą pomocą i tarczą.
 W nim bowiem rozraduje się nasze serce, bo ufamy jego świętemu imieniu.
 Niech będzie nad nami twoje miłosierdzie, PANIE, według pokładanej w tobie nadziei.
+
 Będę błogosławił PANA w każdym czasie, jego chwała zawsze będzie na moich ustach.
 Moja dusza będzie się chlubić PANEM; pokorni to usłyszą i rozradują się.
 Uwielbiajcie PANA ze mną i wspólnie wywyższajmy jego imię.
@@ -14427,7 +14428,6 @@ Liczne są cierpienia sprawiedliwego, ale PAN uwalnia go od nich wszystkich.
 On strzeże wszystkich jego kości; ani jedna z nich nie będzie złamana.
 Zło zabija niegodziwego i ci, którzy nienawidzą sprawiedliwego, będą zniszczeni;
 PAN odkupi dusze swoich sług i nie będą zniszczeni ci, którzy mu ufają.
-
 Spieraj się, PANIE, z tymi, którzy się ze mną spierają; walcz z tymi, którzy walczą ze mną.
 Chwyć tarczę i puklerz i powstań mi na pomoc.
 Dobądź włóczni i zagrodź drogę tym, którzy mnie prześladują. Powiedz mojej duszy: Ja jestem twoim zbawieniem.
@@ -14456,6 +14456,7 @@ Niech nie mówią w swoim sercu: Ha! Tego chcieliśmy! Niech nie mówią: Pożar
 Niech się zawstydzą i zawiodą wszyscy, którzy cieszą się z mojego nieszczęścia; niech się okryją wstydem i hańbą ci, którzy wynoszą się nade mnie.
 Ale niech śpiewają i radują się ci, którzy sprzyjają mojej słusznej sprawie; niech mówią nieustannie: Niech będzie wywyższony PAN, który pragnie pokoju dla swego sługi.
 A mój język będzie głosił twoją sprawiedliwość i chwałę twoją przez cały dzień.
+
 Nieprawość niegodziwego świadczy w mym sercu, że nie ma bojaźni Bożej przed jego oczyma.
 Schlebia sobie bowiem w swoich oczach, aż jego nieprawość okaże się obrzydliwa.
 Słowa jego ust to niegodziwość i fałsz, porzucił mądrość i czynienie dobra.
@@ -14468,7 +14469,6 @@ U ciebie bowiem jest źródło życia, w twojej światłości ujrzymy światło�
 Roztocz twe miłosierdzie nad tymi, którzy cię znają, a twoją sprawiedliwość nad ludźmi prawego serca.
 Niech nie następuje na mnie noga pyszałka, niech nie wygania mnie ręka niegodziwego.
 Oto tam upadli czyniący nieprawość, zostali powaleni i nie będą mogli powstać.
-
 Nie oburzaj się z powodu złoczyńców ani nie zazdrość czyniącym nieprawość.
 Jak trawa bowiem prędko zostaną podcięci i zwiędną jak świeża zieleń.
 Ufaj PANU i czyń dobrze; będziesz mieszkał na ziemi i na pewno będziesz nakarmiony.
@@ -14509,6 +14509,7 @@ Spójrz na nienagannego i przypatruj się prawemu, bo ten na końcu osiągnie po
 Lecz przestępcy razem zginą, niegodziwi na końcu zostaną wytępieni.
 Zbawienie zaś sprawiedliwych pochodzi od PANA; on jest ich siłą w czasie utrapienia.
 PAN ich wspomoże i wyzwoli; wyzwoli ich od niegodziwych i wybawi, bo w nim pokładają nadzieję.
+
 PANIE, nie karć mnie w swym gniewie i nie karz mnie w swojej zapalczywości.
 Twoje strzały utkwiły bowiem we mnie i ciąży na mnie twoja ręka.
 Nie ma nic zdrowego w moim ciele wskutek twego gniewu, nie ma odpoczynku dla moich kości z powodu mojego grzechu.
@@ -14589,12 +14590,12 @@ Lecz we dnie PAN udzieli mi swego miłosierdzia, a w nocy będzie we mnie jego p
 Powiem Bogu, mojej skale: Czemu o mnie zapomniałeś? Czemu chodzę smutny z powodu ucisku wroga?
 Jak rana w moich kościach, tak mnie urągają moi wrogowie, gdy mówią do mnie każdego dnia: Gdzie jest twój Bóg?
 Czemu się smucisz, moja duszo, i czemu się we mnie trwożysz? Zaufaj Bogu, bo jeszcze będę go wysławiał, gdyż on jest zbawieniem mego oblicza i moim Bogiem.
-
 Osądź mnie, Boże, broń mojej sprawy przeciwko narodowi bezbożnemu; wybaw mnie od człowieka podstępnego i bezbożnego;
 Bo ty jesteś Bogiem mojej siły. Czemu mnie odrzuciłeś? Czemu chodzę smutny z powodu ucisku wroga?
 Ześlij twoje światło i prawdę, niech mnie wiodą i wprowadzą na twoją świętą górę i do twoich przybytków.
 Wtedy przystąpię do ołtarza Bożego, do Boga, mojego wesela i radości; będę cię wysławiał na harfie, Boże, mój Boże.
 Czemu się smucisz, moja duszo, i czemu się we mnie trwożysz? Zaufaj Bogu, bo jeszcze będę go wysławiał, gdyż on jest zbawieniem mego oblicza i moim Bogiem.
+
 Boże, słyszeliśmy na własne uszy, nasi ojcowie opowiadali nam o tym, czego dokonałeś za ich dni, w czasach dawnych.
 Ty własną ręką wypędziłeś pogan, a ich osadziłeś; wyniszczyłeś narody, a ich rozprzestrzeniłeś.
 Nie zdobyli bowiem ziemi swym mieczem ani ich nie wybawiło własne ramię, lecz twoja prawica i twoje ramię, i światło twego oblicza, bo upodobałeś ich sobie.
@@ -14697,7 +14698,6 @@ Bo gdy umrze, niczego ze sobą nie weźmie i nie pójdzie za nim jego sława.
 Chociaż za życia swej duszy pochlebiał i chwalono go, gdy dobrze się urządził;
 Pójdzie jednak do grona swych ojców; nigdy nie ujrzą światła.
 Człowiek, który jest otoczony czcią, a nie rozumie tego, podobny jest do bydląt, które giną.
-
 Bóg nad bogami, PAN, przemówił i wezwał ziemię od wschodu słońca aż do jego zachodu.
 Z Syjonu, doskonałego piękna, zajaśniał Bóg.
 Nasz Bóg przyjdzie i nie będzie milczał; ogień będzie trawił przed nim, a wokół niego powstanie potężna burza.
@@ -14721,6 +14721,8 @@ Siedzisz i mówisz przeciwko twemu bratu, obmawiasz syna swej matki.
 To czyniłeś, a ja milczałem; sądziłeś, że jestem do ciebie podobny, ale będę cię napominał i postawię ci to przed oczy.
 Zrozumcie to teraz wy, którzy zapominacie o Bogu, bym was nie rozszarpał, a nie byłoby nikogo, kto by was ocalił.
 Kto mi ofiaruje chwałę, ten oddaje mi cześć; a temu, kto chodzi prostą drogą, ukażę Boże zbawienie.
+
+
 Zmiłuj się nade mną, Boże, według twojego miłosierdzia; według twojej wielkiej litości zgładź moje występki.
 Obmyj mnie zupełnie z mojej nieprawości i oczyść mnie z mego grzechu.
 Uznaję bowiem moje występki, a mój grzech zawsze jest przede mną.
@@ -14752,13 +14754,13 @@ Oto człowiek, który nie uczynił Boga swoją siłą, ale ufał swym wielkim bo
 Ja zaś jestem jak zielone drzewo oliwne w domu Bożym, zaufałem miłosierdziu Boga na wieki wieków.
 Będę cię wysławiał na wieki, że to uczyniłeś, i będę oczekiwał twego imienia, gdyż jest dobre w oczach twoich świętych.
 
-
 Głupi mówi w swoim sercu: Nie ma Boga. Są zepsuci i czynią obrzydliwą nieprawość; nie ma nikogo, kto by czynił dobro.
 Bóg spojrzał z niebios na synów ludzkich, aby zobaczyć, czy jest ktoś rozumny i szukający Boga.
 Wszyscy zboczyli z drogi, wszyscy jednakowo znikczemnieli; nie ma nikogo, kto by czynił dobro, nie ma ani jednego.
 Czyż są nierozumni czyniący nieprawość, którzy pożerają mój lud, jakby chleb jedli, a Boga nie wzywają?
 Tam ogarnął ich strach, gdzie nie było powodu do strachu, Bóg bowiem rozproszył kości tych, którzy cię oblegali; ty okryjesz ich hańbą, bo Bóg nimi wzgardził.
 Któż ześle z Syjonu zbawienie Izraelowi? Gdy Bóg odwróci niewolę swego ludu, Jakub się rozraduje i rozweseli się Izrael.
+
 
 Boże, wybaw mnie twoim imieniem i twoją mocą broń mojej sprawy.
 Boże, wysłuchaj mojej modlitwy, nakłoń ucha ku słowom moich ust.
@@ -14767,7 +14769,6 @@ Oto Bóg jest moim pomocnikiem; Pan jest z tymi, którzy podtrzymują moje życi
 Odpłaci złem moim wrogom; w twojej prawdzie wytrać ich.
 Będę ci dobrowolnie składał ofiary, będę wysławiał twoje imię, PANIE, bo jest dobre.
 Uwolniłeś mnie bowiem z każdego utrapienia, a moje oko widziało zemstę nad moimi wrogami.
-
 
 Boże, nakłoń ucha ku mojej modlitwie i nie ukrywaj się przed moją prośbą.
 Posłuchaj uważnie i wysłuchaj mnie; uskarżam się w swej modlitwie i jęczę;
@@ -14849,6 +14850,7 @@ Niech się włóczą, szukając pokarmu; niech warczą, gdy się nie nasycą.
 Ale ja będę śpiewał o twojej mocy, rankiem będę wysławiać twoje miłosierdzie, bo ty stałeś się dla mnie twierdzą i ucieczką w dniu mego ucisku.
 Moja mocy, tobie będę śpiewał; bo ty, Boże, jesteś moją twierdzą, Boże mój miłosierny.
 
+
 Boże, odrzuciłeś nas, rozproszyłeś nas i rozgniewałeś się; powróć znowu do nas.
 Wstrząsnąłeś ziemią i rozdarłeś ją; ulecz jej rozpadliny, bo się chwieje.
 Okazywałeś twemu ludowi ciężkie rzeczy, napoiłeś nas winem odurzającym.
@@ -14861,7 +14863,6 @@ Kto mnie wprowadzi do miasta warownego? Kto mnie doprowadzi aż do Edomu?
 Czy nie ty, o Boże, który nas odrzuciłeś i nie wychodziłeś, Boże, z naszymi wojskami?
 Udziel nam pomocy w utrapieniu, bo próżna jest pomoc ludzka.
 W Bogu będziemy mężni, bo on podepcze naszych nieprzyjaciół.
-
 
 Wysłuchaj, Boże, mojego wołania, miej wzgląd na moją modlitwę.
 Z krańców ziemi wołam do ciebie, gdy moje serce jest zatrwożone; wprowadź mnie na skałę, która jest wyższa ode mnie.
@@ -14921,7 +14922,6 @@ Nawadniasz jej zagony, wyrównujesz jej bruzdy, zmiękczasz ją deszczami i bło
 Wieńczysz rok swoją dobrocią, a twoje ścieżki ociekają tłuszczem.
 Skrapiasz pustynne pastwiska, a pagórki przepasują się radością.
 Łąki przyodziewają się stadami, a doliny okrywają się zbożem; wykrzykują radośnie i śpiewają.
-
 Radośnie wykrzykujcie Bogu, wszystkie ziemie;
 Wyśpiewujcie chwałę jego imienia, oddawajcie mu chwalebną cześć.
 Powiedzcie Bogu: Jak straszliwe są twe dzieła! Z powodu twojej wielkiej mocy poddadzą się twoi wrogowie.
@@ -14942,6 +14942,7 @@ Do niego wołałem moimi ustami i wychwalałem go moim językiem.
 Gdybym zważał na nieprawość w swoim sercu, Pan by mnie nie wysłuchał.
 A jednak Bóg wysłuchał, przychylił się do głosu mojej modlitwy.
 Błogosławiony Bóg, który nie odrzucił mojej modlitwy i nie odebrał mi swego miłosierdzia.
+
 Niech Bóg się zmiłuje nad nami i błogosławi nam, niech rozjaśni nad nami swoje oblicze. Sela.
 Aby poznano na ziemi twoją drogę, wśród wszystkich narodów twoje zbawienie.
 Niech cię wysławiają ludy, o Boże, niech cię wysławiają wszystkie ludy.
@@ -15028,7 +15029,6 @@ Niech się zawstydzą i okryją hańbą ci, którzy czyhają na moją duszę; ni
 Niech się cofną wskutek swej hańby ci, którzy mi mówią: Ha, ha!
 Niech się weselą i radują w tobie wszyscy, którzy cię szukają; niech ci, którzy miłują twoje zbawienie, mówią zawsze: Niech Bóg będzie wywyższony!
 Ja zaś jestem nędzny i ubogi, Boże, pospiesz ku mnie, ty jesteś moją pomocą i wybawicielem; PANIE, nie zwlekaj.
-
 W tobie, PANIE, pokładam ufność, niech nigdy nie będę zawstydzony.
 Według swej sprawiedliwości ocal mnie i wyzwól; nakłoń ku mnie ucha i wybaw mnie.
 Bądź mi skałą schronienia, gdzie zawsze mogę uciec; przykazałeś, aby mnie wybawiono, bo ty jesteś moją skałą i twierdzą.
@@ -15124,6 +15124,7 @@ Zważ na twoje przymierze, bo ciemne zakątki ziemi pełne są siedlisk przemocy
 Niech uciśniony nie wraca ze wstydem, niech ubogi i potrzebujący chwali twoje imię.
 Powstań, Boże, broń swojej sprawy; pamiętaj o zniewadze, którą co dzień wyrządza ci głupiec.
 Nie zapominaj krzyku twoich wrogów, wciąż rosnącej wrzawy tych, którzy powstają przeciwko tobie.
+
 Wysławiamy cię, Boże, wysławiamy, bo bliskie twoje imię; opowiadają to twoje cudowne dzieła.
 Gdy wyznaczę czas, będę sądzić sprawiedliwie.
 Roztopiła się ziemia i wszyscy jej mieszkańcy, ale ja umacniam jej filary. Sela.
@@ -15168,7 +15169,6 @@ Chmury spłynęły wodą, niebiosa wydały gromy i poleciały twoje strzały.
 Huk twego grzmotu wśród obłoków, błyskawice oświetliły świat, ziemia poruszyła się i zatrzęsła.
 Twoja droga wiodła przez morze, twoje ścieżki przez wielkie wody i nie było znać twoich śladów.
 Prowadziłeś swój lud jak stado owiec ręką Mojżesza i Aarona.
-
 Słuchaj, mój ludu, mego prawa, nakłońcie uszu ku słowom moich ust.
 Otworzę moje usta do przypowieści, opowiem starodawne tajemnice;
 Cośmy słyszeli i poznali i co nam opowiadali nasi ojcowie.
@@ -15254,6 +15254,7 @@ Dlaczego poganie mają mówić: Gdzież jest ich Bóg? Niech będzie znany wśr�
 Niech dotrze do ciebie jęk więźniów, według potęgi twego ramienia zachowaj skazanych na śmierć.
 I odpłać naszym sąsiadom siedmiokrotnie w ich zanadrze za zniewagę, którą ci wyrządzili, Panie!
 My zaś, twój lud i owce twego pastwiska, będziemy cię wielbić na wieki, będziemy głosić twoją chwałę z pokolenia na pokolenie.
+
 Posłuchaj, Pasterzu Izraela, ty, który prowadzisz Józefa jak stado owiec, ty, który zasiadasz między cherubinami, zabłyśnij.
 Przed Efraimem, Beniaminem i Manassesem wzbudź swoją moc i przyjdź nas zbawić.
 Boże, odnów nas, rozjaśnij nad nami swoje oblicze, a będziemy wybawieni.
@@ -15290,7 +15291,6 @@ O, gdyby mój lud mnie posłuchał, a Izrael chodził moimi drogami!
 W krótkim czasie poniżyłbym ich nieprzyjaciół i zwróciłbym rękę przeciw ich wrogom.
 Nienawidzący PANA, choć obłudnie, musieliby mu się poddać, a ich czas trwałby wiecznie.
 I karmiłbym ich wyborną pszenicą, a nasyciłbym cię miodem ze skały.
-
 Bóg stoi w zgromadzeniu Bożym, pośród bogów sprawuje sąd:
 Jak długo będziecie sądzić niesprawiedliwie i trzymać stronę niegodziwych? Sela.
 Bierzcie w obronę ubogiego i sierotę, oddajcie sprawiedliwość strapionemu i potrzebującemu.
@@ -15299,6 +15299,7 @@ Lecz oni nic nie wiedzą i nie rozumieją, ciągle chodzą w ciemności; zachwia
 Powiedziałem: Jesteście bogami i wszyscy wy jesteście synami Najwyższego.
 Lecz pomrzecie jak inni ludzie i upadniecie jak jeden z książąt.
 Powstań, Boże, osądź ziemię, bo ty otrzymasz w dziedzictwo wszystkie narody.
+
 Boże, nie milcz; nie bądź głuchy i bezczynny, Boże!
 Bo oto burzą się twoi wrogowie, a ci, którzy cię nienawidzą, podnoszą głowę.
 Przeciwko twemu ludowi knują spisek i naradzali się przeciw tym, których ochraniasz;
@@ -15344,7 +15345,6 @@ Miłosierdzie i prawda spotkają się ze sobą, sprawiedliwość i pokój ucału
 Prawda wyrośnie z ziemi, a sprawiedliwość wyjrzy z nieba.
 PAN też obdarzy tym, co dobre, a nasza ziemia wyda swój plon.
 Sprawiedliwość przed nim pójdzie i będzie wytyczać drogę jego krokom.
-
 Nakłoń swego ucha, PANIE, wysłuchaj mnie, bo jestem nędzny i ubogi.
 Strzeż mojej duszy, bo jestem pobożny; mój Boże, wybaw twego sługę, który ufa tobie.
 Zmiłuj się nade mną, Panie, bo do ciebie codziennie wołam.
@@ -15369,6 +15369,7 @@ Wspomnę Rahab i Babilon wśród tych, którzy mnie znają; oto Filistea i Tyr, 
 O Syjonie też będą mówić: Ten i tamten urodził się w nim; a sam Najwyższy go utwierdzi.
 PAN wyliczy, spisując narody: Ten się tam urodził. Sela.
 I pląsając, będą śpiewać: W tobie są wszystkie me źródła.
+
 PANIE, Boże mego zbawienia, we dnie i w nocy wołam do ciebie.
 Niech dojdzie do ciebie moja modlitwa, nakłoń swego ucha na moje wołanie.
 Moja dusza bowiem jest nasycona utrapieniem, a moje życie zbliża się do grobu.
@@ -15440,7 +15441,6 @@ Gdzie są, o Panie, twoje dawne łaski, które przysiągłeś Dawidowi w swej pr
 Pamiętaj, Panie, o zniewadze twoich sług; o tym, że noszę w swym zanadrzu wzgardę wszystkich możnych narodów;
 Którą twoi wrogowie znieważają, PANIE, którą znieważają ścieżki twego pomazańca.
 Błogosławiony niech będzie PAN na wieki. Amen, amen.
-
 Panie, ty byłeś naszą ucieczką z pokolenia na pokolenie.
 Zanim zrodziły się góry, zanim ukształtowałeś ziemię i świat, od wieków na wieki ty jesteś Bogiem.
 Obracasz człowieka w proch i mówisz: Wracajcie, synowie ludzcy.
@@ -15474,6 +15474,7 @@ Będziesz stąpał po lwie i po żmii, lwiątko i smoka podepczesz.
 Wybawię go, bo mnie umiłował; wywyższę go, bo poznał moje imię.
 Będzie mnie wzywał, a ja go wysłucham; będę z nim w utrapieniu, wyrwę go i otoczę chwałą.
 Długimi dniami go nasycę i ukażę mu moje zbawienie.
+
 Dobrą rzeczą jest wysławiać PANA i śpiewać twemu imieniu, o Najwyższy.
 Głosić rankiem twoje miłosierdzie, a nocami twoją wierność;
 Na instrumencie o dziesięciu strunach, na cytrze i na harfie ze śpiewaniem.
@@ -15489,7 +15490,6 @@ Sprawiedliwy zakwitnie jak palma, rozrośnie się jak cedr na Libanie.
 Zasadzeni w domu PANA rozkwitną na dziedzińcach naszego Boga.
 Nawet w starości wydadzą owoc, pełni sił i kwitnący;
 Aby opowiadać, że PAN jest prawy; on jest moją skałą i nie ma w nim żadnej nieprawości.
-
 PAN króluje, przyoblekł się w majestat, odział się PAN i przepasał potęgą; utwierdził też świat, że się nie zachwieje.
 Twój tron jest utwierdzony od wieków, ty jesteś od wieczności.
 Podniosły rzeki, PANIE, podniosły rzeki swój szum, podniosły rzeki swoje fale.
@@ -15585,6 +15585,7 @@ Zgładzę tego, który potajemnie oczernia swego bliźniego, nie zniosę wynios�
 Moje oczy zwrócone będą na wiernych tej ziemi, aby mieszkali ze mną; kto chodzi drogą prawą, ten będzie mi służyć.
 Nie zamieszka w moim domu oszust, kłamca nie ostoi się przed mymi oczyma.
 Każdego ranka będę tępić wszystkich niegodziwych na ziemi, aby tak wykorzenić z miasta PANA wszystkich złoczyńców.
+
 PANIE, wysłuchaj mojej modlitwy i niech przyjdzie do ciebie moje wołanie.
 Nie ukrywaj przede mną swego oblicza, w dniu mego ucisku nakłoń ku mnie swego ucha; w dniu, w którym cię wzywam, szybko mnie wysłuchaj.
 Moje dni bowiem nikną jak dym, a moje kości są rozpalone jak ognisko.
@@ -15613,7 +15614,6 @@ Ty dawno założyłeś fundamenty ziemi i niebiosa są dziełem twoich rąk.
 One przeminą, ale ty pozostajesz; wszystkie jak szata się zestarzeją, zmienisz je jak płaszcz i będą odmienione.
 Ale ty zawsze jesteś ten sam, a twoje lata nigdy się nie skończą.
 Synowie twoich sług będą trwać u ciebie, a ich potomstwo zostanie przed tobą utwierdzone.
-
 Błogosław, moja duszo, PANA, i całe moje wnętrze – jego święte imię.
 Błogosław, moja duszo, PANA, i nie zapominaj o wszystkich jego dobrodziejstwach.
 On przebacza wszystkie twoje nieprawości, on uzdrawia wszystkie twoje choroby;
@@ -15807,6 +15807,7 @@ On wylewa wzgardę na władców i sprawia, że błądzą po bezdrożach pustkowi
 Lecz podnosi nędznego z utrapienia i rozmnaża jego rodzinę jak stado.
 Widząc to, prawi rozweselą się, a wszelka nieprawość zamknie swe usta.
 Kto jest tak mądry, aby tego upatrywał i rozumiał litość PANA?
+
 Boże, moje serce jest gotowe; będę ci śpiewać i wysławiać cię, także i moja chwała.
 Obudź się, cytro i harfo, gdy o świcie powstanę.
 Będę cię wysławiać wśród ludu, PANIE, będę ci śpiewał wśród narodów.
@@ -15820,7 +15821,6 @@ Kto mnie wprowadzi do miasta warownego? Kto mnie doprowadzi aż do Edomu?
 Czy nie ty, Boże, który nas odrzuciłeś? Czy nie wyruszysz, Boże, z naszymi wojskami?
 Udziel nam pomocy w ucisku, bo próżna jest pomoc ludzka.
 W Bogu będziemy mężni, on podepcze naszych wrogów.
-
 Boże mojej chwały, nie milcz;
 Bo otworzyły się przeciwko mnie usta niegodziwego i usta podstępnego; mówili przeciwko mnie językiem kłamliwym;
 Otoczyli mnie słowami nienawiści i walczą przeciwko mnie bez przyczyny.
@@ -16329,6 +16329,7 @@ Czy nie nienawidzę tych, PANIE, którzy nienawidzą ciebie? I nie brzydzę się
 Nienawidzę ich pełnią nienawiści i mam ich za wrogów.
 Przeniknij mnie, Boże, i poznaj moje serce; wypróbuj mnie i poznaj moje myśli;
 I zobacz, czy jest we mnie droga nieprawości, a prowadź mnie drogą wieczną.
+
 Wybaw mnie, PANIE, od złego człowieka; strzeż mnie od okrutnika;
 Od tych, którzy knują w sercu złe rzeczy, każdego dnia zbierają się na wojnę.
 Wyostrzają swe języki jak węże, jad żmii pod ich wargami. Sela.
@@ -16342,7 +16343,6 @@ Niech na nich spadną rozżarzone węgle; niech będą wrzuceni do ognia i do g�
 Niech oszczerca nie będzie utwierdzony na ziemi, a człowiek okrutny upadnie przygnieciony złem.
 Wiem, że PAN ujmie się za strapionym i pomści krzywdę nędzarzy.
 Zaprawdę sprawiedliwi będą wysławiać twoje imię, a prawi będą mieszkać przed twoim obliczem.
-
 PANIE, wołam do ciebie, pospiesz ku mnie; wysłuchaj mego głosu, gdy wołam do ciebie.
 Niech moja modlitwa będzie przed tobą jak kadzidło, a podniesienie moich rąk jak wieczorna ofiara.
 PANIE, postaw straż przy moich ustach; strzeż drzwi moich warg.
@@ -16353,6 +16353,7 @@ Jak gdyby kto rąbał i łupał drwa na ziemi, tak nasze kości są rozrzucone p
 Ale podnoszę swoje oczy do ciebie, BOŻE, Panie; tobie ufam, nie porzucaj mojej duszy.
 Strzeż mnie od sidła, które zastawili na mnie, i od pułapek czyniących nieprawość.
 Niech niegodziwi wpadną w swoje sieci, podczas gdy ja ujdę cało.
+
 Swoim głosem wołam do PANA; swoim głosem modlę się do PANA.
 Wylewam przed nim swoją troskę i opowiadam mu swoje utrapienie.
 Gdy mój duch jest we mnie zdruzgotany, ty znasz moją ścieżkę; na drodze, którą chodziłem, zastawili na mnie sidło.
@@ -16360,7 +16361,6 @@ Oglądałem się na prawo i spojrzałem, ale nie było nikogo, kto mnie znał; n
 PANIE, wołam do ciebie, mówiąc: Ty jesteś moją nadzieją, ty jesteś moim udziałem w ziemi żyjących.
 Wysłuchaj mego wołania, bo jestem bardzo udręczony; ocal mnie od moich prześladowców, bo są mocniejsi ode mnie.
 Wyprowadź moją duszę z więzienia, abym chwalił twoje imię; sprawiedliwi otoczą mnie, gdy okażesz mi dobroć.
-
 PANIE, wysłuchaj mojej modlitwy i nadstaw ucha na moje prośby; wysłuchaj mnie w swojej wierności i sprawiedliwości.
 A nie stawiaj przed sądem swojego sługi, bo nikt z żyjących nie będzie usprawiedliwiony przed tobą.
 Nieprzyjaciel bowiem prześladuje moją duszę, powalił na ziemię moje życie; sprawił, że muszę mieszkać w ciemności jak dawno umarły.
@@ -17465,7 +17465,6 @@ Lepszy jest chłopiec ubogi i mądry niż król stary i głupi, który nie potra
 Bo tamten wychodzi z więzienia, aby królować, a ten urodzony w swoim królestwie zubożeje.
 Widziałem, jak wszyscy żyjący, którzy chodzą pod słońcem, przestawali z chłopcem, potomkiem, który miał wstąpić na miejsce tamtego.
 Niezliczony jest cały lud, jaki żył przed nimi. Lecz następni nie będą się z niego cieszyć. A tak i to jest marność i utrapienie ducha.
-
 Pilnuj swoich kroków, gdy idziesz do domu Bożego, i bądź skłonny raczej ku temu, aby słuchać, niż dawać ofiarę głupich. Nie wiedzą oni bowiem, że źle czynią.
 Nie mów pochopnie i niech twoje serce nie wypowiada pospiesznie słów przed Bogiem. Bóg bowiem jest w niebie, a ty na ziemi. Niech więc niewiele będzie twoich słów.
 Bo z wielu zajęć przychodzi sen, a mowa głupca z wielu słów.
@@ -17485,6 +17484,7 @@ Także i to jest ciężką niedolą, że jak przyszedł, tak odejdzie. Cóż wi�
 Po wszystkie swoje dni jadał w ciemności, smutku, chorobie i gniewie.
 Oto co zobaczyłem: rzecz dobra i piękna to jeść i pić, i cieszyć się dobrem ze wszelkiego swego trudu, który człowiek podejmuje pod słońcem po wszystkie dni swego życia, jakie dał mu Bóg. To bowiem jest jego działem.
 Dla każdego też człowieka, któremu Bóg dał majątek i bogactwo, i dał mu możliwość, by z nich korzystał i odbierał swój dział i radował się ze swojego trudu – to jest dar Boga.
+Nie będzie bowiem wiele pamiętał o dniach swego życia, gdyż Bóg go wysłuchuje, napełniając jego serce radością.
 Jest zło, które widziałem pod słońcem i które jest powszechne wśród ludzi:
 Gdy jakiemuś człowiekowi Bóg dał bogactwo, majątek i sławę, tak że nie brakuje jego duszy nic z tego, czegokolwiek by pragnął, jednak Bóg nie daje mu możliwości spożywać tego, ale spożywa to obcy człowiek. Jest to marnością i ciężką niedolą.
 Choćby ktoś spłodził stu synów, żył wiele lat i dni jego lat się przedłużyły, a jego dusza nie była nasycona dobrem i nie miał nawet pogrzebu, powiadam: lepszy jest od niego martwy płód.
@@ -17694,6 +17694,7 @@ Lecz moja gołębica, moja nieskalana, jest jedna; jedynaczka u swojej matki, be
 Kim jest ta, która pokazuje się jak zorza poranna, piękna jak księżyc, czysta jak słońce, groźna jak uszykowane wojsko z chorągwiami?
 Zeszłam do ogrodu orzechów, aby patrzeć na owoce rosnące w dolinach, by zobaczyć, czy winorośl kwitnie i czy granaty wypuszczają pączki.
 Nim się zorientowałam, moja dusza wsadziła mnie jakby w rydwany książąt mego ludu.
+Zawróć, zawróć, Szulamitko; zawróć, zawróć, abyśmy mogli na ciebie patrzeć. Cóż widzicie w Szulamitce? Widzimy jakby oddziały wojenne.
 Jak piękne są twoje nogi w sandałach, córko książęca! Linia twoich bioder jest jak klejnot, jak dzieło rąk rzemieślnika.
 Twój pępek jest jak okrągła czasza, której nie brakuje napoju. Twój brzuch jest jak stóg pszenicy okolony liliami.
 Twoje piersi są jak dwoje sarniąt, bliźniąt.
@@ -17707,7 +17708,6 @@ Ja należę do mojego umiłowanego i do mnie zwraca się jego pożądanie.
 Chodź, mój umiłowany, wyjdźmy w pole i przenocujemy we wsiach.
 Rankiem wstaniemy i pójdziemy do winnic, zobaczymy, czy kwitnie winorośl, czy otworzyły się już pączki, czy już kwitną granaty. Tam cię obdarzę swoją miłością.
 Mandragory wydają swoją woń, a przed naszymi drzwiami są wszelkie wyborne owoce, nowe i stare, które przechowałam dla ciebie, mój umiłowany.
-
 O gdybyś był dla mnie jak brat, który ssał piersi mojej matki! Wtedy spotykałabym cię na dworze, całowałabym cię, a nie byłabym wzgardzona.
 Powiodłabym cię i wprowadziła do domu swojej matki, gdzie byś mnie uczył. A ja dałabym ci do picia wino korzenne, moszcz ze swoich granatów.
 Jego lewa ręka byłaby pod moją głową, a prawa ręka objęłaby mnie.
@@ -17897,7 +17897,6 @@ A gdy będą wam mówić: Radźcie się czarowników i wróżbitów, którzy sze
 Do prawa i do świadectwa! Jeśli nie będą mówić według tego słowa, to w nim nie ma żadnej światłości.
 A będą się tułali po ziemi, uciskani i wygłodzeni; a cierpiąc głód, będą się złościć i złorzeczyć swemu królowi oraz swemu Bogu, spoglądając ku górze.
 I spojrzą na ziemię, a oto ucisk i ciemność, mrok i cierpienie, i będą zapędzeni w ciemności.
-
 Mrok jednak nie będzie taki, jak był w czasie jej ucisku, gdy Bóg dotknął ziemię Zebulona i ziemię Neftalego, ani jak potem, gdy trapił ją przy drodze morskiej za Jordanem, w Galilei pogan.
 Lud, który chodził w ciemności, ujrzał wielką światłość, a mieszkającym w ziemi cienia śmierci zajaśniała światłość.
 Rozmnożyłeś ten naród, ale nie zwiększyłeś radości. Będą się jednak radować przed tobą, jak się radują w czasie żniwa, jak się radują przy podziale łupów;
@@ -17918,6 +17917,7 @@ Dlatego Pan nie ucieszy się z jego młodzieńców i nie zlituje się nad jego s
 Niegodziwość bowiem płonie jak ogień, pożre głogi i ciernie, potem zapali się w gęstwinach lasu, skąd jak dym unoszą się.
 Od gniewu PANA zastępów zaćmi się ziemia, a ten lud będzie jak strawa dla ognia. Nikt nie oszczędzi swego brata.
 A porwie, co znajduje się po prawej stronie, ale nadal będzie głodny; zje, co z lewej, ale nie nasyci się. Każdy z nich będzie pożerać ciało swego ramienia;
+Manasses – Efraima, a Efraim – Manassesa, a obaj razem będą przeciwko Judzie. Mimo tego wszystkiego jego gniew nie ustał, ale jego ręka jest jeszcze wyciągnięta.
 Biada tym, którzy wydają niesprawiedliwe ustawy, i tym, którzy wypisują dekrety ucisku;
 Aby odepchnąć ubogiego od sądu i pozbawić sprawiedliwości ubogich mego ludu, aby wdowy stały się ich łupem i aby mogli ograbiać sieroty.
 A co uczynicie w dniu nawiedzenia i spustoszenia, który przyjdzie z daleka? Do kogo będziecie uciekać się o pomoc? I gdzie zostawicie swoją chwałę?
@@ -18953,8 +18953,7 @@ Przecież ty jesteś naszym ojcem, bo Abraham nas nie zna, a Izrael nas nie uzna
 Czemu, PANIE, pozwoliłeś nam zboczyć z twoich dróg i zatwardziłeś nasze serce, abyśmy się ciebie nie bali? Odwróć się ze względu na twoje sługi, pokolenia twego dziedzictwa.
 Lud posiadł ją na krótki czas, nasi wrogowie zaś zdeptali twoją świątynię.
 My jesteśmy twoi. Nad nimi nigdy nie panowałeś ani nie byli nazywani twoimi imieniem.
-Obyś rozdarł niebiosa i zstąpił, aby góry rozpłynęły się przed tobą;
-Jak płonie ogień rozżarzony, ogień, który doprowadza wodę do wrzenia, abyś oznajmił swoje imię twoim wrogom, tak by narody zadrżały przed tobą;
+Obyś rozdarł niebiosa i zstąpił, aby góry rozpłynęły się przed tobą; Jak płonie ogień rozżarzony, ogień, który doprowadza wodę do wrzenia, abyś oznajmił swoje imię twoim wrogom, tak by narody zadrżały przed tobą;
 Jak kiedyś, gdy czyniłeś rzeczy przedziwne, których się nie spodziewaliśmy; zstąpiłeś, a góry rozpływały się przed tobą!
 Czego od początku świata nie słyszano ani do uszu nie dochodziło, ani oko nie widziało oprócz ciebie samego, Boże, który by tak uczynił dla tego, który go oczekuje.
 Wychodzisz naprzeciw radosnego i czyniącego sprawiedliwość, i tych, którzy krocząc po twoich drogach pamiętają o tobie. Oto się rozgniewałeś, gdyż grzeszyliśmy ustawicznie, nie krocząc po tych drogach, lecz będziemy zbawieni.
@@ -18964,6 +18963,7 @@ Ale teraz, PANIE, ty jesteś naszym ojcem, my jesteśmy gliną, a ty jesteś nas
 Nie gniewaj się, PANIE, tak bardzo i nie pamiętaj o naszych nieprawościach na wieki. Oto spójrz, prosimy, my wszyscy jesteśmy twoim ludem.
 Twoje święte miasta zostały obrócone w pustynię, Syjon jest pustynią, Jerozolima stała się spustoszeniem.
 Nasz dom, święty i wspaniały, w którym cię chwalili nasi ojcowie, został spalony w ogniu, i wszystkie nasze najkosztowniejsze rzeczy leżą w gruzach.
+Czy wobec tego powstrzymasz się, PANIE? Czy będziesz milczeć i tak bardzo nas trapić?
 Objawiłem się tym, którzy o mnie nie pytali, zostałem znaleziony przez tych, którzy mnie nie szukali. Do narodu, który się nie nazywał moim imieniem, mówiłem: Oto jestem, oto jestem.
 Cały dzień wyciągałem swoje ręce do ludu buntowniczego, który kroczy drogą niedobrą, za własnymi myślami;
 Do ludu, który stale i zuchwale pobudza mnie do gniewu, składając ofiary w ogrodach i paląc kadzidło na cegłach;
@@ -19242,7 +19242,6 @@ Oto głos krzyku córki mego ludu z dalekiej ziemi: Czy nie ma PANA na Syjonie? 
 Przeminęło żniwo, skończyło się lato, a my nie jesteśmy wybawieni.
 Z powodu rany córki mojego ludu jestem ranny, pogrążony w żałobie, ogarnęło mnie przerażenie.
 Czy nie ma balsamu w Gileadzie? Czy nie ma tam lekarza? Czemu więc nie jest uleczona córka mojego ludu?
-
 Oby moja głowa była wodą, a moje oczy źródłem łez, abym dniem i nocą opłakiwał pomordowanych córki mego ludu!
 Obym miał na pustyni schronisko dla podróżnych, abym mógł opuścić swój lud i oddalić się od nich! Wszyscy bowiem są cudzołożnikami, zgrają zdrajców;
 I jak łuk napinają swój język do kłamstwa. Nie wzmocnili się prawdą na ziemi, bo od zła do zła przechodzą, a mnie nie znają, mówi PAN.
@@ -19268,6 +19267,7 @@ Mów: Tak mówi PAN: Nawet trupy ludzkie padną jak gnój na polu i jak snopy za
 Tak mówi PAN: Niech się nie chlubi mądry swoją mądrością, niech się nie chlubi mocarz swoją siłą i niech się nie chlubi bogaty swoim bogactwem;
 Ale kto chce się chlubić, niech się chlubi tym, że rozumie i zna mnie, wie, że ja jestem PAN, który okazuje miłosierdzie, sąd i sprawiedliwość na ziemi. To bowiem mi się podoba, mówi PAN.
 Oto nadchodzą dni, mówi PAN, w których nawiedzę każdego obrzezanego i nieobrzezanego;
+Egipt, Judę, Edom, Ammonitów, Moabitów i wszystkich, którzy są w najdalszych zakątkach i mieszkają na pustyni. Wszystkie te narody bowiem są nieobrzezane, a cały dom Izraela ma nieobrzezane serce.
 Słuchajcie słowa, które PAN mówi do was, domu Izraela!
 Tak mówi PAN: Nie uczcie się drogi pogan i nie bójcie się znaków na niebie, bo to poganie ich się boją.
 Zwyczaje tych narodów są bowiem marnością, gdyż drzewo ścinają w lesie siekierą, dzieło rąk rzemieślnika;
@@ -21007,6 +21007,11 @@ I poznacie, że ja jestem PANEM, gdy was wprowadzę do ziemi Izraela, do tej zie
 Tam wspomnicie o waszych drogach i o wszystkich waszych czynach, którymi się splugawiliście; i obrzydzicie sobie siebie samych za wszystkie wasze złe czyny, które popełniliście.
 Tam poznacie, że ja jestem PANEM, gdy postąpię z wami przez wzgląd na swoje imię, a nie według waszych złych dróg ani według waszych zepsutych czynów, domu Izraela, mówi Pan BÓG.
 I doszło do mnie słowo PANA mówiące:
+Synu człowieczy, odwróć swoją twarz w stronę południa i krop swoją mowę ku południu, i prorokuj przeciwko lasowi południowego pola;
+Powiedz do południowego lasu: Słuchaj słowa PANA: Tak mówi Pan BÓG: Oto rozniecę w tobie ogień, który strawi w tobie wszelkie drzewo zielone i wszelkie drzewo suche. Nie zostanie ugaszony płomień pałający i spłoną w nim wszystkie twarze od południa aż do północy.
+I wszelkie ciało ujrzy, że ja, PAN, go rozpaliłem; nie będzie ugaszony.
+I powiedziałem: Ach, Panie BOŻE! Oni mówią o mnie: On tylko mówi w przypowieściach.
+I doszło do mnie słowo PANA mówiące:
 Synu człowieczy, odwróć swoją twarz w stronę Jerozolimy i krop swoją mowę ku świętym miejscom, i prorokuj przeciwko ziemi Izraela;
 Powiedz ziemi Izraela: Tak mówi Pan BÓG: Oto ja jestem przeciwko tobie i dobędę swój miecz z pochwy, i wytnę spośród ciebie sprawiedliwego i bezbożnego.
 Ponieważ wytnę spośród ciebie sprawiedliwego i bezbożnego, mój miecz wyjdzie ze swej pochwy przeciwko wszelkiemu ciału od południa aż do północy.
@@ -21038,11 +21043,6 @@ Chociaż opowiadają ci złudne widzenia i wróżą kłamstwo, aby cię przyło�
 Schowaj jednak miecz do pochwy. Będę cię sądził w miejscu, gdzie zostałeś stworzony, w ziemi twego pochodzenia.
 I wyleję na ciebie swoją zapalczywość, tchnę przeciwko tobie ogniem swojego gniewu i wydam cię w ręce okrutnych ludzi i wprawnych w wytraceniu.
 Staniesz się strawą dla ognia, twoja krew będzie rozlana po całej ziemi, nie będziesz już wspominany, bo ja, PAN, to powiedziałem.
-
-
-
-
-
 I doszło do mnie słowo PANA mówiące:
 A ty, synu człowieczy, czy zechcesz sądzić, czy zechcesz sądzić to krwawe miasto? Uświadom mu więc wszystkie jego obrzydliwości.
 Powiedz: Tak mówi Pan BÓG: O miasto, które rozlewasz krew u siebie, aby przyszedł twój czas, i czynisz sobie bożki przeciwko sobie, aby się nimi plugawić.
@@ -21904,9 +21904,6 @@ A zgromadziwszy się, książęta, starostowie, urzędnicy i dowódcy króla wid
 Wtedy Nabuchodonozor powiedział: Błogosławiony niech będzie Bóg Szadraka, Meszaka i Abed-Nego, który posłał swego Anioła i wyrwał swoje sługi, którzy mu ufali, którzy nie posłuchali słowa króla, ale oddali swe ciała, aby nie służyć ani oddawać pokłonu żadnemu bogu oprócz swego Boga.
 Dlatego wydaję taki dekret: Ktokolwiek ze wszelkiego ludu, narodu i języka wypowie bluźnierstwo przeciwko Bogu Szadraka, Meszaka i Abed-Nego, zostanie rozsiekany na kawałki, a jego dom zamieniony w gnojowisko, gdyż nie ma innego Boga, który mógłby wyrwać jak ten.
 Wtedy król wywyższył Szadraka, Meszaka i Abed-Nego w prowincji Babilonu.
-
-
-
 Król Nabuchodonozor do wszystkich ludzi, narodów i języków, którzy mieszkają w całej ziemi: Niech pokój się wam rozmnoży!
 Uważałem za stosowne opowiedzieć o znakach i cudach, które uczynił dla mnie Bóg Najwyższy.
 Jakże wielkie są jego znaki i jak potężne jego cuda! Jego królestwo jest królestwem wiecznym i jego władza trwa z pokolenia na pokolenie.
@@ -21941,6 +21938,9 @@ A gdy słowo to jeszcze było w ustach króla, oto spadł głos z nieba: Do cieb
 Wypędzą cię spośród ludzi, będziesz mieszkał ze zwierzętami polnymi, będą cię żywić trawą jak woły i wypełni się nad tobą siedem czasów, aż poznasz, że Najwyższy panuje nad królestwem ludzkim i daje je, komu chce.
 Tej godziny wypełniło się to słowo nad Nabuchodonozorem: Wypędzono go spośród ludzi, jadł trawę jak woły i jego ciało było skrapiane rosą z nieba, aż jego włosy urosły jak pióra orłów, a jego paznokcie jak szpony ptaków.
 Pod koniec tych dni, ja, Nabuchodonozor, podniosłem swoje oczy do nieba i wrócił mi mój rozum. Wtedy błogosławiłem Najwyższego i chwaliłem go, i wysławiałem Żyjącego na wieki, bo jego władza to władza wieczna, a jego królestwo trwa z pokolenia na pokolenie.
+Wszyscy mieszkańcy ziemi są uważani za nic. Według swojej woli postępuje z wojskiem niebieskim i z mieszkańcami ziemi, a nie ma nikogo, kto by wstrzymał jego rękę lub powiedział mu: Co czynisz?
+W tym czasie wrócił mi mój rozum i ku chwale mego królestwa wróciła do mnie moja dostojność i mój blask. Ponadto moi doradcy i książęta szukali mnie, zostałem umocniony w swoim królestwie i dano mi jeszcze większy majestat.
+A teraz ja, Nabuchodonozor, chwalę, wywyższam i wysławiam Króla niebios, którego wszystkie dzieła są prawdą, a jego ścieżki sprawiedliwością, a tych, którzy postępują w pysze, może on poniżyć.
 Król Belszazar urządził wielką ucztę dla tysiąca swoich książąt i przed tym tysiącem pił wino.
 A gdy Belszazar pił wino, rozkazał przynieść złote i srebrne naczynia, które jego ojciec, Nabuchodonozor, zabrał ze świątyni w Jerozolimie, aby pili z niego król, jego książęta, jego żony i jego nałożnice.
 Wtedy przyniesiono złote naczynia, które zabrano ze świątyni domu Bożego, który był w Jerozolimie, i pili z nich król, jego książęta, jego żony i jego nałożnice.
@@ -21971,6 +21971,7 @@ Tekel: Zważono cię na wadze i okazałeś się lekki.
 Peres: Twoje królestwo zostało podzielone i oddane Medom i Persom.
 Wtedy Belszazar wydał rozkaz i odziano Daniela w purpurę, złoty łańcuch włożono mu na szyję i ogłoszono o nim, że będzie panował jako trzeci w królestwie.
 Tej samej nocy Belszazar, król Chaldejczyków, został zabity.
+A Dariusz, Med, przejął królestwo, mając około sześćdziesięciu dwóch lat.
 Dariuszowi spodobało się ustanowić nad królestwem stu dwudziestu satrapów, którzy byliby po całym królestwie;
 A nad nimi trzech zwierzchników, z których Daniel był pierwszym. Im zdawali sprawozdanie satrapowie, aby król nie doznał żadnej szkody.
 A sam Daniel przewyższał tych książąt i satrapów, ponieważ był w nim nadzwyczajny duch, i król zamierzał ustanowić go nad całym królestwem.
@@ -21999,7 +22000,6 @@ Wtedy król Dariusz napisał do wszystkich ludzi, narodów i języków, którzy 
 Wydaję dekret, aby w całym państwie mego królestwa wszyscy drżeli i bali się Boga Daniela, bo on jest Bogiem żywym i trwa na wieki, a jego królestwo nie będzie zniszczone i jego władza będzie trwać do końca.
 On wyrywa i wybawia, czyni znaki i cuda na niebie i na ziemi; on wyrwał Daniela z mocy lwów.
 A Danielowi dobrze się powodziło w królestwie Dariusza i w królestwie Cyrusa Persa.
-
 W pierwszym roku Belszazara, króla Babilonu, Daniel miał sen i widzenia w swojej głowie na swoim łożu. Wtedy spisał ten sen i podał ogół rzeczy.
 Daniel powiedział: Oto co zobaczyłem w swoim widzeniu w nocy: Oto cztery wiatry niebieskie potykały się na wielkim morzu.
 A cztery wielkie bestie wyszły z morza, jedna różniła się od drugiej.
@@ -22170,6 +22170,8 @@ I poczęła znowu, i urodziła córkę. PAN powiedział do niego: Nadaj jej imi�
 Ale zlituję się nad domem Judy i wybawię go przez PANA, jego Boga, lecz nie wybawię łukiem ani mieczem, ani wojną, ani końmi, ani jeźdźcami.
 Gdy odstawiła od piersi Lo-Ruchamę, znowu poczęła i urodziła syna.
 I PAN powiedział: Nadaj mu imię Lo-Ammi, bo wy nie jesteście moim ludem, ja też nie będę waszym Bogiem.
+Jednak liczba synów Izraela będzie jak piasek morski, którego nie można zmierzyć ani zliczyć. I stanie się, że w miejscu, gdzie im mówiono: Nie jesteście moim ludem, będzie się do nich mówić: Wy jesteście synami Boga żywego.
+I będą zgromadzeni razem synowie Judy i synowie Izraela, ustanowią sobie jedną głowę i wyjdą z tej ziemi. Wielki bowiem będzie dzień Jizreel.
 Mówcie swoim braciom: Ammi, i swoim siostrom, Ruchama!
 Spierajcie się z waszą matką, spierajcie się, bo ona nie jest moją żoną, a ja też nie jestem jej mężem. Niech usunie swoje czyny nierządu sprzed swego oblicza, a swoje cudzołóstwa spośród swoich piersi;
 W przeciwnym razie rozbiorę ją do naga i wystawię taką, jaka była w dniu swego narodzenia; uczynię ją podobną do pustyni, zostawię ją jak suchą ziemię i uśmiercę ją pragnieniem.
@@ -22193,8 +22195,6 @@ Poślubię cię też sobie w wierności i poznasz PANA.
 W tym dniu wysłucham, mówi PAN, wysłucham niebios, a one wysłuchają ziemi;
 Ziemia wysłucha zboża, moszczu i oliwy, a te rzeczy wysłuchają Jizreel.
 Zasieję go sobie na ziemi i zlituję się nad tym, który nie dostąpił miłosierdzia, i powiem do tego, który nie był moim ludem: Ty jesteś moim ludem! A on powie: Ty jesteś moim Bogiem.
-
-
 I powiedział do mnie PAN: Idź jeszcze, pokochaj kobietę kochaną przez innego – cudzołożnicę, tak jak PAN miłuje synów Izraela, choć oni oglądają się za innymi bogami i kochają bukłaki wina.
 Więc kupiłem ją sobie za piętnaście srebrników i za półtora chomera jęczmienia;
 I powiedziałem do niej: Pozostaniesz u mnie przez wiele dni. Nie będziesz uprawiała nierządu ani nie będziesz należała do innego mężczyzny, a ja też będę dla ciebie.
@@ -22318,6 +22318,7 @@ Jakże mógłbym cię porzucić, Efraimie? Jakże mógłbym cię wydać, Izraelu
 Nie wykonam zapalczywości swojego gniewu i nie zniszczę Efraima ponownie, bo jestem Bogiem, a nie człowiekiem; Święty pośród ciebie. I nie nadciągnę przeciwko miastu.
 Pójdą za PANEM, który jak lew będzie ryczał. Gdy zaryczy, synowie z drżeniem przybiegną z zachodu.
 Przybiegną z drżeniem jak ptaki z Egiptu i jak gołębica z ziemi Asyrii i posadzę ich w ich domach, mówi PAN.
+Efraim otoczył mnie kłamstwem, a dom Izraela – zdradą, gdy Juda jeszcze panuje z Bogiem i jest wierny ze świętymi.
 Efraim karmi się wiatrem, goni za wiatrem wschodnim. Przez cały dzień mnoży kłamstwo i spustoszenie, bo zawiera przymierze z Asyryjczykami i wynosi oliwę do Egiptu.
 PAN wiedzie też spór z Judą i ukarze Jakuba według jego dróg, odda mu według jego czynów.
 Jeszcze w łonie ujął on za piętę swego brata, a swoją siłą mężnie zmagał się z Bogiem.
@@ -22332,7 +22333,6 @@ Czy tylko w Gileadzie była nieprawość i marność? I w Gilgal składają ofia
 Tam uciekł Jakub do ziemi Syrii, gdzie Izrael służył za żonę i za żonę strzegł stada.
 Ale PAN przez proroka wyprowadził Izraela z Egiptu i przez proroka był strzeżony.
 Lecz Efraim pobudził PANA do gorzkiego gniewu. Dlatego na niego wyleje się jego krew i jego Pan odpłaci mu za jego zniewagę.
-
 Gdy Efraim przemawiał, panował strach, bo był wywyższony w Izraelu; ale gdy zgrzeszył przy Baalu, wtedy umarł.
 A teraz dodają do swego grzechu, bo czynią sobie odlane posągi ze swego srebra i straszne bożki według swego pomysłu, a to wszystko jest dziełem rzemieślnika; jednak sami o nich mówią: Ludzie, którzy składają ofiary, niech całują cielce.
 Dlatego staną się jak obłok poranny, jak przemijająca rosa poranna, jak plewy przez wicher porwane z klepiska i jak dym z komina.
@@ -22348,6 +22348,7 @@ Nieprawość Efraima jest związana, jego grzech jest ukryty.
 Ogarną go bóle rodzącej. On jest niemądrym synem, bo inaczej nie zostałby tak długo w łonie matki.
 Wybawię ich z mocy grobu, wykupię ich od śmierci. O śmierci, będę twoją śmiercią! O grobie, będę twoim zniszczeniem! Żal się ukryje przed moimi oczami.
 Choćby on wśród braci przyniósł owoc, przyjdzie jednak wiatr ze wschodu, wiatr PANA wyruszy z pustyni i wysuszy jego źródło, i wysuszy jego zdrój. On zagarnie skarby wszelkich kosztownych naczyń.
+Samaria będzie spustoszona, ponieważ sprzeciwiła się swemu Bogu. Padną od miecza, jej niemowlęta będą roztrzaskane, a jej brzemienne będą rozprute.
 Izraelu, nawróć się całkowicie do PANA, swego Boga. Upadłeś bowiem z powodu swojej nieprawości.
 Weźcie ze sobą słowa i zawróćcie do PANA. Mówcie do niego: Przebacz całą naszą nieprawość i daj to, co dobre, wtedy oddamy ci cielce naszych warg.
 Asyria nas nie wybawi, nie będziemy jeździć na koniach i nie będziemy już mówili do dzieł naszych rąk: Wy jesteście naszymi bogami. W tobie bowiem sierota znajduje miłosierdzie.
@@ -22357,7 +22358,6 @@ Jego gałęzie rozrosną się i jego piękno będzie jak drzewo oliwne, a jego w
 Wrócą, aby siedzieć pod jego cieniem, ożyją jak zboże i rozkwitną jak winorośl, ich sława będzie jak wino Libanu.
 Efraim powie: Cóż mi już do bożków? Ja cię wysłucham i wejrzę na ciebie. Ja jestem jak zielona jodła, ode mnie pochodzi twój owoc.
 Kto mądry, niech to zrozumie, a kto roztropny, niech to pozna. Drogi PANA bowiem są proste; sprawiedliwi po nich będą chodzić, ale przestępcy na nich upadną.
-
 Słowo PANA, które doszło do Joela, syna Petuela.
 Słuchajcie tego, starcy, nakłońcie ucha wszyscy mieszkańcy tej ziemi. Czy zdarzyło się coś podobnego za waszych dni albo za dni waszych ojców?
 Opowiadajcie o tym swoim synom, a wasi synowie niech opowiedzą swoim synom, a ich synowie przyszłemu pokoleniu.
@@ -22405,32 +22405,32 @@ I spichlerze będą napełnione zbożem, a tłocznie będą opływać moszczem i
 W ten sposób wynagrodzę wam lata zjedzone przez szarańczę, larwę, robactwo i gąsienicę, moje wielkie wojsko, które wysyłałem na was.
 Wtedy będziecie jeść obficie i będziecie nasyceni; będziecie chwalić imię PANA, swego Boga, który uczynił wam cudowne rzeczy, a mój lud nigdy nie będzie pohańbiony.
 I dowiecie się, że ja jestem wśród Izraela, że ja jestem PAN, wasz Bóg, i że nie ma żadnego innego; a mój lud nigdy nie będzie pohańbiony.
+I stanie się potem, że wyleję swojego Ducha na wszelkie ciało, i będą prorokować wasi synowie i wasze córki, wasi starcy będą mieć sny, a wasi młodzieńcy – widzenia.
+Nawet na sługi i służebnice wyleję w tych dniach swojego Ducha.
+I ukażę cuda na niebie i na ziemi, krew, ogień i kłęby dymu.
+Słońce zamieni się w ciemność, a księżyc w krew, zanim nadejdzie dzień PANA, wielki i straszny.
+I stanie się, że każdy, kto wezwie imienia PANA, zostanie wybawiony, bo na górze Syjon i w Jerozolimie będzie wybawienie, jak powiedział PAN, to jest w resztkach, które PAN powoła.
 Oto bowiem w tych dniach i w tym czasie, gdy odwrócę niewolę ludu Judy i Jerozolimy;
 Zgromadzę też wszystkie narody i sprowadzę je do Doliny Jehoszafata, i będę tam z nimi rozprawiał o swoim ludzie i o swoim dziedzictwie Izraela, które rozproszyły wśród narodów i podzieliły moją ziemię.
 O mój lud rzucały los, dawały chłopca za nierządnicę i dziewczynę sprzedawały za wino, aby piły.
 Ale wy cóż macie przeciwko mnie, Tyrze i Sydonie, oraz wszystkie granice filistyńskie? Czy chcecie dać mi odpłatę? Jeśli mi odpłacicie, to prędko i niezwłocznie i ja zwrócę waszą odpłatę na waszą głowę;
 Gdyż zabraliście moje srebro i złoto, a moje wspaniałe klejnoty wnieśliście do swoich świątyń;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A synów Judy i synów Jerozolimy sprzedaliście Grekom, by ich oddalić od ich granic.
+Oto wzbudzę ich z tego miejsca, do którego ich sprzedaliście, i zwrócę waszą zapłatę na waszą głowę;
+I sprzedam waszych synów i wasze córki w ręce synów Judy, a oni sprzedadzą ich Sabejczykom, narodowi dalekiemu. Tak bowiem PAN powiedział.
+Rozgłoście to wśród pogan, ogłoście wojnę, pobudźcie wojowników, niech przybędą i niech wyruszą wszyscy mężowie waleczni.
+Przekujcie wasze lemiesze na miecze, a wasze sierpy na oszczepy; kto słaby, niech powie: Jestem silny.
+Zgromadźcie się i przyjdźcie, wszystkie okoliczne narody – zbierzcie się. Sprowadź tam, PANIE, swoich wojowników.
+Niech poganie się ockną i nadciągną na Dolinę Jehoszafata. Tam bowiem zasiądę, aby sądzić wszystkie okoliczne narody.
+Zapuśćcie sierp, bo dojrzało żniwo. Pójdźcie i zstąpcie, bo tłocznia jest pełna, kadzie przelewają się, bo ich zło jest wielkie.
+Tłumy, tłumy w dolinie wyroku. Bliski bowiem jest dzień PANA w dolinie wyroku.
+Słońce i księżyc się zaćmią i gwiazdy stracą swój blask.
+I PAN zagrzmi z Syjonu, a z Jerozolimy wyda swój głos, tak że zadrżą niebiosa i ziemia. Ale PAN będzie ucieczką dla swego ludu i siłą synów Izraela.
+I poznacie, że ja jestem PANEM, waszym Bogiem, który mieszka na Syjonie, mojej świętej górze. I Jerozolima stanie się święta, a obcy już nie będą przez nią przechodzić.
+I stanie się w tym dniu, że góry będą kropić moszczem, pagórki opływać mlekiem i wszystkie strumienie Judy napełnią się wodą, a z domu PANA wyjdzie źródło, które nawodni dolinę Sittim.
+Egipt zostanie spustoszony, a ziemia Edom zamieni się w opustoszałe pustkowie z powodu przemocy wyrządzonej synom Judy, bo przelewali niewinną krew w ich ziemi.
+Ale Juda będzie trwać na wieki, a Jerozolima – z pokolenia na pokolenie.
+I oczyszczę tych, których krwi nie oczyściłem. PAN bowiem mieszka na Syjonie.
 Słowa Amosa, który był jednym spośród pasterzy z Tekoa, które widział o Izraelu za dni Uzjasza, króla Judy, i za dni Jeroboama, syna Joasza, króla Izraela, dwa lata przed trzęsieniem ziemi.
 I powiedział: PAN zagrzmi z Syjonu, z Jerozolimy wyda swój głos; mieszkania pasterzy będą lamentować, a wyschnie szczyt Karmelu.
 Tak mówi PAN: Z powodu trzech występków Damaszku i z powodu czterech nie przepuszczę mu, ponieważ młócili Gilead narzędziami z żelaza.
@@ -22614,6 +22614,7 @@ Lecz ci mężczyźni wiosłowali silniej, aby dotrzeć do brzegu, ale nie mogli,
 Zawołali więc do PANA: PANIE, prosimy, nie pozwól nam zginąć z powodu życia tego człowieka i nie obciążaj nas krwią niewinną. Ty bowiem, PANIE, uczyniłeś, jak ci się spodobało.
 Potem wzięli Jonasza i wrzucili do morza, a morze przestało się burzyć.
 Wtedy ci mężczyźni, zdjęci wielkim strachem przed PANEM, złożyli PANU ofiarę i uczynili śluby.
+A PAN przygotował wielką rybę, która połknęła Jonasza. I Jonasz był we wnętrznościach tej ryby trzy dni i trzy noce.
 I modlił się Jonasz do PANA, swego Boga, we wnętrznościach tej ryby;
 I powiedział: Wołałem do PANA w swoim ucisku i wysłuchał mnie; z głębi piekła wołałem i wysłuchałeś mego głosu.
 Rzuciłeś mnie bowiem w głębię, w sam środek morza, i ogarnęła mnie toń. Wszystkie twoje nawałnice i fale przewaliły się nade mną.
@@ -22624,7 +22625,6 @@ Gdy moja dusza we mnie omdlewała, wspomniałem na PANA, a moja modlitwa przysz�
 Ci, którzy trzymają się próżnych marności, pozbawiają się miłosierdzia;
 Ale ja z głosem dziękczynienia będę ci składał ofiary, wypełnię to, co ślubowałem. Od PANA pochodzi wybawienie.
 Wtedy PAN rozkazał tej rybie, a ona wypluła Jonasza na brzeg.
-
 Wtedy słowo PANA doszło do Jonasza po raz drugi mówiące:
 Wstań, idź do Niniwy, tego wielkiego miasta, i głoś przeciwko niej to, co ci rozkazuję.
 Wstał więc Jonasz i poszedł do Niniwy zgodnie ze słowem PANA. A Niniwa była bardzo wielkim miastem, na trzy dni drogi.
@@ -22700,7 +22700,6 @@ Odczuwaj ból i jęcz, córko Syjonu, jak rodząca, bo już wyjdziesz z miasta i
 Teraz zebrało się przeciwko tobie wiele narodów, które mówią: Niech będzie zbezczeszczona, niech nasze oko patrzy na Syjon.
 One jednak nie znają myśli PANA ani nie rozumieją jego rady. On bowiem je zgromadzi jak snopy na klepisku.
 Wstań i młóć, córko Syjonu, bo twój róg uczynię z żelaza i twoje kopyta uczynię ze spiżu, i zmiażdżysz wiele narodów. Poświęcę PANU ich łupy i ich bogactwo Panu całej ziemi.
-
 Zbierz się teraz w oddziały, córko oddziałów! Obległ nas. Laską będą bić w policzek sędziego Izraela.
 Ale ty, Betlejem Efrata, choć jesteś najmniejsze wśród tysięcy w Judzie, z ciebie jednak wyjdzie mi ten, który będzie władcą w Izraelu, a jego wyjścia są od dawna, od dni wiecznych.
 Dlatego wyda ich aż do czasu, kiedy rodząca porodzi. Wtedy resztka jego braci wróci do synów Izraela.
@@ -22715,6 +22714,7 @@ Wygubię miasta twojej ziemi i zburzę wszystkie twoje twierdze.
 Wytracę czary z twojej ręki i nie będzie już u ciebie wróżbitów.
 Wyniszczę też twoje rzeźbione bożki i twoje obrazy spośród ciebie i nie będziesz już oddawać pokłonu dziełu swoich rąk.
 Wykorzenię twoje gaje spośród ciebie i zgładzę twoich wrogów.
+Tak w gniewie i zapalczywości dokonam zemsty nad narodami, które nie były posłuszne.
 Słuchajcie tego, co mówi PAN: Wstań, spieraj się z górami i niech pagórki słuchają twego głosu.
 Słuchajcie, góry, sporu PANA, i najmocniejsze fundamenty ziemi, bo PAN wiedzie spór ze swoim ludem i rozprawia się z Jerozolimą.
 Mój ludu, cóż ci uczyniłem? W czym ci się uprzykrzyłem? Zeznaj przeciwko mnie.
@@ -22765,6 +22765,7 @@ Z ciebie wyszedł ten, który obmyślił zło przeciwko PANU, doradca nikczemny.
 Tak mówi PAN: Chociaż są spokojni i tak liczni, będą jednak skoszeni, gdy przejdzie. Chociaż cię trapiłem, już więcej nie będę cię trapił.
 Teraz bowiem złamię jego jarzmo, aby na tobie nie leżało, a rozerwę twoje więzy.
 O tobie PAN rozkazał, że twoje imię już nie będzie miało więcej potomstwa. Wyniszczę z domu twoich bogów rzeźbione i lane posągi. Przygotuję ci grób, gdyż jesteś nikczemny.
+Oto na górach nogi opowiadającego dobre wieści, zwiastującego pokój. Obchodź, Judo, swoje uroczyste święta, wypełniaj swoje śluby. Nikczemnik bowiem już nie przejdzie przez ciebie, został doszczętnie zgładzony.
 Nadciąga niszczyciel przeciwko tobie! Strzeż miejsc obronnych, obserwuj drogę, wzmocnij biodra i zbierz wszystkie swe siły.
 PAN bowiem odwrócił pychę Jakuba jak pychę Izraela, gdyż złupili ich grabieżcy i zniszczyli ich latorośle.
 Tarcza jego mocarzy czerwona, jego wojownicy ubrani w szkarłat, rydwany będą jak płonące pochodnie w dniu jego przygotowania, a jodły będą strasznie się trząść.
@@ -22778,7 +22779,6 @@ Pusta, opróżniona i spustoszona! Serce topnieje, trzęsą się kolana, czuć b
 Gdzie jest jaskinia lwów i pastwisko lwiąt, dokąd chodziły lew, ten wielki lew, oraz lwięta, a nie było nikogo, kto by je straszył.
 Lew już dosyć rozszarpał ofiar dla swych lwiąt i zadusił je dla swoich lwic, napełniał łupem swoje jaskinie, a zdobyczą swoje legowiska.
 Oto jestem przeciwko tobie, mówi PAN zastępów, spalę na proch twoje rydwany i twoje lwięta pożre miecz. Wykorzenię z ziemi twój łup i nie będzie już słychać głosu twoich posłów.
-
 Biada krwawemu miastu! Jest ono całe pełne kłamstwa i grabieży, a łup z niego nie wychodzi.
 Słychać trzask biczów, grzmot kół, tupanie koni i podskakiwanie rydwanów.
 Jeździec dobywa błyszczący miecz i lśniący oszczep. Mnóstwo rannych i tak wielka ilość trupów, że nie można ich zliczyć; potykają się o zwłoki.
@@ -22962,6 +22962,10 @@ Potem Anioł, który rozmawiał ze mną, powiedział: Wołaj i mów: Tak mówi P
 A bardzo się gniewam na te narody, które zażywają pokoju, bo gdy się trochę gniewałem, one wtedy przyczyniły się do nieszczęścia.
 Dlatego tak mówi PAN: Zwróciłem się do Jerozolimy w miłosierdziu, mój dom zostanie w niej zbudowany, mówi PAN zastępów, i sznur będzie rozciągnięty nad Jerozolimą.
 Wołaj jeszcze: Tak mówi PAN zastępów: Moje miasta jeszcze się rozciągną z powodu obfitości dobra, PAN jeszcze pocieszy Syjon i jeszcze wybierze Jerozolimę.
+Wtedy podniosłem swe oczy i spojrzałem, a oto cztery rogi.
+I zapytałem Anioła, który rozmawiał ze mną: Cóż to jest? I odpowiedział mi: To są rogi, które rozproszyły Judę, Izraela i Jerozolimę.
+Następnie PAN ukazał mi czterech kowali.
+I zapytałem: Co oni przyszli czynić? I odpowiedział: To są rogi, które rozproszyły Judę, tak że nikt nie mógł podnieść swojej głowy. Dlatego oni przyszli, aby je przestraszyć i strącić rogi tych narodów, które podniosły swoje rogi przeciwko ziemi Judy, aby ją rozproszyć.
 Potem znowu podniosłem swoje oczy i spojrzałem, a oto mężczyzna, w którego ręce był sznur mierniczy.
 I zapytałem: Dokąd idziesz? Odpowiedział mi: Idę zmierzyć Jerozolimę, by zobaczyć, jaka jest jej szerokość i jaka jej długość.
 A oto gdy Anioł, który rozmawiał ze mną, odchodził, inny anioł wyszedł mu naprzeciw.
@@ -22975,10 +22979,6 @@ Zaśpiewaj i raduj się, córko Syjonu, bo oto przyjdę i zamieszkam pośród ci
 Wiele narodów przyłączy się w tym dniu do PANA i będą moim ludem, a ja zamieszkam pośród ciebie i poznasz, że PAN zastępów posłał mnie do ciebie.
 Wtedy PAN weźmie Judę w posiadanie jako swój dział w ziemi świętej i znowu wybierze Jerozolimę.
 Niech umilknie wszelkie ciało przed PANEM. On bowiem powstał ze swego świętego przybytku.
-
-
-
-
 Potem ukazał mi Jozuego, najwyższego kapłana, który stał przed Aniołem PANA, i szatana stojącego po jego prawicy, aby mu się sprzeciwiać.
 Ale PAN powiedział do szatana: Niech cię PAN zgromi, szatanie! Niech cię skarci PAN, który wybrał Jerozolimę. Czyż nie jest on jak głownia wyrwana z ognia?
 A Jozue był ubrany w brudne szaty i stał przed Aniołem.
@@ -23205,12 +23205,12 @@ A teraz pysznych mamy za błogosławionych, ponieważ ci się budują, którzy c
 Wtedy rozmawiali o tym między sobą ci, którzy się bali PANA. PAN zobaczył to i usłyszał, i napisano księgę wspomnień przed nim z powodu tych, którzy się boją PANA i rozmyślają o jego imieniu.
 Oni będą moimi, mówi PAN zastępów, w dniu, kiedy uczynię ich moją własnością. Zlituję się nad nimi, jak się lituje ojciec nad swoim synem, który mu służy.
 Wtedy zawrócicie i zobaczycie różnicę między sprawiedliwym i bezbożnym, między tym, który służy Bogu, i tym, który mu nie służy.
-
-
-
-
-
-
+Oto bowiem nadchodzi dzień palący jak piec, a wszyscy pyszni i wszyscy czyniący niegodziwie będą jak ściernisko. I spali ich ten nadchodzący dzień, mówi PAN zastępów, tak że nie pozostawi im ani korzenia, ani gałązki.
+Ale dla was, którzy się boicie mojego imienia, wzejdzie Słońce sprawiedliwości z uzdrowieniem na swoich skrzydłach; wtedy wyjdziecie i wyrośniecie jak cielęta z zagrody.
+I podepczecie bezbożnych, gdyż będą prochem pod waszymi nogami w dniu, kiedy to uczynię, mówi PAN zastępów.
+Pamiętajcie o prawie Mojżesza, mego sługi, które mu nadałem na Horebie dla całego Izraela, oraz o ustawach i sądach.
+Oto poślę wam Eliasza proroka, zanim przyjdzie ten wielki i straszny dzień PANA.
+On zwróci serca ojców ku synom, a serca synów ku ich ojcom, abym nie ukarał ziemi przekleństwem, gdy przyjdę.
 Księga rodu Jezusa Chrystusa, syna Dawida, syna Abrahama.
 Abraham spłodził Izaaka, a Izaak spłodził Jakuba, a Jakub spłodził Judę i jego braci.
 A Juda spłodził z Tamar Faresa i Zarę, a Fares spłodził Ezroma, a Ezrom spłodził Arama.
@@ -27691,7 +27691,7 @@ Skoro nikt temu nie może zaprzeczyć, powinniście się uspokoić i niczego nie
 Przyprowadziliście bowiem tych ludzi, którzy nie są ani świętokradcami, ani też nie bluźnią waszej bogini.
 A jeśli Demetriusz i rzemieślnicy, którzy są z nim, mają coś przeciwko komuś, są przecież sądy, są też prokonsulowie, niech pozywają jedni drugich.
 Jeśli zaś chodzi o coś innego, zostanie to rozpatrzone na prawomocnym zebraniu.
-Grozi nam bowiem oskarżenie o dzisiejsze rozruchy, bo nie ma żadnego powodu, którym moglibyśmy wytłumaczyć to zbiegowisko.
+Grozi nam bowiem oskarżenie o dzisiejsze rozruchy, bo nie ma żadnego powodu, którym moglibyśmy wytłumaczyć to zbiegowisko. Po tych słowach rozwiązał zebranie.
 A gdy ustały rozruchy, Paweł przywołał uczniów, pożegnał się z nimi i wyruszył do Macedonii.
 Przeszedł tamte okolice, udzielając wielu napomnień. Potem przybył do Grecji.
 Kiedy po trzymiesięcznym pobycie zamierzał odpłynąć do Syrii, Żydzi urządzili na niego zasadzkę, więc postanowił powrócić przez Macedonię.

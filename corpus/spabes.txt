@@ -926,6 +926,7 @@ Y Labán dijo: Mira estas piedras, y esta columna que puse entre tú y yo;
 Serán testigos de que no pasaré sobre estas piedras a ti, y no pasarás estas piedras ni esta columna por ningún mal propósito.
 Que el Dios de Abraham y el Dios de Nahor, el Dios de su padre, sean nuestros jueces. Entonces Jacob juró por el temor de su padre Isaac.
 Y Jacob hizo una ofrenda en el monte, y mandó a su pueblo que bebiesen; y comieron y descansaron aquella noche en la montaña.
+Y temprano en la mañana Labán, después de besar y bendecir a sus hijas, regresó a su país.
 Y en su camino Jacob se encontró cara a cara con los ángeles de Dios.
 Y cuando los vio, dijo: Este es el ejército de Dios; y dio a aquel lugar el nombre de Mahanaim.
 Y envió Jacob siervos delante de él a su hermano Esaú en la tierra de Seir, en la tierra de Edom;
@@ -958,7 +959,6 @@ Entonces Jacob dijo: ¿Cuál es tu nombre? Y él dijo: ¿Porque me preguntas por
 Y Jacob dio a ese lugar el nombre de Penuel, diciendo: He visto a Dios cara a cara, y aún estoy vivo.
 Y mientras pasaba por Penuel, salió el sol. Y fue con pasos desiguales debido a su pierna dañada.
 Por esta razón, los hijos de Israel, incluso hoy en día, nunca toman ese músculo en el hueco de la pierna como alimento, porque se tocó el hueco de la pierna de Jacob.
-
 Entonces Jacob, levantando los ojos, vio a Esaú que venía con sus cuatrocientos hombres. Entonces hizo una división de los niños entre Lea y Raquel y las dos sirvientas.
 Puso los siervos y sus hijos delante, Lea y sus hijos después de ellos, y Raquel y José detrás.
 Y él mismo, yendo delante de ellos, se echó sobre su rostro a la tierra siete veces hasta acercarse a su hermano.
@@ -1709,10 +1709,6 @@ Y las magos de Egipto hicieron lo mismo con sus artes secretas; pero el corazón
 Entonces Faraón entró en su casa, y no se tomó esto en serio.
 Y todos los egipcios hicieron agujeros alrededor del Nilo para obtener agua potable, porque no podían usar el agua del Nilo.
 Y pasaron siete días, después que el Señor puso su mano en el Nilo.
-
-
-
-
 Y esto es lo que el SEÑOR dijo a Moisés: Ve a Faraón y dile: El Señor dice: Deja ir a mi pueblo para que me den culto.
 Y si no los dejas ir, mira, enviaré ranas a cada parte de tu tierra:
 El Nilo estará lleno de ranas, y entrarán en tu casa y en tus habitaciones y en tu cama, y en las casas de tus siervos y tu pueblo, y en tus hornos y en donde amasas tu masa.
@@ -1741,6 +1737,10 @@ Entonces Faraón envió a llamar a Moisés y a Aarón, y les dijo: Ve y haz tu o
 Y dijo Moisés: No es correcto hacerlo; porque hacemos nuestras ofrendas de aquello a lo que los egipcios dan culto; y si lo hacemos ante sus ojos, ciertamente seremos apedreados.
 Pero iremos tres días de camino a la tierra baldía, y haremos una ofrenda al Señor nuestro Dios, para que él nos dé órdenes.
 Entonces Faraón dijo: Te dejaré ir a hacer una ofrenda al Señor tu Dios en la tierra baldía; pero no te vayas muy lejos y ora por mí.
+Y Moisés dijo: Cuando yo salga de delante de ti, rogaré al Señor que la nube de moscas se vayan de Faraón y de su pueblo y de sus siervos mañana; que el faraón ya no engañe más a la gente ni impida que la gente vaya hacer su ofrenda al Señor.
+Entonces Moisés salió de Faraón e hizo oración al Señor.
+Y Él Señor hizo como Moisés dijo, y quitó la nube de moscas de Faraón, y de sus siervos y de su pueblo; y todas desaparecieron.
+Pero otra vez Faraón endureció su corazón y no dejó ir al pueblo.
 Entonces Él Señor dijo a Moisés: Ve al Faraón y dile: Así dice el Señor, el Dios de los hebreos: Deja ir a mi pueblo para que me den culto.
 Porque si no los dejas ir, y aún los detienes,
 Entonces la mano del Señor estará sobre tu ganado en el campo, en los caballos, asnos y camellos, en las vacas y en las ovejas, una enfermedad muy mala.
@@ -2112,7 +2112,6 @@ Si un hombre hace un hoyo en la tierra sin cubrirlo, y un buey o un asno cayendo
 El dueño del hoyo es responsable; tendrá que hacer un pago a su dueño, pero la bestia muerta será suya.
 Y si el buey de un hombre daña al buey de otro hombre, causándole la muerte, entonces el buey viviente será cambiado por dinero, y la división será por el precio del mismo, y el precio del muerto.
 Pero si es sabido que el buey frecuentemente ha hecho tal daño en el pasado, y su dueño no lo ha mantenido bajo control, tendrá que dar buey por buey; y la bestia muerta será suya.
-
 Si un hombre toma sin derecho el buey de otro hombre o sus ovejas, y lo mata o lo vende, él dará cinco bueyes por un buey, o cuatro ovejas por oveja.
 Si un ladrón es tomado en el acto de ingresar a una casa, y su muerte es causada por un golpe, el dueño de la casa no es responsable de su sangre.
 Pero si es después del amanecer, él será el responsable. Él que robó tendrá que restituir lo que se robó, y si no tiene con qué pagar; él mismo será vendido para pagar lo robado.
@@ -2143,6 +2142,7 @@ Porque es lo único que tiene para cubrir su piel; ¿en qué se va a dormir? y c
 No puedes decir mal de los jueces, ni maldecir al gobernante de tu pueblo.
 No tardes de traer tus ofrendas de la riqueza de tu grano y tus viñedos. El primero de tus hijos debes darme.
 De la misma manera con tus bueyes y tus ovejas: durante siete días estará con su madre; en el octavo día dámelo.
+Serán para mí hombres santos; la carne de ningún animal, cuya muerte haya sido causada por las bestias del campo, se puede usar para su alimento; es para ser dado a los perros.
 No dejes que una declaración falsa vaya más allá; no hagas un acuerdo con los malvados para ser un testigo falso.
 No te dejes llevar a hacer lo incorrecto por la opinión de muchos, en una disputa no te irás del lado de la mayoría para cometer injusticia:
 Pero, por otro lado, no te desvíes de lo correcto para dar apoyo a la causa de un pobre hombre.
@@ -2848,13 +2848,6 @@ Y debe pagarle al sacerdote lo que ha hecho mal en relación con lo sagrado, jun
 Y si alguien hace algo malo, y hace alguna de las cosas que el Señor ha ordenado que no se debe hacer, aunque no lo sepa, todavía está equivocado y es responsable.
 Déjalo venir al sacerdote con una oveja, un macho sin defecto fuera del rebaño, del valor fijado por ti, como ofrenda por su error; y el sacerdote quitará el pecado que cometió por error, y tendrá perdón.
 Es una ofrenda por su error: ciertamente es responsable ante el Señor.
-
-
-
-
-
-
-
 Y él Señor dijo a Moisés:
 Si alguien hace algo incorrecto y no es fiel al Señor, actúa falsamente con su prójimo en relación con algo puesto a su cargo, o algo que se le ha dado por una deuda, o ha quitado algo por la fuerza o ha sido cruel con su vecino.
 O ha hecho un juramento falso sobre la pérdida de algo que ha encontrado por casualidad; Si un hombre ha hecho alguna de estas cosas malas,
@@ -2878,6 +2871,13 @@ Esta es la ofrenda que Aarón y sus hijos deben hacer al Señor el día en que s
 Hágase con aceite en un plato plano; cuando esté bien mezclado y cocido, déjelo que se rompa y se tome como ofrenda de comida, como un olor grato al Señor.
 Y la misma ofrenda debe ser dada por aquel de sus hijos que toma su lugar como sacerdote; por una orden para siempre, todo esto debe ser quemado delante del Señor.
 Cada ofrenda de comida ofrecida por el sacerdote debe ser completamente quemada: nada de eso debe tomarse para comer.
+Y él Señor dijo a Moisés:
+Díle a Aarón y a sus hijos: Esta es la ley para la ofrenda por el pecado: la ofrenda por el pecado debe ser degollada ante el Señor en el mismo lugar que la ofrenda quemada. es cosa santísima.
+El sacerdote quien hace la ofrenda por el pecado, debe tomarlo por su alimento en un lugar santo, en el espacio abierto de la tienda de la reunión.
+Cualquiera que toque su carne será santo: y si algo de la sangre cae sobre alguna ropa, la cosa sobre la cual se ha derramado la sangre será lavada en un lugar santo.
+Pero el vaso de barro en que se cocía la carne, será quebrado; o si se usó un recipiente de latón, debe ser frotado y lavado con agua.
+Todos los varones de entre los sacerdotes pueden tomarlo como alimento: es cosa santísima.
+Ninguna ofrenda por el pecado, cuya sangre se lleva a la tienda de la reunión, para quitar el pecado en el lugar santo, puede ser usada como alimento: debe ser quemada con fuego.
 Y esta es la ley de la ofrenda por la culpa: es santísima.
 Deben dar muerte al animal en ofrenda por la culpa en el mismo lugar que la ofrenda quemada; y el sacerdote debe poner la sangre sobre y alrededor del altar.
 Y toda la grasa de ella, la cola gruesa y la grasa que cubre los intestinos, se debe dar como una ofrenda.
@@ -4229,6 +4229,21 @@ Así que ellos y todos los suyos descendieron viviendo en el inframundo, y la ti
 Y todo Israel alrededor de ellos huyó a su clamor. Por temor, dijeron ellos, que la tierra nos trague también a nosotros.
 Luego salió fuego del Señor, que quemó a los doscientos cincuenta hombres que ofrecían el incienso.
 Y él Señor dijo a Moisés:
+Dile a Eleazar, hijo del sacerdote Aarón, que saque los incensarios de las llamas; y dispersar los carbones en otro lugar, apagando de ellos el fuego, porque son santos;
+Y las vasijas de aquellos hombres, que con sus vidas han pagado por sus pecados, sean martillados como platos para cubrir el altar; porque han sido ofrecidos delante del Señor y son santos; para que sean una señal para los hijos de Israel.
+Entonces el sacerdote Eleazar tomó los recipientes de bronce que habían sido ofrecidos por los que fueron quemados, y fueron martillados para hacer una cubierta para el altar:
+Para ser una señal, guardada en la memoria para siempre por los hijos de Israel, que ningún hombre que no sea de la descendencia de Aarón tiene el derecho de quemar incienso ante el Señor, para que no sea como Coré y sus seguidores: como el Señor le dijo por la boca de Moisés.
+Pero al día siguiente, todos los hijos de Israel clamaron contra Moisés y Aarón, diciendo: Has matado al pueblo del Señor.
+Cuando la gente se había reunido contra Moisés y Aarón, mirando en dirección a la Tienda de reunión, vieron que la nube la cubría, y la gloria del Señor vino ante sus ojos.
+Entonces Moisés y Aarón llegaron al frente de la tienda de reunión.
+Y él Señor dijo a Moisés:
+Salgan de entre esta gente, para que pueda enviarles una destrucción repentina. Y descendieron sobre sus rostros.
+Entonces Moisés dijo a Aarón: Toma tu incensario ponle fuego del altar, y sobre él incienso, y llévalo rápidamente a la reunión del pueblo, y haz expiación del pecado; porque la ira ha salido de El Señor, y la enfermedad está empezando.
+Al oír las palabras de Moisés, Aarón tomó su incensario corrió entre el pueblo; e incluso entonces la enfermedad había comenzado entre ellos; y puso incienso en su incensario para quitar el pecado de la gente.
+Y tomó su lugar entre los muertos y los vivos, y la enfermedad se detuvo.
+Ahora, catorce mil setecientas muertes fueron causadas por esa enfermedad, además de las que llegaron a su fin por lo que Coré había hecho.
+Entonces Aarón volvió a Moisés a la puerta de la tienda de reunión: y la enfermedad se detuvo.
+Y él Señor dijo a Moisés:
 Di a los hijos de Israel que deben darte varas, una por cada uno de los jefes de la familia patriarcal, que hace doce varas; Que el nombre de cada uno sea puesto sobre su vara.
 Y que el nombre de Aarón se ponga sobre la vara de Leví; porque habrá una vara para la cabeza de cada familia.
 Y guárdalos en la tienda de reunión, delante del cofre del testimonio, donde yo me encuentro con ustedes.
@@ -4241,21 +4256,6 @@ Y el Señor le dijo a Moisés: Pon la varilla de Aarón de nuevo frente al cofre
 Esto hizo Moisés: como el Señor dio órdenes, así lo hizo.
 Entonces los hijos de Israel dijeron a Moisés: En verdad, ha llegado la destrucción sobre nosotros; moriremos, todos moriremos.
 La muerte superará a todos los que se acerquen a la Tienda del Señor: ¿vamos todos a la destrucción?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Y el Señor le dijo a Aarón: Tú y tus hijos y la familia de tu padre deben ser responsables de llevar el pecado en relación con el lugar santo: y tú y tus hijos deben ser responsables de los errores que se producen en su función como sacerdotes.
 Permitan que sus hermanos, la familia de Levi, se acerquen a ustedes para que puedan unirse a ustedes y ser sus siervos; pero ustedes y sus hijos con ustedes deben entrar ante el arca del testimonio.
 Deben cumplir con sus órdenes y ser responsables del trabajo de la Tienda; pero no pueden acercarse a las vasijas del lugar santo o al altar, para que la muerte no los alcance a ellos ni a ustedes.
@@ -4647,6 +4647,7 @@ Y ofrenda quemada, ofrenda encendida de aroma dulce al Señor: un becerro, un ca
 Con la ofrenda de cereales y las ofrendas de bebida para el becerro, un carnero y los corderos, en relación con su número, como se ordena:
 Y un chivo para el sacrificio por el pecado; además de la ofrenda quemada regular, y su ofrenda de cereales, y su ofrenda de bebida.
 Estas son las ofrendas que debes entregar al Señor en tus fiestas regulares, además de las ofrendas para un juramento y las ofrendas gratuitas que das, por tus ofrendas quemadas y tus ofrendas de bebidas y tus ofrendas de paz.
+Entonces Moisés les dio a los hijos de Israel todas estas instrucciones como el Señor le había ordenado.
 Entonces Moisés dijo a los jefes de las tribus de los hijos de Israel: Este es el orden del Señor.
 Cuando un hombre hace un juramento al Señor, o hace una promesa que tiene la fuerza de un juramento, deberá cumplir su palabra, haga lo que él ha dicho que hará.
 Si una mujer, siendo joven y bajo la autoridad de su padre, hace un juramento al Señor o hace una promesa;
@@ -4663,7 +4664,6 @@ Todo juramento, y toda promesa que ella haga, para ayunar, puede ser apoyada o q
 Pero si los días continúan y su marido no le dice nada en absoluto, entonces él le está dando el apoyo de su autoridad a sus juramentos y compromisos, porque en el momento de escucharlos no le dijo nada.
 Pero si en algún momento después de escucharlos, los anula, entonces es responsable del incumplimiento de su mujer.
 Estas son las leyes que el Señor le dio a Moisés en relación con un hombre y su esposa, o un padre y una hija pequeña que está bajo su autoridad.
-
 Entonces el SEÑOR dijo a Moisés:
 Da a los madianitas el castigo por el mal que hicieron a los hijos de Israel: y después de eso serás recogido a tu pueblo, morirás.
 Entonces Moisés dijo al pueblo: Que los hombres de entre ustedes estén armados para la guerra para poner en práctica el castigo de Madián el Señor.
@@ -5271,6 +5271,7 @@ Toma nota de todas estas órdenes que te estoy dando y presten atención a ellas
 Cuando el pueblo de la tierra a la que se dirigen haya sido destruida por el Señor tu Dios, y hayan tomado su tierra y estén viviendo en ella;
 Después de su destrucción, cuídate de no seguir sus caminos y de no pensar en sus dioses, diciendo: Cómo adoraron estas naciones a sus dioses Haré lo que ellos hicieron.
 No hagan esto al Señor tu Dios: porque todo lo que es repugnante para el Señor y odiado por él, lo han hecho en honor de sus dioses: incluso quemando a sus hijos e hijas en el fuego a sus dioses.
+Deben guardar con cuidado todas las palabras que les doy, sin agregar nada y sin quitarle nada.
 Si alguna vez tienes entre ustedes un profeta o un soñador de sueños y él te da una señal o una maravilla,
 Y la señal o la maravilla tiene lugar, y él les dice: Sigamos otros dioses que no conocen y adorémosles.
 Entonces no le presten atención a las palabras de ese profeta ni a ese soñador de sueños: porque el Señor, tu Dios, te está probando para ver si todo el amor de tu corazón y de tu alma está entregado a él.
@@ -5289,7 +5290,6 @@ Luego matarás a filo de espada la gente de ese pueblo y entregarla a la maldici
 Y toma todos los bienes en medio de la plaza, quemando la ciudad y todas sus propiedades con fuego como ofrenda al Señor tu Dios; esa ciudad será un desperdicio para siempre; No habrá más edificios allí.
 No guarden nada de lo que está destinado a la destrucción para ustedes mismos: para que el Señor nunca se enoje contigo y tenga misericordia de ti, y te hará que te multipliques como lo dijo en su juramento a tus padres:
 Mientras escuches la voz del Señor tu Dios, mantén todas las órdenes que te doy hoy y haz lo correcto ante los ojos del Señor tu Dios.
-
 Ustedes son los hijos del Señor su Dios: no deben hacer cortes en sus cuerpos ni raparse el vello de las cejas en honor de los muertos;
 Porque ustedes son un pueblo santo para el Señor su Dios, y el Señor los ha elegido a ser su pueblo especial de todas las naciones sobre la tierra.
 Ninguna cosa impura puede ser su comida.
@@ -5499,6 +5499,7 @@ No se debe hacer nada a la virgen, porque no hay causa de muerte en ella: es lo 
 Porque él la encontró en el campo abierto, y no había nadie para ayudar a la virgen en respuesta a su clamor.
 Si un hombre ve a una joven virgen que no ha dado su palabra de casarse con nadie, y la toma por la fuerza y se acuesta con ella, y son descubiertos;
 Entonces el hombre tendrá que dar al padre de la virgen cincuenta siclos de plata y convertirla en su esposa, porque la ha violado; Él nunca podrá divorciarse de ella en toda su vida.
+Un hombre no puede tomar a la esposa de su padre o tener relaciones sexuales con una mujer que es de su padre.
 Ningún hombre cuyas partes privadas hayan sido heridas o mutiladas puede entrar en la reunión del pueblo del Señor.
 Uno de cuyos padres y madres no estén casados no pueden asistir a la reunión del pueblo del Señor, ni a ninguno de sus familiares hasta la décima generación.
 Ninguna Amonita o Moabita o cualquiera de sus descendientes hasta la décima generación puede venir a la reunión de la gente del Señor:
@@ -5524,7 +5525,6 @@ Pero si no hacen juramento, no habrá pecado.
 Lo que hayan dicho tus labios, mira que lo hagan; porque dieron su palabra libremente al Señor tu Dios.
 Cuando entren en el viñedo de su vecino, pueden tomar de sus uvas a su gusto, pero no pueden llevarlas en su vasija.
 Cuando vayan al campo de su vecino, pueden tomar las espigas con la mano; Pero no pueden poner su hoz a su grano.
-
 Si un hombre toma esposa, y después de que se casen, él a encontrado algo impuro en ella, que le dé una declaración de divorcio por escrito y la enviará lejos de su casa.
 Y cuando ella se haya alejado de él, puede convertirse en la esposa de otro hombre.
 Y si el segundo marido no la ama y, dándole una declaración de divorcio por escrito, la despide; o si la muerte le llega al segundo marido con quien se casó;
@@ -5679,7 +5679,6 @@ Y aun entre estas naciones no habrá paz para ti, ni descanso para tus pies; per
 Tu misma vida quedará en suspenso delante de ti, y día y noche se llenarán de miedos, y nada en la vida será seguro.
 Por la mañana dirás: ¡Ojalá fuera la tarde! Y al anochecer dirás: ¡Si solo llegara la mañana! Por el miedo en tus corazones amedrentados y las cosas que tus ojos verán.
 Y el Señor te llevará de vuelta a Egipto en barcos, por el camino que te había dicho: Nunca lo volverás a ver: allí se ofrecerán en venta como siervos y siervas a sus enemigos, y ningún hombre los comprará.
-
 Estas son las palabras del pacto que el Señor le ordenó a Moisés que hiciera con los hijos de Israel en la tierra de Moab, además del pacto que él hizo con ellos en Horeb.
 Y Moisés dijo a la vista de todo Israel: Han visto todo lo que el Señor hizo ante sus ojos en la tierra de Egipto a Faraón, a todos sus siervos y a toda su tierra;
 Las grandes pruebas que vieron sus ojos, y las señales y maravillas.
@@ -5708,6 +5707,7 @@ Entonces los hombres dirán: Porque renunciaron al pacto del Señor, el Dios de 
 Y fueron tras otros dioses y les dieron adoración, dioses que eran extraños para ellos, y que él no les había dado.
 Y así la ira del Señor fue movida contra esta tierra, para enviar sobre ella toda la maldición registrada en este libro.
 Desarraigándolos de su tierra, en el calor de su ira, furor e indignación, y echandolos a otra tierra, como sucede hoy.
+Las cosas secretas son del Señor nuestro Dios; pero las cosas que se han revelado son nuestras y de nuestros hijos para siempre, para que podamos cumplir todos los mandamientos de esta ley.
 Ahora, cuando todas estas cosas han venido sobre ustedes, la bendición y la maldición que he puesto delante de ustedes, si meditan sobre ellas en su mente, cuando estén viviendo entre las naciones donde el Señor su Dios los envió.
 Y sus corazones se vuelven nuevamente al Señor tu Dios, y obedecen su palabra que hoy les doy, tú y tus hijos, con todo tu corazón y con toda tu alma.
 Entonces el Señor tendrá compasión de ustedes, cambiará su destino y los reunirá de entre todas las naciones a las que los obligó a ir.
@@ -7771,6 +7771,7 @@ Y Jonatán siguió gritando por el niño: ve rápido, no te detengas, ve rápido
 Pero el muchacho no tenía idea de lo que estaba pasando; sólo Jonatán y David lo sabían.
 Y Jonatán entregó su arco y sus flechas al muchacho, y le dijo: Toma esto y vuelve al pueblo.
 Y cuando el muchacho se había ido, David salió de su lugar secreto por la colina, y cayendo a la tierra se inclinó tres veces y uno al otro se dieron un beso, llorando juntos, aunque lloró más David.
+
 Y Jonatán dijo a David: Ve en paz, porque nosotros dos hemos jurado, en el nombre del Señor, diciendo: El Señor estará entre tú y yo, y entre mi simiente y tu simiente para siempre. Entonces David se fue, y Jonatán entró en el pueblo.
 Entonces David se acercó a Nob y al sacerdote Ahimelec. Ahimelec se llenó de temor al encontrarse con David y le dijo: ¿Por qué estás solo, sin tener un hombre contigo?
 Y David dijo al sacerdote Ahimelec: El rey me dio órdenes y me dijo: No digas nada a nadie sobre el negocio al que te envío y las órdenes que te he dado, y cierto lugar Se ha fijado para los hombres.
@@ -7787,7 +7788,6 @@ Y David tomó en serio estas palabras, temiendo a Aquis, el rey de Gat.
 Entonces, cambiando su comportamiento ante ellos, fingiendo locura ante ellos, rascaba las puertas de la ciudad y dejaba que la saliva saliera de su boca hasta su barbilla.
 Entonces Aquis dijo a sus siervos: ¡Miren! el hombre está claramente fuera de su cabeza; ¿Por qué lo has dejado venir ante mi?
 ¿Acaso me hacen falta locos, para que dejen que esta persona venga y haga tales locuras ante mí? ¿Había de entrar tal hombre en mi casa?
-
 Entonces David se fue de allí y se escondió en una cueva en Adullam; y sus hermanos y toda la gente de su padre, oyéndolo, descendieron a él allí.
 Y todos los que estaban en problemas, y todos los que estaban endeudados, y todos los que tenían un alma amargada, se reunieron con él, y se convirtió en capitán sobre ellos, se unieron a él unos cuatrocientos hombres.
 Y de allí, David fue a Mizpa en la tierra de Moab; y dijo al rey de Moab: Que vengan mi padre y mi madre, y vivan contigo hasta que esté claro para mí lo que Dios hará de mí.
@@ -7839,6 +7839,7 @@ Y Saúl y sus hombres fueron a buscarlo. Y David se enteró, así que bajó a la
 Y Saúl y sus hombres fueron a un lado de la montaña, y David y sus hombres fueron al otro, y el propósito de David era escapar lo más rápido posible, por temor a Saúl; porque Saúl y sus hombres hacían un círculo alrededor de David y sus hombres para atraparlos.
 Pero un hombre vino a Saúl, diciendo: Anda y ven; porque los filisteos han atacado la tierra.
 De modo que, volviendo de perseguir a David, Saúl fue contra los filisteos. Así se llamó a ese lugar peñasco de la separación.
+Y de allí, David subió y se escondió en las fortalezas de En-gedi.
 Cuando Saúl regresó de pelear contra los filisteos, se le dieron noticias de que David estaba en él desierto de En-Gedi.
 Luego Saúl sacó a tres mil de los mejores hombres de todo Israel, y fue en busca de David y sus hombres sobre las rocas de las cabras montesas.
 Y en el camino llegó a un lugar donde se guardaban las ovejas, donde había una cueva; y Saúl entró para hacer sus necesidades. Ahora David y sus hombres estaban en la parte más profunda de la cueva.
@@ -7861,7 +7862,6 @@ Si un hombre se encuentra con su enemigo, ¿lo dejará escapar a salvo? para que
 Y ahora estoy seguro de que serás rey, y que el reino de Israel se fortalecerá bajo tu autoridad.
 Dame tu juramento por el Señor, que no acabes con mi simiente después de mí ni dejes que mi nombre sea separado de la familia de mi padre.
 Y David juró a Saúl. Y Saúl volvió a su casa; pero David y sus hombres subieron a su fortaleza.
-
 Y llegó la muerte a Samuel; y todo Israel se juntó, llorando por él, y lo enterraron en su casa en Ramá. Entonces David descendió al desierto de Maón.
 En Maón había un hombre cuyo negocio estaba en Carmel; era un gran hombre y tenía tres mil ovejas y mil cabras; y cortaba la lana de sus ovejas en Carmel.
 Este hombre se llamaba Nabal, y el nombre de su esposa era Abigail: era una mujer de buen sentido y de aspecto agradable: pero el hombre era cruel y malo en sus caminos; Era de la familia de Caleb.
@@ -8511,6 +8511,7 @@ Y el rey dijo: ¿Está bien con el joven Absalón? Y Ahimaas respondió en respu
 Y el rey dijo: Vuelve y toma tu lugar aquí. Entonces, girándose hacia un lado, tomó su lugar allí.
 Entonces vino el cusita y dijo: Tengo noticias para mi señor el rey, hoy el Señor ha hecho lo correcto en tu causa contra todos los que tomaron las armas contra ti.
 Y el rey dijo al cusita: ¿Está seguro el joven Absalón? Y el cusita dijo en respuesta: ¡Que todos los que odian al rey y los que hacen el mal contra el rey, sean como ese joven!
+Entonces el rey se conmovió mucho, y subió a la habitación que había junto a la puerta, llorando, y diciendo: ¡Oh, hijo mío, Absalón, hijo mío, mi hijo Absalón! ¡Ojalá mi vida hubiera sido dada por la tuya, oh Absalón, hijo mío, hijo mío!
 Y a Joab se le dijo que el rey lloraba y se lamentaba por Absalón.
 Y la salvación de aquel día se cambió a dolor para todo el pueblo; porque se dijo al pueblo: El rey está en un dolor amargo por su hijo.
 Y la gente regresó a la ciudad en silencio y en secreto, como si huyeran en vergüenza del campo de batalla.
@@ -8554,7 +8555,6 @@ Entonces el rey fue a Gilgal, y Quimam fue con él; y todo el pueblo de Judá, a
 Entonces los hombres de Israel vinieron al rey y dijeron: ¿Por qué nuestros compatriotas de Judá te llevaron en secreto y cruzaron el Jordán con el rey y toda su familia, porque todo su pueblo son hombres de David?
 Y todos los hombres de Judá dieron esta respuesta a los hombres de Israel, porque el rey es nuestra relación cercana: ¿por qué, pues, estás enojado por esto? ¿Hemos tomado algo de la comida del rey, o nos ha dado alguna ofrenda?
 Y respondiendo a los hombres de Judá, los hombres de Israel dijeron: Tenemos diez partes en el rey, y somos los primeros en orden de nacimiento, ¿por qué nos despreciaste? ¿Y no fuimos los primeros en hacer sugerencias para recuperar al rey? Y las palabras de los hombres de Judá fueron más duras que las palabras de los hombres de Israel.
-
 Ahora, por casualidad, estaba presente un hombre perverso llamado Seba, el hijo de Bicri, un Benjamita, y él, sonando el cuerno, dijo: No tenemos parte en David, ni ningún interés en el Hijo de Isaí, que cada uno vaya a su tienda, oh Israel.
 Entonces todos los hombres de Israel, apartándose de David, fueron tras Seba, el hijo de Bicri, pero los hombres de Judá fueron fieles a su rey, y lo acompañaron desde el Jordán hasta Jerusalén.
 Y vino David a su casa en Jerusalén; y el rey llevó a las diez concubinas a quienes había dejado el cuidado de la casa, las encerró bajo custodia y les dio las necesidades de la vida, pero no volvió a tener relaciones con ellas. Así que fueron encerradas hasta el día de su muerte, viviendo como viudas.
@@ -8865,6 +8865,20 @@ Josafat, hijo de Parua, en Isacar;
 Simei, el hijo de Ela, en Benjamín;
 Geber, hijo de Uri, en la tierra de Galaad, la tierra de Sehón, rey de los amorreos, y Og, rey de Basán; y un supervisor general, tenía autoridad sobre todos los supervisores que estaban en la tierra.
 Judá e Israel eran tan numerosos en número como la arena junto al mar, y tomaron su comida y bebida con alegría en sus corazones.
+Y Salomón gobernó todos los reinos desde el río hasta la tierra de los filisteos, hasta el borde de Egipto; Los hombres le dieron ofrendas y fueron sus sirvientes todos los días de su vida.
+Y la cantidad de comida de Salomón por un día fue de treinta medidas de grano triturado y sesenta medidas de comida;
+Diez bueyes gordos y veinte bueyes de los pastos, y cien ovejas, además venados y gacelas y aves gordas.
+Porque tenía autoridad sobre todo el país en este lado del río, desde Tifsa hasta Gaza, sobre todos los reyes en este lado del río; y tuvo paz a su alrededor por todos lados.
+Y vivían Judá e Israel a salvo, cada uno debajo de su vid y su higuera, desde Dan hasta Beerseba, todos los días de Salomón.
+Y Salomón tenía cuatro mil casilleros para caballos en sus carruajes y doce mil jinetes.
+Y esos supervisores, todos los hombres en turno del mes, vieron que se producía comida para Salomón y todos sus invitados, y cuidaban de que nada se pasara por alto.
+Y llevaron grano y pasto seco para los caballos y los carruajes, al lugar correcto, cada uno como se le ordenó.
+Y Dios le dio a Salomón una gran cantidad de sabiduría y buen sentido, y una mente de gran alcance, tan ancha como la arena junto al mar.
+Y la sabiduría de Salomón era mayor que la sabiduría de todos los pueblos del este y toda la sabiduría de Egipto.
+Porque era más sabio que todos los hombres, incluso que Etán de Zera, y Heman y Calcol y Darda, los hijos de Mahol; y tuvo un gran nombre entre todas las naciones alrededor.
+Fue el creador de tres mil dichos sabios, y de canciones hasta el número de mil cinco.
+Hizo dichos sobre todas las plantas, desde el cedro en el Líbano hasta el hisopo colgado en la pared; y sobre todas las bestias y aves y peces y las cosas pequeñas de la tierra.
+La gente venía de todas las naciones para escuchar la sabiduría de Salomón, de todos los reinos de la tierra que habían oído de las palabras de su sabiduría.
 Hiram, rey de Tiro, oyendo que Salomón había sido hecho rey en lugar de su padre, le envió a sus siervos; porque Hiram había sido amigo de David.
 Entonces Salomón envió una palabra a Hiram, diciendo:
 Sabes que David mi padre no pudo hacer una casa para el nombre del Señor su Dios, debido a las guerras que lo rodearon por todos lados, hasta que el Señor puso a todos los que estaban contra él bajo sus pies.
@@ -8883,20 +8897,6 @@ Luego tuvo setenta mil para el trabajo de transporte, y ochenta mil canteros en 
 Además de los jefes de los hombres responsables puestos por Salomón para supervisar el trabajo, tres mil y trescientos en autoridad sobre los obreros.
 Por orden del rey, se cortaron grandes piedras, piedras de alto precio, para que la base de la casa pudiera estar hecha de piedra labrada.
 Los constructores de Salomón y los constructores de Hiram hicieron el trabajo de cortarlos, les pusieron bordes, y prepararon la madera y la piedra para la construcción del templo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 En el año cuatrocientos ochenta después de que los hijos de Israel salieron de la tierra de Egipto, en el cuarto año que Salomón fue rey de Israel, en el mes Ziv, que es el segundo mes, la construcción de La casa del Señor fue iniciada.
 El templo que Salomón hizo para el Señor tenía sesenta codos de largo, veinte codos de ancho y treinta codos de alto.
 El pórtico delante del Templo de la casa tenía veinte codos de largo, tan ancho como la casa, y diez codos de ancho frente a la casa.
@@ -9523,6 +9523,7 @@ Los demás hechos de Acab, y todo lo que hizo, y su casa de marfil, y todos los 
 Murió Acab; y Ocozías, su hijo, se convirtió en rey en su lugar.
 Y Josafat, hijo de Asa, se convirtió en rey de Judá en el cuarto año del gobierno de Acab sobre Israel.
 Josafat tenía treinta y cinco años cuando comenzó a reinar, y fue rey durante veinticinco años en Jerusalén. El nombre de su madre era Azuba, la hija de Silhi.
+
 Hizo lo que Asa y su padre habían hecho, sin apartarse de eso, sino haciendo lo recto ante los ojos del Señor; pero los lugares altos no fueron quitados: la gente siguió haciendo ofrendas y quemaba incienso en los lugares altos.
 Y Josafat hizo la paz con el rey de Israel.
 Los demás hechos de Josafat, y su gran poder, y cómo fue a la guerra, ¿no están registrados en el libro de las crónicas de los reyes de Judá?
@@ -9534,7 +9535,6 @@ Entonces Josafat fue enterrado en el pueblo de David su padre; y su hijo Joram s
 Ocozías, hijo de Acab, se convirtió en rey de Israel en Samaria en el año decimoséptimo del gobierno de Josafat, rey de Judá, y él fue rey de Israel durante dos años.
 E hizo lo malo ante los ojos del Señor, yendo por los caminos de su padre y de su madre, y por los caminos de Jeroboam, el hijo de Nabat, que hizo que Israel hiciera el mal.
 Era un siervo y adorador de Baal, moviendo al Señor, el Dios de Israel, a la ira, como había hecho su padre.
-
 Después de la muerte de Acab, Moab se rebeló contra Israel.
 Entonces Ocozías se cayó de la ventana de su habitación en Samaria y estaba enfermo. Y envió a los hombres, y les dijo: Haz una pregunta a Baal-zebub, el dios de Ecrón, sobre el resultado de mi enfermedad, para ver si estoy bien o no.
 Pero el ángel del Señor le dijo a Elías el Tisbe: Ve ahora, a encuentro con los hombres enviados por el rey de Samaria, pregunta: ¿Es porque no hay Dios en Israel, que vas? para obtener direcciones de Baal-zebub, el dios de Ecrón?
@@ -9851,6 +9851,7 @@ Y Joiada llegó a un acuerdo entre el Señor, el rey y el pueblo, de que serían
 Entonces todos los habitantes de la tierra fueron a la casa de Baal y la derribaron, sus altares y sus imágenes se rompieron en pedazos, y Matan, el sacerdote de Baal, lo mataron ante los altares. Y el sacerdote puso supervisores sobre él templo del Señor.
 Luego tomó a los capitanes de cientos, a los cereteos, a los hombres armados y a toda la gente de la región; y descendieron con el rey de la casa del Señor, a través de la puerta de los hombres armados, a la casa del rey. Y él tomó su lugar en el asiento de los reyes.
 Y se alegraron todos los habitantes de la tierra, y el pueblo quedó en silencio; y mataron a Atalía con la espada en la casa del rey.
+Y Joás tenía siete años cuando comenzó a reinar.
 En el séptimo año del gobierno de Jehú, Joás se convirtió en rey; y reinó durante cuarenta años en Jerusalén; el nombre de su madre era Sibia de Beerseba.
 Joás hizo lo que era correcto a los ojos del Señor todos los días, porque fue guiado por la enseñanza del sacerdote Joiada.
 Pero los lugares altos no fueron quitados; La gente siguió haciendo sacrificios y quemando incienso en los lugares altos.
@@ -9872,7 +9873,6 @@ Entonces Joás, rey de Judá, tomó todas las cosas santas que Josafat, y Joram 
 Ahora, el resto de los hechos de Joás, y todo lo que hizo, ¿no están registrados en el libro de las crónicas de los reyes de Israel?
 Y sus sirvientes tramaron contra él rey Joás y lo mataron en la casa del terraplén en el camino a Sila.
 Entonces Josacar, hijo de Simeat, y Jozabad, hijo de Somer, sus siervos, vinieron a él y lo mataron; y lo enterraron con sus padres en el pueblo de David; Y Amasías su hijo se hizo rey en su lugar.
-
 En el año veintitrés de Joás, hijo de Ocozías, rey de Judá, Joacaz, hijo de Jehú, se convirtió en rey de Israel en Samaria, y gobernó durante diecisiete años.
 Hizo lo malo ante los ojos del Señor, copiando los pecados de Jeroboam, el hijo de Nebat, lo que hizo e hizo que Israel hiciera; no se apartó de ellos.
 Entonces la ira del Señor se encendió contra Israel, y los entregó al poder de Hazael, rey de Siria, y al poder de Benadad, el hijo de Hazael, una y otra vez.
@@ -10456,21 +10456,6 @@ Y los hombres de la media tribu de Manasés vivían en la tierra: y su número a
 Y estos eran los jefes de sus familias: Efer e Isi, Eliel, Azriel, Jeremías, Hodavias, Jahdiel, hombres de guerra, de gran nombre, y jefes de familia.
 E hicieron lo malo contra el Dios de sus padres, adorando a los dioses de la gente de la tierra, a quienes Dios había destruido ante ellos.
 Y el Dios de Israel puso un impulso en el corazón de Pul, rey de Asiria, y de Tiglat-pileser, rey de Asiria, que se los llevó prisioneros, todos los rubenitas y gaditas y los medios tribu de Manasés, a Halah, Habor, Hara y al río Gozan, hasta el día de hoy.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Los hijos de Leví: Gersón, Coat y Merari.
 Y los hijos de Coat: Amram, Izhar, Hebrón y Uziel.
 Y los hijos de Amram: Aarón, Moisés y María. Y los hijos de Aarón: Nadab, Abiú, Eleazar e Itamar.
@@ -10537,6 +10522,21 @@ Y a los hijos de Merari, por sus familias, doce pueblos fueron dados por decisi�
 Y los hijos de Israel dieron a los levitas los pueblos con sus alrededores.
 Y dieron por decisión del Señor la tribu de los hijos de Judá, y la tribu de los hijos de Simeón, y la tribu de los hijos de Benjamín, estos pueblos cuyos nombres reciben.
 Y a las familias de los hijos de Coat se les dio ciudades por la decisión del Señor de la tribu de Efraín.
+Y les dieron la ciudad de refugio,Siquem en la región montañosa de Efraín con sus alrededores, y Gezer con sus alrededores,
+Y Jocmeam con sus alrededores, y Beth-horon con sus alrededores.
+Y Ajalon con sus alrededores, y Gat-rimón con sus alrededores;
+Y de la media tribu de Manasés, Aner con sus alrededores, y Bileam con sus alrededores, para el resto de la familia de los hijos de Coat.
+Se dieron a los hijos de Gersón, de la familia de la media tribu de Manasés, Golán en Basán con sus alrededores, y Astarot con sus alrededores;
+Y de la tribu de Isacar, Cedes con sus alrededores, y Daberat con sus alrededores,
+Y Ramot con sus alrededores, y Anem con sus alrededores;
+Y de la tribu de Aser, Masal con sus alrededores, y Abdón, Hucoc y Rehob, cada una con sus alrededores.
+Y Hukok con sus alrededores, y Rehob con sus alrededores;
+Y de la tribu de Neftalí, Kedesh en Galilea con sus alrededores, y Hammon con sus alrededores, y Kiriathaim con sus alrededores.
+Al resto de los levitas, los hijos de Merari, se les dio de la tribu de Zebulun, Rimmono con sus alrededores, Tabor con sus alrededores;
+Y al otro lado del Jordán, en Jericó, en el lado este del Jordán, se les dio de la tribu de Rubén, Bezer en las tierras baldías con sus alrededores, y Jahzah con sus alrededores,
+Y Cademot con sus alrededores, y Mefaat con sus alrededores;
+Y de la tribu de Gad, Ramot en Galaad con sus alrededores, y Mahanaim con sus alrededores,
+Y Hesbón con sus alrededores, y Hazar con sus alrededores.
 Y de los hijos de Isacar: Tola y Fua, Jasub y Simron, cuatro.
 Y los hijos de Tola: Uzi, Refaias, Jeriel, Jahmai, Jibsam y Semuel, jefes de sus familias; eran hombres de guerra; en el registro de sus generaciones su número en el tiempo de David era veintidós mil seiscientos.
 Y los hijos de Uzi; Izrahias; y los hijos de Izrahias: Micael, Obadias, Joel e Isias, cinco; Todos ellos jefes.
@@ -10725,6 +10725,7 @@ Eliel y Obed, y Jaasiel de Soba.
 Ahora, estos son los hombres que vinieron a David a Siclag, mientras él todavía estaba desterrado, debido a Saúl, el hijo de Cis; estaban entre los hombres fuertes, sus ayudantes en la guerra.
 Estaban armados con arcos y podían enviar piedras y flechas desde el arco, con la mano derecha o con la izquierda: eran los hermanos de Saúl, de la tribu de Benjamín.
 Ahiezer era su jefe, luego Joás, los hijos de Sema de Guibea; y Jeziel y Pelet, los hijos de Azmavet; y Beraca y Jehú de Anatot;
+
 Ismaías, el Gabaonita, un gran hombre entre los treinta, y su jefe; y Jeremías, Jehaziel, Johanan, Jozabad de Gedera;
 Eluzai, Jerimot, Bealias, Semarias, Sefatias el Harufita;
 Elcana, Isaías y Azareel, Joezer, Jasobeam, Coreitas;
@@ -10762,7 +10763,6 @@ Desde el otro lado del Jordán, había ciento veinte mil de Rubén y de Gad y lo
 Todos estos hombres de guerra, expertos en organizar la batalla, llegaron a Hebrón con el propósito de hacer que David fuera rey sobre todo Israel; y todo el resto de Israel se unió en su deseo de hacer rey a David.
 Por tres días estuvieron allí con David, festejando en su mesa, porque sus hermanos habían preparado la comida para ellos.
 Y los que estaban cerca, hasta Isacar, Zabulón, Neftalí, vinieron con comida en asnos y camellos y mulas y bueyes, con comida para comer y tortas de higos, pasas, vino, aceite, bueyes, ovejas en gran número, porque había gozo en Israel.
-
 Entonces David consultó con los capitanes de miles y los capitanes de cientos y con cada jefe.
 Y David dijo a todos los hombres de Israel que se habían reunido allí: Si les parece bien y si es el propósito del Señor nuestro Dios, avisemos a todos los demás hermanos, a todas partes en la tierra de Israel, a los sacerdotes y a los levitas en sus ciudades y al país que los rodea, y que se junten aquí con nosotros;
 Y volvamos por nosotros mismos el cofre del pacto de nuestro Dios: porque desde los días de Saúl no acudimos a él para pedir dirección.
@@ -11214,7 +11214,6 @@ Y Salomón se juntó con carros de guerra y jinetes; tenía mil cuatrocientos ca
 Y el rey hizo plata y oro tan comunes como las piedras en Jerusalén, y el cedro como los sicómoros de las tierras bajas en número.
 E importaban los caballos y lienzo fino de Egipto; los comerciantes del rey los obtuvieron a un precio.
 Se podría obtener un carro de guerra de Egipto por seiscientos siclos de plata, y un caballo por ciento cincuenta: los obtuvieron por medio de los comerciantes de Salomón, para todos los reyes de los hititas y los reyes sirios.
-
 El propósito de Salomón era construir una casa con el nombre del Señor y una casa para él mismo como rey.
 Y Salomón tenía setenta mil hombres numerados para el transporte, y ochenta mil para cortar piedras en las montañas, y tres mil seiscientos como supervisores.
 Y envió Salomón a Hiram, rey de Tiro, diciendo: Cómo hiciste por mi padre David, enviándole cedros para la construcción de su casa,
@@ -11232,6 +11231,7 @@ Hijo de una mujer de las hijas de Dan, cuyo padre era un hombre de Tiro, un expe
 Ahora, pues, que mi señor envíe a sus siervos el grano, el aceite y el vino, como ha dicho mi señor;
 Y haremos cortes de madera del Líbano, tanto como lo necesite, y se los enviaremos por balsas por mar a Jope, y de allí podrá llevarlos a Jerusalén.
 Entonces Salomón tomó el número de todos los hombres extranjeros que vivían en Israel, como lo había hecho su padre David; Había ciento cincuenta y tres mil seiscientos.
+Setenta mil se dedicaron al trabajo de transporte, ochenta mil a cortar piedras en las montañas y tres mil seiscientos como supervisores para poner a la gente a trabajar.
 Entonces Salomón comenzó la construcción de la casa del Señor en el monte Moriah en Jerusalén, donde su padre David había visto al Señor, en el lugar que David había preparado para ello, donde trillaba el grano Ornán, el Jebuseo.
 El edificio se inició en el segundo mes del cuarto año de su gobierno.
 Y Salomón puso la base de la casa de Dios en posición; según la medida anterior, tenía sesenta codos de largo y veinte codos de ancho.
@@ -11478,7 +11478,6 @@ Y Abías fue tras Jeroboam y tomó algunas de sus ciudades, Bethel con sus puebl
 Y Jeroboam no volvió a recuperar su poder en la vida de Abías; y el SEÑOR envió muerte sobre él.
 Pero Abías se engrandeció, y tuvo catorce esposas, y fue padre de veintidós hijos y dieciséis hijas.
 Y el resto de los hechos de Abías, y sus caminos y sus dichos, están registrados en el relato del profeta Iddo.
-
 Y Abías murió, y lo enterraron en la ciudad de David, y Asa su hijo se convirtió en rey en su lugar; en su tiempo la tierra estuvo tranquila durante diez años.
 E hizo lo que era bueno y recto a los ojos del Señor su Dios;
 Porque quitó los altares de dioses extranjeros y los lugares altos, y rompió las imágenes de Asera y los pilares sagrados;
@@ -11493,6 +11492,7 @@ Entonces Asa oró al Señor su Dios y le dijo: Señor, tú sólo puedes dar ayud
 Entonces el Señor derrotó a los etíopes ante Asa y Judá; y los etíopes salieron en vuelo.
 Asa y las personas que estaban con él fueron tras ellos hasta Gerar; y tan grande fue la destrucción entre los etíopes que no pudieron volver a juntar su ejército, porque fueron quebrantados ante el Señor y ante su ejército; y se llevaron gran parte de sus bienes.
 Y vencieron todas las ciudades alrededor de Gerar, porque el Señor les envió temor; y se llevaron sus bienes de las ciudades, porque en ellos había almacenes de riqueza.
+Hicieron un ataque contra las tiendas de los dueños del ganado, se llevaron gran cantidad de ovejas y camellos y regresaron a Jerusalén.
 Y vino el espíritu de Dios sobre Azarías, hijo de Oded;
 Y él se encontró cara a cara con Asa y le dijo: Escúchame, Asa y todo Judá y Benjamín: el Señor está contigo mientras tú estás con él; si el deseo de tu corazón es por él, él estará cerca de ti, pero si lo abandonas, él te entregará.
 Ahora, por mucho tiempo, Israel ha estado sin el verdadero Dios, y sin un sacerdote que enseñe y sin la ley;
@@ -12362,12 +12362,6 @@ Después de ellos, Sadoc, el hijo de Imer, estaba trabajando frente a su casa. Y
 Después de él, Hananías, el hijo de Selemías, y Hanún, el sexto hijo de Salaf, estaban haciendo otra parte. Después de él, Mesulam, el hijo de Berequías, arregló la pared frente a su habitación.
 Después de él, Malquias, él platero, reparó el siguiente tramo de la muralla hasta la casa de los servidores del templo, y la de los los comerciantes, arregló el muro frente a la puerta de inspección y hasta el puesto de vigilancia de la esquina.
 Y desde él puesto de vigilancia hasta la esquina y la puerta de las Ovejas, los plateros y los comerciantes repararon el muro.
-
-
-
-
-
-
 Ahora, Sanbalat, al oír que estábamos construyendo el muro, estaba muy enojado, y en su ira se burló de los judíos.
 Y al oír a sus compatriotas y al ejército de Samaria, dijo: ¿Qué están haciendo estos judíos lánguidos? ¿Se harán fuertes? ¿Harán ofrendas? ¿Terminarán el trabajo en un día? ¿Harán que las piedras que han sido quemadas vuelvan a salir del polvo?
 Entonces Tobías, el amonita, estaba junto a él, y dijo: Tal es su edificio que si un zorro lo sube, su muro de piedra será derribado.
@@ -12385,6 +12379,12 @@ Y después de mirar, me levanté y dije a los nobles, a los jefes y al resto de 
 Y cuando llegó a oídos de los que estaban contra nosotros, que sabíamos de sus planes y que Dios había hecho que sus planes fracasaran, todos regresamos a la pared, cada uno a su obra.
 Y desde ese momento, la mitad de mis sirvientes estaban haciendo su parte del trabajo, y la mitad guardaba las lanzas, corazas, los arcos y los escudos; y los jefes daban su apoyo los hombres de Judá.
 Los que estaban construyendo la pared y los que movían material hicieron su parte, todos trabajando con una mano, con su lanza en la otra;
+Cada constructor estaba trabajando con su espada a su lado. Y a mi lado había un hombre para sonar la bocina.
+Y dije a los grandes, a los jefes y al resto de la gente: El trabajo es grande y está muy espaciado y estamos muy lejos unos de otros en la pared.
+Dondequiera que estés cuando suene la bocina, ven aquí a nosotros; Nuestro Dios peleará por nosotros.
+Así que continuamos con el trabajo; y la mitad de ellos tenía lanzas en sus manos desde el amanecer de la mañana hasta que se vieron las estrellas.
+Y al mismo tiempo, dije a la gente: Que todos los que están con su siervo vengan a Jerusalén por la noche, para que por la noche puedan vigilarnos y seguir trabajando durante el día.
+Así que ninguno de nosotros, ni yo, ni mis hermanos, ni mis sirvientes, ni los vigilantes que estaban conmigo, no se quitaron la ropa, ni siquiera para lavarla.
 Entonces hubo un gran clamor del pueblo y sus esposas contra sus compatriotas, los judíos.
 Porque hubo algunos que dijeron: Nosotros, nuestros hijos y nuestras hijas, somos un gran número; obtengamos grano, para que podamos tener alimento para nuestras necesidades.
 Y hubo algunos que dijeron: Estamos dando nuestros campos y nuestros viñedos y nuestras casas a cambio; obtengamos grano porque estamos en necesidad.
@@ -12490,11 +12490,11 @@ Hicieron una búsqueda de su registro entre las listas de familias, pero sus nom
 Y él gobernador les ordenó que no debían tener las cosas más sagradas para su alimento, hasta que un sacerdote viniera a dar una decisión por el Urim y Tumim.
 El número de todas las personas juntas era de cuarenta y dos mil trescientos sesenta.
 Así como sus sirvientes y sus siervas, de los cuales había siete mil trescientos treinta y siete; y tenían doscientos cuarenta y cinco hombres y mujeres cantores.
-Tenían setecientos treinta y seis caballos, doscientos cuarenta y cinco bestias de transporte;
-Cuatrocientos treinta y cinco camellos, seis mil setecientos veinte asnos.
+Tenían setecientos treinta y seis caballos, doscientos cuarenta y cinco bestias de transporte; Cuatrocientos treinta y cinco camellos, seis mil setecientos veinte asnos.
 Y algunos de los jefes de familia dieron dinero para el trabajo. El gobernador entregó en la tienda mil dracmas de oro, cincuenta tazones, quinientos treinta túnicas de sacerdotes.
 Y algunos de los jefes de familia entregaron a la tesorería para el trabajo veinte mil dracmas de oro, y dos mil doscientas libras de plata.
 Y lo que el resto del pueblo dio fueron veinte mil dracmas de oro, y dos mil libras de plata, y sesenta y siete túnicas de sacerdotes.
+Así que los sacerdotes y los levitas y los encargados de las puertas y los creadores de música y algunas personas y los sirvientes del templo, y todo Israel, vivían en sus pueblos.
 Y cuando llegó el mes séptimo, los hijos de Israel estaban en sus ciudades. Y todas las personas se reunieron como un solo hombre en el amplio lugar frente a la puerta del agua; e hicieron un pedido a Esdras, el escriba, que trajera el libro de la ley de Moisés que el Señor le había dado a Israel.
 Esdras, el sacerdote, trajo el libro de la ley ante la reunión del pueblo, ante los hombres y mujeres y todos los que tenían uso de razón el primer día del séptimo mes.
 Lo estaba leyendo en el amplio lugar frente a la puerta de entrada de agua, desde la madrugada hasta la mitad del día, a la vista de todos aquellos hombres y mujeres cuyas mentes fueron capaces de asimilarlo; y los oídos de todo el pueblo estaban abiertos al libro de la ley.
@@ -12550,6 +12550,7 @@ Y nuestros reyes, nuestros gobernantes, nuestros sacerdotes y nuestros padres no
 Porque en su reino, y en todas las cosas buenas que les diste, y en la tierra grande y fértil que les diste, no te sirvieron, no abandonaron su maldad.
 Ahora, hoy, somos siervos, y en cuanto a la tierra que diste a nuestros antepasados, para que se alimentarán de sus productos, mira, somos siervos en ella.
 Y aumenta mucho su fruto a los reyes que has puesto sobre nosotros por nuestros pecados, y tienen poder sobre nuestros cuerpos y sobre nuestro ganado a su gusto, y estamos en un gran problema.
+Y por todo esto estamos de acuerdo de buena fe, y lo ponemos por escrito; y nuestros gobernantes, nuestros levitas y nuestros sacerdotes le ponen sus nombres.
 Y los que escribieron sus nombres fueron: Nehemías el gobernador, el hijo de Hacalías; y Sedequías.
 Seraías, Azarías, Jeremías,
 Pasur, Amarias, Malquias,
@@ -12589,7 +12590,6 @@ Así como el primero de nuestros hijos y de nuestro ganado, como está registrad
 Y que tomaríamos nuestras primicias de nuestras harinas, y nuestras contribuciones, y el fruto de todo tipo de árbol, vino y aceite, a los sacerdotes, a las habitaciones del templo de nuestro Dios; y la décima parte del producto de nuestra tierra a los levitas; porque ellos, los levitas, toman una décima parte en todos los pueblos de nuestra tierra arada.
 Y el sacerdote, el hijo de Aarón, debe estar con los levitas, cuando los levitas tomen las décimas; y los levitas deben llevar una décima parte de las décimas al templo de nuestro Dios, a las habitaciones del tesoro.
 Porque los hijos de Israel y los hijos de Leví llevarán la ofrenda mecida del grano, el vino y el aceite a las habitaciones donde están los vasos del lugar santo, junto con los sacerdotes y los guardianes de las puertas y los cantores, y no renunciaremos a cuidar la casa de nuestro Dios.
-
 Y los gobernantes del pueblo vivían en Jerusalén, el resto del pueblo seleccionó, por decisión fortuita, uno de cada diez para vivir en Jerusalén, el pueblo santo; Los otros nueve para ir a los otros pueblos.
 Y el pueblo dio una bendición a todos los hombres que se ofrecían libremente a ocupar sus lugares en Jerusalén.
 Estos son los jefes de las provincias del país que vivían en Jerusalén; pero en las ciudades de Judá todos vivían de su herencia en las ciudades, es decir, Israel, los sacerdotes, los levitas, los Servidores del templo y los hijos de los siervos de Salomón.
@@ -13890,14 +13890,6 @@ Come de la hierba que produce las montañas, donde juegan todas las bestias del 
 Está cubierto por las ramas de los árboles; Los álamos del arroyo están a su alrededor.
 En verdad, si el río se desborda, no le da ninguna causa para el miedo; no tiene sentido del peligro, incluso si él río Jordán está corriendo contra su boca.
 Lo tomará alguien cuando esté vigilando, con trampas le perforará la nariz?
-
-
-
-
-
-
-
-
 ¿Es posible sacar al Leviatán con un anzuelo, o poner un anzuelo en su boca?
 ¿Le pondrás un cordón en la nariz o le perforarás con un gancho su quijada?
 ¿Te hará oraciones o te hará súplicas?
@@ -13924,6 +13916,14 @@ Los pliegues de su piel están unidas, fijas y no para ser movidas.
 Su corazón es tan fuerte como una piedra, duro como la piedra trituradora de abajo.
 Cuando se levanta él, los poderosos son vencidos por el miedo, por quebrantamiento del pecado.
 La espada puede acercarse a él, pero no puede atravesarlo; la lanza, o la flecha, o el hierro afilado.
+El hierro es para él como hierba seca, y el bronce como madera blanda.
+La flecha no puede ponerlo en vuelo: las piedras no son más que paja para él.
+Un palo grueso no es mejor que una hoja de hierba, y él se burla con el ataque de la lanza.
+Debajo de él hay bordes afilados de macetas rotas: como si estuviera tirando de trillos sobre él lodo.
+Lo profundo de la mar está hirviendo como una olla de especias, y el mar como una vasija de perfume.
+Después de él, su camino brilla, de modo que lo profundo parece una cabellera blanca.
+En la tierra no hay otro como él, que está hecho sin miedo.
+Todo ser altivo lo desafía; Él es rey sobre todos los hijos de orgullo.
 Y respondió Job en respuesta al Señor:
 Veo que eres capaz de hacer todo, y no hay pensamiento que se esconda de ti.
 ¿Quién es este que oculta el consejo de Dios con palabras sin conocimiento? Porque he estado hablando sin saber acerca de las maravillas que yo no sabía.
@@ -13959,6 +13959,7 @@ Ellos serán gobernados por ti con una vara de hierro; se romperán como el vaso
 Así que ahora sean sabios, ustedes reyes: tomen su enseñanza, jueces de la tierra.
 Adoren al Señor con reverencia y alegría, postrándose a sus pies y dándole honor,
 Honren al Hijo, Por temor a que él se enoje, haciendo que la destrucción venga sobre ustedes en el camino. porque él se enoja rápidamente. Felices son todos los que ponen su fe en él.
+
 Señor, ¡cuánto aumentan quienes me atacan! en gran número vienen contra mí.
 Son innumerables los que dicen de mi alma, no hay ayuda para él en Dios. (Selah)
 Pero tú, oh Señor, eres escudo, estás a mi alrededor, tú eres mi gloria y el que levanta mi cabeza.
@@ -14049,7 +14050,6 @@ Los pecadores y todas las naciones que no tienen memoria de Dios serán traslada
 Porque los pobres no serán olvidados; las esperanzas de los necesitados no perecerán para siempre.
 ¡Levántate! Oh Señor; no consientas la altanería del hombre; sean juzgadas las naciones delante de ti.
 ¡Hazles temer, oh Señor, para que las naciones vean que son solo hombres! (Selah)
-
 ¿Por qué te alejas, oh Señor? ¿Por qué te escondes en tiempos de angustia?
 El malhechor en su orgullo es cruel con los pobres; pero ha de quedar atrapado por los trucos de su invención.
 Porque el malvado se enaltece por los deseos de su corazón, y aquel cuya mente se fija en las riquezas es apartado del Señor, y desprecia al Señor.
@@ -14075,6 +14075,7 @@ El Señor está en su santo Templo, el trono del Señor está en el cielo; sus o
 El Señor pone a los rectos y al pecador a prueba, pero tiene odio en su alma por el amante de los actos violentos.
 Sobre el malhechor hará llover calamidades, enviará fuego, azufre y llamas, y un viento ardiente; con ellos se llenará su copa.
 Porque el Señor es justo; él es un amante de la justicia: el hombre recto verá su rostro.
+
 Envía ayuda, Señor, porque la misericordia ha llegado a su fin; no hay más fieles entre los hijos de los hombres.
 Todos dicen mentiras a su prójimo: hablan con hipocresía, y sus corazones están llenos de engaño.
 El Señor destruirá todo labio adulador y toda lengua que habla jactanciosamente;
@@ -14088,8 +14089,7 @@ Los pecadores andan por todas partes, cuando la vileza es exaltada y el mal se h
 ¿Cuánto tiempo habrán de sufrir mi alma, y con tristeza en mi corazón todo el día? ¿Hasta cuándo tendrá poder sobre mí el que está en mi contra?
 Mírame y dame una respuesta, oh Señor mi Dios; deja que tu luz brille sobre mí, para que el sueño de la muerte no me alcance;
 Y el que está contra mí no puede decir: yo lo he vencido; y aquellos que me molestan pueden no estar contentos si yo resbalara.
-Pero he tenido fe en tu misericordia; mi corazón se alegrará en tu salvación.
-Cantaré al Señor, por él bien que me ha hecho.
+Pero he tenido fe en tu misericordia; mi corazón se alegrará en tu salvación. Cantaré al Señor, por él bien que me ha hecho.
 El necio ha dicho en su corazón: No hay Dios. Ellos se han corrompido hecho malas obras; no hay uno que haga el bien.
 El Señor estaba mirando desde los cielos a los hijos de los hombres, para ver si había alguno que tuviese sabiduría, buscando a Dios.
 Todos se han desviado; ellos se han corrompido, no hay uno que haga el bien, no, no uno.
@@ -14128,6 +14128,7 @@ Como un león feroz que desea su alimento, y como un leoncillo que espera con an
 Levántate Señor, enfréntate con ellos, humillalos, con tu espada sé mi salvador del malhechor.
 Con tu mano, oh Jehová, de hombres, hombres del mundo, cuya herencia está en esta vida, y de los cuales sacias con sus riquezas; cuyo vientre está lleno de su tesoro, sacian a sus hijos; y aún sobra para su descendencia después de su muerte.
 En cuanto a mí, veré tu rostro en justicia; cuando esté despierto, me alegrará ver tu cara.
+
 Te amo, oh Señor, mi fortaleza.
 El Señor es mi roca, y castillo mío y mi libertador; Dios mío, fortaleza mía que me protege, en él pondré mi fe; mi escudo, la fuerza de mi salvación y mi alto refugio.
 Invocaré mi clamor al Señor, que es digno de ser alabado; así me salvaré de aquellos que están en mi contra.
@@ -14249,7 +14250,6 @@ Porque el reino es del Señor; él es el gobernante entre las naciones.
 Comerán y adorarán Todos los poderosos de la tierra; todos los que han de volver al polvo se postrarán ante él, incluso aquel que no puede conservar la vida a su propia alma.
 Mis descendientes servirán al Señor; y esto será contado de Jehová hasta lo postrera generación las obras del Señor se hablarán a la generación que viene después.
 Vendrán y anunciarán su justicia y sus obras, A pueblo que no ha nacido aún anunciarán que él hizo esto.
-
 El Señor es mi Pastor; Nada me faltará.
 Él me hace un lugar de descanso en los campos verdes: él es mi guía junto a las aguas tranquilas.
 Él me da nuevas fuerzas: él es mi guía en los caminos de la justicia haciendo honor de su nombre.
@@ -14334,6 +14334,7 @@ A la voz del Señor se estremece el desierto, y se sacude el desierto de Cades.
 A la voz del Señor las encinas las desgaja, las hojas son arrancadas de los árboles: en su Templo todos le rinden honor.
 El Señor tenía su trono como rey cuando las aguas vinieron sobre la tierra; el Señor está sentado como rey para siempre.
 El Señor dará fortaleza a su pueblo; el Señor dará a su pueblo la bendición de la paz.
+
 Te daré alabanza y honor, oh Señor, porque en ti he sido levantado; no le has permitido a mis enemigos que se burlen de mi.
 Oh SEÑOR, Dios mío, he enviado mi clamor a ti, y tú me has sanado.
 Oh Señor, has hecho que mi alma vuelva a salir del sepulcro; me has dado la vida y me has impedido descender entre los muertos.
@@ -14371,7 +14372,6 @@ Que el Señor sea alabado, porque me ha mostrado la maravilla de su gracia en un
 Y en cuanto a mí, dije en mi temor, soy cortado de delante de tus ojos; pero tú oíste la voz de mi oración cuando mi clamor fue hacia ti.
 Oh amén a Jehová, todos tus santos; porque el Señor mantiene a salvo del peligro de todos aquellos que son fieles a él, y paga en abundancia a los orgullosos.
 Esfuércense todos ustedes, y den ánimo a sus corazónes, todos ustedes cuya esperanza está en el Señor.
-
 Feliz es aquel que tiene perdón por su maldad, y cuyo pecado está cubierto.
 Feliz es el hombre en quien el Señor no ve el mal, y en cuyo espíritu no hay engaño.
 Cuando mantuve mi boca cerrada, mis huesos se decayeron, debido a mi llanto durante todo el día.
@@ -14405,6 +14405,7 @@ Para guardar sus almas de la muerte; y para mantenerlos vivos en tiempos de hamb
 ¡Nuestras almas esperan al Señor; él es nuestra ayuda y nuestra salvación!
 Porque en él nuestros corazones tienen alegría; en su santo nombre está nuestra esperanza.
 Sea tu misericordia sobre nosotros, oh Señor, mientras te esperamos.
+
 Bendeciré al Señor en todo momento; su alabanza estará siempre en mi boca.
 Mi alma dirá grandes cosas del Señor: los mansos lo oirán, lo conocerán y se alegrarán.
 ¡Alaban al Señor conmigo! Exaltemos juntos su gran nombre.
@@ -14427,7 +14428,6 @@ Grandes son los males de los justos; pero el Señor lo saca a salvo de todos ell
 Él guarda todos sus huesos; ni uno solo le romperán.
 El mal pondrá fin al pecador, y los que aborrecen la justicia vendrán a la destrucción.
 El Señor será el salvador de las almas de sus siervos, y nadie que confía en él será avergonzado.
-
 Oh Señor, sé de mi lado contra los que me juzgan; pelea con aquellos que hacen la guerra contra mí.
 Toma tu escudo, y dame tu ayuda.
 Toma tu lanza y retén a mis atacantes; di a mi alma, yo soy tu salvación.
@@ -14456,6 +14456,7 @@ Sé mi juez, oh Señor mi Dios, en tu justicia; no dejes que se alegren de mí.
 Sean avergonzados y confundidos todos los que se complacen en mis aflicciones. y vengan a la nada; los que se enaltecen contra mí sean cubiertos de vergüenza.
 Dejen que los que están de mi lado den gritos de alegría; que digan siempre: El Señor sea alabado, porque se complace en la paz de su siervo.
 Y mi lengua hablará de tu justicia y de tu alabanza todo el día.
+
 El pecado del malhechor dice en su corazón: No hay temor del Señor ante sus ojos.
 Porque se consuela pensando que su pecado no será descubierto ni aborrecido.
 En las palabras de su boca están el mal y el engaño; él ha dejado de ser sabio y hacer el bien.
@@ -14468,7 +14469,6 @@ Porque contigo está la fuente de la vida; en tu luz veremos la luz.
 Ojalá no haya fin en tu amorosa misericordia para con los que te conocen, ni tu justicia para con los rectos de corazón.
 Que el pie del orgullo no venga contra mí, ni la mano de los malvados me saque de mi lugar.
 Allí han descendido los hacedores del mal; han sido humillados y no se levantarán.
-
 No te enojes por causa de los malhechores, ni tengas envidia de los que hacen maldad.
 Porque pronto serán cortados como hierba, y se secarán como las plantas verdes.
 ten fe en el Señor y haz el bien; vive en la tierra, y busca la justicia.
@@ -14509,6 +14509,7 @@ Presta atención al buen hombre, y toma nota del recto; porque el final dichoso 
 Pero en cuanto a los pecadores, serán cortados juntos; el final de los malhechores es la destrucción.
 Pero el Señor es el salvador de los justos; él es su fortaleza en el tiempo de angustia.
 Y el Señor los ayudará, y los salvará; los sacará de las manos de los malhechores, y será su salvador, porque confiaron en él.
+
 Oh Señor, no me reprendas en tu ira; no dejes que tu mano esté sobre mí en el calor de tu furor.
 porque tus flechas han entrado en mi carne, y estoy aplastado bajo el peso de tu mano.
 Mi cuerpo se enferma a causa de tu ira; y no hay paz en mis huesos a causa de mi pecado.
@@ -14589,12 +14590,12 @@ Pero el Señor enviará su misericordia durante el día, y en la noche su canci�
 Diré a Dios mi Roca, ¿Por qué me has dejado ir de tu memoria? ¿Por qué voy con pena debido a los ataques de mis enemigos?
 Las crueles palabras de mis enemigos son como una herida a mis huesos; cuando me dicen todos los días, ¿dónde está tu Dios?
 ¿Por qué te abates, oh alma mía? y por qué te turbas dentro de mi? pon tu esperanza en Dios; porque nuevamente le daré alabanza, quien es mi salvación y mi Dios.
-
 Sé mi juez, oh Dios, y defiende mi causa contra una nación sin religión; O mantenme alejado del hombre falso y malvado.
 Tú eres el Dios de mi fortaleza; ¿Por qué me has alejado de ti? ¿Por qué voy con pena y oprimido por mis enemigos?
 O envía tu luz y tu palabra verdadera; que sean mi guía; que me lleven a tu santo monte y a tu morada.
 Luego subiré al altar de Dios, al Dios de mi alegría y gozo; Me alegraré y te alabaré con arpa de música, oh Dios, mi Dios.
 ¿Por qué estás abatida, oh alma mía? y porque estas preocupada dentro de mi? pon tu esperanza en Dios, porque nuevamente le daré alabanza, quien es mi salvación mi Dios.
+
 Ha llegado a nuestros oídos, oh Dios, nuestros padres nos han contado la historia de las obras que hiciste en sus días, en los viejos tiempos,
 Arrebatando las naciones con tu mano, y plantando a nuestros padres en su lugar; reduciendo las naciones, pero aumentando el crecimiento de tu gente.
 Porque no hicieron suya la tierra con sus espadas, y no fueron sus armas las que los salvaron; si no con tu diestra, y tu brazo, y la luz de tu rostro, porque tuviste placer en ellos.
@@ -14697,7 +14698,6 @@ Porque a su muerte, él no se llevará nada; su gloria no bajará después de é
 Aunque él pueda tener orgullo en su alma en su tiempo de vida, y los hombres le den alabanza cuando prospera.
 Él irá a la generación de sus padres; él no verá la luz otra vez.
 El hombre sin entendimiento. como los animales, no continúa para siempre; él llega a su fin como las bestias.
-
 El Dios de los dioses, el Señor, ha enviado su voz, y la tierra está llena de temor; desde la llegada del sol hasta su descenso.
 Desde Sión, el más bello de los lugares, Dios ha enviado su luz.
 Nuestro Dios vendrá, y no callará; con fuego ardiendo delante de él y vientos de tormenta a su alrededor.
@@ -14721,6 +14721,8 @@ Dices mal de tu hermano; haces declaraciones falsas contra el hijo de tu madre.
 Estas cosas has hecho, y yo no he dicho nada; te pareció que yo era uno como tú; pero te reprenderé cara a cara y voy ajustarte las cuentas.
 Ahora ten esto en mente, tú que no tienes memoria de Dios, por temor a que seas aplastado bajo mi mano, sin nadie para darte ayuda:
 El que hace una ofrenda de alabanza me glorifica; y al que es recto en sus caminos, le mostraré la salvación de Dios.
+
+
 Ten piedad de mí, oh Dios, en tu misericordia; conforme a tu gran amor, quita mi pecado.
 Sean lavadas todas mis malas acciones y límpiame del mal.
 Porque soy consciente de mi error; mi pecado está siempre delante de mí.
@@ -14752,13 +14754,13 @@ Mira, este es el hombre que no hizo de Dios su fortaleza, sino que tuvo fe en su
 Pero yo soy como un olivo ramificado en la casa de Dios; He puesto mi fe en su misericordia por los siglos de los siglos.
 Te alabaré sin fin por lo que has hecho; Daré honor a tu nombre, porque es bueno, delante de tus santos.
 
-
 El necio ha dicho en su corazón: no hay Dios. Se han corrompido, han hecho malas obras; no hay uno que haga el bien.
 Dios estaba mirando desde los cielos a los hijos de los hombres, para ver si había alguno que tuviese sabiduría, buscando a Dios.
 Todos ellos han regresado; se han corrompido: no hay quien haga el bien, no, no uno.
 ¿No tienen conocimiento todos los hacedores del mal, que devoran a mi pueblo como si fuera pan, y a Dios no invocan?
 Tenían gran temor, donde no había motivo para temer: porque los huesos de los que te hacen la guerra han sido quebrantados por Dios; los has avergonzado, porque Dios no los deshecho.
 ¡Que la salvación de Israel salga de Sión! Cuando Dios hiciere volver de la cautividad a su pueblo, Jacob se alegrará e Israel se alegrará.
+
 
 Sea tu nombre mi salvación, oh Dios; Defiéndeme con tu poder.
 Deja que mi oración venga delante de ti, oh Dios; escucha las palabras de mi boca.
@@ -14767,7 +14769,6 @@ Mira, Dios es mi ayudador: el Señor es el que gran defensor de mi vida.
 Él hará que los malos actos de mis enemigos vuelvan a ellos mismos; que sean cortados por tu verdad.
 Libremente te haré mis ofrendas; Alabaré tu nombre, oh Señor, porque es bueno.
 Porque has sido mi salvador de todas mis angustias; y mis ojos han visto la ruina de mis enemigos.
-
 
 Escucha mi oración, oh Dios; y no dejes que tu oído se esconda de mi súplica.
 Está atento sobre mí, y que mi oración sea respondida: he sido abatido de tristeza;
@@ -14849,6 +14850,7 @@ Déjalos ir de un lado a otro en busca de comida, y estar allí toda la noche au
 Pero haré canciones sobre tu poder; sí, daré gritos de alegría por tu misericordia en la mañana; porque has sido mi refugio mi torre fuerte en momentos de angustia.
 A ti, oh mi fortaleza, haré mi canción: porque Dios es mi torre alta y protección. mi refugio el Dios de mi misericordia.
 
+
 Dios, nos has apartado de ti, nos has enviado en todas direcciones, has estado enojado; O vuelve a nosotros de nuevo.
 Con el poder de tu mano la tierra tiembla y se abrió; hazla fuerte de nuevo, porque se movió.
 Has hecho que la gente vea tiempos difíciles; nos has dado el vino de aturdimiento para nuestra bebida.
@@ -14861,7 +14863,6 @@ Moab es mi vasija para lavarme; sobre Edom pondré mi zapato; sobre Filistea son
 ¿No nos has apartado, oh Dios? y no has salido con nuestros ejércitos.
 Danos ayuda en nuestro problema; porque no hay ayuda en el hombre.
 Por medio de Dios haremos grandes cosas, porque a través de él nuestros enemigos serán aplastados bajo nuestros pies.
-
 
 Deja que mi llanto venga a ti, oh Dios; deja que tus oídos estén abiertos a mi oración.
 Desde el fin de la tierra enviaré mi clamor a ti, cuando mi corazón esté vencido: llévame a la roca que es demasiado alta para mí.
@@ -14921,7 +14922,6 @@ Haces que las tierras aradas estén llenas de agua; suavizas las pendientes: sua
 El año se corona con el bien que das; la lluvia vivificante está cayendo de tus pasos,
 Cayó sobre la hierba del desierto; y los collados se alegraron de todos lados.
 La tierra de pasto está llena de rebaños; los valles están llenos de grano; dan gritos alegres y canciones de alegría.
-
 Emite un alegre clamor a Dios, toda la tierra:
 Haz una canción en honor de su nombre: dale alabanza y gloria.
 Di a Dios: ¡Cuánto temerán tus obras! debido a tu gran poder, sus enemigos se ven obligados a ponerse bajo sus pies.
@@ -14942,6 +14942,7 @@ Mi voz subió a él, y fui levantado del inframundo.
 Dije en mi corazón: Jehová no me escuchará:
 Pero verdaderamente el oído de Dios ha sido abierto; él ha prestado atención a la voz de mi oración.
 Alabado sea Dios que no me ha quitado su buena fe y su misericordia.
+
 Que Dios nos dé misericordia y bendición, y que la luz de su rostro brille sobre nosotros; Selah.
 Para que los hombres vean tu camino en la tierra, y tu salvación entre todas las naciones.
 Que los pueblos te den alabanza, oh Dios; deja que todos los pueblos te den elogios.
@@ -15028,7 +15029,6 @@ Que los que siguen mi alma tengan vergüenza y tribulación; que los que tienen 
 ¡Que aquellos que dicen Aha, aha! sean rechazados como recompensa de su vergüenza.
 Dejen que todos los que te buscan estén contentos y tengan gozo en ti; que los amantes de tu salvación digan siempre: Que Dios sea engrandecido.
 Pero yo soy pobre y tengo necesidad; ven a mí rápidamente, oh Dios; eres mi ayuda y mi salvador; que no haya espera, oh Señor.
-
 En ti, oh Señor, he puesto mi esperanza; no sea yo avergonzado jamás.
 Guárdame en tu justicia, y ven en mi ayuda; escucha mi voz y sé mi salvador.
 Sé mi roca fuerte, el fuerte lugar de mi salvación; porque tú eres mi Roca y mi lugar seguro.
@@ -15124,6 +15124,7 @@ Tenga en cuenta tu pacto; porque los lugares oscuros de la tierra están llenos 
 No permitas que los abatidos sean devueltos avergonzados; que el hombre humilde y el pobre alabe tu nombre.
 arriba! Oh Dios, sé el juez de tu causa; ten en cuenta las cosas amargas que el hombre de mal comportamiento dice en tu contra todos los días.
 Tenga en cuenta la voz de sus enemigos; la protesta de los que vienen en tu contra sube todos los días.
+
 A ti, oh Dios, te alabamos, a ti alabamos; y los que honran tu nombre aclaran tus obras de poder.
 Cuando haya llegado el tiempo correcto, seré el juez en rectitud.
 Cuando la tierra y toda su gente se debilitan, yo soy el sostén de sus pilares. Selah.
@@ -15168,7 +15169,6 @@ Las nubes enviaron agua; los cielos emitían un sonido; y relámpagos por todas 
 La voz de tu trueno comenzó a rodar; el mundo estaba ardiendo con la luz de la tormenta; la tierra estaba temblando.
 Tu camino estaba en el mar, y tu camino en las grandes aguas; no había conocimiento de tus pasos.
 Estabas guiando a tu pueblo como un rebaño, por la mano de Moisés y Aarón.
-
 Escucha, oh mi pueblo, a mi ley; deja que tus oídos se inclinen a las palabras de mi boca.
 Abriendo mi boca voy a dar una historia, incluso los dichos oscuros de los viejos tiempos;
 Que han venido a nuestro oído y a nuestro conocimiento, tal como nos fueron dados por nuestros padres.
@@ -15254,6 +15254,7 @@ Danos ayuda, oh Dios de nuestra salvación, para la gloria de tu nombre; líbran
 Deja que el clamor del prisionero venga delante de ti; con tu brazo fuerte libera a los sentenciados a la muerte;
 Y castiga siete veces en el pecho de nuestro prójimo por las amargas palabras que han dicho contra ti, oh SEÑOR.
 Y nosotros, tu pueblo, y las ovejas de tu rebaño, te daremos gloria para siempre; te alabaremos por todas las generaciones.
+
 Escucha, oh Guardián de Israel, guiando a José como un rebaño; tú que tienes tu asiento con los ángeles. deja que se vea tu gloria.
 Delante de Efraín, de Benjamín y de Manasés, despierta de tu sueño, y ven a salvarnos.
 Llévanos de nuevo, oh Dios; veamos el brillo de tu rostro y déjanos estar a salvo.
@@ -15290,7 +15291,6 @@ Si tan solo mi gente me escuchara, caminando en mis caminos!
 Yo rápidamente vencería a sus enemigos: mi mano se volvería contra aquellos que hacen la guerra contra ellos.
 Los que odiaban al Señor serían quebrantados, y su destrucción sería eterna.
 Yo les daría el mejor grano por comida; estarías lleno de miel de la roca.
-
 Dios está en la reunión de Dios; él está juzgando entre los dioses.
 ¿Hasta cuándo vas a juzgar falsamente, teniendo respeto por las personas de los malhechores? Selah.
 Defiende la causa de los pobres y los hijos sin padres; deja que aquellos que están atribulados y en necesidad tengan sus derechos.
@@ -15299,6 +15299,7 @@ Ellos no tienen conocimiento o sentido; van en la oscuridad: todas las bases de 
 Dije: Ustedes son dioses; todos ustedes son los hijos del Altísimo:
 Pero morirás como hombres, y caerás como cualquier gobernante de la tierra.
 Levántate ! Oh Dios, ven como juez de la tierra; porque todas las naciones son tu herencia.
+
 Oh Dios, no te calles: abre tus labios y no descanses, oh Dios.
 Mira ! aquellos que te hacen la guerra están fuera de control; tus enemigos están levantando sus cabezas.
 Han hecho sabios designios contra tu pueblo, hablando juntos contra aquellos a quienes guardas en un lugar secreto.
@@ -15344,7 +15345,6 @@ La misericordia y la fe se han unido; la justicia y la paz se han dado un beso.
 La fe sube de la tierra como una planta; la justicia está mirando hacia abajo desde el cielo.
 El Señor dará lo que es bueno; y nuestra tierra dará su fruto.
 La justicia irá delante de él, haciendo un camino para sus pasos.
-
 Abre tus oídos a mi voz, oh Señor, y dame una respuesta; porque estoy afligido y tengo necesidad.
 Guarda mi alma, porque soy fiel a ti; Oh mi Dios, da la salvación a tu siervo, cuya esperanza está en ti.
 Ten misericordia de mí, oh Señor; porque mi llanto va hasta ti todo el día.
@@ -15369,6 +15369,7 @@ Rahab y Babilonia serán nombrados entre los que tienen conocimiento de mí; ver
 Y de Sion se dirá: Este o aquel hombre tuvo su nacimiento allí; y el Altísimo la hará fuerte.
 El Señor tendrá presente, cuando escriba los registros de las personas, que este hombre nació allí. Selah..
 Los que cantan y los que bailan, dirán: Todas mis fuentes están en ti.
+
 Oh Señor, Dios de mi salvación, te pido auxilio día y noche.
 Permite que mi oración venga delante de ti; escucha mi clamor.
 Porque mi alma está llena de males, y mi vida se ha acercado al inframundo.
@@ -15440,7 +15441,6 @@ Señor, ¿dónde están tus primeras misericordias? ¿Dónde está el juramento 
 Ten en cuenta, oh Señor, la vergüenza de tus siervos, y cómo las amargas palabras de todo el pueblo llevo en mi corazón;
 Las palabras amargas de tus enemigos, oh Señor, avergonzado los pasos de tu rey.
 Sea el Señor alabado para siempre. Entonces que así sea, que así sea.
-
 Señor, tú has sido nuestro lugar de descanso en todas las generaciones.
 Antes de que se formaran las montañas, antes de que hubieras dado a luz a la tierra y al mundo, antes que el tiempo fuera, y para siempre, eres Dios.
 Tú envías al hombre a su polvo; y dices: Vuelvan al polvo, hijos de hombres.
@@ -15474,6 +15474,7 @@ Pondrás tu pie sobre el león y la serpiente; entre monstruos y serpientes.
 Porque él me ha dado su amor, lo sacaré del peligro; lo pondré en un lugar de honor, porque él ha guardado mi nombre en su corazón.
 Cuando su clamor se acerque a mí, le responderé; estaré con él en problemas; Lo liberaré del peligro y le daré honor.
 Con larga vida será recompensado; y le dejaré ver mi salvación.
+
 Es bueno alabar al Señor y hacer melodía a tu nombre, ¡oh Altísimo!
 Para declarar tu misericordia en la mañana, y tu fe inmutable todas las noches;
 En un instrumento de diez cuerdas, y música de arpa.
@@ -15489,7 +15490,6 @@ El hombre bueno será como un árbol alto en su fuerza; su crecimiento será com
 Los plantados en la casa del Señor subirán altos y fuertes en sus jardines.
 Darán fruto aun cuando sean viejos; serán fértiles y llenos de crecimiento;
 Para anunciar que el Señor es recto; él es mi Roca, no hay engaño en él.
-
 El Señor es Rey; él está vestido de gloria; el Señor está vestido de fortaleza; el poder es el cordón de su túnica; el mundo es fijo, para que no se mueva.
 El asiento de tu poder ha sido firme; eres eterno!
 Los ríos levantan, oh Señor, los ríos Braman y levantan grandes olas;
@@ -15585,6 +15585,7 @@ Daré muerte a cualquiera que diga en secreto el mal de su prójimo; el hombre c
 Mis ojos estarán puestos en los que tienen buena fe en la tierra, para que vivan en mi casa; el que anda por el camino correcto será mi siervo.
 El obrero del engaño no entrará en mi casa; el hombre falso no tendrá lugar ante mis ojos.
 Día tras día destruiré a todos los pecadores en la tierra, para que todos los malvados puedan ser separados de Jerusalén.
+
 Escucha mi oración, oh Señor, y deja que mi clamor llegue a ti.
 No se me oculte tu rostro en el día de mi angustia; escúchame y deja que mi clamor sea respondido rápidamente.
 Mis días se desperdician como humo, y mis huesos se queman como en un fuego.
@@ -15613,7 +15614,6 @@ En el pasado pusiste la tierra sobre su base, y los cielos son obra de tus manos
 Ellos llegarán a su fin, pero tú seguirás adelante; todos ellos envejecerán como un abrigo, y como una túnica serán cambiados:
 Pero tú eres el inmutable, y tus años no tendrán fin.
 Los hijos de tus siervos tendrán un lugar seguro para descansar, y su descendencia estará siempre delante de ti.
-
 Alaba al Señor, alma mía; deja que todo en mí alabe su santo nombre.
 Alaba al Señor, alma mía; no olvides ninguna de sus bendiciones.
 Él perdona todos tus pecados; él sana todas tus enfermedades;
@@ -15807,6 +15807,7 @@ Y cuando son humillados, y abatidos por la tribulación y la tristeza,
 Pero saca al pobre de sus problemas, y le da familias como un rebaño.
 Los rectos lo ven y se alegran: la boca del pecador se detiene.
 Los sabios reflexionen sobre estas cosas, y vean las misericordias del Señor.
+
 Oh Dios, mi corazón está fijo; Haré canciones y melodía, esta es mi gloria.
 Da tus sonidos, O instrumentos de cuerda: el amanecer se despertará con mi canción.
 Te alabaré, oh Jehová, entre los pueblos; Te haré melodía entre las naciones.
@@ -15820,7 +15821,6 @@ Moab es mi lugar de lavado; en Edom es el lugar de descanso de mi zapato; sobre 
 ¿No nos has enviado lejos de ti, oh Dios? y no sales con nuestros ejércitos.
 Danos ayuda en nuestro problema; porque no hay ayuda en el hombre.
 Con Dios haremos grandes cosas; porque por él serán aplastados nuestros enemigos.
-
 Dios de mi alabanza, que mi oración sea respondida;
 Porque la boca del pecador está abierta contra mí en engaño; su lengua ha dicho cosas mentirosas contra mí.
 Las palabras de odio me han rodeado; ellos han hecho guerra contra mí sin causa.
@@ -16329,6 +16329,7 @@ Porque van contra ti con malos designios, y tus enemigos se burlan de tu nombre.
 Mi odio por ellos está completo; mis pensamientos sobre ellos son como si estuvieran haciendo guerra contra mí.
 Oh Dios, que los secretos de mi corazón sean descubiertos, y que mis pensamientos sean puestos a prueba.
 Mira si hay camino de perversidad en mí, y sé mi guía en el camino eterno.
+
 Oh Señor, sácame del poder del malvado; mantenerme a salvo del hombre violento:
 Porque sus corazones están llenos de malvados designios; y ellos siempre están preparando causas de guerra.
 Sus lenguas son agudas como la lengua de una serpiente; el veneno de las serpientes está bajo sus labios. Selah.
@@ -16342,7 +16343,6 @@ Dejen que las llamas ardientes caigan sobre ellos; que los pongan en el fuego y 
 Que el hombre de mala lengua no esté a salvo en la tierra; que la destrucción alcance al hombre violento con golpe sobre golpe.
 Estoy seguro de que el Señor se encargará de la causa de los pobres y de los derechos de los que están en problemas.
 En verdad, los rectos alabarán tu nombre; los santos tendrán un lugar en tu casa.
-
 Señor, te he clamado; ven a mi rápidamente; escucha mi voz, cuando llegue a ti.
 Permita que mi oración sea como dulce aroma; y que la elevación de mis manos sea como la ofrenda de la tarde.
 Oh Señor, vigila mi boca; guarda la puerta de mis labios.
@@ -16353,6 +16353,7 @@ Nuestros huesos se rompen en la boca del inframundo, como la tierra se rompe con
 Pero mis ojos están puestos en ti, oh Señor Dios; mi esperanza está en ti; no dejes que mi alma se entregue a la muerte.
 Guárdame de la red que me han puesto, y de los designios de los que hacen maldad.
 Dejen que los pecadores sean tomados en las redes que ellos mismos han derribado, mientras yo estoy libre.
+
 El sonido de mi clamor subió al Señor; Con mi voz pediré misericordia al Señor.
 Puse todos mis dolores delante de él; y le dejé claro todo mi problema.
 Cuando mi espíritu se vence, tus ojos están en mis pasos; las redes se han colocado secretamente en el camino que voy.
@@ -16360,7 +16361,6 @@ Mirando hacia mi lado derecho, no vi a ningún hombre que fuera mi amigo: no ten
 Te he clamado, oh Señor; He dicho: Tú eres mi lugar seguro y mi herencia en la tierra de los vivos.
 Escucha mi clamor, porque estoy sin fuerzas: sácame de las manos de mis enemigos, porque son más fuertes que yo.
 Saca mi alma de la cárcel, para alabar tu nombre; los rectos alabarán por mí; porque me has dado una recompensa completa.
-
 Deja que mi oración llegue a ti, oh Señor; presta atención a mi súplicas; que mi fe esté firme y dame una respuesta en tu justicia;
 No dejes que tu siervo vaya delante de ti para ser juzgado; porque ningún hombre que vive es recto en tus ojos.
 El hombre malo ha ido en pos de mi alma; mi vida es aplastada hasta la tierra: él me ha puesto en la oscuridad, como aquellos que llevan tiempo muertos.
@@ -17465,7 +17465,6 @@ Un joven que es pobre y sabio es mejor que un rey que es viejo e insensato y no 
 Porque de la prisión el joven viene a ser rey, aunque al nacer solo era un hombre pobre en el reino.
 Vi a todos los que vivían bajo el sol alrededor del joven que iba a ser gobernante en lugar del rey.
 No hubo fin de todas las personas, de todos aquellos cuya cabeza era, pero los que vengan después no se deleitarán en él. Esto de nuevo no tiene ningún propósito y es aflicción de espíritu.
-
 Cuida tus pies con cuidado cuando vayas a la casa de Dios, porque es mejor escuchar que hacer las ofrendas quemadas de los necios, porque no saben que solo hacen el mal.
 No seas imprudente con tu boca, y no te apresures a que tu corazón diga nada delante de Dios, porque Dios está en el cielo y tú estás en la tierra; por lo tanto, sean pocas tus palabras.
 Como un sueño proviene de mucha tarea, la voz de un hombre necio viene con palabras en gran número.
@@ -17485,6 +17484,7 @@ Y de nuevo esto es un gran mal, que en todos los puntos, al irse, se irá; ¿Y q
 Todos sus días están en la oscuridad, y él tiene mucha aflicción, dolor, enfermedad y problemas.
 Esto es lo que he visto: es bueno y justo para un hombre comer y beber y tener gozo en toda su obra bajo el sol, todos los días de su vida que Dios le ha dado; Esa es su recompensa.
 Todo hombre a quien Dios le ha dado dinero, riquezas y el poder de tener placer en ello y hacer su parte y tener alegría en su trabajo: esto es dado por Dios.
+No pensará mucho en los días de su vida; porque Dios le permite ser ocupado con el gozo de su corazón.
 Hay un mal que he visto bajo el sol, y es común para los hombres;
 Un hombre a quien Dios le da dinero, riqueza y honor para que tenga todos sus deseos, pero Dios no le da el poder de gozar de él, y un hombre extranjero lo toma. Esto es vanidad y una enfermedad maligna.
 Si un hombre tiene cien hijos, y su vida es larga, los días de sus años son muy numerosos, pero su alma no se complace del bien, y careció de sepultura; Yo digo que un abortivo es mejor que él.
@@ -17694,6 +17694,7 @@ Mi paloma, mi muy hermosa, no es más que una; Ella es la única de su madre, es
 ¿Quién es ella, mirando hacia abajo como la luz de la mañana, bella como la luna, clara como el sol, a quién se le debe temer como un ejército con banderas?
 Bajé al jardín de los nogales para ver las plantas verdes del valle y para ver si la vid estaba en capullos, y los granados estaban en flor.
 Antes de que fuera consciente de ello, mi alma me puso sobre los carros de mi noble pueblo.
+Vuelve, vuelve, oh Sulamita; vuelve, vuelve, para que nuestros ojos te vean. ¿Qué vas a ver en la Sulamita? Una danza, cómo en los campamentos.
 ¡Qué hermosos son tus pies en tus sandalias, oh hija de rey! Las curvas de tus caderas son como joyas, el trabajo de las manos de un experto:
 Tu estómago es un depósito de grano con lirios a su alrededor, y en el medio una copa redonda llena de vino.
 Tus dos pechos son como dos gacelas gemelas.
@@ -17707,7 +17708,6 @@ Soy para mi amado, y su deseo es para mí.
 Ven, mi amado, salgamos al campo; Tomemos un descanso entre las aldeas.
 Salgamos temprano a los viñedos; Veamos si la vid está floreciendo, si han abierto sus flores y si la granada está en flor. Allí te daré mi amor.
 Las mandrágoras emiten un olor dulce, y en nuestras puertas hay todo tipo de buenos frutos, nuevos y viejos, que he guardado para mi amado.
-
 ¡Oh, si fueras mi hermano, que tomaste la leche de los pechos de mi madre! Cuando te encontrará por la calle, te daria besos; Y no sería menospreciada.
 Te llevaría de la mano a la casa de mi madre y ella sería mi maestra. Te daría una copa de vino sazonado, una bebida de la granada.
 Su mano izquierda estaría debajo de mi cabeza, y su mano derecha a mi alrededor.
@@ -17897,7 +17897,6 @@ Y cuando te dicen: busca a los que tienen espíritus familiares, y a los adivino
 Entonces diles: Pon tu fe en la enseñanza y en el testimonio. Si no dicen tales palabras. Para él no hay amanecer.
 Y pasará por la tierra con amargas dificultades y en necesidad de alimento; y cuando no pueda comer, se enojará, maldiciendo a su rey y a su Dios, y sus ojos se volverán al cielo en lo alto;
 Y él estará mirando hacia abajo en la tierra, y habrá problemas y serán lanzados a nubes oscuras, noche negra donde no hay visión.
-
 En tiempos anteriores hizo la tierra de Zabulón y la tierra de Neftalí insignificante, pero después de eso le dio gloria, por el camino del mar, al otro lado del Jordán, Galilea de las naciones.
 La gente que fue en la oscuridad ha visto una gran luz, y para aquellos que vivían en la tierra de la noche más profunda, la luz está brillando.
 Los has hecho muy felices, aumentando su alegría. Se alegran ante ti como los hombres se alegran en el momento de entrar en el grano, o cuando hacen la división de los bienes tomados en la guerra.
@@ -17918,6 +17917,7 @@ Por esta causa, el Señor no se compadece en sus jóvenes, y no tendrá compasi�
 Porque el mal estaba ardiendo como un fuego que devora la maleza y las espinas fueron quemadas; los espesos bosques se incendiaron, formando nubes oscuras de humo.
 La tierra estaba oscura con la ira del Señor de los ejércitos; la gente era como combustible para él fuego; el hombre no perdona a su hermano.
 A la derecha, un hombre estaba cortando pedazos y todavía estaba necesitado; a la izquierda, un hombre comía, pero no tenía suficiente; ningún hombre tuvo piedad de su hermano; cada hombre estaba haciendo una comida de la carne de su propio brazo.
+Manasés devora a Efraín y Efraín a Manasés; y juntos estaban atacando a Judá. Por todo esto, su ira no se ha calmado, sino que su mano todavía está extendida.
 Ay! de aquellos que decretan leyes injustas, y los escritores que hacen los registros de sus tiranías,
 Que hacen mal a los pobres en su causa, y quitan el derecho de los oprimidos entre mi pueblo, para que puedan tener la propiedad de las viudas, y roban a los huérfanos.
 ¿Y qué harás en el día del castigo y en la destrucción que viene de lejos? ¿A quién acudirás por ayuda y qué será de tu gloria?
@@ -18953,8 +18953,7 @@ Porque tú eres nuestro padre, aunque Abraham no nos conoce, e Israel no nos rec
 Oh Señor, ¿por qué nos envías a vagar por tus caminos, endureciendo nuestros corazones, para que no tengamos miedo de ti? Vuelve, por tus siervos, las tribus de tu herencia.
 ¿Por poco tiempo tu pueblo santo fue dueño de tu santuario, para que haya sido aplastado bajo los pies de nuestros enemigos?
 Nos hemos convertido en aquellos que nunca fueron gobernados por ti, como si nunca hubiéramos sido llamados por tu nombre.
-Oh si rasgaras los cielos y bajaras, para que los montes tiemblen ante tu presencia.
-Como cuando el fuego pone la maleza en llamas, o como cuando el agua hierve por el calor del fuego; para hacer que tu nombre sea temido por tus enemigos, para que las naciones tiemblen ante ti.
+Oh si rasgaras los cielos y bajaras, para que los montes tiemblen ante tu presencia. Como cuando el fuego pone la maleza en llamas, o como cuando el agua hierve por el calor del fuego; para hacer que tu nombre sea temido por tus enemigos, para que las naciones tiemblen ante ti.
 Cuando hiciste actos de poder que no estábamos buscando, y descendiste, las montañas temblaron ante tu presencia.
 El oído no ha oído, o el ojo no ha visto, ningún Dios, excepto a ti, trabajando para el hombre que lo está esperando.
 ¿No tendrás misericordia de aquel que se complace en hacer justicia, incluso de aquellos que tienen presente tus caminos? Verdaderamente estabas enojado, y seguimos haciendo el mal y pecando contra ti en el pasado. Tus caminos son perpetuos Y seremos salvos.
@@ -18964,6 +18963,7 @@ Pero ahora, oh Señor, tú eres nuestro padre; Nosotros somos el barro, y tú er
 No te enojes mucho, Señor, y no tengas en mente nuestros pecados para siempre; escucha nuestra oración, porque todos somos tu pueblo.
 Tus ciudades santas se han convertido en un desperdicio, Sión se ha convertido en un desperdicio, Jerusalén es una masa de muros rotos.
 Nuestra santa y hermosa casa, donde nuestros padres te alabaron, está quemada con fuego; y todas las cosas preciosas para nosotros han sido destruidas.
+En vista de todo esto, ¿todavía no harás nada, Señor? ¿Te callarás y seguirás aumentando nuestro castigo?
 He estado listo para dar una respuesta a aquellos que no me hicieron la oración; Me he estado ofreciendo a los que no me buscaban; Dije: “Aquí estoy, aquí estoy, a una nación que no invocaba mi nombre”.
 Todo el día mis manos se han extendido a un pueblo rebelde, que va por el camino del mal, según los propósitos de sus corazones;
 Un pueblo que me provoca en mi propio rostro todos los días, haciendo ofrendas en los jardines y quemando perfumes sobre ladrillos.
@@ -19242,7 +19242,6 @@ La voz del clamor de la hija de mi pueblo proviene de una tierra lejana: ¿No es
 El corte de grano ha pasado, el verano ha terminado, y ninguna salvación ha llegado a nosotros.
 Por la destrucción de la hija de mi pueblo, soy quebrantado; estoy vestido con ropas de dolor; El miedo se ha apoderado de mi.
 ¿No hay aceite que da vida en Galaad? ¿No hay un experto en artes médicas? ¿Por qué, entonces, mi gente no ha sido sanada?
-
 ¡Ojalá mi cabeza fuera una corriente de aguas y mis ojos fuentes de llanto, para que pudiera seguir llorando día y noche por los muertos de la hija de mi pueblo!
 ¡Ojalá tuviera en el desierto un lugar de descanso para los viajeros, para poder irme lejos de mi gente! porque todos ellos son adúlteros, una banda de hombres falsos.
 Sus lenguas están dobladas como un arco; la mentira y no la verdad prevalecieron en la tierra; van de mal en mal proceden, y no me conocen, dice el Señor.
@@ -19268,6 +19267,7 @@ Los cuerpos de los hombres caerán tendidos como estiércol en los campos abiert
 Esta es la palabra del Señor: No permitas que el hombre sabio se enorgullezca de su sabiduría, o el hombre fuerte en su fortaleza, o el hombre de riqueza en su riqueza.
 Pero si alguno tiene orgullo, tenga esto en cuenta, que tenga la sabiduría de saber de mí, que yo soy el Señor, obrando misericordia, dando verdaderas decisiones y haciendo justicia en la tierra; Estas cosas me deleitan, dice el Señor.
 Mira, viene el día, dice el Señor, cuando enviaré castigo a todos los que son incircuncisos;
+En Egipto y en Judá y en Edom y en los hijos de Amón y en Moab y en todos los que viven a los alrededores, que viven en los lugares más remotos del desierto; por todas estas naciones son incircuncisas y toda la gente de Israel es incircuncisa de corazón.
 Escucha la palabra que el Señor te dice, pueblo de Israel:
 Esto es lo que el Señor ha dicho: No vayas por el camino de las naciones; no temas a las señales del cielo, como estas las naciones lo hacen.
 Porque lo que es temido por el pueblo es necio; es obra de los obreros; porque un árbol es cortado por el obrero en el bosque con su hacha.
@@ -21006,6 +21006,11 @@ Me complaceré en ustedes como dulce olor, cuando los haya sacado de los pueblos
 Y sabrán que yo soy el Señor, cuando los lleve a la tierra de Israel, al país que juré dar a sus padres.
 Y allí, en la memoria de sus caminos y de todas las cosas que hicieron para hacerse impuros, tendrán un odio amargo por ustedes mismos a causa de todas las cosas malas que han hecho.
 Y sabran de que yo soy el Señor, cuando actúe con ustedes por el honor de mi nombre, y no por sus malos caminos o sus obras inmundas, oh hijos de Israel, dice el Señor Dios.
+Entonces vino a mí la palabra del Señor, diciendo:
+Hijo de hombre, que tu rostro se vuelva hacia el sur, que tus palabras se caigan al sur, y sea un profeta contra el bosque del sur;
+Y dile al bosque del sur, escucha las palabras del Señor: esto es lo que el Señor ha dicho: Mira, tendré un fuego encendido en ti, para la destrucción de cada árbol verde en ti y todo árbol seco; el fuego arderá y no se apagará, y todas la superficie del sur al norte serán quemadas.
+Y toda carne verá que yo, el Señor, lo he encendido; no se apagará.
+Entonces dije: ¡Ah, Señor Dios! Ellos dicen de mí: ¿No habla este más que parábolas?
 Y vino a mí la palabra del Señor, diciendo:
 Hijo de hombre, que tu rostro se vuelva hacia Jerusalén, que tus palabras se dirigían contra su lugar santo, y profetiza contra la tierra de Israel;
 Y di a la tierra de Israel: Estas son las palabras del Señor: Mira, yo estoy contra ti, y sacaré mi espada de su vaina, cortando de ti a los rectos y los malvados.
@@ -21038,11 +21043,6 @@ Mientras ellos ven para ti visiones falsas, adivinan mentiras, para ponerla en e
 Vuelve a tu funda. En el lugar donde te hicieron, en la tierra de donde te sacaron, seré tu juez.
 Y dejaré que mi ardiente furor se apodere de ti, soplando sobre ti el fuego de mi ira, y te entregaré en manos de hombres brutales, entrenados para la destrucción.
 Serás alimento para el fuego; tu sangre será drenada en la tierra; No habrá más recuerdo de ti, porque yo, el Señor, lo he dicho.
-
-
-
-
-
 Y vino a mí la palabra del Señor, diciendo:
 Y tú, hijo de hombre, serás juez, ¿serás juez de la ciudad de sangre? Entonces déjale en claro todas sus formas repugnantes.
 Y tienes que decir: Esto es lo que ha dicho el Señor Dios: ¡Un pueblo que hace que la sangre se derrame en sus calles para que llegue su momento, y que hace imágenes contra ella para contaminarse!
@@ -21904,9 +21904,6 @@ Y los capitanes, los jefes y los gobernantes, y los sabios del rey que se había
 Nabucodonosor respondió y dijo: Alabado sea el Dios de Sadrac, Mesac y Abed-nego, que envió a su ángel y mantuvo seguros a sus siervos que tenían fe en él y que pusieron la palabra del rey a un lado. y entregaron sus cuerpos al fuego, para que no pudieran ser siervos o adoradores de ningún otro dios sino de su Dios.
 Y es mi decisión que cualquier pueblo, nación o lengua que diga mal contra el Dios de Sadrac, Mesac y Abed-nego, será cortado en pedazos y sus casas serán destruidas; porque no hay otro dios que sea capaz de dar salvación como esta.
 Entonces el rey dio a Sadrac, Mesac y Abed-nego les dio autoridad aún mayor en la tierra de Babilonia.
-
-
-
 Nabucodonosor, el rey, a todos los pueblos, naciones y lenguas que viven en toda la tierra: Que se incremente tu paz.
 Me ha parecido bien aclarar las señales y maravillas que el Dios Altísimo ha hecho conmigo.
 ¡Qué grandes son sus señales! ¡Y cuán lleno de poder están sus maravillas! su reino es un reino eterno y su gobierno continúa de generación en generación.
@@ -21941,6 +21938,9 @@ Mientras la palabra aún estaba en la boca del rey, una voz bajó del cielo, dic
 Y te enviarán de entre los hombres, para que estés con las bestias del campo; te darán hierba para tu comida como los bueyes, y pasarán siete años por ti hasta que reconozcas de que el Altísimo gobierna el reino de los hombres y se lo da a cualquier hombre a su gusto.
 Esa misma hora se puso en vigencia la orden sobre Nabucodonosor; y fue enviado de entre los hombres, y tenía hierba para comer como los bueyes, y su cuerpo estaba mojado con el rocío del cielo, hasta que su cabello se volvió como las plumas de las águilas y sus uñas sean como las de los pájaros.
 Y al final de los días, Nabucodonosor, alzando los ojos al cielo, recuperé mi razón y, bendiciendo al Altísimo, alabé y glorifiqué al que vive para siempre, cuyo gobierno es un señorío eterno; cuyo reino continúa de generación en generación.
+Y todos los pueblos de la tierra son contados como nada; actúa de acuerdo a su voluntad con el ejército del cielo y entre los pueblos de la tierra; no hay nadie que pueda retener su mano ni decirle: ¿Qué haces?
+Al mismo tiempo, mi razón volvió a mí; y para la gloria de mi reino, mi honor y mi gran nombre volvieron a mí; y mis sabios y mis señores se volvieron hacia mí otra vez; y fui restituido en mi reino y tenía más poder que antes.
+Ahora yo, Nabucodonosor, doy adoración, alabanza y honor al Rey del cielo; porque todas sus obras son verdaderas y sus caminos son correctos: y los que se enorgullecen él los puede humillar.
 El rey Belsasar hizo una gran fiesta para mil de sus nobles, y ante ellos bebió vino.
 Belsasar, mientras estaba abrumado por el vino, les ordenó que le presentaran los vasos de oro y plata que Nabucodonosor, su padre, había tomado del Templo en Jerusalén; para que el rey y sus señores, sus esposas y sus concubinas, puedan tomar su bebida de ellos.
 Entonces tomaron los vasos de oro y plata que habían estado en el Templo de la casa de Dios en Jerusalén; y el rey y sus señores, sus esposas y sus concubinas, y bebieron vino.
@@ -21971,6 +21971,7 @@ Tekel; te han puesto en la balanza y te han visto bajo peso.
 Uparsin; tu reino ha sido cortado y entregado a los medos y los persas.
 Luego, por orden de Belsasar, le pusieron una túnica púrpura a Daniel, y una cadena de oro alrededor de su cuello, y se hizo una declaración pública de que iba a ser el tercero en alta autoridad en el reino.
 Esa misma noche Belsasar, el rey de los caldeos, fue ejecutado.
+Y Darío el Medo tomó el reino, teniendo entonces unos sesenta y dos años.
 Darío estaba complacido de poner sobre el reino a ciento veinte capitanes, que iban a estar por todo el reino;
 Y sobre ellos había tres gobernantes principales, de los cuales Daniel era uno; y los capitanes debían ser responsables ante los principales gobernantes, para que el rey no sufriera ninguna pérdida.
 Entonces este Daniel hizo su trabajo mejor que los jefes principales y los capitanes, porque había un espíritu extraordinario en él; y era el propósito del rey ponerlo sobre todo el reino.
@@ -21999,7 +22000,6 @@ Entonces el rey Darío envió una carta a todos los pueblos, naciones e idiomas 
 Es mi orden que en todo el reino del cual soy gobernante, los hombres se estremecerán de miedo ante el Dios de Daniel: porque él es el Dios vivo, inmutable para siempre, y su reino es uno que nunca llegue a la destrucción, su gobierno continuará hasta el final.
 Él da salvación y libera a los hombres del peligro, y hace señales y maravillas en el cielo y la tierra, que ha mantenido a Daniel a salvo del poder de los leones.
 Así que a este Daniel le fue bien en el reino de Darío y en el reino de Ciro, el persa.
-
 En el primer año de Belsasar, rey de Babilonia, Daniel vio un sueño, y las visiones se le vinieron a la cabeza en la cama: luego puso el sueño por escrito.
 Tuve una visión de noche y vi los cuatro vientos del cielo moviendo violentamente el gran mar.
 Y cuatro grandes bestias surgieron del mar, diferentes unas de otras.
@@ -22170,6 +22170,8 @@ Y después de eso dio a luz a una hija. Y el Señor dijo: Dale el nombre de Lo-r
 Pero tendré misericordia de Judá y les daré salvación por el Señor su Dios, pero no por el arco o la espada o por la lucha o por caballos o jinetes.
 Ahora, cuando Lo-ruhama había sido destetada, la mujer dio a luz a un hijo.
 Y el Señor dijo: Denle el nombre de Lo-ammi; porque tú no eres mi pueblo, y yo no seré tu Dios.
+Pero aún así el número de los hijos de Israel será como la arena del mar, que no puede medirse ni contarse; y en lugar de que se les diga: Tú no eres mi pueblo, se les dirá: Ustedes son los hijos del Dios viviente.
+Y los hijos de Israel y los hijos de Judá se juntarán y tomarán para sí un sólo jefe, y subirán de la tierra, porque grande será el día de Jezreel.
 Di a tus hermanos, Ammi; y a tus hermanas, Ruhama.
 Toma la causa contra tu madre, tómala, porque ella no es mi esposa, y yo no soy su esposo; aparta tus prostituciones de su rostro y sus adulterios de entre sus senos;
 Por temor a que pueda quitarle su túnica y dejarla descubierta como en el día de su nacimiento; convirtiéndola en un lugar de desechos y tierra seca, causándole la muerte por la necesidad de agua.
@@ -22193,8 +22195,6 @@ Te tomaré como mi novia de buena fe, y tendrás conocimiento del Señor.
 Y será, en ese día, dice el Señor, que daré respuesta a los cielos, y los cielos a la tierra;
 Y la tierra dará su respuesta al grano, el vino y el aceite, y ellos darán una respuesta a Jezreel;
 Y la pondré como simiente en la tierra, y tendré misericordia de ella a quien no se le dio misericordia; y diré a los que no fueron mi pueblo: Tú eres mi pueblo, y ellos dirán: Dios mío.
-
-
 Y el Señor me dijo: Vuelve a dar tu amor a una mujer que tiene un amante y es adúltera, así como el Señor ama a los hijos de Israel, aunque se vuelvan a otros dioses y se deleitan con las tortas de pasa.
 Así que la compré para mí por quince siclos de plata y un Homer y medio de cebada;
 Y le dije: Tú serás mía por un largo espacio de tiempo; no debes prostituirte, y ningún otro hombre debe tenerte como su esposa; y yo también lo seré para ti.
@@ -22318,6 +22318,7 @@ Mi pueblo está entregado a pecar contra mí; aunque griten muy alto, nadie los 
 No pondré en práctica el furor de mi ira; No volveré a enviar destrucción a Efraín; porque yo soy Dios y no hombre, el Santo entre ustedes; No vendré con furor.
 Ellos irán tras el Señor; su clamor será como el de un león; su grito será fuerte, y los niños vendrán del oeste, temblando de miedo;
 Temblando de miedo como un pájaro, saldrán de Egipto, como una paloma de la tierra de Asiria: y les daré descanso en sus casas, dice el Señor.
+Me rodea las mentiras de Efraín y los engaños de Israel están sobre mí por todos lados, Judá aún gobierna con Dios y es fiel a los santos.
 La comida de Efraín es el viento, y él va tras el viento del este: el engaño y la destrucción aumentan día a día; llegan a un acuerdo con Asiria y llevan el aceite a Egipto.
 El Señor tiene una causa contra Judá, y castigará a Jacob por sus caminos; él le dará la recompensa de sus actos.
 En el cuerpo de su madre tomó a su hermano por el pie, y en su fuerza estaba luchando con él Dios Supremo;
@@ -22332,7 +22333,6 @@ En Galaad hay maldad. Son absolutamente vanidad; en Gilgal hacen ofrendas de bue
 Y Jacob salió en fuga al campo de Aram, e Israel se convirtió en siervo de una esposa, y para una esposa tenía ovejas.
 Y por un profeta, el Señor hizo que Israel saliera de Egipto, y por un profeta lo mantuvieron a salvo.
 Efraín me irritó amargamente; por eso su sangre recaiga sobre él, y el Señor hará que su vergüenza vuelva sobre él.
-
 Cuando Efraín hablaba, temblaban, fue exaltado así mismo en Israel; pero cuando hizo el mal a través del Baal, la muerte lo alcanzó.
 Y ahora sus pecados aumentan; se han hecho una imagen de metal, dioses falsos de su plata, de acuerdo a sus caprichos, todos ellos el trabajo de los artesanos; dicen de ellos: ofrezcan ofrendas, que los hombres den besos a los becerros.
 Entonces serán como la nube de la mañana, como el rocío que se va temprano, como el polvo del grano que el viento expulsa del suelo aplastante, como el humo que sube de la chimenea.
@@ -22348,6 +22348,7 @@ La maldad de Efraín está atada; su pecado está escondido.
 Los dolores de una mujer en el parto vendrán sobre él; es un hijo imprudente, porque no es hora de que se demore en la apertura del vientre.
 Daré el precio para liberarlos del poder del inframundo, seré su salvador de la muerte: ¡Oh muerte! Yo seré tu pestilencia Oh inframundo! ¿Yo seré tu destrucción? Arrepentimiento será escondido de mi vista.
 Aunque él da fruto entre sus hermanos, vendrá un viento del este, el viento del Señor subirá de la tierra baldía, y su manantial se secará, su fuente quedará sin agua; despojará su tesoro de todos los vasos preciosos.
+Samaria será destruida, porque ella ha ido en contra de su Dios: morirán a filo de espada, sus niños pequeños serán estrellados en las rocas, sus mujeres que estén embarazadas sus vientres serán abiertos.
 Oh Israel, vuelve al Señor tu Dios; porque tu maldad ha sido la causa de tu caída.
 Toma contigo una oración vuelve al Señor; dile: Que haya perdón por todas las malas acciones, para que podamos tomar lo que es bueno y dar a cambio el fruto de nuestros labios.
 Asiria no será nuestra salvación; no iremos a caballo; No volveremos a decir a la obra de nuestras manos: Ustedes son nuestros dioses, porque en ti hay misericordia para él huérfano.
@@ -22357,7 +22358,6 @@ Sus ramas se extenderán, será hermoso como el olivo y dulces como el Líbano.
 Regresarán los que moraban bajo su sombra; serán vivificados como el grano, y florecerán como la vid; su olor será como el vino del Líbano.
 En cuanto a Efraín, ¿Que más tengo yo que ver con dioses falsos? He oído y lo vigilaré; Soy como un abeto ramificado, de mí viene tu fruto.
 El sabio entenderá estas cosas; El prudente tendrá conocimiento de ellos. Porque los caminos del Señor son rectos, y los justos andan en ellos, pero los pecadores tropiezan en ellos.
-
 La palabra del Señor que vino a Joel, el hijo de Petuel.
 Presten atención a esto, ancianos, y tomen nota, ustedes habitantes de la tierra. ¿Ha sido esto alguna vez en sus días o en los días de sus padres?
 Cuéntales la historia a sus hijos, y que se la cuenten a sus hijos y a sus hijos a otra generación.
@@ -22405,32 +22405,32 @@ Y los pisos estarán llenos de grano, y los lugares de trituración rebosantes d
 Te devolveré los años que fueron alimento para la langosta, el gusano de la planta, la mosca de campo y el gusano, mi gran ejército que envié contra ustedes.
 Tendrán comida en toda medida, y alabarán el nombre del Señor su Dios, que ha hecho maravillas por ustedes.
 Y Sabrán de que estoy en Israel, y que soy el Señor su Dios, y no hay otro; y mi pueblo nunca será avergonzado.
+Y después de eso, sucederá, dice el Señor, que enviaré mi espíritu sobre toda carne; y tus hijos y tus hijas serán profetas, tus viejos tendrán sueños, tus jóvenes verán visiones.
+Y sobre los sirvientes y las sirvientas en aquellos días enviaré mi espíritu.
+Y dejaré que se vean maravillas en los cielos y en la tierra, sangre, fuego y columnas de humo.
+El sol se oscurecerá y la luna se convertirá en sangre, antes de que llegue el gran día del Señor, un día temible.
+Y será todo aquel que haga su oración al nombre del Señor, se mantendrá a salvo; porque en el Monte Sión y en Jerusalén, algunos se mantendrán a salvo, como ha dicho el Señor, y estarán entre los que han sido llamados por el Señor.
 Porque en aquellos días y en ese tiempo, cuando haga volver la cautividad de Judá y Jerusalén,
 Reuniré a todas las naciones y haré que desciendan al valle de Josafat y allí entraré en juicio a favor de Mi Pueblo, mi herencia Israel, a quienes han enviado vagando entre las naciones, y han repartido mi tierra.
 Y han puesto el destino de mi pueblo a la decisión del azar; dan un niño por el precio de una ramera y una niña por una copa de vino para beber.
 Y además, ¿qué quieren de mí, Tiro y Sidón y todo el círculo de Filistea? ¿Se quieren vengar de mi? y si lo hacen, y muy pronto haré volver la venganza a su cabeza,
 Porque han tomado mi plata y mi oro, y han puesto en las casas de sus dioses mis cosas bellas y agradables.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Y a los hijos de Judá y a los hijos de Jerusalén los vendieron a los hijos de los griegos, para enviarlos lejos de su tierra.
+Mira, haré que se trasladen del lugar donde los enviaste, y dejaré que lo que has hecho vuelva a tu cabeza;
+Y venderé a tus hijos y a tus hijas en manos de los hijos de Judá, y ellos los venderán a los hombres de Seba, una nación lejana; porque el Señor lo ha dicho.
+Proclamen esto entre las naciones; prepárate para la guerra: despierta a los hombres fuertes; que se acerquen todos los hombres de guerra, que suban.
+Haz que tus cuchillas de arado se conviertan en espadas y tus cuchillos de viña en lanzas: deja que los débiles digan que soy fuerte.
+Vengan pronto, todas las naciones que te rodean, y reúnanse allí; haz que los fuertes desciendan, oh Señor.
+Despierten las naciones, y vengan al valle de Josafat; porque allí me sentaré como juez de todas las naciones de alrededor.
+Pon la cuchilla, porque el grano está listo; ven, bájate, porque la trituradora de vino está llena, los vasos se desbordan; porque grande es su maldad.
+¡Grandes multitudes en el valle de la decisión! porque el día del Señor está cerca en el valle de la decisión.
+El sol y la luna se han oscurecido, y las estrellas retienen su brillo.
+Y el Señor ruge desde Sion, y su voz sonará desde Jerusalén; y los cielos y la tierra temblarán; pero el Señor será un refugio para su pueblo y un lugar fuerte para los hijos de Israel.
+Y ustedes sabrán que yo soy el Señor su Dios, viviendo en Sión, mi monte santo; y Jerusalén será santa, y ninguna persona extranjera volverá a pasar más por ella.
+Y sucederá en ese día que las montañas destilarán vino dulce, y las colinas fluirán con leche, y todas las corrientes de Judá fluirán con agua; y una fuente saldrá de la casa del Señor, regando el valle de acacias.
+Egipto será un desierto y Edom una tierra de destrucción, a causa del mal hecho a los hijos de Judá, porque han derramado sangre en su tierra sin causa.
+Pero Judá estará poblada para siempre, y Jerusalén de generación en generación.
+Y limpiaré su sangre, su sangre, que aún no he limpiado, porque el Señor habita en Sión.
 Las palabras de Amos, que estaba entre los pastores de Tecoa; lo que vio de Israel en los días de Uzías, rey de Judá, y en los días de Jeroboam, hijo de Joás, rey de Israel, dos años antes del terremoto.
 Y él dijo: El Señor dará un rugido de león desde Sión, su voz sonará desde Jerusalén; y los campos de los criadores de ovejas estarán de duelo, y la parte superior del Carmelo se secará.
 Estas son las palabras del Señor: por tres crímenes de Damasco, y por cuatro, no dejaré que cambie su destino; porque trillaron a Galaad con instrumentos de trituración de hierro.
@@ -22614,6 +22614,7 @@ Y los hombres estaban trabajando duro para regresar a la tierra, pero no pudiero
 Entonces, clamando al Señor, dijeron: Escucha, oh Señor, nuestra oración, y no permitas que la destrucción nos alcance por la vida de este hombre; no nos pongas sangre inocente sobre nosotros; porque tú, Señor, has hecho lo que te pareció bien.
 Entonces tomaron a Jonás y lo echaron al mar; y el mar volvió a su calma.
 Entonces fue grande la reverencia de los hombres al Señor; e hicieron una ofrenda al Señor y le hicieron juramentos.
+Y el Señor preparó un gran pez para que se tragara a Jonás; y Jonás estuvo dentro del pez durante tres días y tres noches.
 Entonces Jonás hizo oración al Señor su Dios desde el interior del pez, y dijo:
 En mi angustia, clamé al Señor, y él me dio una respuesta; Desde el más profundo del Seol, lancé un grito y tú escuchaste mi voz.
 Porque me has puesto en lo profundo, en el corazón del mar; la corriente me inundó; Todas tus ondas y grandes olas pasaron sobre mí.
@@ -22624,7 +22625,6 @@ Cuando mi alma en mí desfallecía, guardé el recuerdo del Señor; y mi oració
 Los adoradores de dioses falsos han renunciado a su única esperanza.
 Pero te haré una ofrenda con voz de acción de gracia; Daré efecto a mis juramentos. La salvación es del Señor.
 Y por orden del Señor, el pez envió a Jonás de su boca a la tierra seca.
-
 Y la palabra del Señor vino a Jonás por segunda vez, diciendo:
 Levántate! ve a Nínive, esa gran ciudad, y dale la palabra que te he dado.
 Entonces Jonás se levantó y fue a Nínive como el Señor lo había dicho. Ahora Nínive era una ciudad muy grande, tres días de viaje de punta a punta.
@@ -22700,7 +22700,6 @@ Siente dolor, haz sonidos de dolor, oh hija de Sion, como una mujer en el parto:
 Y ahora varias naciones se han unido contra ti, y dicen: Que sea profanada y que nuestros ojos vean el destino de Sión.
 Pero ellos no tienen conocimiento de los pensamientos del Señor, sus mentes no pueden ver su propósito; porque los ha reunido como tallos de grano en el suelo de trilla.
 ¡Levántate! y que el grano sea molido, oh hija de Sion, porque haré tu cuerno de hierro y tus pezuñas de bronce, y varios pueblos serán quebrantados por ti, y entregarás sus despojos al Señor y su riqueza al Señor de toda la tierra.
-
 O hija de guerreros, Ahora prepara tu defensa; nos sitiaron; darán un golpe en la cara al juez de Israel con una vara.
 Y tú, Belén de Efrata, la menor de las familias de Judá, de ti vendrá uno que será el gobernante en Israel; cuya salida ha sido propuesta desde el pasado, desde los días eternos.
 Por esta causa, él los abandonará hasta el momento en que la mujer que está embarazada haya dado a luz; entonces el resto de sus hermanos volverá a los hijos de Israel.
@@ -22715,6 +22714,7 @@ Destruiré los pueblos de tu tierra y que derriben todos tus fortalezas:
 Pondré fin a tus hechicerías, y no tendrás más adivinos:
 Destruiré tus imágenes y tus columnas; y ya no rendirás culto a la obra de tus manos.
 Haré que saquen a sus Aseras de entre ustedes, y enviaré destrucción a sus ciudades.
+Y mi castigo se efectuará sobre las naciones con una ira ardiente, sobre las naciones que no obedecieron.
 Escuchen ahora las palabras del Señor: ¡Levántate! presenta tu causa ante las montañas, deja que tu voz suene entre las montañas.
 Escucha, oh montes, la causa del Señor, y toma nota de tus bases de la tierra; porque el Señor tiene una contienda contra su pueblo, y entablará juicio con Israel.
 Oh pueblo mío, ¿qué te he hecho? ¿Cómo he sido un cansancio para ti? da respuesta en mi contra.
@@ -22765,6 +22765,7 @@ Uno ha salido de ti que está tramando el mal contra el Señor, consejero cuyos 
 Esto es lo que el Señor ha dicho: aunque estén listos y sean muchos; Los días de mi causa contra ti han terminado; serán cortados y pasarán. Aunque te he afligido, ya no te afligiré.
 Y ahora dejaré que se te rompa el yugo y se separen tus cadenas.
 El Señor ha dado una orden acerca de ti, que no tendrás descendencia que lleve tu nombre; destruiré la casa de tus dioses y arrancaré las imágenes y las imágenes de fundición; Te enterraré allí, porque es un lugar de vergüenza; porque eres completamente malvado.
+¡Mira en las montañas los pies del que viene con buenas noticias, dando palabras de paz! Celebra tus fiestas, oh Judá, da cumplimiento a tus juramentos; porque nunca más el hombre malvado volverá a pasar por ti; él está completamente destruido.
 Él destructor subió contra ti: mantén guardia en la fortaleza, vigila el camino, hazte fuerte, aumenta tu poder.
 Porque el Señor restaura la gloria de Jacob, así como la gloria de Israel; porque los malhechores los hicieron perder y destruyeron las ramas de su vid.
 El escudo de sus valientes es rojo, los hombres de guerra están vestidos de escarlata; los carruajes de guerra son como antorchas de fuego en el día en que se preparan, las hayas tiemblan.
@@ -22778,7 +22779,6 @@ Todo le ha sido quitado, destruida, ella no tiene nada más; el corazón se desf
 ¿Dónde está la cueva de los leones, el lugar donde los cachorros obtuvieron su comida, donde el león y la leona caminaban con sus crías, sin temor?
 El león desgarraba comida suficiente para sus crías y para sus leonas; su cueva estaba llena de carne y su lugar de descanso almacenado con carne.
 Mira, estoy en tu contra, dice el Señor de los ejércitos, y haré que tus carruajes de guerra se quemen en el humo, y tus cachorros serán comida para la espada; destruiré de la tierra tu presa, y ya no oirás la voz de tus mensajeros.
-
 Ay! De ti ciudad sanguinaria; está llena de engaños y actos violentos; y no hay fin a tu rapiña.
 El chasquido del látigo y el estruendo de las ruedas; caballos galopando y carruajes de guerra saltando,
 Jinetes avanzando, y la espada brillante y resplandor de la lanza; y un gran número de heridos, y multitud de cadáveres; tropezaran sobre los cuerpos de los muertos.
@@ -22962,6 +22962,10 @@ Y el ángel que me hablaba me dijo: Que tu voz sea fuerte y diga: Estas son las 
 Y estoy muy enojado con las naciones que viven muy despreocupadas; porque cuando estaba un poco enojado, ayudaron a empeorar el mal.
 Así que esto es lo que el Señor ha dicho: he vuelto a Jerusalén con misericordia; mi casa se colocará en ella, dice el Señor de los ejércitos, y se extenderá una línea sobre Jerusalén.
 Y otra vez que tu voz sea fuerte y diga: Esto es lo que ha dicho el Señor de los ejércitos: Mis ciudades volverán a desbordarse de cosas buenas, y nuevamente el Señor consolará a Sión y escogerá a Jerusalén otra vez.
+Y alzando mis ojos vi cuatro cuernos.
+Y le dije al ángel que me hablaba: ¿Qué son estos? Y él me dijo: Estos son los cuernos que han hecho huir a Judá, Israel y Jerusalén.
+Y el Señor me dio una visión de cuatro artesanos.
+Entonces dije: ¿Qué han venido a hacer? Y él dijo: Estos son los cuernos que enviaron a Judá en fuga, y le impidieron levantar la cabeza; pero estos artesanos han venido a aterrorizar y a derribar los cuernos, de las naciones que levantaron sus cuernos contra la tierra de Judá para dispersarlos.
 Y alzando mis ojos, vi a un hombre con una línea de medir en la mano.
 Y le dije: ¿A dónde vas? Y él me dijo: Voy a tomar la medida de Jerusalén, para ver cuán ancho y largo es.
 Y salió el ángel que me estaba hablando, y salió otro ángel, y, encontrándose con él,
@@ -22975,10 +22979,6 @@ Canta de júbilo y alégrate , hija de Sión; porque yo vengo, y haré mi morada
 Y varias naciones se unirán al Señor en ese día, y se convertirán en mi pueblo; y viviré entre ustedes, y verán que el Señor de los ejércitos me ha enviado a ustedes.
 Y Judá será la herencia del Señor en la tierra santa, y Jerusalén volverá a ser suya.
 Que toda carne se calle y no haga ruido delante del Señor, porque él se ha levantado y ha venido de su santo lugar de descanso.
-
-
-
-
 Y me dejó ver a Josué, el sumo sacerdote, en su lugar delante del ángel del Señor, y a Satanás a su diestra listo para acusarlo.
 Y el ángel del Señor le dijo a Satanás: Que él Señor te reprenda, oh Satanás, reprendate el Señor, que ha escogido a Jerusalén: ¿no es este hombre como un tizón en llamas que fue sacado del fuego?
 Ahora Josué estaba vestido con túnicas inmundas, y él estaba en su lugar delante del ángel.
@@ -23205,12 +23205,12 @@ Y ahora nos parecen felices los hombres orgullosos; sí, los malhechores están 
 Entonces aquellos en quienes estaba el temor del Señor hablaron entre sí; y el Señor dio oído, y fue registrado en un libro para ser tenido en cuenta delante de él, para aquellos que tenían el temor del Señor y para los que piensan en su nombre.
 Y serán míos, dice el Señor, en el día en que los haga mi tesoro especial; y tendré misericordia de ellos como un hombre tiene misericordia de su hijo que le sirve.
 Entonces verán de nuevo cómo el hombre recto es diferente del pecador y el siervo de Dios del que no lo es.
-
-
-
-
-
-
+Para ver, se acerca el día, está ardiendo como un horno; Todos los hombres orgullosos y todos los que hacen el mal serán paja ardiendo; y en el día que viene, serán quemados, dice el Señor de los ejércitos, hasta que no tengan raíz ni rama.
+Pero a los que adoran mi nombre, se levantará el sol de justicia, y en sus alas trae sanidad; y saldrán y saltarán como becerros del establo.
+Y los impíos serán pisoteados, serán cenizas bajo sus pies, en el día en que yo haga esto, dice el Señor de los ejércitos.
+Tengan en cuenta la ley de Moisés, mi siervo, que le di en Horeb para todo Israel, incluso las reglas y las decisiones.
+Mira, les estoy enviando a Elías el profeta antes de que llegue el día del Señor, ese gran día y temible.
+Y él hará volver el corazón de los padres hacia los hijos, y él corazón de los hijos hacia los padres, no sea que yo venga y hiera con destrucción la tierra.
 El libro de las generaciones de Jesucristo, el hijo de David, el hijo de Abraham.
 El hijo de Abraham fue Isaac; y el hijo de Isaac fue Jacob; y los hijos de Jacob fueron Judá y sus hermanos;
 Y los hijos de Judá y Tamar fueron Fares y Zara; y el hijo de Fares fue Esrom; y el hijo de Esrom fue Aram;
@@ -27691,7 +27691,7 @@ Entonces, como estas cosas no pueden ser puestas en duda, sería mejor que te ca
 Porque has tomado a estos hombres, que no están haciendo daño al lugar santo ni hablando en contra de nuestra diosa.
 Si, entonces, Demetrio y los obreros que están con él protestan contra un hombre, la ley está abierta a ellos, y hay jueces; que reclamen ante las autoridades y que cada uno defienda su derecho.
 Pero si se cuestiona cualquier otro asunto, deberá tratarse en una reunión legal.
-Porque, verdaderamente, corremos el peligro de que nos hagan responsables de los problemas de este día, ya que no hay motivo para ello: y no podemos dar ninguna explicación de lo que paso hoy.
+Porque, verdaderamente, corremos el peligro de que nos hagan responsables de los problemas de este día, ya que no hay motivo para ello: y no podemos dar ninguna explicación de lo que paso hoy. Y cuando hubo dicho esto, envió la reunión fuera.
 Y Después que el ruido había llegado a su fin, Pablo, se despidió de los discípulos y les abrazo y exhortó, y salió a Macedonia.
 Y cuando recorrió todos esos lugares, les dio mucha enseñanza y exhortó, y vino a Grecia.
 Y cuando estuvo allí tres meses, y cuando supo que los judíos estaban haciendo planes contra él cuando estaba a punto de tomar el barco para Siria, tomó la decisión de regresar por Macedonia.

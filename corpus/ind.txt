@@ -926,6 +926,7 @@ Lalu katanya lagi kepada Yakub, “Perhatikanlah tumpukan batu dan tugu yang kit
 Keduanya akan menjadi tanda batas antara kita, sebagai peringatan bahwa aku tidak akan melewati tempat ini dengan tujuan berbuat jahat terhadap kamu, dan kamu pun tidak akan melewatinya untuk berbuat jahat terhadap aku.
 Biarlah kiranya Allah Abraham dan Dewa Nahor menghakimi siapa pun di antara kita yang melanggar perjanjian ini.” Lalu Yakub berjanji atas nama Allah yang disembah oleh Isak, ayahnya.
 Yakub mempersembahkan kurban di atas bukit itu dan mengundang seluruh rombongan Laban untuk makan bersama. Mereka pun makan dan bermalam di sana.
+Keesokan harinya, pagi-pagi sekali, Laban bangun dan memberikan ciuman perpisahan kepada cucu-cucunya dan anak-anaknya serta memberkati mereka. Sesudah itu, Laban pulang.
 Yakub dan keluarganya melanjutkan perjalanan. Dalam perjalanan itu, malaikat-malaikat menemui dia.
 Ketika Yakub melihat mereka, dia berkata, “Ini perkemahan Allah!” Maka dia menamai tempat itu Mahanaim.
 Sesudah peristiwa itu, Yakub mengirim sejumlah utusan untuk membawa berita kepada Esau, kakaknya, di daerah Seir di negeri Edom.
@@ -958,7 +959,6 @@ Lalu Yakub bertanya, “Siapakah nama-Mu?” Tetapi jawab Orang itu, “Kamu tid
 Yakub menamai tempat itu Peniel, karena dia sudah bertatapan muka dengan Allah secara langsung dan dia masih hidup.
 Matahari sudah terbit ketika Yakub meninggalkan Peniel, dan Yakub pincang akibat pangkal pahanya yang terkilir.
 Itulah sebabnya sampai sekarang orang Israel tidak makan daging yang menutupi sendi pangkal paha, sebagai peringatan akan kejadian yang sudah dialami Yakub malam itu.
-
 Dari jauh, Yakub melihat Esau dengan empat ratus anak buahnya mulai mendekat ke arah mereka. Maka dia membagi keluarganya menjadi empat kelompok: Lea dengan anak-anaknya, Rahel dengan anaknya, dan kedua budak perempuannya dengan anak-anak mereka masing-masing.
 Yakub menempatkan kelompok dua budak perempuannya bersama anak-anak mereka paling depan. Di belakang mereka adalah kelompok Lea bersama anak-anaknya, dan di barisan paling belakang, dia menempatkan Rahel dan Yusuf.
 Yakub sendiri berjalan di depan mereka semua. Sambil mendekati kakaknya, Yakub bersujud tujuh kali untuk menghormati Esau.
@@ -1709,10 +1709,6 @@ Namun, para ahli sihir Mesir juga melakukan hal yang sama dengan keahlian mereka
 Raja berpaling dan kembali ke istananya tanpa menghiraukan bencana yang sudah terjadi.
 Sementara itu, seluruh rakyat Mesir menggali-gali lubang di sepanjang sungai Nil untuk mencari air yang bisa diminum, karena mereka tidak dapat meminum air sungai itu.
 Tujuh hari pun berlalu setelah TUHAN mengubah air sungai Nil menjadi darah.
-
-
-
-
 TUHAN berkata kepada Musa, “Pergilah menghadap raja Mesir dan sampaikan kepadanya, ‘Inilah yang dikatakan TUHAN: Biarkanlah umat-Ku pergi supaya mereka dapat menyembah-Ku.
 Kalau engkau menolak, Aku akan memenuhi negerimu dengan katak.
 Sungai Nil akan penuh dengan katak, sampai hewan-hewan itu memasuki istanamu, kamar tidurmu, tempat tidurmu, rumah-rumah para pejabatmu dan seluruh rakyatmu, bahkan ke dalam semua tempat pembakaran makanan dan peralatan masak kalian.
@@ -1741,6 +1737,10 @@ Sesudah itu, raja memanggil Musa dan Harun lalu berkata, “Pergilah, persembahk
 Jawab Musa, “Tidak bisa, karena memberikan persembahan kurban bagi TUHAN Allah kami merupakan suatu kegiatan yang menjijikkan di mata orang Mesir. Apabila kami melakukannya di depan mereka, pasti mereka melempari kami dengan batu.
 Untuk memberikan persembahan sesuai perintah TUHAN yang kami sembah, kami harus melakukan perjalanan selama tiga hari ke padang belantara.”
 Raja pun menjawab, “Saya akan memperbolehkan kalian pergi untuk mempersembahkan kurban kepada dewa kalian, di padang belantara, tetapi jangan pergi terlalu jauh. Dan saya minta kalian mendoakan saya.”
+Lalu Musa berkata, “Baik. Sekarang saya akan pergi dan memohon kepada TUHAN agar besok kerumunan lalat meninggalkan engkau, para pejabatmu, serta rakyatmu. Tetapi, kali ini janganlah Baginda berbuat curang lagi dengan melarang bangsa Israel pergi mempersembahkan kurban kepada TUHAN!”
+Kemudian Musa pergi meninggalkan raja dan berdoa kepada TUHAN.
+TUHAN mengabulkan permintaan Musa dengan menghilangkan kerumunan lalat dari raja, para pejabat, serta rakyatnya. Tidak ada seekor pun lalat yang tertinggal.
+Namun, kali ini pun raja kembali mengeraskan hatinya dan tidak memperbolehkan bangsa Israel pergi.
 TUHAN berkata kepada Musa, “Pergilah menghadap raja dan sampaikan bahwa TUHAN, Allah umat Israel, berkata, ‘Biarkanlah umat-Ku pergi agar mereka dapat menyembah-Ku!
 Jika engkau menolak dan tetap menahan mereka,
 maka dengan kuasa-Ku, Aku akan mendatangkan wabah penyakit yang sangat parah atas ternakmu, yaitu kuda, keledai, unta, domba, kambing, dan sapi.
@@ -2112,7 +2112,6 @@ Jika sapi itu menanduk seorang budak laki-laki atau perempuan, pemilik sapi haru
 maka pemilik penampungan air itu harus membayar ganti rugi kepada pemilik hewan, dan hewan yang mati itu menjadi miliknya.
 “Jika seekor sapi jantan milik seseorang melukai sapi jantan tetangganya hingga mati, maka mereka harus menjual sapi yang hidup dan uangnya dibagi dua. Daging sapi yang mati juga dibagi dua di antara mereka.
 Namun, jika sapi jantan itu memang terkenal sering menanduk dan pemiliknya tidak menjaganya dengan baik, maka pemilik sapi ganas itu harus mengganti sapi yang mati dengan uang atau sapi lain, sedangkan sapi yang mati itu menjadi miliknya.”
-
 Peraturan selanjutnya dari TUHAN, “Jika seseorang mencuri seekor sapi atau domba, lalu menyembelihnya atau menjualnya, maka dia harus mengganti seekor sapi itu dengan lima ekor sapi, atau seekor domba dengan empat ekor domba.
 “Jika pada malam hari seorang pencuri tertangkap basah sedang masuk ke rumah seseorang dan dia dibunuh, maka orang yang membunuhnya tidak dianggap bersalah.
 Namun, apabila pencuri itu tertangkap basah pada pagi atau siang hari dan dia dibunuh, maka pembunuhnya dianggap bersalah dan harus dihukum mati. “Seorang pencuri harus membayar ganti rugi atas semua yang sudah dicurinya. Jika dia tidak mampu membayar ganti rugi, dia harus dijual sebagai budak untuk membayarnya.
@@ -2143,6 +2142,7 @@ karena mungkin jubah itu adalah satu-satunya baju hangat miliknya, dan dia membu
 “Jangan menghina Allah ataupun mengutuki pemimpin bangsamu.
 “Jangan menunda dalam memberikan kepada-Ku bagian yang pertama dari hasil panen gandum dan pemerasan anggurmu. “Serahkanlah kepada-Ku setiap anak laki-lakimu yang sulung.
 “Demikian juga dengan anak sulung jantan dari sapi, kambing, dan domba. Biarkanlah anak-anak binatang itu tinggal bersama induknya selama tujuh hari, lalu persembahkanlah kepada-Ku pada hari kedelapan.
+“Kalian harus menjadi orang-orang yang kudus bagi-Ku. Karena itu, jangan makan daging binatang yang mati dibunuh oleh binatang buas. Berikanlah bangkainya kepada anjing.”
 “Jangan menyebarkan berita bohong. Jangan membantu orang bersalah dengan memberikan kesaksian palsu di pengadilan.
 “Jangan mengikuti pengaruh orang banyak yang mendesak untuk melakukan sesuatu yang tidak adil. Jangan memihak kepada mereka dengan bersaksi palsu di pengadilan untuk memutarbalikkan kebenaran.
 Jangan membela orang yang bersalah dalam perkara pengadilan hanya karena dia miskin.
@@ -5271,6 +5271,7 @@ Taatilah dengan cermat semua perintah yang saya ajarkan kepadamu, agar kamu dan 
 “Ketika kalian memasuki negeri yang akan kalian duduki dan maju menyerang setiap daerah, TUHAN Allah kita akan mengusir dan menghabisi bangsa yang tinggal di sana.
 Sesudah itu, berhati-hatilah! Jangan sampai kalian meniru adat-adat mereka dan menyembah dewa-dewa mereka, karena perbuatan itu pasti mendatangkan bencana atasmu. Jangan meminta petunjuk kepada siapa pun dengan berkata, ‘Beritahu kami bagaimana penduduk sebelumnya menyembah dewa-dewa mereka, agar kami juga menyembah para dewa itu.’
 Janganlah menyembah TUHAN Allahmu dengan meniru cara bangsa lain menyembah dewa-dewa mereka, karena dalam penyembahan dewa, mereka melakukan semua hal yang sangat TUHAN benci, misalnya membakar anak-anak mereka sendiri di atas mezbah sebagai kurban untuk para dewa.
+“Lakukanlah dengan teliti semua yang saya perintahkan ini. Jangan menambah atau mengurangi sedikit pun darinya.”
 Selanjutnya Musa mengajarkan kepada umat Israel, “Suatu hari nanti, mungkin terjadi hal seperti ini: Ada nabi palsu atau peramal muncul di antara kalian, dan berdasarkan mimpinya, dia meramalkan suatu tanda,
 lalu ramalannya itu terjadi. Kemudian, apabila dia mengajakmu, ‘Mari kita menyembah dan melayani dewa-dewa,’ yaitu para dewa yang belum pernah disembah oleh bangsa kita,
 jangan dengarkan dia! Hal itu terjadi sebab TUHAN Allahmu sedang mengujimu untuk mengetahui apakah kalian mengasihi Dia dengan segenap hati dan nafas hidupmu.
@@ -5289,7 +5290,6 @@ maka kalian harus memusnahkan kota itu beserta seluruh penduduknya, dan semua te
 Lalu kalian harus mengumpulkan seluruh jarahan dari kota itu dan membawanya ke alun-alun kota. Bakarlah kota itu sekaligus jarahannya sampai habis, sehingga kota itu menyerupai kurban yang dibakar habis bagi TUHAN. Biarlah kota itu menjadi reruntuhan untuk selamanya dan tidak boleh dibangun kembali.
 Jangan sampai kalian menyimpan apa pun dari jarahan yang sudah ditentukan untuk dimusnahkan. Dengan begitu, TUHAN tidak akan marah lagi kepada bangsa kita. Dia akan menyatakan kebaikan hati-Nya dan membuat keturunan kalian menjadi sangat banyak, sesuai dengan janji-Nya yang Dia sahkan kepada nenek moyang kita.
 Berkat dari TUHAN itu hanya akan terjadi bila kalian menaati semua perintah-Nya yang saya ajarkan hari ini dan melakukan apa yang benar menurut pandangan-Nya.”
-
 Selanjutnya Musa mengajarkan kepada umat Israel, “Dari antara semua bangsa di dunia, TUHAN Allahmu sudah memilih kita untuk menjadi anak-anak-Nya sendiri. Jadi, sebagai umat yang dikhususkan sebagai milik-Nya, janganlah kamu sekalian hidup seperti bangsa-bangsa yang tidak mengenal TUHAN. Sebagai contoh, sewaktu kamu berduka karena orang yang meninggal, janganlah berbuat seperti bangsa-bangsa lain, yaitu menyayat diri sendiri atau mencukur rambut bagian depan kepala mereka.
 <range>
 “Jangan makan sesuatu yang TUHAN nyatakan haram.
@@ -5499,6 +5499,7 @@ Jangan menghukum perempuan itu, karena dia tidak bersalah. Pemerkosaan itu terja
 <range>
 “Jika seorang laki-laki ketahuan memperkosa seorang gadis yang belum bertunangan,
 maka laki-laki itu harus membayar mas kawin sejumlah 600 gram perak kepada ayah perempuan itu. Perempuan itu harus menjadi istrinya dan tidak boleh diceraikan seumur hidup, karena laki-laki itu sudah memaksa dia bersetubuh dengannya.
+“Apabila seorang laki-laki memiliki beberapa istri dan anak laki-laki, lalu dia meninggal, anak laki-lakinya tidak boleh menikahi janda dari ayahnya, karena perbuatan itu sama dengan menghina ayahnya.”
 Selanjutnya Musa mengajar umat Israel, “Setiap laki-laki yang buah zakarnya rusak atau alat kelaminnya dipotong tidak boleh menghadiri perkumpulan penting umat TUHAN.
 “Setiap orang yang lahir di luar pernikahan tidak boleh menghadiri perkumpulan penting umat TUHAN, bahkan keturunannya sampai generasi kesepuluh pun tidak boleh ikut serta.
 “Orang Amon atau Moab tidak boleh menghadiri perkumpulan penting umat TUHAN, bahkan keturunannya sampai generasi kesepuluh pun tidak boleh ikut serta.
@@ -5524,7 +5525,6 @@ Apabila kamu tidak pernah berjanji, maka kamu tidak berdosa karena memang tidak 
 Namun, jika kamu secara sukarela berjanji untuk melakukan sesuatu, kamu harus melakukannya.
 “Ketika kamu berjalan melewati kebun anggur sesama orang Israel, kamu boleh memetik buahnya dan memakan sebanyak yang kamu mau, tetapi dilarang membawanya pulang dengan keranjangmu.
 Begitu juga ketika kamu melewati ladang gandum sesama orang Israel, kamu boleh memetik bulir gandum itu dan memakannya, tetapi jangan memotong tangkai-tangkai gandum dengan sabit dan membawanya pulang.”
-
 Selanjutnya Musa mengajar umat Israel, “Suatu saat mungkin terjadi hal seperti ini: Tak lama sesudah menikah, seorang suami tidak lagi menyukai istrinya karena menemukan sesuatu yang tidak sesuai pada perempuan itu. Lalu suaminya menulis surat cerai, memberikan surat itu kepadanya, dan menyuruh perempuan itu pergi dari rumahnya.
 Kemudian perempuan itu menikah dengan laki-laki lain,
 tetapi suami keduanya juga menceraikan dia atau meninggal,
@@ -5679,7 +5679,6 @@ Di antara bangsa-bangsa itu, kalian tidak akan pernah mempunyai tempat tinggalmu
 Hidupmu akan selalu terancam bahaya. Siang dan malam kalian merasa ngeri dan kuatir apakah bisa tetap hidup.
 Karena sering melihat hal-hal yang mengerikan, kalian akan hidup dalam ketakutan setiap saat, sehingga di pagi hari kalian berkata, ‘Andaikan sekarang sudah malam!’ Dan di malam hari kalian berkata, ‘Andaikan sekarang sudah pagi!’
 TUHAN juga akan mengirim sebagian dari kalian ke Mesir dengan kapal, meskipun Dia pernah mengatakan bahwa kalian tidak akan melihat negeri itu lagi. Di sana kalian akan begitu melarat sampai berusaha menawarkan diri sebagai budak lagi kepada orang Mesir, tetapi tidak akan ada yang mau membelimu.”
-
 TUHAN memberikan semua hukum dan penjelasan tadi kepada Musa ketika umat Israel masih berkemah di wilayah Moab. Hal-hal itu menjelaskan perjanjian dengan TUHAN yang sudah ditetapkan di gunung Sinai.
 Musa memanggil semua orang Israel dan berkata kepada mereka, “Di Mesir, kalian sudah menyaksikan semua yang TUHAN lakukan terhadap raja Mesir, para pejabatnya, dan seluruh rakyatnya.
 Dengan matamu sendiri, kalian sudah melihat berbagai bencana dan keajaiban yang TUHAN lakukan.
@@ -5708,6 +5707,7 @@ akan bertanya, ‘Mengapa TUHAN, Allah nenek moyang mereka, berbuat demikian pad
 Mereka menyimpang dengan sujud menyembah dewa-dewa yang tidak pernah mereka kenal sebelumnya, dan yang dilarang oleh TUHAN.
 Perbuatan itulah yang membuat murka TUHAN berkobar sehingga Dia mengutuk negeri mereka, sesuai peringatan yang sudah tertulis dalam kitab ini.
 Akhirnya dalam amarah-Nya, TUHAN mencabut orang Israel dari negeri mereka dan membuang mereka ke negeri lain, di mana mereka tinggal sampai hari ini.’”
+Sebagai penutup, Musa berkata, “Ada hal-hal yang TUHAN Allah rahasiakan dari kita. Namun, untuk segala hal yang sudah Dia nyatakan, kita dan keturunan kita bertanggung jawab melakukannya. Itu berarti kita harus menaati segala hukum dan ketentuan dalam kitab ini.”
 Musa melanjutkan pengajarannya kepada umat Israel, “Pada masa mendatang, kalian semua dan keturunanmu akan mengalami semua berkat TUHAN Allahmu yang sudah saya sampaikan. Ketika kalian menjauh dari TUHAN, kamu sekalian akan mengalami semua kutukan yang sudah saya sampaikan juga. Namun, di negeri bangsa asing ke mana TUHAN mencerai-beraikan kalian nanti, kalian akan teringat kepada semua yang tertulis dalam kitab Taurat ini.
 Apabila besok kamu dan keturunanmu berbalik kepada TUHAN dengan segenap hati dan dengan segenap nafas hidupmu mematuhi perintah-Nya yang saya sampaikan hari ini,
 maka TUHAN Allah akan berbelas kasihan dan membebaskan kalian dari penawanan. Dia juga akan mengumpulkan kalian kembali dari negeri bangsa-bangsa lain itu.
@@ -7771,6 +7771,7 @@ Lalu Yonatan berseru lagi, “Ayo cepat! Jangan hanya berdiri saja!” Lalu buda
 Tetapi budaknya itu tidak mengerti apa-apa. Hanya Yonatan dan Daud yang mengetahui arti tanda itu.
 Kemudian Yonatan memberikan busur dan anak panahnya kepada budak itu dan berkata, “Pergilah dan bawa kembali ke kota.”
 Sesudah budak itu pergi, Daud muncul dari tempat persembunyiannya, lalu bersujud tiga kali di hadapan Yonatan. Dan mereka berdua saling berpelukan dan menangis bersama, tetapi Daud menangis lebih keras.
+
 Lalu Yonatan berkata kepada Daud, “Pergilah dengan perasaan tenang, sebab kita sudah bersumpah di hadapan TUHAN dengan berkata, ‘Semoga TUHAN senantiasa menjaga hubungan kita, dan keturunan kita sampai selama-lamanya.’” Sesudah itu, Daud pergi, dan Yonatan kembali ke kota.
 Kemudian Daud pergi ke kota Nob untuk minta petunjuk dari TUHAN melalui Imam Ahimelek. Saat Daud bertemu dengan dia, Ahimelek gemetar ketakutan dan bertanya, “Mengapa kamu sendirian tanpa seorang pun bersama dengan kamu?”
 Jawab Daud kepadanya, “Raja memberikan perintah kepadaku untuk melakukan sesuatu, tetapi dia berkata, ‘Rahasiakanlah kepada siapa pun alasanku mengirim kamu dan juga perintah yang sudah aku berikan kepadamu.’ Saya sudah menyuruh para tentaraku untuk menunggu di suatu tempat.
@@ -7787,7 +7788,6 @@ Daud memikirkan tentang apa yang mereka katakan dan menjadi sangat takut kepada 
 Maka di hadapan mereka, Daud mengubah tingkah lakunya dengan berpura-pura menjadi gila. Dia menggores-gores pintu gerbang dan membiarkan air liurnya menetes ke jenggotnya.
 Lalu berkatalah Akis kepada para pegawainya, “Lihatlah, orang ini gila! Mengapa kalian membawanya kepadaku?!
 Di kota ini sudah ada cukup orang gila! Tidak usah kalian tambah satu lagi! Dan jangan biarkan orang seperti ini masuk ke dalam rumahku!”
-
 Lalu Daud pergi dari Gat dan melarikan diri ke sebuah gua di Adulam. Saat saudara-saudara dan seluruh keluarganya mendengar kabar itu, datanglah mereka kepadanya.
 Semua orang yang sedang dalam masalah, seperti memiliki hutang, atau merasa tidak puas atas pemerintahan Saul, mereka berdatangan dan bergabung dengan Daud. Akhirnya Daud menjadi pemimpin atas kira-kira empat ratus orang laki-laki.
 Dari gua itu Daud pergi ke kota Mispa di daerah Moab, dan dia berkata kepada raja orang Moab, “Tolong izinkan bapak dan ibuku tinggal bersamamu sampai saya tahu apa kehendak Allah bagiku.”
@@ -7839,6 +7839,7 @@ Saat Saul mendengar hal itu, dia dan pasukannya mengejar Daud ke sana, tetapi ad
 Lalu, ketika Saul mengejar di salah satu sisi bukit batu, dalam waktu yang sama Daud dan pasukannya di berada di sisi sebelahnya dan berusaha luput dari mereka. Saul dan pasukannya hampir melihat Daud dan pasukannya.
 Tetapi pada saat itu juga sebuah pesan sampai kepada Saul, “Cepatlah kembali! Orang Filistin sudah menyerang negeri kita lagi!”
 Itulah sebabnya Saul berhenti mengejar Daud dan pergi berperang melawan orang Filistin. Sejak saat itu, bukit batu itu dinamakan Gunung Batu Keluputan.
+Dari tempat itu Daud pergi dan tinggal di tempat perlindungan dalam gua-gua En Gedi.
 Sesudah Saul kembali dari pertempuran melawan bangsa Filistin, ada orang yang memberitahukan kepadanya, “Daud sedang bersembunyi di padang belantara En Gedi.”
 Maka Saul membawa tiga ribu orang pilihan dari pasukan Israel dan pergi untuk mencari Daud beserta pasukannya di daerah perbukitan Kambing Hutan.
 Ketika Saul dan pasukannya tiba di tempat yang ada kandang-kandang domba, di situ Saul masuk sebuah gua untuk buang air besar. Tetapi pada saat itu, Daud dan pasukannya sedang bersembunyi di bagian gua yang agak ke dalam.
@@ -7861,7 +7862,6 @@ Andaikan musuh seseorang jatuh ke dalam tangannya, dia pasti tidak akan membiark
 Sekarang aku menyadari bahwa kamu akan menjadi raja atas Israel, dan kerajaan Israel akan berdiri kokoh di bawah pemerintahanmu.
 Jadi bersumpahlah kepadaku atas nama TUHAN bahwa kamu tidak akan membunuh keluargaku, ataupun menghilangkan seluruh keturunanku.”
 Maka bersumpahlah Daud kepada Saul. Lalu Saul pulang, dan Daud beserta pasukannya kembali ke tempat perlindungan yang lain.
-
 Tidak lama kemudian Samuel meninggal, dan seluruh umat Israel berkumpul dan meratapi dia. Mereka menguburkannya di rumahnya di Rama. Sesudah itu Daud pindah lagi ke padang belantara di daerah Maon.
 Ada seorang laki-laki dari suku Kaleb, bernama Nabal, tinggal di daerah yang sama dan memiliki tanah dekat kota Karmel. Dia seorang yang sangat kaya, yang memiliki 3.000 ekor domba dan 1.000 ekor kambing. Pada saat itu dia sedang berada di Karmel mencukur bulu domba-dombanya. Nabal memiliki istri bernama Abigail. Abigail bijaksana dan cantik, sedangkan suaminya kasar dan perbuatannya jahat.
 <range>
@@ -8511,6 +8511,7 @@ Daud pun bertanya, “Apakah Absalom anakku selamat?” Jawab Ahimas, “Ketika 
 Raja berkata, “Kalau begitu, tunggulah di sebelah sana.” Lalu Ahimas berdiri di tempat yang ditunjuk raja.
 Kemudian orang Etiopia itu sampai dan menghadap raja. Dia berkata, “Hamba membawa kabar baik untuk Tuanku Raja! TUHAN sudah memberi hukuman yang adil kepada semua orang yang bersepakat memberontak terhadap Tuan.”
 Lalu raja bertanya kepadanya, “Apakah anakku selamat?” Orang Etiopia itu menjawab, “Semoga semua musuh Tuanku dan semua orang yang memberontak terhadap Tuan mati seperti dia.”
+Raja sangat terguncang mendengar berita itu. Dengan amat sedih, dia naik ke ruangan di atas pintu gerbang sambil meratap, “Oh, anakku Absalom! Anakku, anakku Absalom! Biarlah aku saja yang mati menggantikanmu Absalom, anakku, anakku!”
 Kemudian seseorang memberitahukan kepada Yoab, “Raja sedang menangis dan berduka karena kematian Absalom.”
 Para tentara juga mendengar bahwa raja meratapi anaknya, sehingga kemenangan hari itu justru menjadi suasana perkabungan.
 Mereka kembali ke kota dengan diam-diam, seperti tentara yang kalah perang dan pulang dengan perasaan malu.
@@ -8554,7 +8555,6 @@ Daud berjalan menuju Gilgal disertai Kimham. Seluruh pasukan Yehuda dan separuh 
 Akan tetapi, timbullah pertengkaran antara kedua pihak tersebut. Pasukan Israel memprotes kepada raja, “Tuan, orang Yehuda itu diam-diam pergi menjemput Raja beserta rombongan Tuan dari sungai Yordan! Mereka tidak mengajak kami!”
 Sebaliknya, pasukan Yehuda menjawab mereka, “Sudah sepantasnya kami melakukan itu, karena raja berasal dari suku kami! Kalian tidak perlu marah! Kami melakukan ini tanpa dibayar baik berupa hadiah maupun makanan.”
 Jawab orang Israel, “Tetapi kesepuluh suku kami berhak sepuluh kali lebih banyak atas Raja Daud daripada kalian, yang dari suku Yehuda. Kalian sudah meremehkan kami! Bukankah kami yang lebih dahulu menyarankan untuk mengangkat Raja Daud kembali?!” Namun, orang Yehuda membantah mereka dengan lebih keras lagi.
-
 Di Gilgal ada seorang yang sering menimbulkan masalah. Namanya Seba anak Bikri, dari suku Benyamin. Dia meniup terompet supaya semua orang mendengar pengumumannya lalu berseru-seru, “Dengar, orang Israel! Kita tidak usah tunduk kepada Daud, anak Isai itu! Biarkan dia memerintah suku Yehuda saja. Mari kita pulang saja!”
 Maka semua orang dari suku-suku Israel meninggalkan Daud dan pergi mengikuti Seba. Hanya orang Yehuda yang tetap menyertai raja dari sungai Yordan sampai ke Yerusalem.
 Ketika Daud tiba di istananya, dia memerintahkan supaya kesepuluh selirnya yang dia tinggalkan untuk menjaga istana dipindahkan ke rumah lain, dengan selalu dijaga oleh pengawal. Kebutuhan mereka tetap dipenuhi oleh raja, tetapi dia tidak pernah tidur dengan mereka lagi. Para perempuan itu hidup seperti janda sampai mereka meninggal.
@@ -12362,12 +12362,6 @@ Zadok anak Imer memperbaiki tembok yang berada di depan rumahnya. Semaya anak Se
 Hananya anak Selemya dan Hanun anak Zalaf yang keenam memperbaiki bagian berikutnya. Mesulam anak Berekya melakukan perbaikan tembok di depan rumahnya.
 Malkia, yang juga perajin emas, membangun kembali bagian berikutnya sampai ke rumah-rumah para pelayan rumah TUHAN dan para pedagang. Tempat ini berada di seberang Gerbang Pemeriksaan, dekat ruangan di atas tembok di sudut timur laut.
 Dari sudut itu sampai ke Gerbang Domba, perbaikan dikerjakan oleh para perajin emas dan pedagang.
-
-
-
-
-
-
 Ketika Sanbalat mendengar bahwa kami, orang Yahudi, sudah mulai membangun kembali benteng kota, dia marah dan mulai menghina kami.
 Di depan teman-temannya dan pasukan Samaria dia berkata, “Dasar tidak tahu malu! Orang-orang Yahudi yang payah ini mau membangun kembali benteng kota. Mana mungkin bisa?! Mereka pikir, dengan mempersembahkan kurban, benteng itu akan selesai dalam sehari! Tidak mungkin batu-batu dari puing yang sudah hangus itu bisa dibangun lagi!”
 Tobia orang Amon yang berdiri di sampingnya juga berkata, “Ya! Pekerjaan mereka payah. Kalau diinjak seekor anjing hutan saja, benteng itu pasti roboh!”
@@ -12385,6 +12379,12 @@ Dalam situasi yang mencemaskan itu, saya memberi semangat kepada para bangsawan,
 Ketika pihak musuh mendengar bahwa kami mengetahui rencana mereka dan Allah sudah menggagalkan rencana itu, keadaan menjadi lebih aman sehingga kami semua dapat kembali meneruskan pembangunan benteng.
 Namun, sejak saat itu saya membagi para pengawal saya menjadi dua kelompok. Selalu ada pekerja yang mengerjakan pembangunan dan pengawal yang berjaga-jaga dengan tombak, perisai, panah, dan mengenakan baju besi. Para pemimpin juga berjaga di belakang rakyat Yehuda
 yang sedang membangun. Bahkan orang-orang yang bertugas membawa reruntuhan juga tetap waspada. Mereka bekerja penuh, tetapi setiap saat siap bertempur,
+karena masing-masing mengikatkan pedang pada pinggangnya. Saya juga sudah memerintahkan seorang peniup terompet untuk selalu berada di samping saya dan membunyikan tanda bahaya kalau terjadi serangan musuh.
+Saya menjelaskan kepada para bangsawan, pemimpin, dan semua rakyat, “Pekerjaan ini sangat besar dan luas, sementara kelompok-kelompok kita terpisah jauh satu sama lain di sekeliling benteng.
+Kalau kalian mendengar bunyi terompet, segeralah berkumpul ke arah sumber suara. Allah akan turut bertempur bagi kita!”
+Demikianlah cara kami bekerja setiap hari, sejak matahari terbit hingga malam hari. Selalu ada separuh dari laki-laki yang memperbaiki benteng, dan separuh yang lain berjaga-jaga dengan memegang senjata.
+Saya juga memberi perintah kepada semua yang tinggal di luar benteng untuk menginap di dalam kota Yerusalem bersama anak buah mereka. Dengan begitu, ada lebih banyak orang yang bergiliran jaga pada malam hari sekaligus bekerja pada siang hari.
+Sepanjang waktu itu, kami selalu siaga hingga tidak ada kesempatan untuk melepas pakaian kerja, bahkan saya sendiri, saudara-saudara saya, juga para hamba dan penjaga yang bersama saya. Kami membawa senjata setiap saat, bahkan ketika membuang air.
 Beberapa waktu kemudian, banyak orang Yahudi— baik laki-laki maupun perempuan— berseru menuntut keadilan atas pemerasan yang dilakukan oleh para bangsawan dan pejabat sesama Yahudi.
 Mereka berkata, “Keluarga kami besar dan anak kami banyak. Kami perlu makanan untuk bertahan hidup.”
 Ada juga yang mengeluh, “Selama bencana kekeringan dan kelaparan, untuk mendapat bahan makanan saja kami harus meminjam uang dari para bangsawan dan pejabat Yahudi. Kami sudah menggadaikan ladang, kebun anggur, bahkan rumah. Sekarang kami hampir tidak punya apa-apa lagi.”
@@ -12490,11 +12490,11 @@ Para imam dari kaum keluarga Hobaya, Hakos, dan Barzilai juga kembali ke Yerusal
 Gubernur Yehuda melarang mereka memakan makanan yang sudah dipersembahkan kepada Allah sebelum ada seorang imam yang dapat menyelesaikan masalah ini dengan meminta petunjuk Allah dengan menggunakan Urim dan Tumim.
 Jumlah semua orang yang kembali ke Yehuda dari pembuangan di Persia adalah 42.360 orang.
 Selain itu ada 7.337 orang budak, baik laki-laki maupun perempuan. Budak yang bertugas sebagai penyanyi berjumlah 245 orang, baik laki-laki maupun perempuan.
-Berikut ini jumlah hewan peliharaan yang dibawa kembali oleh seluruh orang Israel: kuda— 736 ekor, bagal— 245 ekor,
-unta— 435 ekor, keledai— 6.720 ekor.
+Berikut ini jumlah hewan peliharaan yang dibawa kembali oleh seluruh orang Israel: kuda— 736 ekor, bagal— 245 ekor, unta— 435 ekor, keledai— 6.720 ekor.
 Berikut ini adalah daftar sumbangan untuk biaya pembangunan kembali rumah TUHAN: Dari gubernur— 8,5 kilogram emas, 50 mangkok untuk digunakan di rumah TUHAN, dan 530 jubah untuk para imam.
 Dari sejumlah kepala kaum keluarga— 170 kilogram emas, 1.200 kilogram perak.
 Dari rakyat— 170 kilogram emas dan 67 jubah untuk para imam.
+Jadi, seluruh kelompok tersebut, yakni para imam, orang suku Lewi, penjaga gerbang rumah TUHAN, pemusik, pekerja di rumah TUHAN, dan rakyat Israel yang lain kembali ke kota-kota asal mereka. Pada bulan ketujuh, mereka sudah menetap di kotanya masing-masing.
 Pada hari pertama bulan ketujuh, seluruh umat Israel— baik laki-laki maupun perempuan— berkumpul di alun-alun depan Pintu Gerbang Air. Mereka meminta Ezra selaku imam dan ahli hukum untuk membacakan kitab Taurat yang diberikan TUHAN kepada bangsa Israel melalui Musa. Maka Imam Ezra mengeluarkan kitab Taurat di depan semua orang yang datang. Mereka terdiri dari orang dewasa dan anak-anak yang sudah dapat mengerti apa yang dibacakan.
 <range>
 Mulai pagi-pagi sekali sampai tengah hari, Imam Ezra membacakan kitab itu. Semua yang hadir mendengarkannya dengan perhatian penuh.
@@ -12550,6 +12550,7 @@ Para raja, pejabat, imam, dan nenek moyang kami tidak menaati hukum-hukum-Mu. Me
 Mendekati waktu pembuangan umat Israel ke negeri Babel, saat mereka masih menikmati berbagai berkat yang Engkau limpahkan di negeri yang subur dan luas ini, mereka tidak melayani Engkau dan tidak berpaling dari perbuatan jahat mereka.
 Lihatlah, ya Allah, negeri yang sudah Engkau berikan kepada nenek moyang kami sekarang dijajah bangsa lain. Di tanah kami sendiri, yang seharusnya kami nikmati, kami justru menjadi budak!
 Hasil panen dan ternak kami menjadi milik para raja yang sudah Engkau tempatkan untuk menguasai kami. Bahkan kehidupan kami pun dikendalikan mereka! Ya, akibat dosa kami sendiri, sekarang kami sangat menderita.”
+Berdasarkan doa pengakuan dosa itu, kami membuat sebuah perjanjian tertulis, yang disahkan dengan stempel oleh para pemimpin, orang-orang Lewi, dan imam-imam.
 Inilah daftar nama orang-orang yang memberi stempel pengesahan pada dokumen perjanjian itu: Saya— Nehemia anak Hakalya selaku gubernur Yehuda— dan Zedekia.
 Para imam: Seraya, Azarya, Yeremia,
 Pasyur, Amarya, Malkia,
@@ -12589,7 +12590,6 @@ Sesuai peraturan dalam hukum Allah, kami akan membawa setiap anak sulung kami ke
 Hasil pertama dari gilingan gandum dan jelai, persembahan khusus, panen buah-buahan, dan air anggur serta minyak zaitun yang pertama dibuat akan kami serahkan kepada para imam untuk disimpan di gudang rumah TUHAN karena semua itu adalah bagian untuk mereka. Selain itu, kami juga akan memberikan sepersepuluh dari hasil panen kami kepada orang Lewi yang bertanggung jawab untuk mengumpulkannya di lumbung kota kami masing-masing.
 Seorang imam dari keturunan Harun harus hadir bersama orang-orang Lewi ketika mereka mengumpulkan perpuluhan dari rakyat. Orang-orang Lewi harus membawa sepersepuluh dari semua yang mereka terima ke gudang-gudang perbendaharaan di rumah TUHAN.
 Umat Israel dan orang-orang Lewi akan membawa persembahan gandum dan hasil panen lainnya, air anggur baru, serta minyak zaitun ke gudang-gudang perbendaharaan rumah TUHAN, supaya siap digunakan oleh para imam, penjaga pintu gerbang, dan penyanyi yang bertugas di rumah Allah. Kami berjanji tidak akan menelantarkan rumah Allah kita.”
-
 Para pemimpin bangsa Israel dan keluarganya menjadi warga baru yang pertama menempati kota suci Yerusalem, sedangkan rakyat dari suku Yehuda dan Benyamin membuang undi untuk menentukan satu dari setiap sepuluh keluarga untuk menetap di Yerusalem, sementara yang sembilan lagi menetap di kota-kota lain.
 Ada juga sejumlah kepala keluarga yang dengan sukarela memutuskan untuk membawa keluarganya tinggal di Yerusalem, dan rakyat memuji kesediaan mereka.
 Selebihnya dari rakyat suku Yehuda dan Benyamin, para imam, orang Lewi, pelayan rumah TUHAN, dan keturunan hamba Salomo, tinggal di tanah warisan keluarganya masing-masing yang tersebar di kota-kota daerah Yehuda. Inilah daftar kepala suku yang menetap di kota Yerusalem bersama keluarga mereka. Pemimpin suku Yehuda: Ataya, kepala kaum Peres. Daftar nenek moyangnya adalah Mahalalel, kemudian Sefatya, Amaria, Zakaria, dan Uzia, yang adalah ayah Ataya.
@@ -17465,7 +17465,6 @@ Lebih baik seorang pemuda yang miskin sejak lahir tetapi bijak, daripada raja tu
 Sebab pemuda seperti itu dapat keluar dari kemiskinan dan berhasil— meskipun dia pernah dipenjarakan. Dia bahkan bisa menjadi raja.
 Raja tua itu suatu saat akan digantikan oleh pemuda yang bijak itu, dan semua orang mendukungnya sebagai raja.
 Sekalipun raja itu berkuasa atas begitu banyak orang hingga tak terhitung jumlahnya, generasi di masa depan tidak akan mengenang atau menghormati dia. Maka menjadi raja pun sia-sia, sama seperti berusaha menjaring angin!
-
 Ketika pergi ke rumah TUHAN, dengarkanlah apa yang diajarkan dan perhatikanlah baik-baik apa yang harus kamu lakukan. Jangan berbuat seperti orang bebal, yang hanya mempersembahkan kurban kepada TUHAN tanpa mengetahui arti dari persembahan itu. Dengan demikian, tanpa sadar mereka melakukan kejahatan. Lebih baik mendengar ajaran di rumah TUHAN daripada memberikan persembahan seperti orang bebal.
 Janganlah terbawa emosi sampai terburu-buru bersumpah kepada Allah untuk melakukan sesuatu. Pikirkan baik-baik terlebih dulu! Karena Allah ada di surga dan kamu di bumi. Jadi biarlah doamu singkat saja.
 Semakin banyak masalah dan kecemasan, tidur semakin terganggu oleh mimpi buruk. Semakin banyak bicara, semakin banyak mengucapkan kata-kata yang tidak berguna dan tidak masuk akal.
@@ -17485,6 +17484,7 @@ Ini benar-benar menyedihkan: Sebagaimana kita datang ke dalam dunia, demikian ju
 Selama hidup di dunia ini kita hanya mengalami kemalangan, kesulitan, berbagai penyakit, dan kemarahan.
 Oleh karena semuanya itu, inilah kesimpulan dan nasihatku: Lebih baik kita menikmati makanan, minuman, pekerjaan serta hasilnya, karena itulah upah yang diberikan Allah kepada kita selama hidup yang sementara di dunia ini.
 Selain itu, kalau Allah mempercayakan berbagai harta dan ladang untuk kita miliki, dan kalau Dia mengizinkan kita untuk menikmati semuanya, hal itu merupakan berkat besar dari-Nya.
+Jika Allah memberkati kita sedemikian hingga kita disibukkan untuk menikmati hidup, maka kita tidak akan cemas oleh kesadaran bahwa hidup ini terlalu singkat!
 Aku sudah melihat ada satu kenyataan yang sangat menyedihkan dan menekan batin manusia di bumi ini:
 Allah membuat seseorang kaya raya dan terhormat sampai dia tidak kekurangan apa pun, tetapi Allah tidak mengizinkan dia menikmati kekayaannya itu. Pada akhirnya orang lainlah yang menikmatinya! Kemalangan dan kesia-siaan ini sangat menyedihkan.
 Meskipun ada orang kaya yang memiliki seratus anak, dan dia hidup lama hingga sangat tua, tetapi kalau kekayaannya itu tidak membuat dia puas, dan kalau waktu dia mati tidak dikuburkan dengan layak, maka aku berkata, “Jauh lebih baik jika dia sudah mati pada waktu dilahirkan!”
@@ -22614,6 +22614,7 @@ Tetapi para anak buah kapal tidak mau langsung membuang Yunus ke laut. Mereka be
 Karena itu, mereka pun berseru kepada TUHAN, “Ya TUHAN, janganlah binasakan kami karena nyawa orang ini— yang tidak melakukan kesalahan apa pun kepada kami. Ya TUHAN, Engkau sudah melakukan apa yang Engkau kehendaki!”
 Lalu mereka mengangkat Yunus dan membuangnya ke laut, maka laut menjadi tenang kembali.
 Para anak buah kapal itu menjadi sangat ketakutan akan kebesaran kuasa TUHAN. Karena itu, mereka berjanji bahwa nanti mereka akan melakukan hal-hal yang menyenangkan hati-Nya dan akan mempersembahkan kurban sembelihan.
+Sementara itu, TUHAN mendatangkan ikan besar untuk menelan Yunus. Maka tinggallah Yunus di dalam perut ikan itu selama tiga hari tiga malam.
 Dari dalam perut ikan itu, Yunus berdoa kepada Allah-nya. Katanya, “Ya TUHAN, seperti penulis Mazmur berkata, ‘Waktu aku dalam kesusahan besar, aku berseru kepada-Mu minta tolong, dan Engkau sudah menjawab aku! Ketika aku berada jauh dan seperti sudah dalam kuburan, aku berseru kepada-Mu, dan Engkau pernah mendengar seruanku dan menyelamatkanku.
 <range>
 Engkau sudah melemparkan aku di tengah laut yang paling dalam. Di sana arus air semuanya sudah mengelilingi aku. Ombak dan gelombang— yang Engkau kirim, menenggelamkan aku ke bawah.
@@ -22624,7 +22625,6 @@ Ketika aku semakin melemah dan hampir mati, aku teringat kepada-Mu, dan doaku sa
 Sia-sia saja ketika orang-orang menyembah berhala-berhala, karena mereka meninggalkan Engkau yang mengasihi mereka dengan setia.
 Tetapi aku akan menyanyikan syukur dan mempersembahkan kurban kepada-Mu. Semua janjiku pasti aku akan lakukan, ya TUHAN Penyelamatku!’”
 Kemudian TUHAN memerintahkan ikan itu supaya memuntahkan Yunus ke darat.
-
 Untuk kedua kalinya TUHAN berbicara kepada Yunus,
 “Pergilah ke Niniwe, kota besar itu, dan sampaikanlah kepada penduduknya pesan yang Aku berikan kepadamu.”
 Kali ini Yunus menaati perintah TUHAN untuk pergi ke sana. Kota Niniwe sangat besar karena butuh waktu tiga hari bagi seseorang untuk melintasi kota itu dengan berjalan kaki.
@@ -27691,7 +27691,7 @@ Tidak akan ada yang bisa membantah hal itu. Jadi, hendaklah kita tenang. Jangan 
 Percuma kalian membawa kedua orang itu ke sini. Karena mereka tidak mencuri apa pun dari kuil dewi kita, dan mereka juga tidak menghina dia.
 Kalau Demetrius dan teman sekerjanya marah kepada seseorang, mereka bisa membawa perkara itu ke sidang pengadilan, di mana secara teratur kedua pihak bisa saling menunjukkan kesalahan di depan para hakim.
 Dan kalau kalian mempunyai masalah-masalah yang lain, itu bisa kita selesaikan nanti dalam sidang rakyat yang sah.
-Tetapi jika kita ribut-ribut seperti hari ini, penguasa kita pemerintah Romawi bisa menyalahkan kita. Karena kalau mereka bertanya, ‘Kenapa kalian membuat kerusuhan?’— kita tidak bisa memberikan alasan.”
+Tetapi jika kita ribut-ribut seperti hari ini, penguasa kita pemerintah Romawi bisa menyalahkan kita. Karena kalau mereka bertanya, ‘Kenapa kalian membuat kerusuhan?’— kita tidak bisa memberikan alasan.” Sesudah berkata begitu, dia menyuruh mereka bubar.
 Sesudah kerusuhan itu berakhir, Paulus mengumpulkan semua pengikut Yesus dan berpamitan dengan mereka, lalu berangkat ke provinsi Makedonia.
 Di situ dia mengunjungi jemaat-jemaat dan memberikan banyak nasihat untuk menguatkan mereka. Kemudian Paulus sampai ke provinsi Akaya, yang juga disebut Yunani.
 Dia tinggal di sana selama tiga bulan. Tetapi ketika dia bersiap-siap untuk berlayar ke Siria, dia mendengar bahwa orang-orang Yahudi sedang berencana untuk membunuhnya dalam perjalanan itu. Jadi Paulus memutuskan untuk kembali melalui Makedonia.

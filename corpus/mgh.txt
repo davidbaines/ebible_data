@@ -926,6 +926,7 @@ Lapanu ahomwiirela tho Yakopi: Nikuttha phi nna, ni nivatta neemesilyaka iriyari
 Nikuttha nna nikhale saahiti. Ciicammo nivatta nna nikhale saahiti wiira yakhala yoonanara kihitupihe nikuttha nna kiwanaka nwo, ni we yakhala yoonanara uhituphane nikuttha nna ni nivatta nna uwaka uno.
 Nluku a Aparahamu, Nluku a Nahori, Nluku o mayathumwanaya anihukhumu. Ni Yakopi, mwanlattu wo ihisima ya Isaki athumwane, aholupela.
 Yakopi ahopanka isataka umwaakoni, ni aheehana asilokwawe yaari wonwo wiira alye. Yaholyaca ni yarupacile umwaakoni wonwo.
+Lapanu ahonwa wicisuru ahaavaha alaahuma asaanawe asilopwana na asithiyana, ahaareeriha ni ahoturuwela uwaani.
 Wahoolo Yakopi ahokhuma ni ahaakumanana ancelo a Nluku.
 Vano woona wawe, Yakopi aheera: Ala anakhotto a Nluku! Ni ahovaha nipuro nno ncina na Manayimu.
 Vaavale, Yakopi ahaaveleliha mayanhupi awe wa Isawu munnaawe, akhala uSeyiri ilapo yo Eetomu.
@@ -958,7 +959,6 @@ Ni Yakopi ahonkoha eeraka: Kinapheela ucuwela ncina naa. Ule aheera: Unkikoheran
 Vano Yakopi ahovaha ncina na Peniyeli nenno nipuro nno, eeraka: Kontha kihomoona Nluku ni miitho aka ala ni mi kinkumi.
 Aakhumile uPeniyeli, ukati wakhumaya ncuwa ni Yakopi anattumpela.
 Phimaana mpaka nihuku noleelo annasirayeli khankhuraca ntinka unluttaniha natara ni iyuunu, kontha Yakopi ahaattiya wantinkani ukumanihile natara ni iyuunu.
-
 Yoole ukati ule, Yakopi ahoweha ni phamoonawe Isawu awaaka, nari na alopwana iminya cese. Vano ahaakawa asaanawe ayo anvahaka Leya, Rakeli na asaarawe eeli oohitteeliheraninya.
 Vano ahaaholiha asaarawe eeli oohitteeliheraninya na asaanaya ayo, ahomweesa Leya na asaanawe ayo uttuli waasaarawe oohitteliheraniya Rakeli ni Yusufu phaari oomalihera.
 Wahoolo Yakopi ahaapwahaca nukhala uhoolo, ni ahoromela vathi imaara saapa mpaka waphilyawe wamunnawe.
@@ -22614,6 +22614,7 @@ Vaavale anakalawa yaanvira yeettihaka ni ikuru caya apheelaka uphiya ukhopela. N
 Vano yahaalepela Mwaneene Nluku a Yona, yiiraka: Contte Mwaneene Nluku, nhinihiye nikhwaka nlattu wa coonanara ca Yona, nhinootherye hi va ukhwa wawe kontha nyu Mwaneene Nluku nhopanka wootthuna winyu.
 Vaavale yahonteesa Yona ni yahonvonyera mpaharini, ni nkhaya ahomaala ucaca.
 Vano atthu ale yahoovaca venci Mwaneene Nluku, ni yahaavahaca itthuvo Mwaneene Nluku ciicammo yakhuluvelihaka waatthara.
+Mwaneene Nluku ahoruma ihopa yuulupale wiira immirye Yona. Ni Yona ahokhala mmirimani mohopa mahuku mararu uthana ni uhiyu.
 Vano Yona nari mmirimani mohopa ahoswali aasukuruku Mwaneene Nluku
 eeraka: Mmahuvihoni kihokhuwelela Mwaneene Nluku ni ahokaakhula. Mmirimani mahiye kihokhuwa, ni nyu nheewa ncu naka.
 Nhokirihela mpaharini mapuro oowiisya cinenne ni kihokhala oorukureriya ni maasi ni mawimpi moolupale othene yaavira waculu waka.
@@ -22624,7 +22625,6 @@ Upheelaka nnepa aka urimela mi kihowuupuwelelani nyu, Mwaneene Nluku, ni iswali 
 Ale anaswalela anluku oohimaana ahiyaka ikiriri ca Nluku.
 Nanso mi kinaahala uwiipelani macipo oowunnuwihani ni wuuvahani itthuvo. Kinkopanka ile yookhuluvelihilyakani. Woopwa ukhuma wa Mwaneene Nluku.
 Vano Mwaneene Nluku ahoolumana ihopa wiira inraphye Yona, ni Yona ahoraphenya ucenkweni.
-
 Imaara yonayeeli nuulumo na Mwaneene Nluku nahowa waYona niiraka:
 Wunwe ni urwee isitati yuulupale cinenne yo Ninive waahimyacere atthu o Ninive moolumo yuuhimyacenryaka.
 Yona aheetthenkaca, ahonwa toko cakhanlyawe oohimeriya na Mwaneene Nluku. Ahorwaa uNinive. Ninive yaari isitati yuulupale cinenne yeettiya mahuku mararu uttupulaniha iriyariru.

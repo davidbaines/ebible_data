@@ -2127,7 +2127,6 @@ Kotoi wata tamana kona sinana ina kaonawai wai, sina kasibunui.”
 
 
 
-
 “Memei bage sebare kesana wasike sinitupana ba kega si bobeyei ba i dauwei, wai wasikena maisana ina terei ba ina rabai.
 Saba memei bage wasike tamana ini gesa wai, sebarena wasike sinitupana maisana rubanai tamana ini maisani.
 Kaikairapusi kega kona boterisi sina mana.
@@ -2140,6 +2139,7 @@ ba ani yagisi saki wai seri yai ani kasibunuwanimi. Ba kaokaowami sina sobere ba
 Memei bage au pipiya kesana bibaita ana waina ba mane ku berei, wai kega yebo maisana ku tepana kuna tere geyei, mane aba potapota biyisi rutainisi.
 Memena bage maturam kana nuba garana ku yauni wai ke bere meyei ba muri yai kao ina gakira,
 kairavina kana nuba garana kesanaikei ba mekabage ina dauwa. Ba memena bage kega kuna berei ba ina tou kuriku bibaita kairavina wai, ana nonori, kairavina Yauku Bada baibai nuwanuwaniku.”
+
 
 
 
@@ -7772,13 +7772,13 @@ Kona maranai David i nuwarauwei ba ana nota goyogoyosi wata kurina.
 
 
 
+
 David i nae ku Nob priest Ahimelek kurina. Ahimelek i kinani wai i nagara i kiroro i pokipokiyei ba i toiruba, “Awaika kairavina ikesim ku botu? Awaika kairavina kega kesana kotoi i ruwaim?”
 David i kaobeyei, “Taupauma ana saibira a wosewosei. I woniku kega kesana kotoi ana wonei kata awaika kairavina yauku nina. Ba au pipiya wai, a wonisi memei sina pananiku.
 Kam karimi yai kona kega, ba bread asi 5 kona kam mutusi gwabimi ai wai, kuta beriku?”
 Ba priest Ahimelek i kaobeyei, “Bread mom kega, saba bread kaobaisiyena wata, kuna yauni abisiri yai am pipiya kega wasike kesana yabata si dauwa.”
 David i kaobeyei, “Kega am nota ina kairagaraga. Maranai nikasike ka bowagawaga wai au pipiya kega bibaine kurisi te nenae. Ba yebo ka bowagawaga mom wai nanakasike. Kona kairavina kega nuwanuwam ina kairagaraga!”
 Kam kega si mamana bread kaobaisiyena wata wai priest bread kaobaisiyena Tabernacle kamonai i mamana wai si berei ba kona kaonai wauna si tepari.
-
 
 
 
@@ -27691,7 +27691,7 @@ Nikona kega kotoi ini buruburuwei, kota ma guguba ba kega kona reso kwatakwatama
 Nikosi sebasebare ko urabaisi ko botu nikei, wai kega awaika Artemis ana yove taparoro kaikapona kamonai si pisikari kona kega ata god wasikena si gigimi.
 Abisiri yai Demetrius ana sabisabirisi yabata te bikunumakisi wai, bibuibuiya biyisi te mamana kosi ko kinanisi kata ini bibuibuiya kabitamnisi.
 Awaika mutusi yebo karavisi ko bikunumakisi wai Rome bibuibuiya biyisi kosi sina bobitotorisi.
-Rome biyisi niko binuwamotom kairavina sini kunumakita, ba bibuibuiyita kairavina wai mekabage tana wona?”
+Rome biyisi niko binuwamotom kairavina sini kunumakita, ba bibuibuiyita kairavina wai mekabage tana wona?” Nikona i wonisi murinai wai si gorita.
 Binuwamotom ba reso i kakaba wai, Paul bigeruwana biyisi i runotuwanisi ba ibo bimaragasisi, ba i kiuruwisi. Ba i nae ku Macedonia kupurina.
 Kona kupurinai i bowagawaga ba bigeruwana biyisi i kaobimaragasisi yepo i verakasibau ku Greece kupurina,
 ba namai i mana yepo nawaravi tonu si kakaba. Ba i bobunaga wakai ita nae ku Syria kupurina saba, ibo panani kata Jew biyisi sibi dugu kasibunuina kairavina wai i yewo i veramaga ku Macedonia kupurina, ba namai wata ita nae ku Syria mena.

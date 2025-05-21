@@ -926,6 +926,7 @@ And Laban said to Jacob, Behold, this heap, and this pillar are a witness.
 For if I should not cross over to you, neither should you cross over to me, for mischief beyond this heap and this pillar.
 The God of Abraam and the God of Nachor judge between us; and Jacob swore by the Fear of his father Isaac.
 And he offered a sacrifice in the mountain, and called his brethren, and they ate and drank, and slept in the mountain.
+And Laban rose up in the morning, and kissed his sons and his daughters, and blessed them; and Laban having turned back, departed to his place.
 And Jacob departed for his journey; and having looked up, he saw the host of God encamped; and the angels of God met him.
 And Jacob said, when he saw them, This is the Camp of God; and he called the name of that place, Encampments.
 And Jacob sent messengers before him to Esau his brother to the land of Seir, to the country of Edom.
@@ -958,7 +959,6 @@ And Jacob asked and said, Tell me your name; and he said, Therefore do you ask a
 And Jacob called the name of that place, the Face of God; for, said he, I have seen God face to face, and my life was preserved.
 And the sun rose upon him, when he passed the Face of God; and he halted upon his thigh.
 Therefore the children of Israel will by no means eat of the sinew which was benumbed, which is on the broad part of the thigh, until this day, because the angel touched the broad part of the thigh of Jacob—even the sinew which was benumbed.
-
 And Jacob lifted up his eyes, and saw, and behold! Esau his brother coming, and four hundred men with him; and Jacob divided the children to Lea and to Rachel, and the two handmaidens.
 And he put the two handmaidens and their children with the first, and Lea and her children behind, and Rachel and Joseph last.
 But he advanced himself before them, and did reverence to the ground seven times, until he drew near to his brother.
@@ -1709,10 +1709,6 @@ And the charmers also of the Egyptians did so with their sorceries; and the hear
 And Pharao turned and entered into his house, nor did he fix his attention even on this thing.
 And all the Egyptians dug round about the river, so as to drink water, for they could not drink water from the river.
 and seven days were fulfilled after the Lord has struck the river.
-
-
-
-
 And the Lord said to Moses, Go in to Pharao, and you shall say to him, These things says the Lord: send forth my people, that they may serve me.
 And if you will not send them forth, behold, I afflict all your borders with frogs:
 and the river shall teem with frogs, and they shall go up and enter into your houses, and into your bed-chambers, and upon your beds, and upon the houses of your servants, and of your people and on your dough, and on your ovens.
@@ -1741,6 +1737,10 @@ And Pharao called Moses and Aaron, saying, Go and sacrifice to the Lord your God
 And Moses said, It can’t be so, for we shall sacrifice to the Lord our God the abominations of the Egyptians; for if we sacrifice the abominations of the Egyptians before them, we shall be stoned.
 We will go a journey of three days into the wilderness, and we will sacrifice to the Lord our God, as the Lord said to us.
 And Pharao said, I will let you go, and do you⌃ sacrifice to your God in the wilderness, but do not go very far away: pray then for me to the Lord.
+And Moses said, I then will go forth from you and pray to God, and the dog-fly shall depart both from your servants, and from your people to-morrow. Do not you, Pharao, deceive again, so as not to send the people away to do sacrifice to the Lord.
+And Moses went out from Pharao, and prayed to God.
+And the Lord did as Moses said, and removed the dog-fly from Pharao, and from his servants, and from his people, and there was not one left.
+And Pharao hardened his heart, even on this occasion, and he would not send the people away.
 And the Lord said to Moses, Go in to Pharao, and you shall say to him, These things says the Lord God of the Hebrews; Send my people away that they may serve me.
 If however you will not send my people away, but yet detain them:
 behold, the hand of the Lord shall be upon your cattle in the fields, both on the horses, and on the asses, and on the camels and oxen and sheep, a very great mortality.
@@ -2112,7 +2112,6 @@ And if any one open a pit or dig a cavity in stone, and cover it not, and an ox 
 the owner of the pit shall make compensation; he shall give money to their owner, and the dead shall be his own.
 And if any man's bull gore the bull of his neighbor, and it die, they shall sell the living bull and divide the money, and they shall divide the dead bull.
 But if the bull be known to have been given to goring in time past, and they have testified to his owner, and he have not removed him, he shall repay bull for bull, but the dead shall be his own.
-
 And if one steal an ox or a sheep, and kill it or sell it, he shall pay five calves for a calf, and four sheep for a sheep.
 And if the thief be found in the breach made by himself and be struck and die, there shall not be blood shed for him.
 But if the sun be risen upon him, he is guilty, he shall die instead; and if a thief have nothing, let him be sold in compensation for what he has stolen.
@@ -2143,6 +2142,7 @@ For this is his clothing, this is the only covering of his nakedness; wherein sh
 You shall not revile the gods, nor speak ill of the ruler of your people.
 You shall not keep back the first fruits of your threshing floor and press. The firstborn of your sons you shall give to me.
 So shall you do with your calf and your sheep and your ass; seven days shall it be under the mother, and the eighth day you shall give it to me.
+And you⌃ shall be holy men to me; and you⌃ shall not eat flesh taken of beasts, you⌃ shall cast it to the dog.
 You shall not receive a vain report: you shall not agree with the unjust man to become an unjust witness.
 You shall not associate with the multitude for evil; you shall not join yourself with a multitude to turn aside with the majority so as to shut out judgment.
 And you shall not spare a poor man in judgment.
@@ -2848,13 +2848,6 @@ And he shall make compensation for that wherein he has sinned in the holy things
 And the soul which shall sin, and do one thing against any of the commandments of the Lord, which it is not right to do, and has not known it, and shall have transgressed, and shall have contracted guilt,
 he shall even bring a ram without blemish from the flock, valued at a price of silver for his transgression to the priest; and the priest shall make atonement for his trespass of ignorance, wherein he ignorantly trespassed, and he knew it not; and it shall be forgiven him.
 For he has surely been guilty of transgression before the Lord.
-
-
-
-
-
-
-
 And the Lord spoke to Moses, saying,
 The soul which shall have sinned, and willfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbor in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbor,
 or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatever a man may do, so as to sin hereby;
@@ -2878,6 +2871,13 @@ This is the gift of Aaron and of his sons, which they shall offer to the Lord in
 It shall be made with oil in a frying-pan; he shall offer it kneaded and in rolls, an offering of fragments, an offering of a sweet savor to the Lord.
 The anointed priest who is in his place, one of his sons, shall offer it: it is a perpetual statute, it shall all be consumed.
 And every sacrifice of a priest shall be thoroughly burnt, and shall not be eaten.
+And the Lord spoke to Moses, saying,
+Speak to Aaron and to his sons, saying, This is the law of the sin-offering; —in the place where they kill the whole burnt offering, they shall kill the sin-offerings before the Lord: they are most holy.
+The priest that offers it shall eat it: in a holy place it shall be eaten, in the court of the tabernacle of witness.
+Every one that touches the flesh of it shall be holy, and on whoever’s garment any of its blood shall have been sprinkled, whoever shall have it sprinkled, shall be washed in the holy place.
+And the earthen vessel, in whichever it shall have been sodden, shall be broken; and if it shall have been sodden in a brazen vessel, he shall scour it and wash it with water.
+Every male among the priests shall eat it: it is most holy to the Lord.
+And no offerings for sin, of whose blood there shall be brought any into the tabernacle of witness to make atonement in the holy place, shall be eaten: they shall be burned with fire.
 This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
 If a man should offer it for praise, then shall he bring, for the sacrifice of praise, loaves of fine flour made up with oil, and unleavened cakes anointed with oil, and fine flour kneaded with oil.
 With leavened bread he shall offer his gifts, with the peace-offering of praise.
@@ -4228,6 +4228,21 @@ And the ground opened, and swallowed them up, and their houses, and all the men 
 And they went down and all that they had, alive into Hades; and the ground covered them, and they perished from the midst of the congregation.
 And all Israel round about them fled from the sound of them, for they said, Lest the earth swallow us up also.
 And fire went forth from the Lord, and devoured the two hundred and fifty men that offered incense.
+And the Lord said to Moses,
+and to Eleazar the son of Aaron the priest, Take up the brazen censers out of the midst of the men that have been burnt, and scatter the strange fire yonder, for they have sanctified the censers
+of these sinners against their own souls, and do you make them beaten plates a covering to the altar, because they were brought before the Lord and hallowed; and they became a sign to the children of Israel.
+And Eleazar the son of Aaron the priest took the brazen censers, which the men who had been burnt brought near, and they put them as a covering on the altar:
+a memorial to the children of Israel that no stranger might draw near, who is not of the seed of Aaron, to offer incense before the Lord; so he shall not be as Core and as they that conspired with him, as the Lord spoke to him by the hand of Moses.
+And the children of Israel murmured the next day against Moses and Aaron, saying, You⌃ have killed the people of the Lord.
+And it came to pass when the congregation combined against Moses and Aaron, that they ran impetuously to the tabernacle of witness; and the cloud covered it, and the glory of the Lord appeared.
+And Moses and Aaron went in, in front of the tabernacle of witness.
+And the Lord spoke to Moses and Aaron, saying,
+Depart out of the midst of this congregation, and I will consume them at once: and they fell upon their faces.
+And Moses said to Aaron, Take a censer, and put on it fire from the altar, and put incense on it, and carry it away quickly into the camp, and make atonement for them; for wrath is gone forth from the presence of the Lord, it has begun to destroy the people.
+And Aaron took as Moses spoke to him, and ran among the congregation, for already the plague had begun among the people; and he put on incense, and made an atonement for the people.
+And he stood between the dead and the living, and the plague ceased.
+And they that died in the plague were fourteen thousand and seven hundred, besides those that died on account of Core.
+And Aaron returned to Moses to the door of the tabernacle of witness, and the plague ceased.
 And the Lord spoke to Moses, saying,
 Speak to the children of Israel, and take rods of them, according to the houses of their families, a rod from all their princes, according to the houses of their families, twelve rods, and write the name of each on his rod.
 And write the name of Aaron on the rod of Levi; for it is one rod for each: they shall give them according to the tribe of the house of their families.
@@ -4241,21 +4256,6 @@ And the Lord said to Moses, Lay up the rod of Aaron before the testimonies to be
 And Moses and Aaron did as the Lord commanded Moses, so did they.
 And the children of Israel spoke to Moses, saying, Behold, we are cut off, we are destroyed, we are consumed.
 Every one that touches the tabernacle of the Lord, dies: shall we die utterly?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 And the Lord spoke to Aaron, saying, You and your sons and your father's house shall bear the sins of the holy things, and you and your sons shall bear the iniquity of your priesthood.
 And take to yourself your brethren the tribe of Levi, the family of your father, and let them be joined to you, and let them minister to you; and you and your sons with you shall minister before the tabernacle of witness.
 And they shall keep your charges, and the charges of the tabernacle; only they shall not approach the holy vessels and the altar, so both they and you shall not die.
@@ -4647,6 +4647,7 @@ And you⌃ shall offer whole burnt offerings as sacrifices to the Lord, one calf
 There shall be their meat-offerings and their drink-offerings for the calf and the ram and the lambs according to their number, according to their ordinance.
 And one kid of the goats for a sin-offering; beside the continual whole burnt offering; there shall be their meat-offerings and their drink-offerings.
 These sacrifices shall you⌃ offer to the Lord in your feasts, besides your vows; and you⌃ shall offer your free will offerings and your whole burnt offerings, and your meat-offerings and your drink-offerings, and your peace-offerings.
+
 And Moses spoke to the children of Israel according to all that the Lord commanded Moses.
 And Moses spoke to the heads of the tribes of the children of Israel, saying, This is the thing which the Lord has commanded.
 Whatsoever man shall vow a vow to the Lord, or swear an oath, or bind himself with an obligation upon his soul, he shall not break his word; all that shall come out of his mouth he shall do.
@@ -4662,8 +4663,7 @@ and her husband should hear, and hold his peace at her, and not disallow her, th
 But if her husband should utterly cancel the vow in the day in which he shall hear it, none of the things which shall proceed out of her lips in her vows, and in the obligations contracted upon her soul, shall stand to her; her husband has cancelled them, and the Lord shall hold her guiltless.
 Every vow, and every binding oath to afflict her soul, her husband shall confirm it to her, or her husband shall cancel it.
 But if he be wholly silent at her from day to day, then shall he bind upon her all her vows; and he shall confirm to her the obligations which she has bound upon herself, because he held his peace at her in the day in which he heard her.
-And if her husband should in any wise cancel them after the day in which he heard them, then he shall bear his iniquity.
-These are the ordinances which the Lord commanded Moses, between a man and his wife, and between a father and daughter in her youth in the house of her father.
+And if her husband should in any wise cancel them after the day in which he heard them, then he shall bear his iniquity. These are the ordinances which the Lord commanded Moses, between a man and his wife, and between a father and daughter in her youth in the house of her father.
 And the Lord spoke to Moses, saying,
 Avenge the wrongs of the children of Israel on the Madianites, and afterwards you shall be added to your people.
 And Moses spoke to the people, saying, Arm some of you, and set yourselves in array before the Lord against Madian, to inflict vengeance on Madian from the Lord.
@@ -5271,6 +5271,7 @@ Beware and listen, and you shall do all the commands which I charge you, that it
 And if the Lord your God shall utterly destroy the nations, to whom you go in there to inherit their land, from before you, and you shall inherit it, and dwell in their land;
 take heed to yourself that you seek not to follow them after they are destroyed before you, saying, How do these nations act towards their gods? I will do likewise.
 You shall not do so to your God; for they have sacrificed to their gods the abominations of the Lord which he hates, for they burn their sons and their daughters in fire to their gods.
+Every word that I command you this day, it shall you observe to do: you shall not add to it, nor diminish from it.
 And if there arise within you a prophet, or one who dreams a dream, and he gives you a sign or a wonder,
 and the sign or the wonder come to pass which he spoke to you, saying, Let us go and serve other gods, which you⌃ know not;
 you⌃ shall not listen to the words of that prophet, or the dreamer of that dream, because the Lord your God tries you, to know whether you⌃ love your God with all your heart and with all your soul.
@@ -5289,7 +5290,6 @@ you shall utterly destroy all the dwellers in that land with the edge of the swo
 And all its spoils you shall gather into its public ways, and you shall burn the city with fire, and all its spoils publicly before the Lord your God; and it shall be uninhabited for ever, it shall not be built again.
 And there shall nothing of the cursed thing cleave to your hand, that the Lord may turn from his fierce anger, and show you mercy, and pity you, and multiply you, as he swore to your fathers;
 if you will hear the voice of the Lord your God, to keep his commandments, all that I charge you this day, to do that which is good and pleasing before the Lord your God.
-
 You⌃ are the children of the Lord your God: you⌃ shall not make any baldness between your eyes for the dead.
 For you are a holy people to the Lord your God, and the Lord your God has chosen you to be a peculiar people to himself of all the nations on the face of the earth.
 You⌃ shall not eat any abominable thing.
@@ -5499,6 +5499,7 @@ And the damsel has not committed a sin worthy of death; as if a man should rise 
 because he found her in the field; the betrothed damsel cried, and there was none to help her.
 And if any one should find a young virgin who has not been betrothed, and should force her and lie with her, and be found,
 the man who lay with her shall give to the father of the damsel fifty silver didrachmas, and she shall be his wife, because he has humbled her; he shall never be able to put her away.
+A man shall not take his father's wife, and shall not uncover his father's skirt.
 He that is fractured or mutilated in his private parts shall not enter into the assembly of the Lord.
 One born of a harlot shall not enter into the assembly of the Lord.
 The Ammanite and Moabite shall not enter into the assembly of the Lord, even until the tenth generation he shall not enter into the assembly of the Lord, even for ever:
@@ -5522,7 +5523,6 @@ You may lend on usury to a stranger, but to your brother you shall not lend on u
 And if you will vow a vow to the Lord your God, you shall not delay to pay it; for the Lord your God will surely require it of you, and otherwise it shall be sin in you.
 But if you should be unwilling to vow, it is not sin in you.
 You shall observe the words that proceed from between your lips; and as you have vowed a gift to the Lord God, so shall you do that which you have spoken with your mouth.
-
 
 
 And if you should go into the corn field of your neighbor, then you may gather the ears with your hands; but you shall not put the sickle to your neighbor's corn.
@@ -5679,7 +5679,6 @@ Moreover among those nations he will not give you quiet, neither by any means sh
 And your life shall be in suspense before your eyes; and you shall be afraid by day and by night, and you shall have no assurance of your life.
 In the morning you shall say, Would it were evening! and in the evening you shall say, Would it were morning! for the fear of your heart with which you shall fear, and for the sights of your eyes which you shall see.
 And the Lord shall bring you back to Egypt in ships, by the way of which I said, You shall not see it again; and you⌃ shall be sold there to your enemies for bondmen and bondwomen, and none shall buy you.
-
 These are the words of the covenant, which the Lord commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Choreb.
 And Moses called all the sons of Israel and said to them, You⌃ have seen all things that the Lord did in the land of Egypt before you to Pharao and his servants, and all his land;
 the great temptations which your eyes have seen, the signs, and those great wonders.
@@ -5708,6 +5707,7 @@ And men shall say, Because they forsook the covenant of the Lord God of their fa
 and they went and served other gods, which they knew not, neither did he assign them to them.
 And the Lord was exceedingly angry with that land to bring upon it according to all the curses which are written in the book of this law.
 And the Lord removed them from their land in anger, and wrath, and very great indignation, and cast them out into another land as at present.
+The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children for ever, to do all the words of this law.
 And it shall come to pass when all these things shall have come upon you, the blessing and the curse, which I have set before your face, and you shall call them to mind among all the nations, wherein the Lord shall have scattered you,
 and shall return to the Lord your God, and shall listen to his voice, according to all things which I charge you this day, with all your heart, and with all your soul;
 then the Lord shall heal your iniquities, and shall pity you, and shall again gather you out from all the nations, among which the Lord has scattered you.
@@ -7771,6 +7771,7 @@ And Jonathan cried out after his boy, saying, Make all speed, and stay not. And 
 And the boy knew nothing, only Jonathan and David knew.
 And Jonathan gave his weapons to his boy, and said to his boy, Go, enter into the city.
 And when the lad went in, then David arose from the south, and fell upon his face, and did obeisance to him three times, and they kissed each other, and wept for each other, for a great while.
+
 And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and you, and between my seed and your seed for ever—even so let it be. And David arose and departed, and Jonathan went into the city.
 And David comes to Nomba to Abimelech the priest: and Abimelech was amazed at meeting him, and said to him, Why are you alone, and nobody with you?
 And David said to the priest, The king gave me a command today, and said to me, Let no one know the matter on which I send you, and concerning which I have charged you: and I have charged my servants to be in the place that is called, The faithfulness of God, Phellani Maemoni.
@@ -7787,7 +7788,6 @@ And David laid up the words in his heart, and was greatly afraid of Anchus king 
 And he changed his appearance before him, and feigned himself a false character in that day; and drummed upon the doors of the city, and used extravagant gestures with his hands, and fell against the doors of the gate, and his spittle ran down upon his beard.
 And Anchus said to his servants, Behold! you⌃ see the man is mad: why have you⌃ brought him in to me?
 Am I in lack of madmen, that you⌃ have brought him in to me to play the madman? He shall not come into the house.
-
 And David departed thence, and escaped; and he comes to the cave of Odollam, and his brethren hear, and the house of his father, and they go down to him there.
 And there gathered to him every one that was in distress, and every one that was in debt, and every one that was troubled in mind; and he was a leader over them, and there were with him about four hundred men.
 And David departed thence to Massephath of Moab, and said to the king of Moab, Let, I pray you, my father and my mother be with you, until I know what God will do to me.
@@ -7839,6 +7839,7 @@ And Saul and his men went to seek him: and they brought word to David, and he we
 And Saul and his men go on one side of the mountain, and David and his men are on the other side of the mountain: and David was hiding himself to escape from Saul: and Saul and his men encamped against David and his men, in order to take them.
 And there came a messenger to Saul, saying, Haste you, and come here, for the Philistines have invaded the land.
 So Saul returned from following after David, and went to meet the Philistines: therefore that place was called The divided Rock.
+
 And David rose up from thence, and lived in the narrow passes of Engaddi.
 And it came to pass when Saul returned from pursuing after the Philistines, that it was reported to him, saying, David is in the wilderness of Engaddi.
 And he took with him three thousand men, chosen out of all Israel, and went to seek David and his men in front of Saddaeem.
@@ -7860,8 +7861,7 @@ And Saul said to David, You are more righteous that I, for you have recompensed 
 And you have told me today what good you have done me, how the Lord shut me up into your hands today, and you did not kill me.
 And if any one should find his enemy in distress, and should send him forth in a good way, then the Lord will reward him good, as you have done this day.
 And now, behold, I know that you shall surely reign, and the kingdom of Israel shall be established in your hand.
-Now then swear to me by the Lord, that you will not destroy my seed after me, that you will not blot out my name from the house of my father.
-So David swore to Saul: and Saul departed to his place, and David and his men went up to the strong-hold of Messera.
+Now then swear to me by the Lord, that you will not destroy my seed after me, that you will not blot out my name from the house of my father. So David swore to Saul: and Saul departed to his place, and David and his men went up to the strong-hold of Messera.
 And Samuel died, and all Israel assembled, and bewailed him, and they bury him in his house in Armathaim: and David arose, and went down to the wilderness of Maon.
 And there was a man in Maon, and his flocks were in Carmel, and he was a very great man; and he had three thousand sheep, and a thousand she-goats: and he happened to be shearing his flock in Carmel.
 And the man's name was Nabal, and his wife's name was Abigaia: and his wife was of good understanding and very beautiful in person: but the man was harsh, and evil in his doings, and the man was churlish.
@@ -8511,6 +8511,7 @@ And the king said, Is the young man Abessalom safe? and Achimaas said, I saw a g
 And the king said, Turn aside, stand still here. And he turned aside, and stood.
 And, behold, Chusi came up, and said to the king, Let my lord the king hear glad tidings, for the Lord has avenged you this day upon all them that rose up against you.
 And the king said to Chusi, Is it well with the young man Abessalom? and Chusi said, Let the enemies of my lord the king, and all whoever have risen up against him for evil, be as that young man.
+And the king was troubled, and went to the chamber over the gate, and wept: and thus he said as he went, My son Abessalom, my son, my son Abessalom; would God I had died for you, even I had died for you, Abessalom, my son, my son!
 And they brought Joab word, saying, Behold, the king weeps and mourns for Abessalom.
 And the victory was turned that day into mourning to all the people, for the people heard say that day, The king grieves after his son.
 And the people stole away that day to go into the city, as people steal away when they are ashamed as they flee in the battle.
@@ -8554,7 +8555,6 @@ And the king went over to Galgala, and Chamaam went over with him: and all the m
 And behold, all the men of Israel came to the king, and said to the king, Why have our brethren the men of Juda stolen you away, and caused the king and all his house to pass over Jordan, and all the men of David with him?
 And all the men of Juda answered the men of Israel, and said, Because the king is near of kin to us: and why were you thus angry concerning this matter? have we indeed eaten of the king's food? or has he given us a gift, or has he sent us a portion?
 And the men of Israel answered the men of Juda, and said, We have ten parts in the king, and we are older than you, we have also an interest in David above you: and why have you⌃ thus insulted us, and why was not our advice taken before that of Juda, to bring back our king? And the speech of the men of Juda was sharper than the speech of the men of Israel.
-
 And there was a transgressor so called there, and his name was Sabee, a Benjamite, the son of Bochori: and he blew the trumpet, and said, We have no portion in David, neither have we any inheritance in the son of Jessae: to your tents, O Israel, every one.
 And all the men of Israel went up from following David after Sabee the son of Bochori: but the men of Juda adhered to their king, from Jordan even to Jerusalem.
 And David went into his house at Jerusalem: and the king took the ten women his concubines, whom he had left to keep the house, and he put them in a place of custody, and maintained them, and went not in to them; and they were kept living as widows, till the day of their death.
@@ -8865,6 +8865,20 @@ Josaphat son of Phuasud was in Issachar.
 Semei son of Ela, in Benjamin.
 Gaber son of Adai in the land of Gad, the land of Seon king of Esebon, and of Og king of Basan, and one officer in the land of Juda.
 And thus the officers provided king Solomon: and they execute every one in his month all the orders for the table of the king, they omit nothing.
+And they carried the barley and the straw for the horses and the chariots to the place where the king might be, each according to his charge.
+And these were the requisite supplies for Solomon: in one day thirty measures of fine flour, and sixty measures of fine pounded meal,
+and ten choice calves, and twenty pastured oxen, and one hundred sheep, besides stags, and choice fatted does.
+For he had dominion on this side the river, and he was at peace on all sides round about.
+<range>
+<range>
+<range>
+<range>
+And the Lord gave understanding to Solomon, and very much wisdom, and enlargement of heart, as the sand on the seashore.
+And Solomon abounded greatly beyond the wisdom of all the ancients, and beyond all the wise men of Egypt.
+And he was wiser than all other men: and he was wiser than Gaethan the Zarite, and than Aenan, and than Chalcad and Darala the son of Mal.
+And Solomon spoke three thousand proverbs, and his songs were five thousand.
+And he spoke of trees, from the cedar in Libanus even to the hyssop which comes out through the wall: he spoke also of cattle, and of birds, and of reptiles, and of fishes.
+And all the nations came to hear the wisdom of Solomon, and ambassadors from all the kings of the earth, as many as heard of his wisdom. And Solomon took to himself the daughter of Pharao to wife, and brought her into the city of David until he had finished the house of the Lord, and his own house, and the wall of Jerusalem. Then went up Pharao the king of Egypt, and took Gazer, and burnt it and the Chananite dwelling in Mergab; and Pharao gave them as a dowry to his daughter the wife of Solomon: and Solomon rebuilt Gazer.
 And Chiram king of Tyre sent his servants to anoint Solomon in the room of David his father, because Chiram always loved David.
 And Solomon sent to Chiram, saying,
 You knew my father David, that he could not build a house to the name of the Lord my God because of the wars that compassed him about, until the Lord put them under the soles of his feet.
@@ -8883,20 +8897,6 @@ And Solomon had seventy thousand bearers of burdens, and eighty thousand hewers 
 besides the rulers that were appointed over the works of Solomon, there were three thousand six hundred masters who wrought in the works.
 And the king commanded and they brought great stones, precious stones for the foundation of the house, and unhewn stones.
 And they prepared the stones and the timber during three years.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 And it came to pass in the four hundred and fortieth year after the departure of the children of Israel out of Egypt, in the fourth year and second month of the reign of king Solomon over Israel, that the king commanded that they should take great and costly stones for the foundation of the house, and hewn stones. And the men of Solomon, and the men of Chiram hewed the stones, and laid them for a foundation. In the fourth year he laid the foundation of the house of the Lord, in the month Ziu, even in the second month. In the eleventh year, in the month Baal, this is the eighth month, the house was completed according to all its plan, and according to all its arrangement.
 And the house which the king built to the Lord was forty cubits in length, and twenty cubits in breadth, and its height five and twenty cubits.
 And the porch in front of the temple—twenty cubits was its length according to the breadth of the house in front of the house: and he built the house, and finished it.
@@ -9523,6 +9523,7 @@ And the rest of the acts of Achaab, and all that he did, and the ivory house whi
 And Achaab slept with his fathers, and Ochozias his son reigned in his stead.
 And Josaphat the son of Asa reigned over Juda: in the fourth year of Achaab king of Israel began Josaphat to reign.
 Thirty and five years old was he when he began to reign, and he reigned twenty and five years in Jerusalem; and his mother's name was Azuba daughter of Salai.
+
 And he walked in all the way of Asa his father: he turned not from it, even from doing that which was right in the eyes of the Lord.
 Only he took not away any of the high places: the people still sacrificed and burnt incense on the high places.
 And Josaphat was at peace with the king of Israel.
@@ -9533,8 +9534,7 @@ And the rest of the acts of Josaphat, and his mighty deeds, whatever he did, beh
 <range>
 And Josaphat slept with his fathers, and was buried by his fathers in the city of David his father, and Joram his son reigned in his stead.
 And Ochozias son of Achaab reigned over Israel in Samaria: in the seventeenth year of Josaphat king of Juda, Ochozias son of Achaab reigned over Israel in Samaria two years.
-And he did that which was evil in the sight of the Lord, and walked in the way of Achaab his father, and in the way of Jezabel his mother, and in the sins of the house of Jeroboam the son of Nabat, who caused Israel to sin.
-And he served Baalim, and worshipped them, and provoked the Lord God of Israel, according to all that had been done before him.
+And he did that which was evil in the sight of the Lord, and walked in the way of Achaab his father, and in the way of Jezabel his mother, and in the sins of the house of Jeroboam the son of Nabat, who caused Israel to sin. And he served Baalim, and worshipped them, and provoked the Lord God of Israel, according to all that had been done before him.
 And Moab rebelled against Israel after the death of Achaab.
 And Ochozias fell through the lattice that was in his upper chamber in Samaria and was sick; and he sent messengers, and said to them, Go and enquire of Baal fly, the god of Accaron, whether I shall recover of this my sickness. And they went to enquire of him.
 And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and you shall say to them, Is it because there is no God in Israel, that you⌃ go to enquire of Baal fly, the God of Accaron? but it shall not be so.
@@ -9851,6 +9851,7 @@ And Jodae made a covenant between the Lord and the king and the people, that the
 And all the people of the land went into the house of Baal, and tore it down, and completely broke in pieces his altars and his images, and they killed Mathan the priest of Baal before the altars. And the priest appointed overseers over the house of the Lord.
 And he took the captains of the hundreds, and the Chorri, and the Rhasim, and all the people of the land, and brought down the king out of the house of the Lord; and they went in by the way of the gate of the footmen of the king's house, and seated him there on the throne of the kings.
 And all the people of the land rejoiced, and the city was at rest: and they killed Gotholia with the sword in the house of the king.
+Joas was seven years old when he began to reign.
 Joas began to reign in the seventh year of Ju, and he reigned forty years in Jerusalem: and his mother's name was Sabia of Bersabee.
 And Joas did that which was right in the sight of the Lord all the days that Jodae the priest instructed him.
 Only there were not any of the high places removed, and the people still sacrificed there, and burned incense on the high places.
@@ -9872,7 +9873,6 @@ And Joas king of Juda took all the holy things which Josaphat, and Joram, Ochozi
 And the rest of the acts of Joas, and all that he did, behold, are not these things written in the book of the chronicles of the kings of Juda?
 And his servants rose up and made a conspiracy, and struck Joas in the house of Mallo that is in Sela.
 And Jezirchar the son of Jemuath, and Jezabuth Somer's son, his servants, struck him, and he died; and they buried him with his fathers in the city of David: and Amessias his son reigned in his stead.
-
 In the twenty-third year of Joas son of Ochozias king of Juda began Joachaz the son of Ju to reign in Samaria, and he reigned seventeen years.
 And he did that which was evil in the sight of the Lord, and walked after the sins of Jeroboam the son of Nabat, who led Israel to sin; he departed not from them.
 And the Lord was very angry with Israel, and delivered them into the hand of Azael king of Syria, and into the hand of the son of Ader son of Azael, all their days.
@@ -10456,21 +10456,6 @@ And the half-tribe of Manasse lived from Basan to Baal, Ermon, and Sanir, and to
 And these were the heads of the houses of their families; Opher, and Sei, and Eliel, and Jeremia, and Oduia, and Jediel, mighty men of valour, men of renown, heads of the houses of their families.
 But they rebelled against the God of their fathers, and went a-whoring after the gods of the nations of the land, whom God cast out from before them.
 And the God of Israel stirred up the spirit of Phaloch king of Assyria, and the spirit of Thagla-phallasar king of Assyria, and carried away Ruben and Gaddi, and the half-tribe of Manasse, and brought them to Chaach, and Chabor, and to the river Gozan, until this day.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The sons of Levi: Gedson, Caath, and Merari.
 And the sons of Caath; Ambram, and Issaar, Chebron, and Oziel.
 And the sons of Ambram; Aaron, and Moses, and Mariam: and the sons of Aaron; Nadab, and Abiud, Eleazar, and Ithamar.
@@ -10537,6 +10522,21 @@ And to the sons of Merari according to their families there were given, by lot, 
 So the children of Israel gave to the Levites the cities and their suburbs.
 And they gave by lot out of the tribe of the children of Juda, and out of the tribe of the children of Symeon, and out of the tribe of the children of Benjamin, these cities which they call by name.
 And to the members of the families of the sons of Caath there were also given the cities of their borders out of the tribe of Ephraim.
+And they gave them the cities of refuge, Sychem and her suburbs in mount Ephraim, and Gazer and her suburbs,
+and Jecmaan and her suburbs, and Baethoron and her suburbs,
+and Aelon and her suburbs, and Gethremmon and her suburbs:
+and of the half-tribe of Manasse Anar and her suburbs, and Jemblaan and her suburbs, to the sons of Caath that were left, according to each several family.
+To the sons of Gedson from the families of the half-tribe of Manasse they gave Golan of Basan and her suburbs, and Aseroth and her suburbs.
+And out of the tribe of Issachar, Kedes and her suburbs, and Deberi and her suburbs, and Dabor and her suburbs,
+and Ramoth, and Aenan and her suburbs.
+And of the tribe of Aser; Maasal and her suburbs, and Abdon and her suburbs,
+and Acac and her suburbs, and Roob and her suburbs.
+And of the tribe of Nephthali; Kedes in Galilee and her suburbs, and Chamoth and her suburbs, and Kariathaim and her suburbs.
+To the sons of Merari that were left, they gave out of the tribe of Zabulon Remmon and her suburbs, and Thabor and her suburbs:
+out of the country beyond Jordan; Jericho westward of Jordan: out of the tribe of Ruben; Bosor in the wilderness and her suburbs, and Jasa and her suburbs,
+and Kadmoth and her suburbs, and Maephla and her suburbs.
+Out of the tribe of Gad; Rammoth Galaad and her suburbs, and Maanaim and her suburbs,
+and Esebon and her suburbs, and Jazer and her suburbs.
 And as to the sons of Issachar, they were Thola, and Phua, and Jasub, and Semeron, four.
 And the sons of Thola; Ozi, Raphaia, and Jeriel, and Jamai, and Jemasan, and Samuel, chiefs of their fathers' houses belonging to Thola, men of might according to their generations; their number in the days of David was twenty and two thousand and six hundred.
 And the sons of Ozi; Jezraia: and the sons of Jezraia; Michael, Abdiu, and Joel, and Jesia, five, all rulers.
@@ -10725,6 +10725,7 @@ Daliel, and Obeth, and Jessiel of Mesobia.
 And these are they that came to Sikelag, when he yet kept himself close because of Saul the son of Kis; and these were among the mighty, aiding him in war,
 and using the bow with the right hand and with the left, and slingers with stones, and shooters with bows. Of the brethren of Saul of Benjamin,
 the chief was Achiezer, and Joas son of Asma the Gabathite, and Joel and Jophalet, sons of Asmoth, and Berchia, and Jeul of Anathoth,
+
 and Samaias the Gabaonite a mighty man among the thirty, and over the thirty; and Jeremia, and Jeziel, and Joanan, and Jozabath of Gadarathiim,
 Azai and Arimuth, and Baalia, and Samaraia, and Saphatias of Charaephiel,
 Helcana, and Jesuni, and Ozriel, and Jozara, and Sobocam, and the Corites,
@@ -10762,7 +10763,6 @@ And from the country beyond Jordan, from Ruben, and the Gadites, and from the ha
 All these were men of war, setting the army in battle array, with a peaceful mind towards him, and they came to Chebron to make David king over all Israel: and the rest of Israel were of one mind to make David king.
 And they were there three days eating and drinking, for their brethren had made preparations.
 And their neighbors, as far as Issachar and Zabulon and Nephthali, brought to them upon camels, and asses, and mules, and upon calves, food, meal, cakes of figs, raisins, wine, and oil, calves and sheep abundantly: for there was joy in Israel.
-
 And David took counsel with the captains of thousands and captains of hundreds, even with every commander.
 And David said to the whole congregation of Israel, If it seem good to you, and it should be prospered by the Lord our God, let us send to our brethren that are left in all the land of Israel, and let the priests the Levites who are with them in the cities of their possession come, and let them be gathered to us.
 And let us bring over to us the ark of our God; for men have not enquired at it since the days of Saul.
@@ -11214,7 +11214,6 @@ And Solomon collected chariots and horsemen: and he had fourteen hundred chariot
 And the king made silver and gold in Jerusalem to be as stones, and cedars in Judea as sycamores in the plain for multitude.
 And Solomon imported horses from Egypt, and the charge of the king's merchants for going was as follows, and they traded,
 and went and brought out of Egypt a chariot for six hundred pieces of silver, and a horse for one hundred and fifty pieces of silver: and so they brought for all the kings of the Chettites, and for the kings of Syria by their means.
-
 And Solomon said that he would build a house to the name of the Lord, and a house for his kingdom.
 And Solomon gathered seventy thousand men that bore burdens, and eighty thousand hewers of stone in the mountain, and there were three thousand six hundred superintendents over them.
 And Solomon sent to Chiram king of Tyre, saying, Whereas you did deal favourably with David my father, and did send him cedars to build for himself a house to dwell in,
@@ -11232,6 +11231,7 @@ And now I have sent you a wise and understanding man who belonged to Chiram my f
 And now, the wheat, and the barley, and the oil, and the wine which my lord mentioned, let him send to his servants.
 And we will cut timber out of Libanus according to all your need, and we will bring it on rafts to the sea of Joppa, and you shall bring it to Jerusalem.
 And Solomon gathered all the foreigners that were in the land of Israel, after the numbering with which David his father numbered them; and there were found one hundred and fifty-three thousand six hundred.
+And he made of them seventy thousand burden-bearers, and eighty thousand hewers of stone, and three thousand six hundred taskmasters over the people.
 And Solomon began to build the house of the Lord in Jerusalem in the mount of Amoria, where the Lord appeared to his father David, in the place which David had prepared in the threshing floor of Orna the Jebusite.
 And he began to build in the second month, in the fourth year of his reign.
 And thus Solomon began to build the house of God: the length in cubits—even the first measurement from end to end, was sixty cubits, and the breadth twenty cubits.
@@ -11478,7 +11478,6 @@ And Abia pursued after Jeroboam, and he took from him the cities, Baethel and he
 And Jeroboam did not recover strength again all the days of Abia: and the Lord struck him, and he died.
 But Abia strengthened himself, and took to himself fourteen wives, and he begot twenty-two sons, and sixteen daughters.
 And the rest of the acts of Abia, and his deeds, and his sayings, are written in the book of the prophet Addo.
-
 And Abia died with his fathers, and they buried him in the city of David; and Asa his son reigned in his stead. In the days of Asa the land of Juda had rest ten years.
 And he did that which was good and right in the sight of the Lord his God.
 And he removed the altars of the strange gods, and the high places, and broke the pillars in pieces, and cut down the groves:
@@ -11493,6 +11492,7 @@ And Asa cried to the Lord his God, and said, O Lord, it is not impossible with y
 And the Lord struck the Ethiopians before Juda; and the Ethiopians fled.
 And Asa and his people pursued them to Gedor; and the Ethiopians fell, so that they could not recover themselves; for they were crushed before the Lord, and before his host; and they took many spoils.
 And they destroyed their towns roundabout Gedor; for a terror of the Lord was upon them: and they spoiled all their cities, for they had much spoil.
+Also they destroyed the tents of cattle, and the Alimazons, and took many sheep and camels, and returned to Jerusalem.
 And Azarias the son of Oded—upon him came the Spirit of the Lord,
 and he went out to meet Asa, and all Juda and Benjamin, and said, Hear me, Asa, and all Juda and Benjamin. The Lord is with you, while you⌃ are with him; and if you⌃ seek him out, he will be found of you; but if you⌃ forsake him, he will forsake you.
 And Israel has been a long time without the true God, and without a priest to expound the truth, and without the law.
@@ -12362,12 +12362,6 @@ And after him Sadduc the son of Emmer repaired opposite his own house: and after
 After him repaired Anania son of Selemia, and Anom, the sixth son of Seleph, another portion: after him Mesulam the son of Barachia repaired over against his treasury.
 After him repaired Melchia the son of Sarephi as far as the house of the Nathinim, and the chapmen over against the gate of Maphecad, and as far as the steps of the corner.
 And between that and the sheep-gate the smiths and chapmen repaired.
-
-
-
-
-
-
 Now it came to pass, when Sanaballat heard that we were building the wall, that it was grievous to him, and he was very angry, and railed against the Jews.
 And he said before his brethren (that is the army of the Samaritans) Is it true that these Jews are building their city? do they indeed offer sacrifices? will they prevail? and will they this day restore the stones, after they have been burnt and made a heap of rubbish?
 And Tobias the Ammanite came near to him, and said to them, Do they sacrifice or eat in their place? shall not a fox go up and pull down their wall of stones?
@@ -12385,6 +12379,12 @@ And I looked, and arose, and said to the nobles, and to the captains, and to the
 And it came to pass, when our enemies heard that it was made known to us, and God had frustrated their counsel, that we all returned to the wall, every man to his work.
 And it came to pass from that day that half of them that had been driven forth, wrought the work, and half of them kept guard; and there were spears, and shields, and bows, and breastplates, and rulers behind the whole house of Juda,
 even of them that were building the wall:—and those who carried the burdens were under arms: each with one hand wrought his work, and with the other held his dart.
+And the builders wrought each man having his sword girded upon his loins, and so they built: and the trumpeter with his trumpet next to him.
+And I said to the nobles, and to the rulers, and to the rest of the people, The work is great and abundant, and we are dispersed upon the wall, each at a great distance from his brother.
+In whatever place you⌃ shall hear the sound of the cornet, there gather yourselves together to us; and our God shall fight for us.
+So we continued laboring at the work: and half of them held the spears from the rising of the morning until the stars appeared.
+And at that time I said to the people, Lodge you⌃ every man with his servant in the midst of Jerusalem, and let the night be a watch-time to you, and the day a work-time.
+And I was there, and the watchmen behind me, and there was not a man of us that put off his garments.
 And the cry of the people and their wives was great against their brethren the Jews.
 And some said, We are numerous with our sons and our daughters; so we will take corn, and eat, and live.
 And some said, As to our fields and vineyards and houses, let us pledge them, and we will take corn, and eat.
@@ -12490,11 +12490,11 @@ These sought the pedigree of their company, and it was not found, and they were 
 And the Athersastha said, that they should not eat of the most holy things, until a priest should stand up to give light.
 And all the congregation was about forty-two thousand three hundred and sixty,
 besides their menservants and their maidservants: these were seven thousand three hundred and thirty seven: and the singing-men and singing-women, two hundred and forty-five.
-<range>
 Two thousand seven hundred asses.
 And part of the heads of families gave into the treasury to Neemias for the work a thousand pieces of gold, fifty bowls, and thirty priests' garments.
 And some of the heads of families gave into the treasuries of the work, twenty thousand pieces of gold, and two thousand three hundred pounds of silver.
 And the rest of the people gave twenty thousand pieces of gold, and two thousand two hundred pounds of silver, and sixty-seven priests' garments.
+And the priests, and Levites, and porters, and singers, and some of the people, and the Nathinim, and all Israel, lived in their cities.
 And the seventh month arrived, and the children of Israel were settled in their cities; and all the people were gathered as one man to the broad place before the water-gate, and they told Esdras the scribe to bring the book of the law of Moses, which the Lord commanded Israel.
 So Esdras the priest brought the law before the congregation both of men and women, and every one who had understanding was present to listen, on the first day of the seventh month.
 And he read in it from the time of sunrise to the middle of the day, before the men and the women; and they understood it, and the ears of all the people were attentive to the book of the law.
@@ -12550,6 +12550,7 @@ And our kings, and our princes, and our priests, and our fathers, have not perfo
 And they did not serve you in your kingdom, and in your great goodness which you gave to them, and in the large and fat land which you did furnish before them, and they turned not from their evil devices.
 Behold, we are servants this day, and as for the land which you gave to our fathers to eat the fruit of it and the good things of it, behold, we are servants upon it:
 and its produce is abundant for the kings whom you did appoint over us because of our sins; and they have dominion over our bodies, and over our cattle, as it pleases them, and we are in great affliction.
+And in regard to all these circumstances we make a covenant, and write it, and our princes, our Levites, and our priests, set their seal to it.
 And over them that sealed were Neemias the Artasastha, son of Achalia, and Zedekias,
 the son of Araea, and Azaria, and Jeremia,
 Phasur, Amaria, Melchia,
@@ -12589,7 +12590,6 @@ the firstborn of our sons, and of our cattle, as it is written in the law, and t
 And the first fruits of our corn, and the fruit of every tree, of wine, and of oil, will we bring to the priests to the treasury of the house of God; and a tithe of our land to the Levites: for the Levites themselves shall receive tithes in all the cities of the land we cultivate.
 And the priest the son of Aaron shall be with the Levites in the tithe of the Levite: and the Levites shall bring up the tenth part of their tithe to the house of our God, into the treasuries of the house of God.
 For the children of Israel and the children of Levi shall bring into the treasuries the first fruits of the corn, and wine, and oil; and there are the holy vessels, and the priests, and the ministers, and the porters, and the singers: and we will not forsake the house of our God.
-
 And the chiefs of the people lived in Jerusalem: and the rest of the people cast lots, to bring one of every ten to dwell in Jerusalem the holy city, and nine parts in the other cities.
 And the people blessed all the men that volunteered to dwell in Jerusalem.
 Now these are the chiefs of the province who lived in Jerusalem, and in the cities of Juda; every man lived in his possession in their cities: Israel, the priests, and the Levites, and the Nathinim, and the children of the servants of Solomon.
@@ -13890,17 +13890,9 @@ Or will you fasten a ring in his nostril, and bore his lip with a clasp?
 Will he address you with a petition? softly, with the voice of a suppliant?
 And will he make a covenant with you? and will you take him for a perpetual servant?
 And will you play with him as with a bird? or bind him as a sparrow for a child?
-And do the nations feed upon him, and the nations of the Phoenicians share him?
-And all the ships come together would not be able to bear the mere skin of his tail; neither shall they carry his head in fishing vessels.
-But you shall lay your hand upon him once, remembering the war that is waged by his mouth; and let it not be done any more.
-
-
-
-
-
-Have you not seen him? and have you not wondered at the things said of him? Do you not fear because preparation has been made by me? for who is there that resists me?
-Or who will resist me, and abide, since the whole world under heaven is mine?
-I will not be silent because of him: though because of his power one shall pity his antagonist.
+And do the nations feed upon him, and the nations of the Phoenicians share him? Have you not seen him? and have you not wondered at the things said of him? Do you not fear because preparation has been made by me? for who is there that resists me?
+And all the ships come together would not be able to bear the mere skin of his tail; neither shall they carry his head in fishing vessels. Or who will resist me, and abide, since the whole world under heaven is mine?
+But you shall lay your hand upon him once, remembering the war that is waged by his mouth; and let it not be done any more. I will not be silent because of him: though because of his power one shall pity his antagonist.
 Who will open the face of his garment? and who can enter within the fold of his breastplate?
 Who will open the doors of his face? terror is round about his teeth.
 His inwards are as brazen plates, and the texture of his skin as a smyrite stone.
@@ -13923,6 +13915,14 @@ He makes the deep boil like a brazen caldron; and he regards the sea as a pot of
 and the lowest part of the deep as a captive: he reckons the deep as his range.
 There is nothing upon the earth like to him, formed to be sported with by my angels.
 He beholds every high thing: and he is king of all that are in the waters.
+
+
+
+
+
+
+
+
 
 Then Job answered and said to the Lord,
 I know that you can do all things, and nothing is impossible with you.
@@ -13959,6 +13959,7 @@ You shall rule them with a rod of iron; you shall dash them in pieces as a potte
 Now therefore understand, you⌃ kings: be instructed, all you⌃ that judge the earth.
 Serve the Lord with fear, and rejoice in him with trembling.
 Accept correction, lest at any time the Lord be angry, and you⌃ should perish from the righteous way: whenever his wrath shall be suddenly kindled, blessed are all they that trust in him.
+
 O Lord, why are they that afflict me multiplied? many rise up against me.
 Many say concerning my soul, There is no deliverance for him in his God. Pause.
 But you, O Lord, are my helper: my glory, and the one that lifts up my head.
@@ -14048,8 +14049,7 @@ The Lord is known as executing judgments: the sinner is taken in the works of hi
 Let sinners be driven away into Hades, even all the nations that forget God.
 For the poor shall not be forgotten for ever: the patience of the needy ones shall not perish for ever.
 Arise, O Lord, let not man prevail: let the heathen be judged before you.
-Appoint, O Lord, a lawgiver over them: let the heathen know that they are men. Pause. (Psalm 9a)
-Why stand you afar off, O Lord? why do you overlook us in times of need, in affliction?
+Appoint, O Lord, a lawgiver over them: let the heathen know that they are men. Pause. (Psalm 9a) Why stand you afar off, O Lord? why do you overlook us in times of need, in affliction?
 In the Lord I have put my trust: how will you⌃ say to my soul,
 Flee to the mountains as a sparrow?
 For behold the sinners have bent their bow, they have prepared their arrows for the quiver, to shoot privily at the upright in heart.
@@ -14075,6 +14075,7 @@ who have said, We will magnify our tongue; our lips are our own: who is Lord of 
 Because of the misery of the poor, and because of the sighing of the needy, now will I arise, says the Lord, I will set them in safety; I will speak to them thereof openly.
 The oracles of the Lord are pure oracles; as silver tried in the fire, proved in a furnace of earth, purified seven times.
 You, O Lord, shall keep us, and shall preserve us, from this generation, and for ever.
+
 How long, O Lord, will you forget me? for ever? how long will you turn away your face from me?
 How long shall I take counsel in my soul, having sorrows in my heart daily? how long shall my enemy be exalted over me?
 Look on me, listen to me, O Lord my God: lighten my eyes, lest I sleep in death;
@@ -14088,8 +14089,7 @@ The fool has said in his heart, There is no God. They have corrupted themselves,
 The Lord looked down from heaven upon the sons of men, to see if there were any that understood, or sought after god.
 They are all gone out of the way, they are together become good for nothing, there is none that does good, no not one. Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips: whose mouth is full of cursing and bitterness; their feet are swift to shed blood: destruction and misery are in their ways; and the way of peace they have not known: there is no fear of God before their eyes.
 Will not all the workers of iniquity know, who eat up my people as they would eat bread? they have not called upon the Lord.
-There were they alarmed with fear, where there was no fear; for God is in the righteous generation.
-You⌃ have shamed the counsel of the poor, because the Lord is his hope.
+There were they alarmed with fear, where there was no fear; for God is in the righteous generation. You⌃ have shamed the counsel of the poor, because the Lord is his hope.
 O Lord, who shall sojourn in your tabernacle? and who shall dwell in your holy mountain?
 He that walks blameless, and works righteousness, who speaks truth in his heart.
 Who has not spoken craftily with his tongue, neither has done evil to his neighbor, nor taken up a reproach against them that lived nearest to him.
@@ -14128,6 +14128,7 @@ At the brightness before him the clouds passed, hail and coals of fire.
 The Lord also thundered from heaven, and the Highest uttered his voice.
 And he sent forth his weapons, and scattered them; and multiplied lightnings, and routed them.
 And the springs of waters appeared, and the foundations of the world were exposed, at your rebuke, O Lord, at the blasting of the breath of your wrath.
+
 The heavens declare the glory of God; and the firmament proclaims the work of his hands.
 Day to day utters speech, and night to night proclaims knowledge.
 There are no speeches or words, in which their voices are not heard.
@@ -14202,8 +14203,8 @@ His glory is great in your salvation: you will crown him with glory and majesty.
 For you will give him a blessing for ever and ever: you will gladden him with joy with your countenance.
 For the king trusts in the Lord, and through the mercy of the Highest he shall not be moved.
 Let your hand be found by all your enemies: let your right hand find all that hate you.
-You shall make them as a fiery oven at the time of your presence: the Lord shall trouble them in his anger, and fire shall devour them.
-You shall destroy their fruit from the earth, and their seed from among the sons of men.
+You shall make them as a fiery oven at the time of your presence: the Lord shall trouble them in his anger, and fire shall devour them. You shall destroy their fruit from the earth, and their seed from among the sons of men.
+
 O God, my God, attend to me: why have you forsaken me? the account of my transgressions is far from my salvation.
 O my God, I will cry to you by day, but you will not hear: and by night, and it shall not be accounted for folly to me.
 But you, the praise of Israel, dwell in a sanctuary.
@@ -14216,15 +14217,14 @@ For you are he that drew me out of the womb; my hope from my mother's breasts.
 I was cast on you from the womb: you are my God from my mother's belly.
 Stand not aloof from me; for affliction is near; for there is no helper.
 Many bullocks have compassed me: fat bulls have beset me round.
-They have opened their mouth against me, as a ravening and roaring lion.
-I am poured out like water, and all my bones are loosened: my heart in the midst of my belly is become like melting wax.
+They have opened their mouth against me, as a ravening and roaring lion. I am poured out like water, and all my bones are loosened: my heart in the midst of my belly is become like melting wax.
+
 The Lord tends me as a shepherd, and I shall lack nothing.
 In a place of green grass, there he has made me dwell: he has nourished me by the water of rest.
 He has restored my soul: he has guided me into the paths of righteousness, for his name's sake.
 Yes, even if I should walk in the midst of the shadow of death, I will not be afraid of evils: for you are with me; your rod and your staff, these have comforted me.
 You have prepared a table before me in presence of them that afflict me: you have thoroughly anointed my head with oil; and your cup cheers me like the best wine.
 Your mercy also shall follow me all the days of my life: and my dwelling shall be in the house of the Lord for a very long time.
-
 
 
 
@@ -14334,6 +14334,7 @@ To you, O Lord, will I cry; and to my God will I make supplication.
 What profit is there in my blood, when I go down to destruction? Shall the dust give praise to you? or shall it declare your truth?
 The Lord heard, and had compassion upon me; the Lord is become my helper.
 You have turned my mourning into joy for me: you have torn off my sackcloth, and girded me with gladness;
+
 O Lord, I have hoped in you; let me never be ashamed: deliver me in your righteousness and rescue me.
 Incline your ear to me; make haste to rescue me: be you to me for a protecting God, and for a house of refuge to save me.
 For you are my strength and my refuge; and you shall guide me for your name's sake, and maintain me.
@@ -14345,8 +14346,8 @@ And you have not shut me up into the hands of the enemy: you have set my feet in
 Pity me, O Lord, for I am afflicted: my eye is troubled with indignation, my soul and by belly.
 For my life is spent with grief, and my years with groanings: my strength has been weakened through poverty, and my bones are troubled.
 I became a reproach among all my enemies, but exceedingly so to my neighbors, and a fear to my acquaintance: they that saw me without fled from me.
-I have been forgotten as a dead man out of mind: I am become as a broken vessel.
-For I heard the slander of many that lived round about: when they were gathered together against me, they took counsel to take my life.
+I have been forgotten as a dead man out of mind: I am become as a broken vessel. For I heard the slander of many that lived round about: when they were gathered together against me, they took counsel to take my life.
+
 Blessed are they whose transgressions are forgiven, and who sins are covered.
 Blessed is the man to whom the Lord will not impute sin, and whose mouth there is no guile.
 Because I kept silence, my bones waxed old, from my crying all the day.
@@ -14358,7 +14359,6 @@ I will instruct you and guide you in this way wherein you shall go: I will fix m
 Be you⌃ not as horse and mule, which have no understanding; but you must constrain their jaws with bit and curb, lest they should come near to you.
 Many are the scourges of the sinner: but him that hopes in the Lord mercy shall compass about.
 Be glad in the Lord, and exult, you⌃ righteous: and glory, all you⌃ that are upright in heart.
-
 
 
 
@@ -14405,6 +14405,7 @@ Many are the afflictions of the righteous: but out of them all Lord will deliver
 He keeps all their bones: not one of them shall be broken.
 The death of sinners is evil: and they that hate righteousness will go wrong.
 The Lord will redeem the souls of his servants: and none of those that hope in him shall go wrong.
+
 Judge you, O Lord, them that injure me, fight against them that fight against me.
 Take hold of shield and buckler, and arise for my help.
 Bring forth a sword, and stop the way against them that persecute me: say to my soul, I am your salvation.
@@ -14426,8 +14427,7 @@ I will give thanks to you even in a great congregation: in an abundant people I 
 Let not them that are my enemies without a cause rejoice against me; who hate me for nothing, and wink with their eyes.
 For to me they spoke peaceably, but imagined deceits in their anger.
 And they opened wide their mouth upon me; they said Aha, aha, our eyes have seen it.
-You have seen it, O Lord: keep not silence: O Lord, withdraw not yourself from me.
-Awake, O Lord, and attend to my judgment, even to my cause, my God and my Lord.
+You have seen it, O Lord: keep not silence: O Lord, withdraw not yourself from me. Awake, O Lord, and attend to my judgment, even to my cause, my God and my Lord.
 The transgressor, that he may sin, says within himself, that there is no fear of God before his eyes.
 For he has dealt craftily before him, to discover his iniquity and hate it.
 The words of his mouth are transgression and deceit: he is not inclined to understand how to do good.
@@ -14456,6 +14456,7 @@ There have all the workers of iniquity fallen: they are cast out, and shall not 
 
 
 
+
 Fret not yourself because of evil-doers, neither be envious of them that do iniquity.
 For they shall soon be withered as the grass, and shall soon fall away as the green herbs.
 Hope in the Lord, and do good; and dwell on the land, and you shall be fed with the wealth of it.
@@ -14467,8 +14468,7 @@ ease from anger, and forsake wrath: fret not yourself so as to do evil.
 For evil-doers shall be destroyed: but they that wait on the Lord, they shall inherit the land.
 And yet a little while, and the sinner shall not be, and you shall seek for his place, and shall not find it.
 But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
-The sinner will watch for the righteous, and gnash his teeth upon him.
-But the Lord shall laugh at him: for he foresees that his day will come.
+The sinner will watch for the righteous, and gnash his teeth upon him. But the Lord shall laugh at him: for he foresees that his day will come.
 O Lord, rebuke me not in your wrath, neither chasten me in your anger.
 For your weapons are fixed in me, and you have pressed your hand heavily upon me.
 For there is no health in my flesh because of your anger; there is no peace to my bones because of my sins.
@@ -14491,6 +14491,7 @@ But my enemies live, and are mightier than I: and they that hate me unjustly are
 They that reward evil for good slandered me; because I followed righteousness.
 Forsake me not, O Lord my God: depart not from me.
 Draw near to my help, O Lord of my salvation.
+
 
 
 
@@ -14544,8 +14545,8 @@ I have preached righteousness in the great congregation; behold! I will not refr
 I have not hid your truth within my heart, and I have declared your salvation; I have not hid your mercy and your truth from the great congregation.
 But you, Lord, remove not your compassion far from me; your mercy and your truth have helped me continually.
 For innumerable evils have encompassed me; my transgressions have taken hold of me, and I could not see; they are multiplied more than the hairs of my head; and my heart has failed me.
-Be pleased, O Lord, to deliver me; O Lord, draw near to help me.
-Let those that seek my soul, to destroy it, be ashamed and confounded together; let those that wish me evil be turned backward and put to shame.
+Be pleased, O Lord, to deliver me; O Lord, draw near to help me. Let those that seek my soul, to destroy it, be ashamed and confounded together; let those that wish me evil be turned backward and put to shame.
+
 Blessed is the man who thinks, on the poor and needy: the Lord shall deliver him in an evil day.
 May the Lord preserve him and keep him alive, and bless him on the earth, and not deliver him into the hands of his enemy.
 May the Lord help him upon the bed of his pain; you have made all his bed in his sickness.
@@ -14589,12 +14590,12 @@ Therefore are you very sad, O my soul? and therefore do you trouble me? Hope in 
 
 
 
-
 O God, we have heard with our ears, our fathers have told us, the work which you wrought in their days, in the days of old.
 Your hand utterly destroyed the heathen, and you did plant them: you did afflict the nations, and cast them out.
 For they inherited not the land by their own sword, and their own arm did not deliver them; but your right hand, and your arm, and the light of your countenance, because you were well pleased in them.
 You are indeed my King and my God, who command deliverances for Jacob.
 In you will we push down our enemies, and in your name will we bring to nothing them that rise up against us.
+
 My heart has uttered a good matter: I declare my works to the king: my tongue is the pen of a quick writer.
 You are more beautiful than the sons of men: grace has been shed forth on your lips: therefore God has blessed you for ever.
 Gird your sword upon your thigh, O Mighty One, in your comeliness, and in your beauty;
@@ -14660,8 +14661,8 @@ They saw, and so they wondered: they were troubled, they were moved.
 Trembling took hold on them: there were the pangs as of a woman in travail.
 You will break the ships of Tharsis with a vehement wind.
 As we have heard, so have we also seen, in the city of the Lord of hosts, in the city of our God: God has founded it for ever. Pause.
-We have thought of your mercy, O God, in the midst of your people.
-According to your name, O God, so is also your praise to the ends of the earth: your right hand is full of righteousness.
+We have thought of your mercy, O God, in the midst of your people. According to your name, O God, so is also your praise to the ends of the earth: your right hand is full of righteousness.
+
 Hear these words, all you⌃ nations, listen, all you⌃ that dwell upon the earth:
 both the sons of mean men, and sons of great men; the rich and poor man together.
 My mouth shall speak of wisdom; and the meditation of my heart shall bring forth understanding.
@@ -14675,8 +14676,8 @@ When he shall see wise men dying, the fool and the senseless one shall perish to
 And their sepulchres are their houses for ever, even their tabernacles to all generations: they have called their lands after their own names.
 And man being in honor, understands not: he is compared to the senseless cattle, and is like to them.
 This their way is an offense to them: yet afterwards men will commend their sayings. Pause.
-They have laid them as sheep in Hades; death shall feed on them; and the upright shall have dominion over them in the morning, and their help shall fail in Hades from their glory.
-But God shall deliver my soul from the power of Hades, when he shall receive me. Pause.
+They have laid them as sheep in Hades; death shall feed on them; and the upright shall have dominion over them in the morning, and their help shall fail in Hades from their glory. But God shall deliver my soul from the power of Hades, when he shall receive me. Pause.
+
 The God of gods, the Lord, has spoken, and called the earth from the rising of the sun to the going down thereof.
 Out of Sion comes the excellence of his beauty.
 God, our God, shall come manifestly, and shall not keep silence: a fire shall be kindled before him, and round about him there shall be a very great tempest.
@@ -14696,8 +14697,7 @@ But to the sinner God has said, Why do you declare my ordinances, and take up my
 Whereas you have hated instruction, and have cast my words behind you.
 If you saw a thief, you ran along with him, and have cast in your lot with adulterers.
 Your mouth has multiplied wickedness, and your tongue has framed deceit.
-You did sit and speak against your brother, and did scandalize your mother's son.
-These things you did, and I kept silence: you thought wickedly that I should be like you, but I will reprove you, and set your offenses before you.
+You did sit and speak against your brother, and did scandalize your mother's son. These things you did, and I kept silence: you thought wickedly that I should be like you, but I will reprove you, and set your offenses before you.
 Have mercy upon me, O God, according to your great mercy; and according to the multitude of your compassions blot out my transgression.
 Wash me thoroughly from my iniquity, and cleanse me from my sin.
 For I am conscious of my iniquity; and my sin is continually before me.
@@ -14717,6 +14717,8 @@ For if you desired sacrifice, I would have given it: you will not take pleasure 
 Sacrifice to God is a broken spirit: a broken and humbled heart God will not despise.
 Do good, O Lord, to Sion in your good pleasure; and let the walls of Jerusalem be built.
 Then shall you be pleased with a sacrifice of righteousness, offering, and whole burnt sacrifices: then shall they offer calves upon your altar.
+
+
 
 
 
@@ -14752,23 +14754,22 @@ Who will bring the salvation of Israel out of Sion? When the Lord turns the capt
 
 
 
-
 Save me, O God, by your name, and judge me by your might.
 O God, hear my prayer; listen to the words of my mouth.
 For strangers have risen up against me, and mighty men have sought my life: they have not set God before them. Pause.
 For behold! God assists me; and the Lord is the helper of my soul.
 He shall return evil to my enemies; utterly destroy them in your truth.
-I will willingly sacrifice to you: I will give thanks to your name, O Lord; for it is good.
-For you have delivered me out of all affliction, and my eye has seen my desire upon my enemies.
+I will willingly sacrifice to you: I will give thanks to your name, O Lord; for it is good. For you have delivered me out of all affliction, and my eye has seen my desire upon my enemies.
+
+
 Listen, O God, to my prayer; and disregard not my supplication.
 Attend to me, and listen to me: I was grieved in my meditation, and troubled;
 because of the voice of the enemy, and because of the oppression of the sinner: for they brought iniquity against me, and were wrathfully angry with me.
 My heart was troubled within me; and the fear of death fell upon me.
 Fear and trembling came upon me, and darkness covered me.
-And I said, O that I had wings as those of a dove! then would I flee away, and be at rest.
-Behold! I have fled afar off, and lodged in the wilderness. Pause.
-I waited for him that should deliver me from distress of spirit and tempest.
-Destroy, O Lord, and divide their tongues: for I have seen iniquity and gain saying in the city.
+And I said, O that I had wings as those of a dove! then would I flee away, and be at rest. I waited for him that should deliver me from distress of spirit and tempest.
+Behold! I have fled afar off, and lodged in the wilderness. Pause. Destroy, O Lord, and divide their tongues: for I have seen iniquity and gain saying in the city.
+
 Have mercy upon me, O God; for man has trodden me down; all the day long he warring has afflicted me.
 Mine enemies have trodden me down all the day from the dawning of the day; for there are many warring against me.
 They shall be afraid, but I will trust in you.
@@ -14829,8 +14830,8 @@ Behold, they shall utter a voice with their mouth, and a sword is in their lips;
 But you, Lord, will laugh them to scorn; you will utterly set at nothing all the heathen.
 will keep my strength, looking to you; for you, O God, are my helper.
 As for my God, his mercy shall go before me: my God will show me vengeance on my enemies.
-Slay them not, lest they forget your law; scatter them by your power; and bring them down, O Lord, my defender.
-For the sin of their mouth, and the word of their lips, let them be even taken in their pride.
+Slay them not, lest they forget your law; scatter them by your power; and bring them down, O Lord, my defender. For the sin of their mouth, and the word of their lips, let them be even taken in their pride.
+
 O God, you have rejected and destroyed us; you have been angry, yet have pitied us.
 You have shaken the earth, and troubled it; heal its breaches, for it has been shaken.
 You have shown your people hard things: you have made us drink the wine of astonishment.
@@ -14843,6 +14844,7 @@ Who will lead me into the fortified city? who will guide me as far a Idumea?
 Will not you, O God, who have cast us off? and will not you, O God, go forth with our forces?
 Give us help from trouble: for vain is the deliverance of man.
 In God will we do valiantly; and he shall bring to nothing them that harass us.
+
 
 
 
@@ -14862,7 +14864,6 @@ So will I sing to your name for ever and ever, that I may daily perform my vows.
 
 
 
-
 Shall not my soul be subjected to God? for of him is my salvation.
 For he is my God, and my savior; my helper, I shall not be moved very much.
 How long will you⌃ assault a man? you⌃ are all slaughtering as with a bowed wall and a broken hedge.
@@ -14870,8 +14871,8 @@ They only took counsel to set at nothing my honor: I ran in thirst: with their m
 Nevertheless do you, my soul, be subjected to God; for of him is my patient hope.
 For he is my God and my Saviour; my helper, I shall not be moved.
 In God is my salvation and my glory: he is the God of my help, and my hope is in God.
-Hope in him, all you⌃ congregation of the people; pour out your hearts before him, for God is our helper. Pause.
-But the sons of men are vain; the sons of men are false, so as to be deceitful in the balances; they are all alike formed out of vanity.
+Hope in him, all you⌃ congregation of the people; pour out your hearts before him, for God is our helper. Pause. But the sons of men are vain; the sons of men are false, so as to be deceitful in the balances; they are all alike formed out of vanity.
+
 O God, my God, I cry to you early; my soul has thirsted for you: how often has my flesh longed after you, in a barren and trackless and dry land!
 Thus have I appeared before you in the sanctuary, that I might see your power and your glory.
 For your mercy is better than life: my lips shall praise you.
@@ -14906,8 +14907,8 @@ who do establish the mountains in your strength, being girded about with power;
 who trouble the depth of the sea, the sounds of its waves.
 The nations shall be troubled, and they that inhabit the ends of the earth shall be afraid of your signs; you will cause the outgoings of morning and evening to rejoice.
 You have visited the earth, and saturated it; you have abundantly enriched it. The river of God is filled with water; you have prepared their food, for thus is the preparation of it.
-Saturate her furrows, multiply her fruits; the crop springing up shall rejoice in its drops.
-You will bless the crown of the year because of your goodness; and your plains shall be filled with fatness.
+Saturate her furrows, multiply her fruits; the crop springing up shall rejoice in its drops. You will bless the crown of the year because of your goodness; and your plains shall be filled with fatness.
+
 Shout to God, all the earth.
 O sing praises to his name; give glory to his praise.
 Say to God, How awful are your works! through the greatness of your power your enemies shall lie to you.
@@ -14920,8 +14921,7 @@ who quickens my soul in life, and does not suffer my feet to be moved.
 For you, O God, has proved us; you have tried us with fire as silver is tried.
 You brought us into the snare; you laid afflictions on our back.
 You did mount men upon our heads; we went through the fire and water; but you brought us out into a place of refreshment.
-I will go into your house with whole burnt offerings; I will pay you my vows,
-which my lips framed, and my mouth uttered in my affliction.
+I will go into your house with whole burnt offerings; I will pay you my vows, which my lips framed, and my mouth uttered in my affliction.
 God be merciful to us, and bless us; and cause his face to shine upon us. Pause.
 That men may know your way on the earth, your salvation among all nations.
 Let the nations, O God, give thanks to you; let all the nations give thanks to you.
@@ -14942,14 +14942,15 @@ Let God bless us; and let all the ends of the earth fear him.
 
 
 
+
 Let God arise, and let his enemies be scattered; and let them that hate him flee from before him.
 As smoke vanishes, let them vanish: as wax melts before the fire, so let the sinners perish from before God.
 But let the righteous rejoice; let them exult before God: let them be delighted with joy.
 Sing to God, sing praises to his name: make a way for him that rides upon the west (the Lord is his name) and exult before him. They shall be troubled before the face of him,
 who is the father of the orphans, and judge of the widows: such is God in his holy place.
 God settles the solitary in a house; leading forth prisoners mightily, also them that act provokingly, even them that dwell in tombs.
-O God, when you went forth before your people, when you went through the wilderness; Pause:
-the earth quaked, yes, the heavens dropped water at the presence of the God of Sina, at the presence of the God of Israel.
+O God, when you went forth before your people, when you went through the wilderness; Pause: the earth quaked, yes, the heavens dropped water at the presence of the God of Sina, at the presence of the God of Israel.
+
 Save me, O God; for the waters have come in to my soul.
 I am stuck fast in deep mire, and there is no standing: I am come in to the depths of the sea, and a storm has overwhelmed me.
 I am weary of crying, my throat has become hoarse; my eyes have failed by my waiting on my God.
@@ -14984,8 +14985,8 @@ and this shall please God more than a young calf having horns and hoofs.
 Let the poor see and rejoice; seek the Lord diligently, and you⌃ shall live.
 For the Lord hears the poor, and does not set at nothing his fettered ones.
 Let the heavens and the earth raise him, the sea, and all things moving in them.
-For God will save Sion, and the cities of Judea shall be built; and men shall dwell there, and inherit it.
-And the seed of his servants shall possess it, and they that love his name shall dwell therein.
+For God will save Sion, and the cities of Judea shall be built; and men shall dwell there, and inherit it. And the seed of his servants shall possess it, and they that love his name shall dwell therein.
+
 Draw near, O God, to my help.
 Let them be ashamed and confounded that seek my soul: let them be turned backward and put to shame, that wish me evil.
 Let them that say to me, Aha, aha, be turned back and put to shame immediately.
@@ -15027,8 +15028,7 @@ O Lord, I have hoped in you: let me never be put to shame.
 In your righteousness deliver me and rescue me: incline your ear to me, and save me.
 Be to me a protecting God, and a strong hold to save me: for you are my fortress and my refuge.
 Deliver me, O my God, from the hand of the sinner, from the hand of the transgressor and unjust man.
-For you are my support, O Lord; O Lord, you are my hope from my youth.
-On you have I been stayed from the womb: from the belly of my mother you are my protector: of you is my praise continually.
+For you are my support, O Lord; O Lord, you are my hope from my youth. On you have I been stayed from the womb: from the belly of my mother you are my protector: of you is my praise continually.
 O God, give your judgment to the king, and your righteousness to the king's son;
 that he may judge your people with righteousness, and your poor with judgment.
 Let the mountains and the hills raise peace to your people:
@@ -15124,6 +15124,7 @@ And I will break all the horns of sinners; but the horns of the righteous one sh
 
 
 
+
 God is known in Judea: his name is great in Israel.
 And his place has been in peace, and his dwelling-place in Sion.
 There he broke the power of the bows, the shield, and the sword, and the battle. Pause.
@@ -15133,8 +15134,8 @@ At your rebuke, O God of Jacob, the riders on horses slumbered.
 You are terrible; and who shall withstand you, because of your anger?
 You did cause judgment to be heard from heaven; the earth feared, and was still,
 when God arose to judgment, to save all the meek in heart. Pause.
-For the inward thought of man shall give thanks to you: and the memorial of his inward thought shall keep a feast to you.
-Vow, and pay your vows to the Lord our God; all that are round about him shall bring gifts, even to him that is terrible,
+For the inward thought of man shall give thanks to you: and the memorial of his inward thought shall keep a feast to you. Vow, and pay your vows to the Lord our God; all that are round about him shall bring gifts, even to him that is terrible,
+
 I cried to the Lord with my voice, yes, my voice was addressed to God; and he gave heed to me.
 In the day of my affliction I earnestly sought the Lord; even with my hands by night before him, and I was not deceived; my soul refused to be comforted.
 I remembered God, and rejoiced; I poured out my complaint, and my soul fainted. Pause.
@@ -15146,8 +15147,8 @@ Will he cut off his mercy for ever, even for ever and ever?
 Will God forget to pity? or will he shut up his compassions in his wrath? Pause.
 And I said, Now I have begun; this is the change of the right hand of the Most High.
 I remembered the works of the Lord; for I will remember your wonders from the beginning.
-And I will meditate on all your works, and will consider your doings.
-O God, your way is in the sanctuary; who is a great God as our God?
+And I will meditate on all your works, and will consider your doings. O God, your way is in the sanctuary; who is a great God as our God?
+
 Give heed, O my people, to my law: incline your ear to the words of my mouth.
 I will open my mouth in parables: I will utter dark sayings which have been from the beginning.
 All which we have heard and known, and our fathers have declared to us.
@@ -15167,8 +15168,7 @@ And he brought water out of the rock, and caused waters to flow down as rivers.
 And they sinned yet more against him; they provoked the Most High in the wilderness.
 And they tempted God in their hearts, in asking meat for the desire of their souls.
 They spoke also against God, and said, Will God be able to prepare a table in the wilderness?
-Forasmuch as he struck the rock, and the waters flowed, and the torrents ran abundantly; will he be able also to give bread, or prepare a table for his people?
-Therefore the Lord heard, and was provoked: and fire was kindled in Jacob, and wrath went up against Israel.
+Forasmuch as he struck the rock, and the waters flowed, and the torrents ran abundantly; will he be able also to give bread, or prepare a table for his people? Therefore the Lord heard, and was provoked: and fire was kindled in Jacob, and wrath went up against Israel.
 O God, the heathen are come into your inheritance; they have polluted your holy temple; they have made Jerusalem a storehouse of fruits.
 They have given the dead bodies of your servants to be food for the birds of the sky, the flesh of your holy ones for the wild beasts of the earth.
 They have shed their blood as water, round about Jerusalem; and there was none to bury them.
@@ -15254,6 +15254,7 @@ Its shadow covered the mountains, and its shoots equalled the goodly cedars.
 It sent forth its branches to the sea, and its shoots to the river.
 Therefore have you broken down its hedge, while all that pass by the way pluck it?
 The boar out of the wood has laid it waste, and the wild beast has devoured it.
+
 Rejoice you⌃ in God our helper; shout aloud to the God of Jacob.
 Take a psalm, and produce the timbrel, the pleasant lute with the harp.
 Blow the trumpet at the new moon, in the glorious day of your feast.
@@ -15290,7 +15291,6 @@ Arise, O God, judge the earth: for you shall inherit all nations.
 
 
 
-
 O God, who shall be compared to you? be not silent, neither be still, O God.
 For behold, your enemies have made a noise; and they that hate you have lifted up the head.
 Against your people they have craftily imagined a device, and have taken counsel against your saints.
@@ -15299,6 +15299,7 @@ For they have taken counsel together with one consent: they have made a confeder
 even the tents of the Idumeans, and the Ismaelites; Moab, and the Agarenes;
 Gebal, and Ammon, and Amalec; the Philistines also, with them that dwell at Tyre.
 Yes, Assur too is come with them: they have become a help to the children of Lot. Pause.
+
 How amiable are your tabernacles, O Lord of hosts!
 My soul longs, and faints for the courts of the Lord: my heart and my flesh have exulted in the living god.
 Yes, the sparrow has found himself a home, and the turtle-dove a nest for herself, where she may lay her young, even your altars, O Lord of hosts, my King, and my God.
@@ -15329,8 +15330,8 @@ I will hear what the Lord God will say concerning me: for he shall speak peace t
 Moreover his salvation is near them that fear him; that glory may dwell in our land.
 Mercy and truth are met together: righteousness and peace have kissed each other.
 Truth has sprung out of the earth; and righteousness has looked down from heaven.
-For the Lord will give goodness; and our land shall yield her fruit.
-Righteousness shall go before him; and shall set his steps in the way.
+For the Lord will give goodness; and our land shall yield her fruit. Righteousness shall go before him; and shall set his steps in the way.
+
 O Lord, incline your ear, and listen to me; for I am poor and needy.
 Preserve my soul, for I am holy; save your servant, O God, who hopes in you.
 Pity me, O Lord: for to you will I cry all the day.
@@ -15343,8 +15344,7 @@ All nations whom you have made shall come, and shall worship before you, O Lord;
 For you are great, and do wonders: you are the only and the great God.
 Guide me, O Lord, in your way, and I will walk in your truth: let my heart rejoice, that I may fear your name.
 I will give you thanks, O Lord my God, with all my heart; and I will glorify your name for ever.
-For your mercy is great toward me; and you have delivered my soul from the lowest hell.
-O God, transgressors have risen up against me, and an assembly of violent men have sought my life; and have not set you before them.
+For your mercy is great toward me; and you have delivered my soul from the lowest hell. O God, transgressors have risen up against me, and an assembly of violent men have sought my life; and have not set you before them.
 His foundations are in the holy mountains.
 The Lord loves the gates of Sion, more than all the tabernacles of Jacob.
 Glorious things have been spoken of you, O city of God. Pause.
@@ -15369,6 +15369,7 @@ I have been reckoned with them that go down to the pit; I became as a man withou
 free among the dead, as the slain ones cast out, who sleep in the tomb; whom you remember no more; and they are rejected from your hand.
 They laid me in the lowest pit, in dark places, and in the shadow of death.
 Your wrath has pressed heavily upon me, and you have brought upon me all your billows. Pause.
+
 I will sing of your mercies, O Lord, for ever: I will declare your truth with my mouth to all generations.
 For you have said, Mercy shall be built up for ever: your truth shall be established in the heavens.
 I made a covenant with my chosen ones, I swore to David my servant.
@@ -15386,8 +15387,8 @@ Justice and judgment are the establishment of your throne: mercy and truth shall
 Blessed is the people that knows the joyful sound: they shall walk, O Lord, in the light of your countenance.
 And in your name shall they rejoice all the day: and in your righteousness shall they be exalted.
 For you are the boast of their strength; and in your good pleasure shall our horn be exalted,
-for our help is of the Lord; and of the Holy One of Israel, our king.
-Then you spoke in vision to your children, and said, I have laid help on a mighty one; I have exalted one chosen out of my people.
+for our help is of the Lord; and of the Holy One of Israel, our king. Then you spoke in vision to your children, and said, I have laid help on a mighty one; I have exalted one chosen out of my people.
+
 Lord, you have been our refuge in all generations.
 Before the mountains existed, and before the earth and the world were formed, even from age to age, You are.
 Turn not man back to his low place, whereas you said, Return, you⌃ sons of men?
@@ -15405,7 +15406,6 @@ We have been satisfied in the morning with your mercy; and we did exult and rejo
 let us rejoice in all our days, in return for the days wherein you did afflict us, the years wherein we saw evil.
 And look upon your servants, and upon your works; and guide their children.
 And let the brightness of the Lord our God be upon us: and do you direct for us the works of our hands.
-
 
 
 
@@ -15474,12 +15474,12 @@ They that are planted in the house of the Lord shall flourish in the courts of o
 Then shall they be increased in a fine old age; and they shall be prosperous; that they may declare
 that the Lord my God is righteous, and there is no iniquity in him.
 
+
 The Lord reigns; he has clothed himself with honor: the Lord has clothed and girded himself with strength; for he has established the world, which shall not be moved.
 Your throne is prepared of old: you are from everlasting.
 The rivers have lifted up, O Lord, the rivers have lifted up their voices,
 at the voices of many waters: the billows of the sea are wonderful: the Lord is wonderful in high places.
 Your testimonies are made very sure: holiness becomes your house, O Lord, for ever.
-
 
 
 
@@ -15585,6 +15585,7 @@ By reason of the voice of my groaning, my bone has cleaved to my flesh.
 I have become like a pelican of the wilderness;
 I have become like an owl in a ruined house. I have watched, and am become as a sparrow dwelling alone on a roof.
 All the day long my enemies have reproached me; and they that praised me have sworn against me.
+
 Bless the Lord, O my soul; and all that is within me, bless his holy name.
 Bless the Lord, O my soul, and forget not all his praises:
 who forgives all your transgressions, who heals all your diseases;
@@ -15607,7 +15608,6 @@ The Lord has prepared his throne in the heaven; and his kingdom rules over all.
 Bless the Lord, all you⌃ his angels, mighty in strength, who perform his bidding, ready to listen to the voice of his words.
 Bless the Lord, all you⌃ his hosts; you⌃ ministers of his that do his will.
 Bless the Lord, all his works, in every place of his dominion: bless the Lord, O my soul.
-
 
 
 
@@ -15807,6 +15807,7 @@ Through God we shall do valiantly; and he will bring to nothing our enemies.
 
 
 
+
 For the end, a Psalm of David. O God, pass not over my praise in silence;
 for the mouth of the sinner and the mouth of the crafty man have been opened against me: they have spoken against me with a crafty tongue.
 And they have compassed me with words of hatred; and fought against me without a cause.
@@ -15819,8 +15820,7 @@ Let his children be orphans, and his wife a widow.
 Let his children wander without a dwelling-place, and beg: let them be cast out of their habitations.
 Let his creditor exact all that belongs to him: and let strangers spoil his labors.
 Let him have no helper; neither let there be any one to have compassion on his fatherless children.
-Let his children be given up to utter destruction: in one generation let his name be blotted out.
-Let the iniquity of his fathers be remembered before the Lord; and let not the sin of his mother be blotted out.
+Let his children be given up to utter destruction: in one generation let his name be blotted out. Let the iniquity of his fathers be remembered before the Lord; and let not the sin of his mother be blotted out.
 The Lord said to my Lord, Sit you on my right hand, until I make your enemies your footstool.
 The Lord shall send out a rod of power for you out of Sion: rule you in the midst of your enemies.
 With you is dominion in the day of your power, in the splendors of your saints: I have begotten you from the womb before the morning.
@@ -16329,6 +16329,7 @@ Surely the righteous shall give thanks to your name: the upright shall dwell in 
 
 
 
+
 O Lord, I have cried to you; hear me: attend to the voice of my supplication, when I cry to you.
 Let my prayer be set forth before you as incense; the lifting up of my hands as an evening sacrifice.
 Set a watch, O Lord, on my mouth, and a strong door about by lips.
@@ -16342,7 +16343,6 @@ Sinners shall fall by their own net: I am alone until I shall escape.
 
 
 
-
 I cried to the Lord with my voice; with my voice I made supplication to the Lord.
 I will pour out before him my supplication: I will declare before him my affliction.
 When my spirit was fainting within me, then you knew my paths; in the very way wherein I was walking, they hid a snare for me.
@@ -16353,14 +16353,14 @@ Bring my soul out of prison, that I may give thanks to your name, O Lord; the ri
 
 
 
+
 O Lord, attend to my prayer: listen to my supplication in your truth; hear me in your righteousness.
 And enter not into judgment with your servant, for in your sight shall no man living be justified.
 For the enemy has persecuted my soul; he has brought my life down to the ground; he has made me to dwell in a dark place, as those that have been long dead.
 Therefore my spirit was grieved in me; my heart was troubled within me.
 I remembered the days of old; and I meditated on all your doings: yes, I meditated on the works of your hands.
 I spread forth my hands to you; my soul thirsts for you, as a dry land. Pause.
-Hear me speedily, O Lord; my spirit has failed; turn not away your face from me, else I shall be like to them that go down to the pit.
-Cause me to hear your mercy in the morning; for I have hoped in you; make known to me, O Lord, the way wherein I should walk; for I have lifted up my soul to you.
+Hear me speedily, O Lord; my spirit has failed; turn not away your face from me, else I shall be like to them that go down to the pit. Cause me to hear your mercy in the morning; for I have hoped in you; make known to me, O Lord, the way wherein I should walk; for I have lifted up my soul to you.
 Blessed be the Lord my God, who instructs my hands for battle, and my fingers for war.
 My mercy, and my refuge; my helper, and my deliverer; my protector, in whom I have trusted; who subdues my people under me.
 Lord, what is man, that you are made known to him? or the son of man, that you take account of him?
@@ -17465,8 +17465,7 @@ Better is a poor and wise child than an old and foolish king, who knows not how 
 For he shall come forth out of the house of the prisoners to reign, because he also that was in his kingdom has become poor.
 I saw all the living who were walking under the sun, with the second youth who shall stand up in each one's place.
 There is no end to all the people, to all who were before them: and the last shall not rejoice in him: for this also is vanity and waywardness of spirit.
-Keep your foot, whenever you go to the house of God; and when you are near to hear, let your sacrifice be better than the gift of fools: for they know not that they are doing evil.
-Be not hasty with your mouth, and let not your heart be swift to utter anything before God; for God is in heaven above, and you upon earth: therefore let your words be few.
+Keep your foot, whenever you go to the house of God; and when you are near to hear, let your sacrifice be better than the gift of fools: for they know not that they are doing evil. Be not hasty with your mouth, and let not your heart be swift to utter anything before God; for God is in heaven above, and you upon earth: therefore let your words be few.
 For through the multitude of trial a dream comes; and a fool's voice is with a multitude of words.
 Whenever you shall vow a vow to God, defer not to pay it; for he has no pleasure in fools: pay you therefore whatever you shall have vowed.
 It is better that you should not vow, than that you should vow and not pay.
@@ -17485,6 +17484,7 @@ Yes, all his days are in darkness, and in mourning, and much sorrow, and infirmi
 Behold, I have seen good, that it is a fine thing for a man to eat and to drink, and to see good in all his labor in which he may labor under the sun, all the number of the days of his life which God has given to him: for it is his portion.
 Yes, and as for every man to whom God has given wealth and possessions, and has given him power to eat thereof, and to receive his portion, and to rejoice in his labor; this is the gift of God.
 For he shall not much remember the days of his life; for God troubles him in the mirth of his heart.
+
 There is an evil which I have seen under the sun, and it is abundant with man:
 a man to whom God shall give wealth, and substance, and honor, and he wants nothing for his soul of all things that he shall desire, yet God shall not give him power to eat of it, for a stranger shall devour it: this is vanity, and an evil infirmity.
 If a man beget one hundred children, and live many years, yes, however abundant the days of his years shall be, yet if his soul shall not be satisfied with good, and also he have no burial; I said, An untimely birth is better than he.
@@ -17694,6 +17694,7 @@ Who is this that looks forth as the morning, fair as the moon, choice as the sun
 I went down to the garden of nuts, to look at the fruits of the valley, to see if the vine flowered, if the pomegranates blossomed.
 There I will give you my breasts: my soul knew it not: it made me as the chariots of Aminadab.
 Return, return, O Sunamite; return, return, and we will look at you. What will you⌃ see in the Sunamite? She comes as bands of armies.
+
 Your steps are beautiful in shoes, O daughter of the prince: the joints of your thighs are like chains, the work of the craftsman.
 Your navel is as a turned bowl, not lacking liquor; your belly is as a heap of wheat set about with lilies.
 Your two breasts are as two twin fawns.
@@ -17707,7 +17708,6 @@ I am my kinsman's, and his desire is toward me.
 Come, my kinsman, let us go forth into the field; let us lodge in the villages.
 Let us go early into the vineyards; let us see if the vine has flowered, if the blossoms have appeared, if the pomegranates have blossomed; there will I give you my breasts.
 The mandrakes have given a smell, and at our doors are all kinds of choice fruits, new and old. O my kinsman, I have kept them for you.
-
 I would that you, O my kinsman, were he that sucked the breasts of my mother; when I found you without, I would kiss you; yes, they should not despise me.
 I would take you, I would bring you into my mother's house, and into the chamber of her that conceived me; I would make you to drink of spiced wine, of the juice of my pomegranates.
 His left hand should be under my head, and his right hand should embrace me.
@@ -17897,7 +17897,6 @@ And if they should say to you, Seek those who have in them a divining spirit, an
 For he has given the law for a help, that they should not speak according to this word, concerning which there are no gifts to give for it.
 And famine shall come sorely upon you, and it shall come to pass, that when you⌃ shall be hungry, you⌃ shall be grieved, and you⌃ shall speak ill of the prince and your fathers' ordinances: and they shall look up to heaven above,
 and they shall look on the earth below, and behold severe distress, and darkness, affliction, and anguish, and darkness so that one can’t see; and he that is in anguish shall not be distressed only for a time.
-
 Drink this first. Act quickly, O land of Zabulon, land of Nephthalim, and the rest inhabiting the sea-coast, and the land beyond Jordan, Galilee of the Gentiles.
 O people walking in darkness, behold a great light: you⌃ that dwell in the region and shadow of death, a light shall shine upon you.
 The multitude of the people which you have brought down in your joy, they shall even rejoice before you as they that rejoice in harvest, and as they that divide the spoil.
@@ -17918,6 +17917,7 @@ Therefore the Lord shall not take pleasure in their young men, neither shall he 
 And iniquity shall burn as fire, and shall be devoured by fire as dry grass: and it shall burn in the thickets of the wood, and shall devour all that is round about the hills.
 The whole earth is set on fire because of the fierce anger of the Lord, and the people shall be as men burnt by fire: no man shall pity his brother.
 But one shall turn aside to the right hand, for he shall be hungry; and shall eat on the left, and a man shall by no means be satisfied with eating the flesh of his own arm.
+For Manasses shall eat the flesh of Ephraim, and Ephraim the flesh of Manasses; for they shall besiege Juda together. For all this his anger is not turned away, but his hand is yet exalted.
 Woe to them that write wickedness; for when they write they do write wickedness,
 perverting the cause of the poor, violently wresting the judgment of the needy ones of my people, that the widow may be a prey to them, and the orphan a spoil.
 And what will they do in the day of visitation? for affliction shall come to you from afar: and to whom will you⌃ flee for help? and where will you⌃ leave your glory,
@@ -18953,8 +18953,7 @@ For you are our Father; for though Abraham knew us not, and Israel did not ackno
 Why have you caused us to err, O Lord, from your way? and has hardened our hearts, that we should not fear you? Return for your servants' sake, for the sake of the tribes of your inheritance,
 that we may inherit a small part of your holy mountain.
 We are become as at the beginning, when you did not rule over us, and your name was not called upon us.
-If you would open the heaven, trembling will take hold upon the mountains from you, and they shall melt,
-as wax melts before the fire; and fire shall burn up the enemies, and your name shall be manifest among the adversaries: at your presence the nations shall be troubled,
+If you would open the heaven, trembling will take hold upon the mountains from you, and they shall melt, as wax melts before the fire; and fire shall burn up the enemies, and your name shall be manifest among the adversaries: at your presence the nations shall be troubled,
 whenever you shall work gloriously; trembling from you shall take hold upon the mountains.
 From of old we have not heard, neither have our eyes seen a God beside you, and your works which you will perform to them that wait for mercy.
 For these blessings shall happen to them that work righteousness, and they shall remember your ways: behold, you were angry and we have sinned; therefore we have erred,
@@ -18964,6 +18963,7 @@ And now, O Lord, you are our Father, and we are clay, all of us the work of your
 Be not very angry with us, and remember not our sins for ever; but now look on us, for we are all your people.
 The city of your holiness has become desolate, Sion has become as a wilderness, Jerusalem a curse.
 The house, our sanctuary, and the glory which our fathers blessed, has been burnt with fire: and all our glorious things have gone to ruin.
+And for all these things you, O Lord, has withholden, yourself, and been silent, and have brought us very low.
 I became manifest to them that asked not for me; I was found of them that sought me not: I said, Behold, I am here, to a nation, who called not on my name.
 I have stretched forth my hands all day to a disobedient and gainsaying people, to them that walked in a way that was not good, but after their sins.
 This is the people that provokes me continually in my presence; they offer sacrifices in gardens, and burn incense on bricks to devils, which exist not.
@@ -19242,7 +19242,6 @@ Behold, there is a sound of the cry of the daughter of my people from a land afa
 The summer is gone, the harvest is past, and we are not saved.
 For the breach of the daughter of my people I have been saddened: in my perplexity pangs have seized upon me as of a woman in travail.
 And is there no balm in Galaad, or is there no physician there? why has not the healing of the daughter of my people taken place?
-
 Who will give water to my head, and a fountain of tears to my eyes? then would I weep for this my people day and night, even for the slain of the daughter of my people.
 Who would give me a most distant lodge in the wilderness, that I might leave my people, and depart from them? for they all commit adultery, an assembly of treacherous men.
 And they have bent their tongue like a bow: falsehood and not faithfulness has prevailed upon the earth; for they have gone on from evil to evil, and have not known me, says the Lord.
@@ -19268,6 +19267,7 @@ And the carcasses of the men shall be for an example on the face of the field of
 Thus says the Lord, Let not the wise man boast in his wisdom, and let not the strong man boast in his strength, and let not the rich man boast in his wealth;
 but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, says the Lord.
 Behold, the days come, says the Lord, when I will visit upon all the circumcised their uncircumcision;
+on Egypt, and on Idumea, and on Edom, and on the children of Ammon, and on the children of Moab, and on every one that shaves his face round about, even them that dwell in the wilderness; for all the Gentiles are uncircumcised in flesh, and all the house of Israel are uncircumcised in their hearts.
 Hear you⌃ the word of the Lord, which he has spoken to you, O house of Israel.
 Thus says the Lord, Learn you⌃ not the ways of the heathen, and be not alarmed at the signs of the sky; for they are alarmed at them, falling on their faces.
 For the customs of the nations are vain; it is a tree cut out of the forest, the work of the carpenter, or a molten image.
@@ -21007,6 +21007,11 @@ And you⌃ shall know that I am the Lord, when I have brought you into the land 
 And you⌃ shall there remember your ways, and your devices wherewith you⌃ defiled yourselves; and you⌃ shall bewail yourselves for all your wickedness.
 And you⌃ shall know that I am the Lord, when I have done thus to you, that my name may not be profaned in your evil ways, and in your corrupt devices, says the Lord.
 And the word of the Lord came to me, saying,
+Son of man, set your face against Thaeman, and look toward Darom, and prophesy against the chief forest of Nageb,
+and you shall say to the forest of Nageb, Hear the word of the Lord; thus says the Lord, even the Lord; Behold, I will kindle a fire in you, and it shall devour in you every green tree, and every dry tree: the flame that is kindled shall not be quenched, and every face shall be scorched with it from the south to the north.
+And all flesh shall know that I the Lord have kindled it: it shall not be quenched.
+And I said, Not so, O Lord God! they say to me, Is not this that is spoken a parable?
+And the word of the Lord came to me, saying,
 Therefore prophesy, son of man, set your face steadfastly toward Jerusalem, and look toward their holy places, and you shall prophesy against the land of Israel,
 and you shall say to the land of Israel, Thus says the Lord; Behold, I am against you, and I will draw forth my sword out of its sheath, and I will destroy out of you the transgressor and unrighteous.
 Because I will destroy out of you the unrighteous and the transgressor, therefore so shall my sword come forth out of its sheath against all flesh from the south to the north:
@@ -21038,11 +21043,6 @@ While you are seeing vain visions, and while you are prophesying falsehoods, to 
 Turn, rest not in this place wherein you were born: in your own land will I judge you.
 And I will pour out my wrath upon you, I will blow upon you with the fire of my wrath, and I will deliver you into the hands of barbarians skilled in working destruction.
 You shall be fuel for fire; your blood shall be in the midst of your land; there shall be no remembrance at all of you: for I the Lord have spoken it.
-
-
-
-
-
 And the word of the Lord came to me, saying,
 And you, son of man, will you judge the bloody city? yes, declare you to her all her iniquities.
 And you shall say, Thus says the Lord God: O city that sheds blood in the midst of her, so that her time should come, and that forms devices against herself, to defile herself;
@@ -21904,12 +21904,9 @@ Then were assembled the satraps, and captains, and heads of provinces, and the r
 And king Nabuchodonosor answered and said, Blessed be the God of Sedrach, Misach, and Abdenago, who has sent his angel, and delivered his servants, because they trusted in him; and they have changed the king's word, and delivered their bodies to be burnt, that they might not serve nor worship any god, except their own God.
 Therefore I publish a decree: Every people, tribe, or language, that shall speak reproachfully against the God of Sedrach, Misach, and Abdenago shall be destroyed, and their houses shall be plundered: because there is no other God who shall be able to deliver thus.
 Then the king promoted Sedrach, Misach, and Abdenago, in the province of Babylon, and advanced them, and gave them authority to rule over all the Jews who were in his kingdom.
-King Nabuchodonosor to all nations, tribes, and tongues, who dwell in all the earth; Peace be multiplied to you.
-It seemed good to me to declare to you the signs and wonders which the most high God has wrought with me,
-how great and mighty they are: his kingdom is an everlasting kingdom, and his power to all generations.
-I Nabuchodonosor was thriving in my house, and prospering.
-I saw a vision, and it terrified me, and I was troubled on my bed, and the visions of my head troubled me.
-And I made a decree to bring in before me all the wise men of Babylon, that they might make known to me the interpretation of the dream.
+King Nabuchodonosor to all nations, tribes, and tongues, who dwell in all the earth; Peace be multiplied to you. I Nabuchodonosor was thriving in my house, and prospering.
+It seemed good to me to declare to you the signs and wonders which the most high God has wrought with me, I saw a vision, and it terrified me, and I was troubled on my bed, and the visions of my head troubled me.
+how great and mighty they are: his kingdom is an everlasting kingdom, and his power to all generations. And I made a decree to bring in before me all the wise men of Babylon, that they might make known to me the interpretation of the dream.
 So the enchanters, magicians, soothsayers, and Chaldeans came in: and I told the dream before them; but they did not make known to me the interpretation thereof;
 until Daniel came, whose name is Baltasar, according to the name of my God, who has within him the Holy Spirit of God; to whom I said,
 O Baltasar, chief of the enchanters, of whom I know that the Holy Spirit of God is in you, and no mystery is too hard for you, hear the vision of my dream which I had, and tell me the interpretation of it.
@@ -21941,6 +21938,9 @@ And at the end of the time I Nabuchodonosor lifted up my eyes to heaven, and my 
 and all the inhabitants of the earth are reputed as nothing: and he does according to his will in the army of heaven, and among the inhabitants of the earth: and there is none who shall withstand his power, and say to him, What has you done?
 At the same time my reason returned to me, and I came to the honor of my kingdom; and my natural form returned to me, and my princes, and my nobles, sought me, and I was established in my kingdom, and more abundant majesty was added to me.
 Now therefore I Nabuchodonosor praise and greatly exalt and glorify the King of heaven; for all his works are true, and his paths are judgment: and all that walk in pride he is able to abase.
+
+
+
 Baltasar the king made a great supper for his thousand nobles, and there was wine before the thousand.
 And Baltasar drinking gave orders as he tasted the wine that they should bring the gold and silver vessels, which Nabuchodonosor his father had brought forth from the temple in Jerusalem; that the king, and his nobles, and his mistresses, and his concubines, should drink out of them.
 So the gold and silver vessels were brought which Nabuchodonosor had taken out of the temple of God in Jerusalem; and the king, and his nobles, and his mistresses, and his concubines, drank out of them.
@@ -21971,6 +21971,7 @@ Thekel; it has been weighed in the balance, and found lacking.
 Phares; your kingdom is divided, and given to the Medes and Persians.
 Then Baltasar commanded, and they clothed Daniel with scarlet, and put the golden chain about his neck, and proclaimed concerning him that he was the third ruler in the kingdom.
 In the same night was Baltasar the Chaldean king slain.
+And Darius the Mede succeeded to the kingdom, being sixty-two years old.
 And it pleased Darius, and he set over the kingdom one hundred and twenty satraps, to be in all his kingdom;
 and over them three governors, of whom one was, Daniel; for the satraps to give account to them, that the king should not be troubled.
 And Daniel was over them, for there was an excellent spirit in him; and the king set him over all his kingdom.
@@ -21999,7 +22000,6 @@ Then king Darius wrote to all nations, tribes, and languages, who dwell in all t
 This decree has been set forth by me in every dominion of my kingdom, that men tremble and fear before the God of Daniel: for he is the living and eternal God, and his kingdom shall not be destroyed, and his dominion is for ever.
 He helps and delivers, and works signs and wonders in the heaven and on the earth, who has rescued Daniel from the power of the lions.
 And Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
-
 In the first year of Baltasar, king of the Chaldeans Daniel had a dream, and visions of his head upon his bed: and he wrote his dream.
 I Daniel looked, and, behold, the four winds of heaven blew violently upon the great sea.
 And there came up four great beasts out of the sea, differing from one another.
@@ -22170,6 +22170,8 @@ And she conceived again, and bore a daughter. And he said to him, Call her name,
 But I will have mercy on the house of Juda, and will save them by the Lord their God, and will not save them with bow, nor with sword, nor by war, nor by horses, nor by horsemen.
 And she weaned Unpitied; and she conceived again, and bore a son.
 And he said, Call his name, Not my people: for you⌃ are not my people, and I am not your God.
+Yet the number of the children of Israel was as the sand of the sea, which shall not be measured nor numbered: and it shall come to pass, that in the place where it was said to them, You⌃ are not my people, even they shall be called the sons of the living God.
+And the children of Juda shall be gathered, and the children of Israel together, and shall appoint themselves one head, and shall come up out of the land: for great shall be the day of Jezrael.
 Say to your brother, My people, and to your sister, Pitied.
 Plead with your mother, plead: for she is not my wife, and I am not her husband: and I will remove her fornication out of my presence, and her adultery from between her breasts:
 that I may strip her naked, and make her again as she was at the day of her birth: and I will make her desolate, and make her as a dry land, and will kill her with thirst.
@@ -22193,8 +22195,6 @@ and I will betroth you to myself in faithfulness: and you shall know the Lord.
 And it shall come to pass in that day, says the Lord, I will listen to the heaven, and it shall listen to the earth;
 and the earth shall listen to the corn, and the wine, and the oil; and they shall listen to Jezrael.
 And I will sow her to me on the earth; and will love her that was not loved, and will say to that which was not my people, You are my people; and they shall say, You are the Lord my God.
-
-
 And the Lord said to me, Go yet, and love a woman that loves evil things, an adulteress, even as the Lord loves the children of Israel, and they have respect to strange gods, and love cakes of dried grapes.
 So I hired her to myself for fifteen pieces of silver, and a homer of barley, and a flagon of wine.
 And I said to her, You shall wait for me many days; and you shall not commit fornication, neither shall you be for another man; and I will be for you.
@@ -22318,6 +22318,7 @@ How shall I deal with you, Ephraim? how shall I protect you, Israel? what shall 
 I will not act according to the fury of my wrath, I will not abandon Ephraim to be utterly destroyed: for I am God, and not man; the Holy One within you: and I will not enter into the city.
 I will go after the Lord: he shall utter his voice as a lion: for he shall roar, and the children of the waters shall be amazed.
 They shall be amazed and fly as a bird out of Egypt, and as a dove out of the land of the Assyrians: and I will restore them to their houses, says the Lord.
+Ephraim has compassed me with falsehood, and the house of Israel and Juda with ungodliness: but now God knows them, and they shall be called God's holy people.
 But Ephraim is an evil spirit, he has chased the east wind all the day: he has multiplied empty and vain things, and made a covenant with the Assyrians, and oil has gone in the way of traffic into Egypt.
 And the Lord has a controversy with Juda, in order to punish Jacob: according to his ways and according to his practices will he recompense him.
 He took his brother by the heel in the womb, and in his labors he had power with God.
@@ -22332,7 +22333,6 @@ If Galaad exists not, then the chiefs in Galaad when they sacrificed were false,
 And Jacob retreated into the plain of Syria, and Israel served for a wife, and waited for a wife.
 And the Lord brought Israel out of the land of Egypt by a prophet, and by a prophet was he preserve.
 Ephraim was angry and excited, therefore his blood shall be poured out upon him, and the Lord shall recompense to him his reproach.
-
 According to the word of Ephraim he adopted ordinances for himself in Israel; and he established them for Baal, and died.
 And now they have sinned increasingly, and have made for themselves a molten image of their silver, according to the fashion of idols, the work of artificers accomplished for them: they say, Sacrifice men, for the calves have come to an end.
 Therefore shall they be as a morning cloud, and as the early dew that passes away, as chaff blown away from the threshing floor, and as a vapor from tears.
@@ -22348,6 +22348,7 @@ Ephraim has framed a conspiracy of unrighteousness, his sin is hidden.
 Pains as of a woman in travail shall come upon him: he is your wise son, because he shall not stay in the destruction of your children.
 I will deliver them out of the power of Hades, and will redeem them from death: where is your penalty, O death? O Hades, where is your sting? comfort is hidden from my eyes.
 Forasmuch as he will cause a division among his brethren, the Lord shall bring upon him an east wind from the desert, and shall dry up his veins and quite drain his fountains: he shall dry up his land, and spoil all his precious vessels.
+
 Samaria shall be utterly destroyed: for she has resisted her God; they shall fall by the sword, and their sucklings shall be dashed against the ground, and their women with child ripped up.
 Return, O Israel, to the Lord your God; for the people have fallen through your iniquities.
 Take with you words, and turn to the Lord your God: speak to him, that you⌃ may not receive the reward of unrighteousness, but that you⌃ may receive good things: and we will render in return the fruit of our lips.
@@ -22356,8 +22357,7 @@ I will restore their dwellings, I will love them truly: for he has turned away m
 I will be as dew to Israel: he shall bloom as the lily, and cast forth his roots as Libanus.
 His branches shall spread, and he shall be as a fruitful olive, and his smell shall be as the smell of Libanus.
 They shall return, and dwell under his shadow: they shall live and be satisfied with corn, and he shall flower as a vine: his memorial shall be to Ephraim as the wine of Libanus.
-What has he to do any more with idols? I have afflicted him, and I will strengthen him: I am as a leafy juniper tree. From me is your fruit found.
-Who is wise, and will understand these things? or prudent, and will know them? for the ways of the Lord are straight, and the righteous shall walk in them: but the ungodly shall fall therein.
+What has he to do any more with idols? I have afflicted him, and I will strengthen him: I am as a leafy juniper tree. From me is your fruit found. Who is wise, and will understand these things? or prudent, and will know them? for the ways of the Lord are straight, and the righteous shall walk in them: but the ungodly shall fall therein.
 The word of the Lord which came to Joel the son of Bathuel.
 Hear these words, you⌃ elders, and listen all you⌃ that inhabit the land. Have such things happen in your days, or in the days of your fathers?
 Tell your children concerning them, and let your children tell their children, and their children another generation.
@@ -22405,32 +22405,32 @@ And the floors shall be filled with corn, and the presses shall overflow with wi
 And I will recompense you for the years which the locust, and the caterpillar, and the palmerworm, and the cankerworm have eaten, even my great army, which I sent against you.
 And you⌃ shall eat abundantly, and be satisfied, and shall praise the name of the Lord your God for the things which he has wrought wonderfully with you: and my people shall not be ashamed for ever.
 And you⌃ shall know that I am in the midst of Israel, and that I am the Lord your God, and that there is none else beside me; and my people shall no more be ashamed for ever.
+And it shall come to pass afterward, that I will pour out of my Spirit upon all flesh; and your sons and your daughters shall prophesy, and your old men shall dream dreams, and your young men shall see visions.
+And on my servants and on my handmaids in those days will I pour out of my Spirit.
+And I will show wonders in heaven, and upon the earth, blood, and fire, and vapor of smoke.
+The sun shall be turned into darkness, and the moon into blood, before the great and glorious day of the Lord come.
+And it shall come to pass that whoever shall call on the name of the Lord shall be saved: for in mount Sion and in Jerusalem shall the saved one be as the Lord has said, and they that have glad tidings preached to them, whom the Lord has called.
 For, behold, in those days and at that time, when I shall have turned the captivity of Juda and Jerusalem,
 I will also gather all the Gentiles, and bring them down to the valley of Josaphat, and will plead with them there for my people and my heritage Israel, who have been dispersed among the Gentiles; and these Gentiles have divided my land,
 and cast lots over my people, and have given their boys to harlots, and sold their girls for wine, and have drunk.
 And what have you⌃ to do with me, O Tyre, and Sidon, and all Galilee of the Gentiles? do you⌃ render me a recompense? or do you⌃ bear malice against me? quickly and speedily will I return your recompense on your own heads:
 because you⌃ have taken my silver and my gold, and you⌃ have brought my choice ornaments into your temples;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+and you⌃ have sold the children of Juda and the children of Jerusalem to the children of the Greeks, that you⌃ might expel them from their coasts.
+Therefore, behold, I will raise them up out of the place whither you⌃ have sold them, and I will return your recompense on your own heads.
+And I will sell your sons and your daughters into the hands of the children of Juda, and they shall sell them into captivity to a far distant nation: for the Lord has spoken it.
+Proclaim these things among the Gentiles; declare war, arouse the warriors, draw near and go up, all you⌃ men of war.
+Beat your plowshares into swords, and your sickles into spears: let the weak say, I am strong.
+Gather yourselves together, and go in, all you⌃ nations round about, and gather yourselves there; let the timid become a warrior.
+Let them be aroused, let all the nations go up to the valley of Josaphat: for there will I sit to judge all the Gentiles round about.
+Bring forth the sickles, for the vintage is come: go in, tread the grapes, for the press is full: cause the vats to overflow; for their wickedness is multiplied.
+Noises have resounded in the valley of judgment: for the day of the Lord is near in the valley of judgment.
+The sun and the moon shall be darkened, and the stars shall withdraw their light.
+And the Lord shall cry out of Sion, and shall utter his voice from Jerusalem; and the heaven and the earth shall be shaken, but the Lord shall spare his people, and shall strengthen the children of Israel.
+And you⌃ shall know that I am the Lord your God, who dwell in Sion my holy mountain: and Jerusalem shall be holy, and strangers shall not pass through her anymore.
+And it shall come to pass in that day that the mountains shall drop sweet wine, and the hills shall flow with milk, and all the fountains of Juda shall flow with water, and a fountain shall go forth of the house of the Lord, and water the valley of flags.
+Egypt shall be a desolation, and Idumea shall be a desolate plain, because of the wrongs of the children of Juda, because they have shed righteous blood in their land.
+But Judea shall be inhabited for ever, and Jerusalem to all generations.
+And I will make inquisition for their blood, and will by no means leave it unavenged: and the Lord shall dwell in Sion.
 The words of Amos which came to him in Accarim out of Thecue, which he saw concerning Jerusalem, in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel, two years before the earthquake.
 And he said, The Lord has spoken out of Sion, and has uttered his voice out of Jerusalem; and the pastures of the shepherds have mourned, and the top of Carmel is dried up.
 And the Lord said, For three sins of Damascus, and for four, I will not turn away from it; because they sawed with iron saws the women with child of the Galaadites.
@@ -22614,6 +22614,7 @@ And the men tried hard to return to the land, and were not able: for the sea ros
 And they cried to the Lord, and said, Forbid it, Lord: let us not perish for the sake of this man's life, and bring not righteous blood upon us: for you, Lord, have done as you would.
 So they took Jonas, and cast him out into the sea: and the sea ceased from its raging.
 And the men feared the Lord very greatly, and offered a sacrifice to the Lord, and vowed vows.
+
 Now the Lord had commanded a great whale to swallow up Jonas: and Jonas was in the belly of the whale three days and three nights.
 And Jonas prayed to the Lord his God out of the belly of the whale,
 and said, I cried in my affliction to the Lord my God, and he listened to me, even to my cry out of the belly of hell: you heard my voice.
@@ -22623,8 +22624,7 @@ Water was poured around me to the soul: the lowest deep compassed me, my head we
 to the clefts of the mountains; I went down into the earth, whose bars are the everlasting barriers: yet, O Lord my God, let my ruined life be restored.
 When my soul was failing me, I remembered the Lord; and may my prayer come to you into your holy temple.
 They that observe vanities and lies have forsaken their own mercy.
-But I will sacrifice to you with the voice of praise and thanksgiving: all that I have vowed I will pay to you, the Lord of my salvation.
-And the whale was commanded by the Lord, and it cast up Jonas on the dry land.
+But I will sacrifice to you with the voice of praise and thanksgiving: all that I have vowed I will pay to you, the Lord of my salvation. And the whale was commanded by the Lord, and it cast up Jonas on the dry land.
 And the word of the Lord came to Jonas the second time, saying,
 Rise, go to Nineve, the great city, and preach in it according to the former preaching which I spoke to you of.
 And Jonas arose, and went to Nineve, as the Lord had spoken. Now Nineve was an exceeding great city, of about three days' journey.
@@ -22700,7 +22700,6 @@ Be in pain, and strengthen yourself, and draw near, O daughter of Sion, as a wom
 And now have many nations gathered against you, saying, We will rejoice, and our eyes shall look upon Sion.
 But they know not the thought of the Lord, and have not understood his counsel: for he has gathered them as sheaves of the floor.
 Arise, and thresh them, O daughter of Sion: for I will make your horns iron, and I will make your hoofs brass: and you shall utterly destroy many nations, and shall consecrate their abundance to the Lord, and their strength to the Lord of all the earth.
-
 Now shall the daughter of Sion be completely hedged in: he has laid siege against us: they shall strike the tribes of Israel with a rod upon the cheek.
 And you, Bethleem, house of Ephratha, are few in number to be reckoned among the thousands of Juda; yet out of you shall one come forth to me, to be a ruler of Israel; and his goings forth were from the beginning, even from eternity.
 Therefore shall he appoint them to wait till the time of her that travails: she shall bring forth, and then the remnant of their brethren shall return to the children of Israel.
@@ -22715,6 +22714,7 @@ and I will utterly destroy the cities of your land, and demolish all your strong
 and I will utterly destroy your sorceries out of your hands; and there shall be no soothsayers in you.
 And I will utterly destroy your graven images, and your statues out of the midst of you; and you shall never any more worship the works of your hands.
 And I will cut off the groves out of the midst of you, and I will abolish your cities.
+and I will execute vengeance on the heathen in anger and wrath, because they listened not.
 Hear now a word: the Lord God has said; Arise, plead with the mountains, and let the hills hear your voice.
 Hear you⌃, O mountains, the controversy of the Lord, and you⌃ valleys even the foundations of the earth: for the Lord has a controversy with his people, and will plead with Israel.
 O my people, what have I done to you? or wherein have I grieved you? or wherein have I troubled you? answer me.
@@ -22765,6 +22765,7 @@ Out of you shall proceed a device against the Lord, counselling evil things host
 Thus says the Lord who rules over many waters, Even thus shall they be sent away, and the report of you shall not be heard any more.
 And now will I break his rod from off you, and will burst your bonds.
 And the Lord shall give a command concerning you; there shall no more of your name be scattered: I will utterly destroy the graven images out of the house of your god, and the molten images: I will make your grave; for they are swift.
+Behold upon the mountains the feet of him that brings glad tidings, and publishes peace! O Juda, keep your feasts, pay your vows: for they shall no more pass through you to your decay.
 It is all over with him, he has been removed, one who has been delivered from affliction has come up panting into your presence, watch the way, strengthen your loins, be very valiant in your strength.
 For the Lord has turned aside the pride of Jacob, as the pride of Israel: for they have utterly rejected them, and have destroyed their branches.
 They have destroyed the arms of their power from among men, their mighty men sporting with fire: the reins of their chariots shall be destroyed in the day of his preparation, and the horsemen shall be thrown into confusion
@@ -22778,7 +22779,6 @@ There is thrusting forth, and shaking, and tumult, and heart-breaking, and loosi
 Where is the dwelling-place of the lions, and the pasture that belonged to the whelps? where did the lion go, that the lion's whelp should enter in there, and there was none to scare him away?
 The lion seized enough prey for his whelps, and strangled for his young lions, and filled his lair with prey, and his dwelling-place with spoil.
 Behold, I am against you, says the Lord Almighty, and I will burn up your multitude in the smoke, and the sword shall devour your lions; and I will utterly destroy your prey from off the land, and your deeds shall no more at all be heard of.
-
 O city of blood, wholly false, full of unrighteousness; the prey shall not be handled.
 The noise of whips, and the noise of the rumbling of wheels, and of the pursuing horse, and of the bounding chariot,
 and of the mounting rider, and of the glittering sword, and of the gleaming arms, and of a multitude of slain, and of heavy falling: and there was no end to her nations, but they shall be weak in their bodies
@@ -22962,6 +22962,10 @@ And the angel that spoke with me said to me, Cry out and say, Thus says the Lord
 And I am very angry with the heathen that combine to attack her: forasmuch as I indeed was a little angry, but they combined to attack her for evil.
 Therefore thus says the Lord: I will return to Jerusalem with compassion; and my house shall be rebuilt in her, says the Lord Almighty, and a measuring line shall yet be stretched out over Jerusalem.
 And the angel that spoke with me said to me, Cry yet, and say, Thus says the Lord Almighty; Yet shall cities be spread abroad through prosperity; and the Lord shall yet have mercy upon Sion, and shall choose Jerusalem.
+And I lifted up my eyes and looked, and behold four horns.
+And I said to the angel that spoke with me, What are these things, my lord? And he said to me, These are the horns that have scattered Juda, and Israel, and Jerusalem.
+And the Lord showed me four artificers.
+And I said, What are these coming to do? And he said, These are the horns that scattered Juda, and they broke Israel in pieces, and none of them lifted up his head: and these are come forth to sharpen them for their hands, even the four horns, the nations that lifted up the horn against the land of the Lord to scatter it.
 And I lifted up my eyes, and looked, and behold a man, and in his hand a measuring line.
 And I said to him, Whither go you? And he said to me, To measure Jerusalem, to see what is the breadth of it, and what is the length of it.
 And, behold, the angel that spoke with me stood by, and another angel went forth to meet him,
@@ -22975,10 +22979,6 @@ Rejoice and be glad, O daughter of Sion: for, behold, I come, and will dwell in 
 And many nations shall flee for refuge to the Lord in that day, and they shall be for a people to him, and they shall dwell in the midst of you: and you shall know that the Lord Almighty has sent me to you.
 And the Lord shall inherit Juda his portion in the holy land, and he will yet choose Jerusalem.
 Let all flesh fear before the Lord: for he has risen up from his holy clouds.
-
-
-
-
 And the Lord showed me Jesus the high priest standing before the angel of the Lord, and the Devil stood on his right hand to resist him.
 And the Lords said to the Devil,
 The Lord rebuke you, O Devil, even the Lord that has chosen Jerusalem rebuke you: behold! is not this as a brand plucked from the fire?
@@ -23205,12 +23205,12 @@ And now we pronounce strangers blessed; and all they who act unlawfully are buil
 Thus spoke they that feared the Lord, every one to his neighbor: and the Lord gave heed, and listened, and he wrote a book of remembrance before him for them that feared the Lord and reverenced his name.
 And they shall be mine, says the Lord Almighty, in the day which I appoint for a peculiar possession; and I will make choice of them, as a man makes choice of his son that serves him.
 Then shall you⌃ return, and discern between the righteous and the wicked, and between him that serves God, and him that serves him not.
-
-
-
-
-
-
+For, behold, a day comes burning as an oven, and it shall consume them; and all the aliens, and all that do wickedly, shall be stubble: and the day that is coming shall set them on fire, says the Lord Almighty, and there shall not be left of them root or branch.
+But to you that fear my name shall the Sun of righteousness arise, and healing shall be in his wings: and you⌃ shall go forth, and bound as young calves let loose from bonds.
+And you⌃ shall trample the wicked; for they shall be ashes underneath your feet in the day which I appoint, says the Lord Almighty.
+And, behold, I will send to you Elias the Thesbite, before the great and glorious day of the Lord comes;
+who shall turn again the heart of the father to the son, and the heart of a man to his neighbor, lest I come and strike the earth grievously.
+Remember the law of my servant Moses, accordingly as I charged him with it in Choreb for all Israel, even the commandments and ordinances.
 
 
 

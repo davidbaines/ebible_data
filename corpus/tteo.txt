@@ -926,6 +926,7 @@ Kaiwena veku talitalinna mekanakava veku malamalawena besiele tuki ugitai bwaite
 Yola labui kelabilabin kamwasana kaba nuwatu-kalatanna kilakilalana. Yau tabe nige sowasowana veku talitalinnane yalikwai na yalaowa yakaleya koliwo. Yo kowa tabe besiele nige sowana vekune talitalinnane yo vekune itotolo besiele tuki kulikwaili yo ukaleya koliyau.”
 Kabo Labana tabe iwaloyoi iba, “Tubum Abelamo ana Yaubada yo Abelamo tamana Nao ana yaubada kani siyamaisala tem kelabilabin kamwasana bwaite tagiginauline talikwai.” Yo Yakobo ikawalulu-sae tamana Aisake ana Yaubada esana mena iya mwa ipwalopwalou.
 Yo koyane koina Yakobo ebaebai yabo ikalai yo ipwaoliyan Yaubada koina yo ana bodao iyoganlima sikekan ebaebaiwa koina. Kekan mulina mena sikenowaya koya mena.
+Yanuwa ilayan malala kikiuna Labana itolo ilau natunao menatuliyao isapwalili yo inisoili yo iwalo-muloloili yo ikawa-kaiyoni kolili kabo me ana bodao sipileyoi ali yanuwa mena.
 Yakobo me ana bodao sitolo yo silau. Silaulau kabo Yaubada ana aneloseyao Yakobo silobai.
 Saugana Yakobo anelose igitaili iwalo iba, “Yanuwa bwaite Yeoba ana kaba kaiyawasi.” Kabo esana ipei Miyaneima, na kana katai ‘kaba kaiyawasi labui’.
 Yo Yakobo tosagenawasa iyawasali sisagena baguna silau kanakava Iso koina kainana siwalowen yanuwa Seya koina yanuwa Idoma dedeina mena.
@@ -958,7 +959,6 @@ Yakobo iwalolau tomone koina iba, “Yakawanoi koliwo tem esam kuwalowen yabenal
 Mwa Yakobo iwalo iba, “Yeoba yagitaiyako mekaukava kaemangitegite-yagimai na iyamo nige yaboboita.” Yo yanuwane esana ipei Penieli.
 Dabwelo itunsae kabo Yakobo yanuwane ilogabaen yo nige ilolo-dudulai kaiwena laugasina itapwatapwai.
 Bwaine koina yo kanasiga kabona tomo Isileli nige ebaebai laugasina o gotuna bulumana sikankan bwabwaleli kaiwena tubuli Yakobo tauna kona tomo laugasina kana tubwe yaina ikopwai.
-
 Yakobo igite-saewa Iso ilalaoma me ana gamegameo yoli powa andeledi (400) yo natunao iyakasali silau sitolo sinaliyao Leya yo Litieli yo ana topaisowawa sinesineo labui kolili.
 Sinesineo labui ana topaisowawa menatuliyao siya iyatolo-bagunayagili, salili mena Leya menatunao kabo mulimolosi mena Litieli yo Yosepa.
 Na Yakobo iya itolo baguna molosi manli mena yo ipwalou-talu bwatano mena meseben ilaulau ee kanasiga ilaoma kanakava Iso salina mena.
@@ -1709,10 +1709,6 @@ Kabo kin ana tokukulao iyoga-gogonagilima kabo ali kukula koina siginauli besiel
 Yeoba ana paisowa kaba nuwa-pwanopwanone kin ikawa-mwakomwakotayan, itagelakeile yo ivivila ana nume mena, ginauline igitaine nige inunuwatu kaiwena.
 Itipita meuloili kali waila sikeli-loyaloyai waila Naile papalina mena kaiwena nige sowasowali Naile wailana sinuma.
 <range>
-
-
-
-
 Yeoba Naile wailana isibayanae, kaliyate seben simwawasi, kabo iwalolau Mosese koina iba, “Kulau naga kin koina kuwaloba, ‘Yeoba iwaloba, yagu tomoyao kutalamwagili silowasi na sitapwalolo koliyau.
 Tem kunuwaili kani polowe yaboyoi yaeyawa, kwekwe Itipita siyakalapowon.
 Tabe waila Naile kwekwe kani siyakalapowon yo tabe simwalisae am nume mena yo am biliutusi mena yo am kaba keno mena yo kam tosaguwo ali nume mena yo silau am kaba loliga mena yo kam gulewa kaloli mena.
@@ -1741,6 +1737,10 @@ Na kin Mosese yo Eloni iyoganli iwaloba, “Sowasowana ami Yaubada koina kwatapw
 Mosese kainana iyamaisa iwaloba, “Kani nige sowasowamai kaginauli bwaite Itipita kalona mena. Kaiwena ama kaba pwaoline Yeoba ama Yaubada koina ebaebai, na komiu Itipita ami tapwalolo mumugana uloi. Tem na ebaebaine kapwaopwaolan Itipita manli mena, kani kaula-munamunaili yo veku mena sikoyamatemai. Iya kaiwena nuwanuwamai kalau kelamamalawe mena.
 Nuwanuwamai kalau kaliyate yaiyona dekawa bwagabwaga mena ule mena katapwalolo ebaebai koina kapwaoli Yeoba ama Yaubada koina besiele ana walo kolimai.”
 Na kin iwaloba, “Kwalau dekawa bwagabwaga mena ule mena kwatapwalolo Yeoba ami Yaubada koina yo ebaebai koina kwapwaoli, na tabu kwalolo-kelamamalawe. Ukawanoi kaiwegu na Yeoba yagu polowe ikelegabaen.”
+Na Mosese iwaloba, “Sauga bwaite yalau na yakawanoi Yeoba koina bwaliga nonowala simwawasi molosi, kowa yo kam tosaguwo yo am tomoyao kolimiu. Na tabu kumwamwakota-yagimai yoi. Tabu tomo ukakausili na kutalamwagili silau sipwaoli Yeoba koina.”
+Mosese ilau ikawanoi Yeoba koina yo Yeoba ana kawanoi ibenalan, nonowala simwawasi molosi kin me kana tosaguwo yo ana tomoyao kolili, nige nonowala yaboyoi imiyamiya.
+<range>
+Na kin katena ikololo yoi kabo tomo nige itatalamwagili silolowasi.
 Yeoba iwaloyoi Mosese koina iba, “Kulau kin koina kuwaloba, ‘Yeoba kai Ibeliu ama Yaubada iwaloba, Yagu tomoyao kutalamwagili silau sitapwalolo koliyau.
 Tem kusikote yoi na kunuwaili, kabo kani iyamaisa koliwo, am ebaebai meuloili kali kasiebwa naenaena ipei, am osi, donki, kameli, bulumakau, sipi yo gouti kolili.
 <range>
@@ -7771,6 +7771,7 @@ Kulomwayamwayau tabu ukakaiyawasi.” Yo gamene ilau wamaliwa itanoili yo ipiley
 Na gamene nige tawae yabo ikakatai bwaimwanamo Diyonatan yo Deibida sikatai tawae ilaulau.
 Kabo Diyonatan ana wamaliwo yo gipoyo iwolena gamene koina iba, “Ukwalaili na kupileyoi yanuwa mena.”
 Yo gamene ilaoko mulina mena kabo Deibida dedei tete yavana mena itolo ilu-yawatagilima yo ipwalou-talu bwatano mena me yaiyona ana yakasisi iginauli Diyonatan koina. Kabo sisapwali sinisoi yo sivalam yoli labuine na iyamo Deibida ivalam sosi.
+
 Kabo Diyonatan iwalolau Deibida koina iba, “Daumwali mena kulau kaiwena waloyameline bwaite imiyamiya sauga meuloina kani nige ilolotom. Na waloyameline iyaele kaiwela imiyamiya yo tubumwao yo tubuguwao kaiweli tabe.” Yo Deibida ilau na Diyonatan ipileyoi ana yanuwa mena.
 Kabo Deibida ilau yanuwa Nobi topwaoli Eimileki koina. Saugana iyawatagili Nobi, Eimileki Deibida igitai me ana tabubu kabo iwalolau Deibida koina iba, “Tawae kaiwena mwa kubomamo na nige yabo mekamkava kam egelugelu?”
 Yo Deibida Eimileki kainana iyamaisa iba, “Kin Saulo ginauli yabo kaiwena mwa iyawasayau ana nuwatu yabo kaiwena yo iwalo koliyau iba, ‘Kisi yabo koina kuwalo-masala am laune yaina ikatai.’ Na iyaele yawalo yagu kilakaiwo kolili kani kabo silaoma sigitaiyau dedei yabo mena.
@@ -7787,7 +7788,6 @@ Walo bwaite kaiwena Deibida katena mena inuwatu-kalatan yo imatausi lalakina Gat
 Kabo Deibida iyatubu iyauyaule mwakomwakota manli mena yakato iya tokabaleya yabo saugana imiyamiya kolili. Kabo ilau yanuwa kana gamwa kaba lusalusaena mena ilelelele bwagabwaga yo gilolona sididi silobi palasana mena.
 Kabo Akisa igitagitai yo iwalolau ana topaisowao kolili iba, “Wagitai tomone iya kabakabaleyana. Na tawae kaiwena kwayogan kwalawanama koliyau?
 Ami nuwatu yakato nige kabaleya ala yanuwa mena mwa tomone bwaite kabakabaleyanane kwalawanama mangu mena? Ami nuwatu yakato bwaite tomone kani ilaoma yagu nume mena ilusae?”
-
 Kabo Deibida yanuwa Gata ilogabaen mwa iyabubu ilau dupa lalakina esana Adulami. Na tamana ana nume kana tomiyayao yo tabe kanakavao wasana sibenalan mwa silobi sipatu koina mekalikava simiyamiya waya.
 Yo meuloili miyapolowe silobai tupwaliyao kali yagayaga nige siyayamaisali mwa meuloili nuwali sinae kabo silogogo silobi Deibida koina iya sipei kali tobaguna mwa tomone kali baibaiwa powa andeledi (400).
 Muli mena Deibida ilau Mowabe kana kin yanuwa Mispa koina iba, “Kategu kowa tem kutalam sinagu yo tamagu silaoma koliwo mekamikavao bwaite koina kwamiyamiya kanasiga yakatai kani Yeoba tawae iginauli kaiwegu.”
@@ -7839,6 +7839,7 @@ Deibida ilau yo ikeno-wadam koya kolili bwaine ule bwagabwaga mena esana Sip koi
 
 
 
+
 Saulo Pilistiya tokaleya itawoili yo ipileyoima kabo ana wasa siwolena siba, “Deibida iyaele ule bwagabwaga mena Engedi koina.”
 Kabo Saulo tomo igite-sipwaili Isileli kalona mena tili tausan (3,000) tokaleya ikalaili. Silau Deibida me ana kilakaiwo siloyaili yanuwa esana Ule Goutiliyao Kali Veku koina.
 Kabo silau siyawatagili sipi kali gana tupwaliyao kolili kamwasa papalina mena. Dupa yabo iyaele bwaine koina Saulo ilau ilusae koina sabi lodedei na Deibida me ana kilakaiwo siyaele dupane gamwana papali yabo mena.
@@ -7861,7 +7862,6 @@ Tem tomo kana kaleya ilobai, gubesi, italamwan me ana namwanamwana yo me ana yal
 Kabo yakatai namwanamwai kowa kani kuyamala kin Isileli koina. Yo Isileli ana kaba loina kani nimam mena ikin me ana kaiwe.
 Nuwanuwagu tem Yeoba esana mena am waloyameli uginauli koliyau tubuguwao kagu yaso muliye tabu kuyeyemwawasili yo tabu esagu ikwakwalalele tamagu ana susu kalona mena.”
 Kabo Deibida ana waloyameli iginauli Saulo koina. Kabo Saulo ipileyoi ana yanuwa mena na Deibida me ana kilakaiwo tabe sipileyoi ali kaba keno-wadam mena.
-
 Na Samuela iboita kabo Isileli meuloili silogogo yo sivalam ana boita kaiwena. Yona sipului ana yanuwa esana Lama. Imwawasi kabo Deibida ilau yo imiyamiya ule bwagabwaga mena yanuwa Maon salina mena. Tomna 2-13 Tomna 14-35 Tomna 36-44
 
 
@@ -8511,14 +8511,15 @@ Kabo kin ineli iwaloba, “Na kilakaine Abisalomi inamwanamwa?” Kainana Aimasi
 Kabo kin iwalo koina iwaloba, “Kutolowaya bwaine koina na kusanasana.” Mwa iginauli besiele ana walo.
 Mwa game Idiopiya iyawatagilima yo iwaloba, “Yagu guyau yo yagu kin, wasa namwanamwana kubenalan. Kabona Yeoba ileboiwo kam tokalomagigiliwo nimali mena.”
 Mwa kin ineli iba, “Na kilakaine Abisalomi inamwanamwa?” Kainana iyamaisa iwaloba, “Yagu guyau yo yagu kin, kilakaine Abisalomi isilae. Na temga kam kaleyayao yo siya sikalomagigi-lagiwo meuloili sisilae besiele kilakaine bwaite inamwanamwa.”
+Mwa kin nuwana inae lalakina mwa me ana valam ilau isae ana biliutusi mena kaba lusalusae pwatana mena ilolovalavalam iba, “O, natugu Abisalomi, natugu, natugu, Abisalomi. Tem kabona yau yaboita kowa tabu tabu. Abisalomi, natugu, natugu.”
 Yowabi ana wasa siwolena siba, “Kin Deibida nuwana inae Abisalomi kaiwena mwa ivalavalam.”
 Tokaleya meuloili wasa sibenalani kin inuwanae natuna kaiwena kabo kaliyatenane koina ali yaliyaya ibui iyamala nuwanae.
 Mwa silomwanoumo silusae yanuwa mena besiele tokaleya siya simwalimwaline kali koleya besiele siyabubu kaleya koina.
 Kabo kin manna ikausi na ivalavalam kainana ilalaki iba, “O, natugu Abisalomi, O Abisalomi, natugu, natugu.”
 Kabo Yowabi ilau kin ana nume mena yo iwalo koina, “Kaliyate kabona am tokaleya meuloili kuyamwalimwalineli siya mwa kowa menatumwao, wainemwao yawasosi yo wainemwao tupwaliyao yawasimiu sileboili.
 Kana koleya yakato siya sikalomagigi-lagiwo na kowa kumulomuloloili na siya simulomuloloiwo kowa ukalomagigi-lagili. Na mumugam kabona kuwalo-masala yakato tokaleyayao mekalikavao ali tobagunao siya besiele ginauli bwagabwaga koliwo. Mwa kani kabo yakatai temga kaliyate kabona Abisalomi nige iboboita yo kai meuloimai kaboita kani kuyaliyaya.
-Sauga bwaite koina kuyawatagili kulau am tokaleyayao kateli ukwabi-yakaiweli. Tem nigele kani boniyai nige tokaleya yabo imiyamiya koliwo, kani meuloili silogabae-giwo. Kabo polowe bwaite kani ilalakisosi koliwo kabo polowe meuloili siya kulobalobaili am sauga kilakai koina kanasiga sauga bwaite.”
-Kabo kin iyawatagili ilau imiyasio yanuwa ana kaba lusalusaena koina. Saugana ana tokaleyayao wasa sibenalani iya iyaele imiyasio kaba lusalusae koina mwa meuloili silau koina. Isileli ali tokaleya siya nige siboboita kaleya koina siyabubuko silau yanuwa uloina uloina kolili simiya. Na Deibida me ana tomoyao siyaele yanuwa Manaim koina nige naga Yolidani silopanaisi-yoima na silau Yelusalema.
+Sauga bwaite koina kuyawatagili kulau am tokaleyayao kateli ukwabi-yakaiweli. Tem nigele kani boniyai nige tokaleya yabo imiyamiya koliwo, kani meuloili silogabae-giwo. Kabo polowe bwaite kani ilalakisosi koliwo kabo polowe meuloili siya kulobalobaili am sauga kilakai koina kanasiga sauga bwaite.” Kabo kin iyawatagili ilau imiyasio yanuwa ana kaba lusalusaena koina. Saugana ana tokaleyayao wasa sibenalani iya iyaele imiyasio kaba lusalusae koina mwa meuloili silau koina. Isileli ali tokaleya siya nige siboboita kaleya koina siyabubuko silau yanuwa uloina uloina kolili simiya. Na Deibida me ana tomoyao siyaele yanuwa Manaim koina nige naga Yolidani silopanaisi-yoima na silau Yelusalema.
+
 Na Yuda yo Isileli tomoliyao meuloili sibalabalamumu yo sigamwagamwa-pakiki siwaloba, “Kin Deibida iya mwa ileboila kala tokalomagigiliwo kolili. Tabe iya mwa Pilistiya nimali mena ileboila. Na sauga bwaite nige imiyamiya kolila, iya ilogabaegilako ilauko dedei yabo koina, Abisalomi imatausan mwa iyabubu.
 Tauna kona Abisalomi iya tagitesipwai ala kin iloina-yagila, na iya iboitako kaleya mena. Kabo gubesi na tamiya-mwanou nige taedeedede yo kin Deibida tagitesipwai yoi ipileyoima?”
 Kabo Deibida topwaoli Seidoki yo Ebayada walo iyawasa kolili yakato silau Yuda ali tautaubalao kolili na kainana siwaloweni siwaloba, “Tabu komiu Yuda kwaemala susu mwawamwawasina na kwalaoma kwasaguiyau na kwayoganyau tapileyoi yagu nume mena Yelusalema. Yawalo bwaite besiele kaiwena Isileli dedei meuloina tawae siwaloweni wasane yabenalanako. Kaiwena komiu totouguwao yaboma kwasinegu yo bulumagu yawasosi.”
@@ -8554,7 +8555,6 @@ Kabo kin mekanakava Kimam silau yanuwa Giligali. Na susu Yuda meuloili yo Isilel
 Mwa Isileli tataoliyao meuloili silaulau kin koina yo siwaloba, “Tawae kaiwena kamakavao Yuda tataoliyao nige ama wasa siyeyeyama na kamakavao kayalopanaisagili? Na silowadam yo menatumwao yo am tokaleyayao meuloili siyalopanaisagimiu waila Yolidani.”
 Kabo Yuda tataoliyao Isileli ali balamumu siyamaisa siba, “Kaginauli besiele bwaite kaiwena iya ama susu tomona. Na gubesi mwa walone kaiwena kwamunamunai? Nuwana kin kani kan iyauyauyan kolimai na kakekakekan? Nigele. Nuwana wasawasa tupwana kakalai kaiwemai? Nigele.”
 Mwa kainali Isileli tataoliyao siyamaisa siba, “Yakato komiu mwa ami kin Deibida yo kai nigele? Kai ama susu kali baibaiwa sanaulu (10) na komiu susu kaigedamo. Kabo kai ama dudulai ilalakisosi kabo komiu ami dudulai. Gubesi na wagite-lobi-yegimai yo ginauli bwaite waginauli kolimai? Kai mwa kawalo baguna ala kin tayapileyoi-yama.” Na Yuda me ali walo kaiwe Isileli kainali ikaiwe-gabaen.
-
 
 
 
@@ -13959,6 +13959,7 @@ Besiele pwawati ukoiyan gulewa koina na itata-gaoli kani kaba loina ukogaogaolil
 Kabo komiu kinyao, yanuwapei bwaite kwabenali-kalatan na me ami nuwa-mayale.
 Kabo Yeoba koina kwapaisowa me ami matausi, yo me ami tabubu
 kaena kwanisoi, kisimo ana munamunai imwayamwayau besiele mayau iwedoli na koina isibayanaemiu. Siya analiyao sisagena koina na sikaiyawasi, iwalo-muloloili.
+
 O Yeoba, siya kagu tokaleyayao sibaibaiwasosi sikalekaleya koliyau.
 Meuloili siedeedede kaiwegu siba, “Nige sagu yabo Yaubada koina iya kaiwena.”
 Na kowa Yeoba kagu totolo-kaukausi besiele yagu ebeu, kowa yagu wasawasa, yo kowa kagu tokabi-yakaiwe.
@@ -14049,7 +14050,6 @@ Tonaenaeli meuloili siya Yaubada sisikotanan silalau boita dedeina koina.
 Toeoma kani nige sauga meuloina simiyamiya ali eomane koina yo tobubutuma kani nige sauga meuloina simiyamiya bubutumane koina.
 O Yeoba kutolo, tabu kutatalam tomo sigagamwa-panapanawa koliwo. Tonaenaeli ukwalailima manim mena na kali loina kuwolegili.
 Kuyamatausagili na sikatai yakato siya tomo bwagabwagamo.
-
 O Yeoba, tawae kaiwena kumiya-suwala? Tawae kaiwena kubomayoi ukeno-wadam ama sauga miyapolowe koina?
 Toyauyaule sigagasa yo tobubutuma siyakamkamnali kusipwaili sipwasipwane siya sibomayoi siginaulili kolili.
 Kaiwena sibomayoi sigagasa ali nuwatu naenaeli kaiweli, yo toman-kikiwasi Yeoba sisikotanan yo sikawa-gulai.
@@ -14075,6 +14075,7 @@ Yeoba iyaele ana Nume Tabu kalona mena yo imiyasio ana kaba miya wasawasana koin
 Todudulai yo tonaenaeli mumugali igitegite-sipwaili yo siya toloinalikwa ikalomagigi-lagili katena meuloina koina.
 Mayau wedowedolili yo salepa wedowedolina iyawasali silobima tonaenaeli kolili yo iyamaisali yaumai wedowedoli-sosina koina.
 Yeoba iya todudulai yo paisowa namwanamwali imulolo kolili. Siya analiyao sipaisowaili kani simiyamiya Yeoba salina mena.
+
 Yeoba kusaguimai, kaiwena tomo yakayakasisili simwawasiko, tomeliwo sikwalaleleko yanuwa yaulina mena.
 Tomo meuloili walo luviluvi sopali mena siedeedede yo kalikavao simwakomwakota-yagili.
 Siya siwalo-gagasa siwaloba, “Tawae nuwanuwala tawalowen kani tawalowen, yo tawae nuwanuwala ala walo koina takalai nige sowasowana yabo ikausila.” Na yakawanoi koliwo togagasane sopaliyao kuyamwanouli yo gamwaliyao ukwausili.
@@ -14088,8 +14089,7 @@ O Yeoba, isa sauga kana mamalawe kani kunuwa-mwatainagau? Nuwana kani kunuwa-mwa
 Isa sauga kana mamalawe kani yaluyaluwagu koina yakamkamna? Isa sauga kana mamalawe kani nuwanae kategu iloyapowon kaliyate yo boniyai? Isa sauga kana mamalawe kani kagu tokaleyayao sikaiwesosi kabo muli mena yau?
 O Yeoba yagu Yaubada, ugitaiyau na yagu kawanoi kuyamaisa. Yau kaiwe kuyeyamayoi na tabu yaboboita.
 Tabu kagu tokaleyayaone sigagagasa siwaloba, “Takaiwe-gabaen.” Yo tabu siyayaliyaya yagu belune kaiwena.
-Na yameli am mulolo miyamiya yaina koina, kani yayaliyaya kaiwena kani kuleboyau.
-Kani wali yawali-yagili koliwo kaiwena kunamwanamwasosi koliyau.
+Na yameli am mulolo miyamiya yaina koina, kani yayaliyaya kaiwena kani kuleboyau. Kani wali yawali-yagili koliwo kaiwena kunamwanamwasosi koliyau.
 Siya toyauyaule kateli mena siwaloba, “Nige Yaubada imiyamiya.” Meuloili sinae ali paisowa sinaenae sosi. Nige yabo yaiya namwanamwana ipapaisowai.
 Yeoba bulibuli mena igite-lobima tomo meuloili simiyamiya yanuwa yaulina mena kolili na igitai tem analiyao me ali katai na sipwalou koina.
 Na nige todudulai yabo ipapagan, nige yabo. Meuloili kamwasa dudulaina silogabaenako silosuwala. Nige yabo ana paisowa idududulai, nigele, nige yabo.
@@ -14128,6 +14128,7 @@ Siya besiele laiyon guliguliyamli sikeno-vakasiyau nuwanuwali tem sitabe-igaliya
 Yeoba, kutolo ukwaleyaili yo ukwaiwe-gabaegili, am kaleya kelepana koina kuleboyau toyauyaule kolili.
 Kuleboyau towasawasa kolili siya ali miya koina ginauli meuloina nuwanuwali silobaiyako. Diyaliyao kuyakalapowonli am munamunai kamkamnana koina. Na kamkamnane kuyalalaki molosan na mesabana natuliyao yo tubuliyao tabe silobai.
 Na yau kani yagitaiwo kaiwena mumugagu idudulaisosi yo saugana yatolo yagu kaba keno mena am miya saligu mena kaiwena kani yaliyaya kategu iloyapowon.
+
 O Yeoba, yamulolo koliwo kowa yagu kaiwe yaina.
 Yeoba iya yagu veku yo iya yagu nume kaikaiwena yo iya kagu tolebolebo, yagu Yaubada, yagu veku kaikaiwena, iya yagu kaba meli, yagu ebeu, yo kagu tolebo yo yagu kaba kaiwe, yagu nume kaba kelolon.
 Yayoga Yeoba koina kaiwena iya tobali kana lonamwa kabo ileboyau kagu kaleyayao kolili.
@@ -14249,7 +14250,6 @@ Yeoba iya kin yo tomo meuloili kali toloina.
 Siya analiyao siwasawasa yo ginauli meuloina sowasowali kani sipwalou koina. Tomo yanuwa yaulina meuloila kani tapwalou manna mena.
 Yaso mulimuliyeli kani sipaisowa koina, besiele tabe kani wasana siwalo-masalan natuliyao kolili.
 Tomo siya naga sikakabili kani walo bwaite sibenalan, “Yeoba ana tomoyao ileboiliko.”
-
 Yeoba igite-kalatagau besiele sipi togite-kalatan ana sipi igite-kalatagili, nige sowana yaguliyam.
 Iyakaiyawasiyau kawasi kalakalawana koina yo iyoganyau waila neganegana koina yanuma.
 Yagu kaiwe iyawaluiyoi yo iyoganyau kamwasa dudulaili kolili besiele ana waloyameli.
@@ -14334,6 +14334,7 @@ yo ule leleyanli sinuku. Tabe besiele ule leleyanna esana Kadesi inuku lalakina.
 Yeoba kainana mayau lalakili esali ouki iiliyagili yo inukuili yo liguliyao meuloili sisalulu. Kabo tomo meuloili Nume Tabu mena siyoga siwaloba, “Yaubada towasawasa.”
 Yeoba yalubwasi dumwadumwakalili iloinayagili yo imiyasio ana kaba miya wasawasana koina kaiwena iya kin miyamiya yaina.
 Kaiwe iwolegili ana tomoyao kolili yo iwalo-muloloili nuwadaumwali mena.
+
 O Yeoba, yatobalanagiwo kaiwena kuleboyau nige kutatalam kagu tokaleyayao sigagagasa-likwaiyau.
 O Yeoba yagu Yaubada, yavalam koliwo sagu kaiwena kabo kuwoisiyau,
 nige kutatalamwagau yaboboita. Yalolobi boita kaiwena na yawasigu ukele-yavivilayoi.
@@ -14371,7 +14372,6 @@ Yeoba tatobalan, kaiwena saugana kau kaleyao siyatakikilagau sitonan tem siunuiy
 Yamatausi yabatoko ipei-suwalagauko manna mena, na iyamo yagu valam ibenalan saugana yayoga sagu kaiwena koina.
 Komiu tomeliwo meuloimiu, Yeoba kwamulolo koina. Yeoba tomeline isaguili na siya togagasa maisa polopolowe-sosina iwolegili.
 Komiu meuloimiu kwasanasana Guyau kaiwena, wakaiwe yo me ami katepatu.
-
 Iya tomone ana pwanoli Yeoba inuwatu-pwaikili, ana naenaena isoke-gabaenako, iyaliyaya.
 Yo tomone iya nige Yeoba ana yakewa yabo ilolobai yo mwakota mumugana nige imiyamiya koina, iya iyaliyaya.
 Saugana yagu naenaena nige yawawalo-masalagili yogu ikamkamna yagu valam kaliyate meuloina kaiwena.
@@ -14405,6 +14405,7 @@ boita mena ileboili yo sauga guliyam kolili iyakanli.
 Yaluyaluwala sisanasana Yeoba kaiwena, kaiwena iya kala totolo-kaukausi yo ala ebeu.
 Tayaliyaya iya kaiwena yo ala meli tapei esana yakayakasisina koina.
 O Yeoba, kakawanoi koliwo am mulolo miyamiya yaina imiyamiya kolimai kaiwena me ama katepatu kasanasanaiwo.
+
 Yeoba koina yakawatoki sauga meuloina, kana tobali gamwagu mena kani nige yalolopei.
 Ana paisowa meuloina kaiwena kani yatobalan. Sowasowana siya analiyao sikamkamna walo bwaite sibenalan na siyaliyaya.
 Kwalaoma komiu te yau Yeoba ana kaiwe tatobalan na meuloila esana takeleisinan.
@@ -14427,7 +14428,6 @@ Tomo namwanamwaliyao miyapolowe sibaibaiwa silobaili na Yeoba ileboili ali miyap
 kaiwena Yeoba igite-kalatagili silae kolili mwa nige sowasowana tuwatuwali kaigeda kani itagolu.
 Toyauyaule kani sibomayoi sisilae yo siya analiyao todudulai sikalomagigi-lagili kani kali maisa silobai.
 Na iyamo Yeoba kani ana tomoyao ileboili, siya analiyao silau koina sikobwau yo sikeno-wadam kani nige ana munamunai silolobai.
-
 O Yeoba, siya sikaleya koliyau ukwaleya kolili.
 Am gogo kaleya kwamana kulikwa yo am ebeu ukwalai na kutolo saligu mena kusaguiyau.
 Am wamali kuniwisi yo kaleya kilamna ukwalai na siya totawoiyaune kumiya-kausili na kuwaloyameli kani kuleboyau.
@@ -14456,6 +14456,7 @@ Tabu kutatalamwagili na kateli mena siwawalo siba, “Tasibayanaeyako, ala nuwat
 Sowasowana siya yagu kamkamnane kaiwena siyaliyaya Yeoba ikaiwe-gabaegili yo nuwaliyao iula-pwanopwanoli. Siya siwawalo yakato sinamwanamwasosi kabo yau sowasowana Yeoba iyamwalimwaline yawasosili.
 Siya kagu tosaguwo nuwanuwali sigitai yabaguna yagu yatala koina sowasowana me ali yaliyaya siwuiwui sauga meuloina siwaloba, “Yeoba iya tolalaki yo iyaliyaya ana topaisowa ana baguna kaiwena.”
 Kabo mumugam dudulaina kaiwena kani yawalo-masala yo kaliyate meuloina koina yatobatobala-nagiwo.
+
 Naenaena ibalamumu toyauyaule katena kalona mena kabo nige ali matausi yabo Yaubada kaiwena.
 Iya nuwana mena ibomayoi ikeleisinan yo ibatoko Yaubada kani nige ana lopwano ilolobai yo kani nige ikakawa-naenaeyan.
 Ana edeedede meuloina mwakota yo naenaena sikalapowon, nige sowasowana me ana katai yo nige sowasowana paisowa namwanamwana iginauli.
@@ -14468,7 +14469,6 @@ Kowa yawasi meuloina yaina na am mayale kaiwena kai mayalene kagitai.
 Siya analiyao sikataiwo kumuloloili sauga meuloina yo siya todudulaili kusaguili.
 Tabu kutatalam togagasa silaoma siunuiyau yo tabu kutatalam toyauyaule sitatawoiyau.
 Wagitaili toyauyaule siyaele sibekuko sikenokeno, nige sowasowali sitoloyoi.
-
 Tabu kunuwanuwatu tonaenaeli kaiweli, yo siya mumugana naenaena sipaipaisowai tabu kulalamwa-polowe-yagili.
 Sauga kikiunamo kani sikwalalele besiele kawasi leleyanna yo siweweka na siboita.
 Yeoba koina kumeli na kupaisowa namwanamwa na kumiya namwanamwa yanuwane koina.
@@ -14509,6 +14509,7 @@ Komiu tomo meuloimiu, tomo namwanamwanane wagitai, mumugana kwamankulakulai. Tom
 na siya tonaenaeli kani sisilae yawasosi yo natuliyao besiele.
 Yeoba todudulai ileboili yo igite-kalatagili sauga naenaena kolili.
 Isaguili yo ikele-yavivilalima, yo ileboili tonaenaeli kolili, kaiwena silau koina na itolo-kaukausili.
+
 O Yeoba, tabu kuyayamaisa-yau am munamunai koina.
 Am gipoyo yogu sisakona silusae yakamkamna lalakina yo am unuiyau nimam mena koina yabeku.
 Am munamunai kaiwena kamkamna lalakina yalobai yo yogu meuloina ikasiebwa lalakina yagu pwanoli kaiweli.
@@ -14589,12 +14590,12 @@ Sowasowana Yeoba ana mulolo miyamiya yaina iyakenayagau kaliyate mena na tem bon
 Kabo yaneli yagu Yaubada koina iya kagu totolo-kaukausi, yawaloba, “Tawae kaiwena kunuwa-mwatainagau? Tawae kaiwena nagamo yakamkamna kagu kaleyayao ali loina polopolowena koina?”
 Ali kawa-naenae koina yanuwa-belubelu kaiwena sinelineli-samasamalulu koliyau siwaloba, “Am Yaubada toweya?”
 Na tawae kaiwena yanuwa-belubelu na nuwagu inae? Kani me yagu katepatu yasanasana na Yeoba ileboyau, kabo kani yatobalan yoi kaiwena iya yagu Yaubada yo kagu Tolebo.
-
 O Yaubada, kuwalo-masala nige yagu nae yabo ipapagan, kutolo-kaukausiyau siya nige kam tomeliwo kolili na kuleboyau tomwakomwakota yo tonaenaeli kolili.
 Kowa yagu Yaubada yo kagu totolo-kaukausi, tawae kaiwena kulogabaegau? Tawae kaiwena nagamo yakamkamna kagu kaleyayao ali loina polopolowena koina?
 Am mayale yo am walo yawasosi kuyawasayama na sibaguna-yagau sikele-yapileyoi-yauma am koya yakayakasisina Saiyon koina yo am Nume Tabu bwaimwa am kaba miya.
 Kabo yalau am kaba pwaoli koina, kowa Yaubada yagu yaliyaya yaina. Kani yagu api koina yavenu yo wali-tobali yabo yawaliyan koliwo. O Yaubada, kowa yagu Yaubada.
 Na tawae kaiwena yanuwa-belubelu na nuwagu inae? Kani me yagu katepatu yasanasana na Yaubada ileboyau, kabo kani yatobalan yoi kaiwena iya yagu Yaubada yo kagu Tolebo.
+
 O Yaubada, ginauli kaba nuwapwanopwano kupaisowaili tubumayao tomo Isileli ali sauga mena wasana kabenalanako tamamayao kolili.
 Ama wasa siyeyama am kaiwe koina boda uloiline kusapili kutawoili siyawatagili na am tomoyao tubumayao kuyamiyali bwaine koina sidebalala.
 Yanuwane nige sikakalai siboma ali kaiwe koina, nige ali kaleya gogoliyao koina sibabaguna, na kowa Yeoba am kaiwe koina mwa sibaguna. Sikataiyako kumulolo kolili yo kusaguili kabo me ali katepatu sikaleya.
@@ -14697,7 +14698,6 @@ kaiwena nige sowasowana ikalai mekanakava silau tem saugana iboita. Ana wasawasa
 Bwagana tomo yabo wasawasa lalakina ilobai ana miyamiya koina mwa iyaliyaya yo tomo meuloili sitobalan,
 na iyamo kani ilau iboita besiele tamanao yo tubunao beyabeyana silau boita koina na dedeinane koina boniboniyai imiyayai.
 Bwagana tomo lalakina na esana isaesosi na iyamo nige sowana boita dedeina iyabubu-gabaen. Kani iboita besiele yakayakan meuloili ali boita.
-
 Yeoba iya Yaubada Tomiyasaesosi iwaloko yo iyogako yanuwa yaulina meuloina koina dabwelo ana kaba tunsae mena yo ilau dabwelo ana kaba sugu mena.
 Yaubada mayalena ilala besiele dabwelo yo ana mayalene ilala yanuwa namwanamwasosina Saiyon koina ilau dedei meuloina ikalai.
 Ala Yaubada ilalaoma nige mwanou koina, na mayau kalakala-pulupululuna lalakina manna mena yo wowoli lalakina iyatakikilan.
@@ -14721,6 +14721,8 @@ Kamikavao wakawa-naenae-yagili yo ali lopwano kwaloyaloyaili.
 Ami paisowa naenaena waginauliyako na yau nige walo yabo yawawalowen kabo kwabatoko nige kaiwena yanuwanuwatu. Na iyamo sauga bwaite kani yayokoi-yagimiu na ami lopwano yayakenayagimiu.
 Komiu kwamiya-dagedagela-yagau, kwabenali bwaite. Tem nigele, kani yasiba-yanaemiu, yo kani nige yabo isasaguimiu.
 Pwaoline iya kagu yakasisi bwaimwana kawatoki mumugana, yo siya meuloili siobigaiyau kani yaleboili.”
+
+
 O Yaubada, ukwate-kamkamna-yagau kaiwena kowa am mulolo imiyayai. Kaiwena am katekamkamna ilalakisosi kabo sowasowana yagu pwanoli kusoke-gabaegili.
 Yagu naenaena meuloili kudeuli-gabaegili yo yagu pwanoli koina ukwabi-kapwayau.
 Yagu loinalikwa yakataili yo yagu pwanoline sauga meuloina mangu mena simiyamiya.
@@ -14752,13 +14754,13 @@ Kabo todudulai kani sigitai na simatausi, sitalawasi-yagiwo yo siwaloba,
 Na yau besiele mayau olibe kalakalawana Yaubada ana nume koina, Yaubada ana mulolo miyamiya yaina yameliyan sauga meuloina kani nige ilolotom.
 O Yaubada, yau kani sauga meuloina yakawatoki koliwo am paisowa kaiwena. Am tomoyao manli mena kani am namwanamwa yawalo-masalan.
 
-
 Toyauyaule kateli mena siwawalo, “Nige Yaubada ipapagan.” Siya meuloili mumuga naenaena sikalapowon yo ginauli naenaesosili sipaisowailiko. Nige yabo kaloli mena paisowa namwanamwana ipapaisowai.
 Yaubada igite-lobima bulibuli mena tomo meuloili kolili na tem yabo igitai Yaubada ikataiyako iyaele koina ipwalopwalou.
 Na meuloili sibeku yo silosuwalako. Meuloili simiyamiya naenaena koina. Nige yabo ana paisowa idududulai, nigele, nige yabo.
 Yaubada inelineli, “Gubesi, siya mumugana naenaena kana topaisowao nige ali nuwa-mayale yabo? Kaiwena ali miyamiya meuloina koina sikewakewali yagu tomoyao kolili yo nige sauga yabo sikakawanoi koliyau.”
 Na kani simatausi lalakina nige besiele ali matausi bagubagunana. Kaiwena Yaubada ana tomoyao kana tokalomagigiliwo tuwatuwaliyao kani iyasulu-gwaligwalili. Yaubada isikotanagiliko mwa Isileli kani sikaiwe-gabaegili na siyamwalimwalineli.
 Kabo yakawanoi Yaubada koina iya imiyamiya koya Saiyon koina na tomo Isileli ileboili. Saugana Yaubada ana tomoyao ali miya panpanna koina iyapileyoilima kabo Yakobo tubunao bwaimwa siya tomo Isileli meuloili kani siyaliyaya.
+
 
 O Yaubada, kuleboyau esam mena yo kulivasiyau am kaiwe koina.
 Yagu kawanoi kubenalan yo yagu walo kubenalagili.
@@ -14767,7 +14769,6 @@ Na iyamo Yeoba yagu Yaubada iya kagu tosagu, yo iya kagu totolo kaukausi.
 O Yeoba, kagu tokalomagigiliwone ali naenaena kuyamaisa kolili yo kusibayanaeli kaiwena kowa towalo yawasosi.
 Kani yapwaoli mekate-yawasosigu koliwo yo kani yagu kawatoki yaeyawa kaiwena kowa kunamwanamwa.
 Kaiwena kagu polowe meuloina koina kuleboyauko yo mangu mena kagu tokaleyayao yagitaili ali kaiwe imwawasi.
-
 
 O Yaubada, yagu valam kubenalan na yagu kawanoine tabu kumimiya dagedagelayan.
 Tenam kuyawali koliyau na kainagu kuyamaisa. Yagu polowe kaiweli me yagu katewakaka.
@@ -14849,6 +14850,7 @@ Lolau molosi mena sipileyoima sikalakalagaga besiele bwauwa sokasokali yanuwa ka
 Na yau kani malala kaigeda kaigeda kainagu lalakina mena yawali-tobali am kaiwe yo am mulolo miyamiya yaina kaiweli. Kaiwena kowa yagu kaba keno-wadam yo yagu kaba kobwau sauga miyapolowe koina.
 O Yaubada, kowa yagu kaiwe, kani yagu wali-tobali yawaliyan koliwo kaiwena kowa kagu tomulolo yo kagu totolo-kaukausi.
 
+
 O Yaubada, kusikotanagimai yo ukwaiwe-gabaegimaiko. Am munamunai kalotonanako na nuwanuwamai kupileyoima kolimai.
 Kainam koina yanuwa itabubu yo bwatano itaigali itasoke. Bwatanone taigaliline kubwaluyoili kaiwena sisalulu-gwaligwali.
 Kai am tomoyao kowa kuyakamkamnamai lalakina, kabo ama kamkamna koina ama lokeikeile besiele tonuma-yauyaule ali lokeikeile.
@@ -14861,7 +14863,6 @@ O Yaubada, na kani yaiya ikalaiyau ilawagau dedei Idoma kana taon lalakina kaika
 O Yaubada, yakato kusikotanagimai? Yakato nige ama tokaleyayao mekamkavao kwalau na wakaleya kama kaleyayaone kolili?
 Kusaguimai kama kaleyayao kolili kaiwena tomo ana sagu ibelusosi ginauli bwagabwaga.
 Na tem Yaubada imiyamiya ala dedei koina kani takaiwe yo kala kaleyayaone kani ikaiwe-gabaegili.
-
 
 O Yaubada, yagu valam yo yagu kawanoi kubenalagili.
 Kategu nuwanae ikalapowon kaiwena yamiya kelamamalawe yagu yanuwa koina, kabo yayoga koliwo. Ukwalaiyau kaba keno-wadam namwanamwana koina,
@@ -14921,7 +14922,6 @@ Na galewa lalakina kuyatalu bwatano meuloina koina, yo bwatanone sigiyaliyako ku
 Am namwanamwa koina kelikeli namwanamwana silobai. Tem toweya koina kulau masuli lalakina imiyamiya.
 Kawasi ilalaki simiyamiya koya yo tailabe kolili bulumakau yo sipi sikalapowon koina sikekakekan me ali yaliyaya. Kalogawa kolili witi koina sikalapowon. Ginauli meuloina siwaliwali yo siwuiwui me ali yaliyaya.
 <range>
-
 Komiu tomo meuloimiu yanuwa yaulina mena, Yaubada kwatobalan me ami yaliyaya.
 Esana kwatobalan yo ana wasawasa kwawaliyan.
 Kwawalo Yaubada koina kwawaloba, “Am paisowa meuloili sinamwanamwasosi. Am kaiwe ilalakisosi kaiwena mwa kam kaleyayao me ali matausi sipwalou koliwo.
@@ -14942,6 +14942,7 @@ Yavalam koina sagu kaiwena yo yatobalan wali kolili.
 Tem pwanoline siya kategu mena yamulolo kolili, Yeoba kani nige ibebenali koliyau.
 Na iyamo walo yawasosi Yaubada kainagu ibenalan mwa yagu kawanoi iyamaisa.
 Kabo Yaubada yatobalan kaiwena yagu kawanoi nige isisikotanan yo ana mulolo miyamiya yaina nige inunuwai koliyau.
+
 O Yaubada, ukwate-kamkamna-yagimai yo kuwalo-muloloimai. Ugite-laoma kolimai me am mulolo,
 na mesabana yanuwa yaulina meuloina am nuwatu sikatai yo tomo meuloili sikatai yakato kowa Tolebolebo.
 O Yaubada, sowasowana tomo meuloili sitobalanagiwo.
@@ -15028,7 +15029,6 @@ Sowasowana siya sitonatonan tem siunuiyau ukwaiwe-gabaegili na nuwaliyao kuula-p
 Na siya sitalatalawasi-yagau sowasowana ukwaiwe-gabaegili na simwalimwaline.
 Sowasowana siya meuloili silaoma koliwo siyaliyaya lalakina. Sowasowana siya sikawa-toki koliwo am lebo kaiwena sauga meuloina siwaloba, “Yaubada iya Tokaiwesosi.”
 O Yeoba yagu Yaubada, yau yabelu yo yabubutuma, mwayamwayau kulaoma koliyau. Kowa kagu Tolebolebo kabo mwayamwayau mena kulaoma kusaguiyau.
-
 O Yeoba, yalaoma koliwo na kutolo-kaukausiyau. Tabu sauga yabo kau kaleyayao sikakaiwe-gabaegau.
 Mumugam dudulaina koina kusaguiyau, tenam kuyawali koliyau na kuleboyau.
 Kowa yagu veku yau kaba keno-wadam yo yagu nume kaikaiwena koina lebo yalobai.
@@ -15124,6 +15124,7 @@ Kelabilabin kamwasanane uginauli kolimai kunuwatu-kalatan, kaiwena ama yanuwa me
 Tabu kutatalam na kai tokamkamna kamwamwalimwaline. Kusaguimai na kai tobubutuma yo toeoma kani esam katobalan.
 O Yaubada, toyauyaule sitalatalawasi-yagiwo kaliyate meuloina koina, kabo kunuwatu-kalatan kutolo na ali talawasi-yagiwone kaiwena kuyamaisali.
 Kam tokaleyayao ali wui munamunai kunuwatu-kalatan iyaele ilaulau.
+
 O Yaubada, kakawatoki koliwo yo kawalo-masala am lalaki kaiwena yo am paisowa ginauli kaba nuwapwanopwano wasali kayawayawasa.
 Yaubada iwaloba, “Sauga yapeiyako yatala kaiwena yo loina dudulaina koina kani tomo yayatala-yagili.
 Bwagana yanuwa yaulina inuku yo yamayamayale meuloili simatausi sitabubu na iyamo yanuwa yaulina kana wauwau kani yakabi-kalatagili.
@@ -15168,7 +15169,6 @@ Yaloyaloi galewa sisuwai ilobima, tutu itutu bulibuli mena na pigabu ipigabu ana
 Tutu daguguna bwawa kalona mena, na pigabu mayalena koina yanuwa yaulina imayale yo mwanikiniki inuku.
 Bagolu luwana mena kulau, kalita didididiuna kulopanaisi, na monam nige sowasowali sigitai.
 Tomo kubaguna-yagili besiele sipi togite-kalatan ana paisowa, tomone siya Mosese yo Eloni ali loina yaulina mena silaulau.
-
 O yagu tomoyao, kwabenali yagu yakayakatai kolili. Tenamiyao kwasokeli na kwabenali tawae yawalowalowen.
 Kani walo sonosonogali kolili yaedeedede kolimiu na nuwatu wadawadamli sauga beyabeyana kolili yakabi-yamayaleli kolimiu,
 siya edeededene tabenalagiliko yo takataili edeededene siya tamalao siwalowegiliko kolila.
@@ -15254,6 +15254,7 @@ Tabu kutatalam kaba loinao sineneli-samasamalulu kolimai siwaloba, “Ami Yaubad
 Topaisowa panpanli ali yaba kubenalan, na am kaiwe lalakina mena siya kikiunamo kani siboita kulivasili.
 O Yeoba, kaba loinaone kuyamaisali me seben, ali walo sinasinali koliwo kaiwena kuyamaisali.
 Kabo kai am tomoyao, am sipi bodana, kani kakawatoki koliwo sauga meuloina nige ana kaba mwawasi.
+
 O Yeoba, kai Isileli kama togite-kalatan kowa, kai am sipi bodana yo kowa ama tobaguna, ama walo kubenalan. Kowa kumiyasio am kaba miya wasawasana koina na yaulim mena aneloseyao simiyamiya.
 Na kubomayoi kuyakenayagiwo boda Ipeleim, Beniyamina, yo Manase kolili na sikataiwo. Am kaiwe kuyakenayagimai yo kulaoma kuleboimai.
 O Yeoba ama Yaubada Tokaiwesosi, am katekamkamna kuyakenayagimai na lebo kalobai. Isa sauga kana mamalawe kani am tomoyao ali kawanoi koina kumunamunai?
@@ -15290,7 +15291,6 @@ Nuwanuwagu lalakina yagu tomoyao Isileli sibenali koliyau yo kainagu siobigai.
 Tem siobigaiyau kani mwayamwayau kali kaleyayaone yakaiwe-gabaegili yo kali tokalomagigili yaunuili.
 Siya sikalomagigi-lagau kani me ali matausi sipwalou mangu mena, kali maisa kani imiyayai.
 Na kani yayakanmiu witi namwanamwasosina koina na diyamiyao sisu kamwakamwa koina.”
-
 Yaubada imiyasio ana kaba miya wasawasana koina bulibuli mena na mesabana yaubadao meuloili iyatalayagili yo kali loina iwolegili.
 Kabo iwaloba, “Loina dudulaina mena kwayatala, tabu sauga yaboyoi ami yatala koina toyauyaulene kwasaguili.
 Loina dudulaina kwaolena tobubutumao, siya nige tamaliyao sipapagan, siya sikamkamna yo siya nige kali tosagu yabo, kali loina kaigeda.
@@ -15299,6 +15299,7 @@ Komiu yaubadao kwabenali. Komiu toyauyaule, nige ami katai yabo. Komiu boniboniy
 Bwagana komiu yakato yaubadao yo yau Tomiyasaesosi natuguwao,
 na iyamo kani kwaboita besiele tomo, yawasimiu kani yatom-gabaen besiele kin natuna yabo yawasina.”
 Kabo kai kawaloba, “O Yaubada, kutolo na yanuwa yaulina kuloinayan kaiwena kaba loinao meuloili siya am gogo.”
+
 O Yaubada, tabu kumimiya-mwanou.
 Kam kaleyayao yo kam tokalomagigiliwo ugitaili, siyaele sigamwagamwa-panapanawa koliwo.
 Siyaele wadam mena ali loina naenaeli sinuwanuwatuili na tem am tomoyao, siya mwa kutolo-kaukausili, sikaleya kolili.
@@ -15344,7 +15345,6 @@ Besiele tomo sielobelobe yo simulolo, Yaubada mumuganao, bwaimwa mulolo, walo ya
 Walo yawasosi kani ibunubunuwasi bwatano koina na isae kewa mena. Mumuga dudulaina bulibuli mena kani igite-lobima yanuwa yaulina mena.
 Yeoba kani iwalo-muloloila yo ala yanuwa imasuli na ala kelikeli inamwanamwa.
 Kabo mumuga dudulaina kani ibaguna ilau Yeoba ana kamwasa ikatububun kaiwena.
-
 O Yeoba, tenam kuyawali yo kainagu kuyamaisa kaiwena nige yagu kaiwe yabelusosi.
 Kuleboyau boita koina kaiwena yau tomo yakayakasisina. Yau am topaisowa yo yagu meli yapei koliwo kabo kuleboyau.
 Kowa yagu Yaubada, ukwate-kamkamna-yagau. Kaliyate meuloina koina yakawanoi koliwo.
@@ -15369,6 +15369,7 @@ Yagu tomoyao siobiobigaiyau tupwaliyao siyaele Itipita koina, tupwaliyao Babilon
 Na Saiyon kaiwena kani siwalo yakato tomo meuloili sikabili Saiyon koina. Yaubada Tomiyasaesosi ana yanuwa Saiyon kani ikabi-yakaiwe.
 Na Yeoba kani ana tomoyao iyasilili yo kaigeda kaigeda kaiwena kani iwaloba, “Bwaite sikabiya Yelusalema koina.”
 Siya kani siselo yo siwali ali wali walona bwaite besiele, “Saiyon iya ala walo-mulolo meuloili yaina.”
+
 O Yeoba yagu Yaubada, yayoga sagu kaiwena kaliyate meuloina koina, na boniyai yavalam-saewa.
 Kutalam yagu kawanoi ilaowa manim mena yo tenam kuyawali yagu valam sagu kaiwena.
 Polowe sibaibaiwa sitalu pwatagu mena kabo kikiunamo yaboita.
@@ -15440,7 +15441,6 @@ O Yeoba, toweya am mulolo miyamiya yaina beyabeyana kuyeyama kolimai? Toweya am 
 Kunuwatu-kalatan yau, am topaisowa, tomo ali sinali yalobaili, yo ali kawa-gula yakalakisiye-yagili.
 O Yeoba, kam tokaleyayao am kin gitegite-sipwaina sikawa-naenae-yan. Toweya koina ilauya sitalatalawasi-yan.
 Yeoba tatobalan nige ana kaba mwawasi. O besiele.
-
 O Yeoba, kowa sauga meuloina kuyamala ama kaba miya.
 Muli mena kabo yanuwa yaulina yo koya kuyamayaleli na kowa Yaubada miyamiya yaina kani nige ilolotom.
 Tomo ali sauga boita kowamo kuloinayan kabo kuwaloba, “Kupileyoi bwatano kauna koina.”
@@ -15474,6 +15474,7 @@ Kani laiyon sokasokali yo weso naenaeli kuutusae pwatali mena na kuutuyamateli k
 Yaubada iwawalo, “Siya analiyao simulolo koliyau kani yaleboili yo siya sikataiyau kani yatolo-kaukausili.
 Saugana siyoga koliyau kani yayamaisa kolili, yo saugana polowe silobai yau kani mekalikava, yaleboili yo yayakasisi-yagili.
 Kani maisali yaolegili yawasili simamalawe yo yaleboili.”
+
 O Yeoba ama Yaubada Tomiyasaesosi kowa, tubula ana namwanamwa tem kakawatoki koliwo yo kawali-tobali esam koina.
 Tubula ana namwanamwa tem am mulolo miyamiya yaina kawalo-masalan malala kaigeda kaigeda yo am walo yawasosi kawalo-masalan boniyai kaigeda kaigeda.
 Ama walo-masala mekanakava api lalakili yo kikiuli kainali namwanamwali kolili.
@@ -15489,7 +15490,6 @@ Na todudulai kani sidebalala besiele tutube ali debalala Isileli koina yo kani s
 Siya todudulaine besiele mayau sikumaili Yeoba ana nume mena, na silala Yaubada ana Nume Tabu kalona mena.
 Bwagana silikeko na iyamo uweli namwanamwali siyawayawatagilima kolili, sauga meuloina sikalakalawa yo sikaikaiwe.
 Bwaite iyakenayagila Yeoba iya todudulai yo nige yabo naenaena imiyamiya koina iya kagu totolo-kaukausi.
-
 Yeoba iya Kin, yakasisi yo kaiwe siyakwamai kolili. Na yanuwa yaulina imiya namwanamwa ana kaba miya mena na nige sowasowana imwasali.
 O Yeoba, am kaba miya wasawasana itolo-kaikaiwe imiyamiya kaba yatubu koina kanasiga kabona. Muliya kabo sauga itubu kowaele kumiyamiya.
 Yalubwasi sididi yo kalita bagoluli ali guli daguguli silalaki, kainali isaewa besiele bagolu lalakili sigolugolu daguguli.
@@ -15585,6 +15585,7 @@ Yaiya kanakava ietalapiliyan kani yasibayanae yo tomone iya togagasa yo tonuwasa
 Siya ali meli sipei Yaubada koina kani yagitelau kolili yo yayoganli simiyamiya mekaukavao yagu nume koina. Siya towalo yawasosi kani yatalamwagili sipaisowa koliyau.
 Yaiya mumugana imwakomwakota nige sowasowana imiyamiya mangu mena yo yagu nume kalona mena.
 Malala kaigeda kaigeda siya toyauyaule kani yasibayanaeli yanuwane koina, na mumugana naenaena kana topaisowao meuloili yatom-gabaegili Yeoba ana yanuwane koina.
+
 O Yeoba, yagu kawanoi kubenalan, yagu valam sagu kaiwena ilaowa koliwo.
 Yagu sauga miyapolowe koina tabu manim kupepei-suwalan koliyau. Tenam kuyawali koliyau na yagu yoga kuyamaisa mwayamwayauwan.
 Kaiwena yagu kaliyate sikwalakwalalele besiele bogau ikwalakwalalele yo yogu siwedowedoli besiele mayau lalakina iwedowedoli.
@@ -15613,7 +15614,6 @@ Kaba yatubu koina yanuwa yaulina kana wauwau kowa kupaisowai, yo nimam mena buli
 Kowa kani kumiyayai na siya kani simwawasi. Kaiwena siya besiele kaleko beyabeyali, kani sitaigali kabo ugabaegili.
 Na kowa kani kaigedam nige sowasowam kumwawasi, kumiyayai.
 Yo am topaisowao natuliyao yo tubuliyao kani simiya namwanamwa am gite-kalatan yaulina mena.
-
 Yaluyaluwagu, Yeoba kutobalan. Yogu meuloina, esana yakayakasisina kutobalan.
 Yaluyaluwagu, Yeoba kutobalan na tabu kisi ana paisowa namwanamwali ipaisowailiko kunuwa-mwatainagili.
 Yagu naenaena meuloina inuwatu pwaikili yo kau kasiebwa meuloina kolili iwoisili.
@@ -15807,6 +15807,7 @@ kabo kali toyakamkamnaone ikalomagigi-lagili yo itawoili na silolo-bwagabwaga ul
 Na tobubutuma ileboili ali kamkamna koina yo iwalo-muloloili sidebalala besiele sipi.
 Kabo todudulai Yaubada ana paisowa sigitai mwa siyaliyaya, na toyauyaule meuloili iyamwanouli.
 Na siya me ali katai ilonamwayagili tem ginauliline sinuwanuwatuili yo sowasowana Yeoba ana mulolo miyamiya yaina iyamala ali kaba nuwanuwatu.
+
 O Yaubada, me kate-yawasosigu. Kani yavenu me yagu wali yatobalanagiwo. Yaluyaluwagu, kutolo.
 Kani yagu api kolili yavenuvenu na dabwelo yayanoi itunsae.
 Yeoba, kani yakawatoki koliwo na tomo meuloili sibenali, kani yawali-tobali koliwo kaba loina meuloili luwali mena.
@@ -15820,7 +15821,6 @@ O Yaubada, na kani yaiya ikalaiyau ilawagau dedei Idoma kana taon lalakina kaika
 O Yaubada, yakato kusikotanagimai? Yakato nige ama tokaleyayao mekamkavao kwalau na wakaleya kama kaleyayaone kolili?
 Kusaguimai na kama kaleyayao kakaiwe-gabaegili, nige tomo yabo sowasowana isaguimai, kowa kubomamo.
 Tem Yaubada mekalakava sowasowana kala kaleyaone takaiwe-gabaegili, iya mwa kani iutu-lobilobiyegili.
-
 O Yaubada, yatobalanagiwo, na tabu kumwamwanou-wagau.
 Kaiwena toyauyaule yo tomwakomwakota sikawa-naenae-yagauko, sietalapili-yagau,
 yo bwagana nige yagu nae yabo ipapagan na iyamo walo naenaeli siwalowalo-wegili koliyau.
@@ -16329,6 +16329,7 @@ O Yeoba, siya sikalomagigi-lagiwo yau tabe yakalomagigi-lagili. Siya sigamwapana
 Nige tawae yabo na iyamo yakalomagigilimo. Yakatai koliyau siya kau kaleyayao.
 O Yaubada, kategu kuloyai na ukwatai, kutonagau na yagu nuwatu ukwataili.
 Kuloyaiyau ugitai tem nuwatu yauyaulena yabo kalogu mena na kubaguna-yagau kamwasa miyamiya yaina koina.
+
 O Yeoba, kuleboyau tomo naenaeli kolili, na ugite-kalatagau tomo kalekaleyaliyao kolili.
 Siya nuwatu naenaeli sinuwanuwatuili kateli mena yo sauga meuloina kaleya siyatuyatubuli.
 Memenaliyao ali mwasali besiele weso kelakelabasina.
@@ -16342,7 +16343,6 @@ Sowasowana mayau wedowedolili gibwalaliyao kusuwai pwatali mena yo ugabaegili gu
 Tabu siya toyakewa mwakomwakotaone esaliyao silalalaki. Sowasowana tomo tokalekaleyayaone naenaena silobai na isibayanaeli.
 O Yeoba, yakatai kowa tobubutumao yo toeomao kutolo-kaukausili.
 Walo yawasosi, siya todudulai kani esam sitobalan yo simiyamiya manim mena am gite-kalatan koina.
-
 O Yeoba, yayoga koliwo kulomwayamwayauma kusaguiyau. Kainagu kubenalan saugana yayoga koliwo.
 Yagu kawanoi ukwalai besiele inisensi yagabu bwalaina namwanamwana. Lolau kaigeda kaigeda kolili tomo Yudiya silau Nume Tabu koina na pwaoli sigabu na mesabana pwaoline bwalaina ukwalai kam yakasisi kaiwena. Na yau nimagu yakeleisinagili kam yakasisi kaiwena na tem ukwalai besiele lolau pwaolina.
 O Yeoba, gamwagu kuloinayan ikausi tabu walo naenaena iwawalowen.
@@ -16353,6 +16353,7 @@ Besiele tomo mayau sisenasena itaigali teuliyao sitata-gwaligwali ee bwaine besi
 Na iyamo yagu meli yapeiyako Yeoba yagu Yaubada koliwo, yo am tolo-kaukausiyau nuwanuwagu. Tabu kupepeiyau boita koina.
 Tonaenaeli ali sipwasipwa sikatububu-nagiliko kaiwegu kabo kutolo-kaukausiyau am kaiwe koina.
 Tonaenaeline kutalamwagili sibeku siboma ali sipwasipwa kolili, na yau yalau namwanamwa koina.
+
 Yayoga kainagu lalakina mena Yeoba koina, yakawanoi sagu kaiwena.
 Yagu walo baibaiwa meuloina yakalailima yapeili manna mena yo yagu polowe meuloina yawalo-masalagili koina.
 Tem yaluyaluwagu ibelu iya ikatai tawae kani yaginauli. Yagu lau kamwasa koina kau kaleyayao sipwasipwa sinonowaiyako kaiwegu.
@@ -16360,7 +16361,6 @@ Saugana yagite-keikeile dedeigu mena nige yabo kagu tosagu, nige yabo kagu totol
 O Yeoba, yavalam koliwo sagu kaiwena, kaiwena kowa kagu totolo-kaukausi, yagu miyamiyane yawasigu meuloina koina kowa kubomamo nuwanuwagu.
 Yagu valam sagu kaiwena kubenalan, kaiwena yagu nuwalubu ilalakisosi. Kau kaleyayao kolili kuleboyau, siya sikaiwesosi kabo muli mena yau.
 Kulivasiyau panpanna koina na am tomoyao ali miyagogo koina esam yatobalan am namwanamwa koliyau kaiwena.
-
 O Yeoba, yagu kawanoi kubenalan am namwanamwa yawasosi yo am walo yawasosi kolili kainagu kuyamaisa.
 Tabu am topaisowa kupepei yatala koina kaiwena nige yabo todudulai imiyamiya manim mena.
 Kau kaleya iloyaloyaiyau ikabi-kalatagau yo ikaiwe-gabaegau mwa nume pan boniboniyaina koina ipeiyauko kabo yau kagu lotonan besiele toboita beyabeyali.
@@ -17897,7 +17897,6 @@ Na tem saugana tomo siwalo-laowa kolimiu yakato siya tokenogite kaikaiyabowa kol
 Tabenaliya Yaubada ana yakayakatai yo ana yanuwapei koina. Analiyao siya walo bwaite nige simumuliya siya toboniboniyai, nige mayale yabo imiyamiya kolili.
 Tomo besiele siya bwaite kani yoli sisawosawowoli yo guliyam kamnana silotonan. Yanuwa meuloina kani silotakikilan kan siloyaloya. Ali munamunai koina kani sisakaisae bulibuli mena yo walo-naenae siwalowalowen ali kin koina yo tabe Yaubada koina.
 Imwawasi kani sipwalou-lobi bwatano mena kamkamna boniboniyai yo matamatausi luwana mena sibomamo sipei-luseyagili. Yo tabe nige namwanamwa yabo silolobai.”
-
 Tauna kona Yeoba susu Sebulon yo susu Napitalai iyakamkamnali lalakina na sauga ilalaoma koina ali yanuwa esaliyao yo dedei Galili esana kani ikeleisinagili kabo wasali silalaki yanuwa yaulina mena. Kaiwena dedeinane koina Kalita Galili ana kaba didi-yawatagili ilobi waila Yolidan koina. Na bwaine dedeinane koina siya nige tomo Yudiya sibaibaiwasosi simiyamiya na siya tomo Yudiya nige sibabaibaiwa.
 Na siya simiyamiya boniboniyai koina naga kani mayale lalakina sigitai, yo siya simiyamiya boita lolonna mena kani mayale imwalisae kolili.
 Kowa Yeoba kani kaba loina kuyalalakiyoi na ali yaliyaya kuyalalakiyoi na siyaliyaya. Kana koleya besiele tem tomo siyaliyaya kelikeli koina yo besiele tokaleyayao gogo kewakewalina sisoisoiyan.
@@ -17918,6 +17917,7 @@ Koinaele, Yaubada kani nige iyayaliyaya ali kilakaiwo kolili yo tabe nige ikakat
 Ali yauyaule besiele mosomoso iwedoli yo ikalamka palipali kolili yo ikala-lalalaki gunuwala koina kabo bogauna ibalubalusosi besiele yaloyaloi.
 Mwa Yaubada Tokaiwesosi ana munamunai mena yanuwa igabu iwedoli yo tomo meuloili kani siwedoli besiele mayau iwedowedoli yo boita ilalakisosi, tomo kaigeda kaigeda nige kana tosagu yabo.
 Na tomo tawae sikwayai kani sikan na iyamo nige sowana diyali sisu nagamo meguliyamli. Mwa sauga polopolowena bwaite koina kani sitolo yo ali gagagiliwo bulumaliyao sikanli.
+Boda labuine bwaite siya boda Manase yo boda Epileim kani sibomayoi siekalekaleya-yagili kabo muli mena siboda kaigeda na sikaleya Yuda koina. Kabo tabe Yaubada imunamunai nimana ikeleisin kaigedai kolili.
 Oo katekamkamnali siya loina naenaeli siginaulili kaiwena loinane nige sidududulai. Kaiwena tomo naenaeli loinaone siyapaisowaili na tem yagu tomoyao siyakamkamnali.
 Nige sitatalam tem tobubutumao ali solasola silobai yatala mena. Besiele tabe tonaenaeli sauga meuloina sikewakewali kwabukwabuliwo yo sinasinage yo tamatamage kolili.
 Tawae kani wagiginauline saugana Yaubada iyamaisamiu? Wowoli iyaele kelamamalawe mena ilalaoma, kani to kwayabubu kwalauya na lebo kwalobai? Na kani toweya koina ami wasawasao kwapeiliya?
@@ -21904,9 +21904,6 @@ Gavana yo siya tabe gavana yaulili mena, toloinao yo kin kana tosaguwo sitolo-ta
 Yo kin Nebukadinesa iba, “Setaleki, Misake yo Abedenigo ali Yaubada tatobalan iya ana anelose iyawasa yo ana topaisowao yaiyona ileboili. Siya ali meli sipei koina na kainagu nige sibebenalan na sitalamwagili siboita nige nuwanuwali Yaubada uloina koina sipwalou sibomamo ali Yaubada koina.
 Bwaite yagu loina tem toisabo tomo nuwana yanuwa o nuwana kaina Setaleki, Misake yo Abedenigo ali Yaubada koina iwalo-sinasinali yo nige iyayakasisi-yan tomonane yona kani siyetomtomwani yo ana nume sisoke-gwaligwali. Kaiwena nige yaubada yaboyoi imiyamiya yo sowasowana ileboila besiele bwaite.”
 Kabo kin kaba miya saesaena iwolena Setaleki, Misake yo Abedenigo kolili dedei Babilon kalona mena.
-
-
-
 Yau kin Nebukadinesa. Kateguwao komiu meuloimiu. Wasa bwaite yayawasa yanuwa meuloina tomoliyao kolimiu kwapi uloi uloi yo kaina uloi uloi yanuwa yaulina pwatana mena.
 Sauga bwaite nuwanuwagu ami wasa yaeyawa ginauli kaba nuwapwanopwano yo yakenayan bwaite kaiweli Yaubada Tomiyasaesosi iyakenayagau.
 Ana paisowa kaba nuwapwanopwano. Ana kaiwe ilalaki nige sowasowana tawalo. Ana loina, loina miyamiya yaina tabe ana kaba loina imiyamiya yaso yo yaso kolili.
@@ -21941,6 +21938,9 @@ Yagu walo nige yaemwawasi, yo kaina yabo yabenalan ilobima bulibuli mena, iba, �
 Kani nige kumiyamiya tomo luwali mena na kani sitawoiwo ule mena na yakayakan mekamkavao kwamiya toyawa, kabo kawasi ukekakekan besiele bulumakau bolime seben kalona mena, kanasiga tem ukwatai yakato Yaubada Tomiyasaesosi kaba loina meuloina yanuwa yaulina mena iya ibomamo iloinayagili yo iya sowasowana kaba loina isoiyan tomo igite-sipwai koina.”
 Sauga bwaite koina yau Nebukadinesa walone iyamala yawasosi koliyau yo sitawoiyau tomo manli mena na kawasi yakekakekan besiele bulumakau yo wabumali koina kwapigu ibuta. Kabo itogu ikin besiele magesubu wiyana. Yo nimagu gibuliyao simamalawe besiele man gibuliyao.
 Bolime seben simwawasi kabo mangu isae bulibuli mena yo yakawanoi kabo nuwatu namwanamwana ilaoma koliyau. Na Yaubada Tomiyasaesosi yatobalan yo yayakasisi-yan yo walo-mulolo yaolena koina, iya yawasina miyamiya yaina sauga meuloina. Ana loina, loina miyamiya yaina yo ana kaba loina imiyamiya yaso yo yaso kolili.
+Tomo meuloili yanuwa yaulina pwatana mena, ali katai igitai besiele ginauli bwagabwaga. Aneloseyao bulibuli mena yo tomo yanuwa yaulina mena simiyamiya ana loina yaulina mena. Nige sowana tomo yabo ana nuwatu itom yo nige sowasowana sineli ana paisowa kaiwena.
+Saugana nuwatu namwanamwana iyawatagili koliyau yo yanamwanamwa kabo tomo siyakasisi-yagau besiele kin kali yakasisi. Yagu topaisowa lalakili yo yanuwa kana tobagunao sikalaiyau kabo yagu kaba miya kaba loina kalona mena siyeyama-yavivila kabo esagu ilalakisosi, nige besiele beyabeyana.
+Yau Nebukadinesa, sauga bwaite Yaubada iya kin bulibuli mena esana yakeleisin, yatobalan yo yawaloseyan, kaiwena ginauli meuloina siya iginaginaulili sidudulai yo sitoyatoyawa. Na siya sigagasa iya sowasowana ipei-yataluli.
 Nebukadinesa iboita kabo natuna esana Belisasa kaba loinane ikalai. Kin Belisasa soi lalakina iginauli, kabo mekanakavao towasawasa kali baibaiwa tausan kaigeda sikekan yo wain sinuma toyawa.
 Saugana Belisasa wain inuma-tonan mwa iloina komwa bwaimwana gole yo siliba koina siginauli sikalailima koina bwaine tamana Nebukadinesa ikalailiya Yaubada ana Nume Tabu Yelusalema koina. Kin nuwanuwana wainenao yawasosi yo wainenao tupwaliyao yo tabe towasawasa mekalikavao sinuma komwane kolili.
 Yo komwa sikalailima kabo kolili meuloili sinuma.
@@ -21971,6 +21971,7 @@ Liye, Yaubada kam polowe iliyeiyako kaba liye koina yo ilobai yakato kowa kumala
 Yakasa, am kaba loina iyaele kani ikelegabaen yo iyakasa iyauyan Mediya yo Pesiya kolili.”
 Kabo kin Belisasa iwalo ana topaisowa kolili towasawasa kali kwama sikalaiyama Daniela siyakwamai yo galogalo bwaine gole koina siginauli siyagalo-takikili galogalona mena. Kabo kin Belisasa Daniela ipeiseyan iyamala toloina yaiyonana Babilon koina.
 Boniyainane koina tomo Mediya silaoma Belisasa, Babilon ali kin siunuyamate.
+Kabo Daliyasi, tomo Mediya ana bolime sikisti tu (62) Belisasa ana kaba loina ikalai.
 Daliyasi gavana kali baibaiwa andeledi yo tuwenti (120) igite-sipwaili ipeili ana kaba loina dedeina meuloina sigite-kalatan.
 Toloinao lalakili yaiyona tabe igite-sipwaili, yabo iya Daniela, yo gavana meuloili ali paisowa sigitagitai, tabu kin ana paisowa inanae.
 Kin igite-lobai Daniela ana paisowa toloinao yo gavana meuloili inamwanamwa-gabaegili kabo inuwanuwatu yakato kaba loina meuloina iwolena Daniela iloinayan.
@@ -21999,7 +22000,6 @@ Kin Daliyasi walo iyawasa yanuwa meuloili tomoliyao kolili kwapi uloi uloi yo ka
 Bwaite yagu loina tomo dedei meuloina yagu kaba loina kalona mena Daniela ana Yaubada kwanuwatu-kalatan yo kwayakasisi-yan. Iya Yaubada meyawasina yo iya miyamiya yaina. Ana kaba loina nige sowasowana kita tomo talikwai, ana kaiwe nige imwamwawasi.
 Iya kala toyamayale yo kala tolebo ginauli kaba nuwapwanopwano ipaisowaili bulibuli mena yo yanuwa yaulina mena. Daniela ileboi yo laiyon nige sikakan.”
 Kabo Daliyasi, yo Sailusa game Pesiya, ali sauga kin koina, Daniela ana miyamiya inamwanamwa yo esana ilalaki.
-
 
 
 
@@ -22614,6 +22614,7 @@ Na iyamo wagane kana topaisowa sikepate yakato waga siwoseyan silawan yanuwa men
 Kabo siyogasae Yona ana Yaubada koina siwaloba. “O Yeoba, kakawanoi koliwo, tabu tomone bwaite ana boita kana polowe ilalaoma kolimai kaiwena tomo bwaite nige ana nae ipapagan. Tabu kuyayamaisa naenaena kolimai kaiwena kowa kuwalo mwa wowoline bwaite iyawatagili kolimai.”
 Kabo silau Yona sikalai yo sigabaen kalita mena, kabo wowoli lalakinane ilopei idaumwali.
 Daumwaline sigitai kabo topaisowane me ali matausi lalakina Yeoba koina, mwa kaba pwaoli yabo sikalai yo sipwaoli koina yo siwaloyameli yakato sauga meuloina kani sitapwalolo koina.
+Na Yeoba iye lalakina yabo iyawasa ilau Yona isinoli ilobi diyana kalona mena kaliyate yaiyona yo boniyai yaiyona imiyamiya.
 Yona iyaele iye diyana mena kabo ikawanoi Yeoba, iya ana Yaubada koina,
 iwaloba, “O Yeoba, yagu miya polowene bwaite koina yakawanoi koliwo, kainagu kuyamaisa. Boita lolonna mena yakawanoi sagu kaiwena. Yagu valam kubenalan.
 Ugabae-lobiyegauko dumwakali mena, kabo yalau dumwakali kalomolosina mena. Kalita imiya-takikilagau yo tabe kuwalo bagolu lalakili siguliguli pwatagu mena.
@@ -22624,7 +22625,6 @@ Saugana yawasigu kikiunamo imwawasi, Yeoba yanuwatu-kalatagiwo. Yagu kawanoi isa
 Siya sitapwalolo kokotomo naenaeli kolili sisikotanagiwo, nige simumulolo koliwo.
 Na yau kani yawali-tobali koliwo yo yapwaoli koliwo yo tabe yapaisowai besiele yagu waloyameli koliwo. Lebo yawasosi ilaoma Yeoba koliwo.”
 Kabo Yeoba iwalo iye koina yo ilau Yona imaliwe-gabaen magu mena.
-
 Kabo Yeoba iwalolau yoi Yona koina iwaloba,
 “Kulau Ninibe, taon lalakina, na wasa bwaimwa yaeyawa koliwo kuyawasa kolili.”
 Yona Yeoba kainana ibenalan yo ilau Ninibe. Na Ninibe taon lalakina, tem nuwanuwala talopanaisi dedei yabo mena kani talaulau kaliyate yaiyona.

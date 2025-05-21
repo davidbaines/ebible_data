@@ -926,6 +926,7 @@ Ne mid-uman pa megkaǥi si Laban diyà te ki Jacob te, “Heini zed is menge vat
 Iyan menge tuus he ebpeketistiǥus is Megbevayà. Tuus heini is intambù wey tuus daan heini is impelastar he vatu te uyun ta he kenà a edlavey kayi te intambù te kebpesipala kenikew, ne sikew zaan, kenè ka edlavey kayi te kebpesipala kedì.
 Ne ke edsupaken heini te minsan hentei kenita, berakat he siluti sikandin te Megbevayà ni Abraham wey Megbevayà ni Nahor he iyan daan Megbevayà te amey zan.” Ne mibpesarig daan si Jacob ne mibpetistiǥus te Megbevayà he edtehuzen te amey zin he si Isaac.
 Ne mibpemuhat sikandin dutun te vuvungan ne impekaan din te menge kezuzumahi zin. Ne hein nekekaan dan, dutun dan medhulavung.
+Ne hein nepawà, midhezekan ni Laban is menge apù din wey menge anak din he esawa ni Jacob ne mibpenubtuvazan din. Ne zutun migenat su ed-ulì.
 Ne migenat en daan dutun ensi Jacob ne neumahan sikandin te menge velinsuǥuen te Megbevayà.
 Ne hein naahà sikandan ni Jacob, ke sikandin te, “Menge sundaru heini te Megbevayà!” Ne migngezanan din haazà is tanà te Mahanaim.
 Ne zuen menge midsuǥù ni Jacob he impehuna zin diyà te ki Esau ziyà te tanà he Seir, kes lugar he egngezanan daan he Edom.
@@ -958,7 +959,6 @@ Ne migkeǥiyan sikandin ni Jacob te, “Tezemi a kenikew ke hentei is ngazan nu?
 Migngezanan haazà ni Jacob he tanà te Peniel, he ke và dà egkeǥiya, “Neehè ku is dagwey te Megbevayà piru uuyag e zed.”
 Ne hein midsilà is andew mid-awà si Jacob diyà te Peniel. Ebpiangpiang sikandin tenged te kegkekiluwi te midsuuran te tulan te seǥang din.
 Iyan heini hinungdan ke maan is taman guntaan he is menge Israilihanen ne kenà egkaan te uǥat he zutun te tulan he zapit te seǥang. Su keniyan dapit gewezi te Megbevayà si Jacob.
-
 Ne hein kebpantew ni Jacob, neehè din si Esau is ebpelingguma he edumahan te 400 he menge maama. Ne zutun, impedtetepizè din is menge anak din diyà te menge esawa zin he si Lea wey si Raquel, wey ziyà te menge suluǥuen dan he vahi.
 Ne hein migenat sikandan, impehuna zin is dezuwa he menge suluǥuen din wey is menge anak dan, ne edtinundug si Lea wey is menge anak din, ne midtinundug si Raquel wey is anak din he si Jose.
 Ne iyan sikandin midhuna te langun kandan ne kepipitu sikandin medlangkeb diyà te tanà dutun te ked-uvey zin diyà te kakey zin.
@@ -1709,10 +1709,6 @@ Piru is Ehiptohanen he menge selemengkiru nekehimu zaan sikandan te iring dutun 
 Midlikù haazà is hadì diyà te turuǥan din ne wazè din en itaǥù diyà te ǥehinawa zin haazà is neulaula.
 Ne is menge Ehiptohanen nemengalut sikandan diyà te uvey te Wahig he Nilo su para zuen dan egkekuwaan te ed-inumen dan su kenè en man egkehimu he ed-inumen is wahig.
 Ne hein pitu en he andew puun duen te kebpeveluya te Nengazen te Wahig he Nilo he lengesa pinaaǥi ki Aaron,
-
-
-
-
 ne migkeǥiyan te Nengazen si Moises te, “Hendiyè ka te hadì te Ehipto ne keǥiyi nu sikandin te, ‘Iyan heini lalag te Nengazen diyà te kenikew: Tuǥuti nu is menge etew ku te kegenat su wey zan mekaazap kedì.
 Ne emun kenè nu sikandan edtuǥutan, ebpigedahan ku sikiyu is menge Ehiptohanen kayi te tivuuk he Ehipto pinaaǥi te menge vakbak.
 Utew edsubra is kebmahabet te menge vakbak diyà te Wahig he Nilo ne edseled dan diyà te turuǥan nu, diyà te ruǥu nu wey minsan diyà te hizeǥaan nu. Edseled dan daan diyà te menge valey te menge upisyal nu wey te ginsekupan nu, ragkes en is menge avu wey menge lugar he ebmesahan te herina.
@@ -1741,6 +1737,10 @@ Ne mibpesuǥuan te hadì si Moises wey si Aaron ne ke sikandin diyà te kandan t
 Iyan, midtavak si Moises te, “Kenà heeyan hustu, su is menge pemuhat he ibpemuhat dey te Nengazen he Megbevayè dey, ne utew igkelimezangi te menge Ehiptohanen. Ne emun igkeremerik dan is ibpemuhat dey, ne ebpenulengen key zan te vatu.
 Umbe, kinahanglan he edtumanen dey is insuǥù kenami te Nengazen he iyan Megbevayè dey he ibpehipanew key zin pehendiyà te sibsivayan seled te tetelu he andew ne human dey sikandin ebpemuhata.”
 Ne migkaǥi is hadì te, “Edtuǥutan ku sikiyu te kedhendiyà te sibsivayan su wey niw mepemuhat is Nengazen he Megbevayè niw, piru kinahanglan he kenè kew edhendiyà te utew meziyù. Ne iampù e en keniyu.”
+Midtavak si Moises te, “Ǥuntaan ke ed-ewaan ku en sikew, id-ampù ku en sikew ziyà te Nengazen, ne keeselem ed-awà is menge zezeizey he keranapranap diyà te keniyu te langun. Iyan dà is, kinahanglan he kenè key en kenikew ed-umanan edlimbungi pinaaǥi te kenè nu kebpeǥenata kenami emun egenat key en su wey zey mepemuhat is Nengazen.”
+Ne zutun mid-ewaan ni Moises haazà is hadì ne mid-ampù diyà te Nengazen.
+Ne intuǥut te Nengazen is mibuyù ni Moises. Mid-awà is menge zezeizey he keranapranap diyà te langun he menge Ehiptohanen, ne wazà minsan sevaha he nesamà.
+Ne zutun he timpu impemezesen en maan duen te hadì is gehinawa zin he kenè din edtuǥutan he mekeǥenat haazà is menge Israilihanen.
 Ne migkeǥiyan te Nengazen si Moises te, “Hendiyè ka te hadì te Ehipto ne keǥiyi sikandin te, ‘Iyan heini migkaǥi te Nengazen, is Megbevayà te menge Hebriyuhanen: Tuǥuti nu is menge etew ku te kegenat su wey zan mekaazap kedì.
 Ne emun kenè nu pa sikandan edtuǥutan he mekeǥenat,
 ne zuen meveǥat he ibpigada ku he iyan is kebpematey te menge uyaǥen nu ziyà te vevesukà–ebpematey is menge kudè niw, menge asnu niw, menge kemilyu niw, menge vaka niw, menge kerehidu niw, wey menge kambing niw.
@@ -2112,7 +2112,6 @@ Ne emun iyan ebpatey te kegkesungayi kandin te vaka is uripen he maama etawa vah
 kinahanglan he ebeyazan duen te teǥiǥaked te vudsi haazà is ayam he neulug, ne kandin en haazà is minatey he uyaǥen.
 “Ne emun duen etew he ebpekepatey is baka zin te vaka te zuma zin, ne ivelegyè dan haazà is uuyag ne liwezaa zan te ebahin is halin dutun. Liwezaa zan daan te ebahin haazà is minatey he uyaǥen.
 Iyan, emun daan he vetasan dutun te vaka is kebpemenungey ne mibpesagdan duen te teǥiǥaked, kinahanglan he edliwanan din haazà ne kandin en sikan is minatey.
-
 “Emun duen edtakew te vaka etawa kerehidu he edlepaan din etawa ibelegyè din, ne is sevaha he vaka ebpeliwanan kandin te lelima he vaka, ne is sevaha he kerehidu ebpeliwanan kandin te heepat he kerehidu.
 Emun mezukilem, ke zuen tekawen he egkabra te elavat su wey mekeseled ne zutun nepatey sikandin, ne kenà salà dutun te nekepatey is kegkepetaya zin duen te tekawen.
 Iyan, emun maandew is kegkehitevua zutun ne zuen televaken dutun te nekepatey. “Kinahanglan he ibpevayad is tekawen, ne emun wazè din igkevayad ne ivelegyà sikandin su wey iyan ikevayad te tinakew zin is bali zin.
@@ -2143,6 +2142,7 @@ su iyan dà haazà idtambun din te lawa zin emun edlipezeng sikandin. Iulì niw 
 “Kenè niw sumpelita is Megbevayà wey kenè niw rewaki is ebpengulu keniyu.
 “Kenè niw lipati is kebeǥey te halad kayi te kedì he ebpuun te neraǥun niw, menge vinu, wey menge lana. “Ipehinungud niw kedì is penganey he anak niw he menge maama.
 Ne iring ded kayi is ul-ulaha niw ziyà te menge vaka niw wey menge kerehidu niw. Is penganey he menge anak dan he meemahan, seled dà te pitu he andew is kebpezumaha niw zuen diyà te iney zin ne iveǥey niw en kediey zutun te ikewalu he andew pinaaǥi te kebpemuhata niw zuen.
+“Iyan kew menge etew he pinilì ku, umbe, kenè kew megkaan te usa te minsan hengkey he uyaǥen he midhimetayan te zumezaas he menge langgam. Isamak niw heini te menge asu.
 “Kenè kew mebpenudtul te menge tarù. Kenè niw uǥupi is mezaat he etew pinaaǥi te kedtarùtarù.
 Kenè kew med-iring te kezekelan dutun te kebaal zan te mezaat. Emun duen idseysey niw ziyà te hukmanan, kenè niw tembuni is hustu minsan supak is kezekelan dutun te kegkaǥi niw te hustu.
 Kenè niw depiǥi is pubri ziyà te hukmanan tenged te hizu niw kandin dutun te kasu zin.
@@ -2848,13 +2848,6 @@ Ne ǥawas dutun te kerehidu, kinahanglan he ebeyazan din sikan is wazè din ikev
 Emun nekerapas te suǥù te Nengazen is sevaha he etew he wazè din metueni, nekesalà sikandin, ne zuen din televaken diyà te Nengazen.
 Kinahanglan he ed-uwit sikandin diyà te memumuhat te meemahan he kerehidu he wazè din sazir, he ibpemuhat din he vayad te salè din. Ne kinahanglan he is bali kayi ibpesikad diyà te keveǥat te pelata ziyà te timbangan he egemiten te menge memumuhat. Ne pinaaǥi te kebpemuhata kayi te memumuhat, egkevelukasan is etew puun te salè he neveelan din he wazà tivevaa, ne ebpeseyluwen sikandin te Nengazen.
 <range>
-
-
-
-
-
-
-
 Iyan heini migkaǥi te Nengazen diyà te ki Moises
 mehitenged te etew he nekerapas te egkesuatan te Nengazen pinaaǥi te kedlimbung te iring din he etew mehitenged te vutang he mibpetipiǥan kandin etawa intaǥak diyà te kandin, etawa kedtakew kayi he vutang, etawa kebpenapì,
 etawa midtarùtarù mehitenged te vutang he netazin he migkaǥi zin he wazè din maahà, etawa nengulivet te tarù he wazè din meveeli is minsan hendei kayi he menge salà.
@@ -2878,6 +2871,13 @@ mehitenged te pemuhat he para te Nengazen he ibpemuhat ni Aaron dutun te andew t
 Heini he herina edsehuǥan te lana ne edhilutuen diyà te mevavew he hilutuey. Emun egkelutù en, ebpenevien ne ibpemuhat diyà te Nengazen he iyan pemuhat he para gasa. Is kehemut kayi he pemuhat ebpekepenunuat kandin.
 Ne kinahanglan he edtutungen heini langun, su heini he pemuhat, ne para te Nengazen, ne ed-ul-ulahan heini taman te taman. Kinahanglan he ed-ul-ulahan heini te kevuwazan ni Aaron he iyan ebpekeilis kandin he egkehimu he memumuhat.
 Is langun he menge pemuhat he para gasa zutun te memumuhat kinahanglan he pudu edtutunga; kenà heini egkeenen.
+Midsuǥù en maan te Nengazen si Moises
+he egkeǥiyan si Aaron wey sikan is menge anak din he maama kayi he menge sulunuzen: Is pemuhat he para idlumpiyu, kinahanglan he edlepaan diyà te etuvangan te Nengazen diyà te lugar he lepeey te pemuhat he edtutungen. Is pemuhat he para idlumpiyu, utew heini segradu he pemuhat.
+Is memumuhat he ebpemuhat kayi, kinahanglan he megkaan kayi ziyà te lama te Tulda he Edtelevukaayan, kes segradu he lugar.
+Is minsan hentei he ebpekesamsam kayi egkeipiktuwan te kegkesegradu kayi. Ne is bisti he egkepesikan te lengesa kayi he pemuhat kinahanglan he ebpìpian diyà te segradu he lugar zuen te Tulda.
+Kinahanglan he edtevien is diniyun he edhilutuan keniyan he pemuhat. Piru emun diyà heini hilutua te kuzen, kinahanglan he egkeǥisan heini he kuzen ne edlùluan te wahig.
+Egkehimu he egkaan kayi he pemuhat is langun he maama ziyà te pemilya te menge memumuhat. Utew heini segradu he pemuhat.
+Piru emun ed-uwiten is lengesa kayi he pemuhat diyà te Segradu he Lugar zuen te seled te Tulda, su wey mepesaylu is salà te sevaha he etew, ne kenà egkeenen heini he pemuhat, kekenà, edtutungen.
 Iyan heini menge sulunuzen mehitenged te pemuhat he vayad te salà. Segradu utew heini he pemuhat.
 Is pemuhat he vayad te salà edlepaan diyà te lepeey te pemuhat he edtutungen. Ne is lengesa kayi ibpirik diyà te peliǥuy te pemuhatà.
 Pudu ibpemuhat is tavà kayi: is melambù he ikug, is menge tavà diyà te seled te getek,
@@ -4228,6 +4228,21 @@ Ne mid-eveleng sikandan duma is pemilya zan te tanà, duma is langun he menge su
 Uuyag sikandan is langun he mid-eveleng te tanà duma is langun he azen dan. Nekedlikuey is tanà ne nahanew sikandan puun te kezekelan.
 Is langun he menge Israilihanen he nekeliǥuy kandan mibpekeziyù hein nezineg dan is kulehian duen te menge etew, su neisip dan he kela ke elin sikandan evelenga te tanà.
 Ne mibpengelinteuwan te Nengazen he medtuvù is hapuy ne neepur sikan is 250 he menge sumusunud ni Kora he nemuhat te veyewà.
+Migkeǥiyan te Nengazen si Moises te,
+“Keǥiyi nu si Eleazar he memumuhat, he anak ni Aaron, he kuwaa zin sikan is menge teleǥuey te veyewà duen te nemematey te kegketutung, su segradu heini he menge teleǥuey. Keǥiyi nu zaan sikandin he ipeyapat din diyà te meziyù sikan is menge vaǥa
+zuen te menge teleǥuey he ebpuun duen te menge etew he nemematey tenged te menge salè dan. Ne ipelumpipì nu kandin sikan is menge teleǥuey ne ipekaple din haazà duen te pemuhatà su inhalad heini kayi te kediey ne nehimu heini he segradu. Ne heini he pekaplà duen te pemuhatà ne egkehimu he petizaan te menge Israilihanen.”
+Ne tenged dutun te insuǥù te Nengazen pinaaǥi ki Moises, mibpenguwa ni Eleazar he memumuhat sikan is brunsi he menge teleǥuey te veyewà he uwiten duen te nengevinsulan, ne midlumpipì din heini su ibpekaple din duen te pemuhatà. Ne sevaha heini he petizaan te menge Israilihanen, he wazà minsan sevaha kandan he midtuǥutan te ked-uvey ziyà te pemuhatà te kedtutung te veyewà para te Nengazen gawas te menge kevuwazan ni Aaron, ne emun ebeelan dan heini egkeiring dan ki Kora wey te menge sumusunud kandin.
+<range>
+Ne sunud he andew, midriklamu en maan is tivuuk he keet-etawan te Israel ziyà te ki Moises wey ki Aaron. Ke sikandan te, “Mibpenhimetayan niw is menge etew te Nengazen.”
+Dutun te kedtiǥum dan su ibpetuenan dan ki Moises wey ki Aaron is menge riklamu zan, midsinaru zan diyà te Tulda he Edtelevukaayan ne neehè dan he netembunan heini te ǥapun ne impaahà te Nengazen is mekeǥeǥehem he kebpekiduma zin.
+Ne midhendiyà si Moises wey si Aaron te egkesineruwan duen te Tulda.
+Ne migkaǥi is Nengazen diyà te ki Moises te,
+“Pekeziyù kew keniyan te menge etew su segugunè ku sikandan edèdeeti.” Ne midluhud sikandan is dezuwa.
+Ne migkeǥiyan ni Moises si Aaron te, “Kuwaa nu is teleǥuey nu te veyewà ne teǥui nu te veyewà wey vaǥa he ebpuun diyà te pemuhatà. Ne gaanggaan ka hendiyà te menge etew ne veeli nu is tulumanen su wey zan mevelukasi te menge salè dan, su nepauk en is Nengazen ne ebpuun en is limas.”
+Ne midtuman ni Aaron haazà is insuǥù ni Moises, ne mibpelelaǥuy sikandin pehendiyà te teliwazà te menge etew. Mibpuun en is kedlimasa zutun te menge etew, piru impemuhat gihapun ni Aaron sikan is beyewà su wey mevelukasi haazà is menge etew tenged te menge salè dan.
+Midhitindeg sikandin diyà te pid-elangan te nemematey wey menge uuyag ne neengked is kebpematey zan.
+Piru 14,700 is nemematey tenged dutun he kezeetan kenà ragkes is nemematey tenged ki Kora.
+Ne midlikù si Aaron diyà te ki Moises duen te ǥemawan te Tulda he Edtelevukaayan su neengked en sikan is kezeetan.
 Migkaǥi is Nengazen diyà te ki Moises te,
 “Keǥiyi nu is menge Israilihanen he mebeǥey te tuked diyà te kenikew is kada pengulu te tribu. Ne pesurati heini te kada ngazan dan. 12 langun he tuked.
 Diyà te tuked te tribu ni Levi, ne idsurat dutun is ngazan ni Aaron su kinahanglan he zuen sevaha he tuked te kada pengulu te tribu.
@@ -4241,21 +4256,6 @@ Ne migkaǥi is Nengazen diyà te ki Moises te, “Ilikù nu heeyan is tuked ni A
 Midtuman ni Moises is insuǥù kandin te Nengazen.
 Migkaǥi is menge Israilihanen diyà te ki Moises te, “Emun iyan heeyan ne ebpematey key en bes is langun!
 Su ebpatey man is minsan ed-uvey zà diyà te Tulda te Nengazen. Ne ebpatey key ves is langun pinaaǥi kayi!”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Migkeǥiyan te Nengazen si Aaron te, “Sikew wey is menge anak nu he maama wey is menge kezuzumahi nu he ebpuun diyà te tribu ni Levi, keniyu he televaken is salà he egkeveelan niw zutun te kebpenilbi niw ziyà te Tulda he Edtelevukaayan. Piru iyan ke zà wey is menge anak nu is ebpekepenavak te salà he egkeveelan niw zutun te kegkememumuhat niw.
 Emun ebpenilbi ka wey is menge anak nu ziyà te Tulda he midsevukan te Kesuǥuan, ipeuǥup niw is menge kezuzumahi niw he ebpuun diyà te tribu ni Levi.
 Edterabahu sikandan he zizalem te kedumala nu, ne veeli zan is langun he vuluhaten duen te Tulda, piru kinahanglan he kenà sikandan medhilavet te segradu he menge gelemiten duen te Tulda etawa pemuhatà, su emun ebeelan dan haazà ne ebpemematey zan ne ragkes kew pa.
@@ -4647,6 +4647,7 @@ Pemuhat kew te pemuhat he edtutungen he ebpekepenunuat te Nengazen is kehemut di
 Is kada sevaha kayi, lepiki niw te hustu is kezekelè din he pemuhat he para gasa wey pemuhat he inumen.
 Pemuhat kew zaan te sevaha he meemahan he kambing he pemuhat para idlumpiyu, he id-uman heini zuen te kada andew he pemuhat he edtutungen he edlepikan te pemuhat he para gasa wey pemuhat he inumen.
 “Ne liyu zuen te menge pemuhat he para te kedtuman te menge penaad niw wey menge keugelingen niw he suat, pemuhata niw zaan is Nengazen dutun te midtelaan he menge pista kayi he menge pemuhat: menge pemuhat he edtutungen, menge pemuhat he para gasa, menge pemuhat he inumen, wey menge pemuhat he para te meupiya he kedepità.”
+Migkaǥi ni Moises heini is langun diyà te menge Israilihanen sumalà te insuǥù kandin te Nengazen.
 Migkeǥiyan ni Moises is menge pengulu te menge tribu te Israel te, “Iyan heini menge suǥù te Nengazen:
 Emun ebpenaad etawa ebpenangdù is sevaha he maama diyà te Nengazen he ebeelan din etawa kenà haazà is sevaha he vaal he midtendek din, kinahanglan he edtumanen din is langun he mibpengaǥi zin.
 “Emun duen betan-en he vahi he ziyà gihapun ed-ubpa te ed-ubpaan te amey zin he ebpenaad etawa ebpenangdù te kebaal etawa kenà kebaal te vaal he midtendek din,
@@ -4663,7 +4664,6 @@ Umbe, is maama, zuen din ketenged te kedtuǥut etawa kedwazà te minsan hengkey 
 Iyan, emun wazà mebelavag haazà is maama zutun te esawa zin dutun te andew te kegketueni zin, pinaaǥi kayi netuǥutan din is esawa zin he edtumanen din heini.
 Iyan, emun impelavey pa zutun te maama is nepipira he andew ne human sikandin mebelavag, ne iyan egkesilutan haazà is maama te ereg pezem te esawa zin.”
 Iyan heini menge sulunuzen he imbeǥey te Nengazen diyà te ki Moises mehitenged te teleesawa, wey mehitenged te amey wey is anak din he vetan-en he vahi he ziyè pa ed-ubpà te kandin.
-
 Migkeǥiyan te Nengazen si Moises te,
 “Belesi nu is menge Midianhen te mibeelan dan diyà te menge Israilihanen. Ne kegkepasad nu zutun, ebpatey ke en.”
 Umbe, migkeǥiyan ni Moises is menge etew te, “Ipepengandam niw is duma keniyu para te kebpekidtebek te menge Midianhen su egkesuat is Nengazen he ebelesan tew is menge Midianhen.
@@ -5271,6 +5271,7 @@ Tumana niw heini is langun he sulunuzen he ibeǥey ku keniyu, su wey layun meupi
 “Ebpengelinteuwan te Nengazen he Megbevayè niw he mezezeeti niw is menge etew ziyà te menge nasyun he edsurungen niw. Segseǥa niw is menge meǥinged duen ne ubpai niw is lugar zan.
 Emun egkezezeetan niw en sikandan, mebantey kew he kenè kew mepekeizi pinaaǥi te ked-iring kandan. Kenè kew en mebpenginginsà bahin te menge ed-ezapen dan. Kenè kew kaǥi te, ‘Ebmenumenu zan is ebpenilbi te kandan he megbevayà? Ed-iringan tew is ebpen-ul-ulahan dan.’
 Kenè niw iringi is paaǥi zan emun ed-ezapen niw is Nengazen he Megbevayè niw, su zutun te ked-azap dan ebeelan dan is langun he kelasi te utew mezaat he vaal he utew egkeepesi te Nengazen. Idtuug dan pa ganì is menge anak dan su ibpemuhat dan diyà te menge ed-ezapen dan.
+“Tumana niw is langun he insuǥù ku keniyu. Kenè niw heini umani wey kenè niw terini.
 “Emun duen ebpeneuven etawa pereseysey te kehuluǥan te teǥeinep he ebpenaad diyà te keniyu he ebpaahà sikandin te menge singyal wey menge egkein-inuwan he menge vaal,
 ne egketuman is egkeǥiyen din, ne egkaǥi te, ‘Hendini kew su ed-azap kiw te selakew en he ebpen-ezapen’ (ebpen-ezapen he wazè niw mekilala),
 kenè kew pemineg kandin. Egezaman kew zà te Nengazen he Megbevayè niw ke mahal niw ve sikandin diyà te tivuuk he gehinawa niw wey kedsavut niw.
@@ -5289,7 +5290,6 @@ kinahanglan he egeraan niw is langun he meǥinged dutun he inged ragkes en is me
 Tiǥuma niw is langun he egkekuwa niw zutun he inged ne itambù niw ziyà te teliwazà te pelasa, ne vinsuli niw heini wey is tivuuk he inged he pemuhat he edtutungen para te Nengazen he Megbevayè niw. Ne ebey-anan en haazà is nezeetan he inged ne kenè en ed-umanan ebenguna taman te taman.
 Kenè kew medtipig te minsan hengkey he vutang he zutun te inged su neteǥane en heeyan he edezeetan. Emun edtumanen niw heini is langun, id-awà te Nengazen is dekelà he pauk din, ne egkehizuwan kew zin. Ne tenged te hizu zin ibpemezakel kew zin sumalà is penangdù din diyà te menge kepuun niw.
 Ebeelan heini te Nengazen he Megbevayè niw emun edtumanen niw is langun he menge suǥù din he ibeǥey ku keniyu ǥuntaan, wey ke ebaal kew te metazeng diyà te etuvangan din.
-
 “Menge anak kew te Nengazen he Megbevayè niw. Umbe emun edlalew kew tenged te minatey, ne kenè niw pelii is keugelingen niw wey kenè niw kiskisi is ulu niw.
 Su iyan kew menge etew he intapid puun te zuma he menge etew para te Nengazen he Megbevayè niw. Diyà te langun he menge etew kayi te kelibutan, iyan kew mibpilì te Nengazen he Megbevayè niw he para mehimu he ispisyal he menge etew zin.
 “Kenè kew megkaan te minsan hengkey he langgam he ed-isipen he meremerik.
@@ -5499,6 +5499,7 @@ Kenè niw mulà menuwa sikan is bahi, su wazà sikandin mekesalà te ereg he idh
 Geina te ziyà leyuǥa haazà is bahi te ǥawas te inged. Minsan ebpengulahì pa sikandin is ebpetavang ne wazà gihapun ebpeketavang su wazà ebpekezineg.
 “Emun egkezekepan is sevaha he maama he midlayug din is raǥa he kenè pa ed-esewaan,
 kinahanglan he ibpevayad haazà is maama te 50 he vuuk he pelata ziyà te amey te vahi. Ne kinahanglan he ed-esewaan din haazà is bahi su mibpeǥes din man, ne kinahanglan he kenè din edsuwayan mintras uuyag pa sikandin.
+“Kinahanglan he kenà hileveti te anak is esawa te amey zin. Su egkepeel-elezan haazà is amey.
 “Is etew he migkapun etawa midtamped is pid-etawan din kenà egkehimu he edtampu te upakat he para te Nengazen.
 “Is etew he ingkeǥingey zà ne kenà egkehimu he edtampu te upakat he para te Nengazen ragkes en is menge kevuwazan din taman te ikesepulù he lapis.
 Is menge Amunihanen wey is menge Moabitanhen etawa minsan hentei te menge kevuwazan dan taman te ikesepulù he lapis, ne kenà egkehimu he edtampu te upakat he para te Nengazen.
@@ -5524,7 +5525,6 @@ Kenà heeyan salà emun wazè kew mebpenaad diyà te Nengazen.
 Piru minsan hengkey he ibpenaad niw ziyà te Nengazen he Megbevayè niw, kinahanglan he tumana niw.
 “Emun ebpekehendiyè kew te pemuleey te paras te zuma niw he Israilihanen, egkehimu ke ebpehanteyhantey kew en te paras, piru kenè kew penguwa te ed-uwiten niw.
 Emun ebpekehendiyè kew te pemuleey te trigu te zuma niw he Israilihanen, egkehimu he egketuwen niw is trigu, piru kenè niw heini ǥerava.
-
 “Penenglitan, ebpengesawa is sevaha he maama ne te huziyan he timpu naawà is suat din dutun te esawa zin su zuen nesusi zin dutun te esawa zin he wazè din mesuati. Ne tenged dutun mibaal sikandin te surat he para te kebpekidsuwey ne imbeǥey zin haazà dutun te esawa zin, ne impeǥenat din puun te valey zin.
 Ne emun ed-uman ebpeesawa haazà is bahi,
 ne edsuwayan en maan sikandin duen te ikezuwa he esawa zin etawa ebpatey haazà is ikezuwa he esawa zin,
@@ -5679,7 +5679,6 @@ Wazè niw zutun kelinew wey lugar he egkehimelayan. Edteǥuan kew te Nengazen te
 Ne layun mekulbà is ked-ubpè niw, maandew wey mezukilem ne layun kew egkulbai, ne wazà kesiguruwan te untung niw.
 Tenged te kegkahandek niw te egkengeehè niw ziyà te peliǥuy, emun meselem egkaǥi kew te, ‘Deyzey ke ebmezukilem en.’ Ne emun mezukilem ne egkaǥi kew te, ‘Deyzey ke egkepawè en.’
 Ibpelikù kew te Nengazen diyà te Ehipto he ibpeuntud kew te varku minsan pa te nenaad sikandin he kenè kew en ibpelikù diyà. Ne ziyà, ebpeuripen kew su ibelegyè niw en is keugelingen niw ziyà te menge kuntada niw, piru wazà ebpemasa kayi.”
-
 Iyan heini kedseysaya te kedtumana te kebpekid-uyun he insuǥù te Nengazen diyà te ki Moises he imbeǥey ziyà te menge Israilihanen hein diyè dan te Moab. Ne ebpekeuman heini zuen te kebpekid-uyun din he midhimu zin diyà te kandan hein diyè dan te Horeb.
 Impetawag ni Moises is langun he menge Israilihanen ne migkeǥiyan din te, “Nemetmetahan niw is mibeelan te Nengazen diyà te hadì te Ehipto wey te langun he menge upisyal zin wey pehendiyà en te nesakup te tivuuk he nasyun.
 Neehè niw is dekelà he menge penggezam, wey egkengein-inuwan he menge vaal.
@@ -5708,6 +5707,7 @@ Ne ed-insà is menge etew ziyà te langun he menge nasyun te, ‘Maan is midhimu
 Mid-azap dan wey nenilbi zan te selakew en he menge ed-ezapen he wazè dan mekilala he imbandu te Nengazen he kenè dan ezapa.
 Umbe, utew nepeuki te Nengazen is menge etew ziyà te nasyun dan ne impeseǥazan din kandan is langun he menge rawak he ingkesurat kayi he libru.
 Tenged te zekelà he pauk te Nengazen kandan, midsegseg din sikandan puun te nasyun dan ne impevihag din sikandan te zuma he menge nasyun he zutun sikandan guntaan ebpemen-ubpà.’
+“Duen menge in-eles he iyan dà netau zuen is Nengazen he Megbevayè tew, piru impahayag din diyà te kenitew is kesuǥuan din ne kinahanglan he edsunuzen tew heini wey te menge kevuwazan tew te taman te taman.
 “Penenglitan, egkehitavù diyà te keniyu heini is menge tuvad wey menge rawak he nekaǥi ku ziyà te keniyu ne egketenuzan niw heini ke ziyè kew en te menge nasyun he impevihag kew kandan te Nengazen he Megbevayè niw.
 Ne emun ebpekid-uliey kew wey is menge anak niw te Nengazen he Megbevayè niw, ne edtumanen niw te kedtuman he ebpuun diyà te tivuuk he gehinawa niw wey kedsavut niw is langun he insuǥù ku keniyu ǥuntaan,
 egkehizuwan kew te Nengazen he Megbevayè niw. Edtiǥumen kew zin puun te langun he menge nasyun he zutun kew zin ipevihag, ne zutun idlikù din is meupiya he kebpekesavuk niw.
@@ -7771,6 +7771,7 @@ Hein nekeuma kes batà dutun te netemanan te besut te panà, migkulahì ni Jonat
 Wazà metueni zutun he vatà ke hengkey is ibpesavut dutun. Si Jonatan dà wey si David is netau.
 Ne zutun imbeǥey ni Jonatan is menge besut te panà dutun he vatà ne migkeǥiyan din te, “Iulì nu heini ziyà te inged.”
 Hein neipus kes batà, midlepew si David dutun te kilid te vatu he mid-elesan din, ne midluhud sikandin diyà te ki Jonatan te ketetelu he iyan kedtahud din kandin. Ne mibpehezekè dan is edsineǥew. Utew neseeng si David.
+
 Ne migkeǥiyan ni Jonatan si David te, “Na, meupiya he kedhipanew. Deyzey ke edtevangan ki te Nengazen he kenà mezeeti is neupekatan ta he mibpetistiǥusan ta kandin he iyan is mehitenged te kedketeleemiǥu ta ne mekepedayun heini ziyà te menge kevuwazan ta.” Ne zutun midhipanew si David, ne si Jonatan mulà ne midlikù diyà te inged.
 Midhendiyà si David te ki Abimelec he memumuhat diyà te Nob. Migkerker si Abimelec te kegkahandek te neehè din si David. Migkeǥiyan din te, “Maan is edhipanew ka te wazè nu zuma?”
 Midtavak si David te, “Duen ku kayi tuyù he insuǥù te hadì, ne migkeǥiyan e zin te kenè ku kun egkeǥiyen diyà te minsan hentei is mehitenged kayi te insuǥù din. Ne mehitenged te menge sakup ku, ne migkeǥiyan ku sikandan he ebpekedtetelavuk key zà diyà te sevaha he lugar.
@@ -7787,7 +7788,6 @@ Wazà maawà diyà te isip ni David is migkaǥi zan, ne nahandek sikandin ki Had
 Umbe, uvag kun ebuneǥen si David te kemula pa sikandin diyà te Gat. Mibpenuristurisan din is gemawan te inged, ne edseyayat is ngingi zin he ibpetiǥis din te sumpè din.
 Ne zutun migkeǥiyan ni Akish is menge sineriǥan din te, “Ahaa niw! Buneg heeyan he etew! Maan is mid-uwit niw sikandin kayi te kedì?
 Mezakel en kayi he menge vuneg, maan is mid-uwit niw pa sikandin kayi te valey ku ne kenà meupiya is ebeelan din kayì te etuvangan ku?”
-
 Mid-awà si David diyà te Gat ne midhendiyà te surung te Adulam. Ne hein netuenan te menge suled din wey te zuma pa he sakup te pemilya zin, ne midhendiyè dan te kandin su edtampu zan kandin.
 Duen daan menge etew he miduma kandin he egkengaayuayu, wey menge utangan, wey kes menge etew he wazà mekuntintu te kebpekesavuk dan. Menge 400 he menge etew is miduma ki David, ne sikandin is nehimu he pengulu zan.
 Puun dutun ne midhendiyà si David te Mizpa he sakup te Moab ne migkeǥiyan din is hadì te Moab te, “Edtuǥutan nu vuwa is menge ginikanan ku he ebpekeubpè dan pa kayi teǥaad te egketuenan ku ke hengkey is ebeelan te Megbevayà para kedì?”
@@ -7839,6 +7839,7 @@ Hein nekeuma si Saul wey is menge sakup din diyà te Zip, ne mibpen-ehè dan si 
 Si Saul wey is menge sakup din ne ziyè dan te zivaluy te vuntud, ne si David wey is menge sakup din ne ziyè dan daan te zivaluy zutun te vuntud ne migaanggaan dan mebpelaǥuy su edlikayan dan si Saul. Ne hein meǥaan en egkeseuti ni Saul wey te menge sakup din si David wey is menge sakup din, ne
 duen mid-uvey ki Saul he nenudtul te, “Gaanggaan ka, likù dèpa! Su edsurungen te menge Filistihanen is nasyun tew.”
 Ne zutun neengkezan ni Saul te edlayas si David ne midlikù te kebpekidtebek te menge Filistihanen. Ne tenged te zutun he lugar mebpesuwayà si David wey si Saul, ne haazà he lugar iyan ngazan din is, “Batu he Midsuweyaan.”
+Puun dutun, midhendiyà si David te En Gedi ne ziyà sikandin med-eles.
 Hein midlikù si Saul puun te kebpekidtebek te menge Filistihanen ne netudtulan sikandin he ziyà si David te sibsivayan te En Gedi.
 Umbe, mibpilì sikandin te 3,000 he etew puun te tivuuk he Israel he midhipanew para ebpen-ahà ki David wey te menge sakup din dutun te menge betuwen he ed-ubpaan te menge kambing he menge leew.
 Nekeuma si Saul zuen te tudil te menge kerehidu he kilid te zalan he zuen dutun surung. Midseled dutun si Saul su ebpekeindes. Dutun bes te surung med-eles si David wey is menge sakup din.
@@ -7861,7 +7862,6 @@ Is duma mulà emun egkeehè dan is kuntada zan, ne kenè dan heini ebpesegdanen 
 Netuenan ku he egkehimu ka he hadì, ne is ginhedian te Israel ne ebmelig-en pinaaǥi te kenikew he kedumala.
 Umbe, guntaan penangdù ka kayi te kedì pinaaǥi te ngazan te Nengazen he kenè nu ebpenhimetayan is menge kevuwazan ku, para kenà maawà is ngazan te pemilya ku.”
 Ne zutun mibpesarig si David. Ne mid-ulì si Saul, piru si David mulà wey is menge sakup din ne midlikù dan dutun te elesey zan.
-
 Ne mibpatey si Samuel, ne netiǥum dutun is langun he menge Israilihanen ne inlalew zan sikandin. Inleveng dan sikandin diyà te inged din he Rama. Hein nepasad, ne midhendiyà si David te sibsivayan te Maon.
 Dutun te Maon duen sevaha he etew zutun he zekelà is ketiǥeyunan din, duen tanè din diyà te Carmel. 1,000 is kambing din ne 3,000 is kerehidu zin ne ebpen-elutan din diyà te Carmel.
 Ne egngezanan haazà ki Nabal he ebpuun te kevuwazan ni Caleb, ne iyan esawa zin si Abigail. Mesinevuten wey metaid si Abigail, piru si Nabal melemu he egkepauk wey mezaat is betasan.
@@ -8511,6 +8511,7 @@ Mid-insà haazà is hadì te, “Kemuste en si Absalom? Wazè be sikandin memenu
 Migkaǥi haazà is hadì te, “Keniyan ke zà dèpa.” Ne midhitindeg sikandin diyà te kilid.
 Netegteǥaad ne nekeuma haazà is tig-Etiopia he egkaǥi te, “Mahal he Hadì, duen meupiya he tudtul ku. Su midluwas ka te Nengazen guntaan he andew te langun he midsukul kenikew.”
 Mid-insaan sikandin te hadì te, “Kemuste en si Absalom? Wazè ded be sikandin memenu?” Midtavak haazà is etew te, “Berakat he is neulaula kandin ne iyan daan egkeulaula te langun he menge kuntada nu, Mahal he Hadì.”
+Migkerker si David. Ne nemenahik diyà te ruǥu zin diyà te divavew te pultahan dutun te inged ne midsineǥew. Dutun te kebpemenahik din, ke sikandin te, “He Absalom, anak ku, iyan e en pezem nepatey he elili kenikew. He Absalom, anak ku!”
 Duen nenudtul ki Joab he edtulung edsineǥew is hadì wey midlalew sikandin tenged ki Absalom.
 Hein nezineg heini te menge sundaru, ne neengked is kedlipeylipey zan te kezeeǥan dan, ne midlalew zan daan.
 Mid-eles-eles dan mebpenlikù diyà te inged he Mahanaim, iring te menge sundaru he nengeeled su nemelaǥuy te tebek.
@@ -8554,7 +8555,6 @@ Hein nekerapas en si David, ne midhendiyà sikandin te Gilgal duma si Kimhan wey
 Ne midhendiyà te ki David is langun he menge etew te Israel ne midriklamu su maan is menge tig-Juda is nendesen te kebpeleyuna kandin wey te pemilya zin, wey is langun he menge sakup din.
 Midtavak haazà is menge etew te Juda ziyà te Israel te, “Mibeelan dey heini tenged te is hadì ne kezuzumahi zey. Maan is egkengepauk kew? Duen be ingkepekaan kenami te hadì? Duen be nezawat dey he imbeǥey zin kenami? Wazà.”
 Midtavak haazà is menge etew te Israel te, “Sepulù key he tribu is diyà te Israel, umbe kesepulù edubliya is ketenged dey keniyan te hadì kenè kew. Maan is ibpekevavè key keniyu? Iyan key man nehuna he migkaǥi he ibpelikù tew is hadì tew?” Piru kenà egkelewanan is menge etew ziyà te Juda, ne mesakit is kineǥiyan te menge etew te Juda kenà is menge etew te Israel.
-
 Duen sevaha he etew he tig-Benjamin he layun dà ebpen-ahà te samuk. Iyan ngazan din si Sheba, he anak ni Bicri. Impezaǥing din is budyung ne ebpengulahì te, “Menge tig-Israel, wazè tew lavet ki David he anak ni Jesse! Ebpen-ulì kiw is langun!”
 Ne zutun nemenggenat haazà is menge tig-Israel ne mid-ewaan dan si David ne miduma zan ki Sheba he anak ni Bicri. Piru is menge tig-Juda ne wazè dan ewai is hadì dan, ne midumahan dan puun dutun te Wahig he Jordan pehendiyà te Jerusalem.
 Hein nekelikù si David diyà te turuǥan din diyà te Jerusalem, ne impaangey zin kes sepulù he esawa zin he intaǥak din he para ed-etiman duen te turuǥan, ne zuen ibpevantey zin kandan. Ne mibeǥayen din sikandan te kinahanglan dan, piru wazè din en hulizi sikandan. Ne zutun en sikandan med-ubpà he henduen be te menge valu taman te kebpatey zan.
@@ -8865,6 +8865,20 @@ Si Jehoshafat he anak ni Parua, is gubirnedur te Isacar.
 Si Shimei he anak ni Ela, is gubirnedur te Benjamin.
 Si Geber he anak ni Uri, he gubirnedur te Gilead, he nesakup dengan ni Sihon te hadì te menge Amorihanen wey si Og he hadì diyà te Bashan. Si Geber zà is gubirnedur kayi te tivuuk he distritu.
 Is kezakel te menge etew ziyà te Juda wey Israel henduen be te pantad diyà te veyvey te zaǥat he kenà egkevilang. Dekelà is egkekaan dan wey egkeinum dan, ne melipayen sikandan.
+Si Solomon is midumala te langun he ginhedian puun te Wahig he Eufrates pehendiyà te tanà te menge Filistihanen taman te dulunà te Ehipto. Heini he menge ginhedian ebayad te vuhis dan diyà te ki Solomon ne mibpesakup kandin dutun te uuyag pa sikandin.
+Is keenen he egkinehenglanen ni Solomon diyà te turuǥan din kada andew ne iyan heini: 100 he saku he utew meupiya he klasi te herina, 300 he saku he kenà utew meupiya he klasi te herina,
+sepulù he vaka he impelambù diyà te tudil, 20 he vaka he impelayud dà diyà te penebtavà, 100 he kerehidu etawa kambing, kenà ragkes is nekedseselekawà he klasi te menge selazeng, wey meupiya he klasi te menge tagbis wey menge manuk.
+Nesakup te ginhedian ni Solomon is tivuuk he tanà diyà dapit te edsenlepan te Wahig he Eufrates, puun te Tifsa taman te Gaza. Ne meupiya is kedepitè din diyà te langun he menge nasyun he nekeelingkus kandin.
+Umbe, zutun te uuyag pa si Solomon, duen kelinew ziyà te Juda wey Israel puun te Dan taman te Beersheba. Is kada etew, edsihung diyà te pinemula zin he paras wey kayu he higus he zuen din kelinew.
+Duen 40,000 he kuwadra ni Solomon he para te menge kudè din he para te kerwahi, ne zuen din 12,000 he pereuntud te kudà.
+Is menge gubirnedur ziyà te menge distritu, iyan ebeǥey ki Hadì Solomon te keenen wey te langun he menge etew ziyà te turuǥan din. Is kada sevaha kandan midtendek he vulan is kebeǥey zin. Ebpeniguru sikandan he ikeveǥey zan is menge kinahanglan ni Solomon.
+Ebeǥey zaan sikandan te barli wey kumpey he para te menge kudà he para te kerwahi wey te zuma pa he menge kudà. Ed-uwiten dan heini ziyà te lugar he ereg he ed-uwitan kayi zutun te midtendek he timpu te kebeǥey zan.
+Mibeǥayan te Megbevayà si Solomon te nekeviza he ketau, kedsavut, wey keuluwanen he kenà egketegkad.
+Is ketau zin lavew pa te ketau te langun he uluwanen diyà te edsilaan wey ziyà te Ehipto.
+Iyan sikandin kinemeteuwan te langun. Edhuna pa sikandin he metau ki Etan he Ezranhon, wey te menge anak ni Mahol he ensi Heman, Calcol, wey si Darda. Ne nevantug sikandin diyà te nekeelingkus he menge nasyun.
+Mibaal sikandin te 3,000 he menge erubasa wey 1,005 he menge kanta.
+Igkeseysey zin is mehitenged te ebpemenuvù, puun te zezekelà he menge kayu pehendiyà te utew zezeisey he ebpemenuvù. Ebpekepenudtul zaan sikandin bahin te minsan hengkey he klasi te: ebpemenhipanew, ebpemenanap, ebpemenlayang, wey is ebpenlayewlayew.
+Nezineg te langun he menge hadì kayi te kelibutan is ketau ni Solomon, umbe zuen menge etew he midsuǥù dan te kebpemineg te ketau ni Solomon.
 Neuǥet is kebpeked-emiǥu ni Hadì Hiram he hadì te Tyre wey si Hadì David. Umbe hein nezineg ni Hiram he si Solomon is nekeilis te amey zin he hadì, duen menge upisyal zin he impehendiyè din te ki Solomon.
 Ne mibpeuwit te lalag si Solomon diyà te ki Hiram, ke sikandin te,
 “Netuenan nu he wazà mekepevangun is amey ku he si David te valey he para te Nengazen he Megbevayè din, su layun dà sikandin ebpekidtebek te menge kuntada zin diyà te menge nasyun te peliǥuy. Kenè din heini egkevangun taman te igkepezaag te Nengazen kandin is langun he kuntada zin.
@@ -8883,20 +8897,6 @@ Ne 70,000 is menge etew ni Solomon he perehakut te menge idhiman, ne 80,000 is p
 Ne zuen din daan 3,300 he menge purman he iyan edumala te terebahu wey te menge terebahanti.
 Ne tenged te mandù ni Solomon, ebasbas dan te zezekelà wey meupiya he klasi te menge vatu he para te pundasyun te valey te Nengazen.
 Umbe, in-andam te menge etew ni Solomon wey te menge etew ni Hiram duma te menge tig-Gebal is menge vatu wey menge kayu he para ibangun duen te valey te Nengazen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mibpuunan ni Solomon is kebangun duen te valey te Nengazen te ikezuwa he vulan, he iyan is bulan he Ziv, dutun te ikeepat he tuig te kedhadì din te Israel. Ike-480 he tuig haazà puun te ked-awà te menge Israilihanen diyà te Ehipto.
 Is baley he mibangun ni Hadì Solomon para te Nengazen 90 he ǥiek is keluǥayad din, 30 he ǥiek is keluag din, ne 45 he ǥiek is ketikang din.
 Is keluag te varkun din, 15 he ǥiek, is keluǥayad 30 he ǥiek; iring keluǥayad duen te valey.
@@ -9523,6 +9523,7 @@ Is duma pa he ǥuǥud mehitenged te kedhadì ni Ahab, wey is langun he mibeelan 
 Ne hein minatey en si Ahab, is anak din he si Ahazia iyan nekeilis kandin te kedhadì.
 Nehimu he hadì diyà te Juda si Jehoshafat he anak ni Asa hein ikeepat he tuig te kedhadì ni Ahab diyà te Israel.
 Ne 35 he tuig is keǥurang ni Jehoshafat hein nehimu sikandin he hadì. Diyà sikandin te Jerusalem med-ubpà, ne midhadì sikandin seled te 25 he tuig. Is iney zin iyan si Azuba he anak ni Shilhi.
+
 Midsunud din is ulaula te amey zin he si Asa. Metazeng diyà te etuvangan te Nengazen is mid-ulaula zin. Piru wazè din ipen-awà sikan is menge simbahan diyà te metikang he menge lugar, umbe mibpedayun is menge etew te kebpemuhat wey kedtutung te veyewà dutun.
 Meupiya is kedepità ni Jehoshafat wey te hadì te Israel.
 Is duma pa he ǥuǥud mehitenged te kedhadì ni Jehoshafat, wey is nevantug he menge vaal zin, wey is menge kebpekidtebek din, ne ingkesurat diyà te Libru he Midsuratan te menge Keguǥuza te menge Hadì te Juda.
@@ -9534,7 +9535,6 @@ Hein minatey en si Jehoshafat, inleveng sikandin diyà te midlevengan te menge k
 Nehimu he hadì te Israel si Ahazia he anak ni Ahab hein ike-17 he tuig te kedhadì ni Jehoshafat diyà te Juda. Diyà med-ubpà te Samaria si Ahazia, ne midhadì sikandin seled te zezuwa he tuig.
 Mezaat is ulaula zin diyà te etuvangan te Nengazen, su mid-iringan din is amey zin wey iney zin, wey si Jeroboam he anak ni Nebat, he iyan nehimu he hinungdan te kebpekesalà te menge tig-Israel.
 Mid-azap din wey midsilbiyan din si Baal, ne pinaaǥi kayi midhimu zin he mepauk is Nengazen he Megbevayà te Israel, iring te mibeelan te amey zin.
-
 Hein minatey en si Ahab, is nasyun he Moab wazè en mebpezizalem te keǥehem te Israel.
 Ne sevaha he andew, neulug si Hadì Ahazia ziyà te rihas-rihas puun diyà te zivavew he endana te turuǥan din diyà te Samaria, ne nepurung sikandin meruuǥi. Tenged dutun duen menge etew he midsuǥù din he ibpehendiyà te simbahan he zutun ed-ezapa si Baal Zebub, he ed-ezapen diyà te Ekron, su wey zan mekeinsa ke egkeulian ded be sikandin.
 Piru migkeǥiyan te velinsuǥuen te Nengazen si Elias he tig-Tishbe te, “Genat ka ne hingumaa nu sikan is menge etew he midsuǥù duen te hadì te Samaria ne keǥiyi nu te, ‘Maan is edhendiyè kew te ki Baal Zebub, he ed-ezapen diyà te Ekron? Wazè be Megbevayà te Israel?
@@ -9851,6 +9851,7 @@ Ne impehimu ni Jehoyada haazà is hadì wey is menge etew te kebpekid-uyun te Ne
 Ne midhendiyà is langun he menge etew te simbahan he para ki Baal ne midrundus dan heini. Midrupet dan is menge pemuhatà wey is menge ed-ezapen dutun, ne midhimetayan dan si Matan he memumuhat para ki Baal ziyà te egkesineruwan duen te menge pemuhatà. Ne zuen menge impevantey ni Jehoyada zuen te valey te Nengazen.
 Ne zutun, puun te valey te Nengazen, miduma zin is menge peremandar, menge vantey te hadì, menge vantey te turuǥan, wey is langun he menge etew zutun, ne midumahan dan haazà is hadì pehendiyà te turuǥan. Diyè dan mebayà te pultahan te menge vantey. Ne mibpinuu haazà is hadì diyà te pinuuwè din te kedhadì.
 Nengelipey is menge etew, ne mibmelinew is inged hein minatey en si Atalia diyà te uvey te turuǥan.
+Mibpenuiǥen si Joash te pitu he tuig dutun te kegkehimuwa kandin he hadì diyà te Judaa.
 Nehimu he hadì diyà te Juda si Joash hein ikepitu he tuig te kedhadì ni Jehu ziyà te Israel. Diyà med-ubpà te Jerusalem si Joash, ne midhadì sikandin seled te 40 he tuig. Is iney zin iyan si Zibia he tig-Beersheba.
 Metazeng is baal zin diyà te etuvangan te Nengazen seled te tivuuk he untung din, su mibpenurù sikandin ni Jehoyada he memumuhat.
 Piru wazè din iperundus is menge simbahan diyà te metikang he menge lugar, umbe mibpedayun is menge etew te kebpemuhat te menge pemuhat wey kedtutung te menge beyewà dutun he menge simbahan.
@@ -9872,7 +9873,6 @@ Midtiǥum ni Hadì Joash is langun he menge azen he inhalad te menge kepuun din 
 Is duma pa he ǥuǥud mehitenged te kedhadì ni Joash, wey is langun he mibeelan din, ne ingkesurat diyà te Libru he Midsuratan te menge Keguǥuza te menge Hadì te Juda.
 Dutun te huziyan he timpu nekidsukulà kandin is menge upisyal zin, ne midhimetayan dan sikandin diyà te Bet Milo, diyà te zalan he pehendiyà te Silla.
 Is menge upisyal he midhimatey kandin, iyan si Jozacar he anak ni Shimeat wey si Jehozabad he anak ni Shomer. Inleveng sikandin diyà te midlevengan te menge kepuun din diyà te Inged ni David. Ne si Amazia he anak din iyan nekeilis kandin te kedhadì.
-
 Nehimu he hadì diyà te Israel si Jehoahaz he anak ni Jehu hein ike-23 he tuig te kedhadì ni Joash diyà te Juda te anak ni Ahazia. Diyà te Samaria med-ubpà si Jehoahaz, ne midhadì sikandin seled te 17 he tuig.
 Mezaat is ulaula zin diyà te etuvangan te Nengazen. Mid-iringan din is menge salà ni Jeroboam he anak ni Nebat, he nehimu he hinungdan te kebpekesalà te menge tig-Israel. Ne wazè din engkezi heini he menge salà.
 Umbe, nepeukan te Nengazen is menge Israilihanen. Ne meluǥayad he timpu is kebpesekupa zin kandan ki Hadì Hazael he hadì te Aram wey te anak din he si Ben Hadad.
@@ -10456,21 +10456,6 @@ Mezakel is ketengà he tribu ni Manase. Is neubpaan dan puun te Bashan pehendiy�
 Iyan heini menge pengulu te menge pemilya zan: si Efer, Ishi, Eliel, Azriel, Jeremias, Hodavia, wey si Jadiel. Menge metau sikandan te kebpekidtebek wey nevantug sikandan he menge pengulu te menge pemilya zan.
 Piru kenà sikandan menge mepezumdumahan te Megbevayà te menge kepuun dan su ed-ezapen dan is menge kenà tutuu he Megbevayà he ed-ezapen te menge etew he mibpenhimetayan te Megbevayà dutun he lugar.
 Umbe, ketau te Megbevayà te Israel he surunga sikandan ni Hadì Pul he hadì te Asiria (he iyan si Tiglat Piliser). Nevihag ni Pul is menge tribu ni Reuben, Gad, wey ketengà he tribu ni Manase ne ziyè din uwita te Hala, Habor, Hara, wey ziyà te Wahig te Gozan, ne zutun sikandan taman guntaan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Iyan heini menge anak ni Levi he menge maama: Si Gershon, Kohat, wey si Merari.
 Is menge anak ni Kohat ne iyan si Amram, Izhar, Hebron, wey si Uziel.
 Is menge anak ni Amram iyan si Aaron, Moises, wey si Miriam. Is menge anak ni Aaron ne iyan si Nadab, Abihu, Eleazar, wey si Itamar.
@@ -10537,6 +10522,21 @@ Is menge kevuwazan ni Merari, sumalà te kada pemilya, mibeǥayan te 12 he inged
 Imbeǥey te menge Israilihanen heini he menge inged wey is menge penebtavà kayi diyà te menge kevuwazan ni Levi.
 Imbeǥey kandan pinaaǥi te ripa heini is nekaǥi kayi he menge inged he menge inged te tribu ni Juda, Simeon, wey Benjamin.
 Is duma he menge kevuwazan ni Kohat, ne mibeǥayan daan te menge inged te tribu ni Efraim.
+Imbeǥey kandan is Sekem (kes eputà he inged diyà te vuvungan te Efraim), is Gezer,
+is Jokmeam, is Bet Horon
+is Ayalon, wey is Gat Rimon, apil en is menge penebtavà kayi.
+Ne is duma pa he menge kevuwazan ni Kohat, ne mibeǥayan sikandan te zuma zan he menge Israilihanen te menge inged diyà te tanà te ketengà he tribu ni Manase. Is imbeǥey kandan ne iyan is Aner wey is Beleam apil is menge penebtavà kayi.
+Is menge kevuwazan ni Gershon, ne mibeǥayan te menge inged diyà te tanà te ketengà he tribu ni Manase he iyan is: Golan diyà te Bashan wey is Ashtarot, apil en is menge penebtavà kayi.
+Is menge tanà te tribu ni Isacar he imbeǥey kandan iyan is: Kedesh, Daberat,
+Ramot, wey Anem, apil kayi is menge penebtavà kayi.
+Is menge inged te tribu ni Asher he imbeǥey kandan iyan is: Mashal, Abdon,
+Hukok, wey Rehob, apil is menge penebtavà kayi.
+Is menge inged te tribu ni Naftali he imbeǥey kandan iyan is: Kedesh diyà te Galilea, Hamon, wey Kiriataim, apil is menge penebtavà kayi.
+Is nesamà he menge kevuwazan ni Merari mibeǥayan kayi he menge tanà: Is menge inged te tribu ni Zebulun he imbeǥey kandan iyan is: Jokneam, Karta, Rimono wey Tabor, apil is menge penebtavà kayi.
+Is menge inged te tribu ni Reuben he ziyà layun te Wahig he Jordan he zapit te edsilaan te Jerico he imbeǥey kandan, iyan is: Bezer he ziyà te disirtu, Jaza,
+Kedemot, wey Mefaat, apil is menge penebtavà kayi.
+Ne is menge inged te tribu ni Gad he imbeǥey kandan iyan is: Ramot diyà te Gilead, Mahanaim,
+Heshbon, wey Jazer, apil is menge penebtavà kayi.
 Si Isacar, ne zuen anak din he heepat he menge maama: si Tola, si Pua, si Jashub, wey si Shimron.
 Ne is menge anak ni Tola, ne iyan si Uzi, Refaya, Jeriel, Jamai, Ibsam, wey si Shemuel. Heini sikandan ne iyan menge pengulu te menge pemilya zan. Ne hein iyan hadì si David, ne is kezakel te menge maama he ebpuun te menge kevuwazan ni Tola he memahagtì he menge sundaru ne 22,600.
 Is anak ni Uzi he maama, ne iyan si Izrahia. Si Izrahia wey kes heepat he menge anak din, ne iyan si Micael, Obadias, Joel, wey si Ishia ne menge pengulu te menge pemilya zan.
@@ -10725,6 +10725,7 @@ si Eliel, Obed, wey si Jaasiel he tig-Mezoba.
 Iyan heini menge etew he midhendiyà te ki David diyà te Ziklag he miduma kandin hein kemulu pa sikandin ed-eles-eles ki Saul he anak ni Kish. Duma heini sikandan te mid-uǥup te kebpekidtebek ni David.
 Memetau heini sikandan te panà, wey iyan heini vaal zan is kebpemanà wey kebpenlimpawes, metau is kewanan wey givang he velad dan. Menge kezuzumahi heini sikandan ni Saul he ebpuun te tribu ni Benjamin.
 Iyan heini menge ngazan dan: si Ahiezer is pengulu zan wey si Joash. Menge anak sikandan ni Shemaa he tig-Gibeah. Iyan heini menge ngazan dan: si Jeziel wey si Pelet he menge anak ni Azmavet, si Beraca wey si Jehu he tig-Anatot,
+
 si Ishmaya he tig-Gibeon, he sevaha he mevurut he pengulu zuen te 30 he mevurut he menge sundaru. Si Jeremias, Jahaziel, Johanan, Jozabad he tig-Gedera,
 si Eluzai, Jerimot, Bealia, Shemaria, wey si Shefatia he tig-Haruf,
 si Elkana, Ishia, Azarel, Joezer, wey si Jashobeam he menge kevuwazan ni Kora,
@@ -10762,7 +10763,6 @@ Ne is ebpuun te tribu he ziyà te zapit te edsilaan te Wahig he Jordan: he tribu
 Iyan heini langun he menge sundaru he mibuluntaryu he ebpekidtebek. Midhendiyè dan te Hebron he zekelà is tinguhè dan te kedhimuwa ki David he hadì te tivuuk he Israel. Hapit is langun he menge Israilihanen ne utew egkesuat he si David is egkehimu he hadì dan.
 Menge tetelu he andew zan dutun he mibpekiduma ki David te kegkaan wey ked-inum su mibpeuwitan sikandan te menge siringan dan te menge egkekaan.
 Mid-uwit daan te menge keenen is menge kezumahan dan he ebpuun pa te meziyù he lugar te Isacar, Zebulun, wey Naftali. Ingkarga zan heini te menge asnu, menge kemilyu, menge mula, wey menge vaka. Dekelà is herina zan, menge higus, pasas, binu, lana, baka, wey kerehidu. Utew zutun melipayen is tivuuk he Israel.
-
 Mibpekidlalag si David te menge upisyal zin, he menge peremandar te linibu wey ǥinatus he menge sundaru zin.
 Ne migkeǥiyan din is tivuuk he keet-etawan te Israel, “Emun egkesuat kew wey iyan daan egkesuatan te Nengazen he Megbevayè tew, ibpetudtulan tew is langun he menge zuma tew seled te tivuuk he Israel, apil en is menge memumuhat wey is menge Levihanen he zuma zan dutun te menge inged dan wey menge penebtavà dan. Ibpehendini tew sikandan wey zan mekepekidsevaha kenitew.
 Timpu en heini he egkuwaan tew kes Kavan te Kebpekid-uyun te Megbevayè tew, su wazè tew heini seǥipaa hein iyan pa hadì si Saul.”
@@ -11214,7 +11214,6 @@ Neketiǥum si Solomon te 1,400 he menge kerwahi wey 12,000 he kudà. Is duma kay
 Dutun te timpu te iyan sikandin hadì, henduen dà te vatu is ked-isipa te pelata wey vulawan tenged te kezekelè din, ne is kahabet te mahalen he kayu he sidru ne henduen be te ebpekeiring dà te urdinaryu he kayu he sikemur ziyà te menge mibuntud-buntud diyà te edsenlepan.
 Is menge kudà ni Solomon diyà ebpuun te Ehipto wey Cilicia. Hustu he vali is impemasa kayi ziyà te Cilicia te menge perepemasa.
 Dutun he timpu is bali te kerwahi he ebpuun diyà te Ehipto ne 600 he vuuk he pelata, ne is kudà 150 he vuuk he pelata. Ne imbelegyà heini te menge etew ni Solomon diyà te langun he menge hadì te menge Hitihanen wey te menge Aramihanen.
-
 Dutun he timpu, insuǥù ni Solomon is kedtukuza te valey te Nengazen para te zengeg te Nengazen wey kedtukuza te turuǥan he para te keugelingen din.
 Midtiǥum din is 70,000 he menge tighakut, 80,000 he tigbasbas te menge vatu ziyà te menge vuvungan, wey 3,600 he menge etew he iyan edumala.
 Mibpeuwit si Solomon te lalag diyà te ki Hadì Hiram he hadì te Tyre he edhenduen te: “Peuwiti a kenikew te kayu he sidru iring te mibeelan nu zengan diyà te amey ku he si David te kedtukuza zin te turuǥan din.
@@ -11232,6 +11231,7 @@ Tig-Dan is iney zin, ne is amey zin tig-Tyre. Metau sikandin he edterebahu te vu
 “Ne ǥuntaan telehuzen he Solomon ipeuwit nu kayi te kenami is trigu, barli, wey vinu, wey lana te ulibu he insaad nu
 ne ebpenempezen dey is minsan hengkey he kayu ziyà te Lebanon he egkinehenglanen nu. Ne ibpebpipikit dey heini ne ibpeǥampung dey zà heini te zaǥat pehendiyà te Jopa. Ne iyan kew uwit kayi ziyà te Jerusalem.”
 Impemelista ni Solomon is langun he kenà Israilihanen diyà te Israel iring te mibeelan te amey zin he si David, ne is kezakel 153,600.
+Midhimu zin is 70,000 he tighakut, is 80,000 iyan tigbasbas te menge vatu ziyà te menge vuvungan, ne is 3,600 ne iyan edumala te menge terebahanti.
 Ne mibpuunan en ni Solomon is kedtukuza te valey te Nengazen diyà te Jerusalem diyà te Buvungan te Moria, he zutun mebpaahà is Nengazen te amey zin he si David. Diyè din heini tukuza te gunasà ni Arauna he Jebusihanen, kes lugar he inteǥana ni David.
 Mibpuunan din en heini te edtukud te ikezuwa he andew te ikezuwa he vulan, te ikeepat he tuig te kedhadì din.
 Is pundasyun kayi te valey te Megbevayà ne 90 he ǥiek is keluǥayad ne 30 he ǥiek is keluag.
@@ -11478,7 +11478,6 @@ Midal-as ni Abia si Jeroboam ne naaǥew zin diyà te kandin is menge inged te Be
 Wazè en mekelikù diyà te ki Jeroboam is gehem dutun te timpu ni Abia, ne taman en te midsilutan sikandin te Nengazen ne minatey.
 Ne mid-iseg mulà is gehem ni Abia. Duen din 14 he menge esawa ne 22 is menge maama he menge anak din ne 16 is menge anak din he menge vahi.
 Is duma pa he ǥuǥud mehitenged te kedhadì ni Abia, is menge paaǥi zin wey menge migkaǥi zin, ne ingkesurat diyà te Guǥud ni Iddo he ebpeneuven.
-
 Ne hein minatey si Abia, ne ziyà ileveng te Inged ni David. Ne si Asa is anak din iyan nekeilis kandin te kedhadì. Ne hein iyan hadì si Asa, ne melinawen is Juda seled te 10 he tuig.
 Metazeng diyà te etuvangan te Nengazen he Megbevayè din is mid-ulaula ni Asa.
 Impemerundus din is menge pemuhatà para te zuma he menge ed-ezapen wey is menge simbahan diyà te metikang he menge lugar. Imperupet din daan kes tedeman he menge vatu wey impepiley is menge tukud he simbulu te ed-ezapen he si Ashera.
@@ -11493,6 +11492,7 @@ Ne nengemuyù si Asa ziyà te Nengazen he Megbevayè din, “He Nengazen, wazè 
 Umbe, midaag te Nengazen is menge tig-Etiopia dutun te etuvangan ni Asa wey te menge tig-Juda. Mibpemelaǥuy is menge tig-Etiopia.
 Ne midal-as dan ni Asa wey te menge sundaru zin taman te Gerar. Utew mezakel is nemematey kandan, ne tenged dutun kenè dan en ebpekepekidtebek. Su midaag sikandan te Nengazen wey te menge sundaru zin. Utew zekelà he menge azen is nengaaǥew te menge sundaru te Juda.
 Ne midezeetan dan is menge inged he nekelingut te Gerar, su mibpelihandek te Nengazen is menge meǥinged dutun. Mibpenguwa zan is menge azen kayi su utew zekelà is menge azen dan.
+Midsurung dan daan is menge kampu te ebantey te menge layud, ne mibpenguwa zan is mezakel he menge kerehidu, wey menge kambing, wey menge kemilyu. Ne midlikù dan diyà te Jerusalem.
 Ne miduma te Mulin-ulin he Megbevayà si Azaria he anak ni Oded.
 Ne mibpekid-ahà sikandin ki Asa ne migkeǥiyan din te, “Pemineǥa a keniyu Hadì Asa, wey sikiyu is langun he tig-Juda wey tig-Benjamin. Is Nengazen ne kenà edsuwey keniyu emun kenè kew edsuwey kandin. Emun edangep kew kandin ne egkeehè niw is keupiya zin. Piru ke ed-iniyuǥan niw sikandin, ne ed-iniyuǥan kew zin daan.
 Meluǥayad he timpu ne wazà kilelalaa te menge Israilihanen is tutuu he Megbevayà; wazè dan menge memumuhat he mibpenurù kandan, wey wazè dan menge kesuǥuan.
@@ -12362,12 +12362,6 @@ Is sunud kandan iyan si Zadok he anak ni Imer. Mibangun din is bahin te verengbe
 Is sunud kandin iyan si Hanania he anak ni Shelemia wey si Hanun he ikeenem he anak ni Zalaf. Ikezuwe en heini he vahin te verengbeng he kandin he mibangun. Is nekesunud kandan iyan si Meshulam he anak ni Berekia. Mibangun din is bahin te verengbeng he ziyà ebpekesinaru te valey zin.
 Is sunud pa ne iyan si Malkia he sevaha te menge platiru. Mibangun din is bahin te verengbeng taman te ubpeey te menge suluǥuen he ziyà edterebahu te valey te Nengazen wey menge nigusyanti, he zutun ebpekesinaru te Pultahan te Tiǥumà, wey taman te ruǥu he ziyà te zivavew zuen te suyuk te verengbeng.
 Is mibangun te vahin te verengbeng puun dutun he ruǥu taman te Pultahan te menge Kerehidu iyan is menge platiru wey menge nigusyanti.
-
-
-
-
-
-
 Hein netudtulan si Sanbalat he mid-uman dey venguna is berengbeng, nepauk sikandin ne mid-undaunda key zin is menge Judio.
 Diyà te etuvangan te menge zuma zin wey te menge sundaru ziyà te Samaria, migkaǥi sikandin te, “Hengkey is ebeelan kayi te mekehizuhizu he menge Judio? Kunaan dan buwa ke egkeuman dan egkevangun is menge verengbeng te Jerusalem seled dà te senga andew, ne ebpekeuman dan ebpekepemuhat. Kunaan dan buwa ke egkeǥamit dan pa is netutung wey nerupet he menge vatu zuen te verengbeng!”
 Ne migkaǥi zaan si Tobia he Amunihanen he ziyà te avey ni Sanbalat te, “Minsan laku zà is egampan keniyan he verengbeng ne egketempag en!”
@@ -12385,6 +12379,12 @@ Ne zutun te kemulu ku pa ed-is-isipa is kebpekesavuk dey, impetawag ku is menge 
 Piru hein netuenan te menge kuntada zey he netuenan dey is pelanu zan te kedsurung kenami, wey neisip-isip dan he midezeetan te Megbevayà is pelanu zan, midlikù key pudu medterebahu te kebangun te verengbeng.
 Iyan, puun dutun he andew, liwazè dà te menge etew ku is impeterebahu ku ziyà te verengbeng, su is liwazà impevantey ku he zuen dan pengalang te kumeng, menge vangkew, menge kelasag, wey menge panà. Is menge upisyal ziyà ebpemenhitindeg te egkeiniyuǥan te menge tig-Juda
 he ebpemenerebahu zuen te verengbeng. Is ebpemenerebahu, egkulang te ǥelemiten te kedterebahu is divaluy he velad dan ne egkulang te gumaan is divaluy,
+ne edseseluniket pa sikandan te ispada. Ne is ebpezaǥing te vudyung, layun diyà te avey ku.
+Migkeǥiyan ku is menge pengulu, menge upisyal, wey menge meǥinged te, “Meluag is edterebehuwan tew ne ebpekediziyù kiw.
+Umbe, emun egkezineg niw is daǥing te vudyung, ne tiǥum kew kayi te kediey. Iyan ebpekidtebek para kenitew is Megbevayè tew.”
+Umbe, ebpenigudu key en edterebahu puun te meselem taman te egkesakep, ne is ketengà kenami ebantey he neǥumeenan.
+Dutun he timpu, migkeǥiyan ku zaan is menge zuma zey he ziyà ebpemen-ubpà te ǥawas te Jerusalem he medseled dan dutun te inged duma te menge suluǥuen dan emun mezukilem su wey zan mekevantey, ne kegkemeselem ebpeketerebahu zan en maan.
+Ne tenged te kenè key ed-engked he ebantey, ne siak wey is menge kezuzumahi ku, menge etew ku, wey is menge vantey, ne wazè key en med-ilis te kumbalè dey. Ne minsan edhendiyè key te wahig, uwiten dey is menge ǥumaan dey.
 Kayi he timpu, midriklamu is duma he menge maama wey is menge esawa zan diyà te zuma zan he menge Judio.
 Ke sikandan te, “Merapung is pemilya zey ne egkinahanglan key te egkekaan su para meuyag key.”
 Duen duma kandan he migkaǥi te, “Insandè dey en ganì is menge bevesukè dey, menge pemuleey zey te paras, wey is menge valey zey su para zuen dey egkekaan ke timpu te vitil.”
@@ -12491,10 +12491,10 @@ Migkeǥiyan sikandan te gubirnedur te Juda he kenà egkehimu ke egkaan dan te me
 Is langun he nemen-ulì puun te kegkevihaǥa kandan, 42,360, kenà ragkes is menge suluǥuen dan he menge maama wey menge vahi he 7,337 wey is menge perekanta he menge maama wey menge vahi he 245. Duen dan uwiten he 736 he menge kudà, 245 he mulà, 435 he kemilyu, wey 6,720 he asnu.
 <range>
 <range>
-<range>
 Is duma he menge pengulu te menge pemilya mid-amut te para te ked-umana kebenguna te valey te Nengazen. Is gubirnedur mibeǥey te walu he kilu he menge sinsilyu he vulawan, 50 he yehung he ǥelemiten diyà te valey te Nengazen, wey bisti he 530 he lukut he para te menge memumuhat.
 Is duma he menge pengulu te menge pemilya mibeǥey zaan te para kayi he vuluhaten te 168 he kilu he menge sinsilyu he vulawan wey 1,200 he kilu he pelata.
 Is langun he imbeǥey te zuma pa he menge etew, 168 he kilu he menge sinsilyu he vulawan, 1,100 he kilu he pelata, wey bisti he 67 he lukut he para te menge memumuhat.
+Ne nemenlikù sikandan diyà te menge inged he mibpuunan te pemilya zan, ragkes en is menge memumuhat, menge Levihanen, menge vantey te menge ǥemawan te valey te Nengazen, menge perekanta, wey menge suluǥuen diyà te valey te Nengazen.
 midtiǥum sikandan is langun diyà te Jerusalem, ne nepurung sikandan mesevaha ziyà te pelasa he egkesineruwan te Pultahan Pehendiyà te Wahig. Midhengyuan dan si Ezra he menunudlù te Kesuǥuan he kuwaa zin wey vesaha zin is Libru te Kesuǥuan ni Moises he ibpetuman te Nengazen te menge Israilihanen.
 Haazà he andew, iyan nehuna he andew te ikepitu he vulan, mid-uwit ni Ezra is Kesuǥuan diyà te etuvangan te menge etew–menge maama, menge vahi, wey menge vatà he zuen dan en hanew. Ne ziyà te pelasa he egkesineruwan te Pultahan Pehendiyà te Wahig, mibpekezaǥing sikandin is ebasa kayi puun te kedsilà te andew taman te meudtu. Ne mibpurungan pemineǥa haazà is Libru te Kesuǥuan te langun he menge etew zutun.
 <range>
@@ -12550,6 +12550,7 @@ Is menge hadì dey, menge pengulu zey, menge memumuhat dey, wey is menge kepuun 
 Minsan duen dan keugelingen he ginhedian, wey nekesaǥad sikandan te utew nu kandan kebpurungi, wey minsan mibeǥayan nu sikandan te meluag wey selebpeten he tanà, wazà gihapun sikandan mebpenilbi kenikew wey wazè dan iniyuǥi is mezaat he menge ulaula zan.
 Iyan heini hinungdan ke maan is menge uripen key ǥuntaan kayi te tanà he imbeǥey nu te menge kepuun dey, ne kayi zan mekekaan te menge abut kayi wey zuma pa he meupiya he menge pruduktu kayi.
 Ne ǥuntaan, is dekelà he menge abut kayi te tanà, ne iyan ebpekezawat duen is menge hadì he impahadì nu kenami tenged te menge salè dey. Ebeelan dan diyà te kenami wey ziyà te menge uyaǥen dey is egkesuatan dan te ebaal, ne utew key nekebmereǥen.”
+“Ne tenged dutun, midhimu key is menge Judio te sevaha he melig-en he kebpekid-uyun. Insurat haazà ne mibpirmahan te menge pengulu zey, menge memumuhat dey, wey menge Levihanen.”
 Is nehuna he mibpirma iyan si Gubirnedur Nehemias he anak ni Hacalia, wey si Zedekia.
 Is menge memumuhat he mibpirma iyan ensi Seraya, Azaria, Jeremias, Pashur, Amaria, Malkia, Hatush, Shebania, Maluc, Harim, Meremot, Obadias, Daniel, Gineton, Baruc, Meshulam, Abia, Miamin, Maazia, Bilga, wey si Shemaya.
 <range>
@@ -12589,7 +12590,6 @@ Ne ed-uwiten dey zaan diyà te menge memumuhat he ebpenilbi ziyà te valey te Me
 Midsaad key pa he idata zey ziyà te menge memumuhat, diyà te budiga ziyà te valey te Megbevayè dey, is kineupiyahan he klasi te herina wey zuma he menge halad he para gasa. Ed-uwiten dey zaan is kineupiyahan he menge prutas dey, wey is kineupiyahan he veǥu he vinu, wey lana he ulibu. Ed-uwiten dey zaan diyà te menge Levihanen is ikepulù te menge abut dey, su iyan sikandan ebpengulikta te ikepulù diyà te langun he menge inged he zuen duen menge vevesukà. Emun ebpengulikte en te ikepulù is menge Levihanen,
 eduma kandan is memumuhat he kevuwazan ni Aaron. Ne is ikesepulù he vahin dutun te egkekulikta zan ed-uwiten dan diyà te budiga ziyà te valey te Megbevayè dey.
 Is menge Israilihanen, ragkes en is menge Levihanen kinahanglan he ed-uwit te menge halad he trigu, beǥu he vinu wey lana diyà te budiga he zutun idtaǥù is menge gelemiten diyà te valey te Nengazen wey zutun ed-ubpàubpà is menge memumuhat he ebaal te vuluhaten, wey is menge vantey te menge ǥemawan te valey te Nengazen, wey is menge perekanta. Umbe, midsaad key he kenè dey ebey-anan is baley te Megbevayè dey.
-
 Dutun he timpu, is menge pengulu te menge etew ziyà te Israel ziyè ed-ubpà te Jerusalem, he iyan kes segradu he inged. Dutun midripa is menge etew he ziyè med-ubpà te gawas te Jerusalem su egkeusatan dan he kada sepulù he pemilya ne zuen senge pemilya he ziyà ebpekeubpà te Jerusalem, ne sikan is egkesamà ne kenè en mulà ed-awà diyà te menge inged dan.
 Midalig te menge etew is langun he mibuluntaryu he ed-ubpà diyà te Jerusalem.
 Is duma he menge Israilihanen, ragkes is menge memumuhat, menge Levihanen, menge suluǥuen diyà te valey te Nengazen, wey is menge kevuwazan te menge suluǥuen ni Solomon, mibpedayun dan med-ubpà diyà te keugelingen dan he menge tanà diyà te nekedseselekawà he menge inged diyà te Juda. Is duma he menge etew ziyà te Juda wey Benjamin, diyà med-ubpà te Jerusalem. Iyan heini menge pengulu ziyà te prubinsya he Juda wey Benjamin he ziyà med-ubpà te Jerusalem. Is ebpuun diyà te tribu ni Juda: Si Ataya he anak ni Uzia. (Si Uzia anak ni Zacarias. Si Zacarias anak ni Amaria. Si Amaria anak ni Shefatia. Ne si Shefatia anak ni Mahalalel he ebpuun diyà te kevuwazan ni Perez.)
@@ -13890,14 +13890,6 @@ Edleku heini ziyà te lempek te ebpenuvù he zuǥiyen, he egketembunan te menge 
 Iyan egkehimu he helungè din is ebpenuvù he menge zuǥiyen wey zuma pa he ebpenuvù diyà te uvey te zal-ug.
 Kenè din igkahandek is deǥurus te wahig. Melinew is kegeǥehinawa zin minsan henduen be te egketembunan en te Wahig he Jordan.
 Hentei is ebpekezakep kandin pinaaǥi te kedezeeti te mata zin? Hentei is ebpeketinlang te izung din pinaaǥi te kedhingutela kandin?
-
-
-
-
-
-
-
-
 “Job, egkevunuwit nu ve is dragun he Leviatan? Egkehiketan nu ve is bèbè din te pisì?
 Igkepelahus nu ve is pisì diyà te izung din? Etawa egkekew-itan nu ve te vunuwit is bakè din?
 Layun be sikandin edhangyù diyà te kenikew he ipaawè nu? Etawa ebpehizuhizu ve sikandin kenikew?
@@ -13924,6 +13916,14 @@ Minsan is sapù din ne nepurung mahasek wey mezesen.
 Mezesen is gehinawa zin iring te ǥelingan he vatu.
 Emun ed-enew sikandin ne egkengeteranta tenged te kegkahandek is mekeǥeǥehem he menge etew.
 Wazà ispada, bangkew, besut etawa kelawit he ebpekezezaat kandin.
+Diyà te kandin iring dà kelemineg te reǥami is putew, ne is brunsi iring dà te repuk he kayu.
+Emun ebpenaan sikandin ne kenà sikandin ebpelaǥuy. Is menge vatu he idlimpawes diyà te kandin ne henduen dà te ukap is kegezama zin kayi.
+Is kayu he idlagkut kandin, henduen dà te reǥami ziyà te kandin. Ed-engitan din dà is hagyung te vangkew he ibunlawit diyà te kandin.
+Is getek din, ne zuen meǥarang he menge hun-ap he henduen be te menge bildu. Umbe ednayà heini emun edula ziyà te vasak.
+Edsimbeǥen din is daǥat he henduen be te egkaràkarà he wahig diyà te kuzen etawa lana he edìdì diyà te kitang.
+Is wahig he egkeveyaan din eburàburà te meputì, he henduen be te meputì he vulvul is ked-ahaa zuen.
+Wazà iring kandin kayi te kelibutan. Sevaha heini he linimbag he kenà egkahandek.
+Ebpekevevaan din is langun he gelbuwen he menge langgam. Iyan heini hadì te langun he langgam he kenà ebpekeuram.”
 Ne zutun midtavak ni Job is Nengazen te,
 “Netuenan ku he egkehimu nu is minsan hengkey, ne wazà ebpekeeǥen kenikew.
 Mid-insaan a kenikew ke maan is egkezuwazuwa a te ketau nu he wazè ku man netuenan. Tutuu iyan he migkaǥi ku is menge hitavù he kenè ku egketegkad.
@@ -13959,6 +13959,7 @@ Dumelaha nu sikandan, he wazè ebpekesukul te kedumala nu. Iring sikandan te zin
 Umbe, sikiyu is menge hadì wey menge pengulu kayi te kelibutan, sevuta niw heini he menge lalag, ne pemineǥa niw is petizaan keniyu.
 Penilbiyi niw is Nengazen duma is kedtahud ne ikelipey niw sikandin.
 Tehuza niw is hadì he mibpilì din, su emun kenà, ne egkepeukan kew zin ne edèdeetan kew zin. Deyzey is langun he ed-aput diyà te Nengazen.
+
 Nengazen, mahabet is kuntada ku; mahabet is ebpekigkuntada kedì!
 Kesikandan te kenè ke kun edtavang kedì.
 Piru is tutuu, iring ka te kelasag he ebpengalang kedì. Iyan ka ebeǥey kedì te kezeeǥan wey kelig-en.
@@ -14049,7 +14050,6 @@ Kemetayen is egkepeveyaan te lalung he menge etew ziyà te langun he menge nasyu
 Kenà taman te taman is kebey-ani te Megbevayà te menge egkengeayuayu. Ebpekeperateng gihapun is menge egkengeayuayu he edlibriyen sikandan te Megbevayà.
 Sigi en Nengazen, kenè nu ituǥut he iyan ebmezeeǥen is kebpekegaga te menge etew zà duen. Hukumi nu is menge nasyun diyà te etuvangan nu.
 Ipeǥezam nu, Nengazen, is gehinawa zan te kegkahandek kenikew. Ipeisip-isip nu kandan he menge etew zà sikandan.
-
 Nengazen, maan is mibpekeziyù ka? Maan is mid-eles ka zutun te timpu he edlised key?
 Tenged te kegkemepelevawen te lalung he menge etew, ibpaantus dan is menge egkaayuayu. Berakat he iyan sikandan melitag te idlitag dan te zuma he menge etew.
 Ibpahambug dan is menge mezaat he tinguhè dan. Is menge etew he azen is dekelà diyà te ǥehinawa zan, ebpenrawak wey ed-undaunda kenikew, Nengazen.
@@ -14075,6 +14075,7 @@ Diyà is Nengazen ed ubpà te segradu he valey zin; diyà te langit is pinuuwè 
 Edsusiyen din is menge metazeng wey is menge lalung he menge etew. Ne egkeepesan din is menge mesipala.
 Ebpeuzanan din te egkeregreg he menge vaǥa wey esupri is menge lalung he etew; ne edsilutan din sikandan pinaaǥi te meinit he keramag he ebpekelupa kandan.
 Su metazeng is Nengazen ne iyan igkelipey zin is metazeng he menge vaal. Umbe, is etew he edtinazeng ebpekeuvey ziyà te etuvangan din.
+
 Tevangi a, Nengazen, su wazè en etew he nesamà he metinumanen wey egkeseriǥan.
 Langun he menge etew ne ebpemenarùtarù diyà te menge zuma zan. Egemiten dan is meungangen he menge lalag te kebpenlimbung dan.
 Deyzey pezem Nengazen ke ibpetiem nu sikandan is ebpemenlimbung pinaaǥi te meungangen he menge lalag wey sikan is menge gelbuwen.
@@ -14088,8 +14089,7 @@ Nengazen, sengemenu keluǥayad is kenè nu kedseǥipaa kediey? Taman en be heini
 Sengemenu keluǥayad is kebpekaantus ku te kegkeliveg. Sengemenu keluǥayad is kebpekaantus ku te kegketeǥui te seeng te ǥehinawa ku? Sengemenu keluǥayad is kegkezeeǥa kedì te menge kuntada ku?
 Nengazen he Megbevayè ku kenà a kenikew pesegdana; iveǥey nu en kedì is mibuyù ku pinaaǥi te ked-ampù ku. Ilikù nu kayi te kedì is desen ku su para kenà a mebpatey.
 Su utew egkelipey is menge kuntada ku emun egkezaag e zan. Kenè nu ituǥut he mekezayandayan sikandan pinaaǥi te kegkezeeǥa zan kedì.
-Ebpekesarig a kenikew, Nengazen, su ǥeina te kenà egkaawà is kebmahala nu kediey. Ne utew a egkelipey su edlibriyen e man kenikew.
-Egkentahan ku sikew, Nengazen, su puun pa zengan mibpurungan a kenikew.
+Ebpekesarig a kenikew, Nengazen, su ǥeina te kenà egkaawà is kebmahala nu kediey. Ne utew a egkelipey su edlibriyen e man kenikew. Egkentahan ku sikew, Nengazen, su puun pa zengan mibpurungan a kenikew.
 Is menge tulebung, egkaǥi sikandan diyà te gehinawa zan te, “Wazà Megbevayà!” Pudu sikandan lalung ne utew mezaat is menge vaal zan. Wazà minsan sevaha kandan he ebaal te meupiya.
 Diyà te langit mid-ahà te Nengazen is keet-etawan su edsusiyen din ke zuen be nekesavut te tutuu wey ke zuen be edangep diyà te kandin.
 Sikandan is langun, midsuwey zan te tutuu he zalan ne pudu memezaat is ulaula zan. Wazà minsan sevaha kandan he ebaal te meupiya.
@@ -14128,6 +14128,7 @@ Iring sikandan te ed-ayan he erimaung diyà te elesè din, he andam he ebpitaspi
 Nengazen, tebeka nu en sikandan wey zaaǥa nu is lalung he menge kuntada ku. Libriya a pinaaǥi te ǥehem nu, su wey e zan kenà mekeizi.
 Libriya a wey a kenà mekeizi kayi te menge etew he iyan dà ed-isipen dan is kelibutanen he menge vutang. Siluti nu sikandan te silut he inteǥana nu kandan, ne iragkes nu en daan is menge anak dan. Ne elin nu teǥenahi te silut is menge apù dan.
 Piru siak mulà, egkeehè ku sikew, su wazà a mebaal te salà. Emun egkepukew e en ne utew a zutun melipayen su egkeehè ku en sikew.
+
 Nengazen, iyan ka mibeǥey kedì te zesen, ne mahal ku sikew.
 Iyan ka, Nengazen, batu he endilungè ku, melig-en he elesè ku wey menluluwas. Iring ka te elesà he vatu, he ed-eles a ziyà te kenikew. Iyan ka kelasag ku, mekeǥeǥehem he menluluwas, wey eputà.
 Edeliǥen ka, Nengazen, su emun ebuyù a te tavang diyà te kenikew, ne edluwasen a kenikew zutun te menge kuntada ku.
@@ -14249,7 +14250,6 @@ Su iyan ka hadì, ne iyan ka edumala te menge nasyun.
 Kenà duwazuwa he edsimba kenikew is langun he menge sepian he etew kayi te kelibutan. Minsan is langun he menge etew he henduen be te ebpematey en, ne ibpeehè dan is kedtahud dan kenikew su edluhud dan. Wey minsan sikan is nemematey en,
 ebpenilbi kenikew is menge kevuwazan dan. Ebpenuruen mehitenged kenikew te Nengazen is huziyan he menge lapis te menge kevuwazan.
 Ne sikan is huziyan he egkengeetew, edtudtulan daan sikandan he midlibri nu is menge etew nu. Ne iyan ka mibaal kayi.
-
 Nengazen, iyan ka ed-elima kedì, umbe egkekuwa ku is langun he egkinehenglanen ku.
 Iring a te kerehidu he ibpehimeley nu ziyà te penebtavà he zutun is gerabi he memeilem he sagbet. Ne ibpeikul a kenikew ziyà te meleneng he wahig.
 Edlig-enan a kenikew. Ibpeikul a kenikew te hustu he zalan te ketazeng su wey ka meveǥayi te zengeg.
@@ -14334,6 +14334,7 @@ wey ebpekehuyung te sibsivayan; egkehuyung din minsan is sibsivayan diyà te Kad
 Is laǥeng te Nengazen, ebpekepaanak te selazeng wey ebpekepetaktak te zahun te menge kayu. Ne ziyà te valey zin ibensag te langun is lalag he, “Mekeǥeǥehem is Megbevayà!”
 Is Nengazen iyan ebmandù te zalem te menge wahig; iyan sikandin kes hadì he ebmandù te wazà pidtemanan.
 Edlig-enan te Nengazen is menge etew zin, ne ebeǥayan din sikandan te meupiya he kebpekesavuk.
+
 Edeliǥen ku sikew, Nengazen, su midlibri a kenikew te kezeetan ne wazè nu ituǥut he mekezayandayan is menge kuntada ku tenged te kebpekesavuk ku.
 Nengazen he Megbevayè ku, mibpetavang a kenikew tenged te zaru ku, ne mibewian a kenikew.
 Midlibri a kenikew te kemetayen. Wazà nu ituǥut he mepatey a.
@@ -14371,7 +14372,6 @@ Nengazen, ereg ka he edeliǥen! Su egkein-inuwan is paaǥi te kebpaahaa nu te ǥ
 Tenged te utew ku kegkahandek, kunaan ku ke mibpekidsuwey ke en kedì. Iyan, dutun, midineg nu is kebpehizuhizu ku zutun te kebuyù ku te tavang diyà te kenikew.
 Sikiyu is menge etew te Nengazen he metinumanen, mahala niw sikandin. Ebentayan te Nengazen is menge metinumanen, iyan, dekelà mulà is idsilut din te menge mepelevawen.
 Sikiyu is ebperateng te tavang te Nengazen, mebpekelig-en kew wey mebpekevurut.
-
 Utew zeyzey is etew he nepesaylu en is menge kedrapas din te menge suǥù, wey mibpanas en is menge salè din.
 Utew zeyzey is etew he wazè en isipa te Nengazen he mekesesalà sikandin, wey wazà sikandin mebpenlimbung.
 Hein wazè ku pa iketug-an is menge salè ku, mibmeluya a, ne henduen te nerupet en is menge tulan ku, tenged te kebpekezag-es ku seled te tivuuk he andew.
@@ -14405,6 +14405,7 @@ Iyan sikandin edlibri kandan te kemetayen wey ed-uyag kandan emun timpu te vitil
 Edtaǥad kiw zuma is kedsarig te Nengazen. Iyan sikandin edtavang wey ebpengalang kenitew.
 Egkelipey kiw tenged kandin. Su edsarig kiw ziyà te kandin te waǥas he Megbevayà.
 Nengazen, deyzey ke kenà egkaawà is kebmahala nu kenami, iring te edsarig key ziyà te kenikew.
+
 Layun ku edeliǥa is Nengazen; kenà a ed-engked he edalig kandin.
 Ibpegalbu ku is Nengazen, ne sikiyu is menge edèdaaǥen, pemineg kew wey medlipey.
 Duma kew kedì te edalig te Nengazen; edsevaha kiw te kedalig kandin.
@@ -14427,7 +14428,6 @@ Minsan mahabet is menge mereǥen he egkehitavù diyà te etew he metazeng, iyan,
 Kenà duwazuwa is ked-ipata te Nengazen kandin, ne wazà minsan sevaha he tulan din he egkelepù.
 Is menge mezaat he vaal, ne iyan ebpekepatey te menge mezaat he etew. Edsilutan te Nengazen sikan is egkeepesan dan is menge metazeng.
 Edlibriyen te Nengazen is menge etew zin he menge suluǥuen din. Ne is langun he ed-aput diyà te kandin ne kenè din edsilutan.
-
 Kuntedaha nu, Nengazen, is menge etew he mibpekigkuntada kedì. Pekidtebek ka te menge etew he mibpekidtebek kedì.
 Kuwaa nu is kelasag nu wey penagang nu, ne tevangi a.
 Endama nu is dezeisey wey dezekelà he vangkew nu wey pemilaka nu is menge etew he edal-as kedì, ne peseriǥi a he edlibriyen a kenikew.
@@ -14456,6 +14456,7 @@ Kenè nu ituǥut he mekekaǥi sikandan te, “Netuman en human is penganduy zey 
 Is langun he iyan igkelipey zan is menge kebpekaantus ku, berakat he egkepeel-elezan wey egkeliveg sikandan. Berakat he sikan is langun he neminusan kediey, kenà medlampus is tuyù dan wey mepeel-elezi sikandan.
 Berakat he mekeugyab te kegkelipey is menge etew he igkelipey zan is kenà ked-utengi kedì te salà he impesangil kedì. Berakat he layun sikandan mekekaǥi te, “Utew zait he edeliǥen is Nengazen ne igkelipey zin is keupiyaanan te suluǥuen din.”
 Edtudtulen ku is ketazeng nu, wey layun ku sikew edeliǥa.
+
 Iyan heini lalag he taǥù kayi te ǥehinawa ku mehitenged te kegkemekesesalà te lalung he etew: Is lalung he etew ne kenà egkahandek te Megbevayà.
 Su metikang is ked-isipa zin te keugelingen din, kenè din egkaahà is kelelalung din he ereg pezem he egkeepesan din.
 Mezaat wey tarù is menge lalag din, ne kenè din en ed-ul-ulahan is hustu wey meupiya.
@@ -14468,7 +14469,6 @@ Su iyan ka ebpuunan te untung. Edteyawan key kenikew, ne neteyawan is menge isip
 Ipedayun nu is kebmahala nu te menge etew he migkilala kenikew. Ipedayun nu is kebaal nu te meupiya ziyà te menge etew he midtinazeng.
 Kenè nu ituǥut he mezaag a te menge lalung wey menge gelbuwen he kuntada ku.
 Egkezeetan is lalung he menge etew, ne kenè en sikandan ebpekeenew.
-
 Kenè ka mesemuki mehitenged te lalung he menge etew; kenè ka mesina te memezaat is baal.
 Su kenà egkeuǥet ne egkeiring sikandan te sagbet he ebpatey, etawa iring te menge pinemula he egkeǥangu.
 Sarig ka te Nengazen, ne ul-ulaha nu is meupiya. Pengungubpaan ka kayi te tanà he wazè nu igkahandek he ebpekekaid.
@@ -14509,6 +14509,7 @@ Ne ahaa nu purungi is etew he wazà duen igkesawey he ebpengungubpaan te hustu w
 Piru is menge mekesesalà ne pudu ebpendezeeti; wazà meupiya he egkepaabut dan.
 Baal te Nengazen is kelibriyanan te menge metazeng. Iyan sikandin edhimu te paaǥi para kenà sikandan memenu emun timpu te kelised.
 Edtevangan din sikandan ne edlibriyen din te kegkeiza kandan te menge mezaat he etew, su ziyè man sikandan med-aput te kandin.
+
 Nengazen, minsan egkepeukan a kenikew ne kenà a kenikew sewaya.
 Henduen be te mibpanà a kenikew wey midlepadu te mesakit.
 Tenged te kegkepauk nu te kebpekevaal ku te menge salà, ne kenà meupiya is kegezamgezam ku kayi te lawa ku.
@@ -14589,12 +14590,12 @@ Emun maandew ibpeehè nu is gaǥew nu Nengazen, umbe emun mezukilem en, egkanta 
 He Megbevayà he endilungè ku, egkaǥi a ziyà te kenikew te, “Maan is edlipatan a kenikew? Maan is kinahanglan pa he egkeseeng a tenged te kedèdaaǥa kedì te menge kuntada ku?”
 Henduen be te nerupet en is menge tulan ku tenged te kebpeel-elezi zan kedì. Egkeǥiyan e zan te, “Hendei en be is Megbevayè nu he edtavang kenikew?”
 Maan is egkeseeng a wey egkeǥiyaǥiya? Te ereg e man he edsarig kenikew, ne ed-umanan ku sikew edeliǥa is menluluwas ku he Megbevayè ku.
-
 He Megbevayà, ipeehè nu he wazè ku salà, ne levani a su wey a kenà mezezeeti te menge etew he kenà edtuu te Megbevayà. Libriya a te kedezeeti kedì te limbungan wey lalung he menge etew.
 Iyan ka, Megbevayà melig-en he eputè ku. Ne maan is inselikwey a kenikew? Maan is kinahanglan pa he egkeseeng a tenged te kedèdaaǥa kedì te menge kuntada?
 Teyawi a ne penurua a te tutuu su para meǥiyahi a te kebpekid-uliey kenikew ziyà te valey nu he ziyà te segradu he vuvungan.
 Ne zutun ed-uvey a ziyà te pemuhatà he zutun ka ebpemuhata, Megbevayè ku, iyan ka ebeǥey kedì te kelipey. Megbevayè ku, edeliǥen ku sikew pinaaǥi te kedtukar te alpa.
 Maan is egkeseeng a wey egkeǥiyaǥiya? Ereg a he edsarig kenikew. Uya, ed-umanan ku sikew edeliǥa, is menluluwas wey Megbevayè ku.
+
 He Megbevayà, netudtul kenami te menge kepuun dey is mibpemeelan nu hein kaazen dan pa zutun te neuǥet en he timpu,
 he mibpenegseg nu is menge etew he wazà medtuu kenikew ne iyan nu impeubpà diyà te ed-ubpaan dan is menge kepuun dey. Impaantus nu haazà he menge etew ne impeuswag nu mulà is menge kepuun dey.
 Piru iyan tutuu is, kenà pinaaǥi te ǥumaan wey ketau te kebpekidtebek is ingkeengkena te menge kepuun dey kayi he tanà, kekenà, tenged te ǥehem nu, ebilidad nu, wey hizu nu kandan tenged te kebmahala nu kandan.
@@ -14697,7 +14698,6 @@ Su kenè dan heeyan egkeuwit emun ebpatey zan en; is ketiǥeyunan dan kenè dan 
 Dutun te uuyag pa sikandan, ne iyan ked-isipa zan te keugelingen dan he midtuvazan sikandan te Megbevayà, ne edeliǥen sikandan te menge etew tenged te kegkemeuswaǥen dan,
 iyan, ebpekaamur ǥihapun sikandan te menge kepuun dan he nemematey en, diyà te lugar he kenè dan en ebpekevulug ebpekaahà te merayag.
 Is sepian he etew he wazè din kedsavut, ebpatey he iring te menge langgam.
-
 Is Nengazen he iyan kes mekeǥeǥehem he Megbevayà, ebpekidlalag wey ebpengumew te menge etew kayi te tivuuk he kelibutan.
 Ed-anlag sikandin he ebpuun diyà te Zion, he iyan kes inged he wazà kurang te kekempet din.
 Ne ebpekeuma is Megbevayà he ebpetuus, su ziyà te egkehunaan din duen egkeregreg he hapuy, ne ziyà te ebpekeliǥuy kandin ne zuen bagyu.
@@ -14721,6 +14721,8 @@ Layun mezaat is menge lalag niw mehitenged te menge suled niw.
 Ne hein mibeelan niw heini is langun, wazè ku sikiyu dewaya; umbe kunaan niw ke iring a keniyu. Piru guntaan, edewayen ku sikiyu ne ibpeehè ku keniyu he utew kew lalung.
 Pemineǥa niw heini, sikiyu is nengelipat te Megbevayà, su emun kenà, edezeetan ku sikiyu ne wazà ebpekelibri keniyu.
 Is ebpemuhat kayi te kedì te kebpeselamat ebeǥey kedì te zengeg, ne edlibriyen ku sikan is ebpekeventayan din he kenà sikandin mekevaal te mezaat.”
+
+
 He Megbevayè ku, kehizuwi a kenikew tenged te kebmahala nu kedì. Iawè nu is menge salè ku tenged te zekelà he hizu nu kedì.
 Lùlui nu is kegkezaat ku; lumpiyuwi a te menge salè ku.
 Su langun he timpu ed-isipen ku wey ed-engkenen ku is menge salè ku.
@@ -14752,13 +14754,13 @@ Egkaahà heini te menge metazeng, ne egkeinuinu sikandan. Ne ed-engit sikandan i
 Piru siak mulà egkeiring a te kayu he ulibu he ziyà meketuvù te valey te Megbevayà. Edseriǥan ku is kebmahala zin kedì te wazà pidtemanan.
 He Megbevayè ku, ebpeselamatan ku sikew te taman te taman tenged te mibeelan nu. Edsarig a kenikew su ebpurungan nu is metinumanen he menge etew nu.
 
-
 Diyà te ǥehinawa te menge tulebung egkaǥi sikandan te, “Wazà Megbevayà!” Pudu sikandan lalung ne utew mezaat is menge vaal zan. Wazà minsan sevaha kandan he ebaal te meupiya.
 Puun te langit edtengtengan te Megbevayà is keet-etawan, su edsusiyen din ke zuen be nekesavut te tutuu wey ke zuen be midangep diyà te kandin.
 Is langun mid-awà diyà te Megbevayà ne pudu memezaat is ulaula zan. Wazà minsan sevaha kandan he ebaal te meupiya.
 Wazè be metueni kayi te lalung he menge etew is menge vaal zan? Netuenan dan heini! Ebpegpeǥesen dan is menge amurè ku te inged wey zan mekeselapì he iring dà sikandan te edsupal te keenen, ne kenà sikandan ed-ampù diyà te Megbevayà.
 Piru egkengeheratan sikandan. Egkeǥezam dan is kegkahandek he wazè dan pa keenu meseǥazi, su ibpeyapat te Megbevayà is menge tulan dan. Sikandan is menge edsurung keniyu te menge tig-Israel, ebpeel-elezan niw sikandan, su inselikwey sikandan te Megbevayà.
 Deyzey ke ebpekeume en is edlibri te Israel he ebpuun diyà te Zion. Utew ebmelipayen is menge tig-Israel he menge etew te Megbevayà, emun idlikù din en is meupiya he kebpekesavuk dan.
+
 
 He Megbevayà, libriya a; pinaaǥi te ǥehem nu, petueni nu he wazè ku salà.
 Pemineǥa nu is menge kebpengemuyù ku
@@ -14767,7 +14769,6 @@ Kenà a egkezuwazuwa he sikew is Megbevayè ku, ne iyan ka edtavang kediey. Iyan
 Berakat he medlikù diyà te menge kuntada ku is menge pesipala zan. He Megbevayà dèdeeti nu sikandan tenged te kebmetinumanen nu.
 Nengazen, ebpemuhat a ziyà te kenikew te pemuhat he kineugelingen he suat. Edeliǥen ku sikew su iyan haazà meupiya.
 Su ibpelingkawas a kenikew te langun he kelised ku, ne egkeehè ku is kegkezeeǥa te menge kuntada ku.
-
 
 He Megbevayà, pemineǥa nu is ked-ampù ku; seǥipaa nu is kebuyù ku te tavang diyà te kenikew.
 Pemineǥa a ne tevaka a. Egkeliveg ad te kegkesemuki ku.
@@ -14849,6 +14850,7 @@ Iring sikandan te asu he edliǥuyliǥuy su ebpen-ahà te egkekaan din, ne egnges
 Iyan, siak mulà, egkanta a mehitenged te ǥehem nu. Kada meselem ebpekezaǥing a is egkanta mehitenged te ǥaǥew nu. Su ǥeina te ziyà a layun te kenikew edangep ne iyan ka ebpengelintau para wazà mezaat he egkehitavù kedì emun timpu te kelised.
 He Megbevayà, iyan ka ebeǥey kedì te zesen; egkanta a te menge idalig kenikew, su iyan ka eputè ku, is Megbevayà he mibmahal kedì.
 
+
 He Megbevayà, mid-engkezan key kenikew ne ketau nu is kegkezaaǥa kenami. Nepeukan key kenikew, ne ǥuntaan seǥipaa key en.
 Midhuyung nu wey impeveka nu is tanà he Israel, iyan, guntaan edhangyù a ziyà te kenikew he purungi nu en heini su hapit en egketempag.
 Sikami is menge etew nu ibpepurung key kenikew ibpaantus. Ebpekeziregdireg key en he henduen be te midlangut key kenikew te vinu.
@@ -14861,7 +14863,6 @@ Hentei is ed-uwit kedì diyà te Edom wey ziyà te inged kayi he mibpeliǥuyan t
 Kenè be iyan ka, is Megbevayà he midselikwey kenami he wazè en meduma te menge sundaru zey?
 Tevangi key te kebpekidtebek te menge kuntada zey, su kenà ebpulus is tavang te etew.
 He Megbevayà, ebpekezaag key pinaaǥi te tavang nu, su iyan ka ebpekezaag te menge kuntada.
-
 
 He Megbevayà, pemineǥa nu is ked-umew ku, pemineǥa nu is ked-ampù ku.
 Puun dini te meziyù he lugar ebpengumew a kenikew su neewaan ad te perateng. Uwita a kenikew ziyà te lugar he wazà duen ebpekekaid,
@@ -14921,7 +14922,6 @@ Ebpeuzanan nu is ineradu he tanà taman te ebmeyunek heini, ne edtuvazan nu is n
 Edhimuwen nu he zekelà is menge abut emun tiraǥun. Is langun he menge lugar he egkepeveyaan nu ne ebpekaangken te zekelà he uzar.
 Is menge penebtavà diyà te sibsivayan ne zekelà is memeilem he sagbet duen; is menge vuvungan henduen be te menge etew he egkengelipey.
 Is menge penebtavà neeneb te menge ebpemenabtab; is menge suǥud neeneb te menge trigu. Heini he menge lugar henduen be te menge etew he ebpemen-ugyab wey ebpemenganta te kegkelipey.
-
 Sikiyu is menge etew kayi te tivuuk he kelibutan, ugyab kew ziyà te Megbevayà te kegkelipey.
 Kanta kew te kedalig kandin. Iveǥey niw kandin is dengeg pinaaǥi te kedeliǥa niw kandin.
 Keǥiyi niw sikandin te, “He Megbevayà, utew iyan egkein-inuwi is menge vaal nu. Tenged te zekelà he ǥehem nu nekeluhud diyà te etuvangan nu is menge kuntada nu.
@@ -14942,6 +14942,7 @@ Mibuyù a te tavang diyà te kandin ne midalig ku sikandin.
 Emun wazè ku itug-an is menge salè ku ne kenà a pezem ebpemineǥen te Nengazen.
 Piru mibpemineg a te Megbevayà; midineg din is ked-ampù ku.
 Edeliǥen ku is Megbevayà, su midseǥipè din is ked-ampù ku, ne kenà duwazuwa is kebmahala zin kedì.
+
 He Megbevayà, kehizuwi key wey tuvazi key. Ipeehè nu kenami is keupiya nu,
 su para metueni ziyà te langun he menge nasyun te tivuuk he kelibutan is paaǥi nu wey is kedluwas nu.
 He Megbevayà, berakat he edeliǥen ka te tivuuk he menusiyà.
@@ -15028,7 +15029,6 @@ Berakat he mepeel-elezi wey meliveg is menge etew he egkesuat he edhimatey kedì
 Berakat he is menge etew he edsudì kedì ebpekeiniyug tenged te kegkeeled dan.
 Ne is langun he midangep diyà te kenikew, berakat he melipey zan tenged kenikew. Ne sikan is utew zan igkesuat is kedlibri nu, ne verakat he layun dan megkaǥi te, “Dait he edeliǥen is Megbevayà!”
 Bahin kedì, egkaayuayu wey pubri a. Uveyi a kenikew, Megbevayè ku! Iyan ka edtavang wey menluluwas ku. Nengazen, gègaani ad kenikew tevangi ǥuntaan.
-
 Nengazen, diyà a te kenikew med-aput. Kenè nu ituǥut he mepeel-elezi a.
 Tevangi a wey luwasa a su metazeng ke man. Pemineǥa a wey luwasa a.
 Kelesaǥi a iring te nekeendilung a te vatu, su ziyè e zà layun te kenikew edangep. Kenà duwazuwa he edlibriyen a kenikew, su iyan ke man endilungè ku wey melig-en he elesà ku.
@@ -15124,6 +15124,7 @@ Tentenuzi nu is kebpekid-uyun nu kenami, su utew mesipala is menge kuntada zey, 
 Kenè nu ituǥut is kegkepeel-elezi te menge edèdaaǥen. Berakat he edeliǥen ka te menge egkaayuayu wey menge pubri.
 He Megbevayà, levani nu en guntaan is dengeg nu. Tentenuzi nu he edtulungan ke en ebpeel-elezi te menge tulebung.
 Kenè nu ituǥut he ebpedayun is kedtulung kebpengulahì te menge kuntada nu he tuus te kegkepauk dan.
+
 He Megbevayà, mepeselematen key kenikew. Mepeselematen key su uvey ka kenami. Edtudtulen dey is egkein-inuwan he menge vaal nu.
 Ke sikew te, “Duen timpu he midtail ku he para te kedhukum, ne metazeng is kedhukum ku.
 Emun egkehuyung is kelibutan ne ebpengerkeren te kegkahandek is menge meǥinged kayi, ne iyan a edlig-en te mibengunan kayi.
@@ -15168,7 +15169,6 @@ Mibusbus te uzan is menge kivel; midruǥung diyà te zivavew ne nengilat diyà t
 Ne egkezineg is selenuhug te menge vagyu; is menge kilat neketayew te kelibutan; ne neyunggat is kelibutan.
 Midlayun nu is daǥat he nemaǥel te dezekelà he menge vaǥel, piru wazè ka maahà is edsaǥad.
 Migiyahan nu is menge etew nu he iring te menge kerehidu, pinaaǥi ki Moises wey ki Aaron.
-
 Sikiyu is menge lumunè ku te inged, pemineǥa niw is menge penurù ku.
 Ebpenuruen ku sikiyu pinaaǥi te menge sempità. Edtudtulen ku keniyu is in-eles he menge ketutuanan dengan
 he netuenan tew en, su midtudtul kenitew te menge kepuun tew.
@@ -15254,6 +15254,7 @@ Kenè nu itugut he ebpekekaǥi ziyà te kenami is menge etew ziyà te zuma he me
 Pemineǥa nu is dag-es te menge etew nu he menge vihag. Edhimetayan sikandan, umbe libriya nu sikandan pinaaǥi te ǥehem nu.
 Nengazen, kepipitu nu tekepa is penimales nu te uvey zey he menge nasyun te kebpeel-elezi zan kenikew.
 Ne sikami is menge etew nu he iring te menge kerehidu he ebentayan nu, ne wazà pidtemanan te kebpeselemati zey kenikew. Layun dey sikew edeliǥa taman te taman.
+
 Sikew is ebantey te Israel, pemineǥa key kenikew, iyan ka migiya te iring te menge kerehidu he menge kevuwazan ni Jose. Sikew is ebpimpinuu ziyà te pinuuwè nu te kedhadì he egkezivavew te nepelestaran te menge kirubin, ipeehè nu is gehem nu
 ziyà te etuvangan te tribu ni Efraim, ni Benjamin, wey ni Manase. Ipeehè nu en is gehem nu, ne veyai key ne ibriya key.
 He Megbevayà, iliku nu kayi te kenami is keupiya te kebpekesavuk dey zengan. Ipeehè nu kenami is hizu nu su wey key melibri.
@@ -15290,7 +15291,6 @@ Emun pezem ebpemineg kew kedì wey edtumanen niw is menge paaǥi ku,
 ne diritsu ku zà edsiluti wey edaaǥa is menge kuntada niw.
 Is menge edumut kediey, ne ebpekeluhud kedì su egkahandek. Ne wazà pidtemanan te silut dan.
 Iyan, sikiyu mulà is menge etew ku, ibpekaan ku sikiyu. Edhentayen ku sikiyu te utew meupiya he trigu wey teneb.”
-
 Midumala te Megbevayà is ketiǥuman te menge gemhanan, ne edhukuman din sikandan.
 Ke sikandin te, “Sengemenu keluǥayad is kedtulung niw kedhimu te hukum he kenà metazeng? Sengemenu keluǥayad is kedtulungi niw kedepiǥi te menge lalung?
 Iveǥey niw is hustu he kukuman diyà te menge utew egkengeey-eyuwi wey menge ilu. Levani niw is ketenged te menge egkaayuayu he edèdaaǥen.
@@ -15299,6 +15299,7 @@ Utew kew menge paglung! Utew kew menge taleng! Diyè kew te kerusireman, umbe ne
 Siak, is Utew Lavew he Megbevayà, egkeǥiyan ku sikiyu te menge megbevayè kew, ne pudu ku sikiyu menge anak.
 Ebpatey kew iring te etew. Egketapus is untung niw iring te minsan hentei he pengulu.”
 Sigi en, Megbevayà, hukumi nu en is menge etew ziyà te langun he menge nasyun kayi te kelibutan, su ǥaked nu sikandan.
+
 He Megbevayà, kenè ka pereremek, kekenà, waleng ka!
 Hanu man te menge kuntada nu, egkegurigew zan he edsurung ne ebpegalbu sikandan su ebpekezaag dan kun.
 Duen meeles he pelanu zan he para te kezeetan te menge etew nu he ed-eturen nu.
@@ -15344,7 +15345,6 @@ Ebpekeduma is gaǥew wey kebmetinumanen, ne ebpekeduma zaan is ketazeng wey is k
 Is kebmetinumanen te etew kayi te tanà ne netuenan te Megbevayà diyà te langit. Ne is ketazeng te Megbevayà diyà te langit egkezawat te etew kayi te tanà.
 Siguradu he edtuvazan kiw te Nengazen, ne edekelà is sebpet te tanè tew.
 Is ketazeng iring te menunudtulà he edhuna te Nengazen su ed-endamen din is ibayà te Nengazen.
-
 Nengazen, pemineǥa nu wey tevaka nu is ked-ampù ku su egkaayuayu a wey pubri a.
 Tipiǥi nu is untung ku su meheǥet is kedsunud ku kenikew. Iyan ka Megbevayè ku; luwasa a kenikew is suluǥuen nu he midsarig diyan te kenikew.
 Kehizuwi a, Nengazen, su layun a ebpengumew-umew kenikew.
@@ -15369,6 +15369,7 @@ Ke sikandin te, “Emun idlista ku is menge nasyun he migkilala kedì, idragkes 
 Tutuu he egkekaǥi heini mehitenged te Zion, he mahabet he menge etew is kenà tig-Zion he ed-isipen he hustu en he tig-Zion. Ne iyan edlig-en kayi he inged is Utew Lavew he Megbevayà.
 Idlista te Nengazen is menge etew zin, ne idragkes din is menge etew he ziyà ebpemuun te zuma he menge nasyun he mid-isip din he hustu en he tig-Zion.
 Edsayew wey egkanta sikandan is langun, ke sikandan te, “Ebpuun te Zion is langun he menge tuvad kenitew!”
+
 Nengazen, iyan ka Megbevayà he menluluwas ku. Ed-umawen ku sikew te maandew wey mezukilem.
 Pemineǥa nu is ampù ku; tevaka nu is kebuyù ku te tavang.
 Su mahabet he menge kelised is nengeseǥazan ku, ne henduen be te ebpatey ad.
@@ -15440,7 +15441,6 @@ Nengazen, hendei en is gaǥew nu he iring duen te nehuna, he insaad nu ziyà te 
 Tentenuzi nu, Nengazen, he mibpeel-elezan te menge etew ziyà te mezakel he menge nasyun is menge suluǥuen nu, ne ed-entusen ku heini.
 Iyan, is menge kuntada nu, Nengazen, edsudì te pinilì nu he hadì minsan hendei sikandin ebayà.
 Dait he edeliǥen is Nengazen te wazà pidtemanan! Amen! Amen!
-
 Nengazen, puun pa zengan ne ziyè key en med-ubpà te kenikew.
 Hein wazà nu pa limbaǥa is menge vuntud wey is kelibutan, ne Megbevayè ke en, ne iyan ka ǥihapun Megbevayà te wazà pidtemanan.
 Kenikew he vayàbayà is kemetayen te etew; idlikù nu sikandin diyà te tanà he iyan kes ebpuunan din.
@@ -15474,6 +15474,7 @@ Bà nu zà egieki is menge erimaung wey is edhereg he menge uled.
 Migkaǥi is Megbevayà te, “Edlibriyen ku wey edlevanan ku is mibmahal wey migkilala kedì.
 Emun ed-umawen e zin, ne edtevaken ku sikandin; emun edlised sikandin, ne eduma a kandin; edlibriyen ku sikandin wey ebeǥayan ku te zengeg.
 Ebeǥayan ku sikandin te meluǥayad he untung, ne ibpeehè ku kandin is kedlibriya ku kandin.”
+
 Nengazen he Utew Lavew he Megbevayà, meupiya is kebpeselemati kenikew wey is kegkanta te menge idalig kenikew.
 Maandew wey mezukilem meupiya is kebpeheyaǥa te ǥaǥew nu,
 he ebpezumahan te kedtukari te menge instrumintu he zuen dan menge kuwirdas.
@@ -15489,7 +15490,6 @@ Is ked-uswag te menge metazeng igkepetug iring te meveǥas he palma, ne is kebpe
 Iring sikandan te menge kayu he impemula ziyà te valey te Nengazen he Megbevayè tew he meupiya is tuvù dan,
 he ebpemeǥas gihapun minsan meǥurang en, ne kemulu ǥihapun meilem wey melig-en.
 Ne puriba heini he metazeng is Nengazen he iyan endilungè ku; wazà minsan hengkey he mezaat diyà te kandin.
-
 Hadì ka, Nengazen; is bisti nu iyan is kegkemekeǥeǥehem nu wey is utew nu kegkelavew. Utew melig-en is kebenguna nu te kelibutan ne kenà heini egkehuyung.
 Is kedhadì nu puun pa te puunà, su zaan ke en hein wazè pa is kelibutan.
 Utew mezaǥing is daǥat, Nengazen, ne edreǥuuk is menge vaǥel.
@@ -15585,6 +15585,7 @@ Edèdeetan ku is minsan hentei he ebpendezaat te zengeg te zuma zin pinaaǥi te 
 Piru ibpeehè ku is keupiya ku ziyà te menge etew kayi te kenitew he menge metinumanen he edsunud te Megbevayà wey nengungubpaan he wazà igkesawey kandan. Ibpeubpè ku sikandan duma kedì ne edtuǥutan ku he ebpenilbi kedì.
 Is menge etew he limbungan wey teruen ne kenà ebpekeubpà diyà te turuǥan ku.
 Kada andew edèdeetan ku is lalung he menge etew kayi te kenitew. Ibpaawè ku sikandan kayi te inged te Nengazen.
+
 Nengazen, pemineǥa nu is ampù ku. Pemineǥa nu en is kebuyù ku te tavang diyà te kenikew.
 Kenà a kenikew elesi zutun te timpu te kelised ku. Pemineǥa a emun ebpengumew a kenikew, ne segugunà a tevaka.
 Su is untung ku meǥaan dà egkaawà iring te evel; is lawa ku ne henduen be te edtutungen.
@@ -15613,7 +15614,6 @@ Dengan mibeelan nu is kelibutan wey is langit.
 Egkengahanew heini piru ebpedayun ka mulà. Ebmerunut is langun iring te visti. Wey iring daan te visti, ne ed-ilisan nu wey egkengahanew zan.
 Piru sikew mulà, ne iyan ke zed gihapun; wazè nu ketepusan.
 Is menge kevuwazan te menge etew nu he menge suluǥuen nu, ne kenà sikandan egkengezeetan te vangkit ne ebentayan nu sikandan.”
-
 Ereg he edeliǥen ku is Nengazen. Edeliǥen ku is kegkewaǥas din seled te tivuuk he untung ku.
 Ereg he edeliǥen ku is Nengazen, ne kenè ku edlipatan is keupiya zin.
 Mibpesaylu zin is langun he menge salè ku, wey neulian is langun he menge zaru ku tenged te kebewii zin kedì.
@@ -15807,6 +15807,7 @@ Mibpendezeisey te Megbevayà is menge midaagdaag kandan pinaaǥi te kedtezina zi
 Piru midtevangan din mulà is menge egkaayuayu te menge elentusen dan, ne mibpengelinteuwan din he mevuwad is menge pemilya zan iring te menge uyaǥen.
 Naahà heini te menge metazeng ne nelipey sikandan, iyan, is langun he menge lalung ne wazè dan egkekaǥi.
 Is menge uluwanen ereg he ebpurung ed-isip-isip mehitenged kayi; ereg he ed-isipen dan is dekelà he ǥaǥew te Nengazen.
+
 He Megbevayà, utew zekelà is kedsarig ku kenikew. Egkentahan ku sikew te menge kedalig kayi te tivuuk he ǥehinawa ku.
 Egkeriwaswas pa ne egimerat e en, su wey ku maandam en is menge instrumintu ku he zuen dan menge kuwirdas para meǥamit ku te kedalig kenikew.
 Nengazen, edeliǥen ku sikew ziyà te teliwazà te menge etew. Egkentahan ku sikew ziyà te teliwazà te menge etew he meǥinged diyà te senge nenasyun.
@@ -15820,7 +15821,6 @@ He Megbevayà, hentei is ed-uwit kedì diyà te Edom wey ziyà te inged kayi he 
 Kenè be iyan ka, is Megbevayà he mid-iniyug kenami ne wazè en meduma te menge sundaru zey?
 Tevangi key te ked-asdang te menge kuntada zey, su kenà ebpulus is tavang te etew.
 Ebpekezaag key pinaaǥi te tavang nu, He Megbevayà, su edaaǥen nu is menge kuntada zey.
-
 He Megbevayà, he edeliǥen ku, tevaka nu is ked-umew ku kenikew.
 Su idsumbung a te lalung wey limbungan he menge etew. Tarù is lalag dan mehitenged kedì.
 Layun mezaat is menge lalag dan he ebpekesuǥat kedì minsan wazà hinungdan.
@@ -16329,6 +16329,7 @@ Nengazen, egkeepesan ku is egkeepes kenikew. Egkeepesan ku is ebpekigkuntada ken
 Utew ku egkeepesi sikandan; mid-isip ku sikandan he menge kuntada ku.
 Susiya a kenikew, Megbevayè ku, su para metueni nu is kayi te ǥehinawa ku. Gezami a, su para metueni nu is ed-isipen ku.
 Ahaa nu ke zuen mezaat he vaal ku, ne eǥaka a ziyà te zalan he ereg he ed-ikulen ku taman te taman.
+
 He Nengazen, luwasa a zutun te lalung wey mesipala he menge etew.
 Ebpelanu zan te mezaat wey layun dan ebulanga is menge etew.
 Iring te edhereg he uled is dilè dan; is menge lalag dan ne ebpekepesakit iring te hereg te uled.
@@ -16342,7 +16343,6 @@ Berakat he meuluǥi sikandan te regreg, ne iulug sikandan diyà te menge vudsi n
 Berakat ke kenè en mebpedayun kayi te tanà is menge etew he menge tigbutangbutang te zuma. Berakat daan he meumahi te vangkit is menge mesipala he iyan ebpekezezaat kandan.
 Nengazen, netuenan ku he edlevanan nu is ketenged te menge ayu-ayu; ibeǥey nu kandan is hustu he kukuman.
 Siguradu he edeliǥen ka te menge metazeng ne ebpengungubpaan sikandan duma kenikew.
-
 He Nengazen, ebpengumew-umew a kenikew, ne segugunà a tevangi. Pemineǥa nu heini is kebpengumew-umew ku kenikew.
 Isipa nu he iring te veyewà heini is ampù ku ziyà te kenikew. Isipa nu is kebeyawa ku te menge velad ku he iring kemahal te mahapun he kebpemuhat.
 Giyahi nu, Nengazen, is kebpengaǥikaǥi ku su wey a kenà mekekagi te mezaat.
@@ -16353,6 +16353,7 @@ Ne zutun egkaǥi zan te, “Ebpekedsusuwey en bes is menge tulan tew ziyà te ed
 Umbe, Nengazen he MEGBEVAYÀ, diyan e zà edsarig; ed-aput a ziyà te kenikew, umbe kenè nu ituǥut he egkepatey a.
 Ilikey a kenikew zuen te menge penuǥes te lalung he menge etew he idhingutel zan kedì.
 Himuwa nu he iyan sikandan meutel zuen te penuǥes dan, ne mekelikey a mulà dutun.
+
 Nengazen, mezesen is ked-umew ku kenikew. Ebpengemuyù a he ikehizu a kenikew.
 Idtug-an ku kenikew is menge riklamu ku wey is menge kelised ku.
 Ne emun neewaan ad te perateng, ne heeyan ke zed is ebpekevantey te menge egkengehitavù kedì. Diyà te ibayè ku zuen idtuǥes kedì te menge kuntada ku.
@@ -16360,7 +16361,6 @@ Ahaa nu man is nekelingut kedì, wazà midtavang kedì, wazà nengalang kedì, w
 Ebpengum-umawen ku sikew, Nengazen; iyan ka ebpengalang kedì. Iyan ke zà utew egkinehenglanen ku kayi te kelibutan.
 Pemineǥa nu is kebuyù ku te tavang diyan te kenikew, su wazè en duma he egkehimu ku. Ilikey a te edtelinguma he edrasey kediey, su memezesen dan kenà siak.
 Ipeǥawas a kenikew kayi te kegkepirisuwa kedì, wey a mekezalig kenikew. Ne zutun ed-erungut kayi te kediey is menge metazeng tenged te kebpurungi nu kediey.
-
 He Nengazen, pemineǥa nu heini is ked-ampù ku kenikew. Dineǥa nu heini is kebpehizuhizu ku kenikew. Tenged te metazeng wey metinumanen ka, ne tevangi a.
 Peseyluwa a te menge nehimu ku he mezaat is suluǥuen nu. Su wazà minsan hentei he metazeng diyà te etuvangan nu.
 Nezaag a te menge kuntada ku, ne mibpesipelahan e zan. Ne hein mibpirisu e zan diyà te merusirem, neiring a te minatey he neuǥet dà diyà te penlevengà.
@@ -17465,7 +17465,6 @@ Meupiya pa is betan-en he pubri piru metau kenà is meǥurang he hadì he tulebu
 Ne haazà is betan-en egkehimu he egkahadì sikandin minsan nepirisu sikandin, ne haazà is hadì egkehimu he egkepubri sikandin minsan pa te neetew sikandin he ebpuun diyà te lavew he pemilya.
 Piru netuenan ku he minsan mahabet is menge etew kayi te kelibutan he edsunud te paaǥi te kedumala zuen te vetan-en he nekeilis te hadì,
 ne kenè egkevilang is menge etew he edumelahan din, ne egkehimu ǥihapun he kenà sikandin ebpekepenunuat te huziyan he menge lapis te kevuwazan. Ne wazà daan kayi pulus; henduen dà te edal-as ka te keramag.
-
 Kinahanglan he ebpekeventayan nu is ed-ul-ulahan nu ke edhendiyè ka te valey te Megbevayà. Meupiya pa ke egkezumahan te kebmetinumanen is ked-uvey nu zutun, kenà te ebpemuhat ke zà te iring te kebpemuhat te menge tulebung he wazà mesayud he sayep is baal zan.
 Kenè nu zegdeǥusuwi is egkeǥiyen nu. Kinahanglan he ebpurung ka ed-isip-isip ne human ka ebpenaad diyà te Megbevayà. Tentenuzi nu he ziyà te langit is Megbevayà ne sikew kayi ke zà te tanà, umbe kenè ka mebpetakè dà megkaǥi.
 Su iring te melemu ke zà ebpeketeǥeinep emun egketulung ka egkeseeng, ne melemu ke zà daan ebpekekaǥi te tinulebung emun ebpetakè ka egkaǥi.
@@ -17485,6 +17484,7 @@ Ne kenà heini meupiya! Ebpatey ki he wazè din egkeuwit iring te kegkeetew ta. 
 Kayi te ked-ubpè ta ne mahabet he menge timpu he zutun edlised ki, egkeseeng ki, egkezeruwan ki, wey egkepauk ki.
 Umbe, netaǥù kayi te isip ku he is meupiya he ed-ul-ulahan te etew seled kayi te mevavà he untung he imbeǥey kandin te Megbevayà iyan is kegkaan, ked-inum, wey kedlipeylipey pinaaǥi te hineǥuan din kayi te kelibutan, su para man heini kandin.
 Mibeǥayan te Megbevayà is etew te azen wey zuma pe he menge ketiǥeyunan, ne midtuǥutan din te kebpehimulus kayi, su para mezawat te etew is para kandin ne igkelipey zin is hineǥuan din. Imbeǥey heini kandin te Megbevayà.
+Is kelipey, imbeǥey te Megbevayà su para kenè utew meseǥipà te etew is kedseengseeng tenged te kevavè dà te untung din.
 Duen pa neehè ku kayi te kelibutan he kenà meupiya he igkeveǥati te etew:
 Duen menge etew he mibeǥayan te Megbevayà te langun he egkesuatan dan he mekuwa zan: dengeg, azen wey zuma pa he ketiǥeyunan. Piru wazè din sikandan tuǥuti he ebpekepehimulus dutun, kekenà, iyan is duma he etew. Wazà kayi pulus, ne kenà heini meupiya.
 Egkehimu he mahabet is anak te sevaha he etew wey meluǥayad is untung din, piru minsan meluǥayad is untung din ke wazè din kelipey zuen te meupiya he menge vutang he nezawat din wey kenà sikandin igkeleveng ke ebpatey, ne meupiya pa is batà he neranran kenà sikandin.
@@ -17694,6 +17694,7 @@ ne sevaha zà is pelanggè ku. Mekempet sikandin ne wazè igkesawey kandin. Budt
 Ke sikandan te, “Hentei ves heini is emun edtengtengan ta ne iring te egkeriwaswas is kekempet din, wey iring te ebpenerètà he vulan, wey iring te edsilà he andew. Mekevivihag sikandin iring te menge vituen.”
 Midtupang a ziyà te pemuleey te kayu he almindru su ed-ahaan ku is beǥu he menge pinemula he nenuvù diyà te zal-ug, wey ed-ahaan ku ke neneringsing en be is menge paras wey ke nengevukad en be is menge pumigranata.
 Ne wazè ku mevembentayi he ziyè ed bes te utew mekempet he hizeǥaan duma te pinelanggè ku.
+Likù ka, is raǥa ziyà te Shulam, likù ka su wey zey sikew maahà. Maan is egkesuatan niw te ed-ahà is raǥa ziyà te Shulam he edsayew ziyà te teliwazà te ebpemenan-ew?
 He vahi he dungganen, utew iyan mekempet is menge paa nu he zuen duen menge sandalyas. Meupiya is kegkepurma te menge vuvun nu. Henduen be heini te menge elahas he mibeelan te utew metau he mememaal.
 Is pused nu iring te tasa he layun din duen taǥù he metaam he vinu. Is hawak nu iring te vinagkes he trigu he neliǥuy te menge liryu.
 Is menge susu nu henduen be te sereping he nati te kuleping.
@@ -17707,7 +17708,6 @@ Gaked a te minahal ku ne iyan e zà ibulunga zin.
 Hendini ka, pelanggè ku, edhendiyè ki te vevesukà, ne ziyà ki edlipezeng te zuen duen menge vulak he hina.
 Edsayu ki ed-enew ne ed-ahaan ta ke neneringsing en wey ke nemekar en is menge kevukad te menge paras. Ed-ahaan te zaan ke nengevukad en is pumigranata. Ne zutun ibpeǥezam ku kenikew is kebmahal ku.
 Egkahazek ta is kehemut te pinemula he mandragura, ne ziyà te uvey te gemawan ta ne zutun is langun he meupiya he menge prutas, is daan wey is beǥu. Su inteǥana ku heini kenikew, pelanggè ku.
-
 Angin pezem ke suled ku zà sikew he impesusu ziyà te iney ku, ne egkehimu ke edhezekan ku sikew minsan hendei ne kenà mezaat is ked-isipa kedì te zuma.
 Edumahan ku sikew ziyà te valey te iney ku, ne zutun penurua a kenikew te kebmahal. Ibpeinum ku sikew te mehemut he vinu he wahig te egkeresen he prutas ku he pumigranata.
 Ebpeulun a te givang he velad nu ne ikepkep nu kedì is kewanan nu.
@@ -17897,7 +17897,6 @@ Emun duen egkaǥi keniyu he penginginsè kew te menge minatey pinaaǥi te menge 
 Kinahanglan he is kesuǥuan wey penurù te Nengazen ne iyan niw ebpemineǥen. Emun duen menge etew he egkaǥi te supak te menge penurù te Nengazen, heeyan he menge etew wazà meteyawi is isip dan.
 Edhipanew zan he egkeveley wey egkevitil. Ne tenged te kegkevitil zan, egkepauk sikandan ne edrewakan dan is hadì dan wey is Megbevayè dan. Ne edlingahà sikandan diyà te langit
 etawa edtengteng dan diyà te tanà, wazè duma he egkeehè dan, kekenà, iyan dà is kelised wey kerusireman. Ne ziyè dan ed-uwita te mekahandek-handek he kerusireman.
-
 Piru egkeuma is timpu he egkaawè en is merusirem dutun he tanà te zutun is kemereǥenan. Dutun te nehuna he timpu mibpeel-elezan te Nengazen is menge etew ziyà te Zebulun wey Naftali, piru ziyà te huziyan he timpu, ebeǥayan din sikandan te zengeg is menge etew he ed-ubpà diyà te veyeey pehendiyà te zaǥat he ziyà layun te Wahig he Jordan. Heini he menge lugar sakup te Galilea he ed-ubpaan te kenà menge Judio.
 Is menge etew keniyan he nerusireman, ebpekaahà te utew merayag. Is menge nerusireman he egkahandek he ebpatey, egketeyawan.
 Nengazen, ebeǥayan nu sikandan te utew zekelà he kelipey. Egkelipey sikandan diyà te etuvangan nu iring te menge etew he egkelipey emun tiraǥun etawa iring te menge etew he igkelipey zan is bahin dan te menge azen he netavan dan diyà te kebpekidtebek dan.
@@ -17918,6 +17917,7 @@ Umbe kenà igkelipey te Nengazen is betan-en dan he menge maama, ne kenè din eg
 Su is kelelalung dan iring te hapuy he nekevinsul te zuǥiyen he zezeisey he kayu. Edriyubriyub heini iring te hapuy he nekevinsul te menge kayu, ne mekepal he evel is midlipuwak pehendiyà te zivavew.
 Tenged te pauk te Nengazen he Mekeǥeǥehem, egkevinsulan is tanè dan, ne egkehimu sikandan he tavun he ed-epuren te hapuy. Kenè dan egkehizuwan minsan is iring dan he menge Israilihanen.
 Minsan hengkey he keenen is egkeehè dan diyà te peliǥuy egkuwaan dan ne egkeenen dan piru kenè dan gihapun egkahantey. Ragkes en he egkeenen dan is menge anak dan.
+Ebpetebekà is tribu he Manase wey Efraim, ne heini is dezuwa ne edsurung diyà te Juda. Piru kenè pa egkeengked is pauk te Nengazen. Andam pa ǥihapun sikandin he edsilut.
 Mekehizuhizu kew is ebaal te kenè hustu he menge kesuǥuan he nenlupiglupig te menge pubri he emurè ku te inged, wey mibpekewazà te ketenged dan wey wazà medtuman te hustu he kukuman para kandan. Pinaaǥi kayi he menge kesuǥuan egkuwaan niw is azen te menge valu he vahi wey menge ilu.
 <range>
 Hengkey is ebeelan niw zutun te andew he edsilutan kew? Hengkey is ed-ul-ulahan niw emun ebpekeuma is kezeetan he ebpuun te meziyù? Hentei is ebuyuan niw te tavang? Wey hendei niw id-eles is ketiǥeyunan niw?
@@ -18953,8 +18953,7 @@ Su iyan ka Amey zey minsan kenè key egkilelaan te menge kepuun dey he si Abraha
 Nengazen, maan is idtuǥut nu he mekesuwey key ziyà te menge paaǥi nu? Maan is ibpemezesen nu is gehinawa zey, he tenged kayi naawà is kedtahud dey kenikew? Seǥipaa key en maan kenikew, su menge suluǥuen key kenikew wey ǥaked key kenikew.
 Seled te mevavà he timpu naangken dey te menge etew he gaked nu is baley nu he, piru mibengkag heini te menge kuntada zey.
 Gaked key kenikew puun pa zengan. Piru henduen be te ed-isipen nu he kenè key kenikew ǥaked, ne henduen be te wazè key kenikew dumelaha.
-Tevia nu is langit, Nengazen, ne penaug ka su para mehuyung is menge vuvungan diyà te etuvangan nu.
-Iring te hapuy ebpeketutung te neǥangu he menge subpang wey ebpekepezìdì te wahig, is kebpekeuma nu ebpekehuyung te menge nasyun he menge kuntada nu, ne egkekilala zan ke hentei ka.
+Tevia nu is langit, Nengazen, ne penaug ka su para mehuyung is menge vuvungan diyà te etuvangan nu. Iring te hapuy ebpeketutung te neǥangu he menge subpang wey ebpekepezìdì te wahig, is kebpekeuma nu ebpekehuyung te menge nasyun he menge kuntada nu, ne egkekilala zan ke hentei ka.
 Hein mibpenaug ka zengan is mibaal te egkengein-inuwan he wazè dey peebuta, nehuyung is menge vuvungan diyà te etuvangan nu.
 Puun pa zengan wazè pa nekezineg wey nekaahà te Megbevayà he iring kenikew he edtavang te menge edsarig kandin.
 Edewaten nu is menge etew he igkelipey zan is kebaal te metazeng, wey ed-ikul te menge paaǥi nu. Piru nepeukan key kenikew su mibpedayun key te kedsupak te menge paaǥi nu. Egkehimu ve ke egkelibri key?
@@ -18964,6 +18963,7 @@ Piru minsan pa te iyan heeyan, iyan ka gihapun Amey zey, Nengazen. Iring ka te m
 Nengazen, kenè nu pesubrahi is kegkepeuki nu kenami; kenè nu tentenuzi taman te taman is menge salè dey. Edhangyù key ziyà te kenikew he seǥipaa key, su menge etew key kenikew is langun.
 Is segradu he menge inged nu, ragkes en is Jerusalem neiring te sibsivayan he wazà duen ed-ubpa.
 Nevinsulan is segradu wey mekempet he valey nu, he zutun ka ezapa te menge kepuun dey. Neǥevà is langun he menge vutang he utew zey mibmahal.
+Ne minsan pa te iyan heini, kenè key pe be ǥihapun kenikew edtevangan, Nengazen? Ebpereremek ke zè be, ne ebpurungan key en be kenikew edsiluti?
 Migkaǥi is Nengazen te, “Mibpekilala a te menge etew he wazà med-insa mehitenged kediey. Ebpeturedu a te wazà mebpen-ahà kediey. Impezayag ku is keugelingen ku ziyà te nasyun he wazà med-umew kedì is menge meǥinged duen.
 “Edsigudu ad edtaǥad he mekelikù kayi te kedì is menge etew ku he menge mesinupaken, he wazà med-ikul te meupiya he vetasan, su iyan dan dà ebpezumdumahan is keugelingen dan he isip.
 Edhimuwen dan he mepauk a; ibpeehè dan diyà te etuvangan ku is kebpedayun dan ked-azap te menge ed-ezapen dan pinaaǥi te kebpemuhat dan diyà te menge pemuleey zan wey kedtutung te veyewà diyà te atep te menge valey zan.
@@ -19242,7 +19242,6 @@ Pemineǥa is kebpekitavang te menge emurè ku te inged; egkezineg heini kayi te 
 Midriklamu is menge etew he ke sikandan te, “Nepasad en man is tiraǥun, piru wazè key ǥihapun melibri.”
 Migkaǥi si Jeremias te, “Utew mesakit is gehinawa ku. Ingkesekiti ku is utew kegkerasey te menge emurè ku te inged. Midlalew a wey utew a neseeng.
 Wazè be bawì diyà te Gilead? Wazè be ebpemawì diyà? Maan is wazà meulii is palì te menge emurè ku te inged?
-
 “Angin pezem ke serebseb te menge luhà is menge mata ku su edsineǥew e en te maandew wey mezukilem tenged te menge emurè ku te inged he mibpenhimetayan.
 Angin pezem ke zuen ku egkeubpaan diyà te sibsivayan su ebpekeziyuan ku en is menge emurè ku te inged, su pudu sikandan menge meluiven he iring te vahi he mengungumpadi.”
 Migkaǥi is Nengazen te, “Menge tarù is egawas diyà te vèbà te menge etew ku he iring te panà he andam en he ibpanà. Tarù is egkeseksiyan kayi he tanà ne kenà tutuu. Midsubre en is kebaal zan te salà, ne wazè e zan kilelaa.
@@ -19268,6 +19267,7 @@ Migkaǥi is Nengazen te, “Ne nekepeyapat diyà te tanà is nemematey he hendue
 Migkaǥi pa is Nengazen te, “Kenà ereg he ibpahambug te uluwanen is ketau zin, wey is desen din emun mezesen sikandin, wey is ketiǥeyunan din emun sepian sikandin.
 Iyan ereg he ibpegalbu zin is kegkesevuta zin wey kegkekilelaa zin kedì he iyan a Nengazen he mepinelenggaan; iyan a ebaal te hustu wey metazeng kayi te kelibutan su iyan heini ebpekelipey kediey.”
 Migkaǥi pa is Nengazen te, “Egkeuma is timpu he edsilutan ku is langun he nesirkunsidar he wazà mahalin is ulaula zan:
+is menge tig-Ehipto, tig-Juda, tig-Edom, tig-Amon, tig-Moab wey is langun he ebpemen-ubpà diyà te sibsivayan he mibpen-elutan is dapit te kendingen dan. Iyan tutuu is, heini is langun he meǥinged diyà te menge nasyun, ragkes en is langun he menge etew ziyà te Israel, henduen be te neked-iring dà he wazà menge sirkunsidar su meremerik is netaǥù diyà te gehinawa zan.”
 Sikiyu is menge etew te Israel, pemineǥa niw is migkaǥi te Nengazen.
 Migkaǥi sikandin te, “Kenè niw iringi is baal te menge etew ziyà te zuma he menge nasyun, ne kenè kew mahandek te menge tuus diyà te langit minsan pa te igkehandek heini te ziyà te zuma he menge nasyun.
 Wazà pulus te neleyaman he menge vaal keniyan he menge etew. Edtamped dan te kayu ziyà te ketelunan ne ibpeukiran dan te pandey.
@@ -21007,6 +21007,11 @@ Ne emun egkeuwit ku en sikiyu ziyà te tanà te Israel he insaad ku ziyà te men
 Ne zutun egketenuzan niw is menge vaal niw he nekeremerik keniyu, ne egkesilag kew te keugelingen niw tenged te langun he mezaat he mibeelan niw.
 He menge etew te Israel, egketuenan niw he iyan a Nengazen, emun ebpurungan ku sikiyu para te zengeg ku minsan mezaat wey meremerik is menge vaal niw. Iyan a, is Nengazen he MEGBEVAYÀ, is migkaǥi kayi.”
 Migkaǥi is Nengazen kayi te kedì te,
+“Sikew is etew, sinaru ka ziyà te zivavà, kaǥi ka te ebpekesuǥat keniyan te ketelunan.
+Keǥiyi nu heeyan he lugar he siak, is Nengazen he MEGBEVAYÀ, edretem a te hapuy he ebpekevinsul te menge kayu keniyan, neǥangu etawa wazà. Kenà egkeevukan heini is edriyubriyub he hapuy. Egkevinsulan kayi is langun puun te zivavà pehendiyà te zizaya.
+Egkaahà te langun he iyan a, is Nengazen, midretem kayi, ne kenà heini egkeevukan.”
+Ne migkaǥi a te, “He Nengazen he MEGBEVAYÀ, egkaǥi is menge etew te sempitè dà is ebpengeǥiyen ku.”
+Migkaǥi is Nengazen kayi te kedì te,
 “Sikew is etew, sinaru ka ziyà te Jerusalem ne kaǥi ka te ebpekesuǥat te Israel wey te menge simbahan kayi.
 Keǥiyi nu sikandan he siak, is Nengazen he MEGBEVAYÀ, migkaǥi a te, ‘Ebpekigkuntada a keniyu! Edhulevuten ku is ispada ku ne ebpenhimetayan ku sikiyu is langun, meupiya man etawa lalung he etew.
 Uya, ebpenhimetayan ku sikiyu is langun te ispada ku puun te zivavà taman te zizaya.
@@ -21038,11 +21043,6 @@ Kenà tutuu is menge nelewasan wey menge tagnà he nezawat niw mehitenged te isp
 Igumè ku ve heini is ispada? Kenà! Edsilutan ku sikiyu keniyan mismu te nasyun niw, he mid-enakan keniyu.
 Ebpeǥezaman ku keniyu is utew ku kegkepauk, ne ibeǥey ku sikiyu ziyà te mesipala he menge etew, he nelayam he ebpenhimatey.
 Egkehimu kew he tavun, ne edtudà is lengesa niw keniyan te tanè niw. Ne kenè kew en egketenuzan. Iyan a, is Nengazen, is migkaǥi kayi.”
-
-
-
-
-
 Migkaǥi is Nengazen kayi te kedì te,
 “Sikew is etew, andam ke en be he edhukum te Jerusalem? Andam ke en be te kedhukum kayi te inged te menge kriminal? Petueni nu kandin is utew mezaat he menge vaal zin.
 Keǥiyi nu heini is inged he siak, is Nengazen he MEGBEVAYÀ, migkaǥi a te: He inged te menge kriminal, ebpekeuma ziyà te kenikew is limas. Midremerikan nu is keugelingen nu pinaaǥi te kebaal te menge ed-ezapen.
@@ -21904,9 +21904,6 @@ Ne zutun mid-amur-amur ziyà te kandan is menge gubirnedur, menge mayur, menge k
 Ne tenged dutun migkaǥi haazà is hadì te, “Edeliǥen is Megbevayà eni Shadrac, Meshac, wey Abednego. Midsuǥù din is belinsuǥuen din te kedlibri kandan te menge suluǥuen din he midsarig diyà te kandin. Heini sikandan wazà medsunud te suǥù ku te ked-azap duen te ledawan, kekenà, midtumù dan he idtimbag sikandan diyà te hapuy su para kenà sikandan mekaazap te minsan hentei he ed-ezapen he kenà iyan is kandan he Megbevayà.
 Umbe, ebmandù a he is minsan hentei he etew ziyà te minsan hendei he nasyun, minsan hengkey he kelasi te etew, minsan hengkey he kineǥiyan he emun duen egkaǥi te lalag he ebpekekuntada te Megbevayà eni Shadrac, Meshac, wey Abednego ne ebpemisangen wey edrundusen is baley zin. Su wazè en duma he Megbevayà he ebpekehimu he edlibri te iring kayi he paaǥi.”
 Ne mibeǥayan dutun te hadì ensi Shadrac, Meshac, wey Abednego te edhuna he metikang duen te nehuna he ketengdanan dan dutun te prubinsya he Babilonia.
-
-
-
 Midsurat si Hadì Nebucadnezar te pahayag he para te langun he nekedseselekawà he menge nasyun, menge kepuun, wey menge kineǥiyan kayi te kelibutan. Ne iyan heini ingkesurat: “Berakat he mebmeupiya is kebpekesavuk niw.
 “Egkesuatan ku te edtudtul ziyà te keniyu is menge singyal wey menge egkein-inuwan he menge vaal he mibeelan te Utew Lavew he Megbevayà kayi te kediey.
 Utew igkeinuinu wey utew mekeǥeǥehem is egkengein-inuwan he impaahà te Megbevayà! Is kedhadì din ne wazà pidtemanan.
@@ -21941,6 +21938,9 @@ Ne te wazè pa sikandin mekepasad he egkaǥi, duen laǥeng he ebpuun diyà te la
 Edsegseǥen ka pehendiyà te meziyù te menge etew ne ed-amur ka te leew he menge langgam. Ne egkeiring ka te vaka su ebpenabtab ka te sagbet. Ne kegketapus te pitu he tuig, egkilelaan nu he is Utew Lavew he Megbevayà, duen din gehem diyà te menge ginhedian te menge etew ne egkehimu ke edhimuwen din sikandan he sakup te minsan hentei he egkesuatan din he mehimu he egalen dan.”
 Ne segugunà, heini neulaula ziyà te ki Nebucadnezar. Midsegseg sikandin pehendiyà te meziyù te menge etew ne nenabtab sikandin te sagbet iring te vaka. Ne layun sikandin egkahames te zehemug, wey mibmelayat is bulvul zin he iring en te vulvul te kulaǥu ne is sulu zin iring te sulu te tagbis.
 “Ne kegketapus te pitu he tuig, ne siak, si Nebucadnezar, midangep a ziyà te Megbevayà, ne zutun midlikù is meupiya he ked-isip-isip ku. Umbe midalig ku wey mibeǥayan ku te zengeg is Utew Lavew he Megbevayà he uuyag te wazà pidtemanan. Migkaǥi a te, ‘Is kedhadì din ne wazà pidtemanan.
+Kenè en ebpekesusuluwan is menge etew kayi te kelibutan emun idhindeg kandin. Ebeelan din is egkesuatan din diyà te menge velinsuǥuen diyà te langit wey ziyà te menge etew kayi te tanà. Wazà ebpekeeǥen wey ebpekevelavag kandin.’
+“Ne hein midlikù en kayi te kediey is meupiya he ked-isip-isip ne inlikù daan kayi te kediey is dengeg wey ventuǥan te hadì. Midawat e en maan duen te menge upisyal ku wey menge megsesambag ku, ne edhunè a pa he mekeǥeǥehem kenà duen te nehuna he kedhadì ku.
+Umbe, ǥuntaan edeliǥen ku wey ebeǥayan ku te zengeg is hadì diyà te langit, su hustu wey metazeng is langun he menge vaal zin ne ibpekevavè din is minsan hentei he ebpelavew.”
 Hein si Belshazar is hadì diyà te Babilonia, midhimu sikandin te zekelà he keemuran he para te nengkelibu he lavew he menge etew zin. Ne hein ed-iinum sikandan te vinu, impekuwa ni Belshazar is bulawan wey pelata he inumà he nekuwa te amey zin he si Nebucadnezar ziyà te valey te Megbevayà diyà te Jerusalem. Impekuwa zin heini su para te ed-inuman dan duma te menge meǥeliyug din he memetikang is ked-etew, menge esawa zin he lavew, wey is menge esawa zin he kenè lavew. Umbe hein mid-uwit en diyà te kandin haazà is menge inumà ne iyan heini mid-inuman dan.
 <range>
 <range>
@@ -21971,6 +21971,7 @@ Is Tekel, iyan kehuluǥan din is midtimbang ka te Megbevayà ne netuenan din he 
 Is Parsin, iyan kehuluǥan din is egkevahin is ginhedian nu ne imbeǥey ziyà te Media wey Persia.”
 Ne kebpekepasad ni Daniel te kegkaǥi, ne mibmandù si Belshazar he vistiyi si Daniel te visti te hadì wey velieǥi te velieg he vulawan. Ne midhimu si Daniel he iketelu te kinelevawan he menge upisyal te ginhedian diyà te Babilonia.
 Dutun dà he kezukileman, midhimetayan si Belshazar is hadì te menge tig-Babilonia.
+Is mid-ilis kandin te kedhadì ne iyan si Darius he Midianhen, he 62 he tuig is keǥurang din dutun he timpu.
 Dutun, mibpilì si Hadì Darius te 120 he gubirnedur he para edumala te tivuuk he ginhedian din.
 Heini he menge gubirnedur, ne iyan edlitu edumala kandan is tetelu he administradur, ne is sevaha kandan ne iyan si Daniel. Mibeelan heini su para kenà mereǥeni haazà is hadì te kedumala.
 Ne si Daniel, iyan edhuna kandan te langun su geina te nekeviza is kandin he ebilidad, umbe mibpelanu sikan is hadì he ibpezumala zin si Daniel te tivuuk he ginhedian din.
@@ -21999,7 +22000,6 @@ Ne mibpesuratan ni Hadì Darius is langun he menge etew ziyà te nekedseselekaw�
 “Ebmandù a, he is langun he menge etew he sakup te ginhedian ku, kehendeki zan wey tehuza zan is Megbevayà ni Daniel. Su iyan sikandin uuyag he Megbevayà ne wazà pidtemanan te untung din. Ebpedayun is kedhadì din te minsan keenu. Ne wazà ebpekezezaat kayi.
 Edlibri sikandin wey ebaal te menge singyal wey menge egkein-inuwan he menge vaal ziyà te langit wey kayi te tanà. Midlibri zin si Daniel te kegkaid te menge erimaung.”
 Mibmeuswaǥen si Daniel zutun te kedhadì ni Darius wey ni Cyrus he Pirsyahanen.
-
 Duen te nehuna he tuig te kedhadì ni Belshazar ziyà te Babilonia, duen nelewasan ni Daniel ziyà te teǥeinep din. Iyan heini teǥeinep din he insurat din:
 Sengekezukileman, nelewasan ku is meluag he zaǥat he egkeremaǥen te mevandes he keramag he nekedseselekawà is ebpuunan din.
 Ne midlepew zutun te wahig is heepat he menge langgam he nekedseselekawà is dagwey zan.
@@ -22170,6 +22170,8 @@ Mid-uman mebmeǥingey si Gomer ne mid-anak te vahi. Ne migkaǥi is Nengazen diy�
 Piru egkehizuwan ku mulà is menge etew te Juda. Iyan a, is Nengazen he Megbevayè dan, edlibri kandan pinaaǥi te ǥehem ku ne kenà pinaaǥi te kebpekidtebek he egemiten is panà, ispada, menge kudà etawa pereuntud te kudà.”
 Ne hein midlutas en ni Gomer sikan is anak din he si Lo Ruhama, mid-uman sikandin mebmeǥingey ne mid-anak te maama.
 Migkaǥi is Nengazen diyà te ki Hoseas te, “Ngezani nu heeyan is batà te Lo Ami, he ke và dà egkegiya, ‘Kenà menge Etew ku,’ su is menge etew te Israel, ne kenè ku menge etew ne kenè e zan Megbevayà.
+Piru egkeuma is timpu he egkehizuwan ku sikandan wey edtuvazan ku; egkeiring sikandan kahabet te pantad diyà te veyvey te zaǥat he kenà egkesukud wey egkevilang. Guntaan egngezanan sikandan he ‘Kenà kediey he menge etew,’ piru ziyà te huziyan he timpu egngezanan sikandan te, ‘Menge anak te uuyag he Megbevayà.’
+Egkeuman egkesevaha is menge etew te Israel wey Juda, ne ebpilì dan te sevaha he pengulu. Ed-uman dan ed-uswag dutun te tanè dan. Ne utew heeyan melipayen he timpu para te inged he Jezreel.
 “Umbe tewaǥa niw is iring niw he menge Israilihanen te menge ‘Etew Ku’ wey ‘Ingkehizu Ku.’ ”
 “Menge anak, dewaya niw is iney niw minsan kenè ku en sikandin esawa, wey kenè e zin en esawa. Dewaya niw sikandin he engkezi zin is kebpengumpadi.
 Emun kenà sikandin ed-engked ne edluwasan ku sikandin ne egkelevasan iring hein in-anak sikandin. Edhimuwen ku sikandin he iring te sibsivayan etawa disirtu, ne ebpatey sikandin te kegkemezahi.
@@ -22193,8 +22195,6 @@ ne egkehimu a he metinumanen diyà te keniyu. Umbe egkilelaan a keniyu he Nengaz
 Siak, is Nengazen, migkaǥi a he zutun he andew edtevaken ku is menge pengemuyù niw. Ibpeuzan ku su wey medtuvù diyà te tanà
 is menge trigu, paras, wey ulibu para keniyu te migngezanan te Jezreel.
 Ibpeubpè ku sikiyu ziyà te tanè niw su menge etew ku sikiyu. Ne sikiyu is migngezanan he Lo Ruhama he ke và dà egkegiya, ‘Wazà Mehizuwi,’ ibpeehè ku is hizu ku keniyu. Ne sikiyu zaan is migngezanan te Lo Ami he ke và dà egkegiya, ‘Kenà menge Etew ku,’ edtewaǥen ku he menge etew ku, ne egkaǥi kew te iyan a Megbevayè niw.”
-
-
 Migkaǥi is Nengazen kayi te kedì te, “Iuman nu ipaahà is kebmahala nu te esawa nu minsan pa te nengumpadi sikandin. Mahala nu sikandin iring te kebmahala ku te menge etew te Israel minsan pa mid-azap sikandan te zuma he menge ed-ezapen pinaaǥi te kebpemuhat te menge supas he zuen duen menge pasas.”
 Umbe, mibpemasa ku is esawa ku te 15 he pelata wey heepat he saku he barli.
 Ne migkeǥiyan ku sikandin te, “Ubpè ka zuma kediey seled te meluǥayad he timpu. Ne kenè ke en pekidhulid te sengememaama. Minsan pa te kenà a zep-a ebpekidhulid kenikew.”
@@ -22318,6 +22318,7 @@ Heini sikandan is menge etew ku, utew egkesuat he ebpekeziyù kayi te kedì. Umb
 Kenè ku en ibpaahà is utew ku kegkepauk; kenè ku en edweǥayen is Israel, su Megbevayà a ne kena a etew. Iyan a kes Waǥas he Megbevayà he mibpekiduma keniyu, ne kenà a edhendiyà te keniyu is egkepauk.
 “Edsunud kew kediey zutun te edhiniǥer a iring te erimaung. Siguradu he edhiniǥer a, ne ed-agpas kew ed-ulì puun te edsenlepan.
 Meǥaan dà ne ebpekeuma kew en iring te menge tagbis he ebpuun diyà te Ehipto etawa iring te menge merepatik he ebpuun diyà te Asiria. Ibpeuman ku sikiyu ibpeubpà diyà te menge valey niw. Iyan a, is Nengazen, is migkaǥi kayi.”
+Migkaǥi pa is Nengazen te, “Layun e zà edterterui wey edlelunga te menge tig-Israel. Ne is menge tig-Juda mibpedayun te kebpekeziyù kayi te kedì, te Megbevayà he waǥas wey metinumanen.
 “Is menge tig-Israel midsarig te menge azen he wazè din pulus. Is edel-asen dan seled te tivuuk he andew ne iyan is menge azen he ebpekezezaat kandan. Mid-iseg is ketetarù dan wey kebpesipala. Mibpekid-uyun sikandan te menge tig-Asiria wey menge tig-Ehipto, umbe mid-uwit dan te lana ziyà te Ehipto he igasa zan.”
 Migkaǥi si Hoseas te, “Duen riklamu te Nengazen diyà te tig-Juda he menge kevuwazan ni Jacob. Edsilutan din sikandan te sumalà te menge vetasan dan; ebelesan din sikandan te sumalà te menge vaal zan.
 Hein diyè pa sikan is kepuun dan he si Jacob te ǥetek te iney zin, egkesuat en sikandin he ebpekidlavew te sereping din. Ne hein midekelè en sikandin, mibpekibuteng sikandin te Megbevayà
@@ -22332,7 +22333,6 @@ Piru minsan pa zutun, is menge etew ziyà te Gilead, menge lalung sikandan wey w
 “Mibpelaǥuy si Jacob pehendiyà te Aram, ne midterebahu sikandin te ked-atur te menge uyaǥen su wey zin meesawa is ed-esewaan din.
 Pinaaǥi te ebpeneuven ku he si Moises, ibpeǥawas ku sikiyu is menge Israilihanen diyà te Ehipto wey mid-elimahan ku.
 Piru midhimu niw he mepauk a is Nengazen niw tenged te kebpenhimatey niw, umbe edsilutan ku sikiyu. Ebelesan ku sikiyu te kedsumpelita niw kediey.
-
 “Dengan, emun egkaǥi is tribu ni Efraim egkerkeren te kegkahandek is duma he menge tribu te Israel, ne edeliǥen dan heini. Piru nekesalà is menge etew kayi he tribu tenged te ked-azap dan ki Baal. Umbe nemematey sikandan.
 Guntaan, sikiyu is migngezanan te Efraim, mibpedayun kew he ebaal te salà. Mibeelan niw he ledawan is menge pelata niw su ed-ezapen niw. Piru heini is langun, mibeelan dà te etew zà duen ne pinaaǥi zà heini te neisip din. Migkaǥi kew pa te ebpemuhat kew te etew kayi te menge ed-ezapen he vaka ne edhazek kew ziyà te kandan.
 Umbe, egkahanew kew iring te edsaǥad he virisbiris etawa zehemug emun meselem, etawa iring te ukap diyà te ǥunasà he idlayap te keramag etawa evel he egawas diyà te peǥewasà duen.
@@ -22348,6 +22348,7 @@ Is menge salè niw ne kenè ku edlipatan, ibpeiring ku heeyan te menge surat he 
 “Duen niw en penahun he ebeǥuwen niw is kebpengungubpaan niw. Piru tenged te wazè niw kedsavut, wazè niw heini beliya. Iring kew te vatà he kenà egkesuat he egawas diyà te getek dutun te idlusad en pezem sikandin.
 Edlibriyen ku ve sikiyu te kemetayen? Kenà! Egkeǥiyan ku pa ganì is kemetayen te, ‘He kemetayen, pekevisa ke en. Ne dezeeti nu en sikandan. Kenè ku sikiyu egkehizuwan.’
 Minsan edhuna kew he meuswaǥen kenà te menge kezuzumahi niw, edezeetan ku sikiyu. Ibpaaǥi ku is meinit he keramag he ebpuun diyà te disirtu he zapit te edsilaan ne egkengemezahan is menge serebseb wey menge kalut niw. Ne ed-eǥawen is mahalen he menge azen niw.
+Ereg he edsilutan is menge tig-Samaria tenged te kebpekidsukulè dan kediey te Megbevayè dan. Egkeǥerà sikandan tenged te tebek. Edrunteken is dezeisey he menge anak dan, ne edsirian is meǥingey he menge vahi kandan.”
 Migkaǥi si Hoseas te, “He menge tig-Israel, likù kew ziyà te Nengazen he Megbevayè niw, su nezeetan kew tenged te menge salè niw.
 Likù kew ziyà te Nengazen ne kaǥi kew ziyà te kandin te, ‘Nengazen, peseyluwa nu is langun he menge salè dey, ne zewata key kenikew tenged te keupiya nu, su wey key mekepemuhat kenikew te menge kedalig he ebpuun te menge vèbè dey.
 Kenè key en ebuyù te tavang diyà te Asiria wey kenè key en edsarig te menge kudà he para te tebek. Kenè dey en egngezanan he Megbevayè dey is menge ed-ezapen he mibeelan dey. Su nehizuwan key kenikew is iring te menge ilu.’ ”
@@ -22357,7 +22358,6 @@ Ebmahabet sikandan iring te subpang he ebpeneringsing. Egkehimu sikandan he dung
 Ed-uman sikandan ebpengungubpaan duma is ked-ipata ku kandan. Ed-uswag sikandan iring te pungu he metiugkey, wey iring te paras he ebpengevukad. Ne egkevantug sikandan iring te vinu ziyà te Lebanon.
 “Is menge tig-Israel, kenè dan en edangep diyà te zuma he menge ed-ezapen. Iyan a edtavak te menge kebpengemuyù niw wey ed-elima keniyu. Edipinsahan ku sikiyu. Iring a te kayu he sipris he merapung, he ebpekelambung. Iyan a ebpeuswag keniyu.”
 Berakat he is duen din kedsavut keniyu metueni zin wey mesavut din is menge ingkesurat kayi. Utew hustu is menge paaǥi te Nengazen ne ed-ikulen heini te menge metazeng, piru igkeseligkat mulà heini te menge merepasen.
-
 Iyan heini menge lalag te Nengazen he impezayag din diyà te ki Joel te anak ni Petuel.
 Sikiyu is menge edumala te Juda wey is langun he meǥinged kayi, pemineǥa niw heini is egkeǥiyen ku ziyà te keniyu. Wazè pa nehitavù he iring kayi hein kaazen pa te menge kepuun niw wey kayi te keniyu en he timpu ǥuntaan.
 Kinahanglan he edtudtulen heini ziyà te kada lapis te kevuwazan niw:
@@ -22405,32 +22405,32 @@ Egkepenù te menge trigu is menge gunasà wey edrepey is beǥu he vinu wey lana 
 Su migkaǥi is Nengazen te, “Idlikù ku is nelaga ziyà te keniyu zutun te menge tuig he mid-etaki is menge pinemula niw te nekedtutundug he grupu te menge terapan. Iyan a midsuǥù dutun te mahabet he menge terapan he menge sundaru ku.
 Ne ǥuntaan edekelè en is keenen niw ne egkengehantey kew. Ne tenged kayi, edeliǥen a keniyu is Megbevayè niw, he mibaal te egkein-inuwan he menge vaal diyà te keniyu. Ne kenè kew en egkepeel-elezan is menge etew ku minsan keenu.
 Ne egketuenan niw he ziyà a te keniyu te menge tig-Israel, ne iyan e zà Nengazen he Megbevayè niw ne wazè en duma pa. Ne sikiyu is menge etew ku ne kenè kew en egkepeel-elezan minsan keenu.”
+“Diyà te huziyan he timpu ibeǥey ku is Mulin-ulin ku ziyà te langun he kelasi te etew. Is menge anak niw he maama wey vahi ebpenudtulen dan is menge lalag ku. Is meǥurang keniyu he menge maama ibpeteǥeinep ku. Is menguhed keniyu he menge maama duen menge ibpelewasan ku kandan.
+Dutun he menge andew, ibeǥey ku zaan is Mulin-ulin ku ziyà te menge suluǥuen he menge maama wey menge vahi.
+Ebpaahà a te menge singyal diyà te langit wey tanà: duen egkaahà he lengesa, hapuy, wey mekepal he evel.
+Ebmerusirem is andew, ne is bulan ebmeriǥà iring te lengesa. Kenà heini egkehitavù emun kenè pa egkeuma is mekahandekhandek he kedhukum te Nengazen.”
+Piru is minsan hentei he edangep diyà te Nengazen ne egkelibri te silut he edtelinguma. Su sumalà is migkaǥi te Nengazen, duen menge Israilihanen he egkesamà diyà te Jerusalem he migngezanan he Buvungan he Zion. Heini sikandan mibpilì te Nengazen he egkengelibri.
 Migkaǥi is Nengazen te, “Dutun te timpu te edlikù ku is meupiya he kebpekesavuk diyà te Juda wey Jerusalem,
 edtiǥumen ku is menge etew ziyà te menge nasyun ne ibpetupang ku sikandan diyà te Suǥud ni Jehoshafat. Dutun edhukuman ku sikandan tenged te mibeelan dan diyà te menge Israilihanen, kes menge etew he ǥaked ku. Impeyapat dan diyà te zuma he menge nasyun is menge etew ku, ne mibahin dan is tanè ku.
 Mibahin dan is menge etew ku pinaaǥi te ripa, ne imbelegyè dan he uripen is menge vatà he menge maama wey menge vahi, su ibayad dan is halin te inumen wey menge vahi he ebelegyà te zengeg dan.
 “Sikiyu is menge etew ziyà te Tyre, Sidon, wey te langun he lugar ziyà te Filistia, hengkey heini is mibeelan niw he igkuntra niw kedì? Mibelesan e ve keniyu tenged te mibeelan ku. Emun mibelesan a keniyu, ne ebelesan ku zaan sikiyu tenged te mibeelan niw.
 Su migkuwa niw is mahalen he menge ketiǥeyunan ku, ragkes en is menge pelata wey vulawan, ne mid-uwit niw heini ziyà te menge simbahan niw.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mid-uripen niw is menge etew te Juda wey te Jerusalem ne imbelegyè niw ziyà te menge Gerisyahanen, su wey niw sikandan ikepekeziyù diyà te tanè dan.
+Piru midtevangan ku sikandan he mekaawè dan diyà te menge lugar he mibelegyaan niw kandan, ne ebeelan ku ziyà te keniyu is mibeelan niw ziyà te kandan.
+Ibelegyè ku is menge anak niw ziyà te menge etew te Juda, ne ibelegyè dan haazà diyà te menge tig-Saba, he ed-ubpà diyà te meziyù he lugar. Egkehitavù heini, su iyan a, is Nengazen, is migkaǥi kayi.”
+Ibpetuanen heini ziyà te menge nasyun: Pengandam kew para te kebpekidtebek. Hinggata niw is menge sundaru niw te kedsurung.
+Beeli niw he menge ispada is punta te menge eradu niw wey veeli niw he menge vangkew is para te menge igkamet niw. Minsan is menge meǥuyà ne kinahanglan he mebpekidtebek.
+Hendini kew, uvey kew zini, sikiyu is menge etew ziyà te peliǥuy he menge nasyun. Ne tiǥum kew ziyà te Suǥud ni Jehoshafat. Nengazen, ipetupang nu en dutun is menge sundaru nu!
+Migkaǥi is Nengazen te, “Kinahanglan he egkehinggat is menge etew ziyà te peliǥuy he menge nasyun te kedhendiyà te Suǥud ni Jehoshafat, su edhukuman ku sikandan dutun.
+Iring sikandan te edreǥunen he ereg en he egeraven su nelutuan en, etawa iring te paras he ereg en he egkeresen su nepenù en te paras is keresà. Utew en sikandan midtaman he lalung; is menge salè dan iring te wahig te paras he midrepey ziyà te midteǥuan duen.”
+Utew mahabet is menge etew he eguǥurub diyà te Suǥud te Kedhukum, su hapit en egkeuma is andew te kedsilut te Nengazen.
+Ebmerusirem is andew wey is bulan, ne kenè en edsiǥa is menge vituen.
+Eghiniǥer is Nengazen he ebpuun te Zion; edraǥeb is laǥeng din he ebpuun te Jerusalem. Ne tenged kayi egkehuyung is kelibutan wey is langit. Piru melig-en he eputà is Nengazen para te menge Israilihanen he menge etew zin.
+Menge tig-Juda, egketuenan niw he iyan a, is Nengazen he Megbevayè niw, mid-ubpà a ziyà te Zion he segradu he vuvungan ku. Ne egkeuman en maan egkehimu he segradu is Jerusalem; kenè ne heini ed-umanan edsurunga te menge etew ziyà te zuma he menge nasyun.
+Dutun he timpu ebewian ku sikiyu. Ed-uzaren kew te veǥu he vinu he ebpuun diyà te mezakel he menge paras diyà te menge vuvungan. Ed-uzaren kew zaan te ǥatas he ebpuun diyà te mezakel he menge vaka wey menge kambing he ebpemenabtab diyà te menge mibuntud-buntud. Kenà egkemezahan is menge wahig niw. Ne edtudà is serebseb he ebpuun diyà te valey te Nengazen ne egkewehiǥan din is menge zal-ug he zuen duen menge acacia.
+“Is Ehipto egkehimu he mekevulungbulung, ne is Edom egkehimu he disirtu su midsurung dan is menge etew ziyà te Juda; mibpenhimetayan dan is kenà ereg he edhimetayan.
+Piru is Juda wey Jerusalem, ed-ubpaan mulà taman te taman.
+Ibpenimales ku is kebpenhimetayi te menge etew ku; edsilutan ku is mibaal kayi ziyà te kandan. Iyan a, is Nengazen, ed-ubpà diyà te Zion.”
 Iyan heini menge lalag ni Amos he tig-Tekoa he perevantey te menge kerehidu. Heini he menge lalag, ne mehitenged te Israel. Impezayag heini te Megbevayà diyà te kandin hein dezuwa pa he tuig human egkehitavù is linug, hein timpu he si Uzia iyan hadì diyà te Juda ne si Jeroboam he anak ni Joash iyan hadì diyà te Israel.
 Migkaǥi si Amos te, “Edhiniǥer is Nengazen he ebpuun te Zion; edraǥeb is laǥeng din puun te Jerusalem. Ne tenged kayi nengeǥangu is menge pepenebtavà te menge vantey te menge kerehidu ragkes en is menge pinemula ziyà te puntur te Buntud he Carmel.”
 Iyan heini migkaǥi te Nengazen mehitenged te Siria: “Tenged te kedtulung kebaal te salà te menge tig-Damascus, edsilutan ku sikandan. Su midsurung dan is menge tig-Gilead he henduen be te midlepiǥis dan te putew.
@@ -22614,6 +22614,7 @@ Iyan, midhimu zan pa is taman te egkehimu zan. Midsigudu zan mebpemegsey su wey 
 Umbe, midhangyù dan diyà te Nengazen he ke sikandan te, “He Nengazen, kenè nu himuwa he mebpatey key tenged te kebpatey kayi te etew pinaaǥi te kedtimbaǥa zey kandin diyà te zaǥat. Kenè key kenikew siluti tenged te kegkehimetayi zey kandin, su heini is nehitavù, Nengazen, kenikew he ulaula su midhimu nu is egkesuatan nu.”
 Ne zutun mibitbit dan si Jonas ne intimbag dan diyà te zaǥat, ne segugunà mibmelinew is daǥat.
 Ne tenged kayi he hitavù, dekelà is kedtahud te menge etew te Nengazen. Umbe mibpemuhat dan sikandin wey zuen menge penaad dan diyà te kandin.
+Ne zuen utew zekelà he isdà he inteǥana te Nengazen su wey zin meeveleng si Jonas, ne ziyè si Jonas te ǥetek dutun te isdà seled te tetelu he andew wey tetelu he kezukileman.
 Ne zutun te ziyè si Jonas te ǥetek te isdà, mid-ampù sikandin diyà te Nengazen he Megbevayè din.
 Ke sikandin te, “Nengazen, edsempiten ku sikew tenged te kemereǥenan he neeǥiyan ku. Ne midineg a kenikew. Ne midtevangan a kenikew hein edserupatey ad.
 Ne ǥuntaan intimbag a kenikew kayi te mezalem, ne zini ad te zizalem te zaǥat. Ne nelened a wey netembunan a te zekelà he menge vaǥel he midhimu nu.
@@ -22624,7 +22625,6 @@ Ne hein edserupatey ad, netenuzan ku sikew. Ne zutun mid-ampù a, ne is ampù ku
 Sikan is menge etew he iyan edsimbahan dan is duma he menge ed-ezapen, ne mid-engkezan dan is gaǥew nu kandan.
 Iyan, siak mulà, emun edlibriyen a kenikew ne ebpemuhaten ku sikew te kanta te kebpeselamat. Ne heini is impenaad ku, edtumanen ku. Sikew is Nengazen, iyan ka ebpekelibri!”
 Ne midsuǥù te Nengazen sikan is isdà he iutè din si Jonas diyà te veyvey, ne midtuman dutun te isdà haazà is insuǥù kandin.
-
 Ne migkeǥiyan en maan te Nengazen si Jonas te,
 “Hendiyè kad human te zekelà he inged he Nineve, ne isangyew nu sikan is migkaǥi ku ziyà te kenikew.”
 Ne human mebpezumazuma si Jonas, ne midhendiyà sikandin te Nineve. Ne is Nineve utew zekelà he inged; tetelu he andew is kedhipenawa zutun ne human ta egkepangkus.
@@ -22700,7 +22700,6 @@ Is Zion he iring te metikang he ventayà te menge uyaǥen, egkeuman egkehimu he 
 Guntaan mahabet he menge etew ziyà te menge nasyun is midtiǥum su ebpekidtebek dan keniyu. Ke sikandan te, ‘Ebpeel-elezan tew is menge tig-Zion! Ne zutun ed-ahaan tew is mekeeled-eled he kebpekesavuk dan.’
 Piru heini he menge etew ziyà te menge nasyun, wazè dan metueni is isip ku. Wazè dan mesavut is pelanu ku, he midtiǥum ku sikandan su wey ku mesiluti iring te menge pungu he edtiǥumen su egunasen.
 “Sikiyu is menge meǥinged diyà te Zion, genat kew en ne zèdeeti niw is menge kuntada niw he iring te egunas kew te menge pungu. Su edhimuwen ku sikiyu he iring te tudu he vaka he putew is menge sungey zin ne brunsi is menge sulu zin. Edrunteken niw is mahabet he menge etew ziyà te menge nasyun he midtiǥum te kebpekidtebek keniyu. Ne is menge ketiǥeyunan dan he nekuwa zan pinaaǥi te kebpesipala ne idhalad niw kayi te kedì te Nengazen he iyan ebayàbayà te tivuuk he kelibutan.”
-
 Guntaan, sikiyu is menge tig-Jerusalem, endama niw is menge sundaru niw su midliǥuyan kew te menge kuntada niw. Edlegkuten dan te tuked is buked te pengulu te Israel.
 Migkaǥi is Nengazen te, “Sikew, Betlehem Efrata, sevaha ka te kinezeisayan he inged diyà te Juda. Piru ziyà ebpuun te kenikew is etew he ebpenilbi kedì he pengulu te Israel, he is menge kepuun din nevantug dengan he menge etew.”
 Ibeǥey te Nengazen is menge etew te Israel ziyà te menge kuntada zan, piru taman dà te ked-anak te vahi he ebeliliten te maama he ebpengulu te Israel.
@@ -22715,6 +22714,7 @@ Edweǥayen ku is menge inged niw ragkes en is binerengbeng he menge inged.
 Edezeetan ku is menge hinepetan niw ne egkaawà is menge veyilan niw.
 Ne kenè kew en ebpekaazap te menge ledawan wey tedeman he menge vatu he mibeelan niw, su edrupeten ku heini,
 ragkes is menge tukud he simbulu te vahi he ed-ezapen he si Ashera. Ne edezeetan ku heini is menge inged niw.
+Tenged te utew ku kegkepauk, ebelesan ku is menge etew ziyà te menge nasyun he wazà mebpezumazuma kedì.”
 Migkaǥi si Micas te, “Pemineǥa niw is egkeǥiyen te Nengazen diyà te keniyu te menge Israilihanen. Sigi en, keǥiya niw en is kasu niw; ipezineg niw te menge vuntud wey menge vuvungan is egkeǥiyen niw.
 Ne sikiyu is menge vuntud wey melig-en he menge pundasyun te kelibutan, pemineǥa niw is riklamu te Nengazen mehitenged te menge Israilihanen he menge etew zin. Iyan heini riklamu zin:
 “Sikiyu is menge etew ku, hengkey is sayep he neveelan ku ziyà te keniyu? Mibeley ku ve sikiyu? Tevaka a keniyu.
@@ -22765,6 +22765,7 @@ Is sevaha te menge pengulu niw ne mibpelanu te mezaat he idezaat din te menge et
 Iyan heini migkaǥi te Nengazen diyà te menge tig-Juda: “Minsan mahabet wey mezesen is kuntada niw he menge tig-Asiria, edezeetan ku sikandan taman te egkahanew sikandan. Minsan te midrasey ku sikiyu ne kenè ku en heini ed-umanan ebeeli.
 Su ǥuntaan egeuzen ku en sikiyu puun te ǥehem te menge tig-Asiria.”
 Iyan heini migkaǥi te Nengazen diyà te menge tig-Asiria: “Id-awè ku is menge kevuwazan niw wey edezeetan ku is ledawan he kayu etawa mital ziyà te simbahan he ed-ezapan niw te menge ed-ezapen niw. Ed-endamen ku en is menge edlevengan keniyu su kenè kew ereg he egkeuyag.”
+Tengtengi niw is menge tig-Juda! Duen menge menunudtulà he ed-abley ziyà te menge vuvungan su edtudtulan kew zan te meupiya he tudtul he zuen en kelinew ziyà te lugar niw. Umbe silibraha niw en is menge pista niw ne tumana niw is menge penaad niw ziyà te Nengazen. Su is lalung he menge etew ziyà te nasyun he Asiria kenè en maan ebpekesurung keniyu, su ebpurungan ku sikandan edezeeti.
 Sikiyu is menge tig-Nineve, midsurung kew en te menge kuntada niw he ebpeyapat keniyu. Umbe ventayi niw is menge verengbeng te menge inged niw wey ventayi niw is menge zalan. Tiǥuma niw is menge sundaru niw ne purung kew pengandam te kebpekidtebek.
 Su minsan midezeetan niw is menge tig-Israel wey menge tig-Juda he henduen be te pinemula he paras he mibpendezeetan is menge subpang kayi, idlikù te Nengazen is kegkemeǥeǥehem te Israel.
 Meriǥà is kelasag wey visti te menge sundaru he kuntada niw. Ne zutun te timpu te kedsurung dan, ed-ilak-ilak is menge mital ziyà te menge kerwahi zan ne edsikadsikad en is menge kudè dan.
@@ -22778,7 +22779,6 @@ Egkezeetan, egkeǥevà, egkevengkag en is Nineve! Umbe egkulbaan en is menge me�
 Is Nineve iring te surung he mid-ubpaan te senge paris he erimaung, wey menge anak dan. Kunaan dan ke wazà ebpekekaid kandan dutun te surung. Edhimetayan wey ebpitpitasen duen te meemahan he erimaung is egkezawi zin ne ibpemeǥey zin diyà te esawa zin wey menge anak dan. Ebpenuen din is surung din te sapù te egkezawi zin. Piru ǥuntaan, edezeetan en is Nineve.
 <range>
 Su migkaǥi is Nengazen he Mekeǥeǥehem te, “Pemineg kew is menge tig-Nineve! Kuntada ku sikiyu! Umbe ebinsulan ku is menge kerwahi niw ne ebpematey te tebek is menge sundaru niw. Ibpeengkezan ku en keniyu is kebpendezaat niw kayi te kelibutan. Kenè kew en ebpekesuǥù te menge menunudtulà pehendiyà te zuma he menge nasyun te kegkaǥi ziyà te kandan ke hengkey is egkesuatan niw he ibpetuman kandan.”
-
 Mekerurunù is inged he Nineve, is inged te menge kriminal wey menge teruen. Mahabet is menge azen dan he tinavan dan, ne layun dan en duen ebiktimahan.
 Edsurungen sikandan te kuntada zan. Egkezineg dan is letepes te idlagkut te menge kudà, is geǥerakar te ligid te menge kerwahi, is leletepak te paa te menge kudà, wey is daǥing te ebpekeundat-undat he menge kerwahi.
 Egkeehè dan is edsurung he menge pereuntud te kudà, ed-ilak-ilak he menge ispada wey menge vangkew, wey utew mahabet he intambù he nemematey. Egkengeseligkat is menge sundaru te lawa te menge minatey.
@@ -22962,6 +22962,10 @@ Umbe, migkaǥi haazà is belinsuǥuen kayi te kedì te edtudtulen ku heini is mi
 piru utew ku nepeuki is menge meǥinged diyà te menge nasyun he ebpeeyehey zà. Dengan kenè ded utew zekelà is pauk ku kandan, piru mid-unduran dan heini.
 Umbe, edtevangan ku is menge tig-Jerusalem, ne ed-umanan ku ebenguna is Jerusalem ragkes en baley ku. Iyan a is Nengazen he Mekeǥeǥehem migkaǥi kayi.”
 Migkaǥi sikan is belinsuǥuen he tudtula ku zaan heini is migkaǥi te Nengazen he Mekeǥeǥehem: “Ed-uman ed-uswag is menge inged ku ziyà te Juda. Ne ed-umanan ku edlipaya is menge tig-Zion, he iyan is menge tig-Jerusalem, ne ed-umanan ku egkilelaa heini he pinilì ku he inged.”
+Ne neehè ku is heepat he sungey.
+Ne mid-insà a zuen te velinsuǥuen he nekidlalag kedì te, “Hengkey is ibpesavut kayi te menge sungey?” Midtavak e zin te, “Heini is menge sungey iyan is menge nasyun he mibpeyapat te menge etew te Israel wey Juda, ragkes en he impeyapat dan is menge etew te Jerusalem.”
+Ne zuen heepat he pandey he impaahà kedì te Nengazen.
+Mid-insà a te, “Hengkey is ebeelan dan?” Midtavak sikandin te, “Ebpelihendeken dan wey ebengkaǥen dan is menge sungey, he iyan kehuluǥan dan is menge nasyun, su iyan heini he menge nasyun kes mibpurung medezaat te Juda wey mibpeyapat te menge meǥinged kayi.”
 Ne neehè ku is sevaha he etew he zuen din migewezan he idsukud.
 Ne mid-insà a te, “Hendei ka ebpevayà?” Midtavak e zin te, “Diyà a te Jerusalem su edsukuzen ku ke sengemenu is keluaǥan din wey keleyatan din.”
 Ne migenat haazà is belinsuǥuen he nekidlalag kedì, ne midsinuǥung sikandin te selakew en he velinsuǥuen
@@ -22975,10 +22979,6 @@ Migkaǥi is Nengazen te, “Ugyab kew tenged te kegkelipey, sikiyu is menge tig-
 <range>
 Ed-umanan ed-engkena te Nengazen is Juda he kandin he vahin te segradu he tanà te Israel. Ne ed-umanan din egkilelaa is Jerusalem he pinilì din he inged.
 Ebmelinawen is langun he menge etew ziyà te etuvangan te Nengazen, su ebpekeuma sikandin puun te segradu he ubpeey zin.
-
-
-
-
 Ne impaahà te Nengazen kedì is lavew he memumuhat he si Josue he edhithitindeg diyà te etuvangan te velinsuǥuen te Nengazen. Midhitindeg diyà te egkekewanan din si Setanas he edsumbung kandin.
 Piru migkeǥiyan duen te velinsuǥuen te Nengazen si Setanas te, “Sayep ka, Setanas, su is Jerusalem pinilì en te Nengazen. Su heini si Josue, midlibri zin puun te kegkevihag he iring te netutung he kayu he midsekelew zin puun te hapuy.”
 Meremerik is bisti ni Josue zutun te edhithitindeg sikandin diyà te etuvangan te velinsuǥuen.
@@ -23205,12 +23205,12 @@ Ke sikiyu zaan te, ‘Sumalà te neehè tew, iyan is menge mepelevawen nengezeyz
 Duen menge etew zutun he zuen dan kegkehandek te Nengazen. Hein nezineg dan heini is menge lalag, mibpelelelaǥè dan ne nemineg kandan is Nengazen, ne nezineg din sikandan. Ne ziyà te etuvangan din duen belesahan he midsuratan te mehitenged duen te zuen dan kegkehandek wey kedtahud te Nengazen.
 Migkaǥi is Nengazen he Mekeǥeǥehem te, “Egkehimu sikandan he menge etew ku. Dutun te andew te kedhukum ku ne egkaangken ku en sikandan. Egkehizuwan ku sikandan, iring a te amey he egkehizu te anak din he nenilbi kandin.
 Ne egkeuman niw en maan egkaahà is mibizahayan te metazeng wey lalung, is mibizahayan te ebpenilbi te Megbevayà wey kenà ebpenilbi kandin.”
-
-
-
-
-
-
+Migkaǥi is Nengazen he Mekeǥeǥehem, “Siguradu iyan he egkehitavù is kegkeuma te andew te Nengazen he Mekeǥeǥehem. Ne iring is kegkehitevùa kayi te rapug he egkiràkirà. Is langun he mepelevawen wey menge lalung, ne egkeiring sikandan te ebinsulan he kayu he wazà egkesamà he subpang wey zalid.
+Piru sikiyu mulà is edtahud kediey, is ketazeng iring te andew he edsilà diyà te keniyu he ebpekevawì te menge zaru niw. Ne egkeiring kew te nati he menge vaka he ebpemenlinglingketew is egawas diyà te tudil.
+Edtekutakan niw is lalung he menge etew ne egkeiring dà sikandan te igmuk he ebpenggiekan niw zutun te andew te kedhimuwa ku he mehitavù heini, migkaǥi is Nengazen he Mekeǥeǥehem.
+“Tentenuzi niw is Kesuǥuan te suluǥuen ku he si Moises. Haazà he menge suǥù wey menge sulunuzen, imbeǥey ku kandin diyà te Horeb he para te langun he menge etew te Israel.
+“Piru te kenè pa egkeuma haazà is dekelà wey mekahandekhandek he andew te Nengazen, ibpehendiyè ku te keniyu is ebpeneuven he si Elias.
+Edhimuwen din he mahala te menge ǥinikanan is menge anak dan wey mahala te menge anak is menge ǥinikanan dan, su wey ku kenà mezezeeti is menge tanè niw.”
 
 
 

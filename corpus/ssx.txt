@@ -926,6 +926,7 @@ Dota꞉ neke diki tukikina꞉ I̱ma꞉ mu mombololo toopi manue. Kutupa do toopi
 Do mombololopa꞉ toopimanu make do niminapeke ekina꞉ toopi maketa꞉ diki hone u tialo pa꞉la꞉ekie. Koto ekina꞉ I̱ma꞉ta꞉ neke hoeyaluekema꞉ta꞉ do mombololopa꞉ toopimanu ankulao na ipulueke. Kutupa nakana꞉ma꞉ I̱ hoeyaluekema꞉ta꞉ do toopimanu o do niminapeke toopi ula꞉eki ankulao na a꞉pa꞉peke.
 Mo Eipoloha꞉ma꞉ pita꞉ Neiho yaapona꞉ Koda꞉ma꞉ dika꞉ haumanu telipaena꞉e leekeme. Koto leeke ekina꞉ Dieikopema꞉ta꞉ mo ipika꞉ apa꞉ Aisa꞉kema꞉ yeiya꞉ lao yeni pu hayeke Koda꞉na꞉ bikina꞉ mo pi la꞉ wipikieki opulueke laa keke pi la꞉ wiekeme.
 Kutupa ipikana꞉ma꞉ ma꞉na꞉ ma꞉nda꞉ liata꞉ mo potena꞉ Koda꞉ pa꞉ta꞉ yeni hau pea ipika꞉ haliweki wi la꞉ meata꞉ ne nemekeme. Ne no paeyaota꞉ koto timbata꞉ mo pote pa꞉ta꞉ pelimikime.
+Da kelepeeketa꞉ Leibenima꞉ ipika꞉ wandiki yaapona꞉ wekiwandiki make waneke yaapo make nunu peata꞉ paa da poluekema꞉ la꞉ka꞉la peekeme.
 Dieikope pota꞉na꞉ pulu haena꞉ta꞉ mandane enisolomanu manda꞉hande piekeme.
 Kutaa ipikana꞉ma꞉ mo enisolomanu hando hao alota꞉ Dota꞉ Koda꞉na꞉ ta꞉ka꞉li dae laa Koto pateta꞉ Mahaneimi leekeme.
 Dieikopema꞉ta꞉ mo Idomo kenke nane hameke Iso pa꞉ta꞉ pi mea polo pieke haliweki amba꞉la pulu haena꞉ tapaeyekeme.
@@ -958,7 +959,6 @@ Koto leeke Dieikopema꞉ alota꞉ Ameta꞉ kota꞉ naka꞉ biki la kie leekepate
 Kota꞉ Dieikopema꞉ alota꞉ I̱ma꞉ta꞉ Koda꞉ta꞉ ota꞉ leke popeleke pa꞉ta꞉ handa꞉ alu pua꞉pate I̱ta꞉ na homeke pa halomee leekeme. Koto ekina꞉ koto alena꞉ta꞉ Penielo leekeme.
 Dieikopeta꞉ Penielo mina꞉pa꞉laaso haena꞉ta꞉ nate opeekeme. Ipikita꞉ ipika꞉ pelimokoma꞉ yoka꞉ endiatiki peekeme.
 Ame do maketa꞉ mo Isulaina꞉ monduma꞉ monduma꞉ pieke wekiwandikina꞉ wekiwandikima꞉ maketa꞉ mo pelimoko tunala꞉ pa꞉ta꞉ hala꞉ honkoputa꞉ na no halememe. Pa ekipeke Dieikopeta꞉ mo koto honkopuna꞉ lieke ekina꞉ pitelememe.
-
 Dieikopema꞉ta꞉ Iso ipika꞉ 400 haliweki ame̱le̱ epemeeki hando haota꞉ ipika꞉ wekiwandikita꞉ mo Lia make Leisolo make mo e pokaepeke wanda꞉ yaapo make teli pea haoma꞉ haoma꞉ pina꞉ leekeme.
 Ipikana꞉ma꞉ta꞉ mo e pokaeyeke wanda꞉ yaapo ipilika꞉ wekiwandiki ame̱le̱ titina꞉ haena꞉ laa koto hoki pa꞉ta꞉ta꞉ Lia ipika꞉ wekiwandiki ame̱le̱ haena꞉ laata꞉ mo Leisolo pita꞉ Diosepe yaapota꞉ sale nane haena꞉ leekeme.
 Kutupa Dieikopema꞉ta꞉ ipiki amba꞉la titina꞉ pua mo ipika꞉ hameke handa꞉tia pulu hata꞉ hoto wataake hata꞉na꞉ oni kenkena꞉ panda꞉ puniaeyekeme.
@@ -27691,7 +27691,7 @@ Koto ekimanu tunkula paapeke na ya꞉leke handaata꞉ ikita꞉ pa hau na piki yo
 Do hatuku epeme haliwekima꞉ta꞉ nika꞉ koda꞉wanda꞉na꞉ hau na hoeyaake ipiki pa꞉ta꞉ hoke pi na lememe leekeme.
 Koto ekina꞉ Dimiditiasi ipika꞉ e mandake pokeleme haliwekita꞉ ma꞉nda꞉ pa꞉ta꞉ ketete ula꞉me hone wimika꞉na꞉ta꞉ kota꞉ pi yokaalu pu haleme damanu hala꞉me. Kutupa mo pi yokaalu pita꞉la꞉eki handeteke haleme haliweki make hao halememe. Ma꞉nda꞉ pa꞉ta꞉ pua lena꞉e leekeme.
 Kutupa pi ma꞉nda꞉ make loluekema꞉ hone wimika꞉na꞉ta꞉ mo hande mombolo haloma꞉ ekina꞉ a꞉pa lapa꞉peke leekeme.
-Nikana꞉ma꞉ ame pa hameke hone mateke pi laa wi lomeke handaata꞉ niki pa꞉ta꞉ samani pea꞉peke ya꞉la꞉me leekeme.
+Nikana꞉ma꞉ ame pa hameke hone mateke pi laa wi lomeke handaata꞉ niki pa꞉ta꞉ samani pea꞉peke ya꞉la꞉me leekeme. Kotoeki laaka꞉na꞉ wanda꞉hali tapaa tapaa piekeme.
 Mo hande poiya꞉ poiya꞉ la꞉ alualu pimikieki upa lopa haena꞉ta꞉ Poloma꞉ hone tulaemeke wanda꞉hali wi la꞉ mepi pea iki pa꞉ta꞉ sa꞉tiaasa꞉ pimanu laata꞉ a꞉taloe laa koto pa꞉ta꞉ mina꞉pa꞉lao mo Ma꞉sedonia nane peekeme.
 Koto da pa꞉ta꞉manu pi waloendi pitolo hata꞉ wanda꞉hali honkopu ha tiatiki piekeme. Kutupa hao Kitiki kenke nane opolo puata꞉
 sumba꞉ tepo koto pa꞉ta꞉ hayekeme. Sitia nane poluekema꞉ tikitiki yaaso haena꞉ Diu haliwekima꞉ ipiki luekema꞉ a꞉nda꞉ lombo haemekeeki opuaata꞉ paa la꞉ka꞉la mo Ma꞉sedonia nanema꞉ lopa꞉la꞉ yapulueke hone wiekeme.

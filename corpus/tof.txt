@@ -926,6 +926,7 @@ Leiban akó Zeikobka bóktanórr wagó, “Ingülküp kwób yóni, akó kokrrap 
 Ini ingülküp kwób akó ini alanirrün ingülküp mibü timam nisamli, wagó, ka sab koke bórrgrróto marü kolae ainüm, ó ma ta inzan, ma sab koke tóbgrróto kürü kolae ainüm.
 Eibrra-amón God akó Na-orrón God, ibü ab nisab God nótóke, mibü sab wató ki zaz tiyón.” Da Zeikob arüng alkamül-koke bóktan we tónggapónórr Godón ngidü, oya ab Aesak ne Godón gum angólórr.
 Zeikob ola podopükü bwóbdü ngóyón lar emkalórr, da ngibürr murr poko urdü yamselórr Godón agürüm, da akó tóba kolpam we ngibaunürr usakü ene ngibürr murr poko alóngóm. Ibü alongaloa nóma blakónórr, i ene irrüb ola bazurrurr.
+Zokrrok darrü irrbi, Leiban tóba bobatal akó óp olom nis nüprükóp, akó bles nütünóp. Da Leiban ibü we bimgatórr, ama tóba bwóbdü alkomólórr.
 Zeikob ta inzan tóba kwata wamórr, da Godón ngibürr anerrua oya semrrónóp.
 Wa ibü nóma nósenóp, wa bóktanórr wagó, “Ini Godón marrgu-e!” Da wa ene bwób Ma-anayimbóka igósidi ngyesilürr.
 Zeikob ngibürr yada ódód pam zirrnapónóp oya singül kwata tóba naretódó Isaoka, Seirr bwóbdü, Idom tüpdü.
@@ -958,7 +959,6 @@ Da Zeikob oya imtinürr wagó, “Gyaurka, kürü moba ngi küzazil.” A wa bó
 Da Zeikob ene bwób Penielbóka igósidi ngyesilürr wagó, “Ene zitülkus módóga, ka Godón obzek esena, da ka ma wata arrólóla!”
 Abüsa tüngürürr Zeikob Peniel bwóbzan sórrgrratlórr, da Zeikob tóba kartül amkónkü wamlórr.
 We zitülkusdü, kókó errkya ini ngürr, Isrrael pamkolpama kartül kusdü arróbórrón ne murrko koke alóngdako, zitülkus Zeikobón ene kartül murr yamurrürr.
-
 Zeikob kwit yazilürr, da módóga, Isaon esenórr tótókde tóba 400 pampükü. Da olmal tibiób we nürrgrrütóp: Lian tóba, Rreizel akó nis leba zaget kol nisab go tibiób.
 Zeikob zaget kol nis tibiób olmalpükü ngaensingül irrbünürr, da Lia akó tóba olmal ibü solkwat atanóm, akó Rreizel a Zosep solo dómdóm idi murrausürri.
 Wa tüób singül apónórr ibükagab. Wa tóba naret nóma ngorram syónürr, wa tóba singül 7 münüm tüp elkomólólórr oya morroal angónóm.
@@ -8865,11 +8865,11 @@ Da ma ne kürü ngarkwatódó nóma ngyaben namulo akó arüng bóktan ó gida n
 
 
 Zuda akó Isrrael pamkolpam inzan kwarilürr, amaka malu kabedó nóresako, ena bürrkós. Pamkolpama alo akó anón akó barnginwóm kwarilürr.
+Solomon ene dudu bwób wató alngomól yarilürr, tai Yuprreitis tobarrdógab, tai kókó Pilistia kantrridü, ene go tai kókó Izipt kantrrian ngaru. Ene bwób pamkolpama taks mani alión kwarilürr Solomonón. Ene abün-abün bwób tóba ngyaben tonarrdó wató balngomól yarilürr.
 
 
 
-
-
+Solomonón ngyaben tonarrdó, Zuda akó Isrrael wata morroal ngyaben namülnürri, tai Dan wirri basirrdügab dorrmetódóbóna kókó Berrsyiba wirri basirrdü malubarrdóbóna. Blaman pamkolpama wata paudüdü bobrralórr ngórr nugup murrdü. Darrü kolaea ibüka koke tamórr.
 
 
 
@@ -17902,9 +17902,9 @@ Da taia, ezan bangóndakla amtinüm, Lod sab tüób yabüka okaka simzazile darr
 
 
 
-
 “Oloma kuri tómtómóle mibünkü! Siman olom mibü akyarróna! Da balngomól sab oya tangdó yarile. Oya sab ngilianórre, ‘⌊Asen-koke Tórrmen⌋ Tómbapón akó Ikik Bókrran Pam’, ‘Wirri Arüng God’, ‘Metat Ngyaben Ab’, akó ‘Paud Ngyaben Ódód Singüldü Pam’.
 Oya balngomóla akó oya balngomóla ne paud ódódda wata dódórr bain yarile metat. Wa sab balngomól yarile, king Deibidün pabo apad pamzan, wa sab balngomól yarile king Deibidün alngomól bwób. Wa ene balngomól bwób tónggapóne akó ngakan yarile dümdüm tulmili akó ⌊dümdüm tonarre⌋ ini tonarrdógabi akó metat-metat. Wirri Arüng ⌊Lod⌋ wa wirri ubia ini kla tómbapónóm.”
+
 
 
 
@@ -22614,6 +22614,7 @@ Güblang-koke, butan zaget pama krrabe atül kwarilürr tibióbnüm arüngi, ene
 Da i Lodka górrgónóp wagó, “Lod, gyaurka, ma kibü büdüldü amarrugu Zonan arról alakónóm. Ini kórsan oloman büdül müp sab kidi koke ipüdórre. Mató, Lod, blaman klama marü ubi ngarkwatódó tómbapóndako.”
 Da i Zonan ipüdóp, kwit inóp, ó amanikóp maludü, da ene malua we amkónórr.
 Da módóga, ene tonarr kakóm, i Lodón wirri gum we ipüdóp. I darrü lar we emkólóp oya eso akyanóm akó i oya tibiób ⌊arüng alkamül-koke bóktan⌋ ekyenóp.
+Lod tüób wirri wapi we zirrsapónórr Zonan adarüküm. Wa wapian dupidü aüd ngürr akó aüd irrüb ngyabelórr.
 Tai auma wapian dupidü, Zona tóre olgab ekorr ⌊Lodka⌋, tóba Godka
 wagó, “Kólba ini müpdü, Lod, ka marü ngimliarró, da ma kürü bóktan kuri salkomóla. Ini büdülab bwóbdügab, ka marüka tangbamtinüm górrgarró, da ma kürü kurrkrrua.
 Lod, ma kürü kümaikürrü wirri buku bwóbdü, tai kókó ka malu tüp emrrarró, kürü blaman naea ne mamtae kotarr kónómórr, ó blaman marü ne arüng goblol kwarilürr, kürü kwitana arrgrrat kwarilürr.
@@ -22624,7 +22625,6 @@ Ka kólba nóma küp bamkórró, wa, kürü arróla blakónóm kain yarilürr, d
 Obae küp-koke godóm nidi tóredako, marü morroal tonarrbóka tai kuri imrükrre.
 Ka sab marü wórri magürolo, ó ka marü eso akyanóm lar emkolo, ó ka sab kólba ⌊arüng alkamül-koke bóktan⌋ tórrmendó irrbuno. Lod, zidbaina marükagabi tótókda!”
 Da Lod wapi arüng bóktan we ekyanórr, Zonan müzi alkomólóm, kórrgópdó.
-
 Akó nis ngim Lodón bóktana tamórr Zonaka.
 Wagó, “Ma ugó bupa Ninebe tótókóm, ene wirri basirrdü, da wirri arüngi bóktanke pamkolpamdó, ka marü ne poko myalórró ngaensingül.”
 Da Zona bupadórr ó wa we wamórr Ninebe wirri basirrdü, Lodón bóktan ngarkwatódó. Ninebe wirrian basirr yarilürr, paman tótókóm aüd ngürr azebda, darrü kubdügab kókó dakla kub.

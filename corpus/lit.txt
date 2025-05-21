@@ -945,8 +945,8 @@ Ir VIEŠPATS, matydamas, kad Lėja, lyginant su Rachele, buvo nekenčiama, atida
 
 
 
-ir sakykite: „Štai ir tavo tarnas Jokūbas yra mums iš paskos. (Nes jis tarė: „Aš sutaikinsiu jį dovana, kuri eina pirma manęs, o paskui išvysiu jo veidą; galbūt jis mane priims.“)
 
+ir sakykite: „Štai ir tavo tarnas Jokūbas yra mums iš paskos. (Nes jis tarė: „Aš sutaikinsiu jį dovana, kuri eina pirma manęs, o paskui išvysiu jo veidą; galbūt jis mane priims.“)
 
 
 
@@ -1718,10 +1718,6 @@ Ir faraono širdis užkietėjo, kad jis jų neklausė, kaip VIEŠPATS buvo sakę
 
 
 
-
-
-
-
 Tas atsakė: „Rytoj.“ Anas tarė: „Tebūna pagal tavo žodį, kad žinotum, jog nėra kito kaip VIEŠPATS, mūsų Dievas!“
 
 
@@ -1734,6 +1730,10 @@ Ir VIEŠPATS tarė Mozei: „Sakyk Aaronui: „Ištiesk savo lazdą ir suduok į
 
 
 Kitaip, jeigu tu neišleisi mano tautos, štai aš užleisiu musių spiečiais tave, tavo tarnus, tavo tautą ir tavo namus. Ir egiptiečių namai bus pilni musių spiečių ir taip pat žemė, kurioje jie gyvena.
+
+
+
+
 
 
 
@@ -2137,9 +2137,9 @@ nudeginimą už nudeginimą, žaizdą už žaizdą, randą už randą.
 
 
 
-
 Jeigu tik paimsi kaip užstatą savo artimo apdarą, tu turi jam sugrąžinti jį iki saulės laidos,
 nes tai yra jo vienintelis apklotas, tai jo odos drabužis: į ką kita įsivyniojęs jis atsiguls? Ir bus šitaip: kai jis šauksis manęs, išklausysiu, nes aš esu maloningas.
+
 
 
 
@@ -5274,8 +5274,8 @@ ir ten valgykite VIEŠPATIES, savo Dievo, akivaizdoje ir džiaukitės jūs ir j�
 
 
 
-Sekite paskui VIEŠPATĮ, savo Dievą, ir bijokite jo, ir laikykitės jo įsakymų, ir klausykite jo balso, ir tarnaukite jam, ir tvirtai laikykitės prie jo.
 
+Sekite paskui VIEŠPATĮ, savo Dievą, ir bijokite jo, ir laikykitės jo įsakymų, ir klausykite jo balso, ir tarnaukite jam, ir tvirtai laikykitės prie jo.
 
 
 
@@ -5707,7 +5707,7 @@ Kai vyras bus ką tik vedęs žmoną, jis neturi išeiti į karą, ir neturi bū
 
 
 
-
+Paslėpti dalykai priklauso VIEŠPAČIUI, mūsų Dievui, bet apreikšti dalykai priklauso mums ir mūsų vaikams per amžius, kad vykdytume visus šio įstatymo žodžius.
 
 
 
@@ -10486,23 +10486,23 @@ Jabecas šaukėsi Izraelio Dievo, sakydamas: „Ak, kad tu mane laiminte palaimi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 O šitie yra tie, kuriuos Dovydas pastatė vadovauti giedojimo tarnystei VIEŠPATIES namuose po to, kai skrynia buvo padėta į atilsio vietą,
 ir kurie, iki Saliamonas pastatė Viešpaties namus Jeruzalėje, tarnavo giedodami priešais susitikimo palapinės padangtę, eidami pareigas pagal jiems nustatytą tvarką.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11488,8 +11488,8 @@ Ir štai su mumis yra pats Dievas kaip vadas ir jo kunigai su gaudžiančiais tr
 
 
 
-
 Tada Asa šaukėsi VIEŠPATIES, savo Dievo, ir tarė: „VIEŠPATIE, tau nesunku padėti tiek tiems, kurių daug, tiek tiems, kurie yra be galios! Padėk mums, o VIEŠPATIE, mūsų Dieve, nes mes remiamės tavimi ir tavo vardu einame prieš šitą daugybę. O VIEŠPATIE, tu esi mūsų Dievas! Neleisk jokiam žmogui savęs nugalėti!“
+
 
 
 
@@ -12363,17 +12363,17 @@ O šalia jų taisė tekojiečiai, tačiau jų didikai nepalenkė savo sprandų p
 
 
 
-
-
-
-
-
-
 Ir jis kalbėjo savo brolių ir Samarijos kariuomenės akivaizdoje, sakydamas: „Ką daro tie suglebę žydai? Ar jie sau atstatys? Ar jie aukos aukas? Ar jie užbaigs per dieną? Ar jie atgaivins sudegusius akmenis iš šiukšlių krūvų?“
 
 
 
 O mes toliau statėme sieną, ir visa siena iki pusės buvo sujungta, nes žmonės į darbą įdėjo širdį.
+
+
+
+
+
+
 
 
 
@@ -13959,6 +13959,7 @@ Tu daužysi juos geležine lazda, kaip puodžiaus indą juos daužysi į šukes!
 Taigi dabar, o karaliai, būkite išmintingi; duokitės įspėjami jūs, žemės teisėjai.
 Tarnaukite VIEŠPAČIUI su baime ir džiūgaukite drebėdami.
 Bučiuokite Sūnų, kad jis nerūstautų ir kelyje nežūtumėte, jo pykčiui truputį užsidegus. Kokie didžiai palaiminti visi, kurie bėga prieglaudon pas jį!
+
 Dovydo psalmė, jam bėgant nuo savo sūnaus Abšalomo veido. O VIEŠPATIE, kaip padaugėjo mano priešų! Daug tų, kurie sukyla prieš mane!
 Daug tų, kurie sako apie mano sielą: „Jam iš Dievo nėra išgelbėjimo!“ Sela.
 Bet Tu, VIEŠPATIE, esi skydas aplink mane, mano šlovė ir tas, kuris pakelia mano galvą.
@@ -14049,7 +14050,6 @@ Nedorėliai suks į pragarą, visos tautos, kurios pamiršta Dievą.
 Nes vargšas nebus pamirštas visam laikui; prispaustųjų lūkestis nebus pražuvęs amžinai.
 Pakilk, VIEŠPATIE! Teneįsigali mirtingieji! Tebūna tautos teisiamos tavo akyse.
 Įvaryk jiems baimės, o VIEŠPATIE! Težino tautos, kad jos – tik žmonės! Sela.
-
 Kodėl tu, o VIEŠPATIE, stovi toli, kodėl slepiesi sielvarto laikais?
 Puikuodamiesi nedorėliai persekioja prispaustuosius; teįkliūva jie patys į savo sumanytas pinkles!
 Nedorėlis gi giriasi savo širdies troškimu bei laimina gobšuolį ir niekina VIEŠPATĮ.
@@ -14075,6 +14075,7 @@ VIEŠPATS yra savo ypatingai šventoje šventykloje – VIEŠPATIES sostas yra d
 VIEŠPATS teisųjį tiria, bet jo siela nekenčia nedorėlio ir smurtą mylinčio.
 Jis lies ant nedorėlių žabangus, ugnį ir sierą, ir svilinančią audrą; tai bus jiems skirtoji taurė.
 Nes VIEŠPATS yra teisus, jis myli teisybę. Dorieji matys jo veidą.
+
 Vyriausiajam muzikui. Pagal šeminitą. Dovydo psalmė. Išgelbėk, o VIEŠPATIE, nes nebėra dievotojo, nes ištikimieji pradingsta tarp žmonių palikuonių.
 Jie kiekvienas su savo kaimynu kalba netiesą, jie kalba pataikaujančiomis lūpomis ir dvilype širdimi.
 VIEŠPATS pribaigs pataikaujančias lūpas, didžiakalbį liežuvį –
@@ -14088,8 +14089,7 @@ Vyriausiajam muzikui. Dovydo psalmė. Kiek ilgai, VIEŠPATIE? Ar pamirši mane a
 Kiek ilgai teks man patarimų dėti sau į sielą, liūdesiui užėmus mano širdį dienos metu? Kiek ilgai mano priešas bus išaukštintas virš manęs?
 Pažvelk, išklausyk mane, VIEŠPATIE, mano Dieve! Padaryk šviesias man akis, kad mirties miegu neužmigčiau!
 Kad mano priešas nesakytų: „Aš jį nugalėjau“ ir mano prispaudėjai nedžiūgautų dėl to, kad svyruoju.
-Bet aš pasitikėjau tavo gailestingumu. Mano širdis džiūgaus dėl tavo išgelbėjimo.
-Aš giedosiu VIEŠPAČIUI, nes jis dosniai padarė man gera.
+Bet aš pasitikėjau tavo gailestingumu. Mano širdis džiūgaus dėl tavo išgelbėjimo. Aš giedosiu VIEŠPAČIUI, nes jis dosniai padarė man gera.
 Vyriausiajam muzikui. Dovydo. Kvailys pasakė savo širdyje: „Nėra Dievo.“ Tokie sugedę, jie daro šlykščius darbus; nėra gera darančio.
 VIEŠPATS žvelgė žemyn iš dangaus į žmonių palikuonis, kad pamatytų, ar yra kas išmano, kas ieško Dievo.
 Visi nukrypo į šoną, jie kartu pasidarė suteršti; nėra gera darančio, nėra nė vieno.
@@ -14128,6 +14128,7 @@ Kiekvienas iš jų yra panašus į liūtą, geidžiantį draskyti, į liūtuką,
 Kelkis, o VIEŠPATIE, užbėk jam už akių, parklupdyk jį! Savo kalaviju išvaduok mano sielą nuo nedorėlio!
 Savo ranka išvaduok iš žmonių, o VIEŠPATIE, iš žmonių iš pasaulio, kurių dalia yra šiame gyvenime, kurių pilvą tu pripildai savo lobio. Jiems vaikų netrūksta, ir perteklių jie palieka savo mažyliams.
 Aš pats teisume žvelgsiu į tavo veidą ir pabudęs pasisotinsiu tavo atspindžiu.
+
 Vyriausiajam muzikantui. Psalmė VIEŠPATIES tarno Dovydo, kuris kalbėjo VIEŠPAČIUI šitos giesmės žodžius tą dieną, kai VIEŠPATS jį išvadavo iš visų jo priešų rankų ir iš Sauliaus rankų. Jis kalbėjo: Tave myliu, o VIEŠPATIE, mano stiprybe.
 VIEŠPATS yra mano aukšta apsaugos uola bei mano tvirtovė bei mano vaduotojas; mano Dievas, mano uola – juo pasitikiu; mano skydas bei mano išgelbėjimo ragas, mano aukšta prieglauda.
 
@@ -14249,7 +14250,6 @@ Jūs, kurie bijote VIEŠPATIES, girkite jį! Visi, kurie Jokūbo sėkla, šlovin
 
 
 
-
 Dovydo psalmė. VIEŠPATS yra mano ganytojas, aš nestokosiu.
 Jis guldo mane žaliuojančiose pievose, švelniai vedžioja mane prie atilsio vietovių vandenų.
 Jis atgaivina mano sielą, jis veda mane teisumo takais dėl savo vardo.
@@ -14334,6 +14334,7 @@ VIEŠPATIES balsas sudrebina dykumą, VIEŠPATS sudrebina Kadešo dykumą.
 VIEŠPATIES balsas sukelia gimdymo skausmus elnėms ir daro miškus plikus, o jo šventykloje visi kalba apie jo šlovę.
 VIEŠPATS sėdi viršum tvano, VIEŠPATS gi sėdi kaip Karalius per amžius.
 VIEŠPATS suteiks stiprybę savo tautai! VIEŠPATS palaimins savo tautą taika!
+
 Psalmė. Giesmė Namų pašventinimui. Dovydo. Aukštinsiu tave, o VIEŠPATIE, nes tu mane iškėlei ir neleidai mano priešams džiūgauti turėdami viršenybę prieš mane.
 O VIEŠPATIE, mano Dieve, šaukiausi tavęs, ir tu mane išgydei.
 
@@ -14371,7 +14372,6 @@ Tavo rankoje yra mano laikai – išplėšk mane iš mano priešų rankos ir iš
 
 Mylėkite VIEŠPATĮ, visi jo šventieji: VIEŠPATS apsaugo ištikimuosius, bet gausiai atlygina tam, kuris elgiasi išdidžiai.
 
-
 Dovydo. Maskilas. Koks didžiai palaimintas, kuriam atleistas nusižengimas, kurio nuodėmė uždengta!
 Koks didžiai palaimintas žmogus, kuriam VIEŠPATS neįskaito kaltės ir kurio dvasioje nėra apgaulės!
 Kol tylėjau, mano kaulai dūlėjo nuo mano nuolatinių dejonių.
@@ -14405,6 +14405,7 @@ Giedokite jam naują giesmę, meistriškai grokite džiūgavimo skambesiu!
 Mūsų siela laukia VIEŠPATIES – Jis mūsų pagalba ir mūsų skydas,
 todėl juo džiaugiasi mūsų širdis, nes pasitikėjome jo šventuoju vardu.
 
+
 Dovydo psalmė, kai jis pakeitė savo elgseną Abimelecho akivaizdoje. Tas jį nuvarė, ir jis nuėjo. Laiminsiu VIEŠPATĮ visuomet; jo gyrius nuolat bus mano lūpose.
 VIEŠPAČIU didžiuosis mano siela; nuolankieji tai išgirs ir džiaugsis.
 Apskelbkite su manimi VIEŠPATIES didybę ir kartu aukštinkime jo vardą!
@@ -14427,7 +14428,6 @@ Daug blogybių patiria teisusis, bet iš jų visų jį išvaduoja VIEŠPATS.
 Jis saugo visus jo kaulus, nė vienas iš jų nesulūžęs.
 Nedorėlį pražudo blogis, ir tie, kurie nekenčia teisiojo, bus nuteisti.
 VIEŠPATS išperka savo tarnų sielą, ir nebus nuteistas nė vienas, kuris bėga prieglaudon pas jį.
-
 
 
 
@@ -14460,12 +14460,12 @@ Tekrykštauja ir tedžiūgauja tie, kurie nori teisingumo man, ir tegul jie nuol
 
 
 
+
 VIEŠPATIE, tavo gailestingumas siekia dangų, tavo ištikimumas – debesis.
 
 
 
 Nes tau priklauso gyvenimo šaltinis; tavo šviesoje mes matysime šviesą.
-
 
 
 
@@ -14509,6 +14509,7 @@ Atkreipk dėmesį į tobuląjį ir žiūrėk į tiesųjį, nes ateitis tokiam ž
 
 Bet teisiųjų išgelbėjimas ateina nuo VIEŠPATIES; jis yra jų tvirtovė sielvarto metu.
 Ir VIEŠPATS jiems padės, ir juos išvaduos. Jis juos išvaduos iš nedorėlių ir juos išgelbės, nes jie pasitiki juo.
+
 
 
 
@@ -14591,10 +14592,10 @@ Kenčiu lyg kaulus laužant, man priekaištauja mano priešai, kasdien man sakyd
 Ko esi nusiminus, mano siela, ir ko nerimsti manyje? Užtikrintai lauk tu Dievo, nes aš dar girsiu jį, mano veido išgelbėjimą ir mano Dievą!
 
 
-
 Siųsk savo šviesą ir savo tiesą, teveda jos mane; teparveda mane į tavo šventąjį kalną ir į tavo didingą padangtę!
 
 Ko esi nusiminus, mano siela, ir ko nerimsti manyje? Užtikrintai lauk tu Dievo, nes aš dar girsiu jį, mano veido išgelbėjimą ir mano Dievą!
+
 
 
 
@@ -14710,7 +14711,6 @@ nė vienas iš jų jokiu būdu nepajėgia išpirkti savo brolio, nė pajėgia du
 
 
 
-
 Aukok Dievui padėką ir Aukščiausiajam vykdyk savo įžadus
 ir šaukis manęs bėdos dieną, tai išvaduosiu tave, ir tu mane šlovinsi.
 
@@ -14721,6 +14721,8 @@ ir šaukis manęs bėdos dieną, tai išvaduosiu tave, ir tu mane šlovinsi.
 
 
 Kas aukoja padėką, pašlovina mane ir paruošia kelią; tam parodysiu Dievo išgelbėjimą.
+
+
 Vyriausiajam muzikui. Dovydo psalmė. Kai pranašas Natanas atėjo pas jį po to, kai tas buvo įėjęs pas Batšebą. Pasigailėk manęs, o Dieve, pagal savo mielaširdystę, pagal savo meilumo apstybę išdildyk mano nusižengimus.
 Visai nuplauk nuo manęs mano kaltę ir nuo mano nuodėmės apvalyk mane.
 Nes aš pripažįstu savo nusižengimus, ir mano nuodėmė man yra nuolat prieš akis –
@@ -14752,7 +14754,6 @@ Tada tu būsi patenkintas teisingomis aukomis, tai yra deginamąja auka ir visai
 Bet aš esu kaip žaliuojantis alyvmedis Dievo namuose; aš pasitikiu Dievo gailestingumu visados ir per amžius.
 
 
-
 Vyriausiajam muzikui. Pagal mahalatą. Maskilas. Dovydo. Kvailys pasakė savo širdyje: „Nėra Dievo“. Tokie sugedę ir daro šlykščią neteisybę; nėra gera darančio.
 Dievas žvelgė žemyn iš dangaus į žmonių palikuonis, kad pamatytų, ar yra kas išmano, kas ieško Dievo.
 Visi atsitraukė, jie kartu pasidarė suteršti; nėra gera darančio, nėra nė vieno.
@@ -14763,8 +14764,8 @@ O, kad iš Siono ateitų galutinis išgelbėjimas Izraeliui! Kai Dievas sugrąž
 
 
 
-Štai Dievas yra mano pagelbėtojas, Viešpats palaiko mano sielą!
 
+Štai Dievas yra mano pagelbėtojas, Viešpats palaiko mano sielą!
 
 
 
@@ -14849,6 +14850,7 @@ nes didis, siekiantis dangų, yra tavo gailestingumas ir siekianti debesis tavo 
 Bet aš giedosiu apie tavo jėgą ir krykštausiu rytmetį dėl tavo gailestingumo, nes tu pasidarei man aukšta prieglauda, priebėga mano suspaudimo dieną.
 
 
+
 Vyriausiajam muzikui. Atliekama pagal melodiją „Šošanim-edut“. Dovydo miktamas. Pamokymui. Kai jis kariavo su Aram-naharaimais ir Aram-zoba ir kai Joabas apsisuko ir sumušė Druskos slėnyje dvylika tūkstančių iš Edomo. O Dieve, tu mus atstūmei, ant mūsų išsiveržei, tu užsirūstinai – o atstatyk mus!
 
 
@@ -14861,7 +14863,6 @@ Kad tavo mylimieji būtų išvaduoti, išgelbėk savo dešine ir išklausyk mane
 
 
 Su Dievu mes veiksime galingai, nes jis sumindys mūsų priešus.
-
 
 Vyriausiajam muzikui. Su styginiu instrumentu. Dovydo. O Dieve, išgirsk mano šauksmą, klausykis mano maldos!
 Iš žemės pakraščio šaukiuosi tavęs, mano širdžiai alpstant – vesk mane į uolą, aukštesnę už mane!
@@ -14921,7 +14922,6 @@ Koks didžiai palaimintas žmogus, kurį tu išsirenki ir artini prie savęs, ka
 Tu apvainikuoji metus savo gerumu, ir tavo vežimų provėžos trykšta riebalais.
 
 
-
 Vyriausiajam muzikui. Giesmė. Psalmė. O visos šalys, kelkite džiaugsmingą skambų garsą VIEŠPAČIUI!
 Apgiedokite jo vardo šlovę; girkite jį šlovingai.
 
@@ -14942,6 +14942,7 @@ Apgiedokite jo vardo šlovę; girkite jį šlovingai.
 Jei būčiau pritaręs nedorybei savo širdyje, tai Viešpats nebūtų manęs išklausęs.
 
 Tebūna palaimintas Dievas, kuris neatmetė mano maldos ir neatitraukė savo gailestingumo nuo manęs.
+
 Vyriausiajam muzikui. Su styginiais instrumentais. Psalmė. Giesmė. Tebūna Dievas mums maloningas ir telaimina mus, savo veido šviesą tekreipia į mus, Sela.
 kad tavo kelias būtų žinomas žemėje, tavo išgelbėjimas visose tautose.
 
@@ -15020,7 +15021,6 @@ Ir neslėpk savo veido nuo savo tarno, nes esu bėdoje; skubiai išklausyk mane!
 Nuolankieji tai matys ir nudžiugs, jūs, ieškantys Dievo – atgis gi jūsų širdis!
 
 Tegul jį giria dangus ir žemė, jūros ir visa, kas jose juda!
-
 
 
 
@@ -15130,6 +15130,7 @@ O dėl manęs – man gera būti arti Dievo; aš bėgau prieglaudon pas Viešpat
 
 
 
+
 bet teisėjas yra Dievas; vieną jis pažemina, o kitą išaukština.
 
 
@@ -15159,7 +15160,6 @@ Nejaugi jo gailestingumas pasiliovė amžinai?! Argi liks neįvykdytas jo pažad
 
 
 Aš atsiminsiu VIEŠPATIES darbus, tikrai atsiminsiu tavo stebuklus nuo tolimos praeities.
-
 
 
 
@@ -15254,6 +15254,7 @@ Padėk mums, mūsų išgelbėjimo Dieve, / dėl savo vardo šlovės! / Išgelbė
 
 
 O mes, tavo tauta ir tavo ganyklos avys, amžinai tau dėkosime, kartų kartoms garsinsime tavo gyrių!
+
 Vyriausiajam muzikui. Atliekama pagal melodiją „Šošanim-edut“. Asafo. Psalmė. Klausykis, O Izraelio Ganytojau! Tu, kuris vedi Juozapą lyg kaimenę. Suspindėk tu, kuris sėdi tarp kerubų.
 
 
@@ -15290,8 +15291,8 @@ Aš VIEŠPATS, tavo Dievas, kuris atvedžiau tave aukštyn iš Egipto šalies. P
 
 
 
-
 Asafo psalmė. Dievas stovi galingųjų susirinkime; tarp dievų jis daro teismą.
+
 
 
 
@@ -15344,7 +15345,6 @@ Gailestingumas ir tiesa susitiko, teisumas ir taika pasibučiavo.
 
 Taip, VIEŠPATS duos gera, ir mūsų šalis duos savo derlių.
 
-
 Dovydo malda. Palenk, o VIEŠPATIE, savo ausį, išklausyk mane, nes aš prispaustas ir vargingas.
 
 
@@ -15365,6 +15365,7 @@ Nes tavo gailestingumas yra man didelis; tu net išgelbėjai mano sielą iš gil
 
 
 Apie tave kalba šlovingų dalykų, o Dievo mieste! Sela.
+
 
 
 
@@ -15440,7 +15441,6 @@ Kuris žmogus gali gyventi ir nepatirti mirties?! Argi jis išgelbės savo siel�
 
 
 
-
 Dievo vyro Mozės malda. Viešpatie, tu esi mūsų buveinė per kartų kartas.
 Prieš gimstant kalnams ir prieš tau gimdant žemę bei pasaulį, nuo amžinybės iki amžinybės tu esi Dievas.
 
@@ -15474,6 +15474,7 @@ Ant rankų jie nešios tave, kad neužsigautum kojos į akmenį.
 
 
 
+
 Psalmė, giesmė šabo dienai. Gera dėkoti VIEŠPAČIUI ir giedoti gyrių tavo vardui, o Aukščiausiasis,
 skelbti rytmetį tavo mielaširdystę, kas naktį tavo ištikimybę
 dešimčiastygiu instrumentu ir arfa, lyros rimtu garsu.
@@ -15486,7 +15487,6 @@ Nes tu, o VIEŠPATIE, pradžiuginai mane savo veikla, dėl tavo rankų darbų a�
 
 
 Teisusis klestės kaip palmė, jis augs kaip kedras Libane.
-
 
 
 
@@ -15595,6 +15595,7 @@ Aš nestatysiu sau prieš akis jokio nedoro dalyko; nekenčiu veiklos tų, kurie
 
 
 
+
 Mano dienos – kaip ištįsęs šešėlis, aš pats gi lyg žolė vystu.
 Bet tu, VIEŠPATIE, pasiliksi per amžius ir tavo atminimas per visas kartas.
 
@@ -15612,7 +15613,6 @@ Jis atsižvelgs į nuskurdėlių maldą ir nepaniekins jų maldos.
 
 Jie praeis, bet tu pasiliksi; taip, jie visi susidėvės kaip drabužis; kaip apdarą tu juos pakeisi, ir jie bus pakeisti,
 bet tu esi toks pat, ir tavo metai nesibaigs.
-
 
 Dovydo. O mano siela, laimink VIEŠPATĮ, ir visa, kas manyje, laimink jo šventą vardą!
 O mano siela, laimink VIEŠPATĮ ir nepamiršk visų jo geradarysčių!
@@ -15810,6 +15810,7 @@ Tada jie džiaugėsi, kad jos nurimo, ir jis juos nuvedė į jų geidžiamą uos
 
 
 
+
 Nes tavo gailestingumas toks didelis, kad yra aukščiau dangų, ir tavo tiesa siekia debesis.
 
 
@@ -15820,7 +15821,6 @@ Nes tavo gailestingumas toks didelis, kad yra aukščiau dangų, ir tavo tiesa s
 
 
 Su Dievu mes narsiai nuveiksime, nes jis yra tas, kuris sutryps mūsų priešus.
-
 
 
 
@@ -16357,9 +16357,9 @@ Juk į tave, Viešpatie JEHOVA, žvelgia mano akys, tavimi pasitikiu; neatidenk 
 
 
 
+
 Šaukiausi tavęs, o VIEŠPATIE, sakiau: „Mano prieglauda ir mano dalis gyvųjų šalyje esi tu!“
 Atkreipk dėmesį į mano šauksmą, nes esu susmukdytas labai žemai! Išgelbėk mane nuo mano persekiotojų, nes jie yra stipresni už mane!
-
 
 Dovydo psalmė. O VIEŠPATIE, išgirsk mano maldą, klausykis mano maldavimų! Atsakyk man vadovaudamasis savo ištikimumu ir savo teisumu!
 Ir neik į teismą su savo tarnu, nes kiekvienas iš gyvųjų yra neišteisintinas tavo akyse.
@@ -17465,7 +17465,6 @@ Visi eina į vieną vietą, visi yra iš dulkių, ir visi į dulkes sugrįžta.
 
 
 
-
 Elkis apdairiai, kai keli koją į Dievo namus, ir būk labiau pasiruošęs klausytis, negu atnašauti kvailių auką, nes jie nesusivokia, kad daro bloga.
 Nebūk ūmus savo burna, ir neleisk savo širdžiai skubiai tarti žodžio Dievo akivaizdoje, nes Dievas yra danguje, o tu žemėje. Todėl tavo žodžių tebūna nedaug.
 Juk sapnas atsiranda dėl daugybės vargingų darbų, ir kvailio neapgalvotas pasakymas dėl daugybės žodžių.
@@ -17482,6 +17481,7 @@ Kas myli pinigus, nepasisotins pinigais, nė mylintis turtingumą – pelnu; tai
 
 
 O tai irgi yra skaudi blogybė: kaip jis atėjo, lygiai taip nueis, tad kokia pasiliekanti nauda tam, kuris triūsė vėjais?
+
 
 
 
@@ -17898,13 +17898,13 @@ Kreipkitės į įstatymą ir liudijimą: jeigu jie nekalba pagal šitą žodį, 
 
 
 
-
 Tauta, vaikščiojanti tamsoje, išvydo didžią šviesą; gyvenantiems mirties šešėlio krašte nušvito šviesa.
 
 
 
 Nes kūdikis yra mums gimęs, sūnus yra mums duotas, ir valdžia bus ant jo peties, ir jis bus vadinamas Nuostabusis, Patarėjas, Galingasis Dievas, Amžinasis Tėvas, Taikos Kunigaikštis.
 Jo valdžios didėjimui ir taikai nebus galo Dovydo soste ir jo karalystėje, kad ją įkurtų ir palaikytų teisingumu ir teisumu nuo dabar ir per amžius. Kareivijų VIEŠPATIES uolus užsidegimas tai įvykdys.
+
 
 
 
@@ -18957,8 +18957,8 @@ Visuose jų varguose jis buvo varginamas, ir jo akivaizdos angelas juos išgelb�
 
 
 
-
 Bet mes visi esame kaip nešvarusis, ir visi mūsų teisūs veiksmai yra kaip suteršti skudurai. Ir mes visi vystame kaip lapai, ir mūsų blogadarybės mus nuneša kaip vėjas.
+
 
 
 
@@ -19264,9 +19264,9 @@ Aš klausiausi ir išgirdau, bet jie kalbėjo neteisingai; niekas neatgailavo d�
 
 
 
-
 Taip sako VIEŠPATS: „Išmintingasis tenesigiria savo išmintimi ir galingasis tenesigiria savo galia, turtingasis tenesigiria savo turtais,
 bet štai kuo tesigiria tas, kuris giriasi turėdamas supratimą ir pažindamas mane: kad aš esu VIEŠPATS, kuris įgyvendinu mielaširdystę, teisingumą ir teisumą žemėje; nes tais dalykais aš gėriuosi“, – sako VIEŠPATS.
+
 
 
 
@@ -21996,8 +21996,8 @@ Jeigu taip yra, mūsų Dievas, kuriam tarnaujame, pajėgia mus išgelbėti iš u
 
 
 
-Išleidžiu įsaką, kad kiekvienoje mano karalystės valdoje žmonės drebėtų ir bijotų Danieliaus Dievo akivaizdoje, nes jis yra gyvasis Dievas, tvirtas per amžius. Ir jo karalystė nesunaikinama, ir jo valdžia yra begalinė.
 
+Išleidžiu įsaką, kad kiekvienoje mano karalystės valdoje žmonės drebėtų ir bijotų Danieliaus Dievo akivaizdoje, nes jis yra gyvasis Dievas, tvirtas per amžius. Ir jo karalystė nesunaikinama, ir jo valdžia yra begalinė.
 
 
 
@@ -22192,9 +22192,9 @@ Nuo to laiko, kai kasdienė auka bus pašalinta ir bus pastatyta išniekinanti b
 
 
 
+
+
 Pasėsiu ją krašte sau pačiam, meilingai elgsiuosi su ta, kuri nebuvo sulaukusi meilingumo ir sakysiu ne savo tautai: „Tu mano tauta“, o jie atsakys: „Tu mano Dievas!“
-
-
 
 
 
@@ -22349,8 +22349,8 @@ Tačiau tavo Dievas esu aš, VIEŠPATS, nuo Egipto šalies, ir tu neturi pažint
 
 
 
-Imkite su savimi žodžius ir grįžkite pas VIEŠPATĮ. Sakykite jam: „Pašalink visą kaltę ir priimk mus maloningai; taip mes atnašausime savo lūpų gyrių kaip veršius.“
 
+Imkite su savimi žodžius ir grįžkite pas VIEŠPATĮ. Sakykite jam: „Pašalink visą kaltę ir priimk mus maloningai; taip mes atnašausime savo lūpų gyrių kaip veršius.“
 
 
 
@@ -22405,8 +22405,8 @@ Persiplėškite savo širdis, o ne savo drabužius! Gręžkitės į VIEŠPATĮ, 
 
 
 
-
-
+Ir po to įvyks šitaip: aš išliesiu savo Dvasią ant visokių žmonių, ir jūsų sūnūs ir jūsų dukterys pranašaus, jūsų senieji sapnuos sapnus, jūsų jaunuoliai matys regėjimus,
+ir ant tarnų ir ant tarnaičių tomis dienomis išliesiu savo Dvasią.
 
 
 
@@ -22622,8 +22622,8 @@ Ir VIEŠPATIES žodis atėjo Amitajo sūnui Jonai, sakydamas:
 
 
 
-Bet aš padėkos balsu tau aukosiu; tai, ką pažadėjau, ištesėsiu. Išgelbėjimas yra iš VIEŠPATIES!
 
+Bet aš padėkos balsu tau aukosiu; tai, ką pažadėjau, ištesėsiu. Išgelbėjimas yra iš VIEŠPATIES!
 
 Ir antrą kartą VIEŠPATIES žodis atėjo Jonai, sakydamas:
 
@@ -22700,11 +22700,11 @@ O tu, kaimenės bokšte, Siono dukters tvirtove, pas tave ji ateis, būtent pirm
 
 
 
-
 Dabar susiburk į pulkus, o pulkų dukterie! Jis mus apgulė! Lazda jie trenkia į žandą Izraelio teisėjui.
 Bet tu, Betliejau Efratoje, nors esi menkas tarp Judo tūkstančių, tačiau mano labui išeis iš tavęs tas, kuris bus valdovas Izraelyje, kurio išėjimai buvo nuo tolimos praeities, nuo amžinybės dienų.
 Todėl jis apleis juos iki laiko, kai gimdančioji bus pagimdžiusi. Tada jo likusieji broliai sugrįš pas Izraelio vaikus.
 Ir jis išstovės ir ganys VIEŠPATIES galia, VIEŠPATIES, savo Dievo, vardo didybe. Ir jie liks gyventi, nes tuomet jis bus laikomas didžiu iki žemės pakraščių.
+
 
 
 
@@ -23205,8 +23205,8 @@ Jūs jau nuo savo tėvų dienų atsitraukėte nuo mano nuostatų ir jų nesilaik
 Tada tie, kurie bijojo VIEŠPATIES, dažnai kalbėjosi vienas su kitu; o VIEŠPATS tai dėmėjosi ir klausėsi, ir jo akivaizdoje buvo parašyta atminimo knyga labui tų, kurie bijojo VIEŠPATIES ir mąstė apie jo vardą.
 „Manąją veikimo dieną, – sako Kareivijų VIEŠPATS, – jie man bus ypatinga brangenybė, ir jų gailėsiuos, kaip žmogus gailisi savo sūnaus, kuris jam tarnauja.“
 
-
-
+Nes štai ateina Diena, deganti kaip krosnis! Ir visi išdidieji ir visi, kurie elgiasi nedorai, taps ražienomis, ir juos taip sudegins ateinanti Diena, – sako Kareivijų VIEŠPATS, – kad ji nepaliks jiems nei šaknies, nei šakos.
+Bet jums, bijantiems mano vardo, užtekės Teisumo Saulė su išgydymu savo sparnuose. Jūs išeisite ir šokinėsite kaip veršiukai, išėję iš tvarto.
 
 
 

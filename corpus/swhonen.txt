@@ -926,6 +926,7 @@ Pia Labani akamwambia Yakobo, “Hili ndilo lundo, na hii ndiyo nguzo niliyoisim
 Lundo hili ni shahidi na nguzo hii ni shahidi, kwamba sitavuka lundo hili kuja upande wako kukudhuru, nawe kwamba hutavuka lundo hili na nguzo hii kuja upande wangu kunidhuru.
 Mungu wa Abrahamu na Mungu wa Nahori, Mungu wa baba zao, aamue kati yetu.” Hivyo Yakobo akaapa kwa jina la Hofu ya baba yake Isaki.
 Yakobo akatoa dhabihu juu ya kilima na akawaalika jamaa zake kula chakula. Baada ya kula, wakalala huko.
+Kesho yake asubuhi na mapema, Labani akawabusu wajukuu zake, binti zake na kuwabariki. Kisha akaondoka, akarudi nyumbani.
 Yakobo pia akaondoka akaenda zake, nao malaika wa Mungu wakakutana naye.
 Yakobo alipowaona, akasema, “Hii ni kambi ya Mungu!” Kwa hiyo akapaita mahali pale Mahanaimu.
 Yakobo akatuma wajumbe kumtangulia kwa Esau ndugu yake huko Seiri, katika nchi ya Edomu.
@@ -958,7 +959,6 @@ Yakobo akasema, “Tafadhali niambie jina lako.” Lakini akajibu, “Kwa nini k
 Kwa hiyo Yakobo akapaita mahali pale Penieli, akasema, “Ni kwa sababu nimemwona Mungu uso kwa uso na bado maisha yangu yameokoka.”
 Jua lilikuwa linachomoza Yakobo alipoondoka Penueli, naye alikuwa akichechemea kwa sababu ya nyonga yake.
 Kwa hiyo mpaka leo Waisraeli hawali mshipa ulioungana na kiungio cha nyonga, kwa sababu kiungio cha nyonga ya Yakobo kiliteguliwa karibu na mshipa huo.
-
 Yakobo akainua macho akamwona Esau akija na watu wake 400, kwa hiyo akawagawanya watoto kati ya Lea, Raheli na wale watumishi wake wawili wa kike.
 Akawaweka wale watumishi wa kike na watoto wao mbele, Lea na watoto wake wakafuata, Raheli na Yosefu wakaja nyuma.
 Yeye mwenyewe akatangulia mbele na kusujudu mara saba alipomkaribia ndugu yake.
@@ -1709,10 +1709,6 @@ Lakini waganga wa Misri kwa kutumia siri ya uganga wao wakafanya vivyo hivyo, na
 Badala yake, Farao akageuka, akaenda kwenye jumba lake la kifalme, wala hakulitia hili moyoni.
 Nao Wamisri wote wakachimba kandokando ya Mto Naili kupata maji ya kunywa, kwa sababu hawakuweza kunywa maji ya mto.
 Zilipita siku saba baada ya Bwana kuyapiga maji ya Mto Naili.
-
-
-
-
 Ndipo Bwana akamwambia Mose, “Nenda kwa Farao ukamwambie, ‘Hili ndilo asemalo Bwana: Waachie watu wangu waende, ili wapate kuniabudu.
 Kama ukikataa kuwaruhusu kuondoka, basi nitaipiga nchi yako yote kwa kuwaletea vyura.
 Mto Naili utafurika vyura. Watakuja kwenye jumba lako la kifalme na katika chumba chako cha kulala na kitandani mwako, katika nyumba za maafisa wako na kwa watu wako, vyura hao wataingia katika meko yenu na kwenye vyombo vya kukandia unga.
@@ -1741,6 +1737,10 @@ Ndipo Farao akamwita Mose na Aroni na kuwaambia, “Nendeni mkamtolee Mungu wenu
 Lakini Mose akamwambia, “Hilo halitakuwa sawa. Dhabihu tutakazomtolea Bwana Mungu wetu zitakuwa chukizo kwa Wamisri. Kama tukitoa dhabihu ambazo ni chukizo mbele yao, je, hawatatupiga mawe?
 Ni lazima twende mwendo wa siku tatu mpaka tufike jangwani ili tumtolee Bwana Mungu wetu dhabihu, kama alivyotuagiza.”
 Farao akamwambia, “Nitawaruhusu mwende kumtolea Bwana Mungu wenu dhabihu huko jangwani, lakini hamna ruhusa kwenda mbali sana. Sasa mniombee.”
+Mose akajibu, “Mara tu nitakapoondoka, nitamwomba Bwana na kesho mainzi yataondoka kwa Farao, kwa maafisa wake na kwa watu wake. Hakikisha tu kwamba Farao hatatenda kwa udanganyifu tena kwa kutokuwaachia watu waende kumtolea Bwana dhabihu.”
+Ndipo Mose akamwacha Farao na kumwomba Bwana,
+naye Bwana akafanya lile Mose alilomwomba. Mainzi yakaondoka kwa Farao, kwa maafisa wake na kwa watu wake, wala hakuna hata inzi aliyebakia.
+Lakini wakati huu pia Farao akaushupaza moyo wake, wala hakuwaruhusu Waisraeli waondoke.
 Ndipo Bwana akamwambia Mose, “Nenda kwa Farao ukamwambie, ‘Hili ndilo Bwana, Mungu wa Waebrania asemalo: “Waachie watu wangu waende ili wapate kuniabudu.”
 Kama ukikataa kuwaachia waende, nawe ukiendelea kuwashikilia,
 mkono wa Bwana utaleta pigo baya kwa mifugo yako, juu ya farasi wako, punda, ngamia, ngʼombe wako, kondoo na mbuzi.
@@ -2112,7 +2112,6 @@ Ikiwa fahali atampiga mtumwa wa kike au wa kiume, mwenye fahali atalipa shekeli 
 mwenye shimo ni lazima alipe hasara iliyotokea; ni lazima amlipe mwenye mnyama. Mnyama aliyekufa atakuwa wake.
 “Kama fahali wa mtu fulani atamuumiza fahali wa mtu mwingine na akafa, watamuuza yule aliye hai na wagawane sawa fedha pamoja na mnyama aliyekufa.
 Hata hivyo, kama ikifahamika kwamba fahali huyo alikuwa na tabia ya kupiga kwa pembe na mwenyewe hakumfunga, ni lazima mwenye fahali alipe mnyama kwa mnyama, na mnyama aliyekufa atakuwa wake.
-
 “Kama mtu akiiba maksai au kondoo na kumchinja au kumuuza, ni lazima alipe ngʼombe watano badala ya maksai mmoja na kondoo wanne badala ya kondoo mmoja.
 “Kama mwizi akishikwa anavunja nyumba akapigwa hata akafa, aliyemuua hana hatia ya kumwaga damu;
 lakini jambo hilo likitokea wakati jua limechomoza, huyo mtu atakuwa na hatia ya kumwaga damu. “Mwizi huyo sharti alipe, lakini kama hana kitu, lazima auzwe ili alipe kwa ajili ya wizi wake.
@@ -2143,6 +2142,7 @@ kwa kuwa vazi lake ndilo pekee alilo nalo la kumfunika mwili wake. Ni nini kingi
 “Usimkufuru Mungu au kumlaani mtawala wa watu wako.
 “Usiache kutoa sadaka kutoka ghala lako au mapipa yako. “Lazima unipe mzaliwa wa kwanza wa wana wako.
 Ufanye vivyo hivyo kwa ngʼombe wako na kwa kondoo wako. Waache wakae na mama zao kwa siku saba, lakini siku ya nane unipe.
+“Ninyi mtakuwa watu wangu watakatifu. Kwa hiyo msile nyama ya mnyama aliyeraruliwa na wanyama pori; mtupieni mbwa.
 “Usieneze habari za uongo. Usimsaidie mtu mwovu kwa kuwa shahidi mwenye nia ya kudhuru wengine.
 “Usifuate umati wa watu katika kutenda mabaya. Unapotoa ushahidi kwenye mashtaka, usipotoshe haki ukijumuika na umati wa watu,
 nawe usimpendelee mtu maskini katika mashtaka yake.
@@ -2848,13 +2848,6 @@ Ni lazima alipe kwa yale aliyoshindwa kufanya kuhusu vitu vitakatifu, kwa kuonge
 “Kama mtu akifanya dhambi na kufanya yale yaliyokatazwa katika mojawapo ya amri za Bwana, hata ikiwa hajui, yeye ana hatia na anastahili adhabu.
 Atamletea kuhani kama sadaka ya hatia kondoo dume kutoka kundi lake, kondoo asiye na dosari na mwenye thamani halisi kifedha. Kwa njia hii kuhani atafanya upatanisho kwa ajili yake kwa kosa alilotenda bila kukusudia, naye atasamehewa.
 Hii ni sadaka ya hatia; amekuwa na hatia kwa kufanya kosa dhidi ya Bwana.”
-
-
-
-
-
-
-
 Bwana akamwambia Mose:
 “Kama mtu yeyote akitenda dhambi, naye si mwaminifu kwa Bwana kwa kumdanganya jirani yake kuhusu kitu fulani alichokabidhiwa, au kimeachwa chini ya utunzaji wake, au kimeibwa, au kama akimdanganya,
 au akiokota mali iliyopotea na akadanganya, au kuapa kwa uongo, au kama akitenda dhambi yoyote ambayo watu waweza kuitenda;
@@ -2878,6 +2871,13 @@ Tena Bwana akamwambia Mose,
 Iandae kwa mafuta kwenye kikaango; ilete ikiwa imechanganywa vizuri, na utoe hiyo sadaka ya nafaka ikiwa imevunjwa vipande vipande kuwa harufu nzuri ya kumpendeza Bwana.
 Mwanawe atakayeingia mahali pake kama kuhani aliyetiwa mafuta ndiye atakayeiandaa. Ni fungu la kawaida la Bwana, nalo litateketezwa kabisa.
 Kila sadaka ya nafaka ya kuhani itateketezwa kabisa; kamwe haitaliwa.”
+Bwana akamwambia Mose,
+“Mwambie Aroni na wanawe: ‘Haya ndiyo masharti kwa ajili ya sadaka ya dhambi: Sadaka ya dhambi itachinjiwa mbele za Bwana mahali sadaka ya kuteketezwa huchinjiwa, ni takatifu sana.
+Kuhani anayeitoa ndiye atakayeikula; itakuliwa katika mahali patakatifu, katika ua wa Hema la Kukutania.
+Chochote kitakachogusa nyama yoyote ya hiyo sadaka kitakuwa kitakatifu, na kama hiyo damu itadondokea juu ya vazi, lazima uifulie mahali patakatifu.
+Chungu cha udongo kitakachopikiwa nyama lazima kivunjwe, lakini kama imepikiwa kwenye chombo cha shaba, chombo hicho kitasuguliwa na kusuuzwa kwa maji.
+Kila mwanaume katika familia ya kuhani aweza kula nyama hiyo; ni takatifu sana.
+Lakini kila sadaka ya dhambi ambayo damu yake imeletwa ndani ya Hema la Kukutania kufanya upatanisho katika Mahali Patakatifu kamwe haitaliwa; lazima iteketezwe.
 “ ‘Haya ndiyo masharti kwa ajili ya sadaka ya hatia, ambayo ni takatifu sana:
 Sadaka ya hatia itachinjiwa mahali pale ambapo sadaka ya kuteketezwa huchinjiwa, nayo damu yake itanyunyizwa pande zote za madhabahu.
 Mafuta yake yote yatatolewa sadaka: mafuta ya mkia na mafuta yale yanayofunika sehemu za ndani,
@@ -4229,6 +4229,21 @@ Wakashuka chini kaburini wakiwa hai, pamoja na kila kitu walichokuwa nacho; nchi
 Kutoka kilio chao, Waisraeli wote waliowazunguka walikimbia, wakipaza sauti, “Nchi inatumeza na sisi pia!”
 Moto ukaja kutoka kwa Bwana, ukawateketeza wale watu 250 waliokuwa wakifukiza uvumba.
 Bwana akamwambia Mose,
+“Mwambie Eleazari mwana wa kuhani Aroni, atoe vyetezo kwenye mabaki ya moto na kutawanya makaa mbali kiasi, kwa maana vyetezo ni vitakatifu:
+vyetezo vya watu waliofanya dhambi iliyowagharimu maisha yao. Fua vyetezo hivyo kuwa bamba ili kufunika madhabahu, kwa maana vimeletwa mbele za Bwana na vimekuwa vitakatifu. Navyo viwe ishara kwa Waisraeli.”
+Hivyo kuhani Eleazari akavikusanya vile vyetezo vya shaba vilivyoletwa na wale waliokuwa wameteketezwa kwa moto, naye akavifua kufunika madhabahu,
+kama vile Bwana alivyomwelekeza kupitia Mose. Hili lilikuwa kuwakumbusha Waisraeli kwamba hakuna mtu hata mmoja, isipokuwa mzao wa Aroni, awezaye kuja kufukiza uvumba mbele za Bwana, la sivyo, angekuwa kama Kora na wafuasi wake.
+Siku iliyofuata jumuiya yote ya Kiisraeli wakanungʼunika dhidi ya Mose na Aroni, wakisema, “Mmewaua watu wa Bwana.”
+Lakini wakati kusanyiko lilipokusanyika kupingana na Mose na Aroni, nalo likageuka kuelekea Hema la Kukutania, ghafula wingu likafunika Hema, nao utukufu wa Bwana ukatokea.
+Ndipo Mose na Aroni wakaenda mbele ya Hema la Kukutania,
+naye Bwana akamwambia Mose,
+“Jitenge mbali na kusanyiko hili ili niweze kuwaangamiza mara moja.” Wakaanguka chini kifudifudi.
+Kisha Mose akamwambia Aroni, “Chukua chetezo chako na uweke uvumba ndani yake, pamoja na moto kutoka madhabahuni, nawe uende haraka kwenye kusanyiko ili kufanya upatanisho kwa ajili yao. Ghadhabu imekuja kutoka kwa Bwana, na tauni imeanza.”
+Hivyo Aroni akafanya kama Mose alivyosema, akakimbilia katikati ya kusanyiko. Tauni ilikuwa tayari imeanza miongoni mwa watu, lakini Aroni akafukiza uvumba na kufanya upatanisho kwa ajili yao.
+Aroni akasimama kati ya waliokuwa hai na waliokufa, nayo tauni ikakoma.
+Lakini walikufa watu 14,700 kutokana na tauni hiyo, licha ya wale waliokuwa wamekufa kwa sababu ya Kora.
+Ndipo Aroni akamrudia Mose kwenye mlango wa Hema la Kukutania, kwa maana tauni ilikuwa imekoma.
+Bwana akamwambia Mose,
 “Sema na Waisraeli, na ujipatie fimbo kumi na mbili kutoka kwao, moja kutoka kwa kila mmoja wa viongozi wa kabila za baba zao. Andika jina la kila mtu kwenye fimbo yake.
 Kwenye fimbo ya Lawi andika jina la Aroni, kwa maana ni lazima iwepo fimbo moja kwa kila kiongozi kwa ajili ya kila kabila la baba zao.
 Ziweke hizo fimbo ndani ya Hema la Kukutania mbele ya Sanduku la Ushuhuda, mahali nikutanapo nawe.
@@ -4241,21 +4256,6 @@ Bwana akamwambia Mose, “Rudisha fimbo ya Aroni mbele ya Sanduku la Ushuhuda, i
 Mose akafanya kama Bwana alivyomwamuru.
 Waisraeli wakamwambia Mose, “Tutakufa! Tumepotea, sote tumepotea!
 Yeyote akaribiaye Maskani ya Bwana atakufa. Je, sisi sote tutakufa?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Bwana akamwambia Aroni, “Wewe, wanao na jamaa ya baba yako mtawajibika kwa makosa dhidi ya mahali patakatifu, na wewe na wanao peke yenu ndio mtakaowajibika kwa makosa dhidi ya ukuhani.
 Walete Walawi wenzako kutoka kabila la baba zako ili waungane nanyi na kuwasaidia wakati wewe na wanao mnapohudumu mbele ya Hema la Ushuhuda.
 Watawajibika kwenu na watafanya kazi zote za Hema, lakini kamwe wasisogelee vifaa vya patakatifu au madhabahu, la sivyo wao na ninyi mtakufa.
@@ -4647,6 +4647,7 @@ Toeni sadaka ya kuteketezwa kama harufu nzuri inayompendeza Bwana, sadaka ya kut
 Pamoja na fahali, kondoo dume na wana-kondoo, andaeni sadaka zao za nafaka, na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
 Ongeza beberu mmoja kama sadaka ya dhambi, katika nyongeza ya sadaka ya kawaida ya kuteketezwa, na sadaka yake ya nafaka pamoja na sadaka ya kinywaji.
 “ ‘Zaidi ya kile unachoweka nadhiri na sadaka zenu za hiari, andaeni hizi kwa ajili ya Bwana kwenye sikukuu zenu zilizoamriwa: sadaka zenu za kuteketezwa, sadaka za nafaka, sadaka za vinywaji, pamoja na sadaka zenu za amani.’ ”
+Mose akawaambia Waisraeli yale yote Bwana alimwagiza.
 Mose akawaambia viongozi wa makabila ya Israeli: “Hili ndilo Bwana analoagiza:
 Mwanaume awekapo nadhiri kwa Bwana, au anapoapa kujifunga kwa ahadi, kamwe asitangue neno lake, bali ni lazima afanye kila kitu alichosema.
 “Wakati mwanamwali anayeishi bado nyumbani kwa baba yake atakapoweka nadhiri kwa Bwana, ama amejifunga mwenyewe kwa ahadi,
@@ -4663,7 +4664,6 @@ Mumewe anaweza kuthibitisha au kutangua nadhiri yoyote anayoweka, au ahadi yoyot
 Lakini ikiwa mumewe hasemi lolote kwake kuhusu jambo hilo siku baada ya siku, basi mumewe atakuwa amethibitisha nadhiri zote, na ahadi zote zinazomfunga mkewe. Anavithibitisha kwa kutokusema lolote kwa mkewe anapoyasikia hayo.
 Hata hivyo, ikiwa mumewe atavibatilisha baada ya kusikia hayo, basi atawajibika kwa hatia ya mkewe.”
 Haya ndiyo masharti ambayo Bwana alimpa Mose kuhusu mahusiano kati ya mtu na mkewe, na kati ya baba na binti yake ambaye bado anaishi nyumbani kwa baba yake.
-
 Bwana akamwambia Mose,
 “Uwalipize kisasi Wamidiani kwa ajili ya Waisraeli. Halafu baada ya hayo, utakufa.”
 Kwa hiyo Mose akawaambia watu, “Waandaeni baadhi ya wanaume wenu waende vitani kupigana na Wamidiani ili wawalipize kisasi cha Bwana.
@@ -5271,6 +5271,7 @@ Mwe waangalifu kutii masharti haya yote ninayowapa, ili kwamba siku zote mweze k
 Bwana Mungu wenu atayakatilia mbali mbele yenu mataifa ambayo punde kidogo mtayavamia na kuyaondoa. Lakini mtakapokuwa mmeyafukuza na kuishi katika nchi yao,
 na baada ya kuangamizwa mbele yenu, mwe waangalifu msijiingize katika tanzi kwa kuuliza habari za miungu yao, mkisema, “Je, mataifa haya hutumikiaje miungu yao? Nasi tutafanya vivyo hivyo.”
 Kamwe msimwabudu Bwana Mungu wenu kwa njia wanayoabudu miungu yao, kwa sababu katika kuabudu miungu yao, wanafanya aina zote za machukizo anayoyachukia Bwana. Hata huwateketeza wana wao na binti zao kwa moto kama kafara kwa miungu yao.
+Angalieni kwamba mnafanya yote niliyowaamuru; msiongeze kitu wala msipunguze kitu.
 Kama nabii, au yule anayetabiri kwa njia ya ndoto, akijitokeza miongoni mwenu na akawatangazia ishara ya miujiza na ajabu,
 ikiwa ishara au ajabu ya aliyozungumza ikatokea, naye akasema, “Na tufuate miungu mingine” (miungu ambayo hamjaifahamu) “na tuiabudu,”
 kamwe msiyasikilize maneno ya nabii wala mwota ndoto huyo. Bwana Mungu wenu anawajaribu kuangalia kama mnampenda kwa moyo wenu wote na kwa roho yenu yote.
@@ -5289,7 +5290,6 @@ kwa hakika ni lazima mwaue kwa upanga wale wote wanaoishi katika mji ule. Uharib
 Kusanyeni nyara zote za mji katika uwanja wa wazi na kuuchoma mji kabisa pamoja na nyara zake zote kama sadaka ya kuteketezwa kwa Bwana Mungu wenu. Utabaki kuwa magofu milele na hautajengwa tena.
 Hakuna kimoja kati ya vitu vilivyolaaniwa kitakachokutwa mikononi mwenu, ili Bwana ageuze hasira yake kali. Atawahurumia na kuwa na rehema kwenu pia kuongeza idadi yenu, kama alivyowaahidi baba zenu,
 kwa sababu mnamtii Bwana Mungu wenu, mkizishika amri zake zote zile ninazowapa leo na kufanya lile lililo jema machoni pake.
-
 Ninyi ni watoto wa Bwana Mungu wenu. Msijichanje ama kujinyoa upara kwenye paji la uso kwa ajili ya aliyekufa,
 kwa maana ninyi ni taifa takatifu kwa Bwana Mungu wenu. Bwana amewachagua ninyi kuwa taifa la kipekee kutoka mataifa yote juu ya uso wa dunia, mwe tunu yake.
 Msile kitu chochote ambacho ni machukizo.
@@ -5499,6 +5499,7 @@ Usimtendee msichana yule jambo lolote; hajafanya dhambi inayostahili kifo. Shaur
 kwa maana mwanaume huyo alimkuta msichana huko mashambani, na ingawa msichana aliyeposwa alipiga kelele, hapakuwa na mtu wa kumwokoa.
 Ikiwa itatokea mwanaume akutane na bikira ambaye hajaposwa na kumbaka nao wakakutwa,
 mwanaume atamlipa baba wa msichana shekeli hamsini za fedha. Ni lazima amwoe huyo msichana, kwa maana amemfanyia jeuri. Kamwe hawezi kumpa talaka siku zote za maisha yake.
+Mwanaume asimwoe mke wa baba yake; kamwe asidhalilishe kitanda cha baba yake.
 Asiingie mtu yeyote aliyehasiwa kwa kupondwa makende au kwa kukatwa uume wake katika kusanyiko la Bwana.
 Mtu yeyote ambaye amezaliwa kwenye ndoa isiyo halali au wazao wake wasiingie kwenye kusanyiko la Bwana, hata mpaka kizazi cha kumi.
 Hapatakuwa na Mwamoni au Mmoabu au yeyote wa wazao wao atakayeruhusiwa kuingia katika kusanyiko la Bwana, hata mpaka kizazi cha kumi.
@@ -5524,7 +5525,6 @@ Lakini ukijizuia kuweka nadhiri, hutakuwa na hatia.
 Chochote kitakachotamkwa kwa midomo yako ni lazima uhakikishe umekifanya, kwa sababu uliweka nadhiri yako kwa hiari mbele za Bwana Mungu wako kwa kinywa chako mwenyewe.
 Kama ukiingia katika shamba la mizabibu la jirani yako, unaweza kula zabibu kadiri utakavyo, lakini usiweke chochote kwenye kikapu chako.
 Kama ukiingia katika shamba la nafaka la jirani yako, unaweza kukwanyua kwa mikono yako, lakini usikate kwa mundu nafaka iliyosimama.
-
 Ikiwa mtu atamwoa mke na akamchukia kwa sababu ya kukosa adabu, naye akamwandikia hati ya talaka, akampa na kumfukuza kutoka nyumbani kwake,
 ikiwa baada ya kuondoka nyumbani kwake atakuwa mke wa mtu mwingine,
 ikiwa mume wake wa pili atachukizwa naye akamwandikia hati ya talaka, akampa na kumfukuza kutoka nyumbani kwake, au kama akifa,
@@ -5679,7 +5679,6 @@ Miongoni mwa mataifa hayo hamtapata raha wala mahali pa kupumzisha wayo wa mguu 
 Utaishi katika mahangaiko siku zote, ukiwa umejaa hofu usiku na mchana, wala hutakuwa kamwe na uhakika wa maisha yako.
 Wakati wa asubuhi utasema hivi, “Laiti ingekuwa jioni!” Jioni utasema, “Laiti ingekuwa asubuhi,” kwa sababu ya hofu ile itakayojaza moyo wako na vitu vile macho yako yatakavyoviona.
 Bwana atawarudisha tena Misri kwa meli, safari niliyosema kamwe hamngeenda tena. Huko mtajiuza ninyi wenyewe kwa adui zenu kama watumwa wa kiume na wa kike, lakini hakuna yeyote atakayewanunua.
-
 Haya ndiyo maneno ya Agano Bwana aliyomwagiza Mose kufanya na Waisraeli huko Moabu, kuwa nyongeza ya Agano alilofanya nao huko Horebu.
 Mose akawaita Waisraeli wote akawaambia: Macho yenu yameona yale yote Bwana aliyofanya kwa Mfalme Farao huko Misri, kwa maafisa wake wote na kwa nchi yake yote.
 Kwa macho yenu wenyewe mliona yale majaribu makubwa, ishara zile za miujiza na maajabu makubwa.
@@ -5708,6 +5707,7 @@ Na jibu litakuwa: “Ni kwa sababu watu hawa waliacha Agano la Bwana, Mungu wa b
 Walienda zao na kuabudu miungu mingine na kuisujudia, miungu wasioijua, miungu ambayo Mungu hakuwapa.
 Kwa hiyo hasira ya Bwana ikawaka dhidi ya nchi hii, hivyo Mungu akaleta juu yake laana zote zilizoandikwa katika kitabu hiki.
 Katika hasira kali na katika ghadhabu kuu Bwana aliwangʼoa kutoka nchi yao na kuwasukumia katika nchi nyingine, kama ilivyo sasa.”
+Mambo ya siri ni ya Bwana Mungu wetu, bali yaliyofunuliwa ni yetu na watoto wetu milele, ili tuweze kuyafanya maneno yote ya sheria hii.
 Wakati baraka hizi zote pamoja na laana nilizoziweka mbele yako zitakapokujia, nawe ukazitafakari moyoni popote Bwana Mungu wako atakapokutawanya miongoni mwa mataifa,
 hapo wewe na watoto wako mtakapomrudia Bwana Mungu wako, na kumtii kwa moyo wako wote na kwa roho yako yote kulingana na kila kitu ninachokuamuru leo,
 ndipo Bwana Mungu wako atakapokurudisha kutoka utumwani na kukuhurumia, naye atakukusanya tena kutoka mataifa yote kule alikutawanya.
@@ -7771,6 +7771,7 @@ Yonathani akampigia kelele, “Harakisha, nenda haraka! Usisimame!” Mvulana ak
 (Mvulana hakujua chochote juu ya hayo yote; Yonathani na Daudi tu ndio waliojua.)
 Basi Yonathani akampa yule mvulana silaha zake na kumwambia, “Nenda, zirudishe mjini.”
 Baada ya mvulana kwenda, Daudi akainuka kutoka upande wa kusini wa lile jiwe, naye akasujudu uso wake mpaka nchi mara tatu mbele ya Yonathani. Kisha kila mmoja akambusu mwenzake, wakalia pamoja. Lakini Daudi akalia zaidi.
+
 Yonathani akamwambia Daudi, “Nenda kwa amani, kwa kuwa tumeapiana kiapo cha urafiki kati yetu kwa jina la Bwana, tukisema, ‘Bwana ndiye shahidi kati yako na mimi, na kati ya wazao wako na wazao wangu milele.’ ” Kisha Daudi akaondoka, naye Yonathani akarudi mjini.
 Daudi akaenda Nobu, kwa Ahimeleki kuhani. Ahimeleki akatetemeka alipokutana naye, akamuuliza, “Kwa nini uko peke yako? Kwa nini hukufuatana na mtu yeyote?”
 Daudi akamjibu Ahimeleki kuhani, akisema, “Mfalme ameniagiza shughuli fulani na kuniambia, ‘Mtu yeyote asijue chochote kuhusu kazi yako wala maagizo yako!’ Kuhusu watu wangu, nimewaambia tukutane mahali fulani.
@@ -7787,7 +7788,6 @@ Daudi akayaweka maneno haya moyoni naye akamwogopa sana Akishi mfalme wa Gathi.
 Basi akajifanya mwendawazimu mbele yao; naye alipokuwa mikononi mwao, alitenda kama kichaa, akikwaruza kwa kutia alama juu ya milango ya lango na kuachia udelele kutiririka kwenye ndevu zake.
 Akishi akawaambia watumishi wake, “Tazameni mtu huyu! Ana wazimu! Kwa nini mnamleta kwangu?
 Je, mimi nimepungukiwa na wenda wazimu kiasi kwamba mmeniletea mtu huyo hapa aendelee kufanya hivi mbele yangu? Je, ilikuwa ni lazima mtu huyo aje nyumbani kwangu?”
-
 Daudi akaondoka Gathi na kukimbilia kwenye pango la Adulamu. Ndugu zake na watu wa nyumba ya baba yake waliposikia habari hiyo, wakamwendea huko.
 Wale wote waliokuwa katika dhiki au waliokuwa na madeni au wale ambao hawakuridhika wakamkusanyikia Daudi, naye akawa kiongozi wao. Watu wapatao 400 walikuwa pamoja naye.
 Kutoka huko Daudi akaenda Mispa huko Moabu na kumwambia mfalme wa Moabu, “Naomba uwaruhusu baba yangu na mama yangu waje kukaa nawe mpaka nijue nini Mungu atakachonifanyia.”
@@ -7839,6 +7839,7 @@ Sauli na watu wake wakaanza msako, naye Daudi alipoelezwa hili, akateremka mpaka
 Sauli alikuwa akienda upande mmoja wa mlima, naye Daudi na watu wake walikuwa upande mwingine wa mlima, wakiharakisha kumkimbia Sauli. Wakati Sauli na majeshi yake walipokaribia kumkamata Daudi na watu wake,
 mjumbe alikuja kwa Sauli, akisema, “Njoo haraka! Wafilisti wanaishambulia nchi.”
 Ndipo Sauli akarudi akaacha kumfuata Daudi na kwenda kukabiliana na Wafilisti. Ndiyo sababu wanaiita sehemu hii Sela-Hamalekothi.
+Naye Daudi akakwea kutoka huko na kuishi katika ngome za En-Gedi.
 Baada ya Sauli kurudi kuwafuatia Wafilisti, akaambiwa kwamba, “Daudi yuko katika Jangwa la En-Gedi.”
 Basi Sauli akachukua watu hodari 3,000 kutoka Israeli yote kwenda kumsaka Daudi na watu wake karibu na Majabali ya Mbuzi-Mwitu.
 Akaja mpaka kwenye mazizi ya kondoo kando ya njia, hapo palikuwa na pango, na Sauli akaingia ndani kujipumzisha. Daudi na watu wake walikuwa wamo mle pangoni kwa ndani zaidi.
@@ -7861,7 +7862,6 @@ Je, mtu ampatapo adui yake, humwacha aende zake bila kumdhuru? Bwana na akulipe 
 Ninajua kwamba hakika utakuwa mfalme na ya kwamba ufalme wa Israeli utakuwa imara mikononi mwako.
 Sasa niapie kwa Bwana kwamba hutakatilia mbali uzao wangu wala kulifuta jina langu kutoka jamaa ya baba yangu.”
 Basi Daudi akamwapia Sauli. Kisha Sauli akarudi zake nyumbani, lakini Daudi na watu wake wakapanda kwenda ngomeni.
-
 Basi Samweli akafa, nao Israeli wote wakakusanyika na kumwombolezea; wakamzika nyumbani kwake huko Rama. Kisha Daudi akateremka kwenye Jangwa la Maoni.
 Mtu mmoja huko Maoni, aliyekuwa na makao huko Karmeli, alikuwa tajiri sana. Alikuwa na mbuzi elfu moja na kondoo elfu tatu, aliokuwa akiwakata manyoya huko Karmeli.
 Jina la mtu huyo lilikuwa Nabali, naye mkewe aliitwa Abigaili. Alikuwa mwanamke mwenye busara na mzuri wa sura, lakini mumewe, ambaye alikuwa wa ukoo wa Kalebu, alikuwa mwenye hasira na mchoyo katika utendaji wake.
@@ -8511,6 +8511,7 @@ Mfalme akauliza, “Je, huyo kijana Absalomu yuko salama?” Ahimaasi akajibu, �
 Mfalme akasema, “Simama kando na usubiri hapa.” Basi akasogea kando na kusimama hapo.
 Ndipo huyo Mkushi akawasili na kusema, “Mfalme bwana wangu, sikia habari njema! Leo Bwana amekuokoa kutoka kwa wale wote walioinuka dhidi yako.”
 Mfalme akamuuliza huyo Mkushi, “Je, kijana Absalomu yuko salama?” Huyo Mkushi akajibu, “Adui wa mfalme bwana wangu na wote wale walioinuka kukudhuru na wawe kama huyo kijana.”
+Mfalme akatetemeka. Akapanda chumbani juu kupitia langoni akilia. Alipokuwa akienda, akasema, “Ee mwanangu Absalomu! Mwanangu, mwanangu Absalomu! Laiti ningekufa badala yako: Ee Absalomu, mwanangu, mwanangu!”
 Yoabu akaambiwa, “Mfalme analia na kumwombolezea Absalomu.”
 Kwa jeshi lote, ushindi wa siku ile ukageuka kuwa maombolezo, kwa sababu siku ile vikosi vilisikia ikisemwa, “Mfalme anahuzunika kwa ajili ya mwanawe.”
 Siku ile watu wakaingia mjini kimya kama vile waingiavyo kwa aibu watu waliokimbia kutoka vitani.
@@ -8554,7 +8555,6 @@ Mfalme alipovuka kwenda Gilgali, Kimhamu akavuka pamoja naye. Vikosi vyote vya Y
 Baada ya kitambo kidogo watu wote wa Israeli wakaja kwa mfalme na kumwambia, “Kwa nini ndugu zetu, watu wa Yuda, wamemrudisha mfalme kwa siri bila kutushirikisha, na kumvusha ngʼambo ya Yordani, yeye na nyumba yake, pamoja na watu wake wote?”
 Watu wote wa Yuda wakawajibu watu wa Israeli, “Tulifanya hivi kwa sababu mfalme ni jamaa yetu wa karibu. Kwa nini mnakasirikia jambo hili? Je, tumekula kitu chochote cha mfalme? Je, tumejichukulia kitu chochote kwa ajili yetu wenyewe?”
 Ndipo watu wa Israeli wakawajibu watu wa Yuda, “Tunayo haki mara kumi kwa mfalme; sisi tunahusika zaidi na Daudi kuliko ninyi. Kwa nini basi mnatudharau? Je, hatukuwa wa kwanza kuzungumza kuhusu kumrudisha mfalme nyumbani?” Lakini watu wa Yuda wakajibu kwa ukali hata zaidi kuliko watu wa Israeli.
-
 Basi, kulikuwa na mtu mbaya sana aliyeitwa Sheba mwana wa Bikri, Mbenyamini, aliyekuwako huko. Akapiga tarumbeta na kupaza sauti, “Hatuna fungu katika Daudi, wala hatuna sehemu katika mwana wa Yese! Kila mtu aende hemani mwake, enyi Israeli!”
 Kwa hiyo watu wote wa Israeli wakamwacha Daudi na kumfuata Sheba mwana Bikri. Lakini watu wa Yuda wakawa karibu na mfalme wao katika safari yote kutoka Yordani mpaka Yerusalemu.
 Daudi aliporudi katika jumba lake la kifalme huko Yerusalemu, aliwachukua wale masuria kumi aliokuwa amewaacha ili kuangalia jumba la kifalme na kuwaweka ndani ya nyumba chini ya ulinzi. Akawapa mahitaji yao lakini hakukutana nao kimwili. Waliwekwa kifungoni wakaishi kama wajane mpaka kifo chao.
@@ -8865,6 +8865,20 @@ Yehoshafati mwana wa Parua: katika Isakari;
 Shimei mwana wa Ela: katika Benyamini;
 Geberi mwana wa Uri: katika Gileadi (nchi ya Sihoni mfalme wa Waamori na nchi ya Ogu mfalme wa Bashani). Naye alikuwa ndiye mtawala pekee katika eneo hilo.
 Watu wa Yuda na Israeli walikuwa wengi kama mchanga wa pwani; walikula, wakanywa na kufurahi.
+Mfalme Solomoni akatawala katika falme zote kuanzia Mto Frati hadi nchi ya Wafilisti, hadi kwenye mpaka wa Misri. Nchi hizi zilileta ushuru na zilikuwa chini ya Solomoni, siku zote za maisha yake.
+Mahitaji ya Solomoni ya kila siku yalikuwa kori thelathini za unga laini, kori sitini za unga wa kawaida.
+Ngʼombe kumi wa zizini, ngʼombe ishirini wa malisho, kondoo na mbuzi mia moja, pamoja na ayala, paa, kulungu na kuku wazuri sana.
+Kwa kuwa Solomoni alitawala falme zote magharibi ya mto, kuanzia Tifsa hadi Gaza, naye akawa na amani pande zote.
+Wakati wa maisha ya Solomoni Yuda na Israeli, kuanzia Dani mpaka Beer-Sheba, wakaishi salama kila mtu chini ya mzabibu wake na chini ya mtini wake.
+Solomoni alikuwa na mabanda 4,000 ya magari ya vita, na farasi 12,000.
+Maafisa wa eneo hilo, kila mmoja katika mwezi wake, walileta mahitaji kwa ajili ya Mfalme Solomoni na wote waliokula mezani mwa mfalme. Walihakikisha kuwa hakuna chochote kilichopungua.
+Pia walileta sehemu walizopangiwa za shayiri na majani kwa ajili ya farasi wavutao magari na farasi wengine mahali palipostahili.
+Mungu akampa Solomoni hekima na akili kubwa, pia ufahamu mpana usiopimika kama mchanga ulioko pwani ya bahari.
+Hekima ya Solomoni ilikuwa kubwa kuliko hekima ya watu wote wa Mashariki na kubwa kuliko hekima yote ya Misri.
+Alikuwa na hekima kuliko kila mwandishi, akiwemo Ethani Mwezrahi: kuliko Hemani, Kalkoli na Darda, wana wa Maholi. Umaarufu wake ukaenea kwa mataifa yote yaliyomzunguka.
+Akanena mithali 3,000 na nyimbo zake zilikuwa 1,005.
+Akaelezea maisha ya mimea kuanzia mwerezi wa Lebanoni hadi hisopo iotayo ukutani. Pia akafundisha kuhusu wanyama na ndege, wanyama wenye damu baridi, wakiwemo samaki.
+Watu wa mataifa yote wakaja kusikiliza hekima ya Solomoni, waliotumwa na wafalme wote wa ulimwengu, waliokuwa wamesikia juu ya hekima yake.
 Hiramu mfalme wa Tiro aliposikia kuwa Solomoni ametiwa mafuta awe mfalme mahali pa Daudi baba yake, akatuma wajumbe kwa Solomoni, kwa sababu Hiramu siku zote alikuwa na uhusiano mzuri wa kirafiki na Daudi.
 Solomoni akapeleka ujumbe huu kwa Hiramu:
 “Unajua kwamba kwa sababu ya vita vilivyopiganwa dhidi ya baba yangu Daudi kutoka pande zote, hakuweza kujenga Hekalu kwa ajili ya Jina la Bwana Mungu wake, hadi Bwana alipowaweka adui zake chini ya miguu yake.
@@ -8883,20 +8897,6 @@ Solomoni alikuwa na wachukuzi wa mizigo 70,000 na wachonga mawe 80,000 huko vili
 pamoja na wasimamizi 3,300 ambao walisimamia kazi hiyo na kuwaongoza wafanyakazi.
 Kwa amri ya mfalme walitoa kwenye machimbo ya mawe, mawe makubwa, yaliyo bora kwa kujengea msingi wa nyumba yaliyochongwa kwa ajili ya Hekalu.
 Mafundi wa Solomoni, wa Hiramu na watu wa Gebali walikata na kuandaa mbao na mawe kwa ajili ya ujenzi wa Hekalu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Katika mwaka wa 480 baada ya Waisraeli kutoka nchi ya Misri, katika mwaka wa nne wa utawala wa Solomoni katika Israeli, katika mwezi wa Zivu, ambao ndio mwezi wa pili, alianza kujenga Hekalu la Bwana.
 Hekalu hilo Mfalme Solomoni alilojenga kwa ajili ya Bwana lilikuwa na urefu wa dhiraa sitini, upana wa dhiraa ishirini na kimo cha dhiraa thelathini kwenda juu.
 Baraza ya mbele ya Hekalu ilienea dhiraa ishirini kulingana na upana wa Hekalu na kujitokeza dhiraa kumi mbele ya Hekalu.
@@ -9523,6 +9523,7 @@ Kwa matukio mengine ya utawala wa Ahabu, pamoja na yote aliyoyafanya, jumba la k
 Ahabu akalala pamoja na baba zake. Naye Ahazia mwanawe akawa mfalme baada yake.
 Yehoshafati mwana wa Asa akawa mfalme wa Yuda katika mwaka wa nne wa Ahabu mfalme wa Israeli.
 Yehoshafati alikuwa na umri wa miaka thelathini na mitano alipoanza kutawala, naye akatawala huko Yerusalemu miaka ishirini na mitano. Jina la mama yake aliitwa Azuba binti Shilhi.
+
 Katika kila jambo alitembea katika njia za Asa baba yake wala hakwenda kinyume chake. Alifanya yaliyo mema machoni pa Bwana. Hata hivyo mahali pa juu pa kuabudia hapakuondolewa. Watu waliendelea kutoa kafara na kufukiza uvumba huko.
 Yehoshafati pia alikuwa na amani na mfalme wa Israeli.
 Kwa habari ya matukio mengine ya utawala wa Yehoshafati, mafanikio aliyokuwa nayo na uhodari wake katika vita, je, hayakuandikwa katika kitabu cha kumbukumbu za wafalme wa Yuda?
@@ -9534,7 +9535,6 @@ Kisha Yehoshafati akalala na baba zake, akazikwa pamoja nao katika mji wa Daudi 
 Ahazia mwana wa Ahabu akawa mfalme wa Israeli huko Samaria katika mwaka wa kumi na saba wa Yehoshafati mfalme wa Yuda, naye alitawala katika Israeli kwa miaka miwili.
 Akafanya maovu machoni mwa Bwana kwa sababu alienenda katika njia za baba yake na mama yake na katika njia za Yeroboamu mwana wa Nebati, ambaye alisababisha Israeli itende dhambi.
 Alimtumikia na kumwabudu Baali na kumghadhibisha Bwana, Mungu wa Israeli, kama vile baba yake alivyokuwa amefanya.
-
 Baada ya kifo cha Mfalme Ahabu, nchi ya Moabu iliasi dhidi ya Israeli.
 Basi Ahazia alikuwa ameanguka huko Samaria kutoka baraza ya chumba chake cha juu, akaumia. Hivyo akatuma wajumbe, akiwaambia, “Nendeni mkaulize kwa Baal-Zebubu, mungu wa Ekroni, mkaone kama nitapona kutokana na kuumia huku.”
 Lakini malaika wa Bwana akamwambia Eliya, Mtishbi, “Panda ukakutane na wajumbe wa mfalme wa Samaria, uwaulize, ‘Je, ni kwa sababu hakuna Mungu katika Israeli ndiyo maana mnakwenda kumuuliza Baal-Zebubu, mungu wa Ekroni?’
@@ -9851,6 +9851,7 @@ Kisha Yehoyada akafanya agano kati ya Bwana na mfalme na watu kwamba watakuwa wa
 Watu wote wa nchi wakaenda kwenye hekalu la Baali na kulibomoa. Wakavunjavunja madhabahu na sanamu, na kumuua Matani kuhani wa Baali mbele ya hayo madhabahu. Kisha Yehoyada kuhani akawaweka walinzi kwenye Hekalu la Bwana.
 Pamoja naye akawachukua majemadari wa mamia, Wakari, walinzi na watu wote wa nchi, nao kwa pamoja wakamteremsha mfalme kutoka Hekalu la Bwana na kwenda kwenye jumba la mfalme, wakiingilia njia ya lango la walinzi. Ndipo mfalme akachukua nafasi yake kwenye kiti cha enzi,
 nao watu wote wa nchi wakafurahi. Mji ukatulia, kwa sababu Athalia alikuwa ameuawa kwa upanga nyumbani kwa mfalme.
+Yoashi alikuwa na umri wa miaka saba alipoanza kutawala.
 Katika mwaka wa saba wa utawala wa Yehu, Yoashi alianza kutawala, naye akatawala huko Yerusalemu miaka arobaini. Jina la mama yake aliitwa Sibia, kutoka Beer-Sheba.
 Yoashi akafanya yaliyo mema machoni pa Bwana miaka yote ambayo Yehoyada kuhani alikuwa akimwelekeza.
 Hata hivyo mahali pa juu pa kuabudia hapakuondolewa. Watu waliendelea kutoa kafara na kufukiza uvumba huko.
@@ -9872,7 +9873,6 @@ Lakini Yoashi mfalme wa Yuda akavichukua vyombo vyote vitakatifu vilivyowekwa wa
 Kwa matukio mengine ya utawala wa Yoashi na yote aliyoyafanya, je, hayakuandikwa katika kitabu cha kumbukumbu za wafalme wa Yuda?
 Maafisa wake wakafanya shauri baya dhidi yake, nao wakamuulia Yoashi huko Beth-Milo, kwenye barabara iteremkayo kuelekea Sila.
 Maafisa waliomuua walikuwa Yozabadi mwana wa Shimeathi, na Yehozabadi mwana wa Shomeri. Akafa na akazikwa pamoja na baba zake katika Mji wa Daudi. Naye Amazia mwanawe akawa mfalme baada yake.
-
 Katika mwaka wa ishirini na tatu wa utawala wa Yoashi mwana wa Ahazia mfalme wa Yuda, Yehoahazi mwana wa Yehu alianza kutawala Israeli katika Samaria, naye akatawala miaka kumi na saba.
 Akafanya maovu machoni pa Bwana kwa kufuata dhambi za Yeroboamu mwana wa Nebati, ambazo alikuwa amesababisha Israeli kuzitenda, na wala hakuziacha.
 Kwa hiyo hasira ya Bwana ikawaka dhidi ya Israeli na kwa muda mrefu akawaweka chini ya utawala wa Hazaeli mfalme wa Aramu, na Ben-Hadadi mwanawe.
@@ -10456,21 +10456,6 @@ Idadi ya nusu ya kabila la Manase walikuwa wengi sana, Wakakaa kuanzia Bashani h
 Hawa ndio waliokuwa viongozi wa jamaa za kabila hilo: Eferi, Ishi, Elieli, Azrieli, Yeremia, Hodavia na Yahdieli. Walikuwa askari shujaa watu maarufu, viongozi wa jamaa zao.
 Lakini hawakuwa waaminifu kwa Mungu wa baba zao, nao wakafanya ukahaba kwa miungu ya mataifa, ambayo Mungu alikuwa ameyaangamiza mbele yao.
 Kwa hiyo Mungu wa Israeli akaiamsha roho ya Pulu, mfalme wa Ashuru (ambaye pia alijulikana kama Tiglath-Pileseri), ambaye aliwachukua Wareubeni, Wagadi na nusu ya kabila la Manase kwenda uhamishoni. Akawapeleka huko Hala, Habori, Hara na mto Gozani, ambako wamekaa mpaka leo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wana wa Lawi walikuwa: Gershoni, Kohathi na Merari.
 Wana wa Kohathi walikuwa: Amramu, Ishari, Hebroni na Uzieli.
 Amramu alikuwa na wana: Aroni, Mose, na Miriamu. Aroni alikuwa na wana: Nadabu, Abihu, Eleazari na Ithamari.
@@ -10537,6 +10522,21 @@ Wazao wa Merari, ukoo kwa ukoo walipewa miji kumi na miwili kutoka makabila ya R
 Kwa hiyo Waisraeli waliwapa Walawi miji hii pamoja na maeneo yake ya malisho.
 Kutoka makabila ya Yuda, Simeoni na Benyamini walipewa miji iliyotajwa hapo juu.
 Baadhi ya koo za Wakohathi walipewa kama nchi yao miji kutoka kabila la Efraimu.
+Katika nchi ya vilima ya Efraimu walipewa Shekemu (mji wa makimbilio) na Gezeri,
+Yokmeamu, Beth-Horoni,
+Aiyaloni na Gath-Rimoni, pamoja na maeneo yake ya malisho.
+Kutoka nusu ya kabila la Manase, Waisraeli waliwapa koo za Wakohathi waliobaki miji ya Aneri na Bileamu pamoja na maeneo yake ya malisho.
+Wagershoni walipokea miji ifuatayo pamoja na maeneo yake ya malisho: Katika nusu ya kabila la Manase: walipewa Golani katika Bashani na pia Ashtarothi.
+Kutoka kabila la Isakari walipokea Kedeshi, Daberathi,
+Ramothi na Anemu, pamoja na maeneo yake ya malisho.
+Kutoka kabila la Asheri walipokea Mashali, Abdoni,
+Hukoki na Rehobu, pamoja na maeneo yake ya malisho.
+Kutoka kabila la Naftali walipokea Kedeshi katika Galilaya, Hamoni na Kiriathaimu pamoja na maeneo yake ya malisho.
+Wamerari (Walawi waliobakia) walipokea miji ifuatayo: kutoka kabila la Zabuloni walipokea Yokneamu, Karta, Rimoni na Tabori pamoja na maeneo yake ya malisho.
+Kutoka kabila la Reubeni, ngʼambo ya Yordani mashariki mwa Yeriko walipokea Bezeri ulioko jangwani, Yahasa,
+Kedemothi na Mefaathi pamoja na maeneo yake ya malisho.
+Na kutoka kabila la Gadi walipokea Ramothi huko Gileadi, Mahanaimu,
+Heshboni na Yazeri, pamoja na maeneo yake ya malisho.
 Wana wa Isakari walikuwa: Tola, Pua, Yashubu na Shimroni; wote ni wanne.
 Wana wa Tola walikuwa: Uzi, Refaya, Yerieli, Yahmai, Ibsamu na Shemueli waliokuwa viongozi wa jamaa zao. Wakati wa utawala wa Mfalme Daudi, wazao wa Tola walioorodheshwa kama wapiganaji katika ukoo wao walikuwa watu 22,600.
 Mwana wa Uzi alikuwa: Izrahia. Wana wa Izrahia walikuwa: Mikaeli, Obadia, Yoeli na Ishia. Wote hawa watano walikuwa wakuu wao.
@@ -10725,6 +10725,7 @@ Elieli, na Obedi na Yaasieli Mmesobai.
 Hawa ndio watu waliomjia Daudi huko Siklagi, wakati alikuwa amefukuzwa mbele ya Sauli mwana wa Kishi (walikuwa miongoni mwa mashujaa waliomsaidia Daudi vitani,
 walikuwa na pinde na walikuwa na uwezo wa kupiga mishale au kutupa mawe kwa kombeo wakitumia mkono wa kushoto au wa kulia; hawa walikuwa ndugu zake Sauli kutoka kabila la Benyamini):
 Mkuu wao alikuwa Ahiezeri, na wa pili Yoashi, wote wana wa Shemaa Mgibeathi; pia Yezieli na Peleti wana wa Azmawethi; Beraka, Yehu Mwanathothi,
+
 na Ishmaya Mgibeoni, shujaa miongoni mwa wale Thelathini, ambaye alikuwa kiongozi wa wale Thelathini; Yeremia, Yahazieli, Yohanani, Yozabadi, Mgederathi,
 Eluzai, Yeremothi, Bealia, Shemaria, Shefatia, Mharufi;
 Elikana, Ishia, Azareli, Yoezeri na Yashobeamu, wana wa Kora;
@@ -10762,7 +10763,6 @@ Na pia watu kutoka mashariki ya Yordani, watu wa Reubeni, Gadi na nusu ya kabila
 Wote hawa walikuwa watu wapiganaji waliojitolea kutumika katika safu zao. Walikuja Hebroni wakiwa wameamua kikamilifu kumfanya Daudi mfalme juu ya Israeli yote. Waisraeli wengine wote walikuwa pia na nia hiyo moja ya kumfanya Daudi kuwa mfalme.
 Watu hawa wakakaa huko na Daudi siku tatu, wakila na kunywa, kwa sababu jamaa zao zilikuwa zimewapatia mahitaji yao.
 Pia, majirani zao hata wale walio mbali hadi Isakari, Zabuloni na Naftali, walikuja wakiwaletea vyakula walivyovibeba kwa punda, ngamia, nyumbu na maksai. Kulikuwepo na wingi wa unga, maandazi ya tini, maandazi ya zabibu kavu, divai, mafuta, ngʼombe na kondoo, kwa maana kulikuwa na furaha katika Israeli.
-
 Daudi alishauriana na kila afisa wake, majemadari wa maelfu na majemadari wa mamia.
 Ndipo Daudi akaliambia kusanyiko lote la Israeli, “Kama mkiona ni vyema, na kama ni mapenzi ya Bwana Mungu wetu, tupeleke ujumbe kwa ndugu zetu wengine walio mbali na walio karibu katika nchi yote ya Israeli, pia kwa makuhani na Walawi walio pamoja nao katika miji yao na katika sehemu zao za malisho yao, waje waungane na sisi.
 Sisi na tulirudishe Sanduku la Mungu wetu kwetu kwa maana hatukujali wakati wa utawala wa Sauli.”
@@ -11214,7 +11214,6 @@ Solomoni akakusanya magari ya vita na farasi. Alikuwa na magari 1,400 na farasi 
 Mfalme akafanya fedha na dhahabu kuwa vitu vya kawaida kama mawe huko Yerusalemu, mierezi akaifanya kuwa mingi kama mikuyu vilimani.
 Farasi wa Solomoni waliletwa kutoka Misri na kutoka Kue. Wafanyabiashara wa mfalme waliwanunua kutoka Kue.
 Waliagiza magari kutoka Misri kwa bei ya shekeli 600 za fedha, na farasi kwa shekeli 150. Pia waliwauza nje kwa wafalme wote wa Wahiti na wa Waaramu.
-
 Solomoni akatoa amri kujenga Hekalu kwa ajili ya Jina la Bwana na jumba la kifalme kwa ajili yake mwenyewe.
 Solomoni akaandika watu 70,000 kuwa wachukuzi wa mizigo, na watu 80,000 kuwa wachonga mawe vilimani, na watu 3,600 kuwa wasimamizi wao.
 Solomoni akapeleka ujumbe huu kwa Mfalme Hiramu wa Tiro: “Unitumie magogo ya mierezi kama ulivyomfanyia baba yangu Daudi wakati ulipompelekea mierezi ya kujenga jumba lake la kifalme la kuishi.
@@ -11232,6 +11231,7 @@ ambaye mama yake alitoka Dani na baba yake alitoka Tiro. Yeye ni stadi wa kuteng
 “Sasa basi bwana wangu na awapelekee watumishi wake ngano, shayiri, mafuta ya zeituni na mvinyo kama alivyoahidi,
 nasi tutakata magogo yote yale unayohitaji kutoka Lebanoni nasi tutayafunga pamoja na kuyaweka yaelee baharini mpaka Yafa. Kisha utaweza kuyachukua mpaka Yerusalemu.”
 Ndipo Solomoni akaamuru ifanyike hesabu ya wageni wote waliokuwa katika Israeli, baada ya ile hesabu iliyofanywa na Daudi; wakapatikana watu 153,600.
+Akawaweka watu 70,000 miongoni mwao kuwa wachukuzi wa mizigo, na 80,000 kuwa wachonga mawe vilimani, na 3,600 wakiwa wasimamizi juu yao ili wawahimize watu kufanya kazi.
 Ndipo Solomoni akaanza kujenga Hekalu la Bwana katika Yerusalemu juu ya Mlima Moria, pale ambapo Bwana alikuwa amemtokea Daudi baba yake. Ilikuwa katika kiwanja cha kupuria cha Arauna, Myebusi, mahali palipotolewa na Daudi.
 Alianza kujenga siku ya pili ya mwezi wa pili katika mwaka wa nne wa utawala wake.
 Msingi aliouweka Solomoni kwa ajili ya kulijenga Hekalu la Mungu ulikuwa urefu wa dhiraa sitini na upana dhiraa ishirini.
@@ -11478,7 +11478,6 @@ Abiya akamfuatia Yeroboamu na kuteka miji ya Betheli, Yeshana na Efroni kutoka k
 Yeroboamu hakupata nguvu tena wakati wa utawala wa Abiya. Naye Bwana akampiga Yeroboamu akafa.
 Lakini Abiya akapata nguvu. Alioa wanawake kumi na wanne na alikuwa na wana ishirini na wawili na binti kumi na sita.
 Matukio mengine ya utawala wa Abiya, pamoja na mambo aliyofanya na aliyosema, yameandikwa katika kitabu cha maelezo cha nabii Ido.
-
 Naye Abiya akalala na baba zake, akazikwa katika Mji wa Daudi. Asa mwanawe akawa mfalme baada yake. Katika siku zake, nchi ikawa na amani kwa miaka kumi.
 Asa akatenda yaliyo mema na haki machoni pa Bwana Mungu wake.
 Akaziondoa madhabahu za kigeni na mahali pa juu pa kuabudia miungu, akayavunja yale mawe ya kuabudiwa na kuzikatakata nguzo za Maashera.
@@ -11493,6 +11492,7 @@ Kisha Asa akamlilia Bwana Mungu wake na kusema, “Ee Bwana, hakuna yeyote aliye
 Bwana akawapiga Wakushi mbele ya Asa na Yuda. Wakushi wakakimbia,
 naye Asa na jeshi lake wakawafuatia mpaka Gerari. Idadi kubwa ya Wakushi ilianguka hata wasiweze kuinuka tena, wakapondapondwa mbele za Bwana na majeshi yake.
 Watu wa Yuda wakachukua nyara nyingi sana, wakaangamiza vijiji vyote vinavyoizunguka Gerari, kwa kuwa hofu ya Bwana ilikuwa imewaangukia. Wakateka nyara vijiji hivi vyote, kwani kulikuwepo nyara nyingi huko.
+Pia wakashambulia kambi za wachunga makundi ya wanyama wakachukua na kuyaswaga makundi ya kondoo, mbuzi na ngamia. Kisha wakarudi Yerusalemu.
 Roho wa Bwana akamjia Azaria mwana wa Odedi.
 Akatoka ili kumlaki Asa na kumwambia, “Nisikilizeni, Asa na Yuda wote na Benyamini. Bwana yu pamoja nanyi mkiwa pamoja naye. Kama mkimtafuta, ataonekana kwenu, lakini kama mkimwacha yeye, naye atawaacha ninyi.
 Kwa muda mrefu Israeli walikuwa hawana Mungu wa kweli, walikuwa hawana kuhani wa kuwafundisha na wala hawakuwa na sheria.
@@ -12362,12 +12362,6 @@ Baada yao, Sadoki mwana wa Imeri alifanya ukarabati mkabala na nyumba yake. Baad
 Baada yake, Hanania mwana wa Shelemia, na Hanuni mwana wa sita wa Salafu walikarabati sehemu nyingine. Baada yao, Meshulamu mwana wa Berekia alikarabati sehemu iliyokuwa mkabala na nyumba zake za kuishi.
 Baada yake Malkiya, mmoja wa masonara, alifanya ukarabati mpaka kwenye nyumba za watumishi wa Hekalu na wafanyabiashara, mkabala na Lango la Ukaguzi, hadi kufikia chumba kilicho juu ya pembe.
 Masonara na wafanyabiashara walifanya ukarabati kutoka chumba kilichoko juu ya pembe hadi Lango la Kondoo.
-
-
-
-
-
-
 Sanbalati aliposikia kwamba tulikuwa tunajenga ukuta upya, alikasirika na akawa na uchungu sana. Aliwadhihaki Wayahudi
 mbele ya rafiki zake na jeshi la Samaria, akisema, “Hawa Wayahudi wanyonge wanafanya nini? Je, wataweza kuurudishia ukuta wao? Je, watatoa dhabihu? Je, wataweza kumaliza kuujenga kwa siku moja? Je, wataweza kufufua mawe kutoka malundo ya vifusi yaliyoungua hivyo?”
 Tobia Mwamoni aliyekuwa upande wake akasema, “Wanachokijenga, hata kama mbweha angepanda juu yake, huo ukuta wao wa mawe angeliubomoa!”
@@ -12385,6 +12379,12 @@ Baada ya kuona hali ilivyo, nikasimama na kuwaambia wakuu, maafisa na wengine wo
 Adui zetu waliposikia kwamba tumetambua hila yao, na kwamba Mungu amevuruga shauri lao, sote tulirudi kwenye ukuta, kila mmoja kwenye kazi yake.
 Kuanzia siku ile na kuendelea, nusu ya watu wangu walifanya kazi ya ujenzi, na nusu nyingine wakashika mikuki, ngao, pinde na dirii. Maafisa walijipanga nyuma ya watu wote wa Yuda
 waliokuwa wakijenga ukuta. Wale waliobeba vifaa vya ujenzi walifanya kazi yao kwa mkono mmoja, na kushika silaha kwa mkono mwingine,
+na kila mjenzi alijifunga upanga wake upande mmoja akiwa anafanya kazi. Lakini mtu wa kupiga baragumu alikaa pamoja nami.
+Kisha nikawaambia wakuu, maafisa na watu wengine wote, “Kazi hii ni kubwa na imeenea sehemu kubwa, nasi tumetawanyika kila mmoja akiwa mbali na mwenzake juu ya ukuta.
+Popote mtakaposikia sauti ya baragumu, jiungeni nasi huko. Mungu wetu atatupigania!”
+Basi tuliendelea na kazi, nusu ya watu wakishikilia mikuki, kuanzia mawio ya jua hadi nyota zilipoonekana.
+Wakati huo pia niliwaambia watu, “Kila mtu na msaidizi wake wakae ndani ya Yerusalemu wakati wa usiku, ili waweze kutumika kama walinzi wakati wa usiku, na kufanya kazi wakati wa mchana.”
+Mimi, wala ndugu zangu, wala watu wangu, wala walinzi waliokuwa pamoja nami hatukuvua nguo zetu. Kila mmoja alikuwa na silaha yake, hata alipokwenda kuchota maji.
 Wakati huu wanaume na wake zao wakalia kilio kikuu dhidi ya ndugu zao Wayahudi.
 Baadhi yao walikuwa wakisema, “Sisi na wana wetu na binti zetu tuko wengi. Ili tuweze kula na kuishi, ni lazima tupate nafaka.”
 Wengine walikuwa wakisema, “Tunaweka rehani mashamba yetu, mashamba ya mizabibu, na nyumba zetu ili tupate nafaka wakati wa njaa.”
@@ -12490,11 +12490,11 @@ Hawa walitafuta orodha za jamaa zao, lakini hawakuonekana humo, kwa hiyo waliond
 Kwa hiyo, mtawala aliagiza kuwa wasile chochote miongoni mwa vyakula vitakatifu hadi kuwe kuhani atakayehudumu kwa Urimu na Thumimu.
 Jumla ya watu wote waliorudi walikuwa 42,360;
 tena zaidi ya hao walikuwepo watumishi wa kiume na wa kike 7,337; pia walikuwamo waimbaji wanaume na wanawake 245.
-Walikuwa na farasi 736, nyumbu 245
-ngamia 435 na punda 6,720.
+Walikuwa na farasi 736, nyumbu 245 ngamia 435 na punda 6,720.
 Baadhi ya viongozi wa jamaa walichangia kazi ya ujenzi. Mtawala alikabidhi kwenye hazina darkoni 1,000 za dhahabu, mabakuli 50, na mavazi 530 kwa ajili ya makuhani.
 Baadhi ya viongozi wa jamaa walikabidhi kwenye hazina darkoni 20,000 za dhahabu, na mane 2,200 za fedha kwa ajili ya kazi hiyo.
 Jumla ya matoleo ya watu wengine yalikuwa ni darkoni 20,000 za dhahabu, mane 2,000 za fedha, na mavazi sitini na saba ya makuhani.
+Makuhani, Walawi, mabawabu, waimbaji na watumishi wa Hekalu, pamoja na baadhi ya watu wengine na Waisraeli waliosalia waliishi katika miji yao wenyewe. Ilipotimia miezi saba, nao Waisraeli wakiwa tayari wanaishi katika miji yao,
 watu wote wakakusanyika kama mtu mmoja kwenye uwanja mbele ya Lango la Maji. Wakamwambia Ezra mwandishi alete Kitabu cha Sheria ya Mose, ambacho Bwana aliamuru kwa ajili ya Israeli.
 Basi katika siku ya kwanza ya mwezi wa saba, kuhani Ezra akaleta Sheria mbele ya kusanyiko, ambamo walikuwamo wanaume, wanawake na watu wote walioweza kufahamu.
 Akaisoma kwa sauti kubwa tangu mapambazuko mpaka adhuhuri, akiwa ameuelekea uwanja uliokuwa mbele ya Lango la Maji mbele ya wanaume, wanawake na wengine ambao waliweza kufahamu. Watu wote wakasikiliza kwa makini kile Kitabu cha Sheria.
@@ -12550,6 +12550,7 @@ Wafalme wetu, viongozi wetu, makuhani wetu na baba zetu hawakufuata sheria yako.
 Hata walipokuwa wangali katika ufalme wao, wakiufurahia wema wako mkuu katika nchi kubwa na yenye rutuba uliyowapa, hawakukutumikia wala kugeuka kutoka njia zao mbaya.
 “Lakini tazama, sisi ni watumwa leo, watumwa katika nchi uliyowapa baba zetu ili wapate kula matunda yake na vitu vingine vizuri inayozalisha.
 Kwa sababu ya dhambi zetu, mavuno yake mengi huenda kwa wafalme uliowaweka watutawale. Wanatawala juu ya miili yetu na mifugo yetu kama wapendavyo. Tuko katika dhiki kuu.
+“Kwa sababu ya haya yote, tunajifunga katika mapatano, na kuyaandika, nao viongozi wetu, Walawi wetu na makuhani wetu wanatia mihuri yao.”
 Wale waliotia muhuri walikuwa: Nehemia mtawala, mwana wa Hakalia. Sedekia,
 Seraya, Azaria, Yeremia,
 Pashuri, Amaria, Malkiya,
@@ -12589,7 +12590,6 @@ Kwa ajili ya mikate ya Wonyesho, kwa ajili ya sadaka za kawaida za nafaka na sad
 “Zaidi ya hayo, tutaleta katika ghala za nyumba ya Mungu wetu, kwa makuhani, vyakula vya kwanza vya mashamba yetu, sadaka zetu za nafaka, matunda ya miti yetu yote, divai yetu mpya na mafuta. Nasi tutaleta zaka za mazao yetu kwa Walawi, kwa kuwa Walawi ndio ambao hukusanya zaka katika miji yote tunakofanya kazi.
 Kuhani atokanaye na uzao wa Aroni atashirikiana na Walawi wakati wanapopokea zaka, nao Walawi itawapasa kuleta sehemu ya kumi ya zaka katika nyumba ya Mungu wetu katika ghala za hazina.
 Watu wa Israeli pamoja na Walawi itawapasa kuleta michango yao ya nafaka, divai mpya na mafuta katika vyumba vya ghala, mahali vifaa vya mahali patakatifu vinapohifadhiwa, na wanapokaa makuhani wanaohudumu, na mabawabu na waimbaji. “Hatutaacha kuijali nyumba ya Mungu wetu.”
-
 Basi viongozi wa watu walikaa Yerusalemu, nao watu wale wengine walipiga kura ili kuleta mtu mmoja kati ya watu kumi aje kuishi Yerusalemu, mji mtakatifu, nao wengine tisa waliobaki wakae katika miji yao wenyewe.
 Watu waliwasifu wale wote waliojitolea kuishi Yerusalemu.
 Hawa ndio viongozi wa majimbo waliokuja kuishi Yerusalemu (baadhi ya Waisraeli, makuhani, Walawi, watumishi wa Hekalu, na wazao wa watumishi wa Solomoni waliendelea kuishi katika miji ya Yuda, kila mmoja katika milki yake mwenyewe katika miji mbalimbali,
@@ -13890,14 +13890,6 @@ Hulala chini ya mimea ya yungiyungi, katika maficho ya matete kwenye matope.
 Hiyo mimea ya yungiyungi humficha kwenye vivuli vyake; miti mirefu karibu na kijito humzunguka.
 Wakati mto ufurikapo, yeye hapati mshtuko wa hofu; yeye yu salama, hata kama Yordani ingefurika hadi kwenye kinywa chake.
 Je, mtu yeyote anaweza kumkamata yeye akiwa macho, au kumnasa kwa mtego na kutoboa pua yake?
-
-
-
-
-
-
-
-
 “Je, waweza kumvua Lewiathani kwa ndoano ya samaki, au kufunga ulimi wake kwa kamba?
 Waweza kupitisha kamba puani mwake, au kutoboa taya lake kwa kulabu?
 Je, ataendelea kukuomba umhurumie? Atasema nawe maneno ya upole?
@@ -13924,6 +13916,14 @@ Mikunjo ya nyama yake imeshikamana imara pamoja; iko imara na haiwezi kuondolewa
 Kifua chake ni kigumu kama mwamba, kigumu kama jiwe la chini la kusagia.
 Ainukapo, mashujaa wanaogopa; hurudi nyuma mbele yake anapokwenda kwa kishindo.
 Upanga unaomfikia haumdhuru, wala mkuki au mshale wala fumo.
+Chuma hukiona kama unyasi, na shaba kama mti uliooza.
+Mishale haimfanyi yeye akimbie; mawe ya kombeo kwake ni kama makapi.
+Rungu kwake huwa kama kipande cha jani kavu; hucheka sauti za kugongana kwa mkuki.
+Sehemu zake za chini kwenye tumbo zina menomeno na mapengo kama vigae vya chungu, zikiacha mburuzo kwenye matope kama chombo chenye meno cha kupuria.
+Huvisukasuka vilindi kama sufuria kubwa ichemkayo, na kukoroga bahari kama chungu cha marhamu.
+Anapopita nyuma yake huacha mkondo unaometameta; mtu angedhani vilindi vilikuwa na mvi.
+Hakuna chochote duniani kinacholingana naye: yeye ni kiumbe kisicho na woga.
+Yeye huwatazama chini wale wote wenye kujivuna; yeye ni mfalme juu ya wote wenye kiburi.”
 Ndipo Ayubu akamjibu Bwana:
 “Ninajua ya kuwa unaweza kufanya mambo yote, wala hakuna mpango wako unaoweza kuzuilika.
 Uliuliza, ‘Ni nani huyu afichaye mashauri yangu bila maarifa?’ Hakika nilisema juu ya mambo niliyokuwa siyaelewi, mambo ya ajabu mno kwangu mimi kuyajua.
@@ -13959,6 +13959,7 @@ Utawatawala kwa fimbo ya chuma na kuwavunjavunja kama chombo cha mfinyanzi.”
 Kwa hiyo, ninyi wafalme, kuweni na hekima; mwonyeke, enyi watawala wa dunia.
 Mtumikieni Bwana kwa hofu na mshangilie kwa kutetemeka.
 Mbusu Mwana, asije akakasirika nawe ukaangamizwa katika njia yako, kwa maana hasira yake inaweza kuwaka ghafula. Heri wote wanaomkimbilia.
+
 Ee Bwana, tazama adui zangu walivyo wengi! Ni wengi kiasi gani wanaoinuka dhidi yangu!
 Wengi wanasema juu yangu, “Mungu hatamwokoa.”
 Lakini wewe, Ee Bwana, ni ngao pande zote; umeniwekea utukufu na kuinua kichwa changu.
@@ -14049,7 +14050,6 @@ Waovu wataishia kuzimu, naam, mataifa yote wanaomsahau Mungu.
 Lakini mhitaji hatasahaulika siku zote, wala matumaini ya walioonewa hayatapotea.
 Ee Bwana, inuka, usimwache binadamu ashinde. Mataifa na yahukumiwe mbele zako.
 Ee Bwana, wapige kwa hofu, mataifa na yajue kuwa wao ni watu tu.
-
 Kwa nini, Ee Bwana, unasimama mbali? Kwa nini unajificha wakati wa shida?
 Katika kiburi chake, mwovu humtesa maskini, waovu na wanaswe katika hila wanazozitunga.
 Hujivunia tamaa za moyo wake; humbariki mlafi na kumtukana Bwana.
@@ -14075,6 +14075,7 @@ Bwana yuko ndani ya Hekalu lake takatifu; Bwana yuko kwenye kiti chake cha enzi 
 Bwana huwajaribu wenye haki, lakini waovu na wanaopenda jeuri, nafsi yake huwachukia.
 Atawanyeshea waovu makaa ya moto mkali na kiberiti kinachowaka, upepo wenye joto kali ndio fungu lao.
 Kwa kuwa Bwana ni mwenye haki, yeye hupenda haki. Wanyofu watauona uso wake.
+
 Bwana tusaidie, kwa kuwa wacha Mungu wametoweka; waaminifu wametoweka miongoni mwa wanadamu.
 Kila mmoja humwambia jirani yake uongo; midomo yao ya hila huzungumza kwa udanganyifu.
 Bwana na akatilie mbali midomo yote ya hila na kila ulimi uliojaa majivuno,
@@ -14088,8 +14089,7 @@ Mpaka lini, Ee Bwana? Je, utanisahau milele? Utanificha uso wako mpaka lini?
 Nitapambana na mawazo yangu mpaka lini, na kila siku kuwa na majonzi moyoni mwangu? Adui zangu watanishinda mpaka lini?
 Nitazame, unijibu, Ee Bwana Mungu wangu. Yatie nuru macho yangu, ama sivyo nitalala usingizi wa mauti.
 Adui yangu atasema, “Nimemshinda,” nao adui zangu watashangilia nitakapoanguka.
-Lakini ninategemea upendo wako usiokoma; moyo wangu unashangilia katika wokovu wako.
-Nitamwimbia Bwana, kwa kuwa amekuwa mwema kwangu.
+Lakini ninategemea upendo wako usiokoma; moyo wangu unashangilia katika wokovu wako. Nitamwimbia Bwana, kwa kuwa amekuwa mwema kwangu.
 Mpumbavu anasema moyoni mwake, “Hakuna Mungu.” Wameharibika, matendo yao ni maovu kabisa; hakuna hata mmoja atendaye mema.
 Bwana anawachungulia wanadamu chini kutoka mbinguni aone kama wako wenye akili, wowote wanaomtafuta Mungu.
 Wote wamepotoka, wameharibika wote pamoja, hakuna atendaye mema. Naam, hakuna hata mmoja!
@@ -14128,6 +14128,7 @@ Wamefanana na simba mwenye njaa awindaye, kama simba mkubwa anyemeleaye mafichon
 Inuka, Ee Bwana, pambana nao, uwaangushe, niokoe kutokana na waovu kwa upanga wako.
 Ee Bwana, mkono wako uniokoe na watu wa jinsi hii, kutokana na watu wa ulimwengu huu ambao fungu lao liko katika maisha haya. Na wapate adhabu ya kuwatosha. Watoto wao na wapate zaidi ya hayo, hukumu na iendelee kwa watoto wa watoto wao.
 Na mimi katika haki nitauona uso wako, niamkapo, nitaridhika kwa kuona sura yako.
+
 Nakupenda wewe, Ee Bwana, nguvu yangu.
 Bwana ni mwamba wangu, ngome yangu na mwokozi wangu, Mungu wangu ni mwamba, ambaye kwake ninakimbilia. Yeye ni ngao yangu na pembe ya wokovu wangu, ngome yangu.
 Ninamwita Bwana anayestahili kusifiwa, nami ninaokolewa kutoka kwa adui zangu.
@@ -14249,7 +14250,6 @@ kwa maana ufalme ni wa Bwana naye hutawala juu ya mataifa.
 Matajiri wote wa dunia watasherehekea na kuabudu. Wote waendao mavumbini watapiga magoti mbele yake, wote ambao hawawezi kudumisha uhai wao.
 Wazao wa baadaye watamtumikia yeye; vizazi vijavyo vitajulishwa habari za Bwana.
 Watatangaza haki yake kwa watu ambao hawajazaliwa bado, kwa maana yeye ametenda hili.
-
 Bwana ndiye mchungaji wangu, sitapungukiwa na kitu.
 Hunilaza katika malisho ya majani mabichi, kando ya maji matulivu huniongoza,
 hunihuisha nafsi yangu. Huniongoza katika njia za haki kwa ajili ya jina lake.
@@ -14334,6 +14334,7 @@ Sauti ya Bwana hutikisa jangwa; Bwana hutikisa Jangwa la Kadeshi.
 Sauti ya Bwana huzalisha ayala, na huuacha msitu wazi. Hekaluni mwake wote wasema, “Utukufu!”
 Bwana huketi akiwa ametawazwa juu ya gharika; Bwana ametawazwa kuwa Mfalme milele.
 Bwana huwapa watu wake nguvu; Bwana huwabariki watu wake kwa kuwapa amani.
+
 Nitakutukuza wewe, Ee Bwana, kwa kuwa umeniinua kutoka vilindi, na hukuacha adui zangu washangilie juu yangu.
 Ee Bwana, Mungu wangu, nilikuita unisaidie na wewe umeniponya.
 Ee Bwana, umenitoa Kuzimu, umeniokoa nisishuke kwenye shimo la mauti.
@@ -14371,7 +14372,6 @@ Atukuzwe Bwana, kwa kuwa amenionyesha upendo wake wa ajabu nilipokuwa katika mji
 Katika hofu yangu nilisema, “Nimekatiliwa mbali na macho yako!” Hata hivyo ulisikia kilio changu ukanihurumia nilipokuita unisaidie.
 Mpendeni Bwana ninyi watakatifu wake wote! Bwana huwahifadhi waaminifu, lakini wenye kiburi huwalipiza kikamilifu.
 Kuweni hodari na mjipe moyo, ninyi nyote mnaomtumaini Bwana.
-
 Heri mtu yule ambaye amesamehewa makosa yake, ambaye dhambi zake zimefunikwa.
 Heri mtu yule ambaye Bwana hamhesabii dhambi, na ambaye rohoni mwake hamna udanganyifu.
 Niliponyamaza, mifupa yangu ilichakaa kwa kulia kwa maumivu makali mchana kutwa.
@@ -14405,6 +14405,7 @@ ili awaokoe na mauti, na kuwahifadhi wakati wa njaa.
 Sisi tunamngojea Bwana kwa matumaini, yeye ni msaada wetu na ngao yetu.
 Mioyo yetu humshangilia, kwa maana tunalitumainia jina lake takatifu.
 Upendo wako usio na mwisho ukae juu yetu, Ee Bwana, tunapoliweka tumaini letu kwako.
+
 Nitamtukuza Bwana nyakati zote, sifa zake zitakuwa midomoni mwangu siku zote.
 Nafsi yangu itajisifu katika Bwana, walioonewa watasikia na wafurahi.
 Mtukuzeni Bwana pamoja nami, naam, na tulitukuze jina lake pamoja.
@@ -14427,7 +14428,6 @@ Mwenye haki ana mateso mengi, lakini Bwana humwokoa nayo yote,
 huhifadhi mifupa yake yote, hata mmoja hautavunjika.
 Ubaya utamuua mtu mwovu, nao adui za mwenye haki watahukumiwa.
 Bwana huwakomboa watumishi wake, yeyote anayemkimbilia yeye hatahukumiwa kamwe.
-
 Ee Bwana, pingana na wale wanaopingana nami, upigane na hao wanaopigana nami.
 Chukua ngao na kigao. Inuka unisaidie.
 Inua mkuki wako na fumo lako dhidi ya hao wanaonifuatia. Iambie nafsi yangu, “Mimi ni wokovu wako.”
@@ -14456,6 +14456,7 @@ Usiwaache wafikiri, “Aha, hili ndilo tulilotaka!” Au waseme, “Tumemmeza.�
 Wote wanaofurahia dhiki yangu waaibishwe na wachanganyikiwe; hao wanaojiinua dhidi yangu wavikwe aibu na dharau.
 Wale wanaofurahia hukumu yangu ya haki wapige kelele za shangwe na furaha; hebu waseme siku zote, “Bwana atukuzwe, ambaye amefurahia mafanikio ya mtumishi wake.”
 Ulimi wangu utanena haki yako na sifa zako mchana kutwa.
+
 Kuna neno moyoni mwangu kuhusu hali ya dhambi ya mwovu. Hakuna hofu ya Mungu mbele ya macho yake.
 Kwa kuwa machoni pake mwenyewe hujisifu mno hata hawezi kugundua au kuichukia dhambi yake.
 Maneno ya kinywa chake ni maovu na ya udanganyifu, ameacha kuwa mwenye hekima na kutenda mema.
@@ -14468,7 +14469,6 @@ Kuwa pamoja nawe ni kijito cha uzima, katika nuru yako twaona nuru.
 Dumisha upendo wako kwa wale wanaokujua wewe, haki yako kwa wale walio wanyofu wa moyo.
 Mguu wa mwenye kiburi usije dhidi yangu, wala mkono wa mwovu usinifukuze.
 Angalia jinsi watenda mabaya walivyoanguka: wametupwa chini, hawawezi kuinuka!
-
 Usisumbuke kwa ajili ya watendao maovu, wala usiwaonee wivu watendao mabaya,
 kwa maana kama majani watanyauka mara, kama mimea ya kijani watakufa mara.
 Mtumaini Bwana na utende yaliyo mema; Kaa katika nchi ukafurahie malisho salama.
@@ -14509,6 +14509,7 @@ Watafakari watu wasio na hatia, wachunguze watu wakamilifu, kuna mafanikio kwa m
 Lakini watenda dhambi wote wataangamizwa, mafanikio yao yatakatiliwa mbali.
 Wokovu wa wenye haki hutoka kwa Bwana, yeye ni ngome yao wakati wa shida.
 Bwana huwasaidia na kuwaokoa, huwaokoa kutoka kwa waovu na kuwahifadhi, kwa maana wanamkimbilia.
+
 Ee Bwana, usinikemee katika hasira yako, wala kuniadhibu katika ghadhabu yako.
 Kwa kuwa mishale yako imenichoma, na mkono wako umenishukia.
 Hakuna afya mwilini mwangu kwa sababu ya ghadhabu yako, mifupa yangu haina uzima kwa sababu ya dhambi zangu.
@@ -14589,12 +14590,12 @@ Mchana Bwana huelekeza upendo wake, usiku wimbo wake uko nami: maombi kwa Mungu 
 Ninamwambia Mungu Mwamba wangu, “Kwa nini umenisahau? Kwa nini niendelee kuomboleza, nikiwa nimeonewa na adui?”
 Mifupa yangu inateseka kwa maumivu makali adui zangu wanaponidhihaki, wakiniambia mchana kutwa, “Yuko wapi Mungu wako?”
 Ee nafsi yangu, kwa nini unasononeka? Kwa nini unafadhaika hivyo ndani yangu? Weka tumaini lako kwa Mungu, kwa sababu bado nitamsifu, Mwokozi wangu na Mungu wangu.
-
 Ee Mungu unihukumu, nitetee dhidi ya taifa lisilomcha Mungu, niokoe na watu wadanganyifu na waovu.
 Wewe ni Mungu ngome yangu. Kwa nini umenikataa? Kwa nini niendelee kuomboleza, nikiwa nimeonewa na adui?
 Tuma hima nuru yako na kweli yako na viniongoze; vinilete mpaka mlima wako mtakatifu, mpaka mahali unapoishi.
 Ndipo nitakwenda madhabahuni pa Mungu, kwa Mungu, furaha yangu na shangwe yangu. Nitakusifu kwa kinubi, Ee Mungu, Mungu wangu.
 Ee nafsi yangu, kwa nini unasononeka? Kwa nini unafadhaika hivyo ndani yangu? Weka tumaini lako kwa Mungu, kwa sababu bado nitamsifu Mwokozi wangu na Mungu wangu.
+
 Ee Mungu, tumesikia kwa masikio yetu, baba zetu wametueleza yale uliyotenda katika siku zao, siku za kale.
 Kwa mkono wako uliwafukuza mataifa na ukawapanda baba zetu, uliangamiza mataifa na kuwastawisha baba zetu.
 Sio kwa upanga wao waliipata nchi, wala si mkono wao uliwapatia ushindi; ilikuwa ni kitanga cha mkono wako wa kuume, na nuru ya uso wako, kwa kuwa uliwapenda.
@@ -14697,7 +14698,6 @@ kwa maana hatachukua chochote atakapokufa, fahari yake haitashuka pamoja naye.
 Ingawa alipokuwa akiishi alijihesabu kuwa heri, na wanadamu wanakusifu unapofanikiwa,
 atajiunga na kizazi cha baba zake, ambao hawataona kamwe nuru ya uzima.
 Mwanadamu mwenye utajiri bila ufahamu ni kama wanyama waangamiao.
-
 Mwenye Nguvu, Mungu, Bwana, asema na kuiita dunia, tangu mawio ya jua hadi mahali pake liendapo kutua.
 Kutoka Sayuni, penye uzuri mkamilifu, Mungu anaangaza.
 Mungu wetu anakuja na hatakaa kimya, moto uteketezao unamtangulia, akiwa amezungukwa na tufani kali.
@@ -14721,6 +14721,8 @@ Wanena daima dhidi ya ndugu yako na kumsingizia mwana wa mama yako.
 Mambo haya unayafanya, nami nimekaa kimya, ukafikiri Mimi nami ni kama wewe. Lakini nitakukemea na kuweka mashtaka mbele yako.
 “Yatafakarini haya, ninyi mnaomsahau Mungu, ama sivyo nitawararua vipande vipande, wala hapatakuwepo na yeyote wa kuwaokoa:
 Atoaye dhabihu za shukrani ananiheshimu mimi, naye aiandaa njia yake ili nimwonyeshe wokovu wa Mungu.”
+
+
 Ee Mungu, unihurumie, kwa kadiri ya upendo wako usiokoma, kwa kadiri ya huruma yako kuu, uyafute makosa yangu.
 Unioshe na uovu wangu wote na unitakase dhambi yangu.
 Kwa maana ninajua makosa yangu, na dhambi yangu iko mbele yangu daima.
@@ -14752,13 +14754,13 @@ Wenye haki wataona na kuogopa, watamcheka, wakisema,
 Lakini mimi ni kama mti wa mzeituni unaostawi katika nyumba ya Mungu, nautegemea upendo wa Mungu usiokoma milele na milele.
 Nitakusifu milele kwa yale uliyoyatenda, nitatumaini jina lako, kwa kuwa jina lako ni jema. Nitakusifu mbele ya watakatifu wako.
 
-
 Mpumbavu anasema moyoni mwake, “Hakuna Mungu.” Wameharibika, na njia zao ni za uovu kabisa, hakuna hata mmoja atendaye mema.
 Mungu anawachungulia wanadamu chini kutoka mbinguni aone kama wako wenye akili, wowote wanaomtafuta Mungu.
 Kila mmoja amegeukia mbali, wameharibika wote pamoja, hakuna atendaye mema. Naam, hakuna hata mmoja!
 Je, watendao mabaya kamwe hawatajifunza: wale ambao huwala watu wangu kama watu walavyo mkate, hao ambao hawamwiti Mungu?
 Hapo waliingiwa na hofu kuu, ambapo hapakuwa cha kutetemesha. Mungu alitawanya mifupa ya wale waliokushambulia; uliwaaibisha, kwa sababu Mungu aliwadharau.
 Laiti wokovu wa Israeli ungalikuja kutoka Sayuni! Wakati Mungu arejeshapo wafungwa wa watu wake, Yakobo na ashangilie, Israeli na afurahi!
+
 
 Ee Mungu uniokoe kwa jina lako, unifanyie hukumu kwa uwezo wako.
 Ee Mungu, sikia maombi yangu, usikilize maneno ya kinywa changu.
@@ -14767,7 +14769,6 @@ Hakika Mungu ni msaada wangu, Bwana ndiye anayenitegemeza.
 Mabaya na yawarudie wale wanaonisingizia, kwa uaminifu wako uwaangamize.
 Nitakutolea dhabihu za hiari; Ee Bwana, nitalisifu jina lako kwa kuwa ni vyema.
 Kwa maana ameniokoa katika shida zangu zote, na macho yangu yamewatazama adui zangu kwa ushindi.
-
 
 Ee Mungu, sikiliza maombi yangu, wala usidharau hoja yangu.
 Nisikie na unijibu. Mawazo yangu yananisumbua na nimehangaishwa
@@ -14849,6 +14850,7 @@ Wanatangatanga wakitafuta chakula, wasipotosheka hubweka kama mbwa.
 Lakini mimi nitaziimba nguvu zako, asubuhi nitaimba juu ya upendo wako; kwa maana wewe ndiwe ngome yangu na kimbilio langu wakati wa shida.
 Ee uliye Nguvu zangu, ninakuimbia sifa. Wewe, Ee Mungu, ndiwe ngome yangu, Mungu unipendaye.
 
+
 Ee Mungu, umetukataa na kutokea ghafula juu yetu, umekasirika: sasa turejeshe upya!
 Umetetemesha nchi na kuipasua; uiponye mavunjiko yake, kwa maana inatetemeka.
 Umewaonyesha watu wako nyakati za kukata tamaa; umetunywesha mvinyo unaotuyumbisha.
@@ -14861,7 +14863,6 @@ Ni nani atakayenipeleka hadi mji wenye ngome? Ni nani atakayeniongoza hadi nifik
 Ee Mungu, si ni wewe uliyetukataa sisi, na hutoki tena na majeshi yetu?
 Tuletee msaada dhidi ya adui, kwa maana msaada wa mwanadamu haufai kitu.
 Kwa msaada wa Mungu tutapata ushindi, naye atawaponda adui zetu.
-
 
 Ee Mungu, sikia kilio changu, usikilize maombi yangu.
 Kutoka miisho ya dunia ninakuita, ninaita huku moyo wangu unadhoofika; uniongoze kwenye mwamba ule ulio juu kuliko mimi.
@@ -14921,7 +14922,6 @@ Umeilowesha mifereji yake na kusawazisha kingo zake; umeilainisha kwa manyunyu n
 Umeuvika mwaka taji ya baraka, magari yako yanafurika kwa wingi.
 Mbuga za majani za jangwani umezineemesha; vilima vimevikwa furaha.
 Penye nyanda za malisho pamejaa makundi ya wanyama, na mabonde yamepambwa kwa mavuno; vyote vinashangilia kwa furaha na kuimba.
-
 Mpigieni Mungu kelele za shangwe, dunia yote!
 Imbeni utukufu wa jina lake; mpeni sifa zake kwa utukufu!
 Mwambieni Mungu, “Jinsi gani yalivyo ya kutisha matendo yako! Uwezo wako ni mkuu mno kiasi kwamba adui wananyenyekea mbele zako.
@@ -14942,6 +14942,7 @@ Nilimlilia kwa kinywa changu, sifa zake zilikuwa katika ulimi wangu.
 Kama ningekuwa nimeyaficha maovu moyoni mwangu, Bwana asingekuwa amenisikiliza;
 lakini hakika Mungu amenisikiliza na amesikia sauti yangu katika maombi.
 Sifa apewe Mungu, ambaye hakulikataa ombi langu wala kunizuilia upendo wake!
+
 Mungu aturehemu na kutubariki, na kutuangazia nuru za uso wake,
 ili njia zako zijulikane duniani, wokovu wako katikati ya mataifa yote.
 Ee Mungu, mataifa na wakusifu, mataifa yote na wakusifu.
@@ -15028,7 +15029,6 @@ Wale wanaotafuta kuuondoa uhai wangu, waaibishwe na kufadhaishwa; wote wanaotama
 Wale waniambiao, “Aha! Aha!” warudi nyuma kwa sababu ya aibu yao.
 Lakini wote wakutafutao washangilie na kukufurahia, wale wapendao wokovu wako siku zote waseme, “Mungu na atukuzwe!”
 Lakini bado mimi ni maskini na mhitaji; Ee Mungu, unijie haraka. Wewe ndiwe msaada wangu na mwokozi wangu; Ee Bwana, usikawie.
-
 Ee Bwana, nimekukimbilia wewe, usiache nikaaibika kamwe.
 Kwa haki yako uniponye na kuniokoa, unitegee sikio lako uniokoe.
 Uwe kwangu mwamba wa kimbilio, mahali nitakapokimbilia kila wakati; toa amri ya kuniokoa, kwa kuwa wewe ni mwamba wangu na ngome yangu.
@@ -15124,6 +15124,7 @@ Likumbuke agano lako, maana mara kwa mara mambo ya jeuri yamejaa katika sehemu z
 Usiruhusu walioonewa warudi nyuma kwa aibu; maskini na wahitaji hebu walisifu jina lako.
 Inuka, Ee Mungu, ujitetee; kumbuka jinsi wapumbavu wanavyokudhihaki mchana kutwa.
 Usipuuze makelele ya watesi wako, ghasia za adui zako, zinazoinuka mfululizo.
+
 Ee Mungu, tunakushukuru, tunakushukuru wewe, kwa kuwa jina lako li karibu; watu husimulia matendo yako ya ajabu.
 Unasema, “Ninachagua wakati maalum; ni mimi nihukumuye kwa haki.
 Wakati dunia na watu wake wote inapotetemeka, ni mimi ninayezishikilia nguzo zake imara.
@@ -15168,7 +15169,6 @@ Mawingu yalimwaga maji, mbingu zikatoa ngurumo kwa radi, mishale yako ikametamet
 Ngurumo yako ilisikika katika upepo wa kisulisuli, umeme wako wa radi ukaangaza dunia, nchi ikatetemeka na kutikisika.
 Njia yako ilipita baharini, mapito yako kwenye maji makuu, ingawa nyayo zako hazikuonekana.
 Uliongoza watu wako kama kundi kwa mkono wa Mose na Aroni.
-
 Enyi watu wangu, sikieni mafundisho yangu, sikilizeni maneno ya kinywa changu.
 Nitafungua kinywa changu kwa mafumbo, nitazungumza mambo yaliyofichika, mambo ya kale:
 yale ambayo tuliyasikia na kuyajua, yale ambayo baba zetu walituambia.
@@ -15254,6 +15254,7 @@ Kwa nini mataifa waseme, “Yuko wapi Mungu wenu?” Mbele ya macho yetu, dhihir
 Kilio cha huzuni cha wafungwa kifike mbele zako; kwa nguvu za mkono wako hifadhi wale waliohukumiwa kufa.
 Walipize jirani zetu mara saba vifuani mwao aibu walizovurumisha juu yako, Ee Bwana.
 Ndipo sisi watu wako, kondoo wa malisho yako, tutakusifu milele; toka kizazi hadi kizazi tutasimulia sifa zako.
+
 Ee Mchungaji wa Israeli tusikie, wewe umwongozaye Yosefu kama kundi; wewe uketiye katika kiti cha enzi katikati ya makerubi, angaza
 mbele ya Efraimu, Benyamini na Manase. Uamshe nguvu zako, uje utuokoe.
 Ee Mungu, uturejeshe, utuangazie uso wako, ili tuweze kuokolewa.
@@ -15290,7 +15291,6 @@ Basi niliwaacha katika ukaidi wa mioyo yao wafuate mashauri yao wenyewe.
 ningaliwatiisha adui zao kwa haraka, na kuugeuza mkono wangu dhidi ya watesi wao!
 Wale wanaomchukia Bwana wangalinyenyekea mbele zake, na adhabu yao ingedumu milele.
 Bali ninyi mngalilishwa ngano iliyo bora, na kuwatosheleza kwa asali itokayo kwenye mwamba.”
-
 Mungu anaongoza kusanyiko kuu, anatoa hukumu miongoni mwa “miungu”:
 “Hata lini utaendelea kuwatetea wasio haki na kuonyesha upendeleo kwa waovu?
 Teteeni wanyonge na yatima, tunzeni haki za maskini na walioonewa.
@@ -15299,6 +15299,7 @@ Mwokoeni mnyonge na mhitaji, wakomboeni kutoka mkononi mwa mwovu.
 “Nilisema, ‘Ninyi ni “miungu”; ninyi nyote ni wana wa Aliye Juu Sana.’
 Lakini mtakufa kama wanadamu wa kawaida; mtaanguka kama mtawala mwingine yeyote.”
 Ee Mungu, inuka uihukumu nchi, kwa kuwa mataifa yote ni urithi wako.
+
 Ee Mungu, usinyamaze kimya, usinyamaze, Ee Mungu, usitulie.
 Tazama watesi wako wanafanya fujo, jinsi adui zako wanavyoinua vichwa vyao.
 Kwa hila, wanafanya shauri dhidi ya watu wako, wanafanya shauri baya dhidi ya wale unaowapenda.
@@ -15344,7 +15345,6 @@ Upendo na uaminifu hukutana pamoja, haki na amani hubusiana.
 Uaminifu huchipua kutoka nchi, haki hutazama chini kutoka mbinguni.
 Naam, hakika Bwana atatoa kilicho chema, nayo nchi yetu itazaa mavuno yake.
 Haki itatangulia mbele yake na kutengeneza njia kwa ajili ya hatua zake.
-
 Ee Bwana, sikia na unijibu, kwa maana mimi ni maskini na mhitaji.
 Linda maisha yangu, kwa maana nimejiweka kwako, wewe ni Mungu wangu, mwokoe mtumishi wako anayekutumaini.
 Ee Bwana, nihurumie mimi, kwa maana ninakuita mchana kutwa.
@@ -15369,6 +15369,7 @@ Mambo matukufu yanasemwa juu yako, ee mji wa Mungu:
 Kuhusu Sayuni itasemwa hivi, “Huyu na yule walizaliwa humo, naye Aliye Juu Sana mwenyewe atamwimarisha.”
 Bwana ataandika katika orodha ya mataifa: “Huyu alizaliwa Sayuni.”
 Watakapokuwa wanapiga vinanda wataimba, “Chemchemi zangu zote ziko kwako.”
+
 Ee Bwana, Mungu uniokoaye, nimelia mbele zako usiku na mchana.
 Maombi yangu yafike mbele zako, utegee kilio changu sikio lako.
 Kwa maana nafsi yangu imejaa taabu, na maisha yangu yanakaribia kaburi.
@@ -15440,7 +15441,6 @@ Ee Bwana, uko wapi upendo wako mkuu wa mwanzoni, ambao katika uaminifu wako ulim
 Bwana kumbuka jinsi mtumishi wako amesimangwa, jinsi ninavyovumilia moyoni mwangu dhihaka za mataifa yote,
 dhihaka ambazo kwazo adui zako wamenisimanga, Ee Bwana, ambazo kwazo wamesimanga kila hatua ya mpakwa mafuta wako.
 Msifuni Bwana milele! Amen na Amen.
-
 Bwana, wewe umekuwa makao yetu katika vizazi vyote.
 Kabla ya kuzaliwa milima au hujaumba dunia na ulimwengu, wewe ni Mungu tangu milele hata milele.
 Huwarudisha watu mavumbini, ukisema, “Rudini mavumbini, enyi wanadamu.”
@@ -15474,6 +15474,7 @@ Utawakanyaga simba na nyoka wakali, simba mkubwa na nyoka utawaponda kwa miguu.
 Bwana asema, “Kwa kuwa ananipenda, nitamwokoa; nitamlinda, kwa kuwa analikiri Jina langu.
 Ataniita, nami nitamjibu; nitakuwa pamoja naye katika taabu, nitamwokoa na kumheshimu.
 Kwa siku nyingi nitamshibisha na kumwonyesha wokovu wangu.”
+
 Ni vyema kumshukuru Bwana na kuliimbia jina lako, Ee Uliye Juu Sana,
 kuutangaza upendo wako asubuhi, na uaminifu wako wakati wa usiku,
 kwa zeze yenye nyuzi kumi na kwa sauti ya kinubi.
@@ -15489,7 +15490,6 @@ Wenye haki watastawi kama mtende, watakuwa kama mwerezi wa Lebanoni,
 waliopandwa katika nyumba ya Bwana, watastawi katika nyua za Mungu wetu.
 Wakati wa uzee watakuwa bado wanazaa matunda, watakuwa wabichi tena wamejaa nguvu,
 wakitangaza, “Bwana ni mkamilifu; yeye ni Mwamba wangu, na ndani yake hamna uovu.”
-
 Bwana anatawala, amejivika utukufu; Bwana amejivika utukufu tena amejivika nguvu. Dunia imewekwa imara, haitaondoshwa.
 Kiti chako cha enzi kimekuwa thabiti tangu zamani; wewe umekuwako tangu milele.
 Bahari zimeinua, Ee Bwana, bahari zimeinua sauti zake; bahari zimeinua sauti za mawimbi yake.
@@ -15585,6 +15585,7 @@ Kila amsingiziaye jirani yake kwa siri, huyo nitamnyamazisha; mwenye macho ya dh
 Macho yangu yatawaelekea waaminifu katika nchi, ili waweze kuishi pamoja nami; yeye ambaye moyo wake hauna lawama atanitumikia.
 Mdanganyifu hatakaa nyumbani mwangu, yeye asemaye kwa uongo hatasimama mbele yangu.
 Kila asubuhi nitawanyamazisha waovu wote katika nchi; nitamkatilia mbali kila mtenda mabaya kutoka mji wa Bwana.
+
 Ee Bwana, usikie maombi yangu, kilio changu cha kuomba msaada kikufikie.
 Usinifiche uso wako ninapokuwa katika shida. Unitegee sikio lako, ninapoita, unijibu kwa upesi.
 Kwa kuwa siku zangu zinatoweka kama moshi, mifupa yangu inaungua kama kaa la moto.
@@ -15613,7 +15614,6 @@ Hapo mwanzo uliweka misingi ya dunia, nazo mbingu ni kazi ya mikono yako.
 Hizi zitatoweka, lakini wewe utadumu, zote zitachakaa kama vazi. Utazibadilisha kama nguo nazo zitaondoshwa.
 Lakini wewe, U yeye yule, nayo miaka yako haikomi kamwe.
 Watoto wa watumishi wako wataishi mbele zako; wazao wao wataimarishwa mbele zako.”
-
 Ee nafsi yangu, umhimidi Bwana. Vyote vilivyomo ndani yangu vilihimidi jina lake takatifu.
 Ee nafsi yangu, umhimidi Bwana, wala usisahau wema wake wote,
 akusamehe dhambi zako zote, akuponya magonjwa yako yote,
@@ -15807,6 +15807,7 @@ Yeye ambaye huwamwagia dharau wakuu, aliwafanya watangetange nyikani isiyo na nj
 Lakini yeye aliwainua wahitaji katika taabu zao, na kuongeza jamaa zao kama makundi ya kondoo.
 Wanyofu wataona na kufurahi, lakini waovu wote watafunga vinywa vyao.
 Yeyote aliye na hekima, ayasikie mambo haya, na atafakari upendo mkuu wa Bwana.
+
 Ee Mungu, moyo wangu ni thabiti; nitaimba na kusifu kwa moyo wangu wote.
 Amka, kinubi na zeze! Nitayaamsha mapambazuko.
 Nitakusifu wewe, Ee Bwana, katikati ya mataifa; nitaimba habari zako, katikati ya jamaa za watu.
@@ -15820,7 +15821,6 @@ Ni nani atakayenipeleka hadi mji wenye ngome? Ni nani atakayeniongoza hadi nifik
 Ee Mungu, si ni wewe uliyetukataa sisi, na hutoki tena na majeshi yetu?
 Tuletee msaada dhidi ya adui, kwa maana msaada wa mwanadamu haufai kitu.
 Kwa msaada wa Mungu tutapata ushindi, naye atawaponda adui zetu.
-
 Ee Mungu, ambaye ninakusifu, usiwe kimya,
 kwa maana watu waovu na wadanganyifu wamefungua vinywa vyao dhidi yangu; wasema dhidi yangu kwa ndimi za udanganyifu.
 Wamenizunguka kwa maneno ya chuki, wananishambulia bila sababu.
@@ -16329,6 +16329,7 @@ Ee Bwana, je, nisiwachukie wanaokuchukia? Nisiwachukie sana wanaoinuka dhidi yak
 Sina kitu zaidi ya chuki dhidi yao, ninawahesabu ni adui zangu.
 Ee Mungu, nichunguze, uujue moyo wangu, nijaribu na ujue mawazo yangu.
 Uone kama kuna njia iletayo machukizo ndani yangu, uniongoze katika njia ya milele.
+
 Ee Bwana, niokoe, kutoka kwa watu waovu; nilinde na watu wenye jeuri,
 ambao hupanga mipango mibaya mioyoni mwao, na kuchochea vita siku zote.
 Wao hufanya ndimi zao kali kama za nyoka, sumu ya nyoka iko midomoni mwao.
@@ -16342,7 +16343,6 @@ Makaa ya mawe ya moto na yawaangukie! Na watupwe motoni, katika mashimo ya matop
 Wasingiziaji wasifanikiwe katika nchi; maafa na yawawinde watu wenye jeuri.
 Najua kwamba Bwana huwapatia maskini haki, na kuitegemeza njia ya mhitaji.
 Hakika wenye haki watalisifu jina lako, na waadilifu wataishi mbele zako.
-
 Ee Bwana, ninakuita wewe, uje kwangu hima. Sikia sauti yangu ninapokuita.
 Maombi yangu na yafike mbele zako kama uvumba; kuinua mikono yangu juu na kuwe kama dhabihu ya jioni.
 Ee Bwana, weka mlinzi kinywani mwangu, weka ulinzi mlangoni mwa midomo yangu.
@@ -16353,6 +16353,7 @@ Watasema, “Kama mtu anavyolima na kuvunja ardhi, ndivyo mifupa yetu imetawanyw
 Lakini nimekaza macho yangu kwako, Ee Bwana Mwenyezi, ndani yako nimekimbilia, usiniache nife.
 Niepushe na mitego waliyonitegea, kutokana na mitego iliyotegwa na watenda mabaya.
 Waovu na waanguke kwenye nyavu zao wenyewe, wakati mimi ninapita salama.
+
 Namlilia Bwana kwa sauti, nainua sauti yangu kwa Bwana anihurumie.
 Namimina malalamiko yangu mbele zake, mbele zake naeleza shida zangu.
 Wakati roho yangu inapozimia ndani yangu, wewe ndiwe unajua njia zangu. Katika njia ninayopita watu wameniwekea mtego.
@@ -16360,7 +16361,6 @@ Tazama kuume kwangu na uone, hakuna hata mmoja anayejihusisha nami. Sina kimbili
 Ee Bwana, nakulilia wewe, nasema, “Wewe ni kimbilio langu, fungu langu katika nchi ya walio hai.”
 Sikiliza kilio changu, kwa sababu mimi ni mhitaji sana; niokoe na wale wanaonifuatilia, kwa kuwa wamenizidi nguvu.
 Nifungue kutoka kifungo changu, ili niweze kulisifu jina lako. Ndipo wenye haki watanizunguka, kwa sababu ya wema wako kwangu.
-
 Ee Bwana, sikia sala yangu, sikiliza kilio changu unihurumie; katika uaminifu na haki yako njoo unisaidie.
 Usimhukumu mtumishi wako, kwa kuwa hakuna mtu anayeishi aliye mwenye haki mbele zako.
 Adui hunifuatilia, hunipondaponda chini; hunifanya niishi gizani kama wale waliokufa zamani.
@@ -17465,7 +17465,6 @@ Afadhali kijana maskini mwenye hekima kuliko mfalme mzee mpumbavu ambaye hajui t
 Kijana huyo angeweza kutokea gerezani akapata ufalme, au angeweza kuwa amezaliwa katika umaskini kwenye huo ufalme.
 Nikaona kwamba wote walioishi na kutembea chini ya jua walimfuata kijana, aliyepokea ufalme.
 Hapakuwa na kikomo cha watu wote aliowatawala. Lakini wale waliokuja baadaye hawakufurahia kazi ya yule aliyepokea ufalme. Hili nalo pia ni ubatili, ni kukimbiza upepo.
-
 Linda hatua zako uendapo katika nyumba ya Mungu. Karibia usikilize kuliko kutoa dhabihu ya wapumbavu, ambao hawajui kuwa wanafanya kosa.
 Usiwe mwepesi kuzungumza, usiwe na haraka katika moyo wako kuzungumza lolote mbele za Mungu. Mungu yuko mbinguni nawe uko duniani, kwa hiyo maneno yako na yawe machache.
 Kama vile ndoto huja wakati kuna shughuli nyingi, ndivyo yalivyo mazungumzo ya mpumbavu wakati kuna maneno mengi.
@@ -17485,6 +17484,7 @@ Hili nalo ni baya la kusikitisha: Kama vile mtu ajavyo, vivyo hivyo huondoka, na
 Siku zake zote hula gizani, pamoja na fadhaa kubwa, mateso na hasira.
 Ndipo nikatambua kwamba ni vyema na sahihi kwa mtu kula na kunywa na kutosheka katika kazi yake ngumu chini ya jua katika siku chache za maisha yake Mungu alizompa, kwa maana hili ndilo fungu lake.
 Zaidi ya yote, Mungu anapompa mtu yeyote utajiri na milki, humwezesha kuvifurahia, kukubali fungu lake na kuwa na furaha katika kazi yake, hii ni karama ya Mungu.
+Mara chache mtu huzifikiri siku za maisha yake, kwa sababu Mungu humfanya ashikwe na furaha ya moyoni.
 Nimeona ubaya mwingine chini ya jua, nao unalemea sana wanadamu:
 Mungu humpa mwanadamu utajiri, mali na heshima, hivyo hakukosa chochote moyo wake unachokitamani. Lakini Mungu hamwezeshi kuvifurahia, badala yake mgeni ndiye anayevifurahia. Hili ni ubatili, ni ubaya unaosikitisha.
 Mtu anaweza kuwa na watoto mia moja naye akaishi miaka mingi, lakini haidhuru kuwa ataishi muda mrefu kiasi gani, kama hawezi kufurahia mafanikio yake na kwamba hapati mazishi ya heshima, ninasema afadhali mtoto aliyezaliwa akiwa amekufa kuliko yeye.
@@ -17694,6 +17694,7 @@ lakini hua wangu, mkamilifu wangu, ni wa namna ya pekee, binti pekee kwa mama ya
 Ni nani huyu atokeaye kama mapambazuko, mzuri kama mwezi, mwangavu kama jua, ametukuka kama nyota zifuatanazo?
 Niliteremka kwenye bustani ya miti ya milozi ili kutazama machipuko ya bondeni, kuona kama mizabibu imechipua au kama mikomamanga imechanua maua.
 Kabla sijangʼamua, shauku yangu iliniweka katikati ya magari ya kifalme ya kukokotwa na farasi ya watu wangu.
+Rudi, rudi, ee Mshulami; rudi, rudi ili tupate kukutazama! Kwa nini kumtazama Mshulami, kama kutazama ngoma ya Mahanaimu?
 Ee binti wa mwana wa mfalme, tazama jinsi inavyopendeza miguu yako katika viatu! Miguu yako yenye madaha ni kama vito vya thamani, kazi ya mikono ya fundi stadi.
 Kitovu chako ni kama bilauri ya mviringo ambayo kamwe haikosi divai iliyochanganywa. Kiuno chako ni kichuguu cha ngano kilichozungukwa kwa yungiyungi.
 Matiti yako ni kama wana-paa wawili, mapacha wa paa.
@@ -17707,7 +17708,6 @@ Mimi ni mali ya mpenzi wangu, nayo shauku yake ni juu yangu.
 Njoo, mpenzi wangu, twende mashambani, twende tukalale huko vijijini.
 Hebu na twende mapema katika mashamba ya mizabibu tuone kama mizabibu imechipua, kama maua yake yamefunguka, na kama mikomamanga imetoa maua: huko nitakupa penzi langu.
 Mitunguja hutoa harufu zake nzuri, kwenye milango yetu kuna matunda mazuri, mapya na ya zamani, ambayo nimekuhifadhia wewe, mpenzi wangu.
-
 Laiti ungelikuwa kwangu kama ndugu wa kiume, ambaye aliyanyonya matiti ya mama yangu! Kisha, kama ningekukuta huko nje, ningelikubusu, wala hakuna mtu yeyote angelinidharau.
 Ningelikuongoza na kukuleta katika nyumba ya mama yangu, yeye ambaye amenifundisha. Ningelikupa divai iliyokolezwa unywe, asali ya maua ya mikomamanga yangu.
 Mkono wake wa kushoto uko chini ya kichwa changu, na mkono wake wa kuume unanikumbatia.
@@ -17897,7 +17897,6 @@ Wakati watu wanapowaambia ninyi kutafuta ushauri kwa waaguzi na wenye kuongea na
 Kwa sheria na kwa ushuhuda! Kama hawatasema sawasawa na neno hili, hawana mwanga wa mapambazuko.
 Watazunguka katika nchi yote, wakiwa na dhiki na njaa. Watakapotaabika kwa njaa, watapatwa na hasira kali, nao, wakiwa wanatazama juu, watamlaani mfalme wao na Mungu wao.
 Kisha wataangalia duniani na kuona tu dhiki na giza, hofu na huzuni tupu, nao watasukumiwa kwenye giza nene kabisa.
-
 Hata hivyo, hapatakuwepo huzuni tena kwa wale waliokuwa katika dhiki. Wakati uliopita aliidhili nchi ya Zabuloni na nchi ya Naftali, lakini katika siku zijazo ataiheshimu Galilaya ya Mataifa, karibu na njia ya bahari, kando ya Yordani:
 Watu wanaotembea katika giza wameona nuru kuu, wale wanaoishi katika nchi ya uvuli wa mauti, nuru imewazukia.
 Umelikuza taifa, na kuzidisha furaha yao, wanafurahia mbele zako, kama watu wanavyofurahia wakati wa mavuno, kama watu wafurahivyo wagawanyapo nyara.
@@ -17918,6 +17917,7 @@ Kwa hiyo Bwana hatawafurahia vijana, wala hatawahurumia yatima na wajane, kwa ku
 Hakika uovu huwaka kama moto; huteketeza michongoma na miiba, huwasha moto vichaka vya msituni, hujiviringisha kuelekea juu kama nguzo ya moshi.
 Kwa hasira ya Bwana Mwenye Nguvu Zote nchi itachomwa kwa moto, nao watu watakuwa kuni za kuchochea moto. Hakuna mtu atakayemhurumia ndugu yake.
 Upande wa kuume watakuwa wakitafuna, lakini bado wataona njaa; upande wa kushoto watakuwa wakila, lakini hawatashiba. Kila mmoja atajilisha kwa nyama ya mtoto wake mwenyewe:
+Manase atamla Efraimu, naye Efraimu atamla Manase; nao pamoja watakuwa kinyume na Yuda. Hata kwa haya yote, hasira yake haijageukia mbali, mkono wake bado umeinuliwa juu.
 Ole wao wawekao sheria zisizo za haki, kwa wale watoao amri za kuonea,
 kuwanyima maskini haki zao na kuzuilia haki za watu wangu walioonewa, kuwafanya wajane mawindo yao na kuwanyangʼanya yatima.
 Mtafanya nini siku ya kutoa hesabu, wakati maafa yatakapokuja kutoka mbali? Mtamkimbilia nani awape msaada? Mtaacha wapi mali zenu?
@@ -18953,8 +18953,7 @@ Lakini wewe ni Baba yetu, ingawa Abrahamu hatufahamu sisi wala Israeli hatutambu
 Ee Bwana, kwa nini unatuacha twende mbali na njia zako, na kuifanya mioyo yetu migumu hata hatukukuheshimu? Rudi kwa ajili ya watumishi wako, yale makabila ambayo ni urithi wako.
 Kwa maana kwa muda mfupi watu wako walimiliki mahali pako patakatifu, lakini sasa adui zetu wamepakanyaga mahali patakatifu pako.
 Sisi tumekuwa kama wale ambao hujawatawala kamwe, kama wale ambao hawajaitwa kwa jina lako.
-Laiti ungelipasua mbingu na kushuka chini, ili milima ingelitetemeka mbele zako!
-Kama vile moto uteketezavyo vijiti na kusababisha maji kuchemka, shuka ukafanye jina lako lijulikane kwa adui zako, na kusababisha mataifa yatetemeke mbele zako!
+Laiti ungelipasua mbingu na kushuka chini, ili milima ingelitetemeka mbele zako! Kama vile moto uteketezavyo vijiti na kusababisha maji kuchemka, shuka ukafanye jina lako lijulikane kwa adui zako, na kusababisha mataifa yatetemeke mbele zako!
 Kwa maana ulipofanya mambo ya kutisha ambayo hatukuyatazamia, ulishuka, nayo milima ikatetemeka mbele zako.
 Tangu nyakati za zamani hakuna yeyote aliyesikia, hakuna sikio lililotambua, hakuna jicho lililomwona Mungu mwingine ila wewe, anayetenda mambo kwa ajili ya wale wamngojeao.
 Uliwasaidia watu wale watendao yaliyo haki kwa furaha, wale wazikumbukao njia zako. Lakini wakati tulipoendelea kutenda dhambi kinyume na njia zako, ulikasirika. Tutawezaje basi kuokolewa?
@@ -18964,6 +18963,7 @@ Lakini, Ee Bwana, wewe ndiwe Baba yetu. Sisi ni udongo, wewe ndiye mfinyanzi; si
 Ee Bwana, usikasirike kupita kiasi, usizikumbuke dhambi zetu milele. Ee Bwana, utuangalie, twakuomba, kwa kuwa sisi sote tu watu wako.
 Miji yako mitakatifu imekuwa jangwa; hata Sayuni ni jangwa, Yerusalemu ni ukiwa.
 Hekalu letu takatifu na tukufu, mahali ambapo baba zetu walikusifu wewe, limechomwa kwa moto, navyo vitu vyote tulivyovithamini vimeharibika.
+Ee Bwana, baada ya haya yote, utajizuia? Je, utanyamaza kimya na kutuadhibu kupita kiasi?
 “Nilijifunua kwa watu wale ambao hawakuniulizia. Nimeonekana na watu wale ambao hawakunitafuta. Kwa taifa lile ambalo halikuliita Jina langu, nilisema, ‘Niko hapa, niko hapa.’
 Mchana kutwa nimeinyoosha mikono yangu kwa watu wakaidi, wanaokwenda katika njia ambazo si nzuri, wafuatao mawazo yao wenyewe:
 taifa ambalo daima hunikasirisha machoni pangu, wakitoa dhabihu katika bustani na kufukiza uvumba juu ya madhabahu za matofali;
@@ -19242,7 +19242,6 @@ Sikia kilio cha watu wangu kutoka nchi ya mbali: “Je, Bwana hayuko Sayuni? Je,
 “Mavuno yamepita, kiangazi kimekwisha, nasi hatujaokolewa.”
 Kwa kuwa watu wangu wamepondwa, nami nimepondeka pia; ninaomboleza, nayo hofu kuu imenishika.
 Je, hakuna zeri ya kuponya katika Gileadi? Je, hakuna tabibu huko? Kwa nini basi hakuna uponyaji wa majeraha ya watu wangu?
-
 Laiti kichwa changu kingekuwa chemchemi ya maji na macho yangu yangekuwa kisima cha machozi! Ningelia usiku na mchana kwa kuuawa kwa watu wangu.
 Laiti ningekuwa na nyumba ya kukaa wasafiri jangwani, ningewaacha watu wangu na kwenda mbali nao, kwa kuwa wote ni wazinzi, kundi la watu wadanganyifu.
 “Huweka tayari ndimi zao kama upinde, ili kurusha uongo; wamekuwa na nguvu katika nchi lakini si katika ukweli. Wanatoka dhambi moja hadi nyingine, hawanitambui mimi,” asema Bwana.
@@ -19268,6 +19267,7 @@ Sema, “Hili ndilo asemalo Bwana: “ ‘Maiti za wanaume zitalala kama mavi 
 Hili ndilo asemalo Bwana: “Mwenye hekima asijisifu katika hekima yake, au mwenye nguvu ajisifu katika nguvu zake, wala tajiri ajisifu katika utajiri wake,
 lakini yeye ajisifuye, na ajisifu kwa sababu hili: kwamba ananifahamu na kunijua mimi, kwamba mimi ndimi Bwana, nitendaye wema, hukumu na haki duniani, kwa kuwa napendezwa na haya,” asema Bwana.
 “Siku zinakuja, nitakapowaadhibu wale wote ambao wametahiriwa kimwili tu, asema Bwana,
+yaani Misri, Yuda, Edomu, Amoni, Moabu na wote wanaoishi jangwani sehemu za mbali. Kwa maana mataifa haya yote hayakutahiriwa mioyo yao, nayo nyumba yote ya Israeli haikutahiriwa.”
 Sikieni lile ambalo Bwana, anena nanyi ee nyumba ya Israeli.
 Hili ndilo asemalo Bwana: “Usijifunze njia za mataifa wala usitishwe na ishara katika anga, ingawa mataifa yanatishwa nazo.
 Kwa maana desturi za mataifa hazina maana, wanakata mti msituni, na fundi anauchonga kwa patasi.
@@ -21007,6 +21007,11 @@ Ndipo mtakapojua kuwa Mimi ndimi Bwana, nitakapowaleta katika nchi ya Israeli, n
 Hapo ndipo nitakapokumbuka mwenendo wenu na matendo yenu yote ambayo kwayo mlijitia unajisi, nanyi mtajichukia wenyewe kwa ajili ya maovu yote mliyokuwa mmetenda.
 Nanyi mtajua kuwa mimi ndimi Bwana, nitakaposhughulika nanyi kwa ajili ya Jina langu na wala si sawasawa na njia zenu mbaya na matendo yenu maovu, ee nyumba ya Israeli, asema Bwana Mwenyezi.’ ”
 Neno la Bwana likanijia kusema:
+“Mwanadamu, uelekeze uso wako upande wa kusini, hubiri juu ya upande wa kusini na utoe unabii juu ya msitu wa Negebu.
+Waambie watu wa Negebu: ‘Sikieni neno la Bwana. Hili ndilo Bwana Mwenyezi asemalo: Ninakaribia kukutia moto, nao utateketeza miti yako yote, mibichi na iliyokauka. Miali ya moto haitaweza kuzimwa na kila uso kutoka kusini mpaka kaskazini utakaushwa kwa moto huo.
+Kila mmoja ataona kuwa mimi Bwana ndiye niliyeuwasha huo moto, nao hautazimwa.’ ”
+Ndipo niliposema, “Aa, Bwana Mwenyezi! Wao hunisema, ‘Huyu si huzungumza mafumbo tu?’ ”
+Neno la Bwana likanijia kusema:
 “Mwanadamu, uelekeze uso wako juu ya Yerusalemu na uhubiri dhidi ya mahali patakatifu. Tabiri dhidi ya nchi ya Israeli
 uiambie: ‘Hili ndilo Bwana asemalo: Mimi niko kinyume nawe. Nitautoa upanga wangu kwenye ala yake na kumkatilia mbali mwenye haki na mwovu.
 Kwa sababu nitamkatilia mbali mwenye haki na mwovu, upanga wangu utakuwa wazi dhidi ya kila mmoja kuanzia kusini mpaka kaskazini.
@@ -21038,11 +21043,6 @@ Wakati wakitoa maono ya uongo kwa ajili yako, wanapobashiri uongo kwa ajili yako
 Urudishe upanga kwenye ala yake! Katika mahali ulipoumbiwa, katika nchi ya baba zako, huko nitakuhukumu.
 Nitamwaga ghadhabu yangu juu yako na kupuliza moto wa hasira yangu dhidi yako; nitakutia mikononi mwa watu wakatili, watu stadi katika kuangamiza.
 Mtakuwa kuni za kuwashia moto, damu yenu itamwagwa katika nchi yenu, wala hamtakumbukwa tena; kwa maana Mimi Bwana nimesema.’ ”
-
-
-
-
-
 Neno la Bwana likanijia kusema:
 “Mwanadamu, je, wewe utauhukumu? Je, utauhukumu huu mji umwagao damu? Basi uujulishe juu ya matendo yake yote ya machukizo
 uuambie: ‘Hili ndilo Bwana Mwenyezi asemalo: Ee mji ule ujileteao maangamizi wenyewe kwa kumwaga damu ndani yake na kujinajisi wenyewe kwa kutengeneza sanamu,
@@ -21904,9 +21904,6 @@ Nao maliwali, wasimamizi, watawala na washauri wa mfalme wakakusanyika kuwazungu
 Ndipo Nebukadneza akasema, “Ahimidiwe Mungu wa Shadraki, Meshaki na Abednego, ambaye amemtuma malaika wake na kuwaokoa watumishi wake. Walimtumaini na kukaidi amri ya mfalme, nao wakawa tayari kufa kuliko kutumikia au kuabudu mungu mwingine yeyote isipokuwa Mungu wao.
 Kwa hiyo ninaamuru kwamba watu wa taifa lolote au lugha yoyote watakaosema kitu chochote dhidi ya Mungu wa Shadraki, Meshaki na Abednego wakatwe vipande vipande na nyumba zao zifanywe kuwa malundo ya kokoto, kwa maana hakuna mungu mwingine awezaye kuokoa namna hii.”
 Kisha mfalme akawapandisha vyeo Shadraki, Meshaki na Abednego katika jimbo la Babeli.
-
-
-
 Mfalme Nebukadneza, Kwa kabila za watu, mataifa na watu wa kila lugha, wanaoishi katika ulimwengu wote: Mafanikio yawe kwenu sana!
 Ni furaha yangu kuwaambia kuhusu ishara za miujiza na maajabu ambayo Mungu Aliye Juu Sana amenifanyia.
 Ishara zake ni kuu aje, na maajabu yake yana nguvu aje! Ufalme wake ni ufalme wa milele; enzi yake hudumu kutoka kizazi hadi kizazi.
@@ -21941,6 +21938,9 @@ Maneno hayo yalikuwa bado katika midomo yake wakati sauti ilipokuja kutoka mbing
 Utafukuzwa mbali na wanadamu, ukaishi pamoja na wanyama pori, na utakula manyasi kama ngʼombe. Nyakati saba zitapita juu yako, mpaka utakapokubali kuwa Yeye Aliye Juu Sana ndiye anayetawala juu ya falme za wanadamu, naye humtawaza yeyote amtakaye.”
 Papo hapo yale yaliyokuwa yamesemwa kuhusu Nebukadneza yakatimia. Alifukuzwa mbali na wanadamu, akala majani kama ngʼombe. Mwili wake uliloweshwa kwa umande wa mbinguni mpaka nywele zake zikakua kama manyoya ya tai na kucha zake kama makucha ya ndege.
 Mwisho wa huo wakati, mimi Nebukadneza, niliinua macho yangu kuelekea mbinguni, nazo fahamu zangu zikanirudia. Ndipo nikamsifu Yeye Aliye Juu Sana, nikamheshimu na kumhimidi yeye aishiye milele. Utawala wake ni utawala wa milele; ufalme wake hudumu kutoka kizazi na kizazi.
+Mataifa yote ya dunia yanahesabiwa kuwa si kitu. Hufanya kama atakavyo kwa majeshi ya mbinguni, na kwa mataifa ya dunia. Hakuna anayeweza kuuzuia mkono wake au kumwambia, “Umefanya nini wewe?”
+Wakati huo huo fahamu zangu ziliponirudia, nikarudishiwa heshima yangu na fahari yangu kwa ajili ya utukufu wa ufalme wangu. Washauri wangu na wakuu wangu walikuja kunitafuta, nami nikarudishwa kwenye kiti changu cha ufalme hata nikawa mkuu kuliko mwanzoni.
+Basi mimi, Nebukadneza, humhimidi, na humtukuza na kumsifu Mfalme wa mbinguni, kwa sababu kila kitu afanyacho ni haki, na njia zake zote ni adili. Nao waendao kwa kiburi anaweza kuwashusha.
 Mfalme Belshaza alifanya karamu kubwa kwa ajili ya maelfu ya wakuu wake na akanywa mvinyo pamoja nao.
 Wakati Belshaza alipokuwa akinywa mvinyo wake, aliamuru viletwe vile vikombe vya dhahabu na fedha ambavyo Nebukadneza baba yake alikuwa amevichukua kutoka hekaluni huko Yerusalemu, ili mfalme na wakuu wake, wake zake na masuria wake waweze kuvinywea.
 Kwa hiyo wakavileta vile vikombe vya dhahabu ambavyo vilikuwa vimechukuliwa kutoka Hekalu la Mungu huko Yerusalemu, naye mfalme na wakuu wake, wake zake na masuria wake wakavinywea.
@@ -21971,6 +21971,7 @@ Tekeli: Wewe umepimwa katika mizani na umeonekana umepungua.
 Peresi: Ufalme wako umegawanywa na kupewa Wamedi na Waajemi.”
 Ndipo kwa amri ya Belshaza, Danieli akavikwa nguo za zambarau na mkufu wa dhahabu shingoni, tena akatangazwa kuwa mtawala wa tatu katika ufalme.
 Usiku ule ule, Belshaza mfalme wa Wakaldayo akauawa,
+naye Dario Mmedi akashika ufalme akiwa na miaka sitini na miwili.
 Ilimpendeza Dario kuteua wakuu 120 kutawala katika ufalme wake wote,
 pamoja na wasimamizi watatu juu yao, ambao mmoja wao alikuwa Danieli. Wakuu walitoa hesabu kwa hao wasimamizi ili mfalme asipate hasara.
 Basi Danieli alijidhihirisha, miongoni mwa wasimamizi na wakuu kwa sifa zake za kipekee hata mfalme akapanga kumweka juu ya ufalme wote.
@@ -21999,7 +22000,6 @@ Kisha Mfalme Dario akawaandikia kabila zote za watu, mataifa, na watu wa kila lu
 “Natoa amri hii, kwamba katika kila sehemu ya ufalme wangu, lazima watu wamwogope na kumheshimu Mungu wa Danieli. “Kwa maana yeye ni Mungu aliye hai, naye hudumu milele, ufalme wake hautaangamizwa, nao utawala wake hauna mwisho.
 Huponya na kuokoa; hufanya ishara na maajabu mbinguni na duniani. Amemwokoa Danieli kutoka nguvu za simba.”
 Hivyo Danieli akastawi wakati wa utawala wa Dario, na utawala wa Koreshi Mwajemi.
-
 Katika mwaka wa kwanza wa utawala wa Belshaza mfalme wa Babeli, Danieli aliota ndoto, nayo maono yakapita mawazoni yake alipokuwa amelala kitandani mwake. Akayaandika mambo aliyoyaona katika ndoto yake.
 Danieli akasema: “Katika maono yangu usiku nilitazama, na hapo mbele yangu kulikuwepo na upepo kutoka pande nne za mbingu, ukivuruga bahari kuu.
 Wanyama wanne wakubwa, kila mmoja tofauti na mwenzake, wakajitokeza kutoka bahari.
@@ -22170,6 +22170,8 @@ Gomeri akachukua tena mimba akamzaa binti. Kisha Bwana akamwambia Hosea, “Mwit
 Hata hivyo nitaonyesha upendo kwa nyumba ya Yuda, nami nitawaokoa si kwa upinde, upanga au vita, wala kwa farasi na wapanda farasi, bali kwa njia ya Bwana Mungu wao.”
 Baada ya Gomeri kumwachisha Lo-Ruhama kunyonya, Gomeri alipata mwana mwingine.
 Kisha Bwana akasema, “Mwite Lo-Ami kwa maana ninyi si watu wangu, nami si Mungu wenu.
+“Hata hivyo Waisraeli watakuwa kama mchanga kando ya bahari, ambao hauwezi kupimika wala kuhesabiwa. Mahali pale walipoambiwa, ‘Ninyi si watu wangu,’ wao wataitwa ‘wana wa Mungu aliye hai.’
+Watu wa Yuda na watu wa Israeli wataunganishwa tena, nao watamchagua kiongozi mmoja nao watakwea watoke katika nchi, kwa kuwa siku ya Yezreeli itakuwa kuu sana.
 “Waambie ndugu zako, ‘Watu wangu,’ na pia waambie dada zako, ‘Wapendwa wangu.’
 “Mkemeeni mama yenu, mkemeeni, kwa maana yeye si mke wangu, nami si mume wake. Aondoe sura ya uzinzi katika uso wake na uzinzi kati ya matiti yake.
 Kama sivyo nitamvua nguo zake awe uchi na kumwacha uchi kama siku ile aliyozaliwa. Nitamfanya kama jangwa, nitamgeuza awe nchi ya kiu, nami nitamuua kwa kiu.
@@ -22193,8 +22195,6 @@ Nitakuposa kwa uaminifu, nawe utamkubali Bwana.
 “Katika siku ile nitajibu,” asema Bwana, “nitajibu kwa anga, nazo anga zitajibu kwa nchi;
 nayo nchi itajibu kwa nafaka, divai mpya na mafuta, navyo vitajibu kwa Yezreeli.
 Nitampanda katika nchi kwa ajili yangu mwenyewe; nami nitaonyesha pendo langu kwake yule ambaye nilimwita, ‘Si mpenzi wangu.’ Nitawaambia wale walioitwa, ‘Sio watu wangu,’ ‘Ninyi ni watu wangu’; nao watasema, ‘Wewe ndiwe Mungu wangu.’ ”
-
-
 Bwana akaniambia, “Nenda, ukaonyeshe upendo wako kwa mke wako tena, ingawa amependwa na mwingine naye ni mzinzi. Mpende kama Bwana apendavyo Waisraeli, ingawa wanageukia miungu mingine na kupenda mikate mitamu ya zabibu kavu iliyowekwa wakfu.”
 Basi nilimnunua huyo mwanamke kwa shekeli kumi na tano za fedha, pia kwa kiasi kama cha homeri moja na nusu ya shayiri.
 Kisha nilimwambia, “Utaishi nami kwa siku nyingi, hupaswi kuwa kahaba au kuwa na uhusiano wa karibu na mtu yeyote, nami nitaishi na wewe.”
@@ -22318,6 +22318,7 @@ Watu wangu wamedhamiria kuniacha. Hata kama wakimwita Yeye Aliye Juu Sana, kwa v
 Sitatimiza hasira yangu kali, wala sitageuka na kumharibu Efraimu. Kwa kuwa mimi ndimi Mungu, wala si mwanadamu, Aliye Mtakatifu miongoni mwenu. Sitakuja kwa ghadhabu.
 Watamfuata Bwana; atanguruma kama simba. Wakati angurumapo, watoto wake watakuja wakitetemeka kutoka magharibi.
 Watakuja wakitetemeka kama ndege wakitoka Misri, kama hua wakitoka Ashuru. Nitawakalisha katika nyumba zao,” asema Bwana.
+Efraimu amenizunguka kwa uongo, nyumba ya Israeli kwa udanganyifu. Naye Yuda ni mkaidi dhidi ya Mungu, hata kinyume cha yule mwaminifu Aliye Mtakatifu.
 Efraimu anajilisha upepo; hufukuzia upepo wa mashariki kutwa nzima na kuzidisha uongo na jeuri. Anafanya mkataba na Ashuru na kutuma mafuta ya zeituni Misri.
 Bwana analo shtaka dhidi ya Yuda, atamwadhibu Yakobo kwa kadiri ya njia zake na kumlipa kwa kadiri ya matendo yake.
 Yakobo akiwa tumboni alishika kisigino cha kaka yake; kama mwanadamu, alishindana na Mungu.
@@ -22332,7 +22333,6 @@ Je, Gileadi si mwovu? Watu wake hawafai kitu! Je, hawatoi dhabihu za mafahali hu
 Yakobo alikimbilia katika nchi ya Aramu; Israeli alitumika ili apate mke, ili aweze kulipa kwa ajili yake alichunga kondoo.
 Bwana alimtumia nabii kumpandisha Israeli kutoka Misri, kwa njia ya nabii alimtunza.
 Lakini Efraimu amemchochea sana hasira; Bwana wake ataleta juu yake hatia yake ya kumwaga damu naye atamlipiza kwa ajili ya dharau yake.
-
 Wakati Efraimu alipozungumza, watu walitetemeka, alikuwa ametukuzwa katika Israeli. Lakini alikuwa na hatia ya kumwabudu Baali naye akafa.
 Sasa wanatenda dhambi zaidi na zaidi; wanajitengenezea sanamu kutokana na fedha yao, vinyago vilivyotengenezwa kwa uhodari, vyote kazi ya fundi stadi. Inasemekana kuhusu hawa watu, “Hutoa dhabihu za binadamu na kubusu sanamu za ndama.”
 Kwa hiyo watakuwa kama ukungu wa asubuhi, kama umande wa alfajiri utowekao, kama makapi yapeperushwayo kutoka sakafu ya kupuria nafaka, kama moshi utorokao kupitia dirishani.
@@ -22348,6 +22348,7 @@ Kosa la Efraimu limehifadhiwa, dhambi zake zimewekwa katika kumbukumbu.
 Utungu kama wa mwanamke anayejifungua mtoto humjia, lakini yeye ni mtoto asiyekuwa na hekima; wakati utakapowadia hatatoka katika tumbo la mama yake.
 “Nitawakomboa watu hawa kutoka nguvu za kaburi, nitawakomboa kutoka mautini. Yako wapi, ee mauti, mateso yako? Uko wapi, ee kuzimu, uharibifu wako? “Sitakuwa na huruma,
 hata ingawa Efraimu atastawi miongoni mwa ndugu zake. Upepo wa mashariki kutoka kwa Bwana utakuja, ukivuma kutoka jangwani, chemchemi yake haitatoa maji na kisima chake kitakauka. Ghala lake litatekwa hazina zake zote.
+Watu wa Samaria ni lazima wabebe hatia yao, kwa sababu wameasi dhidi ya Mungu wao. Wataanguka kwa upanga; watoto wao wadogo watatupwa kwa nguvu ardhini, wanawake wao walio na mimba watatumbuliwa.”
 Rudi, ee Israeli, kwa Bwana Mungu wako. Dhambi zako zimekuwa ndilo anguko lako!
 Chukueni maneno pamoja nanyi, mkamrudie Bwana. Mwambieni: “Samehe dhambi zetu zote na utupokee kwa neema, ili tuweze kutoa matunda yetu kama sadaka za mafahali.
 Ashuru hawezi kutuokoa, hatutapanda farasi wa vita. Kamwe hatutasema tena ‘Miungu yetu’ kwa kile ambacho mikono yetu wenyewe imetengeneza, kwa kuwa kwako wewe yatima hupata huruma.”
@@ -22357,7 +22358,6 @@ matawi yake yatatanda. Fahari yake itakuwa kama mti wa mzeituni, harufu yake nzu
 Watu wataishi tena kwenye kivuli chake. Atastawi kama nafaka. Atachanua kama mzabibu, nao umaarufu wake utakuwa kama divai itokayo Lebanoni.
 Ee Efraimu, nina shughuli gani tena na sanamu? Nitamjibu na kumtunza. Mimi ni kama msunobari wenye majani mabichi; kuzaa kwako matunda kunatoka kwangu.”
 Ni nani mwenye hekima? Atayatambua mambo haya. Ni nani mwenye ufahamu? Huyu atayaelewa. Njia za Bwana ni adili; wenye haki huenda katika njia hizo, lakini waasi watajikwaa ndani yake.
-
 Neno la Bwana ambalo lilimjia Yoeli mwana wa Pethueli.
 Sikilizeni hili, enyi wazee; sikilizeni, ninyi nyote mnaoishi katika nchi. Je, jambo kama hili lilishawahi kutokea katika siku zenu au katika siku za babu zenu?
 Waelezeni watoto wenu, na watoto wenu wawaambie watoto wao, na watoto wao kwa kizazi kitakachofuata.
@@ -22405,32 +22405,32 @@ Sakafu za kupuria zitajaa nafaka, mapipa yatafurika mvinyo mpya na mafuta.
 “Nitawalipa kwa ajili ya miaka ile iliyoliwa na nzige: parare, madumadu na tunutu, jeshi langu kubwa ambalo nililituma katikati yenu.
 Mtakuwa na wingi wa vyakula mpaka mshibe, na mtalisifu jina la Bwana Mungu wenu, ambaye amefanya maajabu kwa ajili yenu; kamwe watu wangu hawataaibishwa tena.
 Ndipo mtakapojua kwamba mimi niko katika Israeli kwamba mimi ndimi Bwana Mungu wenu, na kwamba hakuna mwingine; kamwe watu wangu hawataaibika tena.
+“Hata itakuwa, baada ya hayo, nitamimina Roho wangu juu ya wote wenye mwili. Wana wenu na binti zenu watatabiri, wazee wenu wataota ndoto, na vijana wenu wataona maono.
+Hata juu ya watumishi wangu, wanaume kwa wanawake, katika siku zile nitamimina Roho wangu.
+Nami nitaonyesha maajabu katika mbingu na duniani: damu, moto na mawimbi ya moshi.
+Jua litageuzwa kuwa giza na mwezi kuwa mwekundu kama damu, kabla ya kuja siku ya Bwana ile kuu na ya kutisha.
+Na kila mtu atakayeliitia jina la Bwana ataokolewa. Kwa maana juu ya Mlima Sayuni na katika Yerusalemu kutakuwepo wokovu, kama Bwana alivyosema, miongoni mwa walionusurika ambao Bwana awaita.
 “Katika siku hizo na wakati huo, nitakaporejesha neema ya Yuda na Yerusalemu,
 nitayakusanya mataifa yote na kuyaleta katika Bonde la Yehoshafati Hapo nitaingia kwenye hukumu dhidi yao kuhusu urithi wangu, watu wangu Israeli, kwa kuwa waliwatawanya watu wangu miongoni mwa mataifa na kuigawa nchi yangu.
 Wanawapigia kura watu wangu na kuwauza wavulana ili kupata makahaba; waliwauza wasichana ili wapate kunywa mvinyo.
 “Sasa una nini dhidi yangu, ee Tiro na Sidoni, nanyi nchi zote za Ufilisti? Je, mnanilipiza kwa yale niliyoyafanya? Kama mnalipa, mimi nitalipiza juu ya vichwa vyenu kwa kasi na kwa haraka yale mliyoyatenda.
 Kwa kuwa mlichukua fedha na dhahabu yangu pia mkabeba hazina zangu nzuri sana mkapeleka kwenye mahekalu yenu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mliwauza watu wa Yuda na Yerusalemu kwa Wayunani, ili kwamba mpate kuwapeleka mbali na nchi yao.
+“Tazama nitawaamsha kutoka zile sehemu mlizowauza, nami nitawalipiza juu ya vichwa vyenu kile mlichofanya.
+Nitawauza wana wenu na binti zenu kwa watu wa Yuda, nao watawauza kwa Waseba, taifa lililo mbali.” Bwana amesema.
+Tangazeni hili miongoni mwa mataifa: Jiandaeni kwa vita! Amsha askari! Wanaume wote wapiganaji wasogee karibu na kushambulia.
+Majembe yenu yafueni yawe panga na miundu yenu ya kukatia iwe mikuki. Aliye dhaifu na aseme, “Mimi nina nguvu!”
+Njooni haraka, ninyi mataifa yote kutoka pande zote, kusanyikeni huko. Shusha wapiganaji wako, Ee Bwana!
+“Mataifa na yaamshwe; na yasonge mbele kuelekea Bonde la Yehoshafati, kwa kuwa nitaketi mahali pale kuhukumu mataifa yote yaliyoko kila upande.
+Tia mundu, kwa kuwa mavuno yamekomaa. Njooni, mkanyage zabibu, kwa kuwa shinikizo la kukamua zabibu limejaa na mapipa yanafurika: kwa kuwa uovu wao ni mkubwa!”
+Umati mkubwa, umati mkubwa katika bonde la uamuzi! Kwa kuwa siku ya Bwana ni karibu katika bonde la uamuzi.
+Jua na mwezi vitatiwa giza, na nyota hazitatoa mwanga wake tena.
+Bwana atanguruma kutoka Sayuni na mshindo wa ngurumo kutoka Yerusalemu; dunia na mbingu vitatikisika. Lakini Bwana atakuwa kimbilio la watu wake, ngome imara kwa ajili ya watu wa Israeli.
+“Ndipo mtakapojua kwamba Mimi, Bwana Mungu wenu, nakaa Sayuni, mlima wangu mtakatifu. Yerusalemu utakuwa mtakatifu; kamwe wageni hawatavamia tena.
+“Katika siku hiyo milima itadondosha divai mpya, na vilima vitatiririka maziwa; mabonde yote ya Yuda yatatiririka maji. Chemchemi itatiririka kutoka kwenye nyumba ya Bwana na kunywesha Bonde la Shitimu.
+Lakini Misri itakuwa ukiwa, Edomu itakuwa jangwa tupu, kwa sababu ya jeuri waliofanya kwa watu wa Yuda, ambao katika nchi yao walimwaga damu isiyo na hatia.
+Yuda itakaliwa na watu milele na Yerusalemu itadumu vizazi vyote.
+Hatia yao ya damu, ambayo sijasamehe, nitasamehe.” Bwana anakaa Sayuni!
 Maneno ya Amosi, mmoja wa wachunga wanyama wa Tekoa: yale aliyoyaona kuhusu Israeli miaka miwili kabla ya tetemeko la ardhi, wakati Uzia alikuwa mfalme wa Yuda, na Yeroboamu mwana wa Yehoashi alikuwa mfalme wa Israeli.
 Alisema: “Bwana ananguruma toka Sayuni, pia ananguruma kutoka Yerusalemu; malisho ya wachunga wanyama yanakauka, kilele cha Karmeli kinanyauka.”
 Hili ndilo asemalo Bwana: “Kwa dhambi tatu za Dameski, hata kwa dhambi nne, sitaizuia ghadhabu yangu. Kwa sababu aliipura Gileadi kwa vyombo vya chuma vyenye meno.
@@ -22614,6 +22614,7 @@ Badala yake, wale watu walijitahidi kupiga makasia wawezavyo ili wapate kurudi p
 Ndipo wakamlilia Bwana, “Ee Bwana, tafadhali usituue kwa kuondoa uhai wa mtu huyu. Usituhesabie hatia kwa kuutoa uhai wa mtu asiyekuwa na hatia, kwa kuwa wewe, Ee Bwana, umefanya kama ilivyokupendeza.”
 Kisha walimchukua Yona, wakamtupa baharini nayo bahari iliyokuwa imechafuka ikatulia.
 Katika jambo hili watu wakamwogopa Bwana sana, wakamtolea Bwana dhabihu na kumwekea nadhiri.
+Lakini Bwana akamwandaa nyangumi kummeza Yona, naye Yona alikuwa ndani ya tumbo la nyangumi kwa siku tatu, usiku na mchana.
 Akiwa ndani ya tumbo la nyangumi, Yona alimwomba Bwana Mungu wake.
 Akasema: “Katika shida yangu nalimwita Bwana, naye akanijibu. Kutoka kina cha kaburi niliomba msaada, nawe ukasikiliza kilio changu.
 Ulinitupa kwenye kilindi, ndani kabisa ya moyo wa bahari, mikondo ya maji ilinizunguka, mawimbi yako yote na viwimbi vilipita juu yangu.
@@ -22624,7 +22625,6 @@ Nilizama chini sana mpaka pande za mwisho za milima, makomeo ya hiyo nchi yalini
 “Wale watu wanaongʼangʼana na sanamu zisizofaa hupoteza neema ile ambayo ingekuwa yao.
 Lakini mimi, kwa wimbo wa shukrani, nitakutolea dhabihu. Lile nililowekea nadhiri nitalitimiza. Wokovu watoka kwa Bwana.”
 Basi Bwana akamwamuru yule nyangumi, naye akamtapika Yona katika nchi kavu.
-
 Ndipo neno la Bwana likamjia Yona mara ya pili:
 “Ondoka uende katika mji mkubwa wa Ninawi, ukautangazie ujumbe ninaokupa.”
 Yona akalitii neno la Bwana naye akaenda Ninawi. Basi Ninawi ulikuwa mji maarufu sana, ilichukua siku tatu kuuzunguka.
@@ -22700,7 +22700,6 @@ Gaagaa kwa utungu, ee Binti Sayuni, kama mwanamke mwenye utungu wa kuzaa, kwa ku
 Lakini sasa mataifa mengi yamekusanyika dhidi yako. Wanasema, “Mwache anajisiwe, macho yetu na yatazame Sayuni kwa furaha!”
 Lakini hawayajui mawazo ya Bwana; hawauelewi mpango wake, yeye awakusanyaye kama miganda kwenye sakafu ya kupuria.
 “Inuka upure, ee Binti Sayuni, kwa kuwa nitakupa pembe za chuma; nitakupa kwato za shaba na utavunja vipande vipande mataifa mengi.” Utatoa mapato yao waliopata kwa udanganyifu kwa Bwana, utajiri wao kwa Bwana wa dunia yote.
-
 Panga majeshi yako, ee mji wa majeshi, kwa kuwa kuzingirwa kumepangwa dhidi yetu. Watampiga mtawala wa Israeli shavuni kwa fimbo.
 “Lakini wewe, Bethlehemu Efrathi, ingawa u mdogo miongoni mwa koo za Yuda, kutoka kwako atatokea kwa ajili yangu yeye atakayekuwa mtawala katika Israeli, ambaye asili yake ni kutoka zamani, kutoka milele.”
 Kwa hiyo Israeli utaachwa mpaka wakati mwanamke aliye na utungu atakapozaa na ndugu zake wengine warudi kujiunga na Waisraeli.
@@ -22715,6 +22714,7 @@ Nitaiangamiza miji ya nchi yenu na kuziangusha chini ngome zenu zote.
 Nitaangamiza uchawi wenu na hamtapiga tena ramli.
 Nitaangamiza vinyago vyenu vya kuchonga na mawe yenu ya ibada yatoke katikati yenu; hamtasujudia tena kazi ya mikono yenu.
 Nitangʼoa nguzo za Ashera katikati yenu na kubomoa miji yenu.
+Nitalipiza kisasi kwa hasira na ghadhabu juu ya mataifa ambayo hayajanitii.”
 Sikiliza asemalo Bwana: “Simama, tetea shauri lako mbele ya milima; vilima na visikie lile unalotaka kusema.
 Sikilizeni, ee milima, mashtaka ya Bwana, sikilizeni, enyi misingi ya milele ya dunia. Kwa kuwa Bwana ana shauri dhidi ya watu wake; anatoa mashtaka dhidi ya Israeli.
 “Watu wangu, nimewatendea nini? Nimewalemea kwa jinsi gani? Mnijibu.
@@ -22765,6 +22765,7 @@ Ee Ninawi, kutoka kwako amejitokeza mmoja, ambaye anapanga shauri baya dhidi ya 
 Hili ndilo asemalo Bwana: “Ingawa wana muungano nao ni wengi sana, watakatiliwa mbali na kuangamia. Ingawa nimekutesa wewe, ee Yuda, sitakutesa tena.
 Sasa nitavunja nira zao kutoka shingo yako, nami nitazivunjilia mbali pingu zako.”
 Hii ndiyo amri Bwana aliyoitoa kukuhusu wewe, Ninawi: “Hutakuwa na wazao watakaoendeleza jina lako. Nitaharibu sanamu za kuchonga na sanamu za kuyeyusha ambazo zipo katika hekalu la miungu yenu. Nitaandaa kaburi lako, kwa maana wewe ni mwovu kabisa.”
+Tazama, huko juu milimani, miguu ya huyo mmoja aletaye habari njema, ambaye anatangaza amani! Ee Yuda, sherehekea sikukuu zako, nawe utimize nadhiri zako. Waovu hawatakuvamia tena; wataangamizwa kabisa.
 Mshambuliaji anasogea dhidi yako, Ninawi. Linda ngome, chunga barabara, jitieni nguvu wenyewe, kusanya nguvu zako zote!
 Bwana atarudisha fahari ya Yakobo, kama fahari ya Israeli, ingawa waangamizi wamewaacha ukiwa na wameharibu mizabibu yao.
 Ngao za askari wake ni nyekundu, mashujaa wamevaa nguo nyekundu. Chuma kwenye magari ya vita chametameta, katika siku aliyoyaweka tayari, mikuki ya mierezi inametameta.
@@ -22778,7 +22779,6 @@ Ameharibiwa, ametekwa nyara, ameachwa uchi! Mioyo inayeyuka, magoti yanalegea, m
 Liko wapi sasa pango la simba, mahali ambapo waliwalisha watoto wao, ambapo simba dume na simba jike walikwenda na ambapo wana simba walikwenda bila kuogopa chochote?
 Simba aliua mawindo ya kutosha watoto wake, alinyonga mawindo kwa ajili ya mwenzi wake, akijaza makao yake kwa alivyoua na mapango yake kwa mawindo.
 Bwana Mwenye Nguvu Zote anatangaza, “Mimi ni kinyume na ninyi. Magari yenu ya vita nitayateketeza kwa moto, na upanga utakula wana simba wako. Sitawaachia mawindo juu ya nchi. Sauti za wajumbe wako hazitasikika tena.”
-
 Ole wa mji umwagao damu, uliojaa uongo, umejaa nyara, usiokosa kuwa na vitu vya kuteka nyara.
 Kelele za mijeledi, vishindo vya magurudumu, farasi waendao mbio na mshtuo wa magari ya vita!
 Wapanda farasi wanaenda mbio, panga zinameremeta, na mikuki inangʼaa! Majeruhi wengi, malundo ya maiti, idadi kubwa ya miili isiyohesabika, watu wanajikwaa juu ya mizoga:
@@ -22962,6 +22962,10 @@ Kisha malaika yule aliyekuwa akizungumza nami akasema, “Tangaza neno hili: Hil
 lakini nimeyakasirikia sana mataifa yanayojisikia kuwa yako salama. Nilikuwa nimewakasirikia Israeli kidogo tu, lakini mataifa hayo yaliwazidishia maafa.’
 “Kwa hiyo, hivi ndivyo asemavyo Bwana: ‘Nitairudia Yerusalemu kwa rehema na huko nyumba yangu itajengwa tena. Nayo kamba ya kupimia itanyooshwa Yerusalemu,’ asema Bwana Mwenye Nguvu Zote.
 “Endelea kutangaza zaidi kwamba: Hivi ndivyo asemavyo Bwana Mwenye Nguvu Zote: ‘Miji yangu itafurika tena ustawi na Bwana atamfariji tena Sayuni na kumchagua Yerusalemu.’ ”
+Kisha nikatazama juu, na pale mbele yangu nikaona pembe nne!
+Nikamuuliza yule malaika aliyekuwa akizungumza nami, “Ni nini hivi?” Akanijibu, “Hizi ni zile pembe zilizowatawanya Yuda, Israeli na Yerusalemu.”
+Kisha Bwana akanionyesha mafundi wanne.
+Nikauliza, “Hawa wanakuja kufanya nini?” Akanijibu, “Hizi ndizo pembe zilizowatawanya Yuda ili asiwepo atakayeweza kuinua kichwa chake, lakini mafundi wamekuja kuzitia hofu na kuzitupa chini hizi pembe za mataifa ambayo yaliinua pembe zao dhidi ya nchi ya Yuda na kuwatawanya watu wake.”
 Kisha nikatazama juu: pale mbele yangu alikuwepo mtu mwenye kamba ya kupimia mkononi mwake!
 Nikamuuliza, “Unakwenda wapi?” Akanijibu, “Kupima Yerusalemu, kupata urefu na upana wake.”
 Kisha malaika aliyekuwa akizungumza nami akaondoka, malaika mwingine akaja kukutana naye
@@ -22975,10 +22979,6 @@ hakika nitauinua mkono wangu dhidi yao ili watumwa wao wawateke nyara. Ndipo mta
 “Mataifa mengi yataunganishwa na Bwana siku hiyo, nao watakuwa watu wangu. Nitaishi miongoni mwenu nanyi mtajua kwamba Bwana Mwenye Nguvu Zote amenituma kwenu.
 Bwana atairithi Yuda kama fungu lake katika nchi takatifu na atachagua tena Yerusalemu.
 Tulieni mbele za Bwana, enyi watu wote, kwa sababu ameinuka kutoka makao yake matakatifu.”
-
-
-
-
 Kisha akanionyesha Yoshua, kuhani mkuu, akiwa amesimama mbele ya malaika wa Bwana, naye Shetani amesimama upande wake wa kuume ili amshtaki.
 Bwana akamwambia Shetani, “Bwana akukemee Shetani! Bwana, ambaye ameichagua Yerusalemu, akukemee! Je, mtu huyu siyo kijinga kinachowaka kilichonyakuliwa kwenye moto?”
 Wakati huu, Yoshua alikuwa amevaa nguo chafu alipokuwa amesimama mbele ya malaika.
@@ -23205,12 +23205,12 @@ Lakini sasa wenye kiburi wanabarikiwa. Hakika watenda mabaya wanastawi, pia hata
 Ndipo wale waliomcha Bwana wakasemezana wao kwa wao, naye Bwana akasikiliza na akasikia. Kitabu cha kumbukumbu kikaandikwa mbele yake kuhusu wale ambao walimcha Bwana na kuliheshimu jina lake.
 “Nao watakuwa watu wangu,” asema Bwana Mwenye Nguvu Zote, “katika siku ile nitakapowafanya watu kuwa hazina yangu. Nitawahurumia, kama vile kwa huruma mtu amhurumiavyo mwanawe anayemtumikia.
 Kwa mara nyingine tena utaona tofauti kati ya wenye haki na waovu, kati ya wale wanaomtumikia Mungu na wale wasiomtumikia.
-
-
-
-
-
-
+“Hakika siku inakuja, itawaka kama tanuru. Wote wenye kiburi na kila mtenda mabaya watakuwa mabua makavu, na siku ile inayokuja itawawasha moto,” asema Bwana Mwenye Nguvu Zote. “Hakuna mzizi wala tawi litakalosalia kwao.
+Bali kwenu ninyi mnaoliheshimu Jina langu, jua la haki litawazukia, lenye kuponya katika mabawa yake. Nanyi mtatoka nje na kurukaruka kama ndama aliyeachiwa kutoka zizini.
+Kisha ninyi mtawakanyaga waovu, nao watakuwa majivu chini ya nyayo za miguu yenu siku ile nitakayofanya mambo haya,” asema Bwana Mwenye Nguvu Zote.
+“Kumbukeni sheria ya mtumishi wangu Mose, amri na sheria nilizompa huko Horebu kwa ajili ya Israeli wote.
+“Tazama, nitawapelekea nabii Eliya kabla ya kuja siku ile iliyo kuu na ya kutisha ya Bwana.
+Ataigeuza mioyo ya baba iwaelekee watoto wao, na mioyo ya watoto iwaelekee baba zao, la sivyo nitakuja na kuipiga nchi kwa laana.”
 Habari za ukoo wa Yesu Kristo mwana wa Daudi, mwana wa Abrahamu:
 Abrahamu akamzaa Isaki, Isaki akamzaa Yakobo, Yakobo akawazaa Yuda na ndugu zake,
 Yuda akawazaa Peresi na Zera, ambao mama yao alikuwa Tamari, Peresi akamzaa Hesroni, Hesroni akamzaa Aramu,
@@ -27691,7 +27691,7 @@ Kwa hiyo, kwa kuwa mambo haya hayakanushiki, inawapasa mnyamaze na wala msifanye
 Kwa kuwa mmewaleta hawa watu hapa, ingawa hawajaiba hekaluni wala kumkufuru huyu mungu wetu wa kike.
 Basi, ikiwa Demetrio na mafundi wenzake wana jambo zito dhidi ya mtu yeyote, mahakama ziko wazi na wasaidizi wa mwakilishi wa mtawala. Wanaweza kufungua mashtaka.
 Lakini kama kuna jambo jingine lolote zaidi mnalotaka kulileta, itabidi lisuluhishwe katika kusanyiko halali.
-Kama ilivyo sasa, tuko hatarini kushtakiwa kwa kufanya ghasia kwa sababu ya tukio la leo. Kwa kuwa hakuna sababu tutakayoweza kutoa kuhalalisha msukosuko huu.”
+Kama ilivyo sasa, tuko hatarini kushtakiwa kwa kufanya ghasia kwa sababu ya tukio la leo. Kwa kuwa hakuna sababu tutakayoweza kutoa kuhalalisha msukosuko huu.” Baada ya kusema haya akavunja mkutano.
 Baada ya zile ghasia kumalizika, Paulo aliwaita wanafunzi pamoja akawatia moyo, akawaaga, akaanza safari kwenda Makedonia.
 Alipita katika sehemu zile, akinena na watu maneno mengi ya kuwatia moyo. Ndipo hatimaye akawasili Uyunani,
 ambako alikaa kwa muda wa miezi mitatu. Alipokuwa anakaribia kuanza safari kwa njia ya bahari kwenda Shamu, kwa sababu Wayahudi walikuwa wamefanya shauri baya dhidi yake, aliamua kurudi kupitia njia ya Makedonia.

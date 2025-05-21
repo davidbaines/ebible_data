@@ -926,6 +926,7 @@ Manam yimba maivethavav, memba honmba kava songowol vevpa pi hovrava, eva nomba 
 wo sewonamba kava kuvhoavavmoa honamba, yemongova daos uvra, eva manam yimba kuvhueivav honamba, kamongo yimba owalwolalmba vevrava. Doa pimba tanamolmoa ihishoi, wo honamba honmba pina nengavnangm si os tuhhowol vinvra, doa tanamolnam wohihishona.
 Sesoava pimba si os lesvhoawol vevav, Aprahami Nahori simbelsambla sembayang evelohmanavnam. Doa Yakopva omnana, lehra, tanamolnam kava yemba ishomnav, Sesoana novra kava ishov, temba kavna aralva Isakva sembayang vemnanamba.
 Doa Yakopva phonamba, tatamba miklenamba, doa suwera wuweihana, wohweisumbulona di olora, Sesoam nonam sembayang vemnavna, doa sisva innemba hlanamba, hevna towandalm unna, ambo hlalm. Doa hlapianamba, di olora shana.
+Doa simolnam meralva englava kakaiv vinnamba hevna umbeindilnam, eva mol samblanam, doa henga os gana hevna deuvram.
 Doa Yakopva wongavna monam henga hevna aralindam, doa Sesoana ovsongolnindva hem nonglalm ambvna monaram.
 Wo Yakopva hev nongalphonamba, ona, memba Sesoana kembelva, noinda no pethamba osva sevrana, Mahanaim.
 Doa wongavnamba, himba hevna moashulnindrini samblamba mi wolanga venamba, unna, yeoa mi engavm Esauindam kavna eteindam dom Etom petharam, wo os ohomno, memba Yakopna boaslapevna moamba. Kava merainda mindnam ambo avna, wo daipotangas kava henga wonprov.
@@ -958,7 +959,6 @@ Doa Yakop omnana, lehra, doa pevm nihilm sevro. Doa hev omnana, es hevpa yimba k
 Doa Yakop ona, kava Sesoana novlomosmba doa nonglai, heva os kamba dahavmoa, owai, kanandhav. Noinda no pethava sevrana, os Peniel. Penielva osm ovna, Sesoana novlomos.
 Doa himba nominiva gavnamba, lingil lihavnamba, wo himba eisko vungavna yuhra.
 Wo daipotava Israelnindva tatamba hlavpa, heva os owai, himba hlavmoa yuhalva, manara, tendorini doara kelkovhoamnana Yakopna yuhvalva.
-
 Doa Yakopva monam wongavna, etelm Esaum nonglanga vena, ona pai, ten wonprov 400pelara. Doa hevna ungevlim unna, pevna ombpovmoa wonango. Andranind unguvlirini sambla mioa wonengavm, wo Lea hovra yeoa wongavm, wo Resel yeoa sis waingavm Yosepkalamoa.
 <range>
 Doa Yakop hev mi gavna, ku kusithamnavna Esaum, osm ovna, kuwul, doa os murapeta promnavna, mindnam kusithawol venana 7pelalm.
@@ -22614,6 +22614,7 @@ Doa andranindva henga botm wulangalm vevna engalpethallam. Heva os owai, botva o
 Doa no botna andranindva Yawem mindnam ishumnivna os, kava ata hona tendoriniva Yonamba pilpipovvav wanplombra, wo manam yimba kamba hengava esesmba indkokla vewol vevav henilmba. Manara, yimba Yawe, pev vuviva honamba deuhphoi. Wo manam yimba kamba osva ishunvra, temba pevpa ishunvpa no pevna indhanamba, temba helvakomo vewol vivpa owalmba.
 Doa Yonamba os kevrinamba, botriniva wanplombra pilpipovna, wo wanmba lilnam henga hevnavhora beswonam lithavna.
 Wo osva botna andranindva mindnam pem vivna, Yawenapenam, wo Yawem sembayang vinivna, tatamba wesang vinivna, wohweisumbul owolovna hemba. Os uvna, si kava Yawemba sembayang velvohmana venavav.
+Doa Yaweva wanmerinim tambkom mendeklim wolaihangana, Yonam wunukhoalm. Wo Yonamba tambkona emerava diva os ana, okomba samblamong si samblamong.
 Yonava tambkona emerava livnamba, Sesoam himba sembayang vaomnavna os,
 Yawe, yem kava ishomnav, hona indkoklava mendekliva kamba nonglaphoiva, wo noinda yem kava sahmanai. Kamba nepola velm vei, di indhanana sumbhol avm, wo yimba kamba hellei.
 Doa pev men kam wanplombmera holopipahai, wo os kava wan endallam pihai. Wan kamba wohehlithi, wo ombokva mendekli kasra sena vevna, no ombokva pev ten doara deuhphoim.
@@ -22624,7 +22625,6 @@ Kava os nengvna, kamba dahav, novpa kanamba velawosa vevna, wo noinda yemba kava
 Monglava indhanamba yemba meis haravhueimniv, hevna tihsongomangas okolowol viv, heva os no tihva indhanamba kekalvho vewol vinvmoa.
 Heva os kavpa owai, kava si yemba sembayang vemnavav tatasowanahonam, wo yemba okolavra sangalna. Memba yemba kava wohishomniva, si kava vevav, manara, doa kava yemba lihai, yengas indhanamba lopshawol vev, noinda beswonam av.
 Wo doa nonamba Yaweva tambkom omnana, Yonam nongollahalm gao wan engallam beswonam.
-
 Doa Yaweva henga Yonam omnana,
 phorava, honaminioa dom gao Nineva mendekli kembellam, wo ishungu vinu no kana mendeklimom, ten seilm pevm kav ishomnanam.
 Wo Yonava no Sesoana moamba hellenamba, Ninevaram ga. Nineva kembelva nomba mendeklinonoa wohlohvna, wo kembelhovmonamba indhanamba angavnamba, simba samblamong vewol velvohvna.
@@ -27691,7 +27691,7 @@ Mongova osva ovovmoa, memba honamba owai tanamba. Wo noinda osva yeoa vuthoapro 
 Yimba wonambei hona indhanarini samblamba homba, wo heva os himba ihishumnivnamoa moakoklawonamba pina tihongorinimba. Himba yukovnamba evreinamoa mana vemava henamba tempelduvriniva.
 Pinamba luhunvtava wetatva lohohmorava, wo eva av men duangva. Wo es hevpa Demitrius eva indhana, noi hev ten wonandra vevna, mongawatilm himba wetatmoa ishumnivma indhanarinim? Himba osva angavav dom wetatduvram. Noinda di himba osva alhuvav henomongova duangna novrava.
 Wo manamom yimba henamba mongmomba isholmba viv? Wo osva ata os luhunvav yenamba, no moaoa di ishu, pi indhana nonam ten kusolohvm duangna novraoa.
-Kava ov honamba, noinda monglava indhanamba ata nunglirava honamba, memba yimba vivpa, wo uvra, os yimba moam kinilm ongindvriv, ombam ambo moalm. Wo pivva es eva ishunvav beswonamba duangmba temurava honamba?, noinda owai, tanamba plalva lohmanavnamoa hona moaramba.
+Kava ov honamba, noinda monglava indhanamba ata nunglirava honamba, memba yimba vivpa, wo uvra, os yimba moam kinilm ongindvriv, ombam ambo moalm. Wo pivva es eva ishunvav beswonamba duangmba temurava honamba?, noinda owai, tanamba plalva lohmanavnamoa hona moaramba. Wo nonamba kota tombai andranindriniva ishopianamba nomba manam manam, himba os wolanga vungu vena deuvramba.
 Nomba puvuldiawoiva daosmonamba sesoakoheinnamba, Polva onbavna Kristusnindmba, kusomnalm hevindam. Wo doa hev henga numhowol venamba eunillam, unna, beswonam keknam osangas aevulvm. Polva os sandhalahangana Masetoniaramba.
 Himba ishungeinvna mindnam manam manam, pupul vewolalm Kristusnindm no kembella, no kembella momnanam, hev dom gavnam Masetoniam. Wo os phona Grik petharava.
 Wo himba diva samblamongwisnam ana. Wo doa himba botra galm vevna Siria provinsram, heva os monglava Yutanindva diva nengavnangva vrivna doa, helvakomandhalmba Polmba. Wo noinda Polva hengava weilmonamba gana Masetoniamba pethamonam.

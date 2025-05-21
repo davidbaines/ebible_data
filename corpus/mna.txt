@@ -926,6 +926,7 @@ To Laban iseeŋge sua kini ma iso: “Tana re pat ndouŋana mi pat suŋgunŋana 
 Koroŋ ru tiŋgi be tipei ŋgar kiti mi matanda iŋgal sua kiti mbukŋana. Sua ta kembei: Nio ko irao aŋmolo pat ndouŋana tiŋgi mi aŋma ma aŋkam mbulu sananŋana sa pu na som. Mi nu tomini ko irao molo pat ndouŋana ma pat suŋgunŋana tiŋgi, mi mar ma kam mbulu sananŋana sa pio na som.
 Anutu ki Abaraam, ziru anutu ki Naor ko tire kiskis ituru pa mbulu kiti. Mi sombe kiti tasa ikam sanaana, inako tiur kadoono pini.” Laban iso sua tana makiŋ, tona Yakop tomini ipaata Anutu ta tamaana Isak imototo i mi imbesmbeeze pini na zaana be ipombol sua mbukŋana tana.
 Tona ipun mbili ta ma ineeni sala abal uteene be ipatoron Merere pa. To iboobo wal ta boozomen ma timar, ma ziŋan tikan kini ma imap, mi tikeene su lele tana pa mbeŋ.
+Mankwoono mbeŋbeŋŋana na, Laban imaŋga, to ikat lutuunu moori bizin mi tumbuunu bizin naman, mi ipombol zin pa sua pakan, mana izem zin, mi imiili ma ila mini pa kar kini.
 Mi Yakop tomini, ni imaŋga mini pa pai kini, mi ipa ma ila, mi zin aŋela ki Anutu tipet kini su zaala lwoono.
 Yakop ire zin na, iso: “Wae! Iŋgi sa zin malmal kan ki Anutu na.” Tana ipaata lele tana be Manaim.
 Tona Yakop iŋgo tomtom pakan be tikam sua mi timuuŋgu ma tila ki toono Isau, ta imbotmbot su lele abalabalŋana ki Seir. Toono tana imbot lele pakaana ki Edom.
@@ -958,7 +959,6 @@ To Yakop iso: “Mi nu zom asiŋ?” Tomtom tana ipekel kwoono ma iso: “Parei 
 Mi Yakop iso: “Nio aŋre Anutu pa motoŋ kek, tamen aŋmeete som.” Tana ipaata lele tana zaana be Peniel.
 Zoŋ ise na, Yakop izem lele Peniel tana, mi ipa kelsuk ma ila. Paso, ka soobo imbekes.
 Uunu tina ta zin Israel tirao tikan buzur mazaana ta imbot la buzur ka soobo som, ta muŋgu mi imar ma indeeŋe koozi. Paso, Merere ipun Yakop ka soobo ma imbekes.
-
 Yakop ipa ma ila, to mataana ila na, ire toono Isau imar raama zin tomtom kini munŋaana ta. Tabe ibalak lutuunu bizin ki Lea, mi Rael, mi mbesooŋo moori kini ru.
 Mi iur zin mbesooŋo moori ru ziŋan lutun bizin ma timuuŋgu, to Lea ziŋan lutuunu bizin tito zin, mi Rael ziru lutuunu Yosep tipa kaimer.
 Mi Yakop itunu imuuŋgu. Ipa ma ila ma ire la pa toono, to ilek kumbuunu pini. To imaŋga mini ma ila ŋana ri, to ilek kumbuunu mini. Ikamam ta kembei ma irao lamata mi ru. Ni ikamam, mi toono iloondo ma imar na isou i mi ziru titaŋ.
@@ -1709,10 +1709,6 @@ Tamen zin naborouŋan kizin Aikuptu timaŋga mi tikam naborou kizin pa yok ma ip
 Mi king itoori, mi imiili ma ila ruumu kini, to mataana mbeleele mbulu tana, mi ikam ŋgar pa mini som.
 Mi zin iwal biibi ki Aikuptu na, tirao be tiwin yok Nil som. Tana tisu mi titoutou kan yok isu yok kezeene.
 Yooba ipasaana yok Nil ma isaana, mi imbotmbot ta kembei ma irao aigule lamata mi ru.
-
-
-
-
 Aigule lamata mi ru tana imap, to Yooba isu na iso pa Mose. Iso: “La ki king mini mi so pini ta kembei: ‘Yooba isombe nu zem zin wal kini Israel ma tila be tikam suŋŋana pini.
 Mi sombe yok pizin som, na re u. Pa ni ko iseeze motoyom mini pa ŋgeu. Ko ikam ma ŋgeu tilol lele tiom ma imap.
 Yok Nil kola bok pizin. Mi ko tizem yok Nil, mi tilema ruumu ku leleene, mi tima kat murim ta kenne pa i, mi tilulu zin sala mbalia ku. Mi you teegeŋana muriini ku ramaki kuuru ma timbiiri ku ko bokbok pizin. Mi zin bibip ta timuŋmuuŋgu pa uraata ku, ziŋan zin iwal biibi ki Aikuptu na, ŋgeu ko tilela ruumu kizin tomini.
@@ -1741,6 +1737,10 @@ To king imaŋga na iboobo Mose ziru Aron ma timar, mi iso pizin. Iso: “Irao la
 Tamen Mose iso: “E-e, ina ambai som. Patoronŋana tabe amkam pa Yooba Anutu tiam i, na irao amkam su lele tiŋgi som. Kokena mbulu tiam irao pa niom Aikuptu motoyom som, to keteyom malmal piam mi kupun yam pa pat.
 Tana yok piam be amla lele bilimŋana. Ko ampa ma irao aigule tel ma iŋgi, mana amla ampet. To amkam patoronŋana pa Yooba Anutu tiam. Naso amto sua ta ni iur piam na.”
 King ileŋ to iso: “Ambai. Nio aŋyok piom be kala lele bilimŋana mi kakam patoronŋana pa Yooba Anutu tiom. Tamen kala lele molo pepe. Mi motoyom iŋgal yo pa suŋŋana tiom.”
+Mose ipekel kwoono ma iso: “Leŋ. Sombe aŋzemu mi aŋla, tona aŋsuŋ Yooba be gaaga to iziiri zin mberomberom piom. Nu, niomŋan zin bibip ta timuŋmuuŋgu pa uraata ku na, mi zin iwal biibi ki Aikuptu tomini. Mi re: Kokena nu pakaam yam mini, mi ruutu yam be amla amkam patoronŋana som.”
+Iso sua tana, to izemi mi ila ma isuŋ pa Yooba.
+Mi Yooba ileŋ suŋŋana kini, mi iziiri mberomberom ta boozomen ma tizem king ziŋan zin bibip ta timuŋmuuŋgu pa uraata kini na, mi zin iwal biibi ki Aikuptu tomini ma tila len. Sa imbot mini som.
+Tamen king ŋgar kini imbol mini. Tabe izem zin Israel ma tila som.
 Timbotmbot ma Yooba iso pa Mose mini. Iso: “La ki king, mi so pini ta kembei. So: Yooba Anutu kizin Iburu isombe nu zem zin wal kini ma tila be tikam suŋŋana pini.
 Mi nu sombe zoori mi ruutu zin mini, na kozo re u.
 Pa ni mburaana ko iur mete sananŋana kat ise kizin mbili tiom. Tana hos, doŋki, kamel, makau, sipsip, mi mekmek tiom ko timetmeete lup.
@@ -2112,7 +2112,6 @@ Mi sombe mbili sa ipasaana mbesooŋo tomooto sa, som mbesooŋo moori sa ma imeet
 <range>
 Tomtom sa, sombe mbili kini ipasaana tomtom toro mbili kini ma imeete, inako tiŋgomoono mbili kalaŋana, mi ka pat to ziru tiparreege pizin. Mi mbili ta imeete na, ziru ko tipalpaala ma ni kana, ni kana.
 Tamen mbili tana, sombe mbulu kini ta kembenaŋana, mi sombe katuunu imboro kati som mi ikam mbulu tana, inako ni ipekel pa mbili kini ta raraate men, mi ikam ka meeteŋana tana.
-
 “Sombe tomtom sa ikem makau, som sipsip mi ikam mburooŋo pa, som itunu ikan, na bela tomtom tana ipekel makau lamata pa makau ta, mi sipsip paŋ pa sipsip ta, tona ikot sosor kini.
 “Sombe tomtom kuumbuŋana sa ipetepaala ruumu ma ilela pa mbeŋ, mi sombe ruumu katuunu indeeŋi mi ipuni ma imeete, nako le uunu sa som.
 Tamen sombe mbulu ta kembei ipet pa aigule, nako ruumu katuunu le uunu pa meeteŋana ki tomtom kuumbuŋana tana. “Tomtom ta so ikem koroŋ sa, na kozo ipimiili koroŋ tana ma ila ki katuunu mini. Mi sombe ni irao be ipimiili som, nako tiŋgomooni ila kizin wal pakan ma iwe len mbesooŋo, mi tikam ka pat mi tiur la ki koroŋ tana katuunu.
@@ -2143,6 +2142,7 @@ Kokena kiskis mburu kizin pa mbeŋ, to nin tekteege mi tikeene kat som. Paso, mb
 “Motoyom pasom Anutu pepe, mi kigiibi sua sananŋana pizin peeze kan tiom pepe.
 Mi kini, baen, mi olib tiom mataana kana na, motoyom kon pa pepe. Kakam imar pio. Mi lutuyom bizin tomooto ta muŋgamuŋga na tomini, kuur zin ma tiwe leŋ.
 Mi mbili tiom lutun bizin muŋgamuŋga ta tomooto na, ta kembena. Kezem zin ma ziŋan nan bizin timbot ma irao aigule lamata mi ru. Beso aigule iwe lamata mi tel, to kakam zin ma kapatoron yo pa.
+Niom wal potomŋoyom. Pa kewe leŋ kek. Tana koroŋ saŋsaŋŋana sa isombe ipun mbili, som buzur toro sa ma imeete, na kakan pepe. Kigiibi su pizin me ma tikan.
 “Sombe keleŋ sua sa, na loŋa kala mi koso sorok pizin wal pakan pepe. Mi sombe wal sananŋan tiŋgal sua pakaamŋana pa tomtom sa, na kopombol sua kizin pepe. Kokena kagaaba zin pa mbulu kizin tana.
 “Sombe zin iwal biibi tikam mbulu sananŋana sa, na koto zin pepe. Mi sombe tipamender tomtom sa pa sua, mi zin iwal tiŋgal sua pakaamŋana pini, na kopombol sua kizin pepe. Kokena kagaaba zin pa sanaana kizin tana.
 “Sombe tipamender tomtom sorokŋana sa pa sua, na kalae kini sorok pepe. Keleŋ kat sua kini ka uunu muŋgu, to kuur kadoono irao mbulu kini.
@@ -13959,6 +13959,7 @@ Peeze ku ko mbolŋana kat. Tana ko punmeete mburan kembei ta tomtom ipetepaala k
 Tana niom king ta boozomen, kakam kat ŋgar. Mi niom peeze koyom tomini, kere be koto sua tio ti.
 Kozo komoto Yooba, keleŋ la kalŋaana, mi kembeeze pini. Mi kokoto ituyom, mi kelek kumbuyom pa Lutuunu. Kere: Kokena kepei Anutu kete malmalŋana kini, to ipasaana yom karau men, mi kemetmeete ma kala leyom. Paso, ni mata mburmburŋana.
 Mi wal ta so tipase pini be iwe ur pizin mi imenderkaala zin na, zin ta boozomen ko lelen ambai kat, mi kampeŋana kini imbotmbot se kizin.
+
 O Yooba, koŋ koi bizin na, munŋaana ma munŋaana men. Tomtom iwal kat, ta timaŋga be tizooro yo mi tikam malmal pio.
 Wal boozomen tizzo pio ta kembei: “Kere. Anutu ko irao iuuli na som. Pa ipizil ndemeene pini kek.”
 Tamen Yooba, nu we siŋgiao pio mi poroukalkaala yo. Nu ta kam yo ma zoŋ iwe biibi. Koroŋ toro sa som. Mi nu ko pombol yo ma niŋ ise.
@@ -14049,7 +14050,6 @@ Tana zin wal sananŋan ko timiili ma tisula mini toono. Karkari boozomen ta so m
 Pa zin wal ta so timbot ŋoobo mi tiru zalan na, Yooba irao mataana mbeleele zin na som. Tana zin ko timbotmbot ta kembei ma alok na som. Mi zin wal ta so timbotmbot raama pataŋana mi tiur matan pini, na ni irao itit ndomon na som. Ko iuulu zin.
 Yooba, maŋga mi swe mburom! Kokena wal toono kan tipakur zitun ma tiso tilip pu. Pamender zin su kerem uunu, mi ur kadoono pizin.
 Yooba, kam zin ma timoto kat. Pei ŋgar kizin ma tikilaala zitun kembei zin koroŋ sorok ki toono men.
-
 O Yooba, iŋgi pataŋana biibi ikam yo. Parei ta nu piŋgis motom pio, mi mbotmbot molo pio?
 Re. Zin wal sananŋan tipakurkur zitun mi tirru zin wal ta len mburan biibi som na, be tiseeze matan. Yooba, mbulu sananŋana ta lelen iur pa be tikam pizin wal pakan na, pimiili mini pa zitun.
 Wal tana lelen pa mbulu sananŋan boozo, mi nin izze pa. Mi matan koroŋŋan mi kuumbuŋan. Mi tirepilpiili Yooba mi tigibgiibi sua sananŋana pini.
@@ -14075,6 +14075,7 @@ Tamen Yooba, ni imbotmbot lela urum kini potomŋana. Ni imbotmbot se muriini pee
 Yooba itirtiiri zin wal ndeeŋeŋan mi zin sananŋan. Mi zin ta lelen pa mbulu zigzikŋana mi titekteege zaaba pizin tomtom na, ni leleene pizin risa som kat.
 Tana ni ko itiyaara you keseene ramaki koroŋ bayouŋana ta kuziini sananŋana kat na ma isu pizin wal sananŋan. Mi ikam miiri bayouŋana kat ma iseeze matan pa.
 Pa Yooba, ni ndeeŋeŋana mi leleene pa mbulu ndeeŋeŋana. Tana zin wal ta mbulu kizin izal men, ta ko timbotmbot su kereene uunu mi tire i.
+
 O Yooba, uulu yam lak! Pa wal tau tiurur lelen pu mi titoto mbulu ku na, kizin tasa imbot mini som. Mi tomtom ta tizzo sua ŋonoono men na, ta kembena. Timbiriizi lup. Kizin tasa imbot mini som.
 Tomtom ta boozomen tizzo sua ta ŋonoono somŋana i, mi tikamam sua pakaamŋana par pizin. Kwon na, imbesmbeeze pizin tomtom. Mi lelen na, ipa ndel.
 Yooba, yembut sua mbuyeeneŋan boozomen ta iwedet pa kwon i. Zin wal ta tipakurkur zitun mi tizzo: “Niam tomtom ki sua. Mbulu pareiŋana ta so amso pa, na tomtom ko tikam men. Asiŋ ko irao ipeteke yam? Som.” Wal ta kembena na, pumun kwon.
@@ -14088,8 +14089,7 @@ O Yooba, pataŋana biibi taiŋgi imbel teegeŋoŋ kek. Ŋiizi na motom iŋgal yo
 Mbeŋ ma aigule na, leleŋ ipata kat mi aŋkamam ŋgar boozo. Ŋiizi na mar uulu yo? Pa iŋgi koŋ koi ilip pio kek.
 Yooba Anutu tio, re yo mi ŋgun talŋom pa suŋŋana tio ti. Pombol yo mi payaryaara motoŋ. Kokena pataŋana taiŋgi ikoto yo, som ipun yo ma aŋmeete. To koŋ koi bizin tirepiili yo, mi nin se ma tiso tilip pio.
 <range>
-Mi nio na, aŋpase pa mbulu ku ta toto sua ku mbukŋana mi urur lelem pa wal ku. Tana leleŋ ambai kat. Pa nio aŋute: Nu ko kamke yo.
-Nio ko aŋbo mboe mi aŋpakur Yooba zaana. Paso ni ikampe yo ma biibi.
+Mi nio na, aŋpase pa mbulu ku ta toto sua ku mbukŋana mi urur lelem pa wal ku. Tana leleŋ ambai kat. Pa nio aŋute: Nu ko kamke yo. Nio ko aŋbo mboe mi aŋpakur Yooba zaana. Paso ni ikampe yo ma biibi.
 Wal kankaanaŋan ta tizorzooro Anutu na, tizzo pa zitun ta kembei: “Anutu sa som.” Wal ta kembei, ŋgar kizin isaana kek. Mi tiyo naman pa mbulu sananŋan boozomen. Tana Anutu leleene pizin risa som kat. Pa kizin tasa ikam mbulu ambaiŋana sa som.
 Yooba imbotmbot saamba, mi irre su pizin tomtom mi itirtiiri zin. Ko kizin tasa le ŋgar ambaiŋana, mi ikam kinkiini be iute Anutu mi ito mbulu kini?
 Mi som. Timap ma tizem zaala kini kek. Tisaana lup. Kizin tasa ikam mbulu ambaiŋana sa som. Som kat.
@@ -14128,6 +14128,7 @@ Zin kembei laion ta peteli mi irru ka buzur. Zin kembei laion popoŋana tau ikew
 Yooba, maŋga lak! Muuŋgu pio mi koto koŋ koi bizin. Kas zin pa buza ku ma tisu lup.
 Zin na, tire koroŋ ki toono kembei koroŋ kizin ŋonoono kat. Swe mburom pizin, mi pun zin ma timap. Tamen wal ku ta nu lelem pizin ilip na, nu pututu zin mi tikanan ma kopon isaana. Mi lutun bizin na, tirao kat pa koroŋ ta boozomen. Tabe tindoundou koroŋ boozo pa lutun bizin tabe tipet pa kaimer i.
 Mi nio nako aŋre motom. Pa nio tomtom ndeeŋeŋoŋ. Tana sombe aŋkeene mi burup ma aŋmaŋga, nako leleŋ ambai kat mi aŋyamaana kembei aŋbotmbot su kerem uunu.
+
 O Yooba, nio aŋkamam mburoŋ se ku tau. Nio leleŋ pu ilip!
 Yooba, ni ta tuŋ ŋonoono. Pa ipombolmbol yo, mi ipakalkaala yo pa koroŋ sananŋan kembei ta raŋ sumbuunu, mi ni ulaaŋa tio. Ni iwe kembei siiri mbolŋana pio be aŋke lela mi aŋbot ambai. Tana aŋpase pa Anutu tio mbolŋana be iwe seraara pa koŋ koi bizin mi iporoukaala yo. Ni siŋgiao tio. Itunu mburaana ta ikamkewe yo. Mi ni imborro yo ma aŋbot ambai.
 Nio sombe aŋpakur Yooba zaana, na indeeŋe men. Pa aŋboobi na, ni ikamke yo pa koŋ koi bizin naman.
@@ -14249,7 +14250,6 @@ Pa Yooba, ni ta biibi ŋonoono. Ikamam peeze pa tomtom ta munŋaana men ki toono
 Tana zin wal ta tiwe mbio uunu su toono, nako timap mi tilek kumbun pini. Mi wal tau timbot naala kezeene i, na zin tomini ko tilek kumbun pini.
 Mi zin wal ta so timeete, na popoŋana kizin ko timbeeze pa Merere, mi tisoyaara uruunu pizin wal tabe tipet pa kaimer i.
 Wal tana tiso tipet, nako tiso zin pa mbulu kini ndeeŋeŋana. Ko tiso zin pa uraata ta Merere ikamam na.”
-
 Yooba, ni mboroŋan tio ŋonoono. Tana nio ko aŋbot ŋoobo pa koroŋ sa som.
 Pa ni itunu ko iyaaru yo ma aŋla lele ta ambaiŋana kat be keteŋ su mi aŋbotmbot pa. Lele tina na, ka kiniŋana ma yokŋana, mi narenren ambaiŋana.
 Ni ipombolmbol yo ma mburoŋ imilmiili. Mi izzo yo pa zaala kini ndabokŋana. Pa ina, mbulu kini ta kembena.
@@ -14334,6 +14334,7 @@ Mi ikamam ma lele bilimŋana imurur. Ikamam ma lele bilimŋana ki Kades ilala ma
 Yooba kalŋaana ikamam ma buzur saŋsaŋŋan ta koponŋan i, timorsop mi tipepeebe sorok ma tisu. Mi ikamam ma ke runrun ta boozomen titoptop. Tana wal boozomen ta timbotmbot lela Urum Merere na, kalŋan izalla ma tizzo: “Tapakur Yooba! Pa ni zaana mi mburaana biibi kat!”
 Muŋgu indeeŋe nonor biibi na, Yooba imbutul se muriini mi ikamam peeze. Mi koozi tomini, ni king biibi ŋonoono. Peeze kini ko imbotmbot ma alok.
 Yooba ikamam mburaana pa wal kini. Mi ikampewe zin mi mataana pizin ma timbot ambai.
+
 O Yooba, nio aŋpakur zom. Pa nu weene yo ma aŋse mini, mi tatke yo pa pataŋana tio. Tana koŋ koi bizin irao nin se ma tiso tilip pio na som.
 Yooba Anutu tio, nio aŋboobu be uulu yo. Mi iŋgi nu urpe yo ma niŋ ambai kek.
 Rimen mi aŋsula Andewa. Mi som. Pa nu wit yo ma aŋmaŋga mini. Tana aŋsula kizin meeteŋan som, mi iŋgi aŋbot ambai.
@@ -14371,7 +14372,6 @@ Nio aŋpakur Yooba! Pa indeeŋe ta koŋ koi bizin tiliu yo be tikam malmal pio n
 Nio aŋmoto mi aŋso ko ni iziiri yo ma aŋbot molo pini. Tamen som. Aŋtaŋroro i be iuulu yo, mi ni ileŋ tiŋiizi tio mi ikamke yo.
 O niom wal ki Yooba ta kototo zaala kini na, kuur leleyom ila kini! Pa zin wal ta titoto kalŋaana na, ni ko mataana pizin ma timbot ambai. Mi zin ta tizorzoori mi tipakurkur zitun na, ni iurur kadoono pizin ma ikot mbulu kizin.
 Tana niom wal ta kapase pa Yooba mi kuurur motoyom pini na, komoto pepe. Kemender mbolŋana!
-
 Tomtom ta so izooro Anutu mi ipa ŋoobo pa zaala kini na, sombe Anutu imuŋai i mi ireege sanaana kini, na ni ko leleene ambai kat pa kampeŋana biibi ta Anutu ikam pini na.
 Pa tomtom ta so pakaamŋana sa imbot la leleene som, mi Yooba mataana ila pa sosor kini mini som, na ni ko leleene ambai kat pa kampeŋana biibi tana.
 Yooba, indeeŋe ta aŋwatkaala sanaana tio na, aŋkaraŋesŋeeze ikot mbeŋ ma aigule, mi tiroŋ imukurkur lup.
@@ -14405,6 +14405,7 @@ Mi ni itatkewe zin pa pataŋana kizin. Kokena timetmeete. Mi sombe peteele biibi
 Tana iti tapase pa Yooba mi tuur matanda pini. Pa ni ulaaŋa kiti mi iwe siŋgiao piti.
 Iti lelende ambai kat mi menmeen ti pini. Mi tapase pa zaana potomŋana.
 Yooba, niam amur motoyam pu be uulu yam. Muŋaiŋana ku ko imbotmbot se tiam totomen.
+
 Nio ko leleŋ ambai pa Yooba mi aŋpakurkuri pa kampeŋana kini totomen. Irao aŋmaane na som. Kwoŋ ko iwidit uruunu men, iwidit uruunu men!
 Nio ko niŋ se pa Yooba mi aŋpakuri. Mi zin wal ta timbotmbot raama pataŋana na, ko tileŋ to lelen ambai tomini.
 Tana niom kamar mi itiŋan tulup kwondo mi tosoyaara Yooba uruunu. Tapakur zaana ma isala ta kor a. Pa ni ta biibi ŋonoono!
@@ -14427,7 +14428,6 @@ Pataŋana boozomen ko indeeŋe tomtom ndeeŋeŋana. Tamen Yooba ko itatke i pa p
 Mi ko mataana pini ma irao tiroono tasa ipol som.
 Mbulu sananŋana kizin wal zorzooroŋan ko ipun zitun ma timetmeete. Mi wal ta so tiur koi pizin wal ndeeŋeŋan, nako tikam kadoono sananŋana ma ipokot mbulu kizin.
 Yooba ko ikamke zin mbesooŋo kini ma timbot ambai. Zin wal ta so tipase pini be iwe ur pizin mi imenderkaala zin, na ni ko iur kadoono sananŋana sa pizin som.
-
 O Yooba, iŋgi koŋ koi bizin tikamam be tikoto yo. Tana uulu yo mi koto zin. Zin wal tau tikamam malmal pio i, na itum kam malmal pizin.
 Kam mburu ku malmal kana ramaki siŋgiao ku, mi mar ma poroukaala yo.
 Pas se pa izi ku raama zaaba ku, mi kas koŋ koi bizin ma timap. Mi pombol yo ma so yo ta kembei: Nu ulaaŋa tio.
@@ -14456,6 +14456,7 @@ mi tiso: “Aa buri! Tilip pini. Pa koroŋ ta lelende pa be ipet pini, ta ipet p
 Yooba, zin wal ta tire pataŋana tio ti mi menmeen zin pa na, pamiaŋ zin mi kam zin ma tiru zaala. Zin wal ta tipakurkur zitun mi tirepilpiili yo na, koto zin mi kam zin ma kan miaŋ.
 Tamen zin wal ta lelen be Anutu iuulu yo mi iswe kembei nio leŋ uunu sa isaana som, nako lelen ambai mi menmeen zin kat. Ko kalŋan izalla ma tizzo ta kembei: “Tapakur Yooba! Pa ni zaana biibi kat. Mi leleene be mbesooŋo kini imbot ambai.”
 To nio ko aŋzzoyaryaara sua pa mbulu ku ndeeŋeŋana, mi kwoŋ ko ipakurkuru pa mbeŋ ma aigule.
+
 Zooroŋana ta imbotmbot la wal sananŋan lelen, ta imburumrum lae pizin mi ikamam peeze pizin. Tanata matan imun pa Anutu, mi timoto i risa som.
 Zin tipakurkur zitun. Tana sanaana kizin, tikilaala som, mi tiur koi pa som.
 Sua sananŋana mi sua pakaamŋana men ta iwedet pa kwon. Mi titoto mbulu ambaiŋana mini som. Pa tipizil ndemen pa ŋgar ambaiŋana kek.
@@ -14468,7 +14469,6 @@ Nu kembei yok bukbukŋana. Pa koroŋ boozomen ta timbot matan yaryaara na, itum 
 Yooba, zin wal ta tiute u na, to sua ku mbukŋana mi ur lelem pizin. Mi zin wal ta lelen ŋgeezeŋan na, zzwe mbulu ku ndeeŋeŋana pizin.
 Tana zem zin wal zorzooroŋan ma timaŋga pio pepe. Mi zem zin wal sananŋan ma tiser yo pepe.
 Kere. Zin wal ta tinoknok mbulu sananŋana, ta Anutu ipalkeete zin ma titoptop su toono kek. Ko irao timaŋga mini na som.
-
 Zin wal sananŋan ta timbotmbot ambai men na, kam ŋgar boozo pizin pepe. Mi zin wal ta tikamam ŋoobo mbulu na, motom mburmbur pizin pepe.
 Ko timbot rimen, to timetmeete kembei ta mbutmbuutu imelle. Ko tila len kembei manman pwon ta timetmeete ma titoptop na.
 Mi nu na, pase pa Yooba mi kam mbulu ambaiŋana men. Naso mbotmbot ambai su toono ta ni ikam pizin wal kini na, mi kosa sa ko ipasaanu som.
@@ -14509,6 +14509,7 @@ Re la pa wal ndeeŋeŋan ta len uunu sa isaana som na, mi kam ŋgar pa mbulu ta 
 Tamen wal zorzooroŋan na, Yooba ko ipambiriizi zin ma timap kat. Mi popoŋana kizin tomini, ni ko ikas zin lup.
 Yooba, ni ulaaŋa kizin wal ndeeŋeŋan. Sombe pataŋana sa ipet pizin, na ni ko iwe siiri mbolŋana pizin mi iporoukaala zin.
 Pa zin tipase pini ma iwe ur pizin mi imenderkaala zin. Tana ni iuluulu zin, mi itatkewe zin pa pataŋana kizin. Ikamkewe zin, mi itatkewe zin pa wal sananŋan naman ma timbotmbot ambai.
+
 O Yooba, yaamba yo raama ketem malmal pepe. Mi sombe pazal yo, na kam raama ketem bayouŋana pepe.
 Pa iŋgi peene ku lutuunu iŋgal yo, mi nomom ipun kat yo ma aŋsu.
 Nu ketem malmal pio biibi, tana kuliŋ ta boozomen ire yoyouŋana. Sanaana tio, ta ikam ma mete ipasaana kat yo.
@@ -14589,12 +14590,12 @@ Tamen aigule ta boozomen, Yooba iurur leleene pio mi izzwe muŋaiŋana mi kampe�
 Anutu, ni tuŋ ŋonoono. Pa ipombolmbol yo mi iporoukalkaala yo. Tana aŋzzo pini ta kembei: “Parei ta nu motom mbeleele yo? Mi parei ta gedgeede koŋ koi bizin, mi tikototo yo ma tikamam pataŋana pio? Re. Iŋgi aŋbotmbot raama leleŋ ipata kat.
 Aigule ta boozomen, zoŋ ise mi ila zoŋ isula na, koŋ koi bizin tikamam sua repiiliŋana pio. Mi tinoknok wiŋana pio ta kembei: “Anutu ku imbot swoi?” Tana sua kizin iwe kembei ta izi, mi iŋgalŋgal yo ma mburoŋ imap.
 Mi parei ta iŋgi leleŋ isaana mini ma kembei? Parei ta leleŋ ipata? Nio aŋbotmbot ta kembei, na ambai som. Tana ko aŋur motoŋ pa Anutu mi aŋpase pini, mi aŋpakuri mini. Pa ni Merere tio mi ulaaŋa tio.
-
 Anutu, zin wal tau titoto zaala ku som, ta tiseseeze motoŋ. Tana mender pio mi so zin ta kembei: Nio leŋ uunu sa isaana som. Tatke yo pa zin wal pakamkaamŋan mi wal sananŋan naman.
 Pa nu ta Anutu tio. Tana aŋpase pu be we siiri mbolŋana pio. Parei ta pizil ndemem pio? Mi parei ta gedgeede koŋ koi bizin, mi tikototo yo ma tikamam pataŋana pio? Re. Iŋgi aŋbotmbot raama leleŋ ipata kat.
 Ur mat pio mi so yo pa sua ku ŋonoono. Naso kam peeze pio, mi pazal yo be aŋmiili ma aŋsala mini pa abal ku potomŋana Sion. Pa ina nu murim kat ta tina.
 Anutu, nio leleŋ be aŋkoŋuru artaal ku mi aŋmender la kerem uunu. Pa nu potortor leleŋ, mi kamam ma leleŋ ambai kat. Mi nio ko aŋse kombom, mi aŋbo mboe be aŋpakuru. Pa nu ta Anutu tio.
 Mi parei ta iŋgi leleŋ isaana mini ma kembei? Parei ta leleŋ ipata? Nio aŋbotmbot ta kembei, na ambai som. Tana ko aŋur motoŋ pa Anutu mi aŋpase pini, mi aŋpakuri mini. Pa ni Merere tio mi ulaaŋa tio.
+
 Anutu, muŋgu kat nu kamam uraata bibip pa tumbuyam bizin. Tana tiwidit ka mbol, mi imar imar ma niam amleŋ tomini.
 Zin wal ta muŋgu timbotmbot toono tiam Israel na, itum nomom ta iziiri zin ma tila len. Mi nu kam toono kizin ma iwe tumbuyam bizin len be timbotmbot pa. Pa nu koto zin Kanaan kan ma mburan imap kat, mi kampe tumbuyam bizin mi kam zin ma timar timbot ambai su toono tiam.
 Ŋonoono, tumbuyam bizin tikam malmal be tikam toono kizin. Tamen zitun mburan mi buza kizin ikam zin ma tilip na som. Pa nu ur lelem pizin mi lae kizin, mi nomom woono mi mburom ta iporou pizin. Tanata tilip pa kan koi bizin mi tikam toono kizin.
@@ -14697,7 +14698,6 @@ Pa sombe imeete, na irao ila raama koroŋ kini tana som. Koroŋ kini ndabokbokŋ
 Indeeŋe ta tomtom tana mataana iyaryaara ma imbotmbot na, ire kembei ikam mboti ambaiŋana kat. Mi tomtom tipakurkuri paso, tire i kembei ni irao kat. Tamen ni kola imeete, mi igaaba tumbuunu bizin ma isula zugut muriini. Lele tana, zin wal ta so tisula, nako tire mat sa mini som.
 <range>
 Tana tomtom ta so zaana biibi mi le koroŋ boozo, mi tamen le ŋgar ambaiŋana som, na ni kola imeete ma ila lene raraate kembei ta zin mbili.
-
 Yooba, ni Anutu mbura keskeezeŋana. Iur sua pizin tomtom ta boozomen ki toono, mi iboobo zin be timar tilup zin su kereene uunu. Zin ta timbot pa lele pakaana ta zoŋ izze pa i, mi ila tuŋ la lele ta zoŋ izulla pa i, na bela timap ma timar tipet kini.
 Anutu imbot Sion ta kar ndabokŋana mi ŋgeezeŋana kat, mi iswe itunu raama mburaana mi azuŋka kini biibi.
 Anutu kiti ta imar i. Irao imaane mini na som. You bilbilŋana ta imuuŋgu pini. Mi miiri ma yaŋ biibi iliu i.
@@ -14721,6 +14721,8 @@ Mi kaŋgalŋgal sorok sua pizin wal tiom, mi kapasansaana toŋmatiziŋ tiom urun
 Parei, iŋgi kakamam ta kembei mi kere nio aŋmanne men piom, tana koso nio aŋyok pa mbulu tiom tana? Niom koso nio raraate kembei ta niom? Som kat! Iŋgi be aŋyaamba yom mi aŋgal kat motoyom.
 Tana niom ta kipizil ndemeyom pio na, kozo kakam kat ŋgar pa sua tio ti. Kere yom: Kokena aŋmaŋga mi aŋpasaana kat yom, mi leyom ulaaŋa sa som.
 Tana leleyom ambai pio mi kapakur yo pa kampeŋana tio. Naso kakam patoronŋana ŋonoono tabe iwit nio zoŋ ma iwe biibi. Mi tomtom ta so ito zaala tio ndeeŋeŋana, nako aŋswe ulaaŋa tio pini, mi aŋkamke i ma imbot ambai.
+
+
 O Anutu, nu toto sua ku mbukŋana mi urur lelem pa wal ku. Muŋai yo pa zooroŋana tio. Pa nu lelem izanzaana pizin mbesooŋo ku, mi muŋaiŋana ku na, biibi kat. Tana mus sanaana tio ma ila lene.
 Nio aŋpaŋoobo pa zaala ku, mi mbulu tio irao pa nu motom som. Tana pus yo pa sanaana tio ta boozomen, mi kam ma leleŋ iŋgeeze mini.
 Pa nio aŋkilaala zooroŋana tio kek. Tana aŋkamam ŋgar pa sanaana tio ikot mbeŋ ma aigule.
@@ -14752,13 +14754,13 @@ Mbulu tabe Anutu ikam pu i, sombe wal ndeeŋeŋan tire, nako timoto. Mi kaimer t
 Mi nio, nako aŋmender mbolŋana lela Urum Merere, mi aŋbot ambai ma molo kembei ke olib. Mi Anutu mbulu kini ta itoto sua kini mbukŋana mi iurur leleene pa wal kini na, nio ko aŋpase pa ma alok.
 Anutu, nio leleŋ ambai pa mbulu ta kam na. Tana ko aŋpakurkuru mi aŋpase pa nu zom, mi iseeŋge iseeŋge ma ila. Mi aŋzzoyaryaara urum ila wal ku matan, mi aŋzzo zin ta kembei: Nu ambaiŋom kat.
 
-
 Wal kankaanaŋan ta tizorzooro Anutu na, tiso pa zitun ta kembei: “Anutu sa som.” Wal ta kembei, ŋgar kizin isaana kek. Mi tiyo naman pa mbulu sananŋan boozomen. Tana Anutu leleene pizin risa som kat. Pa kizin tasa ikam mbulu ambaiŋana sa som.
 Anutu imbotmbot saamba, mi irre su pizin tomtom mi itirtiiri zin. Ko kizin tasa le ŋgar ambaiŋana, mi ikam kinkiini be iute Anutu mi imbot kolouŋana pini?
 Mi som. Timap ma tizem zaala kini kek. Tisaana lup. Kizin tasa ikam mbulu ambaiŋana sa som. Som kat.
 Tana Anutu iso: “Wal tau tikamam mbulu sananŋana i, ŋiizi na ŋgar kizin ipet? Gorgori tipasansaana zin wal tio. Pa tipakamkaam zin, mi timbotmbot se kizin. Mi matan iŋgalŋgal yo som, mi tizuŋzuŋ pio som.”
 Kere koyom koi bizin ta timaŋga mi tiso tikam malmal piom na! Muŋgu timoto som. Mi iŋga Anutu ipasaana zin, mi igibgiibi tirontiron ma timbot leŋaleŋa. Tana motoŋana biibi ikam zin ma tisaana kat. Mi niom kilip pizin mi kapamiaŋ zin. Pa Anutu, ni ipizil kat ndemeene pizin.
 Mi nio na, leleŋ ilip kat be aŋre ulaaŋa ta imbot abal Sion a imar ma ikamke zin Israel! Mi sombe Anutu iurpe wal kini ma timbot ndabok mini, nako lelen ambai mi menmeen zin kat.
+
 
 O Anutu, kamke yo lak! Pa nio aŋpase pa nu zom tau. Mender pio, mi swe mburom keskeezeŋana. Naso tomtom tikilaala kembei nio leŋ uunu sa isaana som.
 Anutu, ŋgun talŋom pa suŋŋana tio ti, mi leŋ yo.
@@ -14767,7 +14769,6 @@ Mi Anutu, ni ulaaŋa tio. Ni ikiskis yo tana aŋbot ambai.
 Tana Merere, zin wal ta tiŋgalŋgal sua pio na, pimiili mbulu kizin sananŋana pa zitun. To sua ku mbukŋana, mi pasaana zin ma timap kat.
 Yooba, nu ambaiŋom kat! Tana leleŋ ambai pu, mi aŋso aŋkam patoronŋana pu mi aŋpakur zom.
 Pa nio aŋpase pa zom, tana nu tatke yo pa pataŋana tio ta boozomen. Mi iŋgi ituŋ motoŋ aŋre u koto koŋ koi bizin ma aŋlip pizin kek.
-
 
 O Anutu, nio aŋtaŋroro u be muŋai yo. Piŋgis motom pio pepe. Ŋgun talŋom pa suŋŋana tio ti mi pekel kalŋoŋ.
 Motom iŋgal yo mi uulu yo. Pa iŋgi pataŋana boozomen ikam yo ma aŋru zaala, tana leleŋ ipata kat.
@@ -14849,6 +14850,7 @@ Zin kembei me ta tiwwa mi tirru kan kini. Mi sombe tikan ma irao som, to timbolm
 Tamen nio, nako aŋbo mboe mi aŋpakuru pa mburom biibi. Aigule ta boozomen, zoŋ isombe ise, nako kalŋoŋ isala mi aŋbo mboe pa mbulu ku ta toto sua ku mbukŋana mi urur lelem pa wal ku. Pa sombe pataŋana ikam yo, na nu ko wit yo mi ur yo sala kor, mi we kembei siiri mbolŋana pio be aŋke lela mi aŋbot ambai.
 Anutu, nu ta kamam leŋ mburoŋ. Tana aŋbo mboe mi aŋpakur zom. Anutu tio, nu toto sua ku mbukŋana mi urur lelem pa wal ku Mi nu ta wit yo mi ur yo sala kor, mi we seraara mbolŋana pa koŋ koi bizin.
 
+
 Anutu, nu ketem malmal piam, mi pizil ndemem piam. Tanata koyam koi bizin tilip piam, mi tireege siiri mbolŋana ki kar tiam. O Merere, motom miili piam mini.
 Pa iŋgi kembei nu tok toono tiam ma imapalpaala, mi koroŋ ta boozomen ikamam be isaana. Tana amsuŋu be urpe toono tiam mini, kokena isaana kat.
 Wal ku ta niam i. Mi nu kam yam ma amre pataŋana biibi kat. Nu piwin yam pa yok mbolŋana ki ketem malmalŋana ku. Tabe ikam ma ampa na, kumbuyam mburaana som.
@@ -14861,7 +14863,6 @@ Mi koozi na, asiŋ ta irao be ikam yo ma aŋlip pa koŋ koi bizin mi aŋlela kar
 Asiŋ toro? Anutu, nu tau! Tamen iŋgi pizil ndemem piam, mi gabgaaba zin malmal kan tiam mini som.
 Anutu, uulu yam be amlip pa koyam koi bizin. Pa ulaaŋa ta amkamam la kizin tomtom na, koroŋ sorok.
 Mi sombe Anutu igaaba yam, nako amlip. Pa ni irao be ikoto koyam koi bizin ma mburan imap.
-
 
 O Anutu, leŋ tiŋiizi tio. Ŋgun talŋom pa suŋŋana tio ti.
 Pa iŋgi aŋbot molo kat pa kar tio, mi aŋmoto koŋ ma mburoŋ imap kat. Tana aŋboobu be uulu yo. Itum yaaru yo ma aŋsala abal ku mbolŋana. Naso aŋbot ambai.
@@ -14921,7 +14922,6 @@ Nu ta kamam ma yaŋ izzu, bekena pembeeze kuma pizin tomtom. Mi kampeŋana ku, t
 Nu ambaiŋom kat. Pa ndaama ti, nu kam ma mai ambaiŋana ipet piam. Lele ta so nu wwa pa na, kampeŋana ambaimbaiŋan boozomen iwedet.
 Nu kam ma mbutmbuutu ambaiŋana ilol lele bilimŋana bekena zin mbili tikan. Mi kam ma mokleene ambaimbaiŋan ipeŋgeeze abal ta boozomen. Tabe tomtom tire mi menmeen zin.
 Makau mi sipsip boozomen tiwwa pa lele mbutmbuutuŋan. Mi lele ŋgolooboŋan na, kini boozomen indomdom ma izze. Tana tomtom timbombo mi menmeen zin irao lele ta boozomen.
-
 Niom karkari ta karao toono ta boozomen na, kalŋoyom izalla mi menmeen yom pa Anutu.
 Kombo mboe mi kapakuri. Pa ni zaana biibi. Kiwit uruunu ma isala kor!
 Koso pa Anutu ta kembei: “Anutu, uraata bibip ta kamam, ina tomtom tire mi timoto. Nu mburom biibi kat. Tana kom koi bizin timoto kan mi tilek kumbun pu.
@@ -14942,6 +14942,7 @@ Nio aŋtaŋroro i be iuulu yo, mi kwoŋ ipakuri.
 Indeeŋe tana, sombe ŋgar sananŋana sa imbot la leleŋ, so ni ileŋ suŋŋana tio som.
 Tamen ni iŋgun talŋaana pio, mi ileŋ suŋŋana tio.
 Tana nio aŋpakur Anutu. Pa ni itit suŋŋana tio som, mi iruutu muŋaiŋana kini pio som.
+
 Anutu ko imuŋai iti mi ikampe iti. Ni ko iswe itunu ramaki kampeŋana kini piti, mi ikam mat kini ma iyaara piti.
 Naso tomtom ta tirao toono ta boozomen na, tikilaala mbulu kini, mi zin karkari ta boozomen tiute ulaaŋa kini.
 Anutu, zin karkari ko tiwe kwom mi tipakuru. Tomtom ta munŋaana men ko tiwit urum.
@@ -15028,7 +15029,6 @@ Zin wal ta tirru zaala be tipun yo ma aŋmeete i na, pakankaana zin, mi pimiili 
 Mi zin wal ta kalŋan izalla sorok ma tizzo: “A buri! Mbulu ta lelende pa be ipet pini, ta ipet pini kek!” Na wal ta kembena, koto zin, mi pamiaŋ zin, mi pimiili zin ma tila len.
 Tamen wal boozomen ta so tikamam kinkiini be tiute katu mi timbot kolouŋana pu na, zin ko lelen ambai mi menmeen zin pu. Mi zin wal ta lelen pa ulaaŋa ku ilip, nako tizzo totomen ta kembei: “Tapakur Anutu zaana. Pa ni ta biibi ŋonoono!”
 Yooba, iŋgi pataŋana taiŋgi ikam yo ma aŋrru zaala. Mi leŋ ulaaŋa toro sa som. Mi nu ta ulaaŋa tio mi tuŋ ŋonoono. Tana naunau pepe. Loŋa mar mi uulu yo!
-
 Yooba, nio aŋpase pu be we ur pio mi menderkaala yo. Kokena koŋ koi bizin tikoto yo, to koŋ miaŋ.
 Nu ndeeŋeŋom. Tana uulu yo mi tatke yo pa pataŋana tio ti. Ŋgun talŋom pio mi uulu yo.
 We seraara pa koŋ koi bizin, mi poroukaala yo pizin. We kembei siiri mbolŋana pio be aŋbotmbot lela totomen. Pa nu lelem iur pataaŋa kek be kamke yo ma aŋbot ambai. Tana nio ko aŋmama ku be menderkaala yo.
@@ -15124,6 +15124,7 @@ Motom iŋgal sua mbukŋana ta kam piam wal ku na, mi uulu yam. Re. Iŋgi wal san
 Mi koyam koi bizin tikototo yam. Tana uulu yam: Kokena amur sorok motoyam pu, to koyam miaŋ. Uulu zin sorrokŋan mi zin wal ta timbot ŋoobo na. Naso timaŋga mi tipakur zom.
 Anutu, maŋga mi swe mburom. Poroukaala yam. Pa niam wal ku tau. Motom iŋgalŋgal mbulu ki kom koi bizin, mi ur kadoono pizin. Pa kalŋan izalla mi tiwirri sua boozo pu. Iŋgi wal kankaanaŋan tizorzooru mi tikamam sua repiiliŋana pu pa berek ma ila mbeŋ. Tana maane pizin pepe.
 <range>
+
 Anutu, niam leleyam ambai pu mi ampakurkur zom. Amwidit urum paso, nu mbotmbot kolouŋana piam. Tanata amzzoyaryaara uraata ku bibip ta ndabokbokŋan mi ipa ndel kat.
 Mi Anutu iso ta kembei: “Nio ituŋ aŋur nol tabe aŋpamender zin tomtom pa i. Mi sombe aŋur kadoono pizin, nako aŋkam ma indeeŋe men.
 Sombe toono imurur mi ka tomtom bizin ta boozomen tiseŋeeŋe, na nio ta ko aŋkis toono uunu ma imbol.
@@ -15168,7 +15169,6 @@ Mi lele igabgap, mi iswiri yaŋ isu toono. Mi lele ikuruŋruŋ, mi ikimitmit, mi
 Nu kam ma miiri napiu itoogo, mi lele ikuruŋ ma kalŋaana biibi, mi lele ikimitmit ma ka azuŋka iyaara pa toono. Mi nu toktok toono ma ilala imarmar.
 Mi zaala ku ipa tai leleene. Tai ta mburaana biibi na, nu peete, mi imet ma iwe ru. Mi pa ma la na, tomtom sa ire kumbum muriini som.
 Mi nu muŋmuuŋgu pa wal ku kembei ta mboroŋan kizin sipsip. Mi ur Mose ziru Aron ma tikam ruŋgum, mi tiyaaru zin Israel ma tila.
-
 O niom wal tio, kuŋgun talŋoyom pa sua tabe aŋkam piom i. Niom ta boozomen keleŋ sua tabe aŋso yom pa i.
 Pa kwoŋ ko ikaaga mi aŋpit mbol piom. Ko aŋso pa mbulu ta muŋgu ipet na, mi aŋpeeze ka ŋgar turkeŋana piom.
 Mbol ta iŋgi be aŋso i, tumbundu bizin tipit piam ma amleŋ, tanata amute.
@@ -15254,6 +15254,7 @@ Tana uulu yam: Kokena zin karkari tikam sua repiiliŋana piam ma tisombe: “Aa,
 Ŋgun talŋom pa tiŋiizi kizin wal ku ta tikoki zin ma timbot la kan koi bizin naman na. Nu mburom biibi. Tana swe mburom tana, mi kamke zin wal ku ta kan koi bizin tisombe tipun zin ma timetmeete na.
 O Merere, sua repiiliŋana ta zin karkari tiwirri pu na, pokot ma imiili pizin pa lamata mi ru.
 Naso niam wal ku leleyam ambai, mi ampakurkur zom mi amwidit mbol pa uraata ku, mi iseeŋge iseeŋge ma ila. Pa niam sipsip ku, mi nu ta mboroŋan tiam ŋonoono.
+
 O mboroŋan tiam Israel, ŋgun talŋom pa suŋŋana tiam. Pa niam popoŋana ki Yakop, ta sipsip ku, mi nu ta muŋmuuŋgu piam. Nu mbotmbot se murim peeze kana ta imbot la zin aŋela mbolŋan ndemen na. Maŋga mi swe itum ramaki mburom mi azuŋka ku pa zin wal ki Eparaim mi Benyamen mi Manase. Mar mi uulu yam.
 <range>
 O Anutu, nu mburom keskeezeŋom, Uulu yam ma ambot ambai mini. Swe itum ramaki kampeŋana ku piam, mi kam mat ku ma iyaara piam. Kamke yam.
@@ -15290,7 +15291,6 @@ Mibe tileŋ la kalŋoŋ mi tito zaala tio, so ndabok!
 To loŋa men mi aŋkoto kan koi bizin, mi aŋpun zin pa ituŋ mburoŋ ma timap.
 To zin wal ta tiurur koi pio na, tilek kumbun pio raama motoŋana biibi, mi tikam kadoono kizin sananŋana tabe imbotmbot se kizin ma alok.
 Tamen zin Israel na, nio ko aŋkam kan kini ambaimbaiŋan be tikan ma kopon bok. Mi aŋkam bigil suruunu ma ireere pa pat be tiwin ma tirao.
-
 Anutu imender la lupŋana kini matan isu kar saamba, mi ipamender zin merere pakan be iur kadoono pizin. Isombe:
 “Niom tina, ŋiizi na kezem mbulu tiom sananŋana? Peeze ta kakamam, ina indeeŋe som. Niom sombe kapamender zin tomtom be kitiiri sua kizin, na kalalae kizin wal sananŋan.
 Niom tina kombot be koporoukaala zin wal ta len mburan biibi som na, mi zin moondo. Mi niom bela kemender pa zin wal tau timbot ŋoobo mi zin wal ta len ulaaŋa sa som na, mi ku'uulu zin pa pataŋana kizin.
@@ -15299,6 +15299,7 @@ Tamen niom kakamam ta kembei som. Niom tina leyom ŋgar sa som. Kawwa la zugut l
 Ŋonoono, muŋgu aŋpaata yom be ‘anutu.’ Pa aŋsombe niom ta boozomen Anutu kor kana kat lutuunu bizin.
 Tamen niom kozo ko kemetmeete raraate kembei ta zin tomtom toono kan. Swoyom ko imap kembei ta zin bibip ki toono na, mi zoyom sa mini som.”
 O Anutu, maŋga mi ur kadoono pizin wal sananŋan ta timbotmbot toono na. Pa karkari ta boozomen ramaki toono kizin na, koroŋ ku men. Nu ta mborro zin.
+
 O Anutu, kwom imun paso? Ur nim mi maane pepe!
 Re. Kom koi bizin kalŋan izalla mi tikam kumbun pa malmal. Zin wal ta tiurur koi pu na, nin se ma tiso tilip pu kek.
 Mi wal ku ta nu lelem pizin ilip na, kom koi bizin timburmbuuru pizin mi timbuk kan kiizi.
@@ -15344,7 +15345,6 @@ Mbulu ki Anutu ta iurur leleene pa wal kini, ina igabgaaba mbulu kini ta itoto s
 Mbulu ki tozzo sua ŋonoono men mi tototo sua kiti, ta iwedet pa toono. Mi mbulu ndeeŋeŋana ta izzu pa kar saamba. Mi ziru tiparlup zin ma tiwe tamen.
 Ŋonoono kat. Yooba ko ikampe yam pa koroŋ ambaimbaiŋan. Ni ko ikam ma mai ambaiŋana ipet pa toono tiam.
 Mi mbulu ndeeŋeŋana, ta ko imuuŋgu pini mi iurpe zaala pini be imar.
-
 O Yooba, ŋgun talŋom pio. Leŋ suŋŋana tio ti mi uulu yo. Pa iŋgi aŋbotmbot raama pataŋana mi aŋrru zaala.
 Nu ta Anutu tio. Mi nio mbesooŋo ku mi aŋpase pu. Tana poroukaala yo mi kamke yo: Kokena aŋmeete. Pa nio aŋurur leleŋ pu mi aŋtoto mbulu ku.
 Merere tio, muŋai yo lak! Pa aigule ta boozomen, zoŋ ise ma ila zoŋ isula na, aŋtaŋroro u.
@@ -15369,6 +15369,7 @@ Anutu iso ta kembei: “Nio ko aŋkam zin Aikuptu kan mi zin Babilon kan ma tiut
 Ŋonoono kat. Kar Sion, nako tiso ka sua ta kembei: “Anutu kor kana kat iyo wal kini pa lele ta boozomen, mi ikam zin ma tiwe Yerusalem lutuunu bizin. Kar tana, ni itunu ta ipamender.”
 Mi sombe Yooba ibeede tomtom ta boozomen zan ise ro kini, nako ibeede wal tana kan sua sotaaraŋana ta kembei: “Zin tiwe Yerusalem lutuunu bizin kek.”
 Tana tomtom ko tizze kombom mi timbombo raama menmeen zin ma tizzo ta kembei: “O kar Yerusalem, nu kembei ta yok bukbukŋana. Pa nu piyotyooto kampeŋana boozomen piam.”
+
 Yooba, nu Anutu tio mi ulaaŋa tio. Aigule ma mbeŋ na, tiŋiizi tio imama ku men.
 Leŋ suŋŋana tio. Ŋgun talŋom pa tiŋiizi tio ti.
 Pa pataŋana boozomen ilol yo lup kek, ma iŋgi be aŋsula leŋ Andewa i.
@@ -15440,7 +15441,6 @@ Yooba, muŋgu nu toto sua ku mbukŋana mi urur lelem pa wal ku. Tamen buri na, m
 O Yooba, motom iŋgal yam mbesooŋo ku. Pa iŋgi zin karkari tipamiaŋ yam, mi tirepilpiili yam ma leleyam isaana kat.
 Yooba, re king ta itum roogi mi uri pa uraata na. Lele swoi ta ni isombe ila pa i, na kom koi bizin tipasomi, mi tigibgiibi sua repiiliŋana pini.
 Tapakur Yooba pa kampeŋana kini totomen. Ŋonoono kat.
-
 O Merere, ta muŋgu muŋgu mi imar na, nu we ur piam mi menderkalkaala yam.
 Muŋgu kat, indeeŋe zin abal tipet zen mi nu kam toono ma ipet zen na, nu mbotmbot. Mi koozi ma kaimer tomini, nu ko mbotmbot. Pa nu Anutu ta mbotmbot ma alok.
 Mi niam tomtom na, musmuuzu ki toono men. Tanata nu zzo piam be amilmiili ma amsula mini toono.
@@ -15474,6 +15474,7 @@ Nu ko paraama su pa laion mi mooto sananŋan, mi zin tikam kosa sa pu som. Laion
 Pa Yooba iso ta kembei: “Zin wal ta tiur lelen pio mi tisekap mar tio na, nio ko aŋboro zin ma timbot ambai. Paso, zin tiute kat yo, tana nio ko aŋwit zin mi aŋur zin sala kor: Kokena koroŋ sa ipasaana zin.
 Zin sombe titaŋroro yo, nako aŋpekel kalŋan mi aŋuulu zin. Mi sombe pataŋana sa ikam zin, nako aŋbotmbot raama zin, mi aŋtatke zin pa pataŋana kizin, mi aŋpakur zin ma zan iwe biibi.
 Nio ko aŋseeŋge swon ma timbot molo isu toono. Mi zin ko tire kat ulaaŋa biibi tabe aŋkam pizin i.”
+
 O Yooba, nu Anutu kor kana kat. Nio sombe aŋpakuru mi aŋbo mboe be aŋwit zom isala kor, ina indeeŋe men.
 Tana aigule ta boozomen, zoŋ ise ma ila mbeŋ na, aŋzzoyaryaara mbulu ku ta toto sua ku mbukŋana, mi urur lelem pa wal ku mi muŋaiŋai zin.
 Nio aŋbombo mboe mi aŋzze kombom tio. Aŋpunun koroŋ matakiŋa, bekena aŋpakurkuru.
@@ -15489,7 +15490,6 @@ Zin wal ndeeŋeŋan, nako timbot ambai mi tipiyotyooto ŋonoono ambaimbaiŋan ke
 Pa Yooba ipaaza zin lela urum kini potomŋana. Tana zin ko timender su lele ki Anutu tiam, mi tizze ma tiwe bibip mi mbolŋan.
 Mi sombe tiwe kolman, na tipiyotyooto men ŋonon ambaimbaiŋan kembei ta ke popoŋan.
 Mi tizzoyaryaara sua ta kembei: “Yooba, ni ikam ŋoobo mbulu sa som. Mbulu kini ta boozomen na, indeŋdeeŋe men. Mi ni tundu ŋonoono. Pa ipombolmbol ti, mi iporoukalkaala iti.”
-
 Yooba, ni king biibi ŋonoono ta ikamam peeze pa koroŋ ta boozomen. Zaana biibi mi mburaana, ina iwe kembei mburu ta ni irru pa be ikam malmal. Muŋgu kat, ni iur toono ma uunu imbol kat. Tana kosa sa ko irao ikam ma imuzik na som.
 O Yooba, muŋgu kat, indeeŋe ta ur kosa sa zen na, nu mbotmbot. Mi peeze ku ta kembena. Ta muŋgu mi imar na, imbol ma imbotmbot.
 Yooba, tai imaŋga raama mburaana biibi, mi kalŋaana izalla kembei lele ikuruŋ. Duubu ipol mi kalŋaana biibi.
@@ -15585,6 +15585,7 @@ Zin wal ta tiŋgalŋgal sorok sua pizin tomtom na, aŋkazas zin bekena aŋpumun 
 Mi zin wal ki toono ti ta titoto zaala ku mi tizzo sua ŋonoono na, motoŋ pizin, mi aŋkamam zin ma timbotmbot raama yo. Zin wal ta tipa pai kizin ma iŋgeeze men na, zin ta tiwe mbesooŋo tio mi tiuluulu yo pa uraata.
 Tamen zin wal ta tikamam mbulu pakaamŋana na, irao timbot lela ruumu tio na som. Pa zin wal ta tizzo sua pakaamŋana na, aŋzirziiri zin ma timbot molo pio.
 Aigule ta boozomen, zoŋ ise na, aŋkazas zin wal sananŋan ta timbotmbot toono ti, bekena aŋpumun kwon. Zin wal ta tikamam mbulu sananŋana na, aŋzirziiri zin pa Yooba kar kini ma timap ma tila len.
+
 O Yooba, iŋgi tiŋiizi tio ima ku. Leŋ suŋŋana tio ti mi uulu yo.
 Pa nio aŋbotmbot lela pataŋana biibi leleene. Tana piŋgis motom pio pepe. Sombe aŋtaŋroro u na, ŋgun talŋom pio, mi loŋa mar mi uulu yo.
 Nio iŋgi be aŋmeete ma aŋla leŋ i. Nio kembei you ka koi ta ikam buk ma ise, mi imbiriizi ma imap. Kuliŋ ibayou kat, mi tiroŋ ta boozomen iyoyou.
@@ -15613,7 +15614,6 @@ Yooba, muŋgu kat nu ur toono ma uunu imbol kat. Mi saamba tomini, ina nomom mur
 Tamen kaimer saamba mi toono ko tisaana kembei kawaala pasaana. Tana nu ko lek zin ma timap ma tila len, mi pekel zin pa saamba mi toono popoŋan. Tamen nu na, mbotmbot men ta kembei. Tortooru som, mi rao map na som.
 <range>
 Mi niam mbesooŋo ku na, nu ko mboro lutuyam bizin ma timbot ambai. Mi popoŋana kizin tomini, nu ko motom pizin ma timbot ambai su kerem uunu, mi iseeŋge iseeŋge ma ila.”
-
 Leleŋ ko imap ipakur Yooba pa kampeŋana kini. Ŋonoono kat, leleŋ, mburoŋ, mi koroŋŋoŋ ta boozomen ko imap ipakur Anutu tio zaana. Pa ni potomŋana! Mbulu kini ipa ndel kat.
 Leleŋ ko imap ipakur Yooba pa kampeŋana kini. Mi mbulu boozomen ta ni ikamam be iuulu yo na, irao motoŋ mbeleele na som.
 Ni irekreege sanaana tio ta boozomen, mi iurpewe mete tio ta munŋaana men.
@@ -15807,6 +15807,7 @@ Pa Yooba ikototo zin wal zanŋan mi ipasomsom zin. Mi ikamam ma tizirri zin mi t
 Tamen zin wal ta timbot ŋoobo mi tibaada pataŋana biibi na, ni ipakurkur zin, mi mataana pizin ma timasak ma tiwe wal boozo.
 Mbulu kini tana, zin wal ndeeŋeŋan tire ma lelen ambai kat. Mi wal sananŋan ta boozomen na, len sua sa mini som. Sua kizin imap.
 Tomtom ta so le ŋgar, inako ikamam ŋgar pa mbulu ti, mi mataana ilala pa mbulu ki Yooba ta iurur leleene pa wal kini mi imuŋaiŋai zin.
+
 O Anutu, iŋgi leleŋ iwe ru som. Ŋgar tio imbol be aŋpase pu mi aŋto zaala ku. Tana nio ko aŋbo mboe mi aŋpakuru.
 Ko aŋmaŋga mi aŋkam kombom tio, mi aŋzze ma irao zoŋ pok ma ise.
 Yooba, nio ko aŋpakuru ila karkari mazwan, mi aŋso zin ta kembei: Nio leleŋ ambai pa kampeŋana ku. Ko aŋbombo mboe mi aŋwidit urum isala kor irao toono ta boozomen.
@@ -15820,7 +15821,6 @@ Asiŋ ta irao be ikam yo ma aŋlip pa koŋ koi bizin, mi aŋlela kar kizin ta ka
 Asiŋ toro? Anutu, nu tau! Tamen iŋgi nu pizil ndemem piam, mi gabgaaba zin malmal kan tiam mini som.
 O Anutu, uulu yam be amlip pa koyam koi bizin. Pa ulaaŋa ta amkamam la kizin tomtom, ina koroŋ sorok.
 Sombe Anutu igaaba iti, nako tilip. Pa ni irao be ikoto kanda koi bizin ma mburan imap.
-
 O Anutu, nio aŋpakurkuru. Mi nu mbomboorem sorok pepe. Maŋga mi kam mbulu sa tabe iswe kembei nio leŋ uunu sa isaana som!
 Pa wal sananŋan mi wal pakamkaamŋan tiwe koŋ koi mi tiŋgalŋgal sorok sua pakaamŋana pio.
 Zin tiurur koi pio mi tiwirri sorok sua sananŋana kat pio. Mi timaŋgaŋga pio mi tipasansaana sorok nio zoŋ.
@@ -16329,6 +16329,7 @@ O Yooba, zin wal ta tiurur koi pu na, nio tomini aŋurur koi pizin. Mi zin wal t
 Aŋurur koi pizin, mi aŋre zin kembei koŋ koi bizin ŋonoono.
 O Anutu, tiiri leleŋ mi ŋgar tio. Toombo yo bekena ute kat ŋgar ta imbot la leleŋ i.
 Tiiri yo to re: Nio aŋtoto zaala sananŋana som. Mi pazalzal yo bekena aŋto zaala ku ndabokŋana. Naso aŋbot ambai ma alok.
+
 O Yooba, tatke yo pizin wal sananŋan. Poroukaala yo pizin wal ta tikamam zaaba pizin tomtom na. Kokena tipasaana yo.
 Zin lelen iurur pa ŋgar sananŋan bozboozo, mi tipesese zin tomtom pa malmal.
 Kwon na, kembei mooto sananŋan. Pa sua ta tiwirri na, mataanaŋana, mi ipasansaana zin tomtom kembei mooto kananŋana na.
@@ -16342,7 +16343,6 @@ Kam ma you keseene itoptop sala ŋwan. Mi piri zin sula kat naala ta usomŋana i
 Zin wal ta tiŋgalŋgal sua pakaamŋana pizin tomtom na, ziiri zin pa toono ku ma tila len. Mi zin wal ta tikamam zaaba pizin tomtom na, mbulu sananŋana ko iketo zin mi ipasaana zin ma timap.
 Yooba, nio aŋute: Nu uluulu zin wal ta tomtom tikamam pataŋana pizin na, mi urur kadoono pa kan koi bizin. Mi zin wal ta timbot ŋoobo na, nu mendernder pizin mi uluulu zin pa pataŋana kizin.
 Ŋonoono kat, zin wal ndeeŋeŋan ko lelen ambai pu mi tipakur zom. Mi zin wal ta lelen ŋgeezeŋan ko timbotmbot su kerem uunu totomen.
-
 O Yooba, nio aŋtaŋroro u be loŋa mar mi uulu yo! Ŋgun talŋom mi leŋ kalŋoŋ.
 Leleŋ be suŋŋana tio iwe kembei koroŋ kuziini ambaiŋana ta tirukruk su kerem uunu na. Mi sombe aŋwit nomoŋ mi aŋsuŋ, na re suŋŋana tio kembei patoronŋana ta tikamam pa mbeŋ na.
 O Yooba, mboro kat mioŋ mi menderkaala kwoŋ. Kokena sua sananŋana sa iyooto pa.
@@ -16353,6 +16353,7 @@ Wal tana tiron ko timbot leŋaleŋa su Andewa kwoono kembei toono ta bapalo itaa
 O Yooba, Merere tio, nio aŋurur motoŋ pu be we ur pio mi menderkaala yo. Tana zem yo ma aŋmeete pepe.
 Mboro yo mi motom pio. Kokena kilis ta zin wal sananŋan tiur pio na, ikeene yo, som aŋti la pu ta zin tiraara pio.
 Kam wal tana ma timap titi la zitun pu kizin. Mi uulu yo ma piŋgis pai tio pa pu kizin.
+
 Nio kalŋoŋ isala mi aŋtaŋroro Yooba. Tiŋiizi tio ila kini be imuŋai yo. Pa ni ta biibi tio.
 Pataŋana tio ta boozomen aŋzzwe la kini. Mi koroŋ ta ikam yo ma leleŋ ipata na, aŋzzo i pa.
 Nio sombe leleŋ ipata kat mi mburoŋ ikamam be imap, na nu ute zoloŋ. Zaala ta aŋtoto na, koŋ koi bizin tiur kilis su be tikeene yo pa.
@@ -16360,7 +16361,6 @@ Mi motoŋ lae zilŋoŋ uunu na, tomtom sa imbot be iuulu yo na som. Mi muriŋ sa
 Yooba, nio aŋtaŋroro u be uulu yo. Mi aŋpase pu mi aŋso ta kembei: Nu ta ko menderkaala yo mi we ur pio be aŋke lela. Tana mazwaana ta so aŋbotmbot su toono na, sombe nu mbotmbot raama yo, na aŋru leŋ koroŋ toro mini paso? Pa nu kampewe yo mi aŋbotmbot se ku pa koroŋ ta boozomen.
 Ŋgun talŋom pa tiŋiizi tio. Pa iŋgi pataŋana tio taiŋgi ikoto yo ma aŋbot ŋoobo kat. Tatke yo pa koŋ koi bizin naman. Pa zin wal ta tiketoto yo na, mburan ilip kat pio.
 Iŋgi aŋyamaana kembei aŋbot lela ruumu sanaana leleene i. Tana uulu yo be aŋyooto. Naso aŋpakur zom. Mi zin wal ndeeŋeŋan ko tire kampeŋana ku ta swe pio na, ma timar tiliu yo mi niamŋan ampakur zom.
-
 O Yooba, leŋ suŋŋana tio ti mi uulu yo. Pa nu toto sua ku mbukŋana mi kamam mbulu ndeeŋeŋana men. Mi nu ta biibi tio. Tana ŋgun talŋom pa tiŋiizi tio mi muŋai yo.
 Nio mbesooŋo ku. Tana pamender yo pa sua pepe. Pa tomtom sa ndeeŋeŋana kat be imender su kerem uunu na som. Niam ta boozomen leyam uunu makiŋ.
 Re. Koŋ koi bizin tiketo yo mi tiparaama yo su toono kek. Mi tikam yo ma aŋbotmbot lela zugut biibi leleene, kembei zin wal ta timetmeete ta muŋgu kek na.
@@ -22614,6 +22614,7 @@ Tamen zin wal uraata kan ki wooŋgo lelen be tikam ta kembei som. Tana titoombo 
 Tona titaŋroro Yooba ma tiso: “O Yooba, niam sombe ampundu tomtom taiŋgi isula tai, na pasaana yam ma ametmeete pepe. Ŋonoono, ni ikam ŋoobo mbulu sa piam som. Mi mbulu tabe amkam pini i, na pokot pepe. Pa nu itum ta ur kadoono pini. Ina ni sosor kini men. Sosor tiam som.”
 Tana tikam Yona mi tipundu i sula tai, to loŋa men mi tai imeete ma taun isu.
 Tiŋgi tabe ikam ma zin uraata kan ki wooŋgo timoto kat Yooba. Mi tikam patoronŋana pa Yooba, mi timbuk sua mbolŋana pini.
+Mi Yooba iŋgo ye biibi ma ila mi iwon Yona. Mi Yona imbotmbot lela ye kopoono leleene ma irao aigule tel mi mbeŋ tel.
 Yona imbotmbot lela ye biibi kopoono leleene, mi isuŋ pa Yooba Anutu kini.
 Iso ta kembei: “Indeeŋe ta nio aŋbotmbot la pataŋana biibi leleene na, aŋtaŋroro Yooba. Mi ni ileŋ kalŋoŋ mi iuulu yo. Yooba, nio aŋbotmbot sula Andewa mi aŋtaŋroro u be uulu yo. Mi nu leŋ tiŋiizi tio.
 Nu pundu yo ma aŋsula kat ta tai leleene a, mi tai ilol yo ma sik. Mi nu kam duubu biibi ma ipol ma isalakaala yo.
@@ -22624,7 +22625,6 @@ Nio aŋsula kat abal uunu ta imbot sula tai leleene a. Lele sananŋana tana, ta 
 “Wal tau tikiskis merere kizin pakaamŋan ta ŋonon somŋan i, na tipizil ndemen pa Merere. Tana ni ko irao imuŋai zin na som.
 “Mi nio, nako leleŋ ambai pa kampeŋana ku mi aŋbo mboe mi aŋkam patoronŋana pu. Mi koroŋ boozomen ta aŋbuk sua pu be aŋkam na, nio ko aŋkam. Yooba, nu itum tamen ta ulaaŋa tiam.”
 To Yooba iso pa ye biibi tana ma ila mi iluai Yona isu peende.
-
 To Yooba kalŋaana ila ki Yona mini ma iwe ru pa. Iso ta kembei: “Maŋga mi la ta kar biibi Ninibe a, mi paŋarai kalŋoŋ pizin. Nio ituŋ ko aŋso u pa sua tabe kam pizin i.”
 <range>
 Tana Yona ito sua ki Yooba mi imaŋga ma ila pa Ninibe. Ninibe tina, ina kar biibi kat. Tomtom sa isombe ipa ma ire le kar, nako ipa irao kembei aigule tel ma iŋgi.
@@ -27691,7 +27691,7 @@ Tana kuskus ki Epesus imaŋga, to zin timaane mi tiŋgun talŋan pini. To ni iso
 Pa wal ta kakam zin ma timar i, zin tipasaana urum ka kosa sa som. Mi tikam sua repiiliŋana sa pa merere Artemis som.
 Sombe Demitrius mi waene bizin ta ziŋan tikamam uraata na len sua sa pa tomtom sa, na irao timbot ma ni ka aigule. Pa zin bibip ki titirtiiri sua i, ta timbotmbot i. Tana zin irao tila kizin, to ziŋan tiurpe sua.
 Mi sombe sua pakan sa ta leleyom be koso, na kuur la lupŋana ki kar namaana be titiiri mi tiurpe. Naso koto tutu kiti.
-Pa koozi iti tososor pa mbulu kek. Tere na, orooro tiŋgi ka uunu sa som. Mbulu ta koozi kakam na, sombe tiwi iti pa ka uunu, ko tepekel be parei?”
+Pa koozi iti tososor pa mbulu kek. Tere na, orooro tiŋgi ka uunu sa som. Mbulu ta koozi kakam na, sombe tiwi iti pa ka uunu, ko tepekel be parei?” Tana iso makiŋ, mi kaimer mana iso: “Kala leyom!” To timureege ma tila len.
 Orooro biibi tana imap, mana kaimer to Paulus iboobo zin wal ta titoto Yesu i ma tila tilup zin, mi isotaara zin kembei ni be izem zin. Tila mi ni ipombol zin pa sua pakan, to izem zin ma timbot, mi imaŋga ma ila pa Masedonia.
 Iwwa ma ila beso ipet lele sa mi indeeŋe wal pakan ki Krisi, to ipombol zin pa sua boozo, mana ipa mini. Iwwa ma ila mi ipet lele pakaana kizin Grik,
 to imbot pa puulu tel. To iso imaŋga mi ikam wooŋgo be ila lele pakaana ki Siria. Som mi ileŋ kembei zin Yuda timbuuru kana. To itoori mini be ipa pa lele pakaana ki Masedonia.

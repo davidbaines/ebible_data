@@ -926,6 +926,7 @@ Rabhani akatiwo kuna Jakobho, “Hoyu murwi uyu, uye heyi mbiru yandamisa iyi pa
 Murwi uyu ndiwo chapupu uye mbiru iyi ndiyo chapupu, kuti handizopfuuri murwi uno ndichiuya kwauri kuti ndizokukuvadza uye kuti iwe hauzopfuuri murwi uno nembiru uchiuya kurutivi rwangu kuti uzondikuvadza.
 Mwari waAbhurahama naMwari waNahori, iye Mwari wababa vavo, ngaatonge pakati pedu.” Saka Jakobho akaita mhiko muzita raiye aityiwa nababa vake Isaka.
 Akapa chibayiro imomo munyika yezvikomo uye akakoka hama dzake kuti dzizodya. Mushure mokudya vakavatapo usiku ihwohwo.
+Mangwanani akatevera Rabhani akatsvoda vazukuru vake navanasikana vake uye akavaropafadza. Ipapo akabva akadzokera kumusha kwake.
 Jakobho akaendawo nenzira yake, uye vatumwa vaMwari vakasangana naye.
 Jakobho akati achivaona, akati, “Uyu ndiwo musasa waMwari!” Saka akatumidza nzvimbo iyo zita rokuti Mahanaimi.
 Jakobho akatuma nhume mberi kwake kumukoma wake Esau munyika yeSeiri, iyo nyika yeEdhomu.
@@ -958,7 +959,6 @@ Jakobho akati, “Ndapota hangu, ndiudzei zita renyu.” Asi iye akapindura akat
 Saka Jakobho akatumidza nzvimbo iyo zita rokuti Penieri, akati, “Nokuti ndaona Mwari chiso nechiso, asi handina kufa.”
 Zuva rakakwira pamusoro pake, paakanga opfuura Penieri, uye akanga achikamhina nokuda kwehudyu yake.
 Naizvozvo kusvikira zuva ranhasi vaIsraeri havadyi runda rakabatanidzwa nehudyu, nokuti hudyu yaJakobho yakanga yakuvadzwa pedyo nerunda.
-
 Jakobho akasimudza meso ake ndokuona hoyo Esau, achiuya ana varume mazana mana; saka akaparadzanisa vana pakati paRea naRakeri navarandakadzi vaviri.
 Akaisa varandakadzi navana vavo pamberi, Rea navana vake vachitevera, uye Rakeri naJosefa mumashure.
 Iye pachake akatungamira mberi akakotamira pasi kanomwe paakanga oswedera kumukoma wake.
@@ -1709,10 +1709,6 @@ Asi nʼanga dzavaIjipita dzakaita zvimwe chetezvo nouroyi hwadzo, mwoyo waFaro u
 Asi akadzokera mumuzinda wake, uye haana kunyange kuzviisa mumwoyo make.
 Uye vaIjipita vose vakachera mujinga maNairi kuti vawane mvura yokunwa, nokuti vakanga vasingagoni kunwa mvura yomurwizi.
 Mazuva manomwe akapfuura mushure mokunge Jehovha arova Nairi.
-
-
-
-
 Ipapo Jehovha akati kuna Mozisi, “Enda kuna Faro undoti kwaari, ‘Zvanzi naJehovha: Rega vanhu vangu vaende, kuti vanondinamata.
 Kana ukaramba kuti vaende, ndichatambudza nyika yako yose namatatya.
 Nairi ruchazara namatatya. Achakwira agopinda mumuzinda wako nomuimba yako yokuvata uye napamubhedha wako, nomudzimba dzamachinda ako uye napavanhu vako uye nomuzvoto zvako nepokukanyira chingwa.
@@ -1741,6 +1737,10 @@ Ipapo Faro akadana Mozisi naAroni akati, “Endai mundobayira kuna Mwari wenyu m
 Asi Mozisi akati, “Hazvina kunaka kuita saizvozvo. Zvipiriso zvatinoda kubayira kuna Jehovha Mwari wedu zvingazonyangadza vaIjipita. Uye kana tikapa zvibayiro zvinonyangadza pamberi pavo, havangazotitaki namabwe here?
 Tinofanira kufamba rwendo rwamazuva matatu kuti tinobayira kuna Jehovha Mwari wedu murenje, sezvaakatirayira.”
 Faro akati, “Ndichakutenderai kuenda kunobayira zvipiriso kuna Jehovha Mwari wenyu murenje, asi hamufaniri kuenda kure kure. Zvino chindinyengetererai.”
+Mozisi akapindura akati, “Ndichangobva pauri, ndichanonyengetera kuna Jehovha, uye mangwana nhunzi dzichabva pana Faro namachinda ake uye napavanhu vake. Ivai nechokwadi chete kuti Faro haazonyengerizve achirambidza vanhu kuenda kundopa zvibayiro kuna Jehovha.”
+Ipapo akabva pana Faro akandonyengetera kuna Jehovha,
+uye Jehovha akaita zvaakakumbirwa naMozisi. Nhunzi dzakabva pana Faro nokumachinda ake uye nokuvanhu vake; hakuna nhunzi yakasara.
+Asi panguva inozve, Faro akaomesa mwoyo wake uye akaramba kutendera vanhu kuti vaende.
 Ipapo Jehovha akati kuna Mozisi, “Enda kuna Faro undoti kwaari, ‘Zvanzi naJehovha: Mwari wavaHebheru: Rega vanhu vangu vaende, kuti vanondinamata.
 Kana uchiramba kuti vaende uye ukaramba uchivadzivisa,
 ruoko rwaJehovha ruchauyisa hosha yakaipa pakati pezvipfuwo zvako zviri muminda napamusoro pamabhiza ako nembongoro dzako nengamera napamusoro pemombe dzako uye napamusoro pamakwai nembudzi.
@@ -2112,7 +2112,6 @@ Kana hando ikatunga murandarume kana murandakadzi, muridzi wayo anofanira kuripa
 muridzi wegomba anofanira kuripa kurasikirwa uku; anofanira kuripira muridzi wayo, uye chipfuwo chafa chichava chake.
 “Kana hando yomumwe munhu ikakuvadza hando yomumwe uye ikafa, vanofanira kutengesa mhenyu yacho vagogovana zvakaenzana mari yacho vari vaviri, uye nemombe yakafawo.
 Kunyange zvakadaro, kana zvakanga zvichizivikanwa kuti hando iyi yagara ine tsika yokutunga, asi muridzi akasaipfigira mudanga, muridzi anofanira kuripa chipfuwo nechipfuwo, uye chipfuwo chafa chichava chake.
-
 “Kana munhu akaba nzombe kana gwai uye akauraya kana kutengesa anofanira kuripa mombe shanu nokuda kwenzombe uye makwai mana pagwai rimwe chete.
 “Kana mbavha ikabatwa ichipaza uye ikarohwa ikafa, nyakudzivirira haana mhosva yokuteura ropa;
 asi kana zvikaitika shure kwokubuda kwezuva, anenge ane mhosva yokuteura ropa. “Mbavha inofanira kudzora zvayaba, asi kana isina chinhu, inofanira kutongeswa kuti iripe umbavha hwayo.
@@ -2143,6 +2142,7 @@ nokuti jasi rake ndicho chifukidzo bedzi chaanacho chomuviri wake. Achavata akaf
 “Usamhura Mwari kana kutuka mutongi wavanhu vako.
 “Usarega kupa zvipiriso zvinobva mumatura ako kana muzvisviniro zvako. “Unofanira kundipa dangwe ravanakomana vako.
 Muite zvimwe chetezvo kumombe dzenyu nokumakwai enyu. Murege zvigare mazuva manomwe navanamai vazvo, asi muzvipe kwandiri pazuva rorusere.
+“Munofanira kuva vanhu vangu vatsvene. Saka musadya nyama yechipfuwo chakabvamburwa nezvikara zvesango, muikandire kumbwa.
 “Usaparadzira mashoko enhema. Usabatsira munhu akaipa nokuva chapupu chakaipa.
 “Usatevedzera vanhu vazhinji pakuita zvakaipa. Paunopa umboo mudare redzimhosva, usaminamisa kururamisira uchienda kurutivi rworuzhinji,
 uye usatsaura munhu murombo uchienda kudivi rake pamhaka yake.
@@ -2848,13 +2848,6 @@ Anofanira kuripira zvaakatadza kuita maererano nezvinhu zvitsvene, agowedzera ch
 “Kana munhu akatadza uye akaita zvisingabvumirwi pamirayiro ipi zvayo yaJehovha, kunyange asingazvizivi, ane mhosva uye achava nemhaka.
 Anofanira kuuya kumuprista nechipiriso chemhosva gondobwe risina kuremara uye rine muripo wakafanira. Nenzira iyi muprista achamuyananisira pakukanganisa kwaakaita nokusaziva, uye acharegererwa.
 Ichi chipiriso chezvivi, akabatwa nemhosva yaakapara kuna Jehovha.”
-
-
-
-
-
-
-
 Jehovha akati kuna Mozisi,
 “Kana mumwe akatadza uye akasavimbika kuna Jehovha nokunyengedza muvakidzani wake pazvinhu zvaakachengeteswa, kana zvaakabatiswa kana zvakabiwa, kana kuti akamubiridzira,
 kana kuti akawana nhumbi dzakarasika akareva nhema pamusoro padzo, kana kuti akapika nhema kana kuti akaita chivi chipi zvacho chingaitwa navanhu,
@@ -2878,6 +2871,13 @@ Uye Jehovha akati kuna Mozisi,
 Zvibikei namafuta mugango. Muuye nazvo zvakasanganiswa zvakanaka, mugouya nechipiriso chezviyo chakamedurwa-medurwa sezvinonhuhwira zvinofadza kuna Jehovha.
 Mwanakomana achamutevera somuprista akazodzwa achazvigadzira. Chikamu chamazuva ose chaJehovha uye chinofanira kupiswa chose.
 Zvose zvipiriso zvezviyo zvomuprista zvichapiswa chose, hazvifaniri kudyiwa.”
+Jehovha akati kuna Mozisi,
+“Uti kuna Aroni navanakomana vake, ‘Iyi ndiyo mirayiro yechipiriso chechivi. Chipiriso chechivi chinofanira kubayiwa pamberi paJehovha panzvimbo inobayirwa chipiriso chinopiswa; chitsvene-tsvene.
+Muprista anopa izvozvo achazvidya; zvinofanira kudyirwa panzvimbo tsvene muchivanze cheTende Rokusangana.
+Chose chinogunzva nyama chichava chitsvene, uye kana rimwe ropa rikawira panguo, unofanira kuisukira panzvimbo tsvene.
+Hari yevhu inobikirwa nyama inofanira kuputswa; asi kana zvikabikwa mupoto yendarira, poto inofanira kukweshwa igosukurudzwa nemvura.
+Murume wose ari mumhuri yomuprista anogona kuidya; itsvene-tsvene.
+Asi chipiriso chechivi, chipi nechipi chine ropa richauyiswa muTende Rokusangana kuti rizoyananisira muNzvimbo Tsvene, hachifaniri kudyiwa; chinofanira kupiswa.
 “ ‘Iyi ndiyo mirayiro yechipiriso chemhosva chitsvene-tsvene.
 Chipiriso chemhosva chinofanira kubayirwa panzvimbo panobayirwa chipiriso chinopiswa uye ropa racho rinofanira kusaswa paaritari kumativi ose.
 Mafuta acho ose achapiswa sechipiriso, chimuswe chakakora namafuta akafukidza zvomukati,
@@ -4229,6 +4229,21 @@ Vakaburukira muguva vari vapenyu, nezvinhu zvavo zvose; nyika ikavafukidza, vaka
 Pavakachema, vaIsraeri vose vakanga vakavakomba vakatiza, vachidanidzira vachiti, “Nyika ichatimedza nesuwo!”
 Ipapo moto wakabuda uchibva kuna Jehovha ukaparadza varume mazana maviri namakumi mashanu vakanga vachipisira zvinonhuhwira.
 Jehovha akati kuna Mozisi,
+“Taurira Ereazari mwanakomana waAroni, muprista, kuti abvise hadyana parufuse agoparadzira mazimbe kure nokuti hadyana itsvene,
+idzo hadyana dzavarume vaye vakatadza vakaurayiwa. Pwanyai hadyana mugoita chifukidziro chearitari nadzo, nokuti dzakauyiswa pamberi paJehovha dzikava tsvene. Ngadzive chiratidzo kuvaIsraeri.”
+Saka Ereazari muprista akaunganidza hadyana dzendarira dzakauya navaya vakanga vapiswa, akaita kuti dzipwanyiwe kuti dzigova chifukidzo chearitari,
+sezvaakarayirwa naJehovha kubudikidza naMozisi. Ichi chaiva chirangaridzo kuvaIsraeri chokuti hakuna munhu anofanira kupisira zvinonhuhwira pamberi paJehovha kunze kwechizvarwa chaAroni kuti aregere kuzofanana naKora navateveri vake.
+Fume mangwana, ungano yose yavaIsraeri yakapopotera Mozisi naAroni. Vakati, “Imi makauraya vanhu vaJehovha.”
+Asi ungano yakati yaungana pamwe chete ichipikisana naMozisi naAroni vakatarira kuTende Rokusangana, pakarepo gore rikaifukidza uye kubwinya kwaJehovha kukaonekwa.
+Ipapo Mozisi naAroni vakaenda mberi kweTende Rokusangana,
+uye Jehovha akati kuna Mozisi,
+“Ibva paungano iyi kuti ndivaparadze iye zvino.” Ipapo vakawira pasi nezviso zvavo.
+Zvino Mozisi akati kuna Aroni, “Tora hadyana yako ugoisa zvinonhuhwira mairi pamwe chete nomoto unobva paaritari, uchimbidze kuenda kuungano undovayananisira. Hasha dzabuda dzichibva kuna Jehovha; denda ratotanga.”
+Saka Aroni akaita sezvakarehwa naMozisi, akamhanyira pakati peungano. Denda rakanga ratotanga pakati pavanhu, asi Aroni akapisira zvinonhuhwira akavayananisira.
+Akamira pakati pavapenyu navakafa, denda rikamirawo.
+Asi vanhu zviuru gumi nezvina namazana manomwe vakafa nedenda, vachiwedzera pane vaya vakanga vafa nokuda kwaKora.
+Ipapo Aroni akadzokera kuna Mozisi pamukova wokupinda muTende Rokusangana, nokuti denda rakanga rapera.
+Jehovha akati kuna Mozisi,
 “Taura kuvaIsraeri utore tsvimbo gumi nembiri kubva kwavari, imwe chete kubva kuno mumwe nomumwe wavatungamiri vamarudzi amadzitateguru avo. Unyore zita romurume mumwe nomumwe patsvimbo yake.
 Patsvimbo yaRevhi unyore zita raAroni, nokuti panofanira kuva netsvimbo imwe chete yomukuru mumwe nomumwe worudzi rwamadzitateguru avo.
 Udziise muTende Rokusangana pamberi peChipupuriro, pandinosangana nemi.
@@ -4241,21 +4256,6 @@ Jehovha akati kuna Mozisi, “Dzorera tsvimbo yaAroni pamberi peTende reChipupur
 Mozisi akaita sezvaakarayirwa naJehovha, izvozvo ndizvo zvaakaita.
 VaIsraeri vakati kuna Mozisi, “Isu tichafa hedu! Takarasika, takarasika isu tose!
 Ani naani achaswedera patabhenakeri yaJehovha achafa. Ko, isu tose tichafa here?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Jehovha akati kuna Aroni, “Iwe, navanakomana vako nemhuri yababa vako munofanira kuva nebasa rokutakura mhosva dzinotadzirwa nzvimbo tsvene, uye iwe navanakomana vako bedzi ndimi munofanira kuita basa rokutakura mhosva dzinotadzirwa basa rouprista.
 Uya nehama dzako ivo vaRevhi vanobva kurudzi rwamadzitateguru ako kuti vazobatana newe uye vagokubatsira iwe navanakomana vako pamunoshumira pamberi peTende reChipupuriro.
 Vanofanira kuva pasi pako uye vanofanira kuita mabasa ose eTende asi havafaniri kuswedera pedyo nemidziyo yenzvimbo tsvene kana aritari, kana kuti mose ivo newe muchafa.
@@ -4647,6 +4647,7 @@ Mupe chibayiro chinopiswa nomoto chive chinonhuhwira zvinofadza kuna Jehovha, ch
 Mugadzire hando, gondobwe namakwayana, zvipiriso zvezviyo nezvipiriso zvinonwiwa, maererano nouwandu hwakarayirwa.
 Muisewo nhongo imwe chete yembudzi sechipiriso chechivi, muchipamhidzira kuchipiriso chinopiswa chamazuva ose pamwe chete nechipiriso chacho chezviyo uye nechipiriso chokunwa.
 “ ‘Kupamhidzira pamusoro pezvamakapika uye zvipo zvokupa nokuzvisarudzira, mugadzirire Jehovha izvi pamitambo yenyu yakatarwa: zvipiriso zvenyu zvinopiswa, zvipiriso zvezviyo, zvipiriso zvokunwa uye nezvipiriso zvokuwadzana.’ ”
+Mozisi akataurira vaIsraeri zvose zvaakarayirwa naJehovha.
 Mozisi akati kuvakuru vamarudzi avaIsraeri, “Izvi ndizvo zvarayirwa naJehovha:
 Kana munhu akaita mhiko kuna Jehovha kana kuzvisunga nokupika, haafaniri kuputsa shoko rake asi anofanira kuita zvose zvaakareva.
 “Kana musikana achiri kugara mumba mababa vake akaita mhiko kuna Jehovha kana kuti akazvisunga nokupika,
@@ -4663,7 +4664,6 @@ Murume wake anogona kutsigira kana kukonesa mhiko ipi zvayo yaanopika kuti azvin
 Asi kana murume wake akashaya chaanotaura kwaari zuva nezuva, ipapo ari kusimbisa mhiko dzake uye zvaakapika zvinomusunga. Anozvisimbisa nokusataura kwake chinhu kwaari paanenge anzwa nezvazvo.
 Kana zvakadaro, akazozvikonesa pane dzimwe nguva, mushure mokunge azvinzwa, ipapo iye achatakura mhosva yomukadzi wake.”
 Iyi ndiyo mitemo yakapiwa Mozisi naJehovha pamusoro poukama pakati pomurume nomukadzi wake, uye pakati pababa nomwanasikana wavo muduku agere mumba mavo.
-
 Jehovha akati kuna Mozisi,
 “Tsiva kuvaMidhiani zvavakaitira vaIsraeri. Shure kwaizvozvo uchandosanganiswa navanhu vako.”
 Saka Mozisi akati kuvanhu, “Shongedzai vamwe varume vokwenyu nhumbi dzokurwa kuti vaende kundorwa navaMidhiani kuti vazadzise kutsiva kwaJehovha pamusoro pavo.
@@ -5271,6 +5271,7 @@ Uchenjerere kuteerera mitemo yose yandinokupa, kuti zvive zvakakunakira nguva dz
 Jehovha Mwari wenyu achaparadza kubva pamberi penyu ndudzi dzamava kuda kurwisa nokutorera nyika. Asi kana muchinge madzidzinga uye magara munyika yavo,
 uye mushure mokunge vaparadzwa pamberi penyu, muchenjerere kuti murege kunyengerwa muchibvunza nezvavamwari vavo, muchiti, “Ko, ndudzi idzi dzinoshumira vamwari vadzo sei? Tichaitawo sezvavanoita.”
 Hamufaniri kushumira Jehovha Mwari wenyu nenzira yavo, nokuti mukushumira vamwari vavo, vanoita zvinhu zvose zvose zvinonyangadza zvinovengwa naJehovha. Vanopisa kunyange vanakomana navanasikana vavo mumoto sezvibayiro kuna vamwari vavo.
+Munofanira kuita zvose zvandakakurayirai; musawedzera pazviri kana kubvisa kubva pazviri.
 Kana muprofita, kana muvuki wezviroto, akasvika pakati penyu uye akakuzivisai chishamiso kana chiratidzo,
 uye kana chiratidzo ichi kana chishamiso chaataura nezvacho chikaitika, uye akati, “Ngatiteverei vamwe vamwari” (vamwari vamusingazivi) “uye ngativanamatei,”
 hamufaniri kuteerera mashoko omuprofita kana muroti uyo. Jehovha Mwari wenyu ari kukuedzai kuti aone kana muchimuda nomwoyo wenyu wose uye nomweya wenyu wose.
@@ -5289,7 +5290,6 @@ munofanira zvirokwazvo kuuraya nomunondo vanhu vose varo nezvipfuwo zvaro.
 Unganidzai zvose zvakapambwa zveguta pakati poruvazhe mugopisa chose guta uye nazvose zvakapambwa zvaro sechipiriso chinopiswa kuna Jehovha Mwari wako. Rinofanira kugara riri dongo nokusingaperi, risingazovakwizve.
 Ngapasava nechimwe chezvinhu izvo zvakatongwa chinoonekwa mumaoko enyu, kuti Jehovha adzore kutsamwa kwake kukuru; achakunzwirai tsitsi, agokunzwirai ngoni uye achakuwedzerai uwandu hwenyu, sezvaakakuvimbisai nemhiko kumadzitateguru enyu,
 nokuti munoteerera Jehovha Mwari wenyu, muchichengeta mirayiro yandiri kukupai nhasi uye muchiita zvakanaka pamberi pake.
-
 Imi muri vana vaJehovha Mwari wenyu. Musazvicheka kana kuzviveura pamberi pomusoro muchiitira vakafa,
 nokuti muri rudzi rutsvene kuna Jehovha Mwari wenyu. Jehovha akakutsaurai kubva pakati pendudzi dzose dziri panyika kuti muve rudzi rwake runokosha.
 Musadya chinhu chipi zvacho chinonyangadza.
@@ -5499,6 +5499,7 @@ Musaita chinhu kumusikana wacho; haana kuita chivi chinofanira rufu. Mhaka iyi y
 Nokuti murume uyu akawana musikana uyu kunze musango, uye kunyange musikana uyu akaita mhiko akaridza mhere, pakanga pasina aigona kumununura.
 Kana murume akasangana nomusikana asina kupiwa nduma yokuwanikwa akamumanikidza kuvata naye uye vakawanikidzwa,
 acharipa baba vomusikana uyu mashekeri makumi mashanu esirivha. Anofanira kuwana musikana wacho, nokuti amukanganisa. Haafaniri kumuramba mazuva ose oupenyu hwake.
+Murume haafaniri kuwana mukadzi wababa vake; haafaniri kuzvidza nhoo yababa vake.
 Hapana murume akakuvadzwa manhu ake kana kubviswa nhengo yake achapinda paungano yaJehovha.
 Hapana munhu akaberekwa noupombwe, kana vana vake, anofanira kupinda paungano yaJehovha, kusvikira kuchizvarwa chegumi.
 Hapana muAmoni kana muMoabhu, kana munhu upi worudzi rwake anofanira kupinda paungano yaJehovha, kusvikira kuchizvarwa chegumi.
@@ -5524,7 +5525,6 @@ Asi kana ukarega kuita mhiko, haungavi nemhosva.
 Uchenjerere kuti uite zvose zvaunotaura nomuromo wako, nokuti wakaita mhiko nokuda kwako kuna Jehovha Mwari wako nomuromo wako.
 Kana ukapinda mumunda womuzambiringa womuvakidzani wako, ungadya mazambiringa ose aunoda asi haufaniri kuisa mamwe mudengu rako.
 Kana ukapinda mumunda wezviyo womuvakidzani wako, ungavhuna hako hura noruoko rwako, asi haufaniri kucheka zviyo zvake nejeko.
-
 Kana murume akawana mukadzi akasafadzwa naye nokuti awana chinhu chisina kufanira paari, akamupa rugwaro rwokumuramba, uye akamudzinga kubva mumba make,
 uye kana mushure mokunge abva mumba make akandowanikwa nomumwe murume,
 uye murume wake wechipiri akasamufarira, akamupa rugwaro rwokumuramba, uye akamudzinga kubva mumba make, kana kuti murume uyu akafa,
@@ -5679,7 +5679,6 @@ Pakati pendudzi idzodzo haungawani zororo, kana nzvimbo yokuisa rutsoka rwako. I
 Uchararama upenyu hwako hwakarembera nguva dzose, wakazadzwa nokutya usiku namasikati, usina chokwadi pamusoro poupenyu hwako.
 Mangwanani muchati, “Dai chete anga ari madekwana!” uye madekwana muchati, “Dai chete anga ari mangwanani!”—nokuda kwokutya kuchazadza mwoyo yenyu nokuda kwezvinhu zvamuchaona nameso enyu.
 Jehovha achakudzoserai kuIjipiti muri muzvikepe parwendo rwandakati hamufaniri kuzoruonazve. Ikoko muchada kuzvitengesa kuvavengi venyu savarandarume kana varandakadzi, asi hapana angada kukutengai.
-
 Aya ndiwo mashoko esungano akarayirwa Mozisi naJehovha kuti aaite navana veIsraeri munyika yeMoabhu, kupamhidzira pamusoro pesungano yaakaita navo paHorebhi.
 Mozisi akadana vaIsraeri vose akati kwavari: Meso enyu akaona zvose zvakaitwa naJehovha muIjipiti kuna Faro, namachinda ake ose uye nokunyika yake yose.
 Nameso enyu chaiwo makaona miedzo iya mikuru, nezviratidzo nezvishamiso zviya zvikuru.
@@ -5708,6 +5707,7 @@ Zvino mhinduro yacho ichava yokuti, “Nemhaka yokuti vanhu vake vakasiya sungan
 Vakabva vakaenda vakandonamata vamwe vamwari uye vakavapfugamira, vamwari vavakanga vasingazivi, vamwari vaakanga asina kuvapa.
 Naizvozvo kutsamwa kwaJehovha kwakapisa pamusoro penyika iyi, zvokuti akauyisa pamusoro payo kutukwa kwose kwakanyorwa mubhuku iri.
 Mukutsamwa kunotyisa nehasha huru Jehovha akavadzura kubva munyika yavo akavarasira kune imwe nyika sezvazvakaita iye zvino.”
+Zvinhu zvakavanzika ndezvaJehovha Mwari wedu, asi zvinhu zvakaratidzwa ndezvedu isu navana vedu nokusingaperi, kuti tigotevera mashoko ose omurayiro uyu.
 Kana kuropafadzwa nokutukwa uku kwose kwandaisa pamberi penyu kwakuwirai uye mazviisa pamwoyo kwose kwamunoparadzirwa naJehovha Mwari wenyu pakati pendudzi,
 uye kana iwe navana vako ukadzokera kuna Jehovha Mwari wako ukamutereera nomwoyo wako wose nomweya wako wose maererano nezvose zvandakurayirai nhasi,
 ipapo Jehovha Mwari wenyu achakudzorerai pfuma yenyu agokunzwirai tsitsi nokukuunganidzai kubva kundudzi dzose kwaakakuparadzirai.
@@ -7771,6 +7771,7 @@ Ipapo akadanidzira kwaari akati, “Kurumidza! Enda nokukasika! Usamira!” Muko
 (Mukomana haana chaakaziva pane zvose izvi; Jonatani naDhavhidhi chete, ndivo vaiziva.)
 Ipapo Jonatani akapa zvombo zvake kumukomana akati, “Chienda, takura udzokere nazvo kuguta.”
 Mushure mokuenda kwomukomana, Dhavhidhi akasimuka nechokurutivi rwezasi rwedombo akakotamira Jonatani katatu, chiso chake chakatsikitsira. Ipapo vakasvetana vakachema pamwe chete asi Dhavhidhi akanyanyisa kuchema.
+
 Jonatani akati kuna Dhavhidhi, “Chienda hako norugare, nokuti takapikirana ushamwari pakati pedu muzita raJehovha, tichiti, ‘Jehovha ndiye chapupu pakati pako neni, uye pakati pezvizvarwa zvako nezvizvarwa zvangu nokusingaperi.’ ” Ipapo Dhavhidhi akabva, Jonatani akadzokerawo muguta.
 Dhavhidhi akaenda kuNobhi, kuna Ahimereki muprista. Ahimereki akadedera paakasangana naye, akati, “Seiko uri woga? Sei pasina wawauya naye?”
 Dhavhidhi akapindura Ahimereki muprista akati, “Mambo akandirayira rimwe shoko akati kwandiri, ‘Hapana anofanira kuziva kana chinhu pamusoro pezvawafambira uye zvawarayirwa.’ Asi kana vari vanhu vangu, ndakavataurira kuti vasangane neni pane imwe nzvimbo.
@@ -7787,7 +7788,6 @@ Dhavhidhi akaisa mashoko aya mumwoyo make uye akatya Akishi mambo weGati zvikuru
 Saka akazviita benzi pamberi pavo; uye paakanga ari mumaoko avo akazviita somunhu anopenga, achikwara-kwara pamakonhi esuo uye achirega mate achisiririkira pandebvu dzake.
 Akishi akati kuvaranda vake, “Tarisai munhu uyu! Ibenzi iri! Mauyirei naye kwandiri?
 Ndashaya mapenzi zvakambodiniko zvamabva mandivigira munhu uyu kuti arambe achiita izvozvi pamberi pangu? Murume uyu angafanira kupinda mumba mangu here?”
-
 Dhavhidhi akabva kuGati akatizira kubako reAdhurami. Hama dzake uye neveimba yababa vake vakazvinzwa, vakaburuka vakaenda ikoko kwaakanga ari.
 Vose vaitambudzika kana kuti vaiva nezvikwereti, kana vainyunyuta vakaungana kwaari uye akava mutungamiri wavo. Varume vanenge mazana mana vakanga vanaye.
 Kubva ipapo Dhavhidhi akaenda kuMizipa muMoabhu akati kuna mambo weMoabhu, “Ungatendera here baba vangu namai vangu kuti vauye kuzogara newe kusvikira ndaziva zvandichaitirwa naMwari?”
@@ -7839,6 +7839,7 @@ Sauro navanhu vake vakatanga kutsvaka, uye Dhavhidhi akati azvinzwa akaburuka ak
 Sauro akaenda ari kuno rumwe rutivi rwegomo, uye Dhavhidhi navanhu vake vakaenda nokuno rumwe rutivi, vachikurumidza kuti vatize kubva kuna Sauro. Sauro navarwi vake paakanga ava pedyo naDhavhidhi navanhu vake kuti avabate,
 nhume yakasvika kuna Sauro, ikati, “Uyai nokukurumidza! VaFiristia vava kupamba nyika.”
 Ipapo Sauro akarega kudzinganisa Dhavhidhi akaenda kundosangana navaFiristia. Ndokusaka vakatumidza nzvimbo iyi kuti Sera Hamarekoti.
+Zvino Dhavhidhi akakwidza kubva ipapo akandogara munhare dzeEni Gedhi.
 Shure kwokudzoka kwaSauro kundodzinganisa vaFiristia, akaudzwa kuti, “Dhavhidhi ari muRenje reEni Gedhi.”
 Saka Sauro akatora zviuru zvavarume vakatsaurwa kubva muIsraeri yose akasimuka akaenda kundotsvaka Dhavhidhi navanhu vake pedyo naMatombo eNgururu.
 Akasvika pamatanga amakwai munzira iyoyo; pakanga pane bako, uye Sauro akapindamo kuti azorore. Dhavhidhi navanhu vake vakanga vari mukati kati mebako.
@@ -7861,7 +7862,6 @@ Kana munhu akawanikidza muvengi wake angamurega achienda asina vanga here? Jehov
 Ndinoziva zvirokwazvo kuti iwe uchava mambo uye umambo hweIsraeri huchasimbiswa mumaoko ako.
 Zvino pika kwandiri naJehovha kuti iwe hauchazoparadzi zvizvarwa zvangu kana kuparadza zita rangu kubva pamhuri yababa vangu.”
 Saka Dhavhidhi akapika kuna Sauro. Ipapo Sauro akadzokera kumusha kwake, asi Dhavhidhi navanhu vake vakaenda kunhare yavo.
-
 Zvino Samueri akafa, uye Israeri yose yakaungana ikamuchema; uye vakamuviga pamusha pake muRama. Ipapo Dhavhidhi akaburuka akaenda kuRenje reMaoni.
 Mumwe murume weMaoni, uyo akanga ane pfuma ikoko paKarimeri, akanga akapfuma kwazvo. Akanga ane mbudzi chiuru uye makwai zviuru zvitatu, aakanga achiveura paKarimeri.
 Zita rake rainzi Nabhari uye zita romukadzi wake rainzi Abhigairi. Mukadzi akanga akangwara uye akanaka kwazvo, asi murume wake muKarebhu, akanga ane mwoyo mukukutu akaipa pamagariro ake.
@@ -8511,6 +8511,7 @@ Mambo akabvunza akati, “Ko, jaya Abhusaromu mupenyu here?” Ahimaazi akati, �
 Mambo akati, “Mira parutivi uye usabva pano.” Saka akasudurukira parutivi ndokumirapo.
 Ipapo muEtiopia akasvika akati, “Ishe wangu mambo, inzwai mashoko akanaka! Jehovha akurwirai nhasi kuna vose vakakumukirai.”
 Mambo akabvunza muEtiopia akati, “Ko, mujaya Abhusaromu mupenyu here?” MuEtiopia akapindura achiti, “Vavengi vashe wangu mambo navose vanokumukirai kuti vakukuvadzei ngavave sejaya iro.”
+Mambo akadedera. Akakwira kukamuri yakanga iri pamusoro pesuo akachema. Paaifamba aiti, “Haiwa mwanakomana wangu Abhusaromu! Mwanakomana wangu, mwanakomana wangu Abhusaromu! Dai chete ndafa hangu ini pachinzvimbo chako! Haiwa Abhusaromu, mwanakomana wangu, mwanakomana wangu!”
 Joabhu akaudzwa kuti, “Mambo anochema nokuungudza nokuda kwaAbhusaromu.”
 Uye kuhondo yose, kukunda kwezuva iro kwakashandurwa kukava kuchema, nokuti pazuva iro, mauto akazvinzwa zvichinzi, “Mambo anochema nokuda kwomwanakomana wake.”
 Varume vakapinda muguta vachiverevedza savanhu vanoverevedza vachinyara nokuti vatiza kubva kuhondo.
@@ -8554,7 +8555,6 @@ Mambo akati ayambukira kuGirigari, Kimihami akayambuka naye. Mauto ose eJudha ne
 Uye varume vose veIsraeri vakauya kuna mambo vakati kwaari, “Hama dzedu, varume veJudha, vakabireiko mambo vakamuuyisa neimba yake mhiri kweJorodhani, pamwe chete navanhu vake vose?”
 Varume vose veJudha vakapindura varume veIsraeri vachiti, “Takaita izvi nokuti mambo ihama yedu yapedyo. Seiko imi matsamwiswa nazvo? Tambodya here zvinhu zvamambo? Tambozvitorera kana chinhu chimwe chete here?”
 Ipapo varume veIsraeri vakapindura varume veJudha vakati, “Tine migove gumi muna mambo; uye zvisiri izvozvo chete, Dhavhidhi ndowedu kukunda imi. Saka seiko imi muchitizvidza? Ko, hatizisu takatanga kutaura kuti mambo adzoke here?” Asi varume veJudha vakapindura nehasha kwazvo kupfuura varume veIsraeri.
-
 Zvino nhubu yainzi Shebha mwanakomana waBhikiri, muBhenjamini, aivapowo. Akaridza hwamanda akadanidzira achiti, “Isu hatina mugove muna Dhavhidhi, hatina chikamu mumwanakomana waJese! Munhu wose ngaaende kutende rake, imi vaIsraeri!”
 Saka varume vose veIsraeri vakasiya Dhavhidhi kuti vatevere Shebha mwanakomana waBhikiri. Asi varume veJudha vakagara namambo wavo kubva kuJorodhani kusvikira kuJerusarema.
 Dhavhidhi akati adzokera kumuzinda wake muJerusarema, akatora varongo vake gumi vaakanga asiya kuti vachengete muzinda akavaisa mumba vakachengetwa. Akavariritira asi haana kuvata navo. Vakanga vakachengetwa kusvikira pazuva rokufa kwavo, vachirarama sechirikadzi.
@@ -8865,6 +8865,20 @@ Jehoshafati mwanakomana waParua, munyika yaIsakari;
 Shimei mwanakomana waEra, munyika yaBhenjamini;
 Gebheri mwanakomana waUri, munyika yeGireadhi (nyika yaSihoni mambo wavaAmori nenyika yaOgi mambo weBhashani). Ndiye aiva mubati oga mudunhu iri.
 Vanhu veJudha neIsraeri vakanga vakawanda sejecha ramahombekombe egungwa; vakadya, vakanwa uye vakafara.
+Soromoni akanga ari mambo munyika dzose dzaibva kuYufuratesi kusvikira kunyika yavaFiristia, nokumuganhuwo weIjipiti. Nyika idzi dzakauya nomutero uye dzakashandira Soromoni mazuva ose oupenyu hwake.
+Zvokudya zvomuzinda waSoromoni zvezuva nezuva zvaiva zviyero makumi matatu zvefurawa yakatsetseka nezviyero makumi matanhatu zvoupfu,
+mombe gumi dzakakodzwa, nemombe makumi maviri dzokumafuro, makwai zana, pasingaverengerwi nondo, mhara, mhembwe nehuku dzakakodzwa.
+Nokuti aitonga nyika dzose dziri kumadokero kwerwizi rweYufuratesi kubva kuTifisa kusvikira kuGaza, uye akava norugare kumativi ose.
+Pamazuva oupenyu hwaSoromoni vaJudha navaIsraeri vaigara zvakanaka, kubvira kuDhani kusvikira kuBheerishebha, mumwe nomumwe pasi pomuti wake wamazambiringa nowamaonde.
+Soromoni aivawo nezvidyiro zvamabhiza engoro dzake zviuru makumi mana navatasvi vamabhiza zviuru gumi nezviviri.
+Vatariri vakatsvakira Mambo Soromoni navose vaiuya kuzodya naMambo Soromoni patafura yake zvokudya, mumwe nomumwe mumwedzi wake. Vakaona kuti hapana chaishayikwa.
+Vakauyawo nebhari nouswa hwamabhiza engoro namamwewo mabhiza kunzvimbo dzezvaidiwa, mumwe nomumwe zvaakatarirwa.
+Mwari akapa Soromoni uchenjeri, nokunzwisisa kukuru sejecha rapamahombekombe egungwa.
+Uchenjeri hwaSoromoni hwakanga hwakapfuura uchenjeri hwavanhu vose vokumabvazuva, nouchenjeri hwose hwokuIjipiti.
+Akanga akachenjera kupfuura vamwe vose; akachenjera kupfuura Etani muEzrahi, Hemani, Karikori, naDharidha, vanakomana vaMahori. Mukurumbira wake wakapararira kunyika dzose dzakapoteredza.
+Akataura zvirevo zviuru zvitatu, uye dzimbo dzake dzaikwana chiuru neshanu.
+Akatsanangura makuriro emiti, kubvira kumusidhari weRebhanoni kusvikira kumihisopi inokura mumadziro. Akadzidzisawo pamusoro pemhuka, shiri, zvinokambaira nehove.
+Vanhu vakauya vachibva kunyika dzose kuti vazonzwa uchenjeri hwaSoromoni; vakauya vachitumwa namadzimambo ose enyika akanga anzwa nezvouchenjeri hwake.
 Hiramu mambo weTire akati anzwa kuti Soromoni akanga azodzwa kuti ave mambo panzvimbo yababa vake Dhavhidhi, akatuma nhume dzake kuna Soromoni, nokuti Hiramu akanga agara ano ushamwari naDhavhidhi.
 Soromoni akatuma shoko kuna Hiramu akati:
 “Munoziva kuti nokuda kwehondo dzairwisana nababa vangu Dhavhidhi kubva kumativi ose, haana kuzokwanisa kuvakira Zita raJehovha Mwari wake temberi, kusvikira Jehovha aisa vavengi vake pasi petsoka dzake.
@@ -8883,20 +8897,6 @@ Soromoni aiva navatakuri vezvinhu zviuru makumi manomwe uye vavezi vamatombo zvi
 pamwe chete navatariri vebasa zviuru zvitatu namazana matatu vaitungamirira basa nokuudza vashandi zvokuita.
 Mambo akarayira vakaputsa matombo makuru kwazvo, anokosha, kuti vavake hwaro hwetemberi namatombo akavezwa.
 Vavaki vaSoromoni, navavaki vaHiramu navaGebhari vakaveza matanda namatombo okuvakisa temberi.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Zvino mugore ramazana mana namakumi masere mushure mokubuda kwavaIsraeri munyika yeIjipiti, mugore rechina rokubata ushe kwaSoromoni pamusoro peIsraeri, mumwedzi waZivhi, unova mwedzi wechipiri, akatanga kuvaka temberi yaJehovha.
 Temberi yakavakirwa Jehovha naMambo Soromoni yakanga yakareba makubhiti makumi matanhatu, ina makubhiti makumi maviri paupamhi hwayo, ina makubhiti makumi matatu pakukwirira kwayo kumusoro.
 Biravira raiva mberi kweimba huru yetemberi rakawedzera upamhi hwetemberi hwamakubhiti makumi maviri uye rakanga rakapfuurira mberi kwetemberi namakubhiti gumi.
@@ -9523,6 +9523,7 @@ Kana zviri zvimwe zvakaitika panguva yokutonga kwaAhabhu, zvichisanganisira zvos
 Ahabhu akazorora namadzibaba ake. Ipapo Ahazia mwanakomana wake akamutevera paumambo.
 Jehoshafati mwanakomana waAsa akava mambo weJudha mugore rechina raAhabhu, mambo weIsraeri.
 Jehoshafati akanga ane makore makumi matatu namashanu okuberekwa paakava mambo, uye akatonga muJerusarema kwamakore makumi maviri namashanu. Zita ramai vake raiva Azubha, mwanasikana waShirihi.
+
 Pazvinhu zvose akafamba munzira dzababa vake Asa uye haana kurasika achibva padziri; akaita zvakanga zvakanaka pamberi paJehovha. Zvisinei, nzvimbo dzakakwirira hadzina kubviswa, uye vanhu vakaramba vachipa zvibayiro uye vachipisa zvinonhuhwira ikoko.
 Jehoshafati akanga ane rugarewo namambo weIsraeri.
 Kana zviri zvimwe zvakaitika panguva yokutonga kwaJehoshafati, zvinhu zvaakaita nehondo dzaakarwa, hazvina kunyorwa here mubhuku renhoroondo dzegore negore dzamadzimambo eJudha?
@@ -9534,7 +9535,6 @@ Ipapo Jehoshafati akazorora namadzibaba ake akavigwa pavakavigwa muguta raDhavhi
 Ahazia mwanakomana waAhabhu akava mambo weIsraeri muSamaria mugore regumi namanomwe raJehoshafati mambo weJudha, uye akatonga Israeri kwamakore maviri.
 Akaita zvakaipa pamberi paJehovha nokuti akafamba munzira dzababa namai vake nomunzira dzaJerobhoamu mwanakomana waNebhati, akaita kuti Israeri iite chivi.
 Akashandira uye akanamata Bhaari, akaita kuti Jehovha, Mwari weIsraeri atsamwe, sezvakanga zvaitwa nababa vake.
-
 Mushure mokufa kwaAhabhu, vaMoabhu vakamukira Israeri.
 Zvino Ahazia akanga awira pasi napawindo rekamuri reimba yake yapamusoro kuSamaria akakuvara. Saka akatuma nhume akati kwavari, “Endai mundobvunza Bhaari-Zebhubhi, mwari weEkironi, kuti aone kana ndichizopora pakukuvara uku.”
 Asi mutumwa waJehovha akati kuna Eria muTishibhi, “Kwira kumusoro undosangana nenhume dzamambo weSamaria uti kwavari, ‘Imhaka yokuti muIsraeri hamuna Mwari here zvamunondobvunza Bhaari-Zebhubhi, mwari weEkironi?’
@@ -9851,6 +9851,7 @@ Ipapo Jehoyadha akaita sungano pakati paJehovha namambo uye navanhu kuti vaizova
 Vanhu vose venyika vakaenda kutemberi yaBhaari vakaiputsira pasi. Vakaputsa aritari dzezvifananidzo uye vakaurayawo Matani, muprista waBhaari, pamberi pearitari. Ipapo Jehoyadha muprista akagadza varindi patemberi yaJehovha.
 Akatora vatungamiri vamazana, navaKari, navarindi uye vanhu vose venyika, vakaburutsa mambo kubva kutemberi yaJehovha vakaenda naye kumuzinda pamwe chete, vakapinda nokusuo ravarindi. Ipapo mambo akatora nzvimbo yake pachigaro choushe,
 vanhu vose venyika vakafara. Guta rakanyarara, nokuti Ataria akanga aurayiwa nomunondo pamuzinda.
+Joashi akanga ana makore manomwe paakatanga kutonga.
 Mugore rechinomwe raJehu, Joashi akava mambo, uye akatonga muJerusarema kwamakore makumi mana. Zita ramai vake rainzi Zibhia; vaibva kuBheerishebha.
 Joashi akaita zvakanaka pamberi paJehovha pamakore ose aakadzidziswa naJehoyadha muprista.
 Kunyange zvakadaro, matunhu akakwirira haana kubviswa; vanhu vakaramba vachibayira zvibayiro uye vachipisira zvinonhuhwira ikoko.
@@ -9872,7 +9873,6 @@ Asi Joashi mambo weJudha akatora zvinhu zvose zvitsvene zvakatsaurwa zvakanga zv
 Zvimwe zvakaitwa pakutonga kwaJoashi, nezvose zvaakaita, hazvina kunyorwa here mubhuku renhoroondo dzamadzimambo eJudha?
 Vabati vake vakaita rangano yokumumukira vakamuuraya paBheti Miro, panzira yaienda kuSira.
 Vabati vakamuuraya vakanga vari vanaJozabhadhi mwanakomana waShimeati naJehozabhadhi mwanakomana waShomeri. Akafa akavigwa pamwe chete namadzibaba ake muGuta raDhavhidhi. Uye Amazia mwanakomana wake akamutevera paumambo.
-
 Mugore ramakumi maviri namatatu raJoashi mwanakomana waAhazia mambo weJudha, Jehoahazi mwanakomana waJehu akava mambo weIsraeri muSamaria, uye akatonga kwamakore gumi namanomwe.
 Akaita zvakaipa pamberi paJehovha nokutevera zvivi zvaJerobhoamu mwanakomana waNebhati, zvaakanga aita kuti vaIsraeri vaite, uye haana kutendeuka kubva pazvivi.
 Naizvozvo kutsamwa kwaJehovha kwakabvira somoto pamusoro peIsraeri, uye kwenguva yakareba akavaisa pasi poruoko rwaHazaeri mambo weAramu naBheni-Hadhadhi mwanakomana wake.
@@ -10456,21 +10456,6 @@ Vanhu vehafu yorudzi rwaManase vaiva vazhinji kwazvo vakagara munyika yaibva kuB
 Ava ndivo vaiva vakuru vedzimba dzavo: Eferi, Ishi, Erieri, Azireri, Jeremia, Hodhavhia naJadhieri. Ava vaiva varwi vakashinga, varume vembiri uye vari vakuru vedzimba dzavo.
 Asi vakanga vasina kutendeka kuna Mwari wamadzibaba avo, vakaita ufeve hwokunamata vamwari vavanhu venyika iyi avo vakanga vaparadzwa naMwari pamberi pavo.
 Saka Mwari waIsraeri akamutsa mweya waPuri mambo weAsiria iwo mweya waTigirati-Pireseri mambo weAsiria, akatapa vaRubheni, vaGadhi nehafu yorudzi rwaManase. Akavatora akandovaisa kuHarahi, Habhori, Hara nokurwizi Gozani uko kwavari kusvikira zuva ranhasi.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Vanakomana vaRevhi vaiva Gerishoni, Kohati naMerari.
 Vanakomana vaKohati vaiva: Amiramu, Izhari, Hebhuroni naUzieri.
 Vana vaAmiramu vaiva: Aroni, Mozisi naMiriamu. Vanakomana vaAroni vaiva: Nadhabhi, Abhihu, Ereazari naItamari.
@@ -10537,6 +10522,21 @@ Zvizvarwa zvaMerari, mhuri nemhuri zvakagoverwa maguta gumi namaviri kubva kumar
 Saka vaIsraeri vakapa vaRevhi maguta aya namafuro awo.
 Kubva kurudzi rwaJudha, rwaSimeoni norwaBhenjamini vakagoverwa maguta ayo akanga arehwa namazita.
 Vamwe vedzimba dzaKohati vakapiwa kuti ive nyika yavo, maguta kubva kurudzi rwaEfuremu.
+Munyika yamakomo yaEfuremu vakapiwa Shekemu (guta routiziro) neGezeri,
+neJokimeami, neBheti Horoni,
+Aijaroni, neGati Rimoni pamwe chete namafuro awo.
+Uye kubva kuhafu yorudzi rwaManase vaIsraeri vakapawo Aneri neBhireamu pamwe chete namafuro awo kuvaKohati vakanga vasara.
+VaGerishoni vakagamuchirawo zvinotevera: Kubva kuimba yehafu yorudzi rwaManase vakagamuchira Gorani muBhashani neAshitarotiwo pamwe chete namafuro awo;
+kubva kurudzi rwaIsakari vakagamuchira Kedheshi neDhabherati,
+Ramoti, neAnemi, pamwe chete namafuro awo;
+kubva kurudzi rwaAsheri vakagamuchira Mashari, neAbhidhoni,
+Hukoki neRehobhi pamwe chete namafuro awo;
+uye kubva kurudzi rwaNafutari vakagamuchira Kedheshi muGarirea, neHamoni neKiriataimi pamwe chete namafuro awo.
+VaMerari (vaRevhi vose vakanga vasara) vakagamuchira zvinotevera: Kubva kurudzi rwaZebhuruni vakagamuchira Jokineami, Karita Rimono, neTabhori pamwe chete namafuro awo;
+kubva kurudzi rwaRubheni mhiri kworwizi Jorodhani kumabvazuva kweJeriko vakagamuchirwawo Bhezeri murenje, Jaza,
+Kedhemoti neMefaati pamwe chete namafuro awo;
+uye kubva kurudzi rwaGadhi vakagamuchira Ramoti muGireadhi, Mahanaimi,
+Heshibhoni neJazeri pamwe chete namafuro awo.
 Vanakomana vaIsakari vaiva: Tora, Puwa, Jashubhi, naShimironi; vose vaiva vana.
 Vanakomana vaTora vaiva: Uzi, Refaya, Jerieri, Jamai, Ibhisami naSamueri, vakuru vedzimba dzavo. Pamazuva okutonga kwaDhavhidhi, zvizvarwa zvaTora zvakaverengwa savarwi munhoroondo yavo zvakasvika zviuru zvina makumi maviri nezviviri namazana matanhatu.
 Mwanakomana waUzi aiva: Izirahia. Vanakomana vaIzirahia vaiva: Mikaeri, Obhadhia, Joere naIshia. Vose vari vashanu vaiva madzishe.
@@ -10725,6 +10725,7 @@ Erieri, Obhedhi naJaasieri muMezobhai.
 Ava ndivo varume vakauya kuna Dhavhidhi paZikiragi achakavanda nokuda kwaSauro mwanakomana waKishi; uye ndivo vamwe vavarwi vakamubatsira muhondo.
 Vakanga vapakata uta uye vaigona kupfura miseve nezvimviriri noruoko rworudyi kana rworuboshwe; vaiva hama dzaSauro dzokurudzi rwaBhenjamini.
 Ahiezeri, mukuru wavo, naJoashi, vanakomana vaShemaya muGibheati; Jezieri naPereti vanakomana vaAzimavheti; Bheraka, Jehu muAnatoti,
+
 naIshimaya muGibheoni, aiva mhare pakati paMakumi Matatu; aiva mutungamiri waMakumi Matatu; Jeremia, Jahazieri, Johanani; Jozabadhi muGedherati,
 Eruzai, Jerimoti, Bhearia, Shemaria naShafatia muHarufi;
 Erikana, Ishiya, Azareri, Joezeri naJashobheami vaKorahi;
@@ -10762,7 +10763,6 @@ uye kubva kumabvazuva aJorodhani, varume vokwaRubheni, Gadhi nehafu yorudzi rwaM
 Ava vose vaiva varume vokurwa vakazvipira kundorwa. Vakauya paHebhuroni vakagadzirira zvizere kuzogadza Dhavhidhi kuti ave mambo weIsraeri. Vamwe vaIsraeri vose vaiva nomwoyo mumwe chete wokuti vaite Dhavhidhi mambo.
 Varume vakagara mazuva matatu ipapo vaina Dhavhidhi vachidya uye vachinwa nokuti mhuri dzavo dzainge dzavavigira zvokudya.
 Uyewo, vavakidzani vavo vokure kwazvo kunyange kwaIsakari, kwaZebhuruni nokwaNafutari vakauya nezvokudya zviri pambongoro, ngamera, manyurusi nenzombe. Pakanga paine zvokudya zvizhinji kwazvo zvaiti upfu, makeke amaonde, makeke amazambiringa akaoma, waini, mafuta, nzombe, namakwai nokuti mufaro wakanga uripo pakati peIsraeri.
-
 Dhavhidhi akataurirana nomumwe nomumwe wavabati vake vose, vatungamiri vezviuru, navatungamiri vamazana.
 Akati kuungano yose yeIsraeri, “Kana zvichiita sezvakakunakirai uye kana kuri kuda kwaJehovha Mwari wedu, ngatitumirei shoko kwose kwose kuhama dzedu dzakasara munyika yose yeIsraeri, nokuvaprista navaRevhi vavagere navo mumaguta avo nokumafuro avo kuti vauye vazobatana nesu.
 Ngatidzorei areka yaMwari wedu kwatiri zvakare, nokuti izvi hatina kuzvibvunza panguva yokutonga kwaSauro.”
@@ -11214,7 +11214,6 @@ Soromoni akazviunganidzira ngoro namabhiza; aiva nengoro chiuru namazana mana, n
 Mambo akaita kuti sirivha negoridhe zviwanikwe kwose kwose muJerusarema samatombo uye misidhari ikawanda semionde mujinga mezvikomo.
 Mabhiza aSoromoni aitengwa kuIjipiti nokuKuwe, vatengi vamambo vaitenga kubva kuKuwe.
 Vaitenga ngoro imwe chete kubva kuIjipiti ichiita mashekeri mazana matanhatu esirivha uye bhiza rimwe chete richiita mashekeri zana namakumi mashanu. Ivo vaizoatengeserawo kumadzimambo ose avaHiti navaAramu.
-
 Soromoni akada kuvaka temberi yeZita raJehovha uye nomuzinda wakewo.
 Akatuma varume zviuru makumi manomwe kuti vave vatakuri vamabwe, navarume zviuru makumi masere kuti vave vavezi vamatombo mumakomo uye varume zviuru zvitatu namazana matanhatu kuti vave vatariri vavo.
 Soromoni akatumira shoko iri kuna Hiramu mambo weTire: “Nditumireiwo matanda emisidhari sezvamakaitira baba vangu Dhavhidhi pamakavatumira misidhari yokuvakisa muzinda wavo kuti vagaremo.
@@ -11232,6 +11231,7 @@ Mai vake vaibva kuDhani uye baba vake vaibva kuTire. Akadzidziswa kushanda negor
 “Zvino ishe wangu ngaatumire varanda vake gorosi nebhari namafuta omuorivhi newaini zvamakavimbisa,
 isu tichatema matanda ose kubva kuRebhanoni omuonde uye tichaaeredzesa pamagwa nemugungwa achidzika kusvika kuJopa. Munogona ipapo kuzoatora moaendesa kuJerusarema.”
 Soromoni akaverenga vatorwa vose vaiva muIsraeri mushure mokuverengwa kwavanhu nababa vake Dhavhidhi; uye vakawanikwa vari zviuru zana namakumi mashanu nezvitatu namazana matanhatu.
+Akarayira zviuru makumi manomwe kuti vave vatakuri vamatombo uye zviuru makumi masere kuti vave vavezi vamatombo muzvikomo, uye zviuru zvitatu namazana matanhatu kuti vave vatariri pamusoro pavo kuti vanhu varambe vachishanda.
 Ipapo Soromoni akatanga kuvaka temberi yaJehovha muJerusarema pagomo reMoria, apo Jehovha akanga azviratidza kuna baba vake Dhavhidhi. Pakanga pari paburiro raArauna muJebhusi, nzvimbo yakapiwa naDhavhidhi.
 Akatanga kuvaka pazuva rechipiri mumwedzi wechipiri mugore rechina rokutonga kwake.
 Nheyo dzakaiswa dzakanga dziri makubhiti makumi matanhatu pakureba uye makubhiti makumi maviri paupamhi hwayo (kana tichishandisa kubhiti rechiero chakare).
@@ -11478,7 +11478,6 @@ Abhija akatevera Jerobhoamu akatora kubva kwaari maguta anoti Bheteri, Jeshana, 
 Jerobhoamu haana kuzotongazve panguva yaAbhija. Uye Jehovha akamurova akafa.
 Asi Abhija akakura pasimba. Akawana vakadzi gumi navana uye akava navanakomana makumi maviri nevaviri uye navanasikana gumi navatanhatu.
 Mamwe mabasa okutonga kwaAbhija, zvaakaita nezvaakataura, zvakanyorwa mumashoko ezvinyorwa zvamuprofita Idho.
-
 Uye Abhija akazorora namadzibaba ake akavigwa muguta raDhavhidhi. Asa mwanakomana wake akamutevera kuva paumambo, uye mumazuva ake nyika yakava norugare kwamakore gumi.
 Asa akaita zvakanga zvakanaka uye zvakarurama pamberi paJehovha Mwari wake.
 Akabvisa aritari dzavatorwa nenzvimbo dzakakwirira, akaputsa matombo anoera uye akatema matanda aAshera.
@@ -11493,6 +11492,7 @@ Ipapo akadana kuna Jehovha Mwari wake akati, “Jehovha, hakuna mumwe akafanana 
 Jehovha akaparadza vaEtiopia pamberi paAsa naJudha vakatiza,
 uye hondo yaAsa yakavatandanisa kusvika kuGerari. VaEtiopia vazhinji kwazvo vakafa zvokuti havanazve kuzombodzokera pasimba rakare; vakabva vaparadzwa pamberi paJehovha navarwi vake. Varume veJudha vakatakura upfumi huzhinji kwazvo hwavakapamba.
 Vakaparadza misha yose yakanga yakapoteredza Gerari, nokuti kutsamwa kwaJehovha kwakanga kwawira pavari. Vakapamba misha iyi yose, nokuti yaiva nezvokupamba zvakawanda.
+Vakarwisazve mapoka avafudzi vakatora makwai akawanda nembudzi nengamera zhinji. Ipapo vakadzokera kuJerusarema.
 Mweya waMwari wakauya pana Azaria mwanakomana waOdhedhi.
 Akabuda kundosangana naAsa akati kwaari, “Nditeererei, imi Asa, Judha yose neBhenjamini yose. Jehovha anemi kana imi munaye. Kana mukamutsvaka, achawanikwa nemi, asi kana mukamurasa, iye achakurasai.
 Kwenguva refu Israeri yakanga isina Mwari wechokwadi, isina muprista kuti avadzidzise uye vasina murayiro.
@@ -12362,12 +12362,6 @@ Aivatevera, Zadhoki mwanakomana waImeri akagadzira pakatarisana neimba yake. Aim
 Vaimutevera, Hanania mwanakomana waSheremia naHanuni, mwanakomana wechitanhatu waZarafu, ndivo vakagadzira chimwe chikamu. Aimutevera, Meshurami mwanakomana waBherekia akagadzira pakatarisana nepaaigara.
 Mumashure make Marikiya, mumwe wavapfuri vegoridhe, akagadzira kusvikira kuimba yavashandi vetemberi navatengesi, pakatarisana neSuo Rokuongorora, uye kusvikira paimba iri pamusoro pekona;
 uye pakati peimba iri pamusoro pekona neSuo raMakwai, vapfuri vegoridhe navatengesi ndivo vakapagadzira.
-
-
-
-
-
-
 Zvino Sanibharati paakanzwa kuti takanga tava kuvakazve rusvingo, akatsamwa uye akava nehasha kwazvo. Akashora vaJudha
 pamberi pehama dzake nehondo yeSamaria, achiti, “Ko, vaJudha avo vasina simba vari kuiteiko? Ko, vachavakazve rusvingo rwavo here? Vachapa zvibayiro here? Vachapedza nezuva rimwe chete here? Ko, vangadzorera upenyu pamatombo ayo akaunganidzwa, akatsva sezvaakaita izvi here?”
 Tobhia muAmoni, aiva parutivi pake, akati, “Chavari kuvaka ichi, kana dai gava raikwira pamusoro pacho, raitokoromora rusvingo rwavo rwamatombo!”
@@ -12385,6 +12379,12 @@ Mushure mokunge ndatarisisa zvinhu izvi, ndakasimuka ndikati kuvakuru, navabati 
 Vavengi vedu pavakanzwa kuti takanga taziva rangano yavo uye kuti Mwari akanga aikonesa, tose takadzokera kurusvingo, mumwe nomumwe pabasa rake.
 Kubva pazuva iro, zvichienda mberi hafu yavanhu vangu vakashanda basa, asi imwe hafu vakanga vakapakata mapfumo, nhoo, uta nenhumbi dzokurwa nadzo. Vatariri vakamira mumashure mavanhu vose vokwaJudha,
 vaivaka rusvingo. Avo vaitakura zvokuvakisa vakaita basa ravo noruoko rumwe uye rumwe ruoko vakabata chombo chokurwisa,
+uye muvaki mumwe nomumwe akanga akapfeka munondo wake parutivi, uku achishanda. Asi munhu airidza hwamanda aiva neni.
+Ipapo ndakati kuvakuru, navatariri noruzhinji rwavanhu, “Basa iguru iri uye rapararira, uye isu tanyanya kuparadzana mumwe kubva kuno mumwe takatevedza rusvingo.
+Pose pamuchanzwa kurira kwehwamanda, muuye tibatane ikoko. Mwari wedu achatirwira.”
+Saka takafambira mberi nebasa, hafu yavarume yakabata mapfumo, kubva mambakwedza kusvikira nyeredzi dzichibuda.
+Panguva iyo ndakati kuvanhu, “Murume mumwe nomumwe nomubatsiri wake ngaagare mukati meJerusarema panguva dzousiku, kuitira kuti vatibatsire kushanda savarindi usiku uyezve savashandi masikati.”
+Zvino ini nehama dzangu kana vanhu vangu kana varindi vaiva neni hatina kubvisa nguo dzedu; mumwe nomumwe aiva nomunondo wake, kunyange paaienda kundonwa mvura.
 Zvino kwakava nokuchema kukuru kwavarume navakadzi vavo pamusoro pehama dzavo vaJudha.
 Nokuti vamwe vakati, “Isu navanakomana navanasikana vedu tiri vazhinji; kuti tidye uye kuti tigorarama, tinofanira kuwana zviyo.”
 Vamwe vaiti, “Isu takaita minda yedu neminda yedu yemizambiringa uye nemisha yedu kuti zvive rubatso kuti tiwane zviyo panguva yenzara.”
@@ -12490,11 +12490,11 @@ Ava vakatsvaka zvinyorwa zvemhuri dzavo, asi vakazvishaya nokudaro vakabviswa ku
 Naizvozvo mubati akavarayira kuti vasadya zvokudya zvipi zvazvo zvakanatswa kusvikira kwava nomuprista anoshumira neUrimi neTumimi.
 Ungano yose yaiva navanhu zviuru makumi mana navaviri ane mazana matatu namakumi matanhatu,
 pasina varanda vavo navarandakadzi vavo vaisvika zviuru zvinomwe namazana matatu ana makumi matatu navanomwe; uye vaivazve navarume navakadzi vaiva vaimbi vaisvika mazana maviri namakumi mana navashanu.
-Paiva namazana manomwe namakumi matatu namatanhatu amabhiza, uye manyurusi mazana maviri namakumi mana nemashanu,
-mazana mana namakumi matatu namashanu engamera uye zviuru zvitanhatu zvina mazana manomwe namakumi maviri zvembongoro.
+Paiva namazana manomwe namakumi matatu namatanhatu amabhiza, uye manyurusi mazana maviri namakumi mana nemashanu, mazana mana namakumi matatu namashanu engamera uye zviuru zvitanhatu zvina mazana manomwe namakumi maviri zvembongoro.
 Vamwe vakuru vemhuri vakabatsira pabasa. Mubati akaisa madhirakema egoridhe chiuru muchivigiro chepfuma nemidziyo makumi mashanu nenhumbi dzavaprista mazana mashanu namakumi matatu.
 Vamwe vakuru vemhuri vakaisa muchivigiro chepfuma zviuru makumi maviri zvamadhirakema egoridhe kuitira basa, mamina esirivha zviuru zviviri namazana maviri.
 Uwandu hwezvakapiwa navanhu vose vose hwaiva zviuru makumi maviri zvamadhirakema egoridhe, nezviuru zviviri zvamamina esirivha, uye nenhumbi dzavaprista dzinosvika makumi matanhatu nenomwe.
+Vaprista, vaRevhi, varindi vemikova, vaimbi navabati vomutemberi, pamwe chete navamwe pakati poruzhinji rwavaIsraeri, vakandogara mumaguta avo.
 Zvino mwedzi wechinomwe wakati wasvika, uye vaIsraeri vagara mumaguta avo, vanhu vose vakaungana vakaita somunhu mumwe pachivara chakatarisana neSuo reMvura. Vakakumbira Ezira munyori kuti auye neBhuku roMurayiro waMozisi, wakanga warayirwa naJehovha kuvaIsraeri.
 Naizvozvo pazuva rokutanga romwedzi wechinomwe, Ezira muprista akauya noMurayiro pamberi peungano, yaiva yavarume navakadzi navose vaigona kunzwisisa.
 Akauverenga nenzwi guru kubva mangwanani kusvikira masikati, akatarisa chivara chaiva pamberi peSuo reMvura, pamberi pavarume navakadzi navose vaigona kunzwisisa. Uye vanhu vose vakateerera zvikuru kuBhuku roMurayiro.
@@ -12550,6 +12550,7 @@ Madzimambo edu, vatungamiri vedu, vaprista vedu namadzibaba edu havana kutevera 
 Kunyange pavakanga vachibata ushe hwavo, vachifarira kunaka kwenyu kukuru kwavari munyika yamakavapa, munyika yakakura uye ine ivhu rakanaka, havana kukushumirai kana kusiya nzira dzavo dzakaipa.
 “Asi tarirai, tava nhapwa nhasi, nhapwa munyika yamakapa madzitateguru edu kuti vadye zvibereko zvayo uye nezvimwe zvakanaka zvainobereka.
 Nokuda kwezvivi zvedu zvibereko zvayo zvizhinji zvava kuenda kumadzimambo amakaisa pamusoro pedu. Vane simba pamusoro pemiviri yedu uye vanoita zvavanoda nemombe dzedu. Tiri pakutambudzika kukuru.
+“Nokuda kwezvose izvi, tiri kuita chitenderano chakasimba, tichichinyora, vatungamiri vedu, uye vaRevhi vedu navaprista vedu vachaisa chisimbiso chavo pachiri.”
 Zvino avo vakaisa chisimbiso ndeava: Nehemia mubati, mwanakomana waHakaria, Zedhekia,
 Seraya, Azaria, Jeremia,
 Pashuri, Amaria, Marikia,
@@ -12589,7 +12590,6 @@ kuchingwa chakaiswa patafura, kuzvipiriso zvenguva nenguva zvezviyo, nezvipiriso
 “Pamusoro pezvo, tichauyisa kumatura eimba yaMwari wedu, nokuvaprista, zvibereko zvokutanga zvevhu, zvipiriso zvedu zvezviyo, nezvemiti yose yemichero nezvewaini yedu itsva uye namafuta. Uye tichauyisa chegumi chezviyo zvedu kuvaRevhi, nokuti vaRevhi ndivo vanounganidza zvegumi mumaguta ose atinoshanda.
 Muprista worudzi rwaAroni anofanira kuenda navaRevhi pavanogamuchira zvegumi, uye vaRevhi vanofanira kuuya nechegumi chezvegumi kuimba yaMwari wedu, kumatura eimba yepfuma.
 Vanhu vaIsraeri pamwe chete navaRevhi, vanofanira kuuya nezvipo zvavo zvezviyo, newaini itsva uye namafuta kumatura kunochengeterwa midziyo yose yenzvimbo tsvene, uye kunogara vaprista vanoshumira, navarindi vemikova navaimbi. “Hatizoshayiri hanya imba yaMwari wedu.”
-
 Zvino vatungamiri vavanhu vakagara muJerusarema, uye vamwe vanhu vose vakakanda mijenya kuti vasarudze mumwe chete kubva mugumi roga roga kuti andogara muJerusarema, guta dzvene, kwozoti vapfumbamwe vanenge vasara vachizogara mumaguta avo pachavo.
 Vanhu vakarumbidza varume vose vakanga vazvipira kugara muJerusarema.
 Ava ndivo vakuru vamatunhu vakandogara muJerusarema (zvino vamwe vavaIsraeri, vaprista, vaRevhi, vashandi vomutemberi nezvizvarwa zvavaranda vaSoromoni vakagara mumaguta aJudha, mumwe nomumwe panzvimbo yake mumaguta akasiyana-siyana,
@@ -13890,14 +13890,6 @@ Inovata pasi pemiti yemirotasi yakavanda pakati petsanga munhope.
 Mirotasi inoivanza pamimvuri yayo; mikonachando iri mujinga morukova inoipoteredza.
 Panozara rwizi, iyo haivhunduki; inodekara zvayo, kunyange Jorodhani rukapfachukira kumuromo wayo.
 Pano munhu angagona kuibata neziso, kana kuiteya uye nokuibaya pamhino yayo here?
-
-
-
-
-
-
-
-
 “Ungagona kukweva ngwena nechiredzo, kana kusunga rurimi rwayo netambo here?
 Ungagona kupinza mukaro mumhino dzayo, kana kuboora rushaya rwayo nechiredzo here?
 Ko, ingaramba ichikumbira kunzwirwa ngoni newe here? Ko, ingataura kwauri mashoko manyoro here?
@@ -13924,6 +13916,14 @@ Nhindi dzenyama yayo dzakabatanidzwa zvakasimba; dzakasimba uye hadzizungunuswi.
 Chipfuva chayo chakaoma sebwe, chakaoma sapasi peguyo.
 Painosimuka, vane simba vanovhundutswa, vanodududzira shure isati yarova mvura.
 Munondo unosvika kwairi hauna simba, uye pfumo kana museve kana pfumo guru hazvina simba.
+Simbi inoita seshanga kwairi, uye ndarira sedanda rakaora.
+Miseve haingaiti kuti itize; zvimviriri zvakaita sehundi kwairi.
+Tsvimbo inoita kunge chidimbu cheshanga kwairi; inoseka panorira bakatwa.
+Pasi payo pakaita sezvaenga zvehari, inosiya muhwezva mumatope sechirei chinokwevewa.
+Inoita kuti mvura yakadzika ivire segate rinovhaira, uye inokurunga gungwa sehari yamafuta.
+Shure kwayo inosiya muhwezva unopenya; mumwe munhu angafunga kuti mvura yakadzika yava nevhudzijena.
+Hapana chakaenzana nayo munyika, chisikwa chisingatyi.
+Inotarisira pasi zvose zvinozvikudza; ndiyo mambo pamusoro pezvose zvinozvikudza.”
 Ipapo Jobho akapindura kuna Jehovha akati:
 “Ndinoziva kuti imi munogona kuita zvose; hapana urongwa hwenyu hungakoneswa.
 Mabvunza kuti, ‘Ndianiko uyu anodzikatira zano rangu iye asina zivo?’ Zvirokwazvo ndakataura pamusoro pezvinhu zvandisinganzwisisi, zvinhu zvinoshamisa kwazvo kuti ini ndizvizive.
@@ -13959,6 +13959,7 @@ Uchavatonga netsvimbo yesimbi; uchavaputsa kuita zvimedu zvimedu sehari.”
 Naizvozvo, imi madzimambo, ngwarai; munyeverwe, imi vabati venyika.
 Shumirai Jehovha nokutya, uye mufare nokudedera.
 Tsvodai Mwanakomana, kuti arege kutsamwa mukazoparadzwa munzira yenyu, nokuti hasha dzake dzingakurumidza kumuka. Vakaropafadzwa vose vanovanda maari.
+
 Haiwa Jehovha, vadzivisi vangu vakawanda sei! Vakawanda sei vanondimukira!
 Vazhinji vanoti kwandiri, “Mwari haangamudzikinuri.” Sera
 Asi imi Jehovha, muri nhoo yakandipoteredza; munoisa rukudzo pandiri uye munosimudza musoro wangu.
@@ -14049,7 +14050,6 @@ Vakaipa vanodzokera kuguva, idzo ndudzi dzose dzinokanganwa Mwari.
 Asi vanoshayiwa havangagari vachikanganwikwa, uye tariro yavanotambudzwa haingaparari.
 Simukai, Jehovha, munhu ngaarege kukunda; ndudzi ngadzitongwe pamberi penyu.
 Varovei nokutyisa, imi Jehovha; ndudzi ngadzizive kuti vanongova vanhu zvavo. Sera
-
 Munomirireiko kure, imi Jehovha? Munozvivanzireiko panguva yokutambudzika?
 Pakuzvikudza kwake munhu akaipa anovhima vasina simba, vanobatwa namano okufunga kwake.
 Anozvirumbidza pamusoro pezvinopangwa nomwoyo wake; anoropafadza vanokara uye anozvidza Jehovha.
@@ -14075,6 +14075,7 @@ Jehovha ari mutemberi yake tsvene; Jehovha ari pachigaro chake choushe chokudeng
 Jehovha anoedza vakarurama, asi vakaipa navanoda zvechisimba mweya wake unovavenga.
 Pane vakaipa anonayisa mazimbe omoto nesafuri inopfuta; mhepo inopisa ndiwo uchava mugove wavo.
 Nokuti Jehovha akarurama, anoda kururamisira; vanhu vakarurama vachaona chiso chake.
+
 Batsirai, imi Jehovha, nokuti vanoda Mwari hapachina; vakatendeka vapera pakati pavanhu.
 Mumwe nomumwe anorevera wokwake nhema; miromo yavo inobata kumeso nokutaura zvinonyengera.
 Jehovha ngaagure miromo yose inobata kumeso, norurimi rumwe norumwe runozvikudza
@@ -14088,8 +14089,7 @@ Kusvikira riniko, nhai Jehovha? Muchandikanganwa nokusingaperi here? Muchasvika 
 Ndichaita mutsimba nepfungwa dzangu kusvikira riniko, uye ndine shungu mumwoyo mangu zuva rimwe nerimwe? Muvengi wangu achandikurira kusvikira riniko?
 Tarirai kwandiri mugondipindura, imi Jehovha Mwari wangu. Vhenekerai meso angu, kana kuti ndichafa ndakarara;
 muvengi wangu achati, “Ndamukurira ndamukunda,” uye vadzivisi vangu vachapembera kana ndawa.
-Asi ini ndinovimba norudo rwenyu rusingaperi; mwoyo wangu unofarira ruponeso rwenyu.
-Ndichaimbira Jehovha, nokuti akandinakira.
+Asi ini ndinovimba norudo rwenyu rusingaperi; mwoyo wangu unofarira ruponeso rwenyu. Ndichaimbira Jehovha, nokuti akandinakira.
 Benzi rinoti mumwoyo maro, “Hakuna Mwari.” Vakaora, mabasa avo akashata; hakuna anoita zvakanaka.
 Jehovha ari kudenga anotarira pasi pamusoro pavanakomana vavanhu, kuti aone kana aripo anonzwisisa, naani zvake anotsvaka Mwari.
 Vose vakatsauka, vose pamwe chete vakasvibiswa; hakuna anoita zvakanaka, kunyange nomumwe.
@@ -14128,6 +14128,7 @@ Vakaita seshumba ine nzara yechokudya, seshumba huru yakavandira pakavanda.
 Haiwa, Jehovha, simukai, mirai pamberi pavo, vawisirei pasi; ndirwirei nomunondo wenyu pano wakaipa.
 Haiwa, Jehovha, ndiponesei noruoko rwenyu kubva kuvanhu vakadai, kubva kuvanhu venyika ino vano mubayiro uri muupenyu huno. Munopedza nzara yaavo vamunoda; vanakomana vavo vane zvakawanda, uye vanounganidzira vana vavo pfuma.
 Zvino ini mukururama, ndichaona chiso chenyu; pandinomuka, ndichagutswa nokuona mufananidzo wenyu.
+
 Ndinokudai, imi Jehovha, simba rangu.
 Jehovha ndiye dombo rangu, nhare yangu, murwiri wangu; Mwari wangu ndiye dombo rangu, wandinovanda maari. Ndiye nhoo yangu norunyanga rworuponeso rwangu, shongwe yangu.
 Ndinodana kuna Jehovha, iye akafanira kurumbidzwa, uye ndinoponeswa kubva kuvavengi vangu.
@@ -14249,7 +14250,6 @@ nokuti ushe ndohwaJehovha uye anotonga pamusoro pendudzi.
 Vapfumi vose venyika vachadya uye vachamunamata; vose vanoburukira muguruva vachapfugama pamberi pake, navose vasingagoni kuzviraramisa.
 Vana vake vachamushumira; zvizvarwa zvinotevera zvichaudzwa nezvaIshe.
 Vachaparidza kururama kwake kuvanhu vasati vaberekwa, nokuti akazviita.
-
 Jehovha ndiye mufudzi wangu, hapana chandingashayiwa.
 Anondivatisa pamafuro manyoro, anondisesedza pamvura inozorodza,
 anoponesa mweya wangu. Anondifambisa panzira dzokururama nokuda kwezita rake.
@@ -14334,6 +14334,7 @@ Inzwi raJehovha rinozungunusa gwenga; Jehovha anozungunusa Gwenga reKadheshi.
 Inzwi raJehovha rinomonyorora miouki uye rinosvuura sango rigosara rati hwe-e. Uye mutemberi yake zvose zvinodana zvichiti, “Kubwinya!”
 Jehovha anogara pachigaro choushe chamafashamu emvura; Jehovha anogara ari Mambo nokusingaperi.
 Jehovha anopa simba kuvanhu vake; Jehovha anoropafadza vanhu vake norugare.
+
 Ndichakukudzai imi Jehovha, nokuti makandisimudza kubva pakadzika, uye hamuna kutendera vavengi vangu kuti vafare pamusoro pangu.
 Haiwa Jehovha Mwari wangu, ndakachemera rubatsiro kwamuri uye mukandiporesa.
 Haiwa Jehovha, makandibudisa muguva; mukandirwira kuti ndirege kupinda mugomba.
@@ -14371,7 +14372,6 @@ Jehovha ngaarumbidzwe, nokuti akaratidza rudo rwake runoshamisa kwandiri pandaka
 Mukuvhunduka kwangu, ndakati, “Ndabviswa pamberi penyu!” Asi makanzwa kuchemera nyasha kwangu pandakadanidzira kwamuri ndichida rubatsiro.
 Idai Jehovha, imi vatsvene mose! Jehovha anochengetedza vakatendeka, asi anotsiva zvizere vanozvikudza.
 Simbai uye mutsunge mwoyo, imi mose munorindira Jehovha.
-
 Akaropafadzwa uyo akakanganwirwa kudarika kwake, akafukidzirwa zvivi zvake.
 Akaropafadzwa munhu asingaverengerwi zvivi zvake naJehovha, uye asina kunyengera mumwoyo make.
 Pandakanyarara, mapfupa angu akarukutika nokuda kwokugomera kwangu zuva rose.
@@ -14405,6 +14405,7 @@ kuti avarwire parufu nokuvararamisa panzara.
 Tinomirira Jehovha netariro; ndiye mubatsiri wedu nenhoo yedu.
 Mwoyo yedu inofara maari, nokuti tinovimba nezita rake dzvene.
 Rudo rwenyu rusingaperi ngarugare pamusoro pedu, imi Jehovha, kunyange sezvatakaisa tariro yedu mamuri.
+
 Ndinorumbidza Jehovha nguva dzose; kurumbidzwa kwake kucharamba kuri pamiromo yangu.
 Mwoyo wangu uchazvirumbidza muna Jehovha; vanotambudzika ngavanzwe vafare.
 Kudzai Jehovha pamwe chete neni; ngatikudzei zita rake pamwe chete.
@@ -14427,7 +14428,6 @@ Akarurama angava namatambudziko mazhinji, asi Jehovha anomurwira paari ose;
 anochengetedza mapfupa ake ose, hakuna nerimwe rawo richavhunika.
 Zvakaipa zvichauraya vakaipa; vavengi vavakarurama vachapiwa mhosva.
 Jehovha anodzikinura varanda vake; hapana kana mumwe anovanda maari achapiwa mhosva.
-
 Haiwa Jehovha, kakavadzanai navanokakavadzana neni; rwisai avo vanondirwisa.
 Torai nhoo huru neduku; simukai, uye uyai mundibatsire.
 Vheyesai pfumo guru nepfumo diki murwise avo vanonditevera. Muti kumweya wangu, “Ndini ruponeso rwako.”
@@ -14456,6 +14456,7 @@ Musarega vachifunga mumwoyo mavo vachiti, “Hekani waro, ndizvo zvatanga tichid
 Vose vanofarira kutambudzika kwangu ngavanyadziswe uye vanyonganiswe; vose vanozvisimudzira pamusoro pangu ngavafukidzwe nenyadzi nokuzvidzwa.
 Vose vanofarira kururamisirwa kwangu ngavapembere nomufaro nokufarisisa; ngavarambe vachiti, “Jehovha ngaakudzwe, iye anofarira kugara zvakanaka kwavaranda vake.”
 Rurimi rwangu ruchataura zvokururama kwenyu, uye nezvokurumbidzwa kwenyu zuva rose.
+
 Shoko riri mumwoyo mangu pamusoro pokutadza kweakaipa rinoti: Hakuna kutya Mwari pamberi pake.
 Pamaonero ake anozvirumbidza, nokuti anozvibata kumeso kwazvo pakuona kwake, zvokuti anotadza kuona kana kuvenga chivi chake.
 Mashoko omuromo wake akaipa uye anonyengera; haachisiri munhu akachenjera kana anoita zvakanaka.
@@ -14468,7 +14469,6 @@ Nokuti kwamuri ndiko kune chitubu choupenyu; muchiedza chenyu tinoona chiedza.
 Rambai muchiitira rudo kuna avo vanokuzivai, uye kururama kwenyu kuna vane mwoyo yakarurama.
 Rutsoka rwounozvikudza ngarurege kusvika kwandiri, kunyange ruoko rweakaipa ngarurege kundidzingira kure.
 Tarirai vaiti vezvakaipa kuti vawa sei, vakandwa pasi, havagoni kumuka.
-
 Usava neshungu nokuda kwavanhu vakaipa, uye usaitira godo avo vanoita zvakaipa;
 nokuti souswa vachaoma nokukurumidza, somuriwo wakasvibira vachakurumidza kuoma.
 Vimba naJehovha uite zvakanaka; gara panyika ufarikane pamafuro manyoro.
@@ -14509,6 +14509,7 @@ Cherechedza asina mhosva, ongorora akarurama; ane ramangwana rakanaka munhu woru
 Asi vatadzi vose vachaparadzwa; ramangwana rowakaipa richagurwa.
 Ruponeso rwavakarurama runobva kuna Jehovha; ndiye nhare yavo panguva yamatambudziko.
 Jehovha anovabatsira uye anovanunura; anovanunura kubva kuna vakaipa uye anovaponesa, nokuti vanovanda maari.
+
 Haiwa Jehovha, musandirayira mukutsamwa kwenyu kana kundiranga muhasha dzenyu.
 Nokuti miseve yenyu yandibaya, uye ruoko rwenyu rwawira pamusoro pangu.
 Mumuviri mangu hamuchina utano nokuda kwehasha dzenyu; mapfupa angu apera simba nokuda kwechivi changu.
@@ -14589,12 +14590,12 @@ Masikati, Jehovha anorayira rudo rwake, pausiku rwiyo rwake runeni, munyengetero
 Ndinoti kuna Mwari Dombo rangu, “Mandikanganwireiko? Ndinofambireiko ndichichema ndakadzvinyirirwa nomuvengi?”
 Mapfupa angu atambura nokurwadza kworufu, sezvo vavengi vangu vachindizvidza zuva rose vachiti kwandiri, “Mwari wako aripiko?”
 Wakasuwireiko, nhai mweya wangu? Unotambudzwa neiko mukati mangu? Isa tariro yako muna Mwari, nokuti ndichamurumbidzazve. Muponesi wangu naMwari wangu.
-
 Ndiruramisirei, imi Mwari, uye mundireverere mhaka yangu parudzi rusina Mwari; ndinunurei pavanhu vanonyengera nevakaipa.
 Ndimi Mwari nhare yangu. Mandirambireiko? Ndinofambireiko pose ndichichema ndichidzvinyirirwa navavengi?
 Tumirai chiedza chenyu nechokwadi chenyu, ngazvinditungamirire; ngazvindisvitse kugomo renyu dzvene, kunzvimbo yamunogara.
 Ipapo ndichaenda kuaritari yaMwari, kuna Mwari, iye mufaro wangu nomudikani wangu. Ndichakurumbidzai nembira, imi Mwari, Mwari wangu.
 Wakasuwireiko, nhai mweya wangu? Unotambudzwa neiko mukati mangu? Isa tariro yako muna Mwari, nokuti ndichamurumbidzazve, Muponesi wangu naMwari wangu.
+
 Haiwa Mwari, takanzwa nenzeve dzedu; madzibaba edu akatiudza zvamakaita pamazuva avo, pamazuva ekare.
 Noruoko rwenyu makadzinga ndudzi uye mukasima madzibaba edu; makapwanya marudzi mukaita kuti madzibaba edu abudirire.
 Havana kuzviwanira nyika nomunondo wavo, uye ruoko rwavo haruna kuvakundisa; rwakanga rwuri ruoko rwenyu rworudyi, irwo ruoko rwenyu, nokupenya kwechiso chenyu, nokuti imi makavada.
@@ -14697,7 +14698,6 @@ nokuti haana chaachatora paanofa; kubwinya kwake hakungaburukiri naye murinda.
 Kunyange paairarama aizviti akaropafadzwa, uye vanhu vachirumbidza munhu paanobudirira,
 achabatana norudzi rwamadzibaba ake, vasingazoonizve chiedza choupenyu.
 Munhu ane pfuma zhinji asinganzwisisi akaita semhuka dzinofa.
-
 Iye Wamasimba, Mwari, Jehovha, anotaura uye anodana nyika kubva pakubuda kwezuva kusvikira kwarinovirira.
 Kubva kuZioni, rakakwana parunako, Mwari anopenya.
 Mwari wedu anouya uye haanganyarari; moto unoparadza pamberi pake, uye dutu rine hasha rakamupoteredza.
@@ -14721,6 +14721,8 @@ Unogara uchipomera hama yako uye unoitira mwanakomana wamai vako makuhwa.
 Zvinhu izvi wakazviita ini ndikaramba ndinyerere; wakafunga kuti ndakafanana newe. Asi ndichakutsiura uye ndichaisa mhosva iyi pamberi pako.
 “Fungai izvi, imi vanokanganwa Mwari, kuti ndirege kukubvambura-bvamburai mukashaya angakununurai:
 Munhu anobayira chibayiro chokuvonga ndiye anondikudza, uye anogadzira nzira kuitira kuti ndimuratidze ruponeso rwaMwari.”
+
+
 Ndinzwirei tsitsi, imi Mwari, nokuda kworudo rwenyu rusingaperi; dzimai kudarika kwangu nokuda kwengoni dzenyu huru.
 Shambidzai zvakaipa zvangu zvose uye mundinatse kubva pachivi changu.
 Nokuti ndinoziva kudarika kwangu, uye chivi changu chinogara chiri pamberi pangu.
@@ -14752,13 +14754,13 @@ Vakarurama vachazviona uye vachatya; vachamuseka vachiti,
 Asi ini ndakaita somuti womuorivhi unokura zvakanaka mumba maMwari; ndinovimba norudo rusingaperi rwaMwari, nokusingaperi-peri.
 Ndichakurumbidzai, nokusingaperi nokuda kwezvamakaita; ndichavimba nezita renyu, nokuti zita renyu rakanaka. Ndichakurumbidzai pamberi pavatsvene venyu.
 
-
 Benzi rinoti mumwoyo maro, “Mwari hakuna.” Vakaora, uye nzira dzavo dzakaipa; hakuna anoita zvakanaka.
 Mwari anotarira ari kudenga, pavanakomana vavanhu, kuti aone kana aripo anonzwisisa, kana aripo anotsvaka Mwari.
 Mumwe nomumwe wavo akadzokera shure, vakava vakaora pamwe chete; hakuna anoita zvakanaka, kunyange nomumwe.
 Ko, vaiti vezvakaipa havangadzidzi here, vaya vanodya vanhu vangu savanhu vanodya chingwa, uye vasingadani kuna Mwari?
 Havo, vakazadzwa nokutya, ipo pasina chavangatya. Mwari akaparadzira mapfupa avanhu vaikurwisa; makavanyadzisa, nokuti Mwari akavazvidza.
 Haiwa, dai ruponeso rwaIsraeri rwabuda kubva muZioni; Mwari paachadzosera nhaka yavanhu vake; Jakobho ngaafarisise uye Israeri ngaafarisise!
+
 
 Ndiponesei, imi Mwari, nezita renyu; ndiruramisirei nesimba renyu.
 Inzwai munyengetero wangu, imi Mwari; teererai kumashoko omuromo wangu.
@@ -14767,7 +14769,6 @@ Zvirokwazvo Mwari ndiye mubatsiri wangu; ishe ndiye anonditsigira.
 Zvakaipa ngazvimonere pane avo vanondireva; muvaparadze pakutendeka kwenyu.
 Ndichakubayirai chipiriso chokungopa; ndicharumbidza zita renyu, imi Jehovha, nokuti rakanaka.
 Nokuti akandirwira pamatambudziko angu ose, uye mukukunda, meso angu akatarisa vavengi vangu.
-
 
 Rerekerai nzeve yenyu kumunyengetero wangu, imi Mwari; regai kushaya hanya nokukumbira kwangu;
 ndinzwei, uye ndipindureiwo. Pfungwa dzangu dzinondinetsa uye ndiri kushushikana,
@@ -14849,6 +14850,7 @@ Vanodzungaira vachitsvaka zvokudya, uye vanohuhudza kana vasina kuguta.
 Asi ini ndichaimba nezvesimba renyu, ndichaimba nezvorudo rwenyu mangwanani; nokuti imi muri nhare yangu, utiziro hwangu panguva dzokutambudzika.
 Haiwa imi simba rangu, ndinokuimbirai nziyo dzokukurumbidzai; imi, Mwari, ndimi nhare yangu, Mwari anondida.
 
+
 Makatiramba, imi Mwari, uye mukatirwisa; makanga makatsamwa, zvino tidzorei henyu!
 Makazungunusa nyika mukaitsemura napakati; gadzirai henyu mitswe yayo, nokuti iri kudengenyeka.
 Makaratidza vanhu venyu nguva dzakaoma; makatipa waini inotidzedzeresa.
@@ -14861,7 +14863,6 @@ Ndianiko achandiisa kuguta rakakomberedzwa? Ndianiko achanditungamirira kuenda k
 Hamusimi, iyemi Mwari, iyemi makatiramba here, uye mukarega kubuda nehondo dzedu?
 Tibatsirei pavavengi vedu, nokuti rubatsiro rwavanhu haruna maturo.
 NaMwari wedu, tichakunda, uye achatsikira vavengi vedu pasi.
-
 
 Inzwai kuchema kwangu, imi Mwari; rerekerai nzeve yenyu kumunyengetero wangu.
 Kubva kumigumo yenyika, ndinodanidzira kwamuri, ndinodana sezvo mwoyo wangu woziya; nditungamirirei kudombo rakakwirira kundipfuura.
@@ -14921,7 +14922,6 @@ Munozadza mihoronga yacho nemvura, uye munoenzanisa mihomba yacho; munoinyoroves
 Munoshongedza gore nekorona yezvakawanda zvenyu, uye ngoro dzenyu dzinopfachukira nezvakawanda.
 Uswa hwomurenje hwopfachukira; zvikomo zvakafukidzwa nomufaro.
 Mafuro azara namapoka emakwai, uye mipata yafukidzwa nezviyo; zvinodanidzira nomufaro uye zvinoimba.
-
 Danidzirai nomufaro kuna Mwari, imi nyika yose!
 Imbirai mukurumbira wezita rake; murumbidze zvikuru kukudzwa kwake!
 Muti kuna Mwari, “Mabasa enyu anotyisa sei! Simba renyu iguru zvokuti vavengi venyu vanodedera pamberi penyu.
@@ -14942,6 +14942,7 @@ Ndakachema kwaari nomuromo wangu; rumbidzo yake yaiva parurimi rwangu.
 Dai ndakanga ndaviga chivi mumwoyo mangu, Ishe aidai asina kundinzwa;
 asi zvirokwazvo Mwari akateerera akanzwa inzwi rangu mumunyengetero.
 Mwari ngaarumbidzwe, iye asina kuramba munyengetero wangu. Kana kudzivisa rudo rwake kwandiri!
+
 Mwari ngaatinzwire tsitsi atiropafadze, uye apenyese chiso chake pamusoro pedu, Sera
 kuti nzira dzenyu dzizivikanwe panyika, ruponeso rwenyu pakati pendudzi dzose.
 Marudzi ngaakurumbidzei, imi Mwari; marudzi ose ngaakurumbidzei.
@@ -15028,7 +15029,6 @@ Vanotsvaka upenyu hwangu ngavanyadziswe uye vakanganiswe; vose vanofarira kupara
 Vanoti kwandiri, “Hekani waro! Hekani waro!” ngavadzorerwe shure nokuda kwenyadzi dzavo.
 Asi vose vanokutsvakai ngavafare nokufarisisa mamuri; vanoda ruponeso rwenyu ngavagare vachiti, “Mwari ngaakudzwe!”
 Asi ndiri murombo nomushayiwi; uyai nokukurumidza kwandiri, imi Mwari. Imi muri mubatsiri wangu nomurwiri wangu; Haiwa Jehovha, musanonoka.
-
 Ndinovanda mamuri, imi Jehovha; ngandirege kutongonyadziswa.
 Ndinunurei uye mundirwire mukururama kwenyu; rerekerai nzeve yenyu kwandiri uye mundiponese.
 Ivai bako rangu rokuvanda kwandingaramba ndichienda; rayirai kuti ndiponeswe, nokuti ndimi dombo rangu nenhare yangu.
@@ -15124,6 +15124,7 @@ Ivai nehanya nesungano yenyu, nokuti mweya wokurwisana wazadza nzvimbo dzerima m
 Musarega vakadzvinyirirwa vachidududza shure nenyadzi; varombo navanoshayiwa ngavarumbidze zita renyu.
 Simukai, imi Mwari, mutsigire mhaka yenyu; rangarirai kuti mapenzi anokushorai sei zuva rose.
 Regai kushayira hanya ruzha rwavadzivisi venyu, bope ravavengi venyu, rinoramba richikwira.
+
 Tinokuvongai, imi Mwari, tinokuvongai, nokuti Zita renyu riri pedyo; vanhu vanotaura nezvamabasa enyu anoshamisa.
 Imi munoti, “Ndinosarudza nguva yakatarwa; ndini ndinotonga zvakarurama.
 Panozununguka nyika yose navanhu vayo, ini ndini ndinobata mbiru dzayo zvakasimba. Sera
@@ -15168,7 +15169,6 @@ Makore akadurura mvura, kumatenga kwakaunga nokutinhira; miseve yenyu yakapenya 
 Kutinhira kwenyu kwakanzwika muchamupupuri, kupenya kwenyu kwakavhenekera nyika; nyika yakadedera ikadengenyeka.
 Gwara renyu rakapinda nomugungwa, nzira yenyu ikapinda nomumvura zhinji zhinji, kunyange zvazvo tsoka dzenyu dzakanga dzisingaonekwi.
 Makatungamirira vanhu venyu seboka ramakwai noruoko rwaMozisi naAroni.
-
 Haiwa vanhu vangu, inzwai kudzidzisa kwangu; teererai mashoko omuromo wangu.
 Ndichashamisa muromo wangu nditaure nomufananidzo, ndichataura zvinhu zvakavanzika, zvinhu zvakare kare,
 zvatakanzwa nezvatakaziva, zvatakaudzwa namadzibaba edu.
@@ -15254,6 +15254,7 @@ Ndudzi dzichataurireiko dzichiti, “Mwari wavo aripi?” Zivisai pakati pendudz
 Kugomera kwavasungwa ngakusvike pamberi penyu; nesimba roruoko rwenyu chengetedzai avo vakatongerwa rufu.
 Mutsive kanomwe pamabvi avavakidzani vedu, kutuka kwavakaita zita renyu, imi Ishe.
 Ipapo vanhu venyu, makwai amafuro enyu, vachakurumbidzai nokusingaperi; kubva kune chimwe chizvarwa kusvikira kune chimwe chizvarwa, ticharondedzera nezvokurumbidzwa kwenyu.
+
 Tinzwei, imi Mufudzi weIsraeri, imi makatungamirira Josefa seboka ramakwai; iyemi munogara pachigaro choushe pakati pamakerubhi, penyai
 pamberi paEfuremu, Bhenjamini naManase. Mutsai simba renyu; uyai mutiponese.
 Tidzorei, imi Mwari, penyesai chiso chenyu pamusoro pedu, kuti tiponeswe.
@@ -15290,7 +15291,6 @@ Saka ndakavaregera paukukutu hwemwoyo yavo, kuti vatevere mano avo.
 ndaikurumidza kukunda sei vavengi vavo nokurova vavengi vavo noruoko rwangu!
 Vaya vanovenga Jehovha vachatya pamberi pake, uye kurangwa kwavo kuchagara nokusingaperi.
 Asi imi muchagutswa nezviyo zvakaisvonaka; uye ndichakugutsai nouchi hunobva padombo.”
-
 Mwari anogara paungano huru; anotonga pakati pa“vamwari” achiti,
 “Muchasvika riniko muchirwira vasakarurama uye muchisanangura vanhu vakaipa? Sera
 Tongai mhaka dzavasina simba nenherera; chengetedzai kodzero dzavarombo navakadzvinyirirwa.
@@ -15299,6 +15299,7 @@ Nunurai vasina simba navanoshayiwa; varwirei paruoko rwowakaipa.
 “Ndakati, ‘Muri vamwari; imi mose muri vanakomana veWokumusoro-soro.’
 Asi muchafa savanhuwo zvavo; muchawa savatongi vose.”
 Simukai, imi Mwari, mutonge nyika, nokuti ndudzi dzose inhaka yenyu.
+
 Haiwa Mwari, regai kunyarara; musanyarara, imi Mwari, musati mwiro.
 Tarirai kumutswa kwaitwa vavengi venyu, namasimudziro avaita misoro yavo.
 Vakarangana nounyengeri pamusoro pavanhu venyu; vanorangana pamusoro paavo vamunochengeta zvakanaka.
@@ -15344,7 +15345,6 @@ Rudo nokutendeka zvinosangana pamwe chete; kururama norugare zvinosvetana.
 Kutendeka kunomera panyika, kururama kunotarira pasi kuri kudenga.
 Chokwadi, Jehovha achapa zvinhu zvakanaka, uye nyika yedu ichabereka mukoho wayo.
 Kururama kuchamutungamirira, uye kuchamugadzirira nzira yetsoka dzake.
-
 Inzwai, imi Jehovha, mundipindure, nokuti ndiri murombo uye ndinoshayiwa.
 Chengetai upenyu hwangu, nokuti ndakazvipa kwamuri. Muri Mwari wangu; ponesai muranda wenyu anovimba nemi.
 Ndinzwirei ngoni, imi Ishe, nokuti ndinodana kwamuri zuva rose.
@@ -15369,6 +15369,7 @@ Zvinhu zvakaisvonaka zvinotaurwa pamusoro pako, iwe guta raMwari: Sera
 Zvirokwazvo, pamusoro peZioni vachati, “Uyu nowoyo vakaberekerwamo, uye Wokumusoro-soro pachake acharisimbisa.”
 Jehovha achanyora panonyorwa mazita amarudzi, kuti, “Uyu akaberekerwa muZioni.” Sera
 Pavanoimba, vachaimba vachiti, “Matsime angu ose ari mamuri.”
+
 Haiwa Jehovha, Mwari anondiponesa, ndakachema masikati nousiku pamberi penyu.
 Munyengetero wangu ngausvike pamberi penyu; rerekerai nzeve yenyu kukuchema kwangu.
 Nokuti mweya wangu uzere nokutambudzika, uye upenyu hwangu hwaswedera pedyo neguva.
@@ -15440,7 +15441,6 @@ Haiwa Ishe, rudo rwenyu rukuru rwekare rwuripiko, irwo rwamakapika nokutendeka k
 Rangarirai, Ishe kuti muranda wenyu aisekwa sei, kuti ndaitakura sei muchipfuva changu kutuka kwendudzi dzose,
 kutuka uko vavengi venyu vaikusekai nako, imi Jehovha, pavaiseka nhambwe imwe neimwe yomuzodziwa wenyu.
 Jehovha ngaarumbidzwe nokusingaperi! Ameni naAmeni.
-
 Jehovha, imi makava ugaro hwedu kuzvizvarwa zvose.
 Makomo asati azvarwa uye musati mabudisa nyika nepasi rose, kubva pakusingaperi kusvikira pakusingaperi muri Mwari.
 Munodzosera vanhu kuguruva zvakare, muchiti, “Dzokerai kuguruva, imi vanakomana vavanhu.”
@@ -15474,6 +15474,7 @@ Uchatsika pamusoro peshumba napamusoro pechiva; uchatsika-tsika shumba huru neny
 “Nokuti anondida,” ndizvo zvinotaura Jehovha, “neni ndichamununura; ndichamudzivirira, nokuti anoziva zita rangu.
 Achadana kwandiri, uye ndichamupindura; ndichava naye pakutambudzika, ndichamurwira uye ndichamukudza.
 Ndichamugutsa noupenyu hurefu, uye ndichamuratidza ruponeso rwangu.”
+
 Zvakanaka kurumbidza Jehovha nokuimbira zita renyu nziyo, imi Wokumusoro-soro,
 kuparidza rudo rwenyu mangwanani nokutendeka kwenyu usiku,
 nechiridzwa chine hungiso gumi namaririro akanaka embira.
@@ -15489,7 +15490,6 @@ Vakarurama vachakura kwazvo somuchindwe, vachakura somusidhari weRebhanoni;
 wakadyarwa muimba yaJehovha, vachakura kwazvo muvanze dzaMwari wedu.
 Vacharamba vachibereka zvibereko pakukwegura kwavo, vachagara vari vanyoro uye vari vatsva.
 Vachaparidza kuti, “Jehovha akarurama; ndiye Dombo rangu, uye maari hamuna chakaipa.”
-
 Jehovha anobata ushe, akashongedzwa noumambo; Jehovha akashongedzwa noumambo uye akafukidzwa nesimba. Nyika yakateyiwa zvakasimba; haingazungunuswi.
 Chigaro chenyu choushe chakasimbiswa kare kare; imi muripo nokusingaperi.
 Haiwa Jehovha, makungwa akasimudza, makungwa akasimudza manzwi awo; makungwa akasimudza mafungu anotinhira.
@@ -15585,6 +15585,7 @@ Ani naani anoitira muvakidzani wake makuhwa pakavanda, iyeye ndiye wandichaita k
 Meso angu achava pamusoro pavakatendeka vari munyika, kuti vagare neni; iye ane mafambiro asina chaangapomerwa, achandishumira.
 Hakuna munhu anonyengera achagara mumba mangu; hakuna munhu anotaura nhema achamira pamberi pangu.
 Mangwanani oga oga ndichaita kuti vakaipa vose vari panyika vanyarare; ndichauraya vaiti vezvakaipa vose, vabve muguta raJehovha.
+
 Inzwai munyengetero wangu, imi Jehovha; kuchemera kwangu rubatsiro ngakusvike kwamuri.
 Regai kundivanzira chiso chenyu pandinenge ndichitambudzika. Rerekerai nzeve yenyu kwandiri; pandinokudanai, ndipindurei nokukurumidza.
 Nokuti mazuva angu anopera soutsi; mapfupa angu anopisa samazimbe anopfuta.
@@ -15613,7 +15614,6 @@ Pamavambo makateya nheyo dzenyika, uye matenga ibasa basa ramaoko enyu.
 Izvo zvichaparara, asi imi munogara muripo; zvose zvichasakara senguo. Senguo muchavabvisa uye vacharaswa.
 Asi imi mucharamba makadaro, uye makore enyu haatongogumi.
 Vana vavaranda venyu vachagara pamberi penyu; zvizvarwa zvavo zvichasimbiswa pamberi penyu.”
-
 Rumbidza Jehovha, iwe mweya wangu; zvose zviri mukati mangu, ngazvirumbidze zita rake dzvene.
 Rumbidza Jehovha, iwe mweya wangu, uye urege kukanganwa mikomborero yake yose,
 iye anokanganwira zvivi zvako zvose, uye anoporesa kurwara kwako kwose,
@@ -15807,6 +15807,7 @@ iye anodurura kuzvidzwa pamusoro pamakurukota, akaita kuti vadzungaire musango r
 Akasimudza vanoshayiwa kubva mukutambudzika kwavo, uye akawedzera mhuri dzavo samapoka amakwai.
 Vakarurama vanozviona vagofara, asi vakaipa vose vanodzivirwa miromo yavo.
 Ani naani akachenjera ngaachengete zvinhu izvi, uye arangarire rudo rukuru rwaJehovha.
+
 Mwoyo wangu wakasimba, Mwari imi; ndichaimba uye ndichaimba zvakanaka nomwoyo wangu wose.
 Muka iwe mutengeranwa nembira! Ndichamutsa mambakwedza.
 Haiwa Jehovha ndichakurumbidzai pakati pendudzi; ndichaimba nezvenyu pakati pamarudzi. Kutendeka kwenyu kunosvika kumatenga.
@@ -15820,7 +15821,6 @@ Ndianiko achandiuyisa muguta rakakomberedzwa namasvingo? Ndianiko achanditungami
 Ko, hamusimi here, imi Mwari, iyemi makatiramba uye mukasazobudazve kuenda nehondo dzedu?
 Tibatsirei pamuvengi wedu, nokuti rubatsiro rwomunhu haruna maturo.
 Tichapiwa kukunda naMwari, uye achatsika-tsika vavengi vedu.
-
 Haiwa Mwari, imi wandinorumbidza, regai kunyarara,
 nokuti vanhu vakaipa vanonyengera vakandishamira miromo yavo; vakataura nhema pamusoro pangu nendimi dzavo.
 Vakandikomba namashoko okuvenga; vanorwa neni pasina mhosva.
@@ -16329,6 +16329,7 @@ Ko, ini handivengi vanokuvengai here, imi Jehovha, nokusema vaya vanokumukirai?
 Handina chimwe chinhu asi kuvavenga ivo; ndinovati vavengi vangu.
 Ndinzverei, imi Mwari, mugoziva mwoyo wangu; ndiedzei mugoziva kushuva kwendangariro dzangu.
 Muone kana musina nzira yakaipa mandiri, mugondifambisa munzira isingaperi.
+
 Ndirwirei, imi Jehovha, pavanhu vakaipa; ndidzivirirei pavanhu vanoita nechisimba.
 Ivo vanofunga urongwa hwakaipa mumwoyo yavo, uye vanomutsa hondo mazuva ose.
 Vanorodza ndimi dzavo kuti dzipinze sedzenyoka; uturu hwenyoka yechiva huri pamiromo yavo. Sera
@@ -16342,7 +16343,6 @@ Mazimbe anopfuta ngaawire pamusoro pavo; ngavakandwe mumoto, mumakomba amatope, 
 Vane makuhwa ngavarege kusimbiswa panyika; njodzi ngaivhime vanhu vanoita zvinhu nechisimba.
 Ndinoziva kuti Jehovha akachengetera varombo kururamisirwa kwavo, uye anotsigira vanoshayiwa pamhaka dzavo.
 Zvirokwazvo vakarurama vacharumbidza zita renyu, uye vakarurama vachagara pamberi penyu.
-
 Haiwa Jehovha, ndinodana kwamuri; kurumidzai kuuya kwandiri. Inzwai inzwi rangu pandinodana kwamuri.
 Munyengetero wangu ngauiswe pamberi penyu sezvinonhuhwira; kusimudzwa kwamaoko angu ngakuite sechibayiro chamadekwana.
 Isai murindi pamuromo wangu, imi Jehovha; chengetai mukova wemiromo yangu.
@@ -16353,6 +16353,7 @@ Ivo vachati, “Sezvinoita anorima achiparura pasi, saizvozvo mapfupa edu akapar
 Asi meso angu anotarira kwamuri, imi Ishe Jehovha; ndinotizira kwamuri, regai kundiisa kurufu.
 Ndichengetei pamisungo yavakanditeya nayo, napaugombe hwakadzikwa navaiti vezvakaipa.
 Vakaipa ngavawire mumimbure yavo, ini ndichipfuura napo norugare.
+
 Ndinodanidzira nenzwi guru kuna Jehovha; ndinosimudzira inzwi rangu kuna Jehovha, kuti andinzwire nyasha.
 Ndinodurura kugununʼuna kwangu pamberi pake; ndinotaura nhamo dzangu pamberi pake.
 Mweya wangu paunoziya mandiri, imi ndimi munoziva nzira yangu. Munzira mandinofamba, vanhu vakandivanzira misungo.
@@ -16360,7 +16361,6 @@ Tarirai kurudyi rwangu mugoona; hakuna ane hanya neni. Handina utiziro; hakuna a
 Ndinochema kwamuri, imi Jehovha; ndinoti, “Ndimi utiziro hwangu, nomugove wangu munyika yavapenyu.”
 Teererai kuchema kwangu, nokuti ndiri pakushayiwa kukuru; ndinunurei kuna avo vanondidzinganisa, nokuti vanondikurira simba.
 Ndibudisei mutorongo, kuti ndirumbidze zita renyu. Ipapo vakarurama vachandipoteredza nokuda kwokunaka kwenyu kwandiri.
-
 Haiwa Jehovha, inzwai munyengetero wangu, ndinzwirei ngoni pakuchema kwangu; uyai mundisunungure nokutendeka uye nokururama kwenyu.
 Musauyisa muranda wenyu mukutongwa, nokuti hakuna mupenyu akarurama pamberi penyu.
 Muvengi anondidzinganisa, anondirovera pasi; anondiita kuti ndigare murima savaya vakafa kare.
@@ -17465,7 +17465,6 @@ Jaya murombo asi rakachenjera riri nani kupfuura mambo mutana ari benzi, asisazi
 Jaya ringava rakabva mutorongo rikazova mambo, kana angava akaberekwa ari muurombo, muushe hwokwake.
 Ndakaona kuti vose vapenyu vakafamba pasi pezuva vakatevera jaya, rakazotevera panzvimbo yamambo.
 Vakanga vasingaverengeki vanhu vose vaaitonga. Asi vakazouya pashure havana kufadzwa neakanga achitonga panzvimbo yamambo. Naizvozviwo hazvina maturo, kudzinganisana nemhepo.
-
 Chenjerera rutsoka rwako kana uchienda kuimba yaMwari. Enda pedyo undonzwa pano kuti upe chibayiro chamapenzi, vasingazivi kuti vanoita zvakaipa.
 Usakurumidza nomuromo wako, usakurumidza mumwoyo mako kutaura chipi zvacho chinhu pamberi paMwari. Mwari ari kudenga uye iwe uri pasi, saka mashoko ako ngaave mashoma.
 Sokuuya kwechiroto kana pane matambudziko akawanda ndizvowo zvinoita kutaura kwebenzi kana pane mashoko mazhinji.
@@ -17485,6 +17484,7 @@ Ichi zvakare chinhu chakaipa kwazvo: Sokuuya kunoita munhu saizvozvowo anoenda, 
 Pamazuva ake ose anodyira murima, nokudzungaira kukuru, kutambudzika uye nehasha.
 Ipapo ndakaziva kuti zvakanaka uye zvakafanira kuti munhu adye uye anwe, uye kuti azviwanire kugutsikana mukushanda kwake kwaakabata pasi pezuva pamazuva ake mashoma oupenyu aakapiwa naMwari, nokuti uyu ndiwo mugove wake.
 Pamusoro pezvo, Mwari paanopa munhu upi zvake mari nezvinhu, uye achiita kuti akwanise kuti afadzwe nazvo kuti agamuchire mugove wake uye kuti afadzwe nebasa rake, ichi chipo chinobva kuna Mwari.
+Haawanzofunga pamusoro poupenyu hwake, nokuti Mwari anopindura zvinofadza mwoyo wake.
 Ndakaona chimwe chinhu chakaipa pasi pezuva, uye chinoremedza vanhu zvikuru:
 Mwari anopa munhu mari nezvinhu zvakawanda uye nokukudzwa, zvokuti haana chaangashayiwa pazvinhu zvinodiwa nomwoyo wake, asi Mwari haazomutenderi kuti afadzwe nazvo, uye mutorwa ndiye anozofadzwa nazvo panzvimbo yake. Izvi hazvina maturo, chinhu chakaipa chinorwadza.
 Munhu angava navana zana agorarama makore akawanda, asi hazvinei kuti ararama nguva yakareba sei, kana akasafara nezvaanowana uyezve akasavigwa zvakanaka, ndinoti mwana aberekwa ari gavamwedzi ari nani pana iye.
@@ -17694,6 +17694,7 @@ Asi njiva yangu, iye akakwana wangu, ndiwe mumwe oga, mwanasikana mumwe oga wama
 Ko, ndiani uyo anoratidzika samambakwedza, akanaka somwedzi, anopenya sezuva, akanaka senyeredzi dziri mumudungwe?
 Ndakadzika kusango remiti yemipfura kundoona zvitsva zvakamera mumupata, kundoona kana mizambiringa yainge yabukira, kana kuti mitamba yainge yava namaruva.
 Ndisati ndambodii, mwoyo wangu wakandiisa pakati pengoro dzoumambo dzavanhu vangu.
+Dzoka, dzoka iwe muShurami; dzoka, dzoka kuti timbokuona! Ko, munodirei kuona muShurami sezvamunoita mutambo weMahanaimi?
 Dzakanaka sei tsoka dzako dzakapfekedzwa shangu, iwe mwanasikana womuchinda! Makumbo ako akanakisisa akaita sezvishongo, basa ramaoko emhizha.
 Guvhu rako rakatenderera somukombe unogara uine waini yakasanganiswa zvakanaka. Chiuno chako murwi wegorosi wakakomberedzwa namaruva.
 Mazamu ako akaita setsvana mbiri, mapatya emhara.
@@ -17707,7 +17708,6 @@ Ini ndiri womudiwa wangu, uye iye anondishuva.
 Uya, mudiwa wangu, ngatiendei kumunda, tigozopedza usiku hwose kumaruwa.
 Ngatimukirei kuminda yemizambiringa tindoona kana mizambiringa yakabukira, uye kana maruva awo azaruka, uye kana mitamba yatumbuka yava namaruva, ikoko ndiko kwandichakupa rudo rwangu.
 Miti yemidiwadiwa inopa kunhuhwira kwayo, uye pamusuo pedu pane zvinonaka zvose, zvose zvitsva nezvitsaru, zvandakachengetera iwe, mudiwa wangu.
-
 Dai chete wakanga uri sehanzvadzi kwandiri, akanwa pamazamu amai vangu! Ipapo kana ndaikuwana panze, ndaikutsvoda uye hapana aizondishora.
 Ndaizokutora ndouya newe kumba kwamai vangu, ivo vakandidzidzisa. Ndaikupa waini yakaiswa zvinonhuhwira kuti unwe, nomukume wemitamba yangu.
 Ruoko rwake rworuboshwe rwuri pasi pomusoro wangu, uye ruoko rwake rworudyi rwakandimbundikira.
@@ -17897,7 +17897,6 @@ Kana vanhu vachiti kwamuri bvunzai masvikiro navavuki, vanozevezera nokunguruma,
 Endai kumurayiro nokuzvipupuriro! Kana vasingatauri maererano neshoko iri havana chiedza chamambakwedza.
 Vatambudzika, vava vane nzara vachafamba-famba nenyika; pavachatambudzika vachava neshungu, uye vachatarira kudenga, vagotuka mambo wavo naMwari wavo.
 Ipapo vachatarira pasi vagoona nhamo chete nerima nokusafara kunotyisa, uye vachakandirwa kurima guru.
-
 Kunyange zvakadaro, hakuchazovazve nerima kuna avo vakanga vari munhamo. Pamazuva akare akaninipisa nyika yeZebhuruni nenyika yeNafutari, asi panguva inouya achakudza Garirea reveDzimwe Ndudzi, nenzira yokugungwa mhiri kwaJorodhani.
 Vanhu vaifamba murima vakaona chiedza chikuru; avo vaigara munyika yomumvuri worufu, chiedza chakavavhenekera.
 Makakurisa rudzi mukawedzera mufaro wavo; vanofara pamberi penyu savanhu vanofara panguva yokukohwa, sokufara kwavarume, kana vachigoverana zvakapambwa.
@@ -17918,6 +17917,7 @@ Naizvozvo Jehovha haachazofariri majaya, kana kuva netsitsi nenherera nechirikad
 Zvirokwazvo zvakaipa zvinopfuta somoto; unopisa rukato neminzwa, unopisa matenhere edondo zvokuti unokwira kudenga mushongwe youtsi.
 Kubudikidza nokutsamwa kwaJehovha Wamasimba Ose nyika ichapiswa kwazvo uye vanhu vachava huni dzomoto; hapana achaponesa hama yake.
 Kurudyi vachadya asi vacharamba vane nzara; kuruboshwe, vachadya asi havangaguti. Mumwe nomumwe achadya nyama yomwana wake.
+Manase achadya Efuremu uye Efuremu achadya Manase; pamwe chete vachamukira Judha. Kunyange zvakadaro, kutsamwa kwake hakuna kudzorwa, ruoko rwake ruchakangosimudzwa.
 Vane nhamo vanodzika mitemo isina kururama, neavo vanopa mitemo inodzvinyirira,
 kuti vadzivise varombo kodzero dzavo uye vadzivise kururamisirwa kwavakadzvinyirirwa vavanhu vangu, vachipamba chirikadzi uye vachibira nherera.
 Muchaita sei pazuva rokutongwa, njodzi painouya ichibva kure? Muchatizira kuna aniko kuti mubatsirwe? Upfumi hwenyu muchahusiyepiko?
@@ -18953,8 +18953,7 @@ Asi muri Baba vedu, kunyange Abhurahama asingatizivi kana naIsraeri asingatizivi
 Haiwa Jehovha, munotiregereiko tichidzungaira, kubva panzira dzenyu muchiomesa mwoyo yedu kuti tirege kukutyai? Dzokai nokuda kwavaranda venyu, iwo marudzi enhaka yenyu.
 Kwenguva duku vanhu venyu vakatora nzvimbo yenyu tsvene, asi zvino vavengi vedu vakatsika-tsika nzvimbo yenyu tsvene.
 Isu tiri venyu kubva kare; asi ivo hamuna kumbovatonga, havana kumbodaidzwa nezita renyu.
-Haiwa, dai maibvarura matenga mukaburuka pasi, kuti makomo adedere pamberi penyu!
-Sezvinoita moto paunopisa tsotso uchiita kuti mvura ivire, burukai muzoita kuti zita renyu rizivikanwe kuvavengi venyu, uye muite kuti ndudzi dzidedere pamberi penyu!
+Haiwa, dai maibvarura matenga mukaburuka pasi, kuti makomo adedere pamberi penyu! Sezvinoita moto paunopisa tsotso uchiita kuti mvura ivire, burukai muzoita kuti zita renyu rizivikanwe kuvavengi venyu, uye muite kuti ndudzi dzidedere pamberi penyu!
 Nokuti pamakaita zvinhu zvinotyisa zvatakanga tisina kutarisira, makaburuka pasi, makomo akabvunda pamberi penyu.
 Kubva panguva dzekare hakuna munhu akanzwa, hakuna nzeve yakanzwisisa, hakuna ziso rakaona mumwe Mwari kunze kwenyu, anobatsira avo vanomumirira.
 Munouya kuzobatsira avo vanofarira kuita zvakarurama, vanorangarira nzira dzenyu. Asi patakaramba tichivatadzira, imi makatsamwa. Zvino tingaponeswa seiko?
@@ -18964,6 +18963,7 @@ Haiwa, Jehovha, kunyange zvakadaro muri Baba vedu. Isu tiri ivhu, imi muri muumb
 Regai kutsamwa zvikuru imi Jehovha; regai kurangarira zvivi zvedu nokusingaperi. Haiwa Jehovha, ringirai kwatiri, tinokumbira, nokuti tose tiri vanhu venyu.
 Maguta enyu matsvene ava renje; kunyange Zioni irenje, Jerusarema rava dongo.
 Temberi yedu tsvene inobwinya, umo madzibaba edu akakurumbidzai, yakapiswa nomoto, uye nzvimbo dzose dzataikoshesa dzaparara.
+Haiwa Jehovha, mushure maizvozvi mungazvidzorawo here? Mucharamba munyerere, uye mugotiranga zvinopfuura mwero here?
 “Ndakazviratidza kuna avo vasina kundibvunza; ndakawanikwa neavo vasina kunditsvaka. Kurudzi rwakanga rusina kudana kuzita rangu ndakati, ‘Ndiri pano, ndiri pano.’
 Zuva rose ndakatambanudzira maoko angu kurudzi rwakasindimara, vanofamba munzira dzisina kunaka vachitevera zvavanofunga,
 vanhu vanogara vachindigumbura ipo pamberi pangu chaipo, vachibayira zvibayiro pamapindu uye vachipisira zvinonhuhwira paaritari dzezvitinha;
@@ -19242,7 +19242,6 @@ Inzwai kuchema kwavanhu vangu kunobva kunyika iri kure kure: “Ko, Jehovha haaz
 “Kucheka kwapfuura, zhizha rapera, asi tigere kuponeswa.”
 Sezvo vanhu vangu vapwanyiwa, neniwo ndapwanyiwa; ndiri kuchema, uye ndiri kutya zvikuru.
 Ko, muGireadhi hamuna muti webharisamu here? Hakuna murapi ikoko here? Seiko zvino ronda ravanhu vangu risina kurapwa?
-
 Haiwa, dai musoro wangu waiva chitubu chemvura uye meso angu riri tsime remisodzi! Ndingadai ndaichema masikati nousiku nokuda kwavakaurayiwa vavanhu vangu.
 Haiwa, dai ndaiva nenzvimbo mugwenga yokugara yavafambi, kuitira kuti ndisiye vanhu vangu ndiende kure navo; nokuti vose imhombwe, ungano yavanhu vasina kutendeka.
 “Vanokunga rurimi rwavo souta, kuti vapfure nhema; havaiti nechokwadi pakukunda kwavanoita munyika. Vanobva pane chimwe chivi vachienda pane chimwe; havandizivi ini,” ndizvo zvinotaura Jehovha.
@@ -19268,6 +19267,7 @@ Uti, “Zvanzi naJehovha: “ ‘Zvitunha zvavanhu zvichavata somupfudze uri p
 Zvanzi naJehovha: “Akachenjera ngaarege kuzvirumbidza pamusoro penjere dzake, kana munhu ane simba pamusoro pesimba rake, kana akapfuma pamusoro pepfuma yake,
 Asi anozvirumbidza ngaazvirumbidze pamusoro pezvizvi: kuti anondinzwisisa uye kuti anondiziva ini, kuti ndini Jehovha, anoita unyoro, nokukururamisira, nokururama panyika, nokuti ndinofarira izvozvi,” ndizvo zvinotaura Jehovha.
 “Mazuva anouya,” ndizvo zvinotaura Jehovha, “andicharanga vose vakadzingiswa panyama chete,
+Ijipiti, Judha, Edhomu, Amoni, Moabhu navose vanogara mugwenga kunzvimbo dziri kure. Nokuti ndudzi dzose idzi hadzina kumbodzingiswa, uye kunyange imba yose yaIsraeri haina kudzingiswa, mumwoyo.”
 Inzwai zvinoreva Jehovha kwamuri, imi imba yaIsraeri.
 Zvanzi naJehovha: “Regai kudzidza tsika dzendudzi kana kuvhundutswa nezviratidzo zviri kudenga kunyange hazvo ndudzi dzichivhundutswa nazvo.
 Nokuti tsika dzavanhu hadzina maturo; vanotema muti musango, muvezi ouveza nembezo.
@@ -21007,6 +21007,11 @@ Ipapo muchaziva kuti ndini Jehovha, kana ndakuisai munyika yeIsraeri, nyika yand
 Mucharangarira mafambiro enyu ikoko nezviito zvose zvamakazvisvibisa nazvo uye muchazvisema pachenyu nokuda kwezvakaipa zvose zvamakaita.
 Muchaziva kuti ndini Jehovha, pandichakuitirai izvozvo nokuda kwezita rangu kwete nokuda kwenzira dzenyu dzakaipa nezvakaora zvamakaita imi imba yaIsraeri, ndizvo zvinotaura Ishe Jehovha.’ ”
 Shoko raJehovha rakasvika kwandiri richiti,
+“Mwanakomana womunhu, rinzira chiso chako kurutivi rwezasi; uparidze pamusoro porutivi rwezasi uye uprofite pamusoro pesango renyika yezasi.
+Uti kusango rezasi, ‘Inzwa shoko raJehovha. Zvanzi naIshe Jehovha: Ndava pedyo nokukupisa nomoto, uye uchaparadza miti yako yose, zvose minyoro neyakaoma. Kuririma kwomurazvo hakungadzimwi, uye zviso zvose kubva kurutivi rwezasi kusvikira kurutivi rwokumusoro zvichapiswa nawo.
+Mumwe nomumwe achaona kuti ini Jehovha ndini ndaubatidza; haungadzimwi.’ ”
+Ipapo ndakati, “Haiwa, Ishe Jehovha! Vanoti pamusoro pangu, ‘Ko, haasi kungotaura mifananidzo here?’ ”
+Shoko raJehovha rakasvika kwandiri richiti,
 “Mwanakomana womunhu, rinzira chiso chako kuJerusarema uparidze pamusoro penzvimbo tsvene. Profita pamusoro penyika yeIsraeri,
 uti kwairi, ‘Zvanzi naJehovha: Ndiri kuzokurwisa. Ndichavhomora munondo wangu kubva mumuhara wawo ndigouraya pakati penyu vose vakarurama nevakaipa.
 Nokuti ndichaparadza vakarurama nevakaipa, munondo wangu uchabuda mumuhara kundorwa navose kubva kurutivi rwezasi kusvikira kurutivi rwokumusoro.
@@ -21038,11 +21043,6 @@ Kunyange vakaona zviratidzo zvenhema pamusoro pako, vakavuka zvenhema pamusoro p
 Chidzosera munondo mumuhara wawo. Panzvimbo yawakasikwa uri, munyika yamadzitateguru ako, ndipo pandichakutongera.
 Ndichadurura hasha dzangu pamusoro pako, uye ndigofemera kutsamwa kwangu kunotyisa pamusoro pako; ndichakuisa kuvanhu vane utsinye, vanhu vanoziva kuparadza.
 Uchava huni dzomoto, ropa rako richateurwa munyika yako, hauchazorangarirwazve; nokuti ini Jehovha ndazvitaura.’ ”
-
-
-
-
-
 Shoko raJehovha rakasvika kwandiri richiti,
 “Mwanakomana womunhu, ucharitonga here? Ucharitonga here guta iri rokuteura ropa? Ipapo urizivise mabasa aro ose anonyangadza
 uti, ‘Zvanzi naIshe Jehovha: Haiwa iwe guta rinozvitsvakira kuparadzwa nokuda kwokuteura ropa pakati paro, nokuzvisvibisa nokuita zvifananidzo,
@@ -21904,9 +21904,6 @@ uye machinda, varayiri, vabati navanamupamazano vamambo vakavaunganira. Vakaona 
 Ipapo Nebhukadhinezari akati, “Mwari waShadhireki naMeshaki naAbhedhinego ngaarumbidzwe, iye akatuma mutumwa wake kuzorwira varanda vake! Ivo vakavimba naye vakazvidza murayiro wamambo uye vakazvipira kurasikirwa noupenyu hwavo pano kuti vashumire kana kunamata vamwari vapi zvavo kunze kwaMwari wavo.
 Naizvozvo ndinotema kuti vanhu vorudzi rupi kana mutauro upi zvawo vanotaura chinhu chipi zvacho chinopesana naMwari waShadhireki naMeshaki naAbhedhinego vatemwe-temwe uye dzimba dzavo dziitwe madurunhuru amarara, nokuti hakuna mumwe mwari angaponesa nenzira iyi.”
 Ipapo mambo akasimudzira Shadhireki, Meshaki naAbhedhinego munyika yeBhabhironi.
-
-
-
 Mambo Nebhukadhinezari: Kuvanhu, nokundudzi navanhu vemitauro yose, vagere munyika yose: Budirirai zvikuru!
 Ndafara kwazvo kuti ndikuzivisei zviratidzo nezvinoshamisa zvandakaitirwa naMwari Wokumusoro-soro.
 Zviratidzo zvake zvikuru sei, zvishamiso zvake zvine simba sei! Umambo hwake umambo husingaperi; kubata kwake ushe kunosvika kuzvizvarwa nezvizvarwa.
@@ -21941,6 +21938,9 @@ Mashoko akanga achiri mumuromo make pakauya inzwi richibva kudenga richiti, “H
 Uchadzingwa pakati pavanhu uye uchagara nemhuka dzesango; uchadya uswa semombe. Nguva nomwe dzichakuperera kusvikira waziva kuti Wokumusoro-soro ndiye Ishe pamusoro poushe hwavanhu uye kuti anohupa kuna ani zvake waanenge ada.”
 Pakarepo, zvakanga zvarehwa pamusoro paNebhukadhinezari zvakazadzisika. Akadzingwa pakati pavanhu akafura uswa semombe. Muviri wake wakanyoroveswa nedova redenga kusvikira bvudzi rake rareba seminhenga yegondo uye nzara dzake dzafanana nedzeshiri.
 Nguva iyoyo yakati yapera, ini, Nebhukadhinezari, ndakasimudzira meso angu kudenga, uye pfungwa dzangu dzakadzoredzerwa. Ipapo ndakarumbidza Wokumusoro-soro; ndakamuremekedza uye ndikamukudza iye anogara nokusingaperi. Ushe hwake hahuperi; umambo hwake hunogara kubva kuchizvarwa kusvikira kune chimwe chizvarwa.
+Vanhu vose venyika vanoonekwa sevasina maturo. Iye anoita sezvaanoda namasimba okudenga uye navanhu venyika. Hakuna munhu angakonesa ruoko rwake kana kuti kwaari, “Waiteiko?”
+Panguva yacho iyoyo yakavandudzwa pfungwa dzangu, kukudzwa kwangu nokubwinya kwangu kwakadzorerwa kwandiri nokuda kwokubwinya kwoushe hwangu. Vanamupamazano vangu namakurukota vakanditsvaka, uye ndakadzorerwazve pachigaro changu choushe ndikava mukuru kunyange kupfuura kare.
+Zvino ini Nebhukadhinezari, ndinorumbidza, ndinosimudzira uye ndinokudza Mambo wokudenga, nokuti zvose zvaanoita zvakarurama uye nzira dzake dzose dzakarurama. Uye iye anogona kuninipisa vaya vanofamba mukuzvikudza.
 Mambo Bherishazari akaitira makurukota chiuru mabiko makuru akanwa waini pamwe chete navo.
 Bherishazari achiri kunwa waini yake, akarayira kuti vauyise midziyo yegoridhe neyesirivha iya yakanga yatorwa nababa vake Nebhukadhinezari kubva kutemberi yokuJerusarema, kuitira kuti mambo namakurukota ake, navakadzi vake uye navarongo vake vanwiremo.
 Saka vakauyisa midziyo yegoridhe yakanga yatorwa mutemberi yaMwari muJerusarema, uye mambo namakurukota ake, vakadzi vake navarongo vake vakanwira mairi.
@@ -21971,6 +21971,7 @@ Tekere: Makayerwa pachiyero mukawanikwa makareruka.
 Peresi: Umambo hwenyu hwakakamuraniswa hukapiwa vaMedhia navaPezhia.”
 Ipapo Bherishazari akarayira kuti Dhanieri ashongedzwe nguo dzepepuru, ketani yegoridhe ikaiswa pamutsipa wake, zvikaziviswa kuti akanga ava mutongi wapamusoro wechitatu muumambo.
 Usiku ihwohwo Bherishazari, mambo wavaBhabhironi akaurayiwa,
+Dhariasi muMedhia akatora umambo ane makore makumi matanhatu namaviri.
 Zvakafadza Dhariasi kugadza machinda zana namakumi maviri kuti vatonge muushe hwose,
 navakuru vatatu vaiva pamusoro pavo, mumwe wavo akanga ari Dhanieri. Machinda aitsanangura zvose pamusoro pemabasa avo kwavari kuti mambo arege kurasikirwa.
 Zvino Dhanieri akagona akakunda vakuru namachinda mumaitiro ake aishamisa zvokuti mambo akaronga kumugadza kuti ave pamusoro poumambo hwose.
@@ -21999,7 +22000,6 @@ Ipapo Mambo Dhariasi akanyorera vanhu vose, nendudzi dzose navanhu vemitauro yos
 “Ndinotema chirevo chokuti munzvimbo dzose dzoumambo hwangu vanhu vanofanira kutya Mwari waDhanieri uye vamuremekedze. “Nokuti ndiye Mwari mupenyu, anogara nokusingaperi; umambo hwake hahungaparadzwi, ushe hwake hahutongogumi.
 Anorwira uye anoponesa; anoita zviratidzo nezvishamiso mudenga napamusoro penyika. Akarwira Dhanieri pasimba reshumba.”
 Saka Dhanieri akabudirira pamazuva okutonga kwaDhariasi nokutonga kwaSirasi muPezhia.
-
 Mugore rokutanga ramambo Bherishazari, mambo weBhabhironi, Dhanieri akarota hope, uye akaona zviratidzo mumusoro make paakanga avete pamubhedha wake. Akanyora zvose zvaakarota.
 Dhanieri akati, “Muchiratidzo changu usiku, ndakatarira, uye hapo pamberi pangu pakanga pane mhepo ina dzokudenga dzaibvongodza gungwa guru.
 Mhuka huru ina, dzisina kufanana dzakabuda kubva mugungwa.
@@ -22170,6 +22170,8 @@ Gomeri akabatazve pamuviri ndokubereka mwanasikana. Ipapo Jehovha akati kuna Hos
 Asi ndicharatidza rudo kuimba yaJudha; uye ndichavaponesa, kwete nouta, munondo kana kurwa, kana namabhiza kana navatasvi vamabhiza, asi naJehovha Mwari wavo.”
 Mushure mokurumura Ro-Ruhama, Gomeri akaberekazve mumwe mwanakomana.
 Ipapo Jehovha akati, “Mutumidze zita rokuti Ro-Ami, nokuti imi hamusi vanhu vangu, uye ini handisi Mwari wenyu.
+“Kunyange zvakadaro vaIsraeri vachava sejecha riri pamahombekombe egungwa, risingabviri kuyerwa kana kuverengwa. Paya pakanga panzi kwavari, ‘Hamuzi vanhu vangu,’ vachanzi ‘vanakomana vaMwari mupenyu.’
+Vanhu veJudha navanhu veIsraeri vachabatanazve, uye vachasarudza mutungamiri mumwe chete uye vachasimukira panyika, nokuti zuva raJezireeri richava zuva guru.
 “Uti kuvanunʼuna vako, ‘Vanhu vangu,’ nokuhanzvadzi dzako ‘vadikanwa vangu.’ ”
 “Tsiurai mai venyu, vatsiurei, nokuti havasi mukadzi wangu, uye handisi murume wavo. Ngavabvise kuonekwa kwoufeve pachiso chavo nokusatendeka pakati pamazamu avo.
 Kana zvikasadaro, ndichavabvisa nguo dzose vagosara vakashama sezvavakanga vakaita musi wavakaberekwa. Ndichavaita segwenga ndigovashandura vave nyika yakaoma uye ndichavauraya nenyota.
@@ -22193,8 +22195,6 @@ Ndichatsidza kukuwana mukutendeka, uye uchabvuma kuti ndini Jehovha.
 “Pazuva iro ndichadavira,” ndizvo zvinotaura Jehovha, “ndichadavira kumatenga uye ivo vachadavira kunyika;
 nenyika ichadavira kuzviyo, waini itsva namafuta, uye izvo zvichadavira kuna Jezireeri.
 Ndichamusima panyika nokuda kwangu; ndicharatidza rudo kuno uyo wandakati ‘Haasiye wandinoda.’ Ndichati kuna avo vanonzi ‘Havasi vanhu vangu,’ ‘Muri vanhu vangu,’ uye ivo vachati, ‘Muri Mwari wangu.’ ”
-
-
 Jehovha akati kwandiri, “Enda, unodazve mukadzi wako, kunyange achidiwa nomumwe uye ari chifeve. Umude sokuda kunoita Jehovha vaIsraeri, kunyange vachitendeukira kuna vamwe vamwari vachida makeke akaereswa ane marezini.”
 Saka ndakamutenga namashekeri gumi namashanu esirivha neinenge homeri nereteki rebhari.
 Ipapo ndakati kwaari, “Unofanira kugara neni kwamazuva akawanda; haufaniri kuva chifeve kana kudanana nomumwe murume, uye ndichagara newe.”
@@ -22318,6 +22318,7 @@ Vanhu vangu vazvipira kutsauka vachibva kwandiri. Kunyange dai vakadana kuna Iye
 Handingazadzisi kutsamwa kwangu kukuru kana kutendeuka kuti ndiparadze Efuremu. Nokuti ndiri Mwari, kwete munhu, Mutsvene pakati penyu. Handingauyi ndakatsamwa.
 Vachatevera Jehovha; achaomba seshumba. Paachaomba, vana vake vachauya vachidedera vachibva kumadokero.
 Vachauya vachidedera seshiri vachibva kuIjipiti, senjiva vachibva kuAsiria. Ndichavagarisa mudzimba dzavo,” ndizvo zvinotaura Jehovha.
+Efuremu andikomberedza nenhema, imba yaIsraeri nounyengeri. Uye Judha akasindimara pamberi paMwari, kunyange pamberi paIye Mutsvene Akatendeka.
 Efuremu anodya mhepo; anodzingana nemhepo yokumabvazuva zuva rose uye anowedzera nhema pamwe chete nechisimba. Anoita sungano neAsiria, uye anoendesa mafuta omuorivhi kuIjipiti.
 Jehovha ane mhaka yaanopa Judha; acharanga Jakobho maererano nenzira dzake uye achamupa mubayiro maererano namabasa ake.
 Muchizvaro akabata chitsitsinho chomukoma wake; somunhu akaita mutsimba naMwari.
@@ -22332,7 +22333,6 @@ Ko, Gireadhi yakaipa here? Vanhu vayo havana maturo! Vanobayira nzombe here paGi
 Jakobho akatizira kunyika yeAramu; Israeri akashandira kuti awane mukadzi, uye kuti amuwane akafudza makwai.
 Jehovha akashandisa muprofita kuti abudise Israeri kubva muIjipiti, nomuprofita akavachengeta.
 Asi Efuremu akamutsamwisa zvikuru kusvikira ashatirwa; Ishe wake achaisa paari mhosva dzake dzokudeura ropa uye achamupa mubayiro wokuzvidza kwake.
-
 Efuremu akati ataura, vanhu vakadedera; iye akakudzwa muIsraeri. Asi akava nemhosva yokunamata Bhaari uye akafa.
 Zvino vanoramba vachingotadza; vanozviitira zvifananidzo zvakaumbwa nesirivha yavo, zviri zvifananidzo zvakaumbwa nenjere dzavo, zvose ari mabasa emhizha. Pamusoro pavanhu ava zvinonzi, “Vanobayira zvibayiro zvevanhu uye vanotsvoda zviumbwa zvemhuru.”
 Naizvozvo vachava semhute yamangwanani, sedova rinokurumidza kupera, sehundi inopeperetswa kubva paburiro, soutsi hunobuda napawindo.
@@ -22348,6 +22348,7 @@ Mhosva dzaEfuremu dzakaunganidzwa pamwe chete, zvivi zvake zvakachengetedzwa muz
 Kurwadziwa sekwomukadzi anosununguka kunosvika kwaari, asi uyu mwana asina uchenjeri; kana nguva dzasvika, haauyi kumusuo wechizvaro.
 “Ndichavadzikinura kubva pasimba reguva; ndichavadzikinura kubva parufu. Dziripiko hosha dzako, nhai rufu? Kuripiko kuparadza kwako, nhai guva? “Handingazovi netsitsi,
 kunyange akabudirira pakati pamadzikoma ake. Mhepo yokumabvazuva yaJehovha ichauya, ichivhuvhuta ichibva kurenje; chitubu chake chichapwa uye tsime rake richaoma. Dura rake richapambwa zvose zvinokosha zviri mariri.
+Vanhu veSamaria vanofanira kutakura mhaka yavo, nokuti vakamukira Mwari wavo. Vachaparadzwa nomunondo; vacheche vavo vacharoverwa pasi. Vakadzi vavo vane mimba vachatumburwa.”
 Iwe Israeri, dzokera kuna Jehovha Mwari wako. Zvivi zvako ndizvo zvakauyisa kuwa kwako!
 Endai namashoko uye mudzokere kuna Jehovha. Muti kwaari: “Regererai zvivi zvedu zvose mutigamuchire nenyasha, kuti tigopa zvibereko zvemiromo yedu.
 Asiria haingatiponesi; hatingatasvi mabhiza ehondo. Hatizombotizve, ‘Vamwari vedu’ kune zvakagadzirwa namaoko edu chaiwo, nokuti nherera dzinowana tsitsi mamuri.”
@@ -22357,7 +22358,6 @@ mabukira ake achakura. Kunaka kwake kuchafanana nekwomuti womuorivhi, kunhuhwira
 Vanhu vachagarazve mumumvuri wake. Achabudirira sezviyo. Achatunga maruva somuzambiringa, uye mbiri yake ichafanana newaini yeRebhanoni.
 Nhai Efuremu, ndichineiko chokuita nezvifananidzo? Ndichamupindura uye ndichamuchengeta. Ndakafanana nomuti womupaini wakasvibira; kubereka kwako kunobva kwandiri.”
 Ndiani akachenjera? Achacherechedza zvinhu izvi. Ndiani anonzvera? Achazvinzwisisa. Nzira dzaJehovha dzakarurama; vakarurama vanofamba madziri, asi vatadzi vanogumburwa madziri.
-
 Shoko raJehovha rakasvika kuna Joere mwanakomana waPetueri.
 Inzwai izvi, imi vakuru; teererai imi mose vagere munyika. Ko, zvakadai zvakamboitika here pamazuva enyu, kana pamazuva amadzitateguru enyu?
 Zvinhu izvi zviudzei vana venyu, uye vana venyu ngavaudzewo vana vavo, vana vavowo vaudze chizvarwa chinotevera.
@@ -22405,32 +22405,32 @@ Mapuriro enyu achazara nezviyo, uye zvisviniro zvenyu zvichazara newaini itsva n
 “Ndichakuripirai makore ose amakadyirwa nemhashu: mhashu dzemagutaguta nedzegwatakwata, dzimwe mhashu nefararira remhashu; hondo yangu huru yandinotuma pakati penyu.
 Muchava nezvokudya zvakawanda kusvikira maguta, ipapo mucharumbidza zita raJehovha Mwari wenyu, uyo akakuitirai zvishamiso; vanhu vangu havachazonyadziswi zvakare.
 Ipapo muchazoziva kuti ndirimo muIsraeri, uye kuti ndini Jehovha Mwari wenyu, uyewo kuti hakuna mumwe; vanhu vangu havachazonyadziswi zvakare.
+“Uye mushure maizvozvo, ndichadururira Mweya wangu pamusoro pavanhu vose. Vanakomana navanasikana venyu vachaprofita, vatana venyu vacharota hope, majaya enyu achaona zviratidzo.
+Kunyange pamusoro pavaranda vangu, zvose varume navakadzi, ndichadururira Mweya wangu mumazuva iwayo.
+Ndicharatidza zvishamiso kudenga napanyika, ropa nomoto neshongwe dzoutsi.
+Zuva richashanduka rigova rima, uye mwedzi uchava ropa, zuva guru raJehovha rinotyisa risati rasvika.
+Uye ani naani anodana kuzita raJehovha achaponeswa; nokuti paGomo reZioni nomuJerusarema muchava noruponeso, sezvakataurwa naJehovha, pakati pavanopunyuka, avo vachadanwa naJehovha.
 “Mumazuva iwayo, napanguva iyoyo, kana ndichinge ndadzosa pfuma yeJudha neyeJerusarema,
 ndichaunganidza ndudzi dzose ndigoenda nadzo kuMupata waJehoshafati. Ipapo ndichavatonga nokuda kwenhaka yangu, vanhu vangu vaIsraeri, nokuti vakaparadzira vanhu vangu pakati pendudzi, uye vakagovana nyika yangu.
 Vakakanda mijenya pamusoro pavanhu vangu, vakatsinhanisa vakomana nezvifeve; vakatengesa vanasikana kuti vagotenga waini yokuti vanwe.
 “Zvino ndakakutadzirai chiiko, imi Tire neSidhoni, nemi matunhu ose eFiristia? Muri kundiripira chimwe chinhu chandakaita here? Zvino kana muchindiripira, ini ndichadzosera zvamakaita pamisoro yenyu chaiyo nokukurumidza chaizvo.
 Nokuti makatora sirivha negoridhe rangu, mukatakurawo midziyo yangu yakanakisisa mukandoiisa kutemberi dzenyu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Makatengesa vanhu veJudha neveJerusarema kuvaGiriki kuti muvaendese kure.
+“Tarirai, ini ndichavamutsa kubva kunzvimbo dzamakavatengesera, uye ndichadzosera pamisoro yenyu chaiyo zvamakaita.
+Ndichatengesa vanakomana navanasikana venyu kuvanhu veJudha, uye vachavatengesa kuvaShebha, rudzi rwuri kure.” Jehovha ataura.
+Paridzirai izvi kundudzi dzose: Gadzirirai hondo! Mutsai varwi! Varwi vose ngavaswedere pedyo varwise.
+Pfurai mapadza enyu muaite minondo, uye mapanga okuchekerera miti muaite mapfumo. Asina simba ngaati, “Ndine simba!”
+Uyai nokukurumidza, imi ndudzi dzose, kubva kumativi ose mugoungana ipapo. Haiwa Jehovha, burutsai varwi venyu.
+“Ndudzi dzose ngadzimutswe; ngadziende kuMupata waJehoshafati, nokuti ipapo ndipo pandichagara pasi kuti nditonge ndudzi dzose kumativi ose enyika.
+Shandisai jeko, nokuti gohwo raibva. Uyai musvine mazambiringa netsoka dzenyu, nokuti chisviniro chazara, uye zvirongo zvopfachukira, uku ndiko kukura kwakaita kuipa kwavo.”
+Vazhinji zhinji, vazhinji zhinji, vari mumupata wokutonga. Nokuti zuva raJehovha rava pedyo mumupata wokutonga.
+Zuva nomwedzi zvichasviba uye nyeredzi dzichadzima.
+Jehovha achaomba paZioni, uye achatinhira ari muJerusarema; denga nenyika zvichadedera. Asi Jehovha achava utiziro hwavanhu vake, nhare yavanhu veIsraeri.
+“Ipapo muchaziva kuti ini Jehovha Mwari wenyu, ndinogara muZioni, gomo rangu dzvene. Jerusarema richava dzvene; vatorwa havachazorirwisazve.
+“Pazuva iroro makomo achachururuka waini itsva, uye zvikomo zvichaerera mukaka; hova dzose dzomuJudha dzichaerera mvura. Chitubu chichaerera chichibva muimba yaJehovha, uye chichadiridzira mupata wemiti yemiunga.
+Asi Ijipiti ichava dongo, Edhomu ichava gwenga risina basa, nokuda kwokurwiswa kwakaitwa vanhu veJudha, vakateura ropa risina mhosva munyika yavo.
+MuJudha muchagara vanhu nokusingaperi, uye nomuJerusarema kusvikira kuzvizvarwa zvose.
+Mhosva yavo yeropa yandisina kuregerera, ndichairegerera, nokuti Jehovha anogara muZioni.”
 Mashoko aAmosi mumwe wavafudzi veTekoa, zvaakaona pamusoro peIsraeri makore maviri kudengenyeka kwenyika kusati kwaitika, Uzia paakanga ari mambo weJudha uye Jerobhoamu mwanakomana waJoashi ari mambo weIsraeri.
 Akati: “Jehovha anoomba ari paZioni uye anotinhira ari paJerusarema; mafuro avafudzi anooma, pamusoro peKarimeri panosvava.”
 Zvanzi naJehovha: “Nemhaka yezvivi zvitatu zveDhamasiko, kunyange zvina, handingadzori hasha dzangu. Nokuti vakapura Gireadhi nemipuro ina meno amatare,
@@ -22614,6 +22614,7 @@ Pachinzvimbo chaizvozvo varume vakaedza napavaigona napo kuti vadzokere kunyika.
 Ipapo vakachema kuna Jehovha vakati, “Haiwa Jehovha, tapota musatiuraya nemhaka youpenyu hwomunhu uyu. Musatipa mhosva yokuuraya munhu asina mhaka, nokuti, iyemi Jehovha maita sokuda kwenyu.”
 Ipapo vakatora Jona vakamukanda mugungwa, uye gungwa rikanyarara pakupenga kwaro.
 Nokuda kwaizvozvi vakatya Jehovha kwazvo, uye vakabayira Jehovha chibayiro vakaita mhiko kwaari.
+Asi Jehovha akatuma hove huru kuti izomedza Jona, uye Jona akava mudumbu mehove kwamazuva matatu nousiku hutatu.
 Kubva mudumbu rehove Jona akanyengetera kuna Jehovha Mwari wake.
 Akati: “Mudambudziko rangu ndakadana kuna Jehovha, iye akandipindura. Kubva mukati meguva ndakadanidzira kuti ndibatsirwe, uye imi makanzwa kuchema kwangu.
 Makandikandira makadzika, mumwoyo chaimo megungwa, uye mvura zhinji ikandikomberedza; mafungu enyu ose namapopoma enyu ose zvakapfuura napamusoro pangu.
@@ -22624,7 +22625,6 @@ Kumidzi yamakomo ndakanyura; nyika yapasi yakandipfigiramo nokusingaperi. Asi ma
 “Vaya vanobatirira kuzvifananidzo zvisina maturo, vanorasa nyasha dzingadai dziri dzavo.
 Asi ini, norwiyo rwokuvonga, ndichabayira kwamuri. Zvandakapika ndichazvizadzisa. Ruponeso runobva kuna Jehovha.”
 Uye Jehovha akarayira hove, ikandorutsira Jona panyika yakaoma.
-
 Ipapo shoko raJehovha rakasvika kuna Jona kechipiri richiti,
 “Enda kuguta reNinevhe undoriparidzira shoko randinokupa.”
 Jona akateerera shoko raJehovha akaenda kuNinevhe. Zvino Ninevhe raiva guta guru kwazvo, rwendo rwamazuva matatu.
@@ -22700,7 +22700,6 @@ Tambura ugomere, iwe Mwanasikana weZioni, somukadzi ari pakusununguka, nokuti zv
 Asi zvino ndudzi zhinji dzakaunganira kuzokurwisa. Vanoti, “Ngaasvibiswe, maziso edu ngaatarise Zioni!”
 Asi havazivi pfungwa dzaJehovha; havanzwisisi kuronga kwake, iye anovaunganidza sezvisote paburiro.
 “Simuka upure, iwe Mwanasikana weZioni, nokuti ndichakupa nyanga dzesimbi; ndichakupa mahwanda endarira uye uchapwanya kuita zvidimbu ndudzi zhinji.” Uchatsaurira kuna Jehovha zvavakazviwanira nenzira dzavo, upfumi hwavo kuna Ishe wenyika yose.
-
 Unganidza mauto ako, iwe guta ramauto, nokuti takombwa nomuvengi. Vacharova mutongi waIsraeri netsvimbo padama.
 “Asi iwe, Bheterehema Efurata, kunyange uri muduku pakati pamarudzi aJudha, kwauri kuchandibudira mumwe achava mutongi pamusoro peIsraeri, mavambo ake ndeakare kare, kubva pamazuva akare kare.”
 Naizvozvo Israeri achasiyiwa kusvikira panguva iyo, iye anorwadziwa azvara uye hama dzake dzose dzadzoka kuzobatana navaIsraeri.
@@ -22715,6 +22714,7 @@ Ndichaparadza maguta enyika yenyu uye ndichaputsa nhare dzenyu dzose.
 Ndichaparadza uroyi hwako uye hauchazovizve navavuki.
 Ndichaparadza zvifananidzo zvenyu zvakavezwa neshongwe dzenyu pakati penyu; hamuchazokotamiri kubasa ramaoko enyu.
 Ndichadzura kubva pakati penyu matanda aAshera uye ndichaparadza maguta enyu.
+Ndichatsiva nokutsamwa nehasha kundudzi dzisina kunditeerera.”
 Teererai zvinotaurwa naJehovha: “Simukai, taurai nyaya yenyu pamberi pamakomo; zvikomo ngazvinzwe zvamunoda kutaura.
 Chinzwai imi makomo, kupomera kwaJehovha; teererai, imi hwaro hwenyika hunogara nokusingaperi. Nokuti Jehovha ane mhosva yaari kupa vanhu vake; anopa Israeri mhosva.
 “Vanhu vangu, chiiko chandakakuitirai? Ndakakuremedzai neiko? Ndipindurei.
@@ -22765,6 +22765,7 @@ Kubva mauri, iwe Ninevhe, pane mumwe akabuda anoronga zvakaipa pamusoro paJehovh
 Zvanzi naJehovha: “Kunyange vane vabatsiri uye vakawanda, vachaurayiwa vakasazovapozve. Kunyange ndakakutambudza, iwe Judha, handichazokutambudzazve.
 Zvino ndichavhuna joko ravo kubva pamutsipa wako uye ndichadambura ngetani dzako.”
 Jehovha arayira shoko pamusoro pako, iwe Ninevhe, rokuti, “Hauchazovi nezvizvarwa zvinopiwa zita rako. Ndichaparadza zvifananidzo zvakavezwa nezvifananidzo zvakaumbwa, zviri mutemberi yavamwari vako. Ndichachera guva rako, nokuti iwe wakaipa kwazvo.”
+Tarira, pamakomo apo, tsoka dzouyo anouya namashoko akanaka, anoparidza rugare! Pemberera mitambo yako, iwe Judha, uye uzadzise mhiko dzako. Vakaipa havachakurwisazve; vachaparadzwa zvachose.
 Murwisi anouya kuzokurwisa iwe, Ninevhe; rindai nhare, tarirai kunzira, sungai zviuno zvenyu, unganidzai simba renyu rose!
 Jehovha achadzosa kurumbidzwa kwaJakobho sokurumbidzwa kwaIsraeri, kunyange vaparadzi vakavaparadza uye vakaparadza mizambiringa yavo.
 Nhoo dzavarwi vake dzatsvuka; mhare dzokurwa dzapfeka nguo tsvuku. Matare engoro ovaima pazuva rokugadzirirwa kwadzo; mapfumo omupaini anovheyeswa-vheyeswa.
@@ -22778,7 +22779,6 @@ Rabirwa, rapambwa, ratorerwa zvose! Mwoyo yanyungudika, mabvi odedera, miviri yo
 Riripiko bako reshumba, nzvimbo yadzaipira vana vadzo zvokudya, kwaienda shumba nehadzi yayo, uye navana, pasina chokutya.
 Shumba yaiuraya zvaikwanira vana vayo uye yakadzipira hadzi yayo nyama, ichizadza mapako ayo nezvayakauraya uye mapako ayo nenyama.
 “Ndine mhaka newe,” ndizvo zvinotaura Jehovha Wamasimba Ose. “Ndichapisa ngoro dzenyu dzive utsi, uye munondo uchaparadza shumba dzenyu duku. Ndichakusiyai musina nyama panyika. Mazwi enhume dzako haangazonzwikazve.”
-
 Rine nhamo guta reropa, rizere nenhema, rizere nezvakapambwa, harigari risina varinotambudza!
 Kurira kwetyava, utsvikitsviki hwamavhiri, mutsindo wamabhiza nomubvumo wokutinhira kwengoro!
 Kumhanya kwavatasvi vamabhiza, kupenya kweminondo namapfumo anovaima! Vazhinji vakaurayiwa, mirwi yevakafa, mitumbi isingaverengeki, vanhu vachigumburwa nezvitunha.
@@ -22962,6 +22962,10 @@ Ipapo mutumwa aitaura neni akati, “Danidzira shoko iri rokuti: Zvanzi naJehovh
 asi ndakatsamwira zvikuru ndudzi dzinoti dzakagarika. Ndakanga ndakatsamwa zvishoma, asi ivo vakawedzera padambudziko iri.’
 “Naizvozvo, zvanzi naJehovha: ‘Ndichadzokera kuJerusarema ndine tsitsi, uye ipapo imba yangu ichavakwazve. Uye rwodzi rwokuyera ruchatambanudzwa pamusoro peJerusarema,’ ndizvo zvinotaura Jehovha Wamasimba Ose.
 “Danidzirazve uti: Zvanzi naJehovha Wamasimba Ose, ‘Maguta angu achafashukirazve noupfumi, uye Jehovha achanyaradzazve Zioni uye agosarudza Jerusarema.’ ”
+Ipapo ndakasimudza meso angu, zvino hapo pamberi pangu paiva nenyanga ina!
+Ndakabvunza mutumwa aitaura neni ndikati, “Zviiko izvi?” Akandipindura achiti, “Idzi inyanga dzakaparadzira Judha, Israeri neJerusarema.”
+Ipapo Jehovha akandiratidza mhizha ina.
+Ndakabvunza ndikati, “Ko, ava vari kuuya kuzoitei?” Akapindura akati, “Idzi ndidzo nyanga dzakaparadzira Judha kuti pashayikwe kana mumwe angasimudza musoro wake, asi mhizha dzauya kuzodzityisa uye kuti dzigokanda pasi nyanga idzi dzendudzi dzakasimudza nyanga dzadzo kuti dzirwise nyika yeJudha kuti dziparadzire vanhu vayo.”
 Ipapo ndakasimudza meso angu, zvino hapo pamberi pangu paiva nomurume aiva nerwodzi rwokuyeresa muruoko rwake!
 Ndakabvunza ndikati, “Uri kuendepiko?” Akandipindura achiti, “Kunoyera Jerusarema, kuti ndione kufara kwaro nokureba kwaro.”
 Ipapo mutumwa aitaura neni akaenda, uye mumwe mutumwa akauya kuzosangana naye
@@ -22975,10 +22979,6 @@ zvirokwazvo ndichasimudza ruoko rwangu kuti ndivarwise kuitira kuti nhapwa dzavo
 “Ndudzi zhinji dzichabatana naJehovha pazuva iro uye vachava vanhu vangu. Ndichagara pakati penyu uye muchaziva kuti Jehovha Wamasimba Ose akandituma kwamuri.
 Judha ichava nhaka yaJehovha somugove wake munyika tsvene uye achasarudzazve Jerusarema.
 Nyararai pamberi paJehovha, vanhu vose, nokuti asimuka kubva panzvimbo yake tsvene yaanogara.”
-
-
-
-
 Ipapo akandiratidza Joshua muprista mukuru amire pamberi pomutumwa waJehovha, uye Satani amire kurudyi rwake kuti amupomere.
 Jehovha akati kuna Satani, “Jehovha ngaakutuke iwe, Satani! Jehovha, iye akasarudza Jerusarema, ngaakutuke! Ko, murume uyu haazi rukuni runobvira rwabvutwa mumoto here?”
 Zvino Joshua akanga akapfeka nguo dzine tsvina amire pamberi pomutumwa.
@@ -23205,12 +23205,12 @@ Asi zvino tinoti vanozvikudza vakaropafadzwa. Zvirokwazvo vaiti vezvakaipa vanob
 Ipapo vaya vaitya Jehovha vakataurirana, uye Jehovha akateerera akanzwa. Bhuku rechirangaridzo rakanyorwa pamberi pake pamusoro pavanotya Jehovha uye nevanoremekedza zita rake.
 “Vachava vangu,” ndizvo zvinotaura Jehovha Wamasimba Ose, “pazuva randichaunganidza pfuma yangu inokosha. Ndichavanzwira tsitsi, somunhu anonzwira tsitsi mwanakomana wake anomushandira.
 Uye muchaonazve musiyano pakati pavakarurama navakaipa, pakati pavaya vanoshumira Mwari navaya vasingamushumiri.
-
-
-
-
-
-
+“Zvirokwazvo zuva rinouya; richapisa sechoto. Vose vanozvikudza navaiti vezvakaipa vachava mashanga, uye zuva iro rinouya richavapisa,” ndizvo zvinotaura Jehovha Wamasimba Ose. “Hapana mudzi kana davi zvichasara.
+Asi kunemi munotya zita rangu, zuva rokururama richabuda rino kuporesa mumapapiro aro. Uye muchabuda muchisvetuka semhuru dzabudiswa muchirugu.
+Ipapo muchatsikira pasi vakaipa; vachava madota pasi petsoka dzenyu pazuva iro pandichaita zvinhu izvi,” ndizvo zvinotaura Jehovha Wamasimba Ose.
+“Rangarirai murayiro womuranda wangu Mozisi, mitemo nemirayiro yandakamupa paHorebhi kuti ipiwe vaIsraeri vose.
+“Tarirai, ndichakutumirai muprofita Eria, zuva iro guru raJehovha, uye rinotyisa risati rasvika.
+Iye achadzosera mwoyo yamadzibaba kuvana vavo, nemwoyo yavana kumadzibaba avo; kana kuti ndichauya ndigorova nyika nechituko.”
 Iyi ndiyo nhoroondo yamadzitateguru aJesu Kristu mwanakomana waDhavhidhi, mwanakomana waAbhurahama:
 Abhurahama aiva baba vaIsaka, Isaka baba vaJakobho, Jakobho baba vaJudha namadzikoma ake, navanunʼuna vake,
 Judha baba vaPerezi naZera, mai vavo vaiva Tamari, Perezi baba vaHezironi, Hezironi baba vaRamu,
@@ -27691,7 +27691,7 @@ Naizvozvo, sezvo izvi zvisingagoni kurambika, munofanira kuti munyarare murege k
 Mauya navarume ava pano, kunyange zvavo vasina kuba temberi dzedu kana kumhura mwarikadzi wedu.
 Zvino, kana Dhemetiri nedzimwe mhizha dzaanadzo vakange vane mhosva naani zvake, matare edzimhosva akazarurwa uye vatongi varimo. Vanogona kuvakwirira havo.
 Kana pane chimwe chinhuzve chamungada kutaura, chinofanira kutaurwa paungano iri pamutemo.
-Asi sezvazviri izvi, tiri panjodzi yokuti tingangopiwa mhosva yokumutsa bongozozo nokuda kwezvaitika nhasi. Kana pane chimwezve chamungada kutaura, chinofanira kutaurwa paungano iri pamutemo.”
+Asi sezvazviri izvi, tiri panjodzi yokuti tingangopiwa mhosva yokumutsa bongozozo nokuda kwezvaitika nhasi. Kana pane chimwezve chamungada kutaura, chinofanira kutaurwa paungano iri pamutemo.” Akati ataura izvi, akarayira kuti ungano iparare.
 Bope rakati rapera, Pauro akadana vadzidzi, uye shure kwokuvakurudzira, akaonekana navo akasimuka akaenda kuMasedhonia.
 Akafamba nomumatunhu ayo, achitaura mashoko mazhinji okukurudzira vanhu, uye pakupedzisira akazosvika kuGirisi,
 uko kwaakandogara kwemwedzi mitatu. Nokuda kwokuti vaJudha vakanga vaita rangano yakaipa pamusoro pake paakanga oda kukwira chikepe kuti aende kuSiria, akafunga kudzokerazve nokuMasedhonia.

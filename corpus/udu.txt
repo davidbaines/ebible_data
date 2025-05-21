@@ -926,6 +926,7 @@ Dhali yan’ko’da Laabaan ki owa Yakuub gwo mo ki: P̱ari wosh su’k gwan e m
 Wosh su’k yan a’di ita’da man/o gwo mo dhali atiŋkiliŋ a’di ita’da man/o gwo mo ki aha/ mina diki pe ’kuwosh su’k yan mo e /e mo, dhali /e si’da/ mini diki pe ’kuwosh su’k yan e aha/ mo gom mo jin ’koshuwa ’kosh mo be.
 Arumgimis ma Ibrahiim dhali Arumgimis ma Nahur a’di jin ta’da Arumgimis ga babam buni mo dhalki a’di dwall gwo i bwaman ana mo. Wakana Yakuub thulki gwo me’da p̱o/ mo ki moŋḵo/ is ma babam piti ka Is/hak mo.
 Dhala Yakuub a’di c̱iki to mo mmomiiya basa ’cesh mo e ’kuwosh jin turatur mo dhali yuḵ ’kwani ma bas piti mo dhali shwa maaŋḵuthu’d mo, dhali ki uni shwaki maaŋḵuthu’d mo tani uni ’kokin e mun mmo’baar mon’thiny yan mo e ’kuwosh jin turatur mo be.
+Mon’thamo/ ka ’tum mo aLaabaan a’di cuki mis mo dhali p̱i idhancom ’twa/ mo dhali i’bwa/m piti mo dhali ’bor uni mii mo dhali yan’ko’d a’di ki ḵwa/ is piti bwa ’peni uni mo dhali doḵ bway pa ka nyaŋ’ko’d mo be.
 AYakuub a’di iyaki’d mo e bway piti mo dhali iman’doyu gwo gamki a’di ’kup̱ mo.
 Dhali ka Yakuub mishi uni mo tani a’di oki gwo mo ki: Uni gwansan ita ’kwani ma mee ma Arumgimis mo. Wakan a’di yuḵki mo c̱aan gway mo ka Mahanaayim mo.
 Dhala Yakuub hashki’da ris ’kwani ma gum bway piti nṯwa/a/ ki a’di mo eya Iisu jin ta’da kam piti mo e bampa/ ki Pa Si/iir mo jin ta bampa/ Aduum mo.
@@ -958,7 +959,6 @@ Dhali yan’ko’d Yakuub ki doṯ a’di gwo mo ki: Ṯori aha/ gwo mo ma aha/ 
 Wakan aYakuub yuḵki mo c̱aan gway mo ka P̱anu/iil mo mmo/o gwo mo ki: Haali/ Arumgimis mishkika/ jis/em piti ka ḵarambor mo dhali hili mondiki/em pem a’di ’tashkunu ’twa/ mo.
 Atente/ sulki’da p̱o/ a’di mo me’d jin pekina a’di Pa P̱anu/iil mo mmoto’b ki cwa mo haala wum piti ta ŋwol mo.
 Gom gwo gi wakan mo ’pena cim c̱aan mo tani ’Kwani ma Israyiili ’baar mo tani uni ’koki ’ka to kun miinycuru/ ’kus ki ’bi’th mo mmoraḵ dugu’b buni ’peni awum mo haali/ a’di burushki’da Yakuub awum piti mo ’peni dugu’b mo be.
-
 Dhali aYakuub i’de’kki em piti ki mis mo dhali p̱ar mo e mo dhali hili mo mo ma, Iisu a’di p̱u’dki’d mo nyaḵki ’kwanim piti kun ’koni iss ’kwanimpa i/iss ’de/ mo. Wakan a’di ḵwa/ki uc̱i bwa mo e bwaman ma Le/ah dhala Rahiil mo dhali up̱i su/ gwan kun ta c̱iŋkina/ nyara/ mo.
 Dhali dhuki up̱i su/ gwan kun ta c̱iŋkina/ nyara/ mbwambor mo nyaḵki uc̱im buni mo dhali yan’ko’da Le/ah nyaḵki uc̱i ma yim mo dhala Rahiil mo dhala Yuusup̱ ŋ’ko’d gana/ mo ki tiya ’baar mo.
 A’di ki is piti yaki’d nṯwa/a/ ki uni mo dhali luŋki is piti a’cesh ki goŋgo/ mo me’di pesu/ mo ntagi a’di ’dishki’da kam is mo be.
@@ -1709,10 +1709,6 @@ Hili ŋari gi Pam Masir mo tani uni si’da/ mii to jin nyaḵan ki miilaṯ bun
 AP̱irawn ṯu’kki’d mo dhali ya gu’b piti mo dhali a’di si’dayi diki kar ’cem piti gom to yan mo.
 Dhala ris ’kwani Pam Masir si’da/ uni c̱wanyki jis e yana Niil ka ris mo gom yi’de/ mmop̱i mo, haali/ uni molki yi’de/ p̱i ’pena Niil mo be.
 Acim ’koni pesu/ kun pekin ’ko’di TAP̱A warki yi’den Niil ka bas mo be.
-
-
-
-
 Dhali yan’ko’d TAP̱A oki’da Musa gwo mo ki: Yaku/ mo eya P̱irawn mo dhali ṯori a’di gwo mo ki: Yase ta gwo jin ona TAP̱A mo ki: Dhalki ’kwanim pem bway mo mmo/ii mo ki uni mini mii mii mmotaḵ aha/ mo.
 Hili waḵki/ /e mini ush mo mmodiki dhal uni bway mo mmo/ii mo tani, aha/ mina ’kosh aris bampam pini ka ma’dinya ’dwa/ mo be.
 Dhali ḵumma/ Yi’de/ Niil minu ’tu’d mo ka risa ’dwa/ mo. Uni mini seku bway gu’b pini mo dhali bway gu’b ish pini mo dhali ap̱owa cim pini mo dhali eya ris gu’b gi imanmii tom pini mo dhali ’kwanim pini mo dhali eya ris mo ma p̱urun pini mo dhali e bwaman ma sahan kun miikunu /eya gana’th mo.
@@ -1741,6 +1737,10 @@ Dhali yan’ko’d a P̱irawn yuḵki’da Musa dhala Haruun mo dhali o uni gwo 
 Hila Musa thoḵki gwo o ki: A’di yisa midi ’bora mmomii mii gi wakan mo haali/ aman mina mii TAP̱A Arumgimis bam abasa ’cesh mo. Mii yan midi bulabul mo gom ’kwani Pam Masir mo. Waḵki/ aman miina abasa ’cesh jin bulabul mo e jis e gi ’kwani Pam Masir mo tani uni mini ’koki ’kosh aman jwa mo ki wosh mo ’te/ tana?
 Aman mina mii ii mo goma cimi kwara mo e mom bwaasho mo dhali mii TAP̱A Arumgimis bam abasa ’cesh mo me’d gwo jin ḵankina a’di aman mo be.
 Wakana P̱irawn oki gwo mo ki: Aha/ mina dhal ki um bway mo mmo/ii mo dhali mii TAP̱A Arumgimis bum abasa ’cesh mo e mombwaasho mo hili um mini ii i si’dasi’d yisa. ’Thoyi gom aha/ si’da/ mo.
+Dhali yan’ko’da Musa oki gwo mo ki: Aha/ yana mo ka pije/ mo ’peni /e mo dhali aha/ mina ’tho TAP̱A ki a’di midi hashka buhanya ḵan’thi/ mo ’peni /e mo jin tana P̱irawn mo dhali ’peni imanmiiya ṯu’c pini mo, dhali ’peni ’kwanim pini mo ka’thamoŋ gana/ mo. P̱irawn, dhalku/ ki c̱a’bi heka he’k em p̱us mo doḵ e mo mmodiki dhal ’kwani bwayi ii mo mmomii TAP̱A abasa ’cesh mo.
+Yan’ko’d aMusa a’di yaki’d ka pije/ mo dhali ’thoki TAP̱A mo be.
+Dhali TAP̱A miiki’d wakan mo me’d jin okin ma Musa a’di mo dhali ḵalki’da buhanya ḵan’thi/ mo ’pena P̱irawn mo dhali ’peni imanmiiya ṯu’c piti mo dhali ’peni ’kwanim piti mo. Jan ’deŋ kamu/ yisa boc̱o’da.
+Hila P̱irawn ’bi’thki’da dum piti is mo doḵ e ka tente/ yansan gana/ si’da/ mo, dhali diki dhal ’kwani bway mo mmo/ii mo be.
 Dhali yan’ko’d TAP̱A oki’da Musa gwo mo ki: Yaku/ mo eya P̱irawn mo dhali o a’di gwo mo ki: Yase/ ta gwo jin ona TAP̱A Arumgimis gi ’kwani Ibraniyiin mo ki: Dhalki ’kwanim pem bway mo mmo/ii mo ki uni mini mii mii mmotaḵ aha/ mo.
 Waḵki/ /e mini ush mo mmodhal uni bway mo mmo/ii mo dhali di mmonon uni ’kup̱ mo tani
 me’d gi TAP̱A midi biṯa p̱o/ to em pini ki ’ba’th jin shi/ashi/ mo e uni ’baar kun ’kon eya pije/ mo, shumarum dhali thuluny dhali kalman dhali bip̱ dhala ma’diny ḵa’bal dhali miya si’da/ mo be.
@@ -13959,6 +13959,7 @@ Doṯi aha/ ma, dhali aha/ mina c̱i /eya ris kal gi ’kwaniny’cesh mo mmota 
 Dhali wakan shwane/, ayy imaliḵ, yuḵi is mo ma, muri is mo, ayy um itap̱a gi mony’cesh mo.
 Miiyi Tap̱a to ki moŋḵo/ is mo dhali ki mondee is mo,
 p̱iyi sho’k piti ’twa/ mo, isi ciki/ ki a’di midi diki shwaa nyor mo, dhali um minu ’ce’d sho’k ibway mo, haali/ anyor piti ’thakunu hila/ ki jahanne/ mo. Mom’bor mii goma ris uni gun bu’thki mo jin huru jwa e a’di mo.
+
 Ayy Tap̱a, ’kwani kun ta ’kup̱ gi aha/ wana risa! Uni tana ris ka ris kun cuna p̱o/ aha/ mo.
 Uni tana ris o gwo gom aha/ mo ki: mowoṯẖa/ kamu/ midi di gom a’di eya Arumgimis yisa. Doshi ma dhali ’cunycuri yan mo.
 Hili /e, ayy Tap̱a, itana goŋgoro/ gom aha/ mo, dhali monycam pem mo dhali aman’de’k ’kup̱ pem ki mis mo.
@@ -14049,7 +14050,6 @@ Uni gun ta thus ki thus mo tani uni mini c̱eker bwa mo eya Haawiya mo, aris kal
 Haali/ uni kun mini mii ta gi to mo tani uni minu mii ’koki this e isa yempa/ mo, dhali mo ma ’teŋ kap̱e/ gi uni gun hatha’ko’d mo tani uni minu ’koki ’ce’d sho’k ki sule/ mo be.
 Cuyi mis mo, ayy Tap̱a. Dhalku/ ki dhal ’kwani mmop̱i gwo jip̱i/ mo. Dhalka ris kal gi ’kwaniny’ceshi ’baar mo dwallu gwo mo ibwambori jis/em pini mo.
 Dhuyi uni ki mo ma ḵo/ is mo, ayy Tap̱a. Dhalka ris kal gi ’kwaniny’cesh ki mish uni mo ki uni tana ta, uni ta ’kwaniny’cesh mo! Doshi ma dhali ’cunycuri yan mo.
-
 Katinta doshkina /e isa dhana/ kan mo, ayy Tap̱a? Katinta bagkina /e is pini ’pena tee jin ṯocu bwa mo?
 E mo jin dhuna uni kun ta thus ki thus is ki ca mo tani uni ki ur uni kun hatha’ko’d isho’k mo. Dhalki uni budhu mo e mom buni kun p̱ishinkina uni ki ’pen mo kun kulumkina uni gwo ibwa mo.
 Haali/ uni kun ta thus ki thus mo tani dhuki ’ba/ ki ca mo gom to kun gop̱ uni bwam buni mo, dhali wathi/ jin pura bwa ki pur gom nyunykina/ mo tani a’di midi jeeya je mo dhali ruḵ Tap̱a mo.
@@ -14075,6 +14075,7 @@ Tap̱a a’di di’d e gu’b gi mondheleladhelel piti jin ḵogu mo, dhali aḵ
 Tap̱a a’di nyo/ki uni gun miin ka ḵar/e mo dhali uni gun ta thus ki thus mo, dhali aḵashiram piti shi/ki a’di i e mo a’di jin enki mo jin bujuruwa bujur mo.
 Ap̱o/ a’di jin ta thus ki thus kan mo tani a’di midi hetha p̱o/ a’di akap̱any o’d mo dhali to jin si’du/ mo, dhali ’tham jin shi’bil to mo tani a’di midi ta tom buni kun pwaḵkunu uni bwa ka ’to’d ’to’d mo be.
 Haali/ Tap̱a a’di ta’da ḵar/e mo dhali a’di eni mii gun miinu ka ḵar/e mo. Uni gun dhelel ma du mo tani mini hil bwam/em piti mo be.
+
 Woṯẖi/ awoṯẖ mo ma, Tap̱a. Haali/ jaŋ kamu/ yisa di’da naskina/ jin ta’da gayiin mo, haali/ uni kun ta ku isiŋ gana/ mo tani torki sho’k ka pupush mo ’peni bwaman gi ya/ gi ’kwaniny’cesh mo be.
 Aris ’kwaniny’ceshi ’baar mo ka ’deṯe/ ’deṯe/ mo tani takina ṯor ka ṯor ap̱o/ imannyaḵ ’dish gu’b buni is mo, ki gwo maŋ buni ’pena le’d buni ka maḵ mo dhali ka du kun ’koni su/ mo tani uni ki ṯor gwo mo.
 Dhalki Tap̱a a’di ’ciṯẖki’da risa maŋ kun maŋu ka maḵ ’peni ’twa/ mo, dhala le’d kun dhu dhan ’ba/ ki ca mo,
@@ -14088,8 +14089,7 @@ Kakasja, ayy Tap̱a? A/e mini dhal aha/ ’pen ki sule/ sule/ kan mowa? Dhali /e
 Dhali ki mo gi wakatinta imiga/ mii ḵal mom’pe’d shem pem eya ḵashiram pem mo, dhali ta gi mondiṯ bwa eya dum pem iyula tente/ kan mo? Ki mo gi wakatinta imina a’di jin ta ’kup̱ gi aha/ ica ap̱o/ aha/ mo?
 Nyiṯẖi ma dhali thoḵ aha/ gwo mo, ayy Tap̱a, Arumgimis pem mo. Kushi em pem mo isi ciki/ ki aha/ mina ish e mo e a’di jin ta mo/ish e gi mowu mo,
 isi ciki/ ki a’di jin ta ’kup̱ ki aha/ midi o gwo mo ki: Aha/ p̱ina a’di e mo be, isi ciki/ ki uni kun ta ’kup̱ ki aha/ mina bwa ’kuny mo haali/ aha/ yiḵinkunu is mo be.
-Hili aha/ gamkina gwo is mo e mo/en pini jin ṯelkunu sho’k mo, adum pem mina bwa ’kuny mo e bway mowoṯẖ pini mo.
-Aha/ mina yuḵ gway e Tap̱a mo, haali/ a’di mii aha/ ki ’bore/ ki miin to kun ishkin ka enthus mo.
+Hili aha/ gamkina gwo is mo e mo/en pini jin ṯelkunu sho’k mo, adum pem mina bwa ’kuny mo e bway mowoṯẖ pini mo. Aha/ mina yuḵ gway e Tap̱a mo, haali/ a’di mii aha/ ki ’bore/ ki miin to kun ishkin ka enthus mo.
 A’di jin ta p̱us mo tani o gwo eya dum piti mo ki: Arumgimis p̱iyi’d mo. Uni p̱u/kin mo, dhali uni mii mii kun bulabul mo. Jaŋ kamu/ jin mii’d ka ḵar/e yisa di’da.
 Tap̱a hilki mo ka luŋgu’b ’peni mis ap̱o/ uc̱i gi ’kwaniny’cesh mo mmop̱ar mo e mo waḵki/ jan ṯal ’deŋ kamu/ mii mii ki yuḵ yuḵ mo, mmosimm jasi Arumgimis e mo.
 Uni ’baar mo iikini dheres mo, uni ’baar mo wakina e ki to gun p̱u/kin mo, jan ṯal ’deŋ kamu/ yisa di’da jin mii mii jin ’boro’d mo, ṯal ’de/ p̱iyi’d mo be.
@@ -14128,6 +14128,7 @@ Uni wana e ka dhop̱ jin gananki ’ba/ mo mmodher to bwa ka gwap̱i/ mo, me’d
 Cuyi mis mo, ayy Tap̱a, jemi uni ’kup̱ mo, dhali p̱iyi uni e mo. Dhali ’cuḵi mondiki/em pem ’peni uni kun ta thus ki thus ki gandal pini mo,
 ’peni ’kwani ki me’d pini mo, ayy Tap̱a, ’peni ’kwani gwansan kun bu’th to jin ta moŋ’ko gi mony’cesh mo. Dhalki bwam buni ’tu’du/ mo ki to kun dhukina /e gom uni mo. Dhalki uc̱im buni uni tan gi to ki nyanye/ mo jin midi bol ji gi ca’d e mo. Dhali dhalki uni ur ton tiya ’kup̱ gom usha ŋam buni mo.
 Dhali gom aha/ mo tani aha/ mina hil bwam/em pini mo e mo ma ḵar/e mo. Ki aha/ mina mer e mo tani aha/ minu kap̱ mo mmohila yir em pini mo be.
+
 Aha/ ena /e mo, ayy Tap̱a, jin ta mom’bi’th pem mo.
 Tap̱a a’di ta wosh pem mo, dhali acur pem mo, dhali aman’cuḵ aha/ mo, dhali Arumgimis pem mo, dhali wosh pem mo, e a’di jin bu’thkika/ mo jin hurga/ jwa mo, a’di jin ta’da goŋgorom pem mo, dhali ce gi bway gi mowoṯẖ pem mo, dhali mo ma cur pem jin ṯenu gwo mo.
 Aha/ yuḵkina Tap̱a mo, a’di jin haki me’d mo jin minu maŋ mo, dhali aha/ takunu is ki me’d mo ’pena ris unim pem kun ta ’kup̱ ki aha/ mo.
@@ -14249,7 +14250,6 @@ Haali/ mo jin tanu tap̱a a’di cila Tap̱a mo, dhali a’di ki jiya ris kal gi
 Nye, e a’di aris ’kwani kun dhu ’ba/ ki ca e mony’cesh mo tani mini dhu shush ka luŋgu’b mo. Ibwambori a’di mo tani uni mini luŋ mo, uni gun mini ii ka ’cesh mmowa e ki bu’da ’cesh mo, dhali a’di jin mol is piti kar ki e mo.
 Aris uni gun mini iiyu/ i’ko’d mo tani uni a’di imini mii a’di to mo. Dhali ’kwani mini ṯor gwo gom Tap̱a goma nyaḵum yil gi uc̱i gun mini p̱u’du/ i’ko’d mo.
 dhali bah gwo gom mony’cuḵ piti mo gom uni gun ’konuki dho’th naskina/ mo, ki a’di a’di iwagaski a’di mo.
-
 Tap̱a a’di ta’da Manhil aha/ mo. Aha/ mina diki har to mo.
 A’di karki aha/ mmo/ish ’ko’da shon dhii/i’d mo. A’di suski aha/ e shemen yi’de/ jin doshki’d mo.
 A’di warki aha/ aḵashiram pem is mo. A’di suski aha/ e bway mii ma ḵar/e mo gom gway gi gway piti mo.
@@ -14334,6 +14334,7 @@ A’di ki kar cwa yan e Pan Lubnaan mmop̱eya ŋalbothoŋ mo me’d ari bip̱ mo
 ’Twa/ gi Tap̱a a’di ki dhu abuyymo mmodho’th ushan mo dhali mmo’cwar ’cemen gi bwanycwa mo. Dhali e gu’b gi mondheleladhelel piti mo tani aris ’kwani ’baar mo cuun ki: Monyca mo.
 Tap̱a a’di c̱a’bki’da p̱owa ḵursi ap̱owa gannu/ yi’de/ mo, Tap̱a a’di c̱a’bki’da p̱owa ḵursi ma maliḵ ki sule/ sule/ mo.
 Dhalki Tap̱a c̱i mom’bi’th piti ki ’kwanim piti mo. Dhalki Tap̱a ’bor ’kwanim piti mii ki moŋḵu’th is mo.
+
 Aha/ mina kar /e ki ca mo, ayy Tap̱a, haali/ /e ’de’kki aha/ ki mis mo, dhali /e diki dhal uni gwansan bway mo kun ta ’kup̱ ki aha/ mo mmo’kuny bwa ap̱o/ aha/ mo.
 Ayy Tap̱a Arumgimis pem, aha/ gwona ’twa/ e /e gom mowoṯẖ mo, dhali /e wac̱ki aha/ mo be.
 Ayy Tap̱a, /e ’cwamkina aḵashiram pem ’pena Haawiya mo, dhali war aha/ mondiki/em pem is mo ’peni bwaman uni gwansan kun iikin ka luŋgu’b e jisa ’kulga/ mo.
@@ -14371,7 +14372,6 @@ Mom’bor mii midi di gom Tap̱a mo, haali/ a’di wa’di ’bora mmoṯor mo/e
 Aha/ okina gwo e mo ma ayy/ayy/ayy pem mo ki: Aha/ borkunu ki ’bal ’bal itaga dhana/ mo ’peni jis/em pini mo. Hili /e ciḵki mom pem jin di’bkika/ di’b is mo ki aha/ gwokina ’twa/i /e gom mowoṯẖ mo.
 Eni Tap̱a mo, aris umi ’baar mo kun ta kum piti kun dhunu ki she/ ki dhelel dhelel mo. Arumgimis dhuki uni kun ta ku isiŋ gana/ mo, hili tom piti kun mina a’di iraḵ ’kwani to ibway ishki’d ka enthus mo gom uni kun ḵalki mii mo mmo’theḵ ’ba/ imis mo.
 ’Bithi is mo dhali dhalka dum pini bu’th mo jin roc̱u sho’k mo, aris umi ’baar mo kun c̱orki Tap̱a mo.
-
 Mom’bor mii gom a’di jin gwamkunu gwon dhaŋ piti mo, a’di jin ta miinthus piti jin kumkunu ’kup̱ mo.
 Mom’bor mii gom wathi/ jin dina Tap̱a ki yer is ki gway gom miinthusa kamu/ mo, dhali e shi/in piti mo tani mo ma he’k e p̱iyi’d mo.
 Ki aha/ dinaki ṯor gwo miinthus pem mo tani buŋgwar is pem a’di muṯṯi’di ’baar mo e mo/ohon pem ka tee ’baar mo.
@@ -14405,6 +14405,7 @@ ki a’di midi ’cuḵa ḵashiram buni ’peni mowu mo, dhali dhu uni ki e mo 
 Aḵashiram bana a’di c̱orki Tap̱a mo. A’di ta’da Manwoṯẖ gom ana mo dhali agoŋgorom bana mo.
 Nye, adum bana ’kunykina bwa mo e a’di mo haali/ ana gamkina gwo is e gway piti jin ḵogu mo.
 Dhalki mo/en pini jin ṯelu sho’k, ayy Tap̱a, di’d eya p̱o/ aman mo, isi kani, me’d jin tana aman ka ’teŋ kap̱e/ e /e mo.
+
 Aha/ ’bora Tap̱a mii isa yempa/ mo. Momaŋ midi di isa yempa/ e ’twam pem mo.
 Aḵashiram pem kar is ki ca e Tap̱a mo. Dhalki uni gwansan kun ’koshu ki isa nyor ciḵ a’di mo dhali ’bor bwa mo.
 Ayy kari Tap̱a ki ca nyaḵki aha/ mo, dhali dhalki ana kara gway piti ki ca imonṯal ’de/ mo.
@@ -14427,7 +14428,6 @@ Monṯo’c bwa tana ris gom a’di jin mii miiŋḵar/e mo, hili Tap̱a ’cu�
 A’di ki dhuwa risa simam piti ’baar mo. Simam pitiŋ kamu/ yisa ’ce’dkunuwa.
 Tonthus jin miinu midi ’kosha manmii tonthus mo, dhali uni gwansan kun shi/ki ’kwani kun mii miiŋḵar/e i e mo tani minu waḵ mo be.
 Tap̱a a’di wanki mondiki/e gi c̱iŋkinam piti ’ba/ mo. Jan ṯal ’deŋ kamu/ ’peni uni gwansan kun bu’thki mo jin huru jwa e a’di mo tani minu ’koki waḵ mo be.
-
 Jemi ajem ’kup̱ mo ma, ayy Tap̱a, nyaḵki uni gwansan kun jemki aha/ ’kup̱ mo. Asi ap̱o/ uni gwansan kun askin ap̱o/ aha/ mo ma.
 Bu’thka goŋgoro/ ki me’d mo dhali to mmocesh is mo dhali cuyi mis gom mowoṯẖ pem mo.
 ’Deka mee she mis mo dhali ameeny ’ciṯẖ is mo apo/ uni kun urki aha/ isho’k mo. Oyi gwo goma ḵashiram pem mo ki: Aha/ tana man’cuḵ pini mo.
@@ -14456,6 +14456,7 @@ Dhalku/ uni ki dhal bway mo mmo/o gwo e is buni mo ki: Soo, ana tana gi to kun o
 Dhalki uni dhunu ki mo ma ’the is mo dhali duŋguru/ ka du isi monṯal ’de/ mo uni kun ’kunykina bwa mo ap̱owa c̱is pem mo. Dhalki uni kumu is ki mo ma ’the is mo dhali ki mo jin ushuwa taḵ taḵ mo, uni kun dhu is buni ki ca ap̱o/ aha/ mo.
 Dhalki uni gwansan kun ’kona gwo i bwa gom moyem pem ḵum cuuwa/ mo gom moŋ’kuny bwa mo dhali mom’bor bwa mo, dhali o gwo ki sule/ sule/ mo ki: Tap̱a a’di caaca mo, a’di jin ’kunya bwa e miin to gi c̱iŋkinam piti jin gama a’di adu is mo.
 Dhali yan’ko’d ’twa/ pem midi ṯor gwo gom mii ma ḵar/em pini mo dhali momaŋ pini isa yempa/ isa yempa/ mo.
+
 Gwon dhaŋ oki a’di jin ta thus ki thus gwo mo ki ’kula’kul eya dum piti mo. Moŋḵo/ isa kamu/ yisa di’da goma Arumgimis e bwambor jis/em piti mo.
 Haali/ a’di o gwo maŋ ka maḵ gom is piti mo e em pitiŋ gana/ mo ki miinthus piti minu ’koki gam mo dhali shi/i e mo.
 Gwo ’peni ’twam piti mo tani uni tana pibi mo dhali mo jin hekuwa he’k e mo. A’di daḵki’d mo ’peni mo jin miina a’di ki yuḵ yuḵ mo dhali mii ki ’bore/ mo.
@@ -14468,7 +14469,6 @@ Haali/ e /e mo tani /e a’di ta mondiki/e jin kashki’d mo. E moŋkush pini mo
 Ayy ṯikiri mo/en pini jin ṯeli sho’k ki sule/ gom uni gwansan kun mishki /e mo, dhali bway gi mowoṯẖ pini gom uni kun dhelel ma du ki dhelel mo.
 Dhalku/ ki dhal sho’k gi a’di jin kar ’ba/ ki ca mmop̱u’da p̱o/ aha/ mo, walla me’d gi a’di jin ta thus ki thus mmobor aha/ mmosi’da/ si’d mo.
 ’Kwani kun ta imanmii tonthus ishkin ki rap̱ rap̱ mo, uni kun torkunu ’ko’da ’cesh mo, mmomol cu mo.
-
 Dhalku/ is pini ki anan mo goma manṯẖu’th to mii mo, dhalku/ dhap̱an ki mii ta gom imanṯẖu’th to mii mo.
 Haali/ uni mini la us ki jog me’da sho mo, dhali ḵu’th mo me’da sho mo.
 Gami gwo is e Tap̱a mo, dhali miiyi ki ’bore/ mo. Wakan ki /e mini c̱a’b eya ’cesh mo, dhali ’kuny bwa mo gom mo jin mina /e c̱a’b ki ’dantar mo.
@@ -14509,6 +14509,7 @@ Doḵ/e aha/ yakina ki yam pe mo dhali hili a’di diki di doḵ/e mo. Ba aha/ �
 Hili imandhaŋ gwo mo tani uni minu ’ce’d sho’k imonṯal ’de/ mo. Dhali emen gi imanmii tonthus mo tani uni minu ’ciṯẖ mo be.
 Bway gi mowoṯẖ gom wathiŋ ḵar/e mo tani a’di ’peni Tap̱a mo be. A’di ita jim buni jin hura uni jwa ka tee gi monṯo’c bwa mo.
 Tap̱a woṯẖki uni mo dhali ’cuḵki uni mo. A’di ’cuḵki uni mo ’peni imanmii tonthus mo dhali ta uni is ki me’d mo haali/ uni bu’thki mo jin huru jwa e a’di mo be.
+
 Ayy Tap̱a, dhalku/ ki ḵucur aha/ ka nyor pini mo walla dhalku/ ki dor aha/ ka nyor pini jin shwana /e mo!
 Haala thop̱am pini ḵarana dum ’per pem ’kup̱ mo, dhali me’d pini p̱u’dkina p̱om pem mo be.
 Dhali moŋkamu/ mura shuman buŋgwar is pem is mowa? haala nyor pini jin shwana /e caaca mo. Dhali mowac̱a kamu/ di’d goma simam pema? gom miinthus pem mo be.
@@ -14589,12 +14590,12 @@ Ki montee isa yempa/ mo tani Tap̱a a’di ḵanki mo/en piti jin ṯelu sho’k
 Aha/ ona gwo eya Arumgimis jin ta wosh pem mo ki: Atinta iŋana /e aha/ kan mo? Katinta gara/ imiga/ c̱a’b jasi gwolu/ kan mo gom mosiri’c gi uni kun ta ’kup̱ ki aha/ kan mo.
 Me’d wathi/ jin ’disha ’twa/ mmowu mo ’peni jama/ jin doruwa dor e buŋgwar is pem mo tani uni kun ta ’kup̱ ki aha/ mo sorki aha/ mo, dhali ka yiha/ mo tani uni ’kon mmorash aha/ gwo o mo ki: Mane Arumgimis pini mane?
 Katinta ibiṯu/ /e eya ’cesh mo, ayy aḵashiram pem mo, dhali atinta i/usha /e me’d kan e aha/ mo? Tayi ka ’teŋ kap̱e/ eya Arumgimis mo. Haali/ aha/ mina doḵ/e maŋ a’di mo, a’di jin ta’da manwoṯẖ pem dhali Arumgimis pem mo.
-
 Yeyi aha/ mo, ayy Arumgimis dhali ’ce’di gwo she/ gom to jin raḵi aha/ mo ap̱o/ ’kwani kun ’koki mii miiŋḵar/e mo, dhali ’peni ’kwani kun ta imanhe’k e mo, dhali ’peni ’kwani kun ’konuki dhu ki mo ma ḵar/e mo tani ’cuḵi aha/ mo.
 Haali/ /e tana Arumgimis a’di jin bu’thka/ mom pem jin hurga/ jwa mo be. Katinta biṯa /e aha/ asho kan mo? Dhali tonta imiga/ c̱a’b jasi gwolu/ kan mo gom uni kun siri’c aha/ ki sho’k mo kun ta ’kup̱ pem mo?
 Ayy, hashi moŋkush pini mo dhali gwoŋ ganam pini mo. Dhalki uni shu aha/ bway mo. Dhalki uni sus aha/ mo e ’kuwosh pini jin ḵogu mo dhali mom pini jin c̱a’ba /e mo.
 Dhali yan’ko’d aha/ mina ya mo e mo ma gwaṯa/ jin ’ciṯẖu/ to ’kus goma Arumgimis mo, eya Arumgimis jin ’kunyka/ bwa ki ’kuny icine/ kagahara mo. Dhali aha/ mina maŋ /e ka dheŋdhenye/ jin ’kon ma shu/i pesu/ mo, ayy Arumgimis jin ta Arumgimis pem mo.
 Katinta ibiṯu/ /e eya ’cesh mo, ayy aḵashiram pem mo, dhali atinta i/usha /e me’d kan e aha/ mo? Tayi ka ’teŋ kap̱e/ eya Arumgimis mo. Haali/ aha/ mina doḵ/e maŋ a’di mo, a’di jin ta’da manwoṯẖ pem dhali Arumgimis pem mo.
+
 Aman ciḵkina gwo ki ’cem bam mo, ayy Arumgimis mo, ibabam bam ṯorki aman gwo mo, gom miim pini kun miikina /e mmothim ka teem buni mo, ka tee ’peni kadhamo/ mo.
 /E ki me’d piniŋ gana/ mo tani /e ki ura ris kala tiya ka pije/ mo dhali hili uni mo tani /e ki c̱u’th uni mo. /E ki dor ’kwani ka ris mo, dhali hili uni mo tani /e ki dhu uni ki ’kus mo.
 Haali/ a’di ki gandal buni yisa igamkina uniya ’cesh yan adu is mo yisa, walla si’da/ abim buni diki c̱i uni mom’bi’th mo, hili me’da bim poros pini mo dhali abim pini mo, dhali moŋkush ’peni bwam/em pini jin kushki mo mo, haali/ /e ’kunykina bwa e uni mo be.
@@ -14697,7 +14698,6 @@ Haali/ ki a’di midi wu mo tani toŋ kamu/ mina a’di ḵal ime’da? Monycam 
 Ba, me’dyin dina a’di ki e mo tani a’di ki p̱ar is piti e ki a’di ’bora bwa ki ’bor mo, dhali ba wathi/ maŋu mo ki a’di ki mii to ki ’bore/ gom is piti mo tani
 a’di midi ya nyaḵki ’kwani ma nyaḵum yil gi icom mo, uni gun mini mol moŋkush p̱ar e ki sule/ sule/ mo.
 Wathi/ mol c̱a’bki e e ’penkap̱an piti jin tana a’di mo, a’di wana e ki tonycuḵ kun ’ce’dki sho’k mo.
-
 A’din ’De/ jin c̱a’bki dem dem mo, Arumgimis jin ta Tap̱a mo, ki a’di ki o gwo mo dhali mony’cesh yuḵkunu mo ’peni mo jin sul ma tente/ mo ntagi mo jin yul ma tente/ mo be.
 ’Pena Sihyuun mo tani ’bor piti shina jaro/ ime’d mo, Arumgimis ’twaḵki mo mo.
 Arumgimis bana p̱u’dki’d mo a’di diki c̱a’bki shwamm mo, e bwambori a’di mo tani a’di ta o’d jin loski’da los mo, dhali mo ’kam a’di is mo a’di jin ta’da dem dem mo tani a’di ta ’thama p̱unthar mo.
@@ -14721,6 +14721,8 @@ Waḵki/ /e ki p̱ar wathin ’di/ e mo tani /e tana mugum piti mo be dhali /e k
 To gwansan miikina um mo dhali aha/ c̱a’ba ki shwamm mo. Dhali /e ṯoshkin ki aha/ nyaḵa is ki /e mo. Dhali hili shwane/ aha/ ḵucurkina /e mo, dhali kar gwoŋḵan ibwambori /e mo.
 Nyiṯẖi gwo yansan mo ma, um gun ŋakina Arumgimis mo, isi ciki/ ki aha/ mina bwa p̱u’d ka pije/ mo dhali yan’ko’d jaŋ kamu/ midi diki di mmo’cuḵ um mo be.
 A’di yansan jin ’doyu to ki bwa jin ’boruwa ’bor i is mo me’d to jin ’ciṯẖu/ ’kus jin ta jim piti mo tani a’di taḵ aha/ mo be. E a’di jin karki bway piti ki ’bore/ mo tani aha/ mina ṯor bway gi mowoṯẖ ma Arumgimis mo be.
+
+
 Miiyi mii ap̱o/ aha/ mo ma, ayy Arumgimis, isi ki gwo gi mo/en pini jin ṯelu sho’k mo, isi ki gwo gi mii ma ’them pini jin ishki’d ka enthus mo tani ’koshi aris gwon dhaŋ pem mo ma.
 Lami aha/ ’pena taŋkara/ ’peni miinthus pem mo, dhali dheleli aha/ mo ’peni miinthus pem mo.
 Haali/ aha/ misha gwon dhaŋ pem mo, dhali miinthus pem di’d ka yempa/ e bwambori aha/ mo.
@@ -14752,13 +14754,13 @@ Hili wathi/ yan jin ’tena bwa mmokara Arumgimis ki a’dim piti jin hura a’d
 Hili aha/ wana e ki cwa seṯuun jin c̱a’bki go’d go’d e gu’b ma Arumgimis mo. Aha/ gamkina gwo is e mo/en ma Arumgimis jin ṯelu sho’k ki sule/ ki sule/ mo.
 Aha/ mina c̱i /e bwam ’boro’di is ki sule/ ki sule/ mo, haali/ /e miiki a’di mo. Aha/ mina bah gway pini haali/ a’di ’boro’d mo be, e buŋ’kus uni kun tana gayiin mo be.
 
-
 A’di jin ta p̱us mo tani o gwo eya dum piti mo ki: Arumgimis p̱iyi’d mo. Uni p̱u/kin mo, dhali uni mii mii kun bulabul mo. Jaŋ kamu/ jin mii’d ka ḵar/e yisa di’da.
 Tap̱a hilki mo ka luŋgu’b ’peni mis ap̱o/ uc̱i gi ’kwaniny’cesh mo mmop̱ar e mo waḵki/ jan ṯal ’deŋ kamu/ mii mii ki yuḵ yuḵ mo, mmosimm jasi Arumgimis e mo.
 Uni ’baar mo iikini dheres mo, uni ’baar mo wakina e ki to kun p̱u/kin mo. Jan ṯal ’deŋ kamu/ yisa di’da jin mii mii jin ’boro’d mo, ṯal ’de/ p̱iyi’d mo be.
 ’Kona uni ki nyiṯẖa, aris uni gwansan kun mii tonthus mo, uni kun shwa ’kwanim pem me’d tonṯe/ mo dhali uni ’koki yuḵa Arumgimis mo?
 Uni nanni kun ’kon e dhan mo kun ḵogu is mo, mo jin ḵogu is wakan diki di ’peni kadhamo/ mo. Haali/ Arumgimis midi rasa sima/ gi ’kwani kun ushuna Arumgimis mo. Uni minu dhu ki mo ma ’the is mo haali/ Arumgimis waḵki uni mo be.
 Ayy mo jin ’cuḵuwa ’cuḵ gom ’Kwani ma Israyiil mo tani a’di midi ’taki p̱u’du/ ’pena Sihyuun moyi. Ka Arumgimis midi wara shamaneṯṯan ki ’kwanim piti is mo tani Yakuub mina bwa ’kuny mo dhali Israyiil mina bwa ’bor mo be.
+
 
 Tayi aha/ is ki me’d mo ma, ayy Arumgimis mo, ki gway pini mo, dhali yeyi aha/ mo ki mo ma dem dem pini mo.
 Ciḵi mon’thom pem mo ma, ayy Arumgimis. C̱iyi ’cem pini ki gwo gi ’twa/ pem mo.
@@ -14767,7 +14769,6 @@ Hili mo mo ma, Arumgimis ta’da manwoṯẖ pem mo, dhali Tap̱a a’di ta’da
 A’di midi ri’c ’kwani kun ta ’kup̱ ki aha/ ki tonthus mo. Dhali e mii ma isiŋ ganam pini mo tani /e mini daḵ uni ’pemen buni ’kup̱ mo be.
 Ki bwam pem jin di ’baḵany mo tani aha/ c̱ina to jin ’ciṯẖu/ ’kus mmomiiya bas ki /e mo. Dhali aha/ mina c̱i mo jin ’boruwa ’bor bwa i is ki gway pini mo, ayy Tap̱a, haali/ mii yan a’di ’boro’d mo be.
 Haali/ /e ’cuḵki aha/ mo ’pena ris monṯo’c bwam pem mo, dhali em pem hilki mo jin p̱inu mii e ap̱o/ ’kwani gun ta ’kup̱ ki aha/ mo be.
-
 
 C̱iyi ’cem pini ki mon’thom pem, ayy Arumgimis. Dhali dhalki is pini ki ba’k mo ’peni tom pem jin doṯka/ ka di’b is mo.
 Ḵuthi is gom aha/ mo, dhali thoḵi aha/ gwo mo. Aha/ kumu ’twa/a ’cesh ki monṯo’c bwam pem mo.
@@ -14849,6 +14850,7 @@ Uni tani mo ki tantan gom tonṯe/ mo, dhali cesh mo ki ŋarŋash mo waḵki/ un
 Hili aha/ mina yuḵ gway gom mo ma dem dem pini mo. Dhali aha/ mina yuḵ gway ki ’kal ’kal gom mo/en pini jin ṯelu sho’k mo e mon’thamo/ mo. Haali/ /e takina cur jin ṯenu gwo gom aha/ mo dhali /e ta jim pem jin hurga/ jwa icine/ mo ka teem pem jin dika/ ka c̱is mo.
 Ayy Mom’bi’th pem mo tani aha/ mina yuḵ gway mo mmomaŋ /e mo, haali/ /e, ayy Arumgimis, tana cur pem jin ṯenu gwo mo, /e jin tana Arumgimis jin ṯorki aha/ mo/en pini jin ṯelu sho’k mo.
 
+
 Ayy Arumgimis, /e waḵki aman mo, dhali ’ce’d mom bam jin ’ce’du/ gwo she/ mo. /E miikina nyor mo. Ayy, waru/ aman is mo ma.
 /E karki mony’cesh mmoyiḵin is mo. Dhali /e ki ’twaḵ a’di bwa mmotheḵ she/ mo. Nyaŋi a’di ka nyaŋ’ko’d mo e mom piti jin shi/ki’d mo, haali/ a’di mol dosh shoka ’cesh mo.
 /E ki dhal ’kwanim pini mmo’kosh is ka nyor ki to kun ’batha’ba’th mo, /e ki dhu am me’d ’kwani kun sona du mo gom to kun diṯadiṯ kun ’kosh am mo.
@@ -14861,7 +14863,6 @@ Kaja a’di imidi sus aha/ e ’peŋkuman bampa/ jin ṯenu gwo mo? Dhali kaja a
 /E a’di idiki waḵ amana, ayy Arumgimis? /E diki ḵal ya ka bor mo, ayy Arumgimis, nyaḵki ’kwani ma meem bam mo.
 Ayy ṯuka bor ma, woṯẖ am mo ’pena p̱o/ ’kwani kun ta ’kup̱ ki am mo, haali/ mowoṯẖ jin ta gi wathi/ mo tani a’di ta jim p̱e’th mo be.
 Nyaḵka Arumgimis mo tani ana p̱ina mii e mo haali/ a’di ta a’di jin siri’cki uni gun ta ’kup̱ bana ki sho’k mo.
-
 
 Ciḵi gwom pem mo ma, ayy Arumgimis, kari ’ce gom mon’thom pem mo,
 ’peni ’pemen gi mony’cesh mo tani aha/ yuḵkina /e mo me’d jin ’thin ma dum pem buye/ mo be. Susi /e aha/ mo e wosh c̱aan jin turatur mmobol aha/ e mo,
@@ -14921,7 +14922,6 @@ wakan uni gwansan gun ’kokin e mony’cesh jin si’dasi’d mo tani, uni ḵo
 /E shumki yil gi mo jin isha to ka enthus kun ta kum pini mo. Jil jin dir ma arabiyyam pini mo tani uni wolki ’twa/ mo ki momoṯ jin momoṯkina uni mo.
 Mo ma shon dhii/i’d gi mombwaasho mo tani wolki ’twa/ mo, dhali aris woshi ’baar mo uni ’kamki is buni ki moŋ’kuny bwa mo.
 Ashom bip̱ uni hi’thki is buni ki mo ma ma’diny mo, dhali embul wosh uni hi’thki is buni ki pos mo, uni ḵumki cuuwa/ mo dhali yuḵ gway mmonṯal ’de/ ki moŋ’kuny bwa mo.
-
 Yuḵi gway ki moŋ’kuny bwa ki ’kal ’kal goma Arumgimis aris um kun ’koni mony’cesh mo.
 Yuḵi gway ki monyca gom gway piti mo. Dhali c̱i a’di monyca ki momaŋ mo.
 Dhali oyi Arumgimis gwo mo ki: Dhan miim pini ’ka’da mii ca kagahara. Wakan dhan monycam pini ’kuc̱ki uni gun ta ’kup̱ ki /e ibwambori /e mo.
@@ -14942,6 +14942,7 @@ Aha/ ’therkina cuuwa/ kagahara gom a’di mo, dhali a’di karkunu ki ca ki �
 Waḵki/ aha/ mina ’taki thip̱ tonthus eya dum pem mo tani Tap̱a a’di midi ’taki diki ciḵ aha/ ’twa/ mo.
 Hili ka jiŋ gana/ Arumgimis a’di iciḵki’da ciḵ mo. A’di c̱iki’da hirdhe/ ki ’twa/ pem jin ’thoka/ mo.
 Mom’bor mii goma Arumgimis mo, haali/ a’di diki waḵ mon’thom pem mo, walla joc̱ mo/en piti jin ṯelu sho’k ’peni aha/ mo.
+
 Dhalka Arumgimis mii mii ma ’the gom am mo dhali ’bor am mii mo dhali kar bwam/em piti mmokush mo ap̱o/ aman mo, Doshi ma dhali ’cunycuri yan mo.
 ki bway pini minu mish mo ap̱o/ mony’cesh mo, dhali mom’bi’th pini jin tana /e ata is ki me’d mo e bwaman kal gi ’kwaniny’cesh mo.
 Dhalki ’kwani maŋ /e mo, ayy Arumgimis. Dhalka ris ’kwani ’baar mo maŋ /e mo.
@@ -15028,7 +15029,6 @@ Dhalki uni dhunu ki mon’the is mo dhali duŋkurki ’kup̱ is mo uni gwansan k
 Dhalki uni ḵo/ is ki ḵo/ jin shiyi’d mo gom mo ma ’the is buni mo uni gun o gwo mo ki: ’Thor ki ’thor.
 Dhalki aris uni ’baar kun simmi /e e mo tani ’bora bwa mo dhali ’kuny bwa mo e /e mo. Dhalki uni gwansan kun en bway gi mowoṯẖ pini mo o gwo mo kagahara mo ki: Arumgimis a’di caaca mo.
 Hili aha/ hatha’ko’d mo dhali aha/ mina mii ta gi to mo. Huru/ ki jahanne/ gom aha/ mo, ayy Arumgimis. /E tana manwoṯẖ pem mo dhali aman’cuḵ pem mo. Ayy Tap̱a, dhalku/ ki tayaa diiṯe/ mo.
-
 E /e mo tani, ayy Tap̱a, aha/ bu’thkina mom pem jin hurga/ jwa e /e mo. Dhalku/ ki dhal aha/ bway ki aha/ minu kar ki mo ma ’the is mo.
 E momii ma ḵar/em pini mo tani ’cuḵi aha/ mo dhali ’cwami aha/ mo. Ḵa’di ’cem pini gom aha/ mo dhali tayi aha/ is is ki me’d mo.
 Wari /e ki wosh jin miga/ hur jwa icine/ mo, mmota acur jin ṯenu gwo mo mmota aha/ is is ki me’d mo, haali/ /e ta wosh pem mo dhali acur pem jin ṯenu gwo mo.
@@ -15124,6 +15124,7 @@ Kari gwom pini jin gamu me’d mo. Haali/ mo gi mondhurumi’d gi mony’cesh mo
 Dhalku/ ki dhal uni gwansan bway mo kun yap̱kunu ki sho’k mo mmodhu ki mo ma ’the is mo. Dhalki uni kun hatha’ko’d dhali kun mini mii ta gi to mo maŋ gway pini mo.
 Cuyi mis mo, ayy Arumgimis, dhali muri is mo gom mii jin midi raḵ /e mo. Kayi gwo e ki uni gwahan kun ushi gwo kun ḵogu dhu ’theḵi /e shushi is ka tee ’baar mo.
 Dhalku/ ki ŋa cuuwa/ jin cuuna ’kwani kun ta ’kup̱ ki /e mo, abomboḵ ’peni ’kwani kun ta ’kup̱ ki /e ka ris mo, a’di jin yaki’d ka ’kulam ’pen mo.
+
 Am c̱ina /e mo jin ’boru /e bwa i is mo, ayy Arumgimis, bwa jin ’boruwa ’bor bwa i is c̱ina aman /e mo. Aman yuḵkina yuḵ ap̱o/ gway pini mo dhali deŋ dhan momer pini e mo kun miikina /e mo.
 Ka tee jin karka/ ’pen ka pije/ mo tani aha/ mina dwall gwo ki dar gi mii ma gwar ’de/ mo.
 Ka ’cesh midi wuŋkul mo dhali aris ’kwani kun ’kon e a’di mo tani a’di ta aha/ be jin ṯelki mom piti jin tana a’di akaḵ mo. Doshi ma dhali ’cunycuri yan mo.
@@ -15168,7 +15169,6 @@ Dhali araḵ kun ’kani mis wolki yi’de/ mo, dhali momis si’da/ dhalki mond
 Dhali mom pini jin ’twaḵa mondor ma sho’k mo tani a’di diki’d e ’tham kun ’theḵkin mo. Awara sho’k pini a’di kushki mony’cesh mo, dhali mony’cesh deeki’d ki bir bir mo dhali yiḵin is mo.
 Bway pini diki’d e bwam ḵumma/ yi’de/ mo dhali bway tur pini diki’d eya dhan yi’de/ mo. Dhala dum bwam sho’k pini jin yana /e mo tani mishuwa?
 /E ki sus ’kwanim pini me’da ma’diny ḵa’bal mo, ki me’d ma Musa mo dhala Haruun mo.
-
 Dhuyi ’ce, ayy ’kwanim pem, ki gwo jin ṯorka/ mo. Ḵa’di bwany’cem bum mo ki gwo ki ’twam pem mo.
 Haali/ aha/ mina ḵa’d ’twam pem ki gwom ’bi’th e mo. Aha/ mina bah gwo mmo/o gwo kun mini ’koki ’ko eya tente/ ’peni gwon dhamo/ mo,
 ’peni to gwansan kun ciḵkina ana gwo mo dhali mish mo, uni gun ṯorkina ibabam bana ana mo.
@@ -15254,6 +15254,7 @@ Ki to jin ta’da ta imina kal gi ’kwaniny’cesh i/o gwo mo ki: Mane Arumgimi
 Dhalki mo/ohon gi uni gun dhunuwa sijin p̱u’dkini bwambori /e mo, ki isi ki dhan mom’bi’th pini mo ki /e mini ’tash uni ’twa/ mo uni gwansan kun ’disha ’twa/ mmowu mo.
 ’Tu’dki uni to me’di pesu/ ibwambor mo uni gwahan kun ta imannyaḵ ’kom bam mo, gom gura/ jin c̱ikina uni /e mo, ayy Tap̱a.
 Dhali yan’ko’d aman kun tana ’kwanim pini mo, uni gun tana ma’diny ḵa’bal pini goma shon dhii/i’d pini mo aman mina c̱i /e mo jin ’boruwa ’bor bwa i is ki sule/ sule/ mo, ’pena nyaḵum yil jin tanu mo ntaga nyaḵum yil jiŋ ’ko’d mo, aman mina p̱e’d momaŋ pini mo be.
+
 C̱iyi ’ce mo ma, ayy Amanhil Ḵa’bal ma Israyiil mo, /e jin shukina Yuusup̱ bway ka pije/ me’da ma’diny ḵa’bal mo. /E jin karkunu mo mmoc̱a’ba p̱o/ ḵursi ma maliḵ mo ap̱owa c̱arabiim kun ’thup̱a ḵursi is ka bim buni mo tani, kushi mo mo
 ibwambor ma Ep̱rayim mo dhali bwambor ma Benyamiin mo dhala Manassa mo. Piri mo ma dem dem pini is mo dhali yayu/ mo mmota am is ki me’d mo.
 Waru/ am is mo, ayy Arumgimis. Dhalki bwam/em pini kushu mo mo, ki am minu ta is ki me’d mo.
@@ -15290,7 +15291,6 @@ Ayy, ki ’kwanim pem mini ’taki ’koki ciḵ aha/ gwo mo sa/? Ka Israyiil mi
 Aha/ ’disha ’twa/ ba/ mmo’ce’d ’kup̱ buni sho’k mo, dhali ṯu’k me’d pem ap̱o/ uni gun ta ’kup̱ ki uni mo.
 Uni gwansan kun shi/ki Tap̱a i e mo tani uni mini ’taki koc̱ki ṯil ṯil ’kup̱ ki a’di mo, dhali tom buni jin ’baki uni e mo tani midi diyi bwambori uni ki sule/ sule/ mo.
 Aha/ mina ’taki thip̱ um ki pos bunyan gana/ mo dhali ka dham ’peni wosh jin midi ’taki kap̱ um moyi.
-
 Arumgimis bu’thki mom piti e mo ma tul ’kup̱ jin ta jim piti mo, eya ris bwaman gi ’kwani ma hakuumam piti a’di ki kar mo jin dwallu gwo jin toru gwo ’twa/a ’cesh mo.
 /E mini daḵ gwo dwall ki shi/ shi/ kakasja mo dhali ṯor mo ma gwar ’de/ gom uni gun ta thus ki thus mo? Doshi ma dhali ’cunycuri yan mo.
 C̱iyi mii ma ḵar/e ki uni gun ’ka’da is mo dhali uni gun daran gi icom mo. Hali mo ma ḵar/e gom uni gun dorkunuwa du mo dhali gom uni kun mini mii ta gi to mo.
@@ -15299,6 +15299,7 @@ Uni mish toŋ kamu/ nyiṯẖ yisa walla gwoŋ kamu/ misha uni ’bana? Uni iiki
 Aha/ ona gwo mo ki: Um a’di itana hakuuma mo, dhali um ta iya/ gi a’di jin Caa e ki Ca mo, aris umi ’baar mo.
 Bahili um ’baar mo mini wu mo me’d ’kwani mo dhali ṯa’k ’ko’da ’cesh me’d iya/ ma maliḵ mo.
 Cuyi mis mo, ayy Arumgimis, dhali dwalli mony’cesh gwo mo haala ris kal gi ’kwaniny’ceshi ’baar mo tani ta kum pini mo be.
+
 Ayy Arumgimis, dhalku/ ki c̱a’b ki shwamm mo. Dhalku/ ki c̱a’bi bu’th moŋḵu’th is pini mo walla di ki shwamm mo, ayy Arumgimis.
 Haali/ hili mo mo ma, ’kwaniŋ ’kup̱ pini uni miikina dulaṯṯ mo. Uni gwansan kun shi/ki /e i e mo tani uni ’deki ’kup̱ buni ki mis mo.
 Uni ’thiki gwonthus ’cesh ap̱o/ ’kwanim pini mmocesh uni mo. Uni ṯorkina ṯor mmonṯal ’de/ ap̱o/ unim pini gun ceshkina /e ka p̱o/ mo.
@@ -15344,7 +15345,6 @@ Mo/en jin ṯelu sho’k mo dhali mii jin ta ji ma isiŋ gana/ mo tani uni mini 
 Mo ma isiŋ gana/ midi kash e me’d yi’de/ ’peni mony’cesh mo, dhali mii ma ḵar/e midi hil ka luŋgu’b ’peni momis mo.
 Nye, Tap̱a a’di midi c̱i a’di jin ’boro’d mo, dhali bampam bana a’di midi gwono’d a’di jin midi mara mar is mo.
 Mii ma ḵar/e midi ya ibwambori a’di mo dhali kar ŋaṯgin piti mmota bway mo be.
-
 Ḵa’di ’cem pini mo, ayy Tap̱a, dhali ciḵ aha/ gwo mo, haali/ aha/ hatha’ko’d mo dhali mina mii ta gi to mo.
 ’Tashi mondiki/em pem ’twa/ mo, haali/ aha/ tana wathiŋ gayiin mo. Tayi c̱iŋkinam pini is ki me’d mo, a’di jin gami gwo is e /e mo.
 /E tana Arumgimis pem mo. Miiyi mii ka ’the gom aha/ mo, ayy Tap̱a, haali/ e /e mo tani aha/ gwokina ’twa/ i /e iyula tente/ mo.
@@ -15369,6 +15369,7 @@ E bwaman uni gwansan kun mishki aha/ mo tani aha/ ṯorkina aRahab eya tente/ mo
 Dhali goma Sihyuun mo tani a’di minu o gwo ciki: Jan ’de/ yan dhali jan ’de/ c̱aan dho’thkunu eya yim mo. Haali/ a’di jin Caa e ki Ca ki is piti midi ṯela yim sho’k mo.
 Tap̱a midi deŋa deŋ e mo me’d jin ’kwarkina a’di gway gi ’kwani mo ki: A’di ’de/ yan dho’thkunu imun mo. Doshi ma dhali ’cunycuri yan mo.
 Imanyuḵ gway dhali imansa gara/ o gwo mo ki: Aris mo jin kasha yi’dem pem e mo tani uni ’kon e /e mo.
+
 Ayy Tap̱a, Arumgimis pem, aha/ yuḵkina /e mmowoṯẖ aha/ montee mo. Aha/ gwokina mon’thiny ibwambori /e mo.
 Dhalki mon’thom pem p̱u’dki’d ibwambori /e mo, ḵa’di ’cem pini mmociḵ kom pem mo.
 Haali/ aḵashiram pem a’di ’tu’du/ mo ki monṯo’c bwa mo, dhali mondiki/em pem a’di ḵalkina mo mo mmo’disha Haawiya is mo.
@@ -15440,7 +15441,6 @@ Tap̱a, mane mo/en pinin dhamo/ yin jin ṯelu sho’k mo, a’di jin tana /e is
 Kayi gwo e mo ma, ayy Tap̱a, c̱iŋkinam pini c̱inu gura/ mo be. Kayi gwo e mo ma, ki aha/ ḵalkina asor gi ’kwani gwansan eya bor pem mo,
 a’di jin ṯẖunykina ’kwani kun ta ’kup̱ ki /e ’twa/ is mo, ayy Tap̱a, a’di jin miikina uni ka maḵ mo, ŋaṯgin gi a’di jin ’koshkina /e ki monyca mo.
 Mom’bor mii gom Tap̱a ki sule/ sule/ mo. Amen dhali Amen.
-
 Tap̱a, /e taki jim bam jin ’kona am ’twa/i cine/ mo eya risa nyaḵum yil gi ’kwani mo.
 Nṯwa/a/ ka dhan wosha turga/ ’kokunu mmo’doyu/ ka pije/ mo, walla isi me’dyini jin uḵa /eya ’cesh dhali mony’cesh mo, ’peni mo jin ’konuki/e ki sule/ sule/ ya ye ’ba/ mo itan mo jin ’konuki/ e ki sule/ sule/ ya ye ’ba/ mo tani /e tana Arumgimis mo.
 /E ki ṯu’k wathi/ mmowar ki bu’da’cesh ka nyaŋ’ko’d doḵ/e mo dhali /e ki o gwo mo ki: Doḵku/ ka nyaŋ’ko’d mo, ayy uc̱i gi ’kwaniny’cesh mo.
@@ -15474,6 +15474,7 @@ E me’d buni mo tani uni mini ’de’k /e mo, isi ciki/ ki /e mina sho’k pin
 Haali/ a’di koṯẖki aha/ me’d ki mo/en mo tani aha/ mina ’cuḵ a’di mo. Dhali aha/ mina cesh a’di ka p̱o/ mo haali/ a’di mishki gway pem mo be.
 Ki a’di midi yuḵ aha/ mo tani aha/ mina yuḵ a’di ’twa/ mo, aha/ mina nyaḵ di ki a’di e mo jin ṯoju a’di bwa mo. Aha/ mina ’cwam a’di mo dhali taḵ a’di mo.
 Ki mondiki/e jin tura ’ba/ ki tur mo tani aha/ mina kap̱ a’diya du mo, dhali ṯor a’di bway gi mowoṯẖ pem mo.
+
 A’di ’boro’d mmoc̱i mo jin ’boruwa ’bor bwa i is ki Tap̱a mo, mmoyuḵ gway mmomaŋ gway pini mo, ayy /e jin Caa e ki Ca mo,
 mmobah gwo gom mo/en pini jin ṯelu sho’k mo mon’thamo/ mo, dhali mo ma isiŋ ganam pini mon’thiny mo,
 dhali ki koŋ gway ma dheŋdhenye/ jin ’kon ma shu/i ’kume’d mo jin buḵu ki dar ga yi’c mo dhala dheŋdhenye/ mo, dhali ko jin lukum ma dheŋdhenye/ jin ’kon ma shu/i pesu/ mo be.
@@ -15489,7 +15490,6 @@ Uniŋ ḵar/e uni lugkin me’d cwanyjeṯẖkum mo dhali ca me’da bwanyayiis 
 Uni c̱u’thkunu mo e gu’b gi Tap̱a mo. Uni lugkin ki ṯup̱ ṯup̱ e gu’b ma pije/ jin di ’kup̱ ḵany ma Arumgimis bana mo.
 Uni ’kon naskina/ mmodho’th maman ka dhan buni kun tana uni mo. Uni ’tu’du/ mo ki sule/ ki yiman ki is buni mo dhali ishki dhii/ mo
 mmoṯor eya tente/ ki Tap̱a a’di ta a’di jin ta’da ḵar/e mo, a’di jin ta wosh pem mo, dhali miiŋ kamu/ di’d e a’di yisa jin ush me’d mmonon a’di mmota ḵar/e mo.
-
 Tap̱a a’di jiki’da ji mo. A’di hi’thkunu ki burrinye/ ma maliḵ mo. Tap̱a a’di hi’thkunu is ki burrinye/ mo. A’di ’kamkunu is ki mom’bi’th mo. Nye, mony’cesh a’di ṯelkunu sho’k mo. A’di molu joc̱ ki sule/ sule/ mo be.
 Ḵursi ma maliḵ pini a’di ṯelkunu sho’k mo ’peni kadhamo/ mo. /E idikin ’peni kadhamo/ ki sule/ sule/ mo.
 Agannu/ yi’de/ uni uluc̱kin ki mis mo, ayy Tap̱a, agannu/ yi’de/ uni uluc̱kin ki mis ki ’twam buni mo, agannu/ yi’de/ uni uluc̱kin ki mis ki ’twam buni jin gwokina uni aḵuku/ ḵuku/ mo.
@@ -15585,6 +15585,7 @@ A’di jin thuthi’da mannyaḵ ’dish gu’b piti ’pen ka ḵwal is mo tani
 Aha/ mina hila hil ki mo/en ap̱o/ uni kun ta ku isiŋ gana/ e mony’cesh mo, ki uni mini nyaḵ ’ko ki aha/ mo be. A’di jin yaki’d e bway jin ’konu ki dar gi mii ’ba/ mo tani a’di imidi mii aha/ to mo be.
 Wathiŋ kamu/ jin boṯo’d ki mo ma he’k e isa yempa/ mo tani a’di midi c̱a’bi gu’b pem yisa. Wathiŋ kamu/ jin baha’da ṯor ka yempa/ mo tani a’di mol ṯikir c̱a’b e buŋ’kus pem mo be.
 Mon’thamo/ itan mon’thamo/ mo tani aha/ mina ’ce’d uni sho’k mo, aris uni kun ta thus ki thus kun ’kon e mony’cesh mo, mmo’ciṯẖa ris tonthusi ’baar mo kun miina imanmii uni mo ’peni ’peŋkuman bampa/ gi Tap̱a mo.
+
 Ciḵi mon’thom pem mo ma, ayy Tap̱a. Dhalki kom pem p̱u’dki’di /e mo.
 Dhalku/ ki bag jis/em pini ’peni aha/ mo ka teem pem jin ta’da c̱is ki c̱is mo. Ḵa’di ’cem pini ki aha/ mo. Thoḵi aha/ ’twa/ ishunsan gana/ ka tee jin yuḵkika/ /e mo.
 Haala teem pem a’di peki’d mo me’da ku’d jin ’ciṯẖki ’pen mo dhala simam pem burkin mmowa e ki mo ma gwaṯa/ jin ’thanu o’d jin ’batha’ba’th mo.
@@ -15613,7 +15614,6 @@ Ayy Arumgimis pem, aha/ ona gwo mo ki: Dhalku/ ki bu’th aha/ ’peni mahan mo 
 Uni mini ’ce’d sho’k mo tani hili /e a’di imini ’dim ’kup̱ mo, uni ’baar mo mini wuwa dhagale/ mo me’d burrinye/ jin hidhu i is mo. /E aḵ uni e me’d burrinye/ jin hidhu i is mo dhali uni pekin mo,
 hili /e ta a’di ma ’de/ mo, dhali yil pini mol di ’kup̱ mo.
 Uc̱i gi c̱iŋkinam pini uni mini ’ko ki ’dantar mo. Nyemes gi uc̱im buni ki uni mini dho’th i’ko’d mo tani uni iminu ṯel shoki bwambori /e mo be.
-
 ’Bori Tap̱a mii mo, ayy ḵashiram pem, dhali aris to gwan ’baar mo kun ’kon e aha/ mo, ’bori gway piti mii jin ḵogu mo.
 ’Bori Tap̱a mii mo, ayy ḵashiram pem mo, dhali dhalku/ ki ŋa a’dim piti jin ’dap̱a ’dap̱ mo,
 a’di jin gwamki /e ’pena ris miim pini kun ’coḵa’coḵ mo, a’di jin wac̱ki /e ’pena ris ’ba’th pini mo,
@@ -15807,6 +15807,7 @@ a’di ki wol mowaḵa p̱o/ iya/ gi imaliḵ mo dhali a’di ki dhu uni mmo/ii 
 Hili a’di ki cu uni mis uni kun mini mii ta gi to ’peni mo jin ṯojuwa ṯo’c bwa mo, dhali dhuwa waḵ buni mmowa e ka ma’diny ḵa’bal mo.
 ’Kwani kun dhelel ma du mo tani p̱arki a’di e mo dhali ’kuny bwa mo dhali aris uni kun ta thus ki thus mo tani ’dap̱kunu ’twam buni mo.
 A’diyin jin yuḵayuḵ mo tani dhalki a’di c̱iyi’da hirdhe/ ki to gwansan mo. Dhalki ’kwani hil isi gwo i e mo gom mo/en gi Tap̱a mo jin ṯelu sho’k mo.
+
 Adum pem thosonki is mo, ayy Arumgimis. Adum pem thosonki is mo. Aha/ mina yuḵ gway mo, aha/ mina yuḵ gway mmomaŋa maŋ mo. Meri e mo, aḵashiram pem.
 Meri e mo, ayy adheŋdhenye/ dhala dheŋdhenye/ jin ’kon ma shu/i pesu/ mo. Aha/ mina mer mon’twash/e e mo.
 Aha/ mina c̱i mo jin ’boruwa ’bor bwa i is ki /e mo, ayy Tap̱a, e bwaman ma ris ’kwani mo. Aha/ mina yuḵ gway mmomaŋ /e e bwaman kal gi ’kwaniny’cesh mo.
@@ -15820,7 +15821,6 @@ Kaja a’di imidi shu aha/ bway e ’peŋkuman bampa/ jin ṯenu gwo mo? Dhali k
 Ki diki ta /e iwaḵki aman mo, ayy Arumgimis? /E diki nyaḵ ya ki aman mo, ayy Arumgimis, nyaḵki ’kwani ma meem bam mo.
 Ayy c̱iyi aman mowoṯẖ ’peni ’kup̱ bam mo ma, haali/ mowoṯẖ ’peni ’kwani mo tani ta jim p̱e’th mo.
 Ka Arumgimis mo tani ana mina mii mii kun c̱a’bki koŋ koŋ mo. Haali/ a’di ta a’di jin midi ṯan bway gom ’kwaniŋ ’kup̱ bana mo be.
-
 Dhalku/ ki c̱a’b ki shwamm mo, ayy Arumgimis gom momaŋ pem mo.
 Haali/ ’twa/ gi ’kwani kun ta thus ki thus mo dhali kun he’kkina he’k e mo ḵa’dkina uni ap̱o/ aha/ mo, mmo/o gwo ap̱o/ aha/ ki ’twa/ ma ṯor mo.
 Uni ṯu’bki aha/ ki gwo jin shinuwa shi/ i e mo dhali bu’th aha/ ki dar gi mii mo.
@@ -16329,6 +16329,7 @@ Dika/ ki shi/ uni i e uni gun shi/ki /e i e mo, ayy Tap̱a? Dhali dika/ ki ’te
 Aha/ shi/kina uni i e ki isi shi/ ma shiŋ gana/ i e mo. Aha/ deŋkina uni e moyi mmota ’kup̱ ki aha/ mo.
 Ŋap̱i aha/ ki bur bur mo, ayy Arumgimis, dhali misha dum pem mo. Nyo/i aha/ mo dhali mish gwom pem kun kulumka/ ibwa mo.
 Dhali p̱ari mo e mo waḵki/ tonthusa kamu/ di’d e aha/ mo, dhali shuyi aha/ bway e bway jin ’konuki/e ki sule/ sule/ mo.
+
 ’Cuḵi aha/ mo, ayy Tap̱a, ’peni ’kwani kun ta thus ki thus mo. ’Tashi aha/ ’twa/ mo ’peni ’kwani kun bujurkina bujur mo,
 uni kun thosonki tonthus is eya dum buni mo, dhali bir ’kwani mmo/asa mee ka yempa/ yempa/ mo.
 Uni dhuna le’d buni mmokaaka me’d tasha/ mo, dhali ’twa/ buni ’tu’dkin ka ṯi’d tashan ’thi/ mo. Doshi ma dhali ’cunycuri yan mo.
@@ -16342,7 +16343,6 @@ Dhalki o’d jin ’thanu ka ’cila’th ṯa’kki’da p̱o/ uni mo. Dhalki u
 Dhalku/ ki dhala manthutha thu’th ’pen bway mo mmoṯel mii sho’k e mony’cesh mo. Dhalki tonthus wa’di wathi/ jin bujurki’da bujur ki jahanne/ mo.
 Aha/ misha Tap̱a halki mo jin wo’cki is she/ jin raḵki’d mo, dhali tor gwon dwall ’twa/a ’cesh ki mii ma ḵar/e gom uni gun mini mii ta gi to mo.
 Ka jiŋ gana/ uni gun tana ḵar/e mini c̱i mo jin ’boruwa ’bor bwa i is ki gway pini mo. Dhali uni gun dhelel ma du mini ’ko e buŋ’kus pini mo be.
-
 Aha/ yuḵkina /e mo, ayy Tap̱a. Layu/ ki jahanne/ e aha/ mo. C̱iyi ’cem pini ki ’twam pem mo, ki aha/ yuḵkina /e mo.
 Dhalki mon’thom pem a’di deŋu e me’da ku’da ’bicajwahar ibwambori /e mo, dhali mo jin ’de’kka/ me’d pemi mis mo me’d to jin ’ciṯẖu/ ’kus mom’pimpili/ mmomiiya bas mo.
 Kari mo jin jinuwa ji ap̱o/ ’twam pem mo, ayy Tap̱a, doshi mmotima campur gi ’twam pem mo.
@@ -16353,6 +16353,7 @@ Me’d wosh jin koṯẖkina jan ṯal ’de/ me’d mo dhali shaṯ uni ap̱owa
 Hili em pem di’d ’kup̱ ki /e mo, ayy Tap̱a Arumgimis. E /e mo tani aha/ simmkina mo jin hurga/ jwa e mo. Dhalku/ ki dhal aha/ me’d wathi/ jin dar gi mo jin ceshuwa cesh ka p̱o/ mo.
 Noni aha/ ’twa/ mo ’pena gume/ jin ’thikina uniya ’cesh gom aha/ mo, dhali agume/ gi uni kun mii tonthus mo.
 Dhalki imanmii tonthus ṯa’kkini monṯal ’de/ agumem buni mo ki aha/ dina mmoye mo.
+
 Aha/ gwokina ki ’twam pem e Tap̱a mo, ki ’twam pem mo tani aha/ ’thokina to ka di’b me’di is e Tap̱a mo.
 Aha/ gac̱a mom pem jin walka/ a’thup̱uny ’twa/ e bwambori a’di mo. Aha/ ṯora tom pem kun ṯoci aha/ bwa ibwambori a’di mo.
 Ki shi/in pem ’thikina buye/ mo tani /e mishki bway pem mo. E bway tur jin yaka/ mo tani uni bagkina gume/ gom aha/ mo.
@@ -16360,7 +16361,6 @@ Aha/ hilkina mo ki ’bana bim poros mo dhali tim mo mo, hili jaŋkamu/ yisa di�
 Aha/ gwona ’twa/ e /e mo, ayy Tap̱a. Aha/ ona gwo mo ki: /E ta jim pem jin hurga/ jwa icine/ mo, tom pem jin ’tuntulka/ bwa ime’d mo, a’di jin di’d nyaḵki ’kwani kun ’kon ki e e mony’cesh mo.
 C̱iyi ahirdhe/ ki gwom pem mo, haali/ aha/ gunu ka luŋgu’b gana/ mo. ’Cuḵi aha/ mo ’peni imanṯo’c aha/ bwa mo, haali/ uni ’bitha’bi’th gom aha/ mo mmobol aha/ e mo.
 Susi aha/ ka pije/ ’pena sijin mo, ki aha/ mina ’taki c̱i mo jin ’boruwa ’bor bwa i is ki gway pini mo. ’Kwani kun tana ḵar/e mini ’kam aha/ mo haali/ /e mini ṯu/ul dhan mo jin isha to ka enthus gom aha/ mo.
-
 Ciḵi mon’thom pem mo, ayy Tap̱a. Dhali c̱iyi ’cem pini ki tom pem kun ’thoka/ ka di’b me’di is mo. E mii ma isiŋ ganam pini mo tani thoḵi aha/ ’twa/ mo, e mo ma ḵar/em pini mo.
 Dhalku/ ki cic̱ mo e mo jin dwallu gwo nyaḵki c̱iŋkinam pini mo haali/ wathiŋ kamu/ yisa di’da jin di’d ki e jin ta’da ḵar/e ibwambori /e mo.
 Haali/ wathi/ jin ta ’kup̱ mo tani a’di urki aha/ isho’k mo. A’di yap̱ki mondiki/em pem ki sho’k itaga ’cesh mo. A’di ki kar aha/ mmoc̱a’b e mondhurumi’d mo me’d uni gwansan kun wukin ki wuŋ gana/ mo.
@@ -27691,7 +27691,7 @@ Haali/ a’di gi wakan tani ki to gwansan minu mol waṯ mo dhali um mini mii ta
 Haali/ um suski ’kwani gwansan imahan mo kun ’koki ta ’kwani kun ḵwali to ’peni gu’b kun luŋu to mo dhali uni si’da/ ’koki ta ’kwani gun wali gwo sor ap̱owa dhan tony caagam bana yan jin luŋu mo be.
 Waḵka Dimiṯriyuus si’da/ dhali tap̱aŋ ’kwani kun ta gi gwocon kun nyaḵ ’ko ki a’di mo ta gi gwo ap̱o/ wathiŋ kamu/ mo tani acim dhunu mo gom gwon dwall mo dhali iwaḵiil ’kon si’da/ mo. Dhalki uni yer is buni gway ka rem ’kup̱ mo ma.
 Hili waḵki/ um ŋap̱i toŋ kamu/ gom gwon tiya kun doṯu/ mo tani a’di minu thoson mo e montul is yan jin yuḵuwa yuḵ mo.
-Haali/ ka jiŋ gana/ ana ’kona e mo jin ṯagu wu mo e mo jin yeru is ki gway mo gom mo jin doshu ka nyora ṯal ’de/ ki bimbir ka cim yansan mo dhali mmomiinu a’di mo ka wuny is ’te/ mo. Dhali gom a’di yan mo tani ana mina mol gwo thoḵ goma nyor yan jin deḵu/ mo.
+Haali/ ka jiŋ gana/ ana ’kona e mo jin ṯagu wu mo e mo jin yeru is ki gway mo gom mo jin doshu ka nyora ṯal ’de/ ki bimbir ka cim yansan mo dhali mmomiinu a’di mo ka wuny is ’te/ mo. Dhali gom a’di yan mo tani ana mina mol gwo thoḵ goma nyor yan jin deḵu/ mo. Dhali ki a’di daḵki gwo o kan tan mo tani a’di si’da/ ’cuḵki montul is mo be.
 Dhali ’ko’di mo jin doshu ka nyora ṯal ’de/ ki bimbir daḵu/ mo tani aBuulus mmohashkina a’di imanciḵ gwo mo dhali mmomalaskina a’di uni ki gwo mo tani a’di ki bu’th moyam piti ’peni uni mo dhali a’di yaki’d mo e Pam Makiduniyya mo be.
 Dhali ki a’di yaki’d ki tur mo mmo’ciṯẖ ’ban gwansan mo tani a’di c̱iki uni gwo gom momalas ki nyanye/ mo dhali a’di p̱u’dki’d mo e Paŋ Griḵi mo be.
 Dhali ki a’di c̱a’bki’d ka ppe ’kup̱i kwara imun mo tani awu’th karkina ’Kwani Yahuuda/ mo ap̱o/ a’di mo. Ki a’di murki’di ya eya ḵur yi’de/ jin bela ’tham mo ki bway gi Pan Suriyya mo tani a’di dina gwo mbwa mmodoḵ ki tur ka nyaŋ’ko’d mo e Pam Makiduniyya mo be.
